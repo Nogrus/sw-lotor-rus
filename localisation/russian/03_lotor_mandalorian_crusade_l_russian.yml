@@ -1,0 +1,240 @@
+﻿l_russian:
+ cant_remove_mandalore: "$TRIGGER_FAIL$§RWe can't dismiss Mandalore.§!"
+ cant_remove_mercy_corps: "$TRIGGER_FAIL$§RWe can't dismiss Mercy Corps Admirals.§!"
+ em_lotor_crisis_naval_buff_ai: "§RSmall Map - Crisis Naval Capacity Buff§!"
+
+ casus_belli_cb_mandalorian_crusade: "Crusade"
+ war_goal_wg_great_crusade: "Great Crusade"
+ war_goal_wg_great_crusade_desc: "Guided by a vision from a mysterious emissary, our Mand'alor will lead our people in conquering those who oppose us!"
+
+ casus_belli_cb_crisis_remnants: "Crusade"
+ war_goal_wg_crisis_remnant: "Crusade Remnants"
+ war_goal_wg_crisis_remnant_desc: "War is waged to totally destroy the §HMandalorian Crusade Remnants§! and take over their planets.\n\n§YTotal war§! that can only end with either side's destruction."
+
+###################################
+###                             ###
+### Mandalorian Crusade Events  ###
+###                             ###
+###################################
+
+ leader_trait_lotor_ruler_lord_of_clans: "Lord of the Clans"
+ leader_trait_lotor_ruler_lord_of_clans_desc: "A vision of the future reveals a prosperous destiny for the clans and a legacy that will live on for generations."
+ leader_trait_lotor_story_character: "Important Character"
+ leader_trait_lotor_story_character_desc: "This character is important for certain story events."
+ enclave.2.tooltip.lotor: "§HStory Characters§! cant form Mercenary Enclaves."
+
+ leader_trait_lotor_mandalore_inspiration: "March Forward, for Mandalore!"
+ leader_trait_lotor_mandalore_inspiration_desc: "§YMand'alor the Ultimate§! can inspire devotion to his cause through his charismatic persona leading to better performance with his ship combat abilities."
+
+ leader_trait_lotor_vaiken: "The first Grand Moff"
+ leader_trait_lotor_vaiken_desc: "Grand Moff Vaiken serves the Imperial military through his engineering prowess and tactical ingenuity."
+ mod_planet_soldiers_unity_produces_mult: "£unity£ $unity$ from £job_soldier£ $job_soldier_plural$"
+
+ planets_occupied: "Planets Occupied"
+
+ mandalorian_crusade_chain_title: "The Great Crusade"
+ mandalorian_crusade_chain_desc: "Following a prophecy foretold by a mysterious Sith emissary and his own ambitions, Mandalore the Ultimate rallies the clans and embarks on a path of conquest towards the Core.\n\n§HNote§!: use to the §YCrisis Menu§! at the top-right of your screen to access further objectives."
+
+ mandalore_diplo_header: "§H[event_target:mandalorian_space.GetRulerTitle]§! §Y[event_target:mandalorian_space.GetRulerName]§!"
+ lotor_mandalorian_crisis.2.desc: "This is §HMandalore the Ultimate§!, leader of all the clans in the §H[From.GetName]§!.\nYou may have seen us as nothing but an annoying womp rat in the annals of history after the defeat of §YMand'alor the Indomitable§!. I am here to prove you wrong. I have seen visions showing me a future where all species of the galaxy follow the way and don beskar'gam. Soon our vode will come crashing down on your worlds to ensure you too follow the way. No matter if you live in the deepest sections of the core or the farthest flung areas of the Outer Rim, you will bend to our will. Don't make it too easy for us though, there is no honor in a one sided beat down."
+ lotor_mandalorian_crisis.2.a: "You do not scare us."
+ lotor_mandalorian_crisis.2.b: "Prepare our defenses."
+
+ lotor_em_preparing_for_war: "Preparing for War"
+ lotor_em_preparing_for_war_desc: "Our leaders have decided to start preparing for war based on rumors surrounding Mandalore the Ultimate. If they turn out to be nothing we will have at least enhanced our own defenses for any other threats."
+
+ mod_shipclass_military_build_speed_mult: "Military Ship Build Speed"
+
+# Crusade Start
+ lotor_mandalorian_crusade.20.name: "Opening Move"
+ lotor_mandalorian_crusade.20.desc: "After extensive preparations, the Neo-Crusaders are ready for war.\nThe §HMand'alor§! rallies the clans for his great crusade against our enemies. Warriors from across the clans have trained tirelessly, and our recruits have fully embraced our ways. It is finally time for our enemies to pay for betraying and humiliating us in the Great Shadow Crusade.\n\nWhile our true goal lies in taking the corrupt §HRepublic§! that lies in the core, we may wish to test our strength against our immediate neighbors first."
+ lotor_mandalorian_crusade.20.a: "§RIb'tuur jatne tuur ash'ad kyr'amur!§!"
+ lotor_mandalorian_crusade.20.a.tooltip: "§LToday is a good day for someone else to die!§!\n\nEnables the §H$war_goal_wg_great_crusade$§! §RWar Goal§!."
+
+ lotor_mandalorian_crusade.21.name: "To §YCathar§!!"
+ lotor_mandalorian_crusade.21.desc: "After running routine scans, we have detected the presence of a previously unexplored solar system, and it seems one of the planets is inhabited by some militaristic primitives. This world will serve as an excellent training ground and source of recruits."
+ lotor_mandalorian_crusade.21.a: "§RTraat'aliit gar besbe'trayc.§!"
+ lotor_mandalorian_crusade.21.a.tooltip: "§LThe squad is your weapon.§!\n\nHyperlane to §YCathar§! created."
+
+ lotor_mandalorian_crusade.22.name: "§YCathar§! Reached"
+ lotor_mandalorian_crusade.22.desc: "We have reached the §YCathar§! system and established an outpost. §HMand'alor the Ultimate§! has ordered §HField Marshal Cassus Fett§! to lead the subjugation of §YCathar§! and establish a base of operations for his Neo-Crusaders."
+ lotor_mandalorian_crusade.22.a: "Excellent."
+
+# Fall of Cathar
+ lotor_mandalorian_crusade.23.name: "Serving Revenge"
+ lotor_mandalorian_crusade.23.desc: "§HField Marshal Cassus Fett§! and his Neo-Crusaders have successfully subjugated §YCathar§! with their limited orbital defenses quickly dispatched by our fleets and our ori'ramikad wiping out their armies with brutal efficiency. Those who survived were rounded up along the coastline and purged, except a few who escaped on the last few transport ships that remained planetside.\n\nWith the subjugation of §YCathar§! completed, §HFett§! has taken the liberty of ordering some of his Neo-Crusader fleets to begin raiding §YHutt§! and §YTion§! space. He suggests conquering §YTaris§! would be the next logical step in our Crusade against the §BMid Rim§! and, eventually, the §BGalactic Core§!.\n\nThe weight of our beskar shall crush all those who stand against us!"
+ lotor_mandalorian_crusade.23.desc.war: "§HField Marshal Cassus Fett§! and his Neo-Crusaders have successfully subjugated §YCathar§! with their limited orbital defenses quickly dispatched by our fleets and our ori'ramikad wiping out their armies with brutal efficiency. Those who survived were rounded up along the coastline and purged, except a few who escaped on the last few transport ships that remained planetside.\n\nWith the subjugation of §YCathar§! completed, §HFett§! has taken the liberty of ordering some of his Neo-Crusader fleets to begin raiding §YHutt§! and §YTion§! space. He suggests conquering §YTaris§! would be the next logical step in our Crusade is to focus more of our forces against the §BMid Rim§! and, eventually, the §BGalactic Core§!.\n\nThe weight of our beskar shall crush all those who stand against us!"
+ lotor_mandalorian_crusade.23.a: "§RAruetyc runi'la solus cet o'r prudii an!§!"
+ lotor_mandalorian_crusade.23.a.tooltip: "§LEvery last traitorous soul shall kneel in our shadow.§!"
+
+ lotor_mandalorian_crusade.24.name: "Cathar Falls"
+ lotor_mandalorian_crusade.24.desc: "§Y[Root.GetRulerTitle]§!, we bring you troubling news. The rumors about the Mandalorians massing together have turned out to be accurate. To make things worse, we've received reports that the Mandalorians have already conquered the planet of §YCathar§! and put their population on the brink of total extinction. Very few have escaped their wrath and have scattered throughout the known galaxy."
+ lotor_mandalorian_crusade.24.desc.war: "§Y[Root.GetRulerTitle]§!, despite the §YGalactic Republic's§! best efforts to stop §HMandalore the Ultimate§! §YCathar§! has fallen to the Mandalorian Crusaders. The local population on §YCathar§! is facing total extinction due to the §YRepublic's§! incompetence. Very few have escaped the Mandalorian's wrath and have scattered throughout the known galaxy."
+ lotor_mandalorian_crusade.24.desc.sith: "My lord, an interesting new development regarding the Mandalorians' new crusade has come to our attention. A fleet under the command of §HCassus Fett§! has sieged §YCathar§! and purged nearly all of the inhabitants, though it seems a few managed to get off-world. There is no chance that the §HRepublic§! and §YJedi§! will allow the slaughter to continue unchecked.\n\nThe inevitable conflict will only make us stronger."
+ lotor_mandalorian_crusade.24.desc.sith.war: "My lord, an interesting development regarding the Mandalorians' new crusade has come to our attention. A fleet under the command of §HCassus Fett§! has sieged §YCathar§! and purged nearly all of the inhabitants, though it seems a few managed to get off-world.\n\nThe conflict between this Mandalorians and the §YGalactic Republic§! will surely intensify and serve to make us stronger."
+ lotor_mandalorian_crusade.24.a: "We need to act and provide aid to any refugees."
+ lotor_mandalorian_crusade.24.b: "Quite a shame...Anyways"
+ lotor_mandalorian_crusade.24.sith_response: "Everything is going as planned..."
+
+# Fall of Taris
+ lotor_mandalorian_crusade.25.name: "A Final Revenge"
+ lotor_mandalorian_crusade.25.desc: "Today the last bits of resistance in the §YUndercity of Taris§! have been defeated. This is a great day for our brave Neo-Crusaders who have proven we can adequately fight in urban terrain. Eventually the people of §YTaris§! will learn the way and join our vode, whether they know it now or not.\n\nThe time has come to direct our full attention to the §BCore§!, for too long they have avoided the weight of our beskar. Win or lose, we have guaranteed that we will be remembered for centuries to come.\n\nTo victory! For the glory of the §HMand'alor§!!"
+ lotor_mandalorian_crusade.25.desc.war: "Today the last bits of resistance in the §YUndercity of Taris§! have been defeated. This is a great day for our brave Neo-Crusaders who have proven we can adequately fight in urban terrain. Eventually the people of §YTaris§! will learn the way and join our vode, whether they know it now or not.\n\nThe time has come to direct our full attention to the §BCore§!. Our skirmishes with the §YGalactic Republic§! so far have not satisfied §HMand'alor the Ultimate's§! blood lust. Win or lose, we have guaranteed that we will be remembered for centuries to come.\n\nTo victory! For the glory of the §HMand'alor§!!"
+ lotor_mandalorian_crusade.25.a: "One step closer to the §BCore§!."
+
+ lotor_mandalorian_crusade.26.name: "Worrying Developments"
+ lotor_mandalorian_crusade.26.desc: "Holonet reports have indicated the planet of §YTaris§! has fallen to §HMandalore the Ultimate§!. Unlike previous targets, the §YTaris Civil Authority§! had a modern military force that should've been able to repel the invaders.\n\nWhile we can continue to hope that the Mandalorians keep to themselves in the §BMid Rim§!, they have claimed every intention to take the §BCore§! all the way to §YCoruscant§!.\n\nMembers of the Senate are under increasing pressure to do something against this growing threat."
+ lotor_mandalorian_crusade.26.desc.war: "Holonet reports have indicated the planet of §YTaris§! has fallen to §HMandalore the Ultimate§!. Unlike previous targets, the §YTaris Civil Authority§! had a modern military force that should've been able to repel the invaders.\n\nIt is a worrying sign for the rest of the §BCore§! who have failed to stop §HMandalore the Ultimate§! in the Mid Rim. §YCoruscant§! and the rest of the §YGalactic Republic§! must redouble their efforts against this threat.\n\nMembers of the Senate are under increasing pressure to provide more military funding to increase the intensity of our war."
+ lotor_mandalorian_crusade.26.a: "We have to think of something!"
+
+# Fall of Onderon
+ lotor_mandalorian_crusade.28.name: "The Crusade Continues"
+ lotor_mandalorian_crusade.28.desc: "The city of §YIziz§! has broken to the might of our §HMand'alor§! in a bloody siege. We can finally wipe away the shame and humiliation of §YMand'alor the Indomitable§!'s previous defeat here. Morale amongst our troops is at an all-time high and a fresh wave of Mando'ade is expected to join our cause. After a brief celebration, it is time we show the foolish §HRepublic§! what we're made of.\n\nMultiple §BCore Worlds§! are now accessible to us through §YOnderon§!'s hyperlanes. All we have to do is pick a target."
+ lotor_mandalorian_crusade.28.desc.war: "The city of §YIziz§! has broken to the might of our §HMand'alor§! in a bloody siege. We can finally wipe away the shame and humiliation of §YMand'alor the Indomitable§!'s previous defeat here. Morale amongst our troops is at an all-time high and a fresh wave of Mando'ade is expected to join our cause. After a brief celebration, our soldiers are determined to continue the fight against the §HRepublic§!. They have so far been ineffective in slowing our crusade across the stars.\n\nMultiple §BCore Worlds§! are now accessible to us through §YOnderon§!'s hyperlanes. All we have to do is pick a target."
+ lotor_mandalorian_crusade.28.a: "To §HCoruscanta§!!"
+
+ lotor_mandalorian_crusade.29.name: "Fear Grows"
+ lotor_mandalorian_crusade.29.desc: "A panic has spread throughout the §YGalactic Republic§! with the news that the planet of §YOnderon§! has fallen to §HMandalore the Ultimate§!. Seeing as Onderonian forces were responsible for §YMandalore the Indomitable§!'s defeat, many in the §YRepublic§! were hoping the same feat could happen again without our direct intervention.\n\nWith multiple §BCore Worlds§! now in range of §HMandalorian§! fleets, the populace inside the §YRepublic§! is demanding we take action. Others are fleeing to the south to avoid the coming storm."
+ lotor_mandalorian_crusade.29.desc.war: "A panic has spread throughout the §YGalactic Republic§! with the news that the planet of §YOnderon§! has fallen to §HMandalore the Ultimate§!. Seeing as Onderonian forces were responsible for §YMandalore the Indomitable§!'s defeat, many in the §YRepublic§! were hoping the same feat could happen again. Especially seeing as the §YRepublic's§! current battle plans have failed to thwart Mandalorian aggression through the Mid Rim.\n\nWith multiple §BCore Worlds§! now in range of §HMandalorian§! fleets, the populace inside the §YRepublic§! is demanding we take stronger action. Others are fleeing to the south to avoid the coming storm."
+ lotor_mandalorian_crusade.29.desc.sith: "My Lord, our investment in §HMandalore the Ultimate§! has already paid off. It has come to our attention that the planet of §YOnderon§! in the §BMid Rim§! has fallen. We can already sense the fear of the §BCore Worlds§! and can feed upon that energy for our own purposes. Surely the rotting §YRepublic§! cannot continue to ignore the genocide now that it is on their doorstep.\n\nAt this point, conflict between the major powers is inevitable and the death toll will only continue to rise. Our power and strength will only increase from the bloodshed until we are invincible."
+ lotor_mandalorian_crusade.29.desc.sith.war: "My Lord, our investment in §HMandalore the Ultimate§! has already paid off. It has come to our attention that the planet of §YOnderon§! in the §BMid Rim§! has fallen. We can already sense the fear of the §BCore Worlds§! has grown and can feed upon that energy for our own purposes. Surely the rotting §YRepublic§! cannot continue to throw half their forces against the genocide now that it is on their doorstep.\n\nAt this point, the increasing conflict between the major powers is inevitable and the death toll will only continue to rise. Our power and strength will only grow from the bloodshed until we are invincible."
+ lotor_mandalorian_crusade.29.a: "We can no longer ignore this."
+ lotor_mandalorian_crusade.29.sith: "Gooooood..."
+
+ lotor_mandalorian_crusade.30.name: "The End... for now"
+ lotor_mandalorian_crusade.30.desc: "Congratulations! You have led the §HMandalorian Crusade§! through all current story content!\nFeel free to take the rest of the galaxy at your leisure.\n\nFuture updates will have more content down the road!"
+ lotor_mandalorian_crusade.30.a: "We'll watch your career with great interest!"
+
+ MANDO_CRUSADE_DXUN: "Onderon In Our Sights"
+ MANDO_CRUSADE_DXUN_DESC: "Dxun is the ideal place for our warriors to begin their attack against Onderon. It won't take much for us to overwhelm the Onderonians and with this assault, we will have our vengeance for the death of Mandalore the Indomitable."
+
+ lotor_mandalorian_crusade.50.name: "The Attack From Dxun"
+ lotor_mandalorian_crusade.50.desc: "Our crusaders are ready to strike. With fleets coming from Mandalore and strike force preparing on the jungle moon, we will catch the Onderonians off guard. Soon, our warships and Basilisk war droids will darken the skies. It is up to them if they want to submit to the will of our Mand'alor or die defending their pitiful world from our vast and superior forces."
+ lotor_mandalorian_crusade.50.a: "Ib'tuur jatne tuur ash'ad kyr'amur!" # Mando'a for Today is a good day for someone else to die
+ lotor_mandalorian_crusade.50.b: "Call off the attack, we will approach this a different way..."
+
+ lotor_mandalorian_crusade.51.name: "Triumph Over Onderon"
+ lotor_mandalorian_crusade.51.desc.tribute: "After a lengthy siege and amassing several casualties, the Onderonians have yielded to our forces. The Onderonian Royal Family has decided to submit to our demands in exchange for an end to hostilities. Their subjugation removes one obstacle on the path to conquest."
+ lotor_mandalorian_crusade.51.a: "Kote Darasuum!" # Mando'a for Glory eternal
+
+ lotor_mandalorian_crusade.52.name: "Unexpected Loss"
+ lotor_mandalorian_crusade.52.desc: "Despite a lengthy siege and several casualties on both sides, we have failed to take control of the city of Iziz. The Onderonians held their lines and fought back wave after wave of our crusaders and destroyed our invasion force. This is just a minor setback."
+ lotor_mandalorian_crusade.52.a: "Dispatch another force!"
+
+ lotor_mandalorian_crusade.1000.name: "Mandalorian Raiding Fleet Detected!"
+ lotor_mandalorian_crusade.1000.desc: "A Mandalorian raiding fleet was detected on the edges of our space. It appears as if they are heading for §H[Root.Capital.GetName]§!"
+ lotor_mandalorian_crusade.1000.a: "Prepare our defenses!"
+
+
+#######################################
+###                                 ###
+### Mandalore the Ultimate Mechanic ###
+###                                 ###
+#######################################
+ lotor_mandalorian_crisis.30.name: "§YMandalore the Ultimate's§! Defeat"
+ lotor_mandalorian_crisis.30.desc: "Despite his vaunted military genius, §YMandalore the Ultimate§! of the §H[From.GetName]§!, has been thwarted in the §Y[mandalore_death_system.GetName] system§!. The armada he was commanding was lost in battle against forces belonging to the brave §H[mandalore_destroyer.GetName]§!. The Crusades reign of terror will pause as the Crusade regroups. Meanwhile, §HMandalore the Ultimate§!, and his closest officers fled into hyperspace in a small shuttlecraft.\n\nEven now, the §HMandalorian Crusade§! is busy assembling a new armada to resume their bloodthirsty campaign. Negotiations are seemingly not an option so our forces must continue to beat them back at every turn. Still, this victory has brought some much-needed respite to those who oppose the §HMandalorian Crusade's§! relentless advance."
+ lotor_mandalorian_crisis.30.a: "Aggressive Negotiations seem to do the trick..."
+ lotor_mandalorian_crisis.30.desc.mando: "Although his military genius has been shown many times over in bringing the clans together, §YMandalore the Ultimate§! has been defeated in the §Y[mandalore_death_system.GetName] system§!. The accursed ge'hutuunse of the §H[mandalore_destroyer.GetName]§! ambushed our beloved leader in a battle that will remembered for centuries to come. Unfortunately, our crusade's conquest of the galaxy will have to slow down, as clan leaders reassess our strategy in our inevitable and relentless march towards the §BCore§! worlds. At the same time, our §HMand'alor§! and his closest clan chiefs have escaped the battle in §Y[mandalore_death_system.GetName]§! and are headed home to §YMandalore§!.\n\nAll Mando'ade that are a part of the §HMandalorian Crusade§! have agreed to redouble their efforts in preparation for the next assault. Despite numerous calls for peace from other nations, we will not falter. The §HMand'alor§! has made it clear we will fight to the last man if we must."
+ lotor_mandalorian_crisis.30.a.mando: "Together vode!"
+
+ lotor_mandalorian_crisis.60.desc: "This is §YMandalore the Ultimate§! of the §H[From.GetName]§!. My defeat at the hands of the pitiful ge'hutuun §H[mandalore_destroyer.GetRealName]§! was only a minor setback - nothing more. The §H[mandalore_destroyer.GetSpeciesNamePlural]§! are brave warriors and worthy opponents, but they, too, will fall before us.\n\nThe tide of history is sweeping across the galaxy, and nothing can stop it. My new armada has already been assembled. I will bring glory to the §YMandalorian Vode§! through the continued conquest of the galaxy."
+ lotor_mandalorian_crisis.60.a: "A second onslaught approaches..."
+
+ lotor_mandalorian_crisis.80.name: "The Death of §HMandalore the Ultimate§!"
+ lotor_mandalorian_crisis.80.desc: "§HMandalore the Ultimate§! has been killed. After his armada was met with defeat a second time in the §B[mandalore_death_system.GetName]§! system, the §HMand'alor§! chose to fight until the end rather than try to escape his flagship a second time when it was destroyed in battle by the §Y[mandalore_destroyer.GetName]§!.\n\nWith their beloved leader gone, a vicious power struggle has erupted in the §H[From.GetName]§!. The Mandalorian warlords are now fighting each other for control over his empire. It remains to be seen who will emerge on top."
+ lotor_mandalorian_crisis.80.a: "And we shall have... peace."
+
+ lotor_mandalorian_crisis.90.name: "The Death of §HMandalore the Ultimate§!"
+ lotor_mandalorian_crisis.90.desc: "Our crews have continued to sift through the wreckage of the §HMand'alor§!'s former flagship. They found a blood-stained mask floating in space and are reasonably certain that this was, in fact, the §HMand'alor's Mask§!."
+ lotor_mandalorian_crisis.90.a: "Good riddance!"
+ lotor_mandalorian_crisis.90.b: "An excellent find."
+
+ lotor_mandalorian_crisis.100.name: "Chaos Reigns"
+ lotor_mandalorian_crisis.100.desc: "With the news §YMand'alor the Ultimate§! has died, Mandalorian warriors are already pointing fingers as to who is responsible for the defeat. For a second time a §YMand'alor§! who saw visions of a great new era was killed before they could achieve greatness. And for a second time the §YMask of Mand'alor§! has been lost to us leaving our clans directionless. Many §YMandalorians§! have moved on believing we need to adopt new traditions to establish a new leader. Others are not ready to move on.\n\nThe §YMandalorian Crusade Remnant§! is determined in following §YMand'alor the Ultimate§!'s vision to the last man. Their leadership will not be satisfied until all beings are wearing beskar'gam. They blame us and all other §YMandalorian Clans§! for surrendering so quickly and have decided we are part of the problem. Although our fleets are in desperate need of repair and our men are exhausted, we have to fight these radicals if we want to survive."
+ lotor_mandalorian_crisis.100.a: "We either fight or we die."
+ lotor_mandalorian_crisis.101.name: "A Celebration Cut Short"
+ lotor_mandalorian_crisis.101.desc: "With the news §HMandalore the Ultimate§! has died, our people can rest easy that Mandalorian warriors can no longer threaten us. Although Mandalorians still have territory, they are too busy fighting amongst themselves for us to concern ourselves. Many Mandalorians have moved on from the vision of §HMandalore the Ultimate§! believing they need to adopt new traditions to establish a new leader. It will take time for them to come up with these new practices giving us much needed breathing room. Unfortunately, others have shown they are not ready to move on.\n\nThe §HMandalorian Crusade Remnant§! is determined in following §HMand'alor the Ultimate§!'s vision to the last man. Their leadership will not be satisfied until all beings are wearing Mandalorian armor. They blame all §YMandalorian Clans§! for surrendering so quickly and have decided §YMandalore§! proper is part of the problem. If the §HMandalorian Clans§! cannot defeat these radicals on their own, we may have to step in and finish the job."
+ lotor_mandalorian_crisis.101.a: "Everything will be fine."
+ lotor_mandalorian_crisis.102.name: "Investment Failure"
+ lotor_mandalorian_crisis.102.desc: "My Lord, with the news §HMandalore the Ultimate§! has died, we can no longer syphon the energies of endless galactic wide conflict through the force. Although Mandalorians still have territory, they are too busy fighting amongst themselves for us to utilize them further. Many Mandalorians have moved on from the vision of §HMandalore the Ultimate§! believing they need to adopt new traditions to establish a new leader. It will take time for them to come up with these new practices making them useless for the foreseeable future. To further complicate matters, other Mandalorians have shown they are not ready to move on.\n\nThe §YMandalorian Crusade Remnant§! is determined in following §HMandalore the Ultimate§!'s vision to the last man. Their leadership will not be satisfied until all beings are wearing Mandalorian armor. They blame all §YMandalorian Clans§! for surrendering so quickly and have decided §YMandalore§! proper is part of the problem. They are too small for us to sponsor another galactic conflict. We will need to wait to see what other opportunities present themselves to spread chaos through the galaxy."
+ lotor_mandalorian_crisis.102.a: "A minor setback..."
+
+ lotor_mandalorian_crisis.410.name: "Liberated Vassals" #Todo
+ lotor_mandalorian_crisis.410.desc: "The death of §HMandalore the Ultimate§! and the destruction of his fleet has brought about the end of this crusade. Once subjugated by the Mandalorians, we are now free from their rule and oppressive control of our society. Rebuilding will take time and the scars of their rule will always be a part of our collective history."
+ lotor_mandalorian_crisis.410.a: "A glorious day for our people!"
+
+###################################
+###                             ###
+###    Mandalorian Crisis Menu  ###
+###                             ###
+###################################
+ mandalorian_crisis_menu: "Mandalorian Crisis Menu"
+ lotor_mandalorian_crisis_menu.10.name: "Mandalorian Crisis Menu"
+ lotor_mandalorian_crisis_menu.10.desc.a: "Mando'ade culture dictates we battle the worthiest of foes to provide glory to our people. The larger the foe, the deeper the pride we feel when defeating them. Even if we were to somehow fall to you or your allies, we will find solace in the fact that the fight was worth remembering. When you witness the battles we fight, the trillions we kill, the worlds we destroy elsewhere, know that Mandalore the Ultimate will test our resolve against you too aruetiise. It's only a matter of time."
+ lotor_mandalorian_crisis_menu.10.desc.b: "Our akaan'ade marches towards your precious worlds with a single goal, the kyr'am of your way of life. The scores of bes'uliik raining down from above will darken the sky of every colony you own. You cannot escape your fate, one day soon you will kneel before the glory of Mand'alor. Or you could be a di'kut and die trying to stop us. Either way the destiny of the Mando'ade lies in fighting you."
+ lotor_mandalorian_crisis_menu.10.desc.c: "Our enemies are powerless to stop our inevitable conquest of the galaxy. With every planet we force to submit to our rule, we are one step closer to the core and Coruscant. It is our jate'kara that Mandalore the Ultimate will bring about a new age for our people. We will conquer our enemies and force them to submit, and by doing so, we shall achieve mandokar. Millennia from now, the living descendants of our enemies will don beskar'gam and fight for a future Mand'alor."
+ lotor_mandalorian_crisis_menu.10.desc.d: "We have begun to take our first steps on the road to Coruscant. This morning some of our strongest bes'uliik riders, led by Cassus Fett, landed on top of the aloriya that once belonged to the Cathar people. At the same time, our cruisers obliterated any other resistance centers thy could have organized from the opposite side of the planet.\nIn the smoldering ruins of Cathar, signs of a glorious rebirth can already be seen. The survivors of their kind will have no choice but to serve Mand'alor as we turn our gaze to the south.\nThere can be no doubt that this pathetic battle has done nothing to sate our lust for war."
+ lotor_mandalorian_crisis_menu.10.desc.e: "I am Cassus Fett and today I have a message for any who still doubt Mandalore the Ultimate. We have taken the planet of Taris through fire and blood. No longer can the core worlds offer you safety, no longer can they claim ignorance to the dangers we pose! Those who wish to join the Mando'ade in our crusade for the galaxy are welcome. Helmet and armor will be yours—and the way of the warrior will be made known to you. All you must do is rise up against the ge'hutuunse pretending to keep you safe. Taris is but a stepping stone in the path to take what is rightfully our! Coruscant will learn to bend to our might. For Mand'alor!"
+ lotor_mandalorian_crisis_menu.a: "Lore"
+ lotor_mandalorian_crisis_menu.b: "Objectives"
+ lotor_mandalorian_crisis_menu.c: "Requests"
+
+ lotor_mandalorian_crisis_menu.100.name: "Mandalorian Lore"
+ lotor_mandalorian_crisis_menu.100.desc: "We're not huddled in one place, our ideals span the galaxy. We can live without technology, so we will fight with our bare hands if need be. We have no species or bloodline, so as long as someone follows our creed of honor through battle, they may join us."
+
+ lotor_mandalorian_crisis_menu.100.a: "What is the Mandalorian Crusade and its Purpose?"
+ lotor_mandalorian_crisis_menu.100.a.response: "For too long our people have suffered under §YMandalore the Indomitable§!'s humiliating defeat on the moon of Dxun. Guided by visions, §YMandalore the Ultimate§! has seen the path forward to glory. His new vision of society is one where warriors will rule and be supported by farmers, artisans, and manufacturers who accept the Mandalorian way. We must look beyond the Taung if our empire is to flourish."
+
+ lotor_mandalorian_crisis_menu.100.b: "What happened in the Past?"
+ lotor_mandalorian_crisis_menu.100.b.response: "The first Mandalorian Crusaders fought under §YMandalore the Indomitable§! during the Great Sith War many years ago. The bloody campaigns waged by the Taung have served as the first significant expression of the Mandalorian people on the galactic stage. Unfortunately, the sheer number of opponents against us proved too great and the visions experienced by the Mand'alor on the mysterious world of Shogun proved to be nothing more than ramblings of a false prophet. The hundreds of broken Bes'uliiks scattered across the surface of Onderon serve as a reminder of our humiliation. However, we are convinced §YMandalore the Ultimate§! will show us the way to glory!"
+
+ lotor_mandalorian_crisis_menu.100.c: "Who is our Mand'alor and why is he Important?"
+ lotor_mandalorian_crisis_menu.100.c.response: "While searching for the remains of §YMandalore the Indomitable§! on the moon of Dxun, it is said a Taung warrior found the previous leaders mask. The Mask of the §HMand'alor§! was first worn by the Taung warrior §YMand'alor the First§!, carved from the rigid bone of a mythosaur's sternum, and modeled after the facial features of the Taung species. In time, the fabled helm has become the symbol of leadership among our vode. It was passed down through the ages to those Mandalorians who proved themselves worthy of the title of §HMand'alor§!, leader of the Mandalorian clans. As a result of his discovery, §YMandalore the Ultimate§! now has the responsibility of leading our people to victory!"
+
+ lotor_mandalorian_crisis_menu.200.name: "Current Goals"
+ lotor_mandalorian_crisis_menu.200.desc: "As leader of all Mandalorians it is my responsibility to make sure I lead our vode into a glorious new future! Conquering planets, converting alien populations to the way, and defeating mighty foes will go a long way in achieving glory to our people. This is the way!"
+
+ lotor_mandalorian_crisis_menu.200.a: "The Conquest of Cathar"
+ lotor_mandalorian_crisis_menu.200.a.response: "Our akaan'ade is inexperienced. The primitive world of Cathar to the northwest of our empire will serve as an excellent training ground for our recruits. Since the people of Cathar already embrace their militarism, conquering them shall allow us to raise new fleets if necessary.\n\n§HNote§!: A hyperlane will be created from one of our systems to §YCathar§!.\nIf we don't control any of the adjacent systems, the hyperlane will be created after we do.\n\nExpect a lag-spike while the hyperlane gets created."
+ lotor_mandalorian_crisis_menu.200.already_finished: "Objective NOT completed previously" # used in all objectives
+ lotor_mandalorian_crisis_menu.200.already_active: "Objective is NOT already active" # used in all objectives
+ lotor_mandalorian_crisis_menu.200.a.already_taken: "We are NOT the owner of §YCathar§!"
+ conquer_cathar: "Conquer Cathar"
+
+ lotor_mandalorian_crisis_menu.200.b: "The Siege of Taris"
+ lotor_mandalorian_crisis_menu.200.b.response: "Now that the Cathar have been brought to heel, it is time we set our sights on a more worthy opponent. The people of Taris to the west of our empire are a properly modernized empire with an effective military. If we are ever going to take on the Galactic Republic, this invasion will give our akaan the proper urban combat experience necessary to achieve victory."
+ lotor_mandalorian_crisis_menu.200.b.cathar_done: "§YCathar§! objective completed"
+ lotor_mandalorian_crisis_menu.200.b.already_taken: "We are NOT the owner of §YTaris§!"
+ conquer_taris: "Conquer Taris"
+
+ lotor_mandalorian_crisis_menu.200.c: "Revenge on Onderon"
+ lotor_mandalorian_crisis_menu.200.c.response: "The time has come to unleash fury on those who once believed us defeated. The Kings who sit on their thrones in Iziz have forgotten the taste of our beskar'gam. It is time we remind them. We can show the galaxy how serious we really are when our flags fly high from the highest towers of Iziz."
+ lotor_mandalorian_crisis_menu.200.c.taris_done: "§YTaris§! objective completed"
+ lotor_mandalorian_crisis_menu.200.c.already_taken: "We are NOT the owner of §YOnderon§!"
+ conquer_onderon: "Conquer Onderon"
+
+ lotor_mandalorian_crisis_menu.200.d: "Drengir (optional)"
+ lotor_mandalorian_crisis_menu.200.d.response: "Rumors have been spreading regarding an invasive plant species growing restless to the east of our empire. If we were discover a way to use the ancient hyperlanes in that direction our ori'ramikad can have a true test of their skills in the harshest of environments."
+ lotor_mandalorian_crisis_menu.200.d.already_taken: "The §YDrengir§! have NOT already been defeated"
+ conquer_drengir: "Destroy the Drengir"
+
+ lotor_mandalorian_crisis_menu.300.name: "Priority Request"
+ lotor_mandalorian_crisis_menu.300.desc: "What should our Crusade focus on next in order to guarantee victory Mand'alor?"
+ lotor_mandalorian_crisis_menu.300.a: "New vode (5 Year Cooldown)"
+ lotor_mandalorian_crisis_menu.300.a.tooltip: "Will turn up to 5 alien non citizen Pops in our empire into Mandalorians."
+ lotor_mandalorian_crisis_menu.300.a.response: "5 Alien Pops have been turned into great Mandalorians for the cause!"
+
+ lotor_mandalorian_crisis_menu.300.b: "New akaanse (5 Year Cooldown)"
+ lotor_mandalorian_crisis_menu.300.b.tooltip: "Will gather Mandalorians from all over the Galaxy to form several new Armies!"
+ lotor_mandalorian_crisis_menu.300.b.response: "The armies are already on route Mand'alor!"
+
+ lotor_mandalorian_crisis_menu.300.c: "New Fleet (10 Year Cooldown)"
+ lotor_mandalorian_crisis_menu.300.c.tooltip: "Will call for Mandalorians from all over the Galaxy to form a new fleet for the Crusade!"
+ lotor_mandalorian_crisis_menu.300.c.response: "The new fleet is gathering as we speak Mand'alor."
+ lotor_mandalorian_crisis_menu.300.d: "Back"
+ lotor_mandalorian_crisis_menu.300.e: "Sign Off"
+
+ lotor_mandalorian_crisis_menu_recently_asked: "NOT used recently"
+
+ pm_abandoned_colony: "Abandoned Colony"
+ pm_abandoned_colony_desc: "wip, post Crusade Abandoned Colonies"

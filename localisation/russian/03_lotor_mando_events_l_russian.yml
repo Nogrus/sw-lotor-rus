@@ -1,0 +1,286 @@
+﻿l_russian:
+
+
+### Mando Situation: The Way of the Mandalore
+ mando_crusade_shattered: "Shattered"
+ mando_crusade_shattered_desc: "$situation_lotor_mando_crusade_desc.shattered$" #potentially its own text later on
+ mando_crusade_search: "Search for the Mask"
+ mando_crusade_search_desc: "$situation_lotor_mando_crusade_desc.search$"
+ mando_crusade_rebuilding: "Rebuilding"
+ mando_crusade_rebuilding_desc: "$situation_lotor_mando_crusade_desc.rebuilding$"
+ mando_crusade_start: "Start of the Crusade"
+ mando_crusade_start_desc: "$situation_lotor_mando_crusade_desc.start$"
+ mando_crusade_ongoing: "Crusading"
+ mando_crusade_ongoing_desc: "$situation_lotor_mando_crusade_desc.ongoing$"
+
+ situation_lotor_mando_crusade: "The Way of the Mandalore"
+ situation_lotor_mando_crusade_type: "$situation_lotor_mando_crusade$"
+ situation_lotor_mando_crusade_end_effect: "The End of the Crusade"
+ situation_lotor_mando_crusade_end_effect_2: "Onwards towards the Republic!"
+ situation_lotor_mando_crusade_monthly_change_tooltip: "This §YSituation§! will progress towards alternative outcomes based on our selected §YApproach§! and side §YEvents§!."
+
+ situation_lotor_mando_crusade_desc.shattered: "The Crusade with Exar Kun left us leaderless and scattered. The Republic believes itself victorious. Mandalore the Indomitable may be gone, but we will ensure his legacy is not lost to us. We must find his mask."
+ situation_lotor_mando_crusade_desc.search: "Mandalore the Indomitable fell in the battle to conquer Onderon. If we can locate his mask, it will serve to rally all Mandalorians everywhere."
+ situation_lotor_mando_crusade_desc.rebuilding: "Mandalore's mask is ours. While the Republic and their Jedi protectors grow complacent, we will build a new war machine the likes of which has never been seen before. The Galaxy will know to fear us once again."
+ situation_lotor_mando_crusade_desc.start: "Our long years of preparations are nearly over. It is time for our warriors to march on the Galaxy. The so called 'Coruscant of the Outer Rim' of Taris, and our ancient enemies on Onderon shall be the first to face us in battle."
+ situation_lotor_mando_crusade_desc.ongoing: "Not even Mandalore the Indomitable could have anticipated the raw strength we now command. Our warriors are legion. As the Outer Rim bows to our might, so too will we march on Coruscant itself."
+
+### Chapter I - Shattered
+ # A New Dawn
+ lotor_mando_events.10.name: "A New Dawn"
+ lotor_mando_events.10.desc: "The loss of Mand'alor the Indomitable has thrown the various ruling clans into disarray. The clan leaders see the only way out of this predicament is to expand our territory outwards from Mandalore to claim other worlds, starting with sending an exploratory vessel south to reestablish communications with Onderon. Lasting unity will only be achieved if we can reclaim our symbol of leadership, the mask of our previous Mand'alor."
+ lotor_mando_events.10.a: "Understood."
+ lotor_mando_events.10.a.tooltip: "§S$expanding_mandalore_chain_title$§! added to Situation Log"
+
+ expanding_mandalore_chain_title: "Expanding Our Empire"
+ expanding_mandalore_chain_desc: "$lotor_mando_events.10.desc$"
+
+ lotor_mando_events.20.name: "$expanding_mandalore_chain_title$"
+ lotor_mando_events.20.desc: "We've made considerable progress in expanding our presence around Mandalore. All of the clans, from Awaud to Wren, will now have new worlds to prosper on. Our attention should now be focused on reclaiming the mask of Mand'alor on the Onderonian moon of Dxun."
+ lotor_mando_events.20.a: "This is a great day for our vode!"
+
+# Warfleet Tests
+ lotor_mando_events.100.name: "Regaining our Military Prowess"
+ lotor_mando_events.100.desc: "We must begin rebuilding the once proud Mandalorian fleet. The clan leaders have gathered the brightest scientific and military minds from across the clans to help in this endeavor. Our neighbors are clearly seeking to expand their borders; it's time we begin to expand ours."
+ lotor_mando_events.100.a: "Understood."
+
+ MANDO_WEAPON_TEST: "Weapon Configuration Test"
+ MANDO_WEAPON_TEST_DESC: "We have become complacent with our current weapons technology; it's time we upgrade our fleets. Testing current weapon configurations in a mock battle will go a long way in discovering our weaknesses."
+
+ MANDO_CREW_TEST: "Ship Crew Training"
+ MANDO_CREW_TEST_DESC: "Our ship crews have become undisciplined and unused to the rigors of combat following the defeat of Mand'alor the Indomitable; it's time we whip them back into shape. A few mock exercises should do the trick."
+
+ lotor_mando_events.110.name: "Weapon Configuration Finished"
+ lotor_mando_events.110.desc: "Our fleets have completed their weapons testing. The recent upgrades and internal structural changes to our ships have increased their combat efficiency. May our enemies know the strength of the newly improved Mandalorian fleets!"
+ lotor_mando_events.110.a: "Victory awaits us!"
+
+ lotor_mando_events.120.name: "Ship Crews Trained"
+ lotor_mando_events.120.desc: "After finishing countless intensive combat simulations and scenarios, our ship crews are ready to make our enemies quake in fear once again."
+ lotor_mando_events.120.a: "For Mandalore!"
+
+ lotor_mando_events.130.name: "MandalMotors"
+ lotor_mando_events.130.desc: "The recent drills and tests presented us with a plethora of training for our ships and crews. We are now ready to refit our ships and update the crew manuals to align them with our new tactics and strategies.\n\nThe reputable manufacturing company, MandalMotors, has been involved in our recent testing activities. With the conclusion of all testing, they have granted us exclusive contracts to enable the quick restoration of our military."
+ lotor_mando_events.130.a: "An excellent idea!"
+
+# Warlord of Concord Dawn
+ lotor_mando_events.140.name: "Warlord of Concord Dawn"
+ lotor_mando_events.140.desc: "The loss of Mandalore has shattered our people. Where once there was unity, our clans do battle with one another, rather than the true enemy. One of these clan leaders, an upstart warrior named [event_target:mando_concord_dawn_warlord_fleet_leader.GetName], has rallied a significant number of bitter veterans from the last crusade behind their cause, and several damaged battleships have been mustered in orbit over their stronghold at Concord Dawn. We must end this threat if our honor is to remain intact."
+ lotor_mando_events.140.a: "To Battle!"
+
+ lotor_mando_events.150.name: "The Colony"
+ lotor_mando_events.150.desc: "With the destruction of the Warlord's fleet, Concord Dawn now lies back in our hands. While many of its inhabitants may have supported this rebellion, the planet is still a valuable heartworld. What shall we do with the spoils?"
+ lotor_mando_events.150.a: "They will gain no charity from us."
+ lotor_mando_events.150.b: "We will invest in rebuilding."
+
+## Abandoned Warfleet
+ ## Abandoned Warfleet
+ ABANDONED_MANDO_FLEET_PROJECT: "Abandoned Warfleet"
+ ABANDONED_MANDO_FLEET_PROJECT_DESC: "The shattered remains of a Crusader battlefleet lie broken in this system. The secrets of our ancestors may lie within the burned out husks of our past failures. One of our construction ships might be able to provide further insight."
+
+ lotor_mando_events.160.name: "Abandoned Warfleet"
+ lotor_mando_events.160.desc: "Much knowledge was lost when the Republic and their Jedi protectors forcefully demilitarized our ancestors following the failure of the Crusaders. Analysis of these vessels may provide critical insights in regaining the knowledge needed to restore the Mandalorian fleet to greatness."
+ lotor_mando_events.160.a: "Begin the Study"
+
+ lotor_mando_events.170.name: "Salvaging Operation"
+ lotor_mando_events.170.desc: "Further analysis of the debris field has revealed considerable damage to the remaining spaceframes. Valuable alloys can be found that have avoided picking from scavengers, but recovering them will likely result in the structural failure of the remaining hulks, leaving them unable to be studied. Alternatively, some of our engineers believe we may be able to restore a select few warships to working order with enough investment. How should we proceed?"
+ lotor_mando_events.170.a: "Salvage the Materials"
+ lotor_mando_events.170.b: "Salvage the Technology"
+ lotor_mando_events.170.c: "Repair the Ships"
+ mod_mandalorian_shipyards_boost_adopt: "Restoration of our Forces"
+
+### Chapter II - Search for the Mask
+# Beyond our Borders
+ lotor_mando_events.200.name: "Beyond our Borders"
+ lotor_mando_events.200.desc: "Our last great crusade inflicted many wounds upon our clans, but none have been as deeply cutting as the loss of Mandalore's mask. When our last great leader perished in battle with the Republic, he fell in locations largely unknown to us.\n\nShould we have any hope of reuniting the clans, we must find Mandalore's Mask."
+ lotor_mando_events.200.a: "Begin our Search."
+
+ lotor_mando_mask_location_title: "Locate the Mask"
+ lotor_mando_mask_location_desc: "Mandalore's Mask is our only hope of reunifying our fractured clans and making the Mandalorian people whole again. No expense should be spared in finding it."
+ gather_information_mask: "Gather Information"
+
+ lotor_mando_mask_dxun_title: "The Jungles of Dxun"
+ lotor_mando_mask_dxun_desc: "During the Great Shadow War, Mand'alor the Indomitable led an assault on the jungle moon of Onderon, Dxun; it was there that he was separated from the rest of his forces and vanished into the dense jungle. We have to retrieve the mask to rebuild our empire."
+ 
+ SEARCHING_FOR_MASK_CLUE_PROJECT: "Potential Leads"
+ SEARCHING_FOR_MASK_CLUE_PROJECT_DESC: "Our scouts have uncovered a possible lead in our search for Mandalore's Mask, and Mandalore's final resting place. We will begin our search in one of the great battlefields of the last crusade."
+
+ lotor_mando_events.210.name: "Extract Information"
+ lotor_mando_events.210.desc: "Our scouts are actively working to 'question' the locals on any possible resting locations concerning Mandalore the Indomitable. Several promising leads are pointing us to the wreckage of our ancestors."
+ lotor_mando_events.210.a: "Progress..."
+ lotor_mando_events.211.name: "$lotor_mando_events.210.name$"
+ lotor_mando_events.211.desc: "$lotor_mando_events.210.desc$"
+ lotor_mando_events.211.a: "$lotor_mando_events.210.a$"
+ lotor_mando_events.212.name: "$lotor_mando_events.210.name$"
+ lotor_mando_events.212.desc: "$lotor_mando_events.210.desc$"
+ lotor_mando_events.212.a: "$lotor_mando_events.210.a$"
+
+ lotor_mando_events.220.name: "Onwards, towards Dxun!"
+ lotor_mando_events.220.desc: "Mandalore's Mask lies on the surface of Dxun! Our next objective is clear. While we know what we must do to unify the great clans, Dxun lies thoroughly in the territory of our enemies, and an expedition will require considerable resources to find and recover the mask, resources that may leave us vulnerable on other fronts."
+ lotor_mando_events.220.a: "We have little we can spare."
+ lotor_mando_events.220.b: "Balance our efforts."
+ lotor_mando_events.220.c: "Spare no expense. The future of the Mandalorians depends on it."
+
+ lotor_mando_events.230.name: "The Hunt"
+ lotor_mando_events.230.desc: "During the latter half of the Great Shadow War and our last crusade, Mandalore the Indomitable led an assault on the jungle moon of Onderon, Dxun; it was there where he was separated from his forces and claimed by the vast jungles of the Demon Moon. The Clan Leaders backing the expedition have rallied their full support in recovering his remains and returning them to our homeworld. Should we succeed in finding them, a new Mandalore will be able to rise and reunify our people, ushering them into a new age."
+ lotor_mando_events.230.a: "Finally."
+
+# Searching on Dxun
+ lotor_mando_events.250.name: "Landing Site"
+ lotor_mando_events.250.desc: "The expedition has landed on Dxun in a small clearing previously used as a rally point during Mand'alor the Indomitable's invasion. The surrounding jungle is quiet and still, the only movement and sound coming from the rain. It's as if the jungle is holding its breath, waiting to see what happens next."
+ lotor_mando_events.250.a: "Be mindful of your surroundings."
+
+ lotor_mando_events.260.name: "Crossroads"
+ lotor_mando_events.260.desc: "The heavy rain continues to pour on the expedition team as they explore the dense jungle. After what feels like an eternity in the rain, the expedition discovers a crossroads; one path continues into the dense jungle and the never-ending rain, while the other heads towards the safety of a massive cave. The expedition team still hasn't found any evidence of the Mand'alor and must now choose a path forward."
+ lotor_mando_events.260.a: "Explore the cave and get out of the rain."
+ lotor_mando_events.260.b: "Go deeper into the jungle and hope the rain stops."
+
+ lotor_mando_events.265.name: "Caves"
+ lotor_mando_events.265.desc: "The expedition makes a gruesome discovery as they enter the cave; they are immediately assaulted by the overpowering smell of rotten flesh from the piles of bones scattered on the floor. They ready their weapons in case whatever is responsible is still in the cave. Without warning, a Maalraas comes from the jungle and attacks the group. A chorus of howls and footsteps can be heard from deeper within the cave as more Maalraas charge the expedition."
+ lotor_mando_events.265.a: "Kill those damn things!"
+
+ lotor_mando_events.266.name: "Cave Discovery"
+ lotor_mando_events.266.desc: "After a grueling fight, the pack of Maalraas is eventually killed. With the battle over, the team begins attending to the wounded and burying those who died in battle. The leader decides to have the expedition split, with him and a small group going deeper into the cave to ensure it's safe.\n\nAs they get deeper into the cave, the leader becomes distracted by something reflecting the light of their flashlight in the corner of their eye."
+ lotor_mando_events.266.a: "Could it be...?"
+
+ lotor_mando_events.270.name: "Jungle"
+ lotor_mando_events.270.desc: "The thick jungle canopy provides some much-needed relief from the torrential downpour. While exploring the jungle, the team is startled by the ground suddenly shaking, accompanied by a loud roaring in the distance.\n\nA massive Boma plows through the thicket, instantly crushing some of the group, leaving the survivors to scramble for cover as an ear-splitting screech is heard in response to the sudden commotion. After a few moments of silence, a Drexl crashes through the canopy and attacks the Boma. The ensuing fight lasts for several minutes, with the rest of the expedition hiding in the dense foliage."
+ lotor_mando_events.270.a: "An amazing display of strength between predators."
+
+ lotor_mando_events.271.name: "Jungle Discovery"
+ lotor_mando_events.271.desc: "As the sounds of the fight dies off, the Drexl screeches and starts eating the Boma, ignoring the hiding expedition. After a few minutes, the Drexl finishes its meal and flies away. The team continues into the jungle, searching under every leaf and rock, hoping to get lucky even though it's becoming increasingly unlikely of finding the Mand'alor's remains, especially with such predators around. After a few hours of searching, nothing turns up until the leader spots something glittering in the light of a distant log."
+ lotor_mando_events.271.a: "Could it be...?"
+
+ lotor_mando_events.280.name: "The Ultimate"
+ lotor_mando_events.280.desc: "The Taung leader discovers the mask of §YMand'alor the Indomitable§!. The long-lost symbol of leadership has finally been recovered by the Mandalorians.\n\nAs per ancient traditions, he dons the mask and claims his right as the new Mand'alor.\n\nWe can now leave Dxun to begin the new Mand'alor's reign in earnest."
+ lotor_mando_events.280.a: "A new Mand'alor has finally arisen."
+
+### Chapter III - Rebuilding
+# Vode An
+ lotor_mando_events.305.name: "Preparations"
+ lotor_mando_events.305.desc: "§SThe Great Shadow Crusade§! resulted in the loss of our old leader, §YMand'alor the Indomitable§!, on the moon of Dxun above Onderon.\n\nAfter retrieving the mask from the jungle moon, our new leader, §YMandalore the Ultimate§!, seeks to lift the Mando'ade out of the hole of betrayal and humiliation."
+ lotor_mando_events.305.a: "§RMando'ad draar digu, gra'tua cuun hett su dralshy'a!§!"
+ lotor_mando_events.305.a.tooltip: "§LA Mandalorian never forgets, our vengeance burns brighter still.§!"
+
+ lotor_mando_events.310.name: "Base Building"
+ lotor_mando_events.310.desc: "The various clans that make up the Mando'ade are still scattered, clearly in disarray after the last crusade and need to rebuild. They shall need a place to come together and rally when the Mand'alor beckons./nThe base of operations from the previous crusade is no longer adequate; a new one will need to be established."
+ lotor_mando_events.310.a: "Establish a base on §H[Root.Capital.GetName]§!"
+ lotor_mando_events.310.b: "Establish a base on §H[other_planet.GetName]§!"
+
+ d_crusader_outpost: "Crusader Outpost"
+ d_crusader_outpost_desc: "This outpost serves as the heart of the Mandalorian war effort; it also serves as the staging area for §YMandalore the Ultimate§!'s Crusaders."
+
+ lotor_mando_events.320.name: "To Shogun"
+ lotor_mando_events.320.desc: "The remnants of the original clans have begun arriving at the recently constructed outpost and are settling in. The Mand'alor is pleased that they have answered the call but is concerned at how little remain of their previous ranks. Like §YMand'alor the Indomitable§! before him, he departs for the planet Shogun to seek clarity and guidance."
+ lotor_mando_events.320.a: "May he find the answers he is looking for."
+
+ lotor_mando_events.330.name: "The Vision"
+ lotor_mando_events.330.desc: "The Mand'alor has arrived on Shogun and walks through the crystalline landscape. The planet is known for its supernatural elements and bizarre terrain. While walking, he starts to receive a vision. He relives the battle of Onderon and the disappearance of §YMand'alor the Indomitable§! on Dxun. He learns that the ultimate fate of the Taung is extinction, but the traditions and customs that the Taung have lived by will live on long after they're gone.\n\nHis vision continues, showing alien species of the future donning beskar'gam, learning the ways of the clans, and preserving the legacy of the Taung, not as a memorial or tribute but as full-blooded Mandalorians.\n\nThey have given up on their old selves and instead embraced what they could be."
+ lotor_mando_events.330.a: "§RAliit ori'shya tal'din.§!"
+ lotor_mando_events.330.a.tooltip: "§LFamily is more than blood.§!"
+
+ lotor_mando_events.340.name: "Vode An!"
+ lotor_mando_events.340.desc: "§YMand'alor the Ultimate§! returns to the outpost and issues a new decree. With the guidance of Field Marshal Cassus Fett, newly conquered species can be recruited into their ranks and taught the Mandalorian customs if they possess mandokar. They will carry on the Mandalorian traditions and be the first of a new generation of crusaders. With this, Mandalorians will no longer pillage conquered worlds but rather rebuild and develop them."
+ lotor_mando_events.340.a: "§RKandosii sa ka'rta, vode an!§!"
+ lotor_mando_events.340.a.tooltip: "§LOne indomitable heart, Brothers all.§!"
+
+# A Mysterious Emissary
+ lotor_mando_events.350.name: "A Sith Visitor"
+ lotor_mando_events.350.desc: "A strange ship has arrived on Mandalore with mysterious intentions. It appears that a Sith Lord wishes to speak to the §HMand'alor§!, claiming to have a task for him.\nWe have not dealt with the Sith since the Great §HShadow Crusade§! when §YUlic Qel-Droma§! bested §YMand'alor the Indomitable§! in a duel, and our people served underneath his banner.\nHowever, it seems like this Sith Lord has no desire to use us as soldiers."
+ lotor_mando_events.350.a: "An interesting turn of events..."
+
+ lotor_mando_events.355.name: "A Proposal"
+ lotor_mando_events.355.desc: "The Sith emissary arrives with a rather strange request. They are seeking assistance with finding the tomb of their Master's rival. The emissary mentions that he would like the Mand'alor's assistance by accompanying him to Rekkiad and searching the planet for the tomb. Initially, the Mand'alor declines the offer, but his attitude suddenly changes on a whim. He reluctantly accepts the offer and gathers a handful of soldiers to prepare for their departure. The Sith emissary thanks them for their willingness to help and provides coordinates to the planet."
+ lotor_mando_events.355.a: "Very well, we shall head to Rekkiad and begin the search."
+ lotor_mando_events.355.b: "Ensure the Mand'alor and his team is well supplied."
+
+ lotor_mando_events.360.name: "The Frozen Hell of Rekkiad"
+ lotor_mando_events.360.desc: "Rekkiad is a cold, desolate world with towering glaciers and vast mountainous peaks covering the landscape. Despite the bleak surroundings, the weather is surprisingly clear. The Mand'alor arrives and tracks down the Sith's small encampment. The Sith Lord is accompanied by a group of soldiers and archaeologists. They tell Mand'alor that they believe the tomb is situated around a set of massive columns of ice known as the Twin Spears. The Mand'alor examines the map, finding a route mostly clear of steep cliffs and lakes of ice. It will only take a day to reach the Spears based on preliminary observations, provided the weather does not worsen, of course."
+ lotor_mando_events.360.a: "Onwards to the Twin Spears."
+
+ lotor_mando_events.365.name: "The Twin Spears"
+ lotor_mando_events.365.desc: "Both teams begin their trek towards the Twin Spears. The journey is mostly quiet, save for the occasional beeping of the archaeologists' datapads and the hum of repulsor craft. After a few more hours, the teams arrive at the base of the Spears. The Sith Lord has given the Mand'alor the opportunity to choose which Spear they should investigate first."
+ lotor_mando_events.365.a: "Focus on the First Spear."
+ lotor_mando_events.365.b: "Focus on the Second Spear."
+
+ lotor_mando_events.370.name: "At the Top of the World"
+ lotor_mando_events.370.desc: "After clearing the ice and snow around the base of the Twin Spears, the teams find nothing and instead head to the top of the plateaus. Once at the top of the Second Spear, the soldiers and archaeologists, in a rush to get out of the cold and snow, begin haphazardly clearing the layers of ice and snow when suddenly a loud rumbling can be heard.\n\nThe snow begins to slide off the plateau, causing many of the team members to be carried off the edge and fall to their deaths."
+ lotor_mando_events.370.a: "That's unfortunate; check the First Spear."
+
+ lotor_mando_events.375.name: "At the Top of the World"
+ lotor_mando_events.375.desc: "After clearing the ice and snow around the base of the Twin Spears, the teams find nothing and instead head to the top of the plateaus. At the top of the First Spear, soldiers and archaeologists clear the layers of ice and snow. The Mand'alor notices an unusually even area of ground at the center of the pillar."
+ lotor_mando_events.375.a: "We've found it! Inform the others!"
+
+ lotor_mando_events.380.name: "The Tomb"
+ lotor_mando_events.380.desc: "The Mand'alor clears out the area in the center, revealing a small durasteel door. He pries it open and looks down into the darkness, barely able to see the bottom. The emissary comes forward and turns to his men. Stand guard with the Mandalorians, let no one bother us. They nod knowingly, and the emissary motions for the Mand'alor to follow him. Neither of them is quite sure what to expect down once they hit bottom. The tomb has barely any daylight to guide them back to the surface.\n\nThe emissary ignites his lightsaber, lighting up the dark cave with a bloody red glow. The tomb is mostly empty, yet along one of the cave walls sits a sarcophagus. Upon opening it, the corpse of the Sith Master's rival is revealed. 'Dramath the Second, my master is not quite through with you...' The Mand'alor steps forward and looks into the sarcophagus. The emissary turns to the Mand'alor and motions him to return to the surface."
+ lotor_mando_events.380.a: "There is an eerie silence in the tomb."
+
+ lotor_mando_events.385.name: "The Prophecy"
+ lotor_mando_events.385.desc: "As they reach the surface, the emissary's shuttle lands near the entrance of the plateau, and some soldiers stand in formation, awaiting the Sith Lord's orders.\n\n'Bring up the corpse; there is nothing else down there worth taking'. he says bluntly before turning to the Mand'alor.\n\n'Thank you for your assistance, Mandalorian. Before we part ways, my Master had a vision and wishes to share it with you. Your people will fight a worthy enemy in the Republic and your battle with them will be remembered forever. World after world will be crushed under the weight of your mighty beskar.'\n\nThe Sith Lord boards his shuttle with his team, leaving the Mand'alor pondering this prophecy."
+ lotor_mando_events.385.a: "Our work here is done. The Sith are aware of our ambitions..."
+
+ lotor_em_mando_prophecy: "Prophecy of Victory"
+ lotor_em_mando_prophecy_desc: "The years we have spent in isolation, wandering aimlessly across the Galaxy as mercenaries and raiders, is nearly at an end. Our new Mandalore has been granted a great vision of the future. A future involving the greatest battle for supremacy history has ever seen. A chance to do battle against the Republic and their Jedi protectors. The future will not belong to them, but to us. A second great crusade looms on the horizon..."
+
+# A Industrial Based Society
+ lotor_mando_events.390.name: "An Industrial Based Society"
+ lotor_mando_events.390.desc: "For a long time, the so called 'civilized' people of the Galaxy have called us little more than glorified raiders. Unfortunately, there has been some truth to that statement. If we truly wish to build a Mandalorian Empire worthy of ruling the Galaxy, we must first conquer the greatest foe to all great crusaders: logistics. No longer shall we rely on taking what we need from the corpses of our enemies. Instead, we stand posed to build the greatest war economy the Galaxy has yet seen. What shall we focus on first?"
+ lotor_mando_events.390.a: "Focus new districts"
+ lotor_mando_events.390.b: "Focus new buildings"
+
+ lotor_em_mando_buildings: "Building Focus"
+ lotor_em_mando_buildings_desc: "The steel that will fuel our crusade shall be forged in great blast furnaces, unrivaled by the rest of the Galaxy."
+ lotor_em_mando_districts: "District Focus"
+ lotor_em_mando_districts_desc: "The greatest advantage the Republic holds over us is infrastructure. We shall modernize our development across our worlds and forge a new empire."
+
+ lotor_mando_events.392.name: "standardization Request"
+ lotor_mando_events.392.desc: "Much of the technology and equipment we utilize has been taken or purchased from other worlds. Replacement pieces and procuring new items can be difficult as a result. Our resources are admittedly limited. What do we opt to standardize first?"
+ lotor_mando_events.392.a: "Standardize the Districts & Buildings"
+ lotor_em_mando_districts_buildings: "Standardize Building Blueprints"
+ lotor_em_mando_districts_buildings_desc: "Standardized construction methods have eased the logistical burden from our districts and buildings."
+ lotor_mando_events.392.b: "Standardize the Working Equipment"
+ lotor_em_mando_jobs_upkeep: "Standardized Working Equipment"
+ lotor_em_mando_jobs_upkeep_desc: "Better and modernized tools such as fusion cutters and plasma torches have made our workers much more efficient in the great forges."
+
+ lotor_mando_events.393.name: "Industrial Restructuring Complete"
+ lotor_mando_events.393.desc: "Our production capabilities continue to grow in strength. Soon we will have an industrial base to rival the Core Worlds. What should we specialize in the production of?"
+ lotor_mando_events.393.a: "Advanced Production of Alloys"
+ lotor_mando_events.393.b: "Advanced Production of Consumer Goods"
+
+# Reforming our Ranks
+ lotor_mando_events.395.name: "The Mandalorian Question"
+ lotor_mando_events.395.desc: "It has been millennia since our taung ancestors departed Norton. In that time, a question has arisen. Are the Mandalorians merely the Taung people? Or a culture capable of uniting the entire Galaxy? If we limited our recruiting efforts, our people will likely die over generations. By accepting new blood, the Mandalorians will face a new rebirth, one that may stand to benefit the entire Galaxy. Mandalore has already proposed two potential candidates to test this experiment as we prepare for war with the Republic. The Mandallian people, while primitive, possess considerable strength, and the Jakelian's industrial prowess is not to be ignored. Some within the Clans may view this move with skepticism. How should we proceed?"
+ lotor_mando_events.395.a: "Begin the Integration at Once"
+ lotor_mando_events.395.b: "Seek support in our population first."
+
+ MANDALLIANS_MANDO_INTEGRATE_PROJECT: "The Mandallian Giants"
+ MANDALLIANS_MANDO_INTEGRATE_PROJECT_DESC: "The Mandallian Giants earned our respect generation ago when they met our ancestors in battle and emerged victorious. Their culture admires martial strength and honor in much the same way as we do. They would make fine Mandalorians."
+ JAKELIANS_MANDO_INTEGRATE_PROJECT: "The Jakelian Industrialists"
+ JAKELIANS_MANDO_INTEGRATE_PROJECT_DESC: "The Jakelian may not share our martial prowess, but their weapon forging capabilities will prove more than useful for the war that is to come."
+
+ lotor_mando_events.396.name: "The Mandallian Mandalorians"
+ lotor_mando_events.396.desc: "The Giants, after a pitched duel with our emissary, have agreed to join our cause. Even now, many Mandallians are leaving off-world to train with us for the coming crusade."
+ lotor_mando_events.396.a: "Success!"
+
+ lotor_mando_events.397.name: "The Jakelian Mandalorians"
+ lotor_mando_events.397.desc: "While we may have expected resistance from the Jakelian authorities, they have instead pledged themselves to our service. Their weaponsmiths are already beginning to craft new blades for our warriors."
+ lotor_mando_events.397.a: "Success!"
+
+ lotor_mando_events.398.name: "Reinforcements to our Ranks"
+ lotor_mando_events.398.desc: "Mandalore's experiment is a success. What we have witnessed is the birth of a new era for the Mandalorians. This will be the era of the Neo-Crusaders."
+ lotor_mando_events.398.a: "One Step closer..."
+
+### Chapter IV - Start of the Crusade
+
+
+### Other
+ PRELUDE_MANDALORIAN_CRUSADE: "Prelude to the Mandalorian Crusade"
+ PRELUDE_MANDALORIAN_CRUSADE_DESC: "§YMandalore the Ultimate§! received both a vision and a prophecy in the early days of his rule. The vision he received on Shogun revealed the legacy of the Taung in the form of warriors from various species united together as Mandalorians. His reforms led the clans to grow as they prepared for future battles. But it wasn't until he aided a Sith Lord on Rekkaid that his ambitions grew clearer. The prophecy on Rekkaid, as told by a mysterious Sith emissary, implied that his people would fight an opponent in a war that the galaxy will remember forever. The path forward for our people has been revealed through these premonitions. We will show the Republic and their allies the true strength of our beskar'gam!"
+
+ MESSAGE_MANDO_NEW_MANDALORE_TITLE: "A new Mand'alor leads our People!"
+ MESSAGE_MANDO_NEW_MANDALORE: "§YMandalore the Ultimate§! has claimed his rightful throne and is ready to prepare his promised crusade against the weak Republic." # §YPrepare it via the Special Project§!.
+
+ war_goal_wg_reclaim_mandalors_mask: "Reclaim the Mand'alor's Mask."
+ war_goal_wg_reclaim_mandalors_mask_desc: "The Mandalorians seek to retrieve the Mand'alore's mask forcefully."
+ wg_reclaim_mandalors_mask_accept: "The §Y[event_target:theocracy_of_onderon.GetAdj]s§! are forced to allow us access to continue our search for the Mand'alore's mask"
+ mandalore_reclame_mask_title: "$war_goal_wg_reclaim_mandalors_mask$"
+ mandalore_reclame_mask_desc: "$lotor_mandalorian_events.23.desc$\n\n§HWe have unlocked a special war goal that we have to use against Onderon.§!"

@@ -1,0 +1,40 @@
+﻿l_russian:
+
+ HUMAN_ARMY_SEQUENTIAL_infantry_assault_army: "$ORD$ Assault Infantry"
+ HUMAN_ARMY_SEQUENTIAL_light_armored_vehicle_army: "$ORD$ Light Armored Division"
+ HUMAN_ARMY_SEQUENTIAL_heavy_armored_vehicle_army: "$ORD$ Heavy Armored Divison"
+ HUMAN_ARMY_SEQUENTIAL_planetary_assault_craft_army: "$ORD$ Air Support Squadron"
+ HUMAN_ARMY_SEQUENTIAL_droid_infantry_army: "$ORD$ Mark I Assault Droid Detatchment"
+
+ MANDO_ARMY_SEQUENTIAL_infantry_assault_army_mando: "$ORD$ Mandalorian Warriors"
+ MANDO_ARMY_SEQUENTIAL_light_armored_vehicle_army_mando: "$ORD$ Mandalorian Swoops"
+ MANDO_ARMY_SEQUENTIAL_heavy_armored_vehicle_army_mando: "$ORD$ Heavy Walkers"
+ MANDO_ARMY_SEQUENTIAL_planetary_assault_craft_army_mando: "$ORD$ Bes'uliik"
+ MANDO_ARMY_SEQUENTIAL_mandalorian_crusader_army_mando: "$ORD$ Crusaders"
+
+ REPUBLIC_ARMY_SEQUENTIAL_infantry_assault_army_republic: "$ORD$ Republic Infantry Platoon"
+ REPUBLIC_ARMY_SEQUENTIAL_light_armored_vehicle_army_republic: "$ORD$ Republic Light Walkers"
+ REPUBLIC_ARMY_SEQUENTIAL_heavy_armored_vehicle_army_republic: "$ORD$ Republic Tanks"
+ REPUBLIC_ARMY_SEQUENTIAL_planetary_assault_craft_army_republic: "$ORD$ Aurek Fighter Detatchment"
+ REPUBLIC_ARMY_SEQUENTIAL_droid_infantry_army_republic: "$ORD$ Mark IV Assault Droid Group"
+
+ SITH_ARMY_SEQUENTIAL_infantry_assault_army_sith: "$ORD$ Sith Infantry"
+ SITH_ARMY_SEQUENTIAL_light_armored_vehicle_army_sith: "$ORD$ Light Walker Division"
+ SITH_ARMY_SEQUENTIAL_heavy_armored_vehicle_army_sith: "$ORD$ Heavy Armored Tank Division"
+ SITH_ARMY_SEQUENTIAL_planetary_assault_craft_army_sith: "$ORD$ Sith Starfighter Detatchment"
+ SITH_ARMY_SEQUENTIAL_droid_infantry_army_sith: "$ORD$ Sentinel Droid Group"
+
+ HUTT_ARMY_SEQUENTIAL_infantry_assault_army_hutt: "$ORD$ Assault Infantry"
+ HUTT_ARMY_SEQUENTIAL_light_armored_vehicle_army_hutt: "$ORD$ Light Armored Division"
+ HUTT_ARMY_SEQUENTIAL_heavy_armored_vehicle_army_hutt: "$ORD$ Heavy Armored Divison"
+ HUTT_ARMY_SEQUENTIAL_planetary_assault_craft_army_hutt: "$ORD$ Air Support Squadron"
+ HUTT_ARMY_SEQUENTIAL_droid_infantry_army_hutt: "$ORD$ Hutt Security Droid Detatchment"
+
+ HUMAN_ARMY_SEQUENTIAL_jedi_kinght_army: "$ORD$ Jedi Knights"
+ HUMAN_ARMY_SEQUENTIAL_jedi_consular_army: "$ORD$ Jedi Consulars"
+ HUMAN_ARMY_SEQUENTIAL_sith_warrior_army: "$ORD$  Sith Warriors"
+ HUMAN_ARMY_SEQUENTIAL_sith_inquisitor_army: "$ORD$ Sith Inquisitors"
+ HUMAN_ARMY_SEQUENTIAL_jedi_defense_army: "$ORD$ Temple Guard"
+ HUMAN_ARMY_SEQUENTIAL_guardian_corps_army: "$ORD$ Guardian Corps"
+ HUMAN_ARMY_SEQUENTIAL_guardian_corps_commander_army: "$ORD$ Guardian Corps Commander Squad"
+ HUMAN_ARMY_SEQUENTIAL_trandoshan_hunter_army: "$ORD$ Trandoshan Hunters"

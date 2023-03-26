@@ -1,0 +1,2146 @@
+﻿l_russian:
+
+### Technologies
+# Jump Drives
+ tech_lotor_path_engine: "Path Engine"
+ tech_lotor_path_engine_desc: "Path engines are an unorthodox and poorly understood form of hyperspace travel utilized by the Nihil, traversing a hidden network of routes known only as the Paths."
+
+ tech_lotor_rakatan_hyperdrive: "Rakatan Hyperdrive"
+ tech_lotor_rakatan_hyperdrive_desc: "Rakatan hyperdrives are unique in their construction due to their utilization of the Force for power and wayfinding."
+
+ ap_lotor_slave_rigging: "Slave Rigging"
+ ap_lotor_slave_rigging_desc: "A slave circuit was a mechanism that allowed for remote control of a vehicle's systems while using a communications device. In technical vernacular, a vehicle that had a slave circuit installed was slave-rigged. For a vehicle that wasn't slave-rigged, the owner, with a computer and a little programming skill, could set up a temporary slave circuit."
+
+ tech_lotor_slave_rigging: "Slave Rigging"
+ tech_lotor_slave_rigging_desc: "A slave circuit is a mechanism that allows for remote control of a vehicle's systems while using a communications device. In technical vernacular, a vehicle that has a slave circuit installed is referred to as slave-rigged. For a vehicle that isn't slave-rigged, the owner, with a computer and a little programming skill, could set up a temporary slave circuit."
+
+# Society
+ tech_lotor_academies_1: "Broader Recruitment Program"
+ tech_lotor_academies_1_desc: "Improving our education standards for military leadership through drills, specialized training, and military professionalism alongside a broader recruitment program."
+ tech_lotor_academies_2: "New Study Methods"
+ tech_lotor_academies_2_desc: "Special attention is given to the upper echelons of the military, improving their command skills under extreme distress by studying historical examples."
+ tech_lotor_academies_3: "Best of the Class"
+ tech_lotor_academies_3_desc: "A revised syllabus and training emphasis for the military academies will improve the quality of our officers and their crew."
+
+ tech_lotor_working_class_1: "Improved Working Class Conditions"
+ tech_lotor_working_class_1_desc: "Improving the conditions of our workers will not only benefit them, but also benefit production in our empire."
+ tech_lotor_working_class_2: "Improved Specialist Conditions"
+ tech_lotor_working_class_2_desc: "Specialists and skilled labor are the lifeblood of our economy. Improving conditions for these individuals should help production immensely."
+ tech_lotor_working_class_3: "Stable Society"
+ tech_lotor_working_class_3_desc: "A stable mix between worker and specialists secures a balanced economy, which in turn creates a stable empire."
+ tech_lotor_working_class_1_hive: "Swarm Consciousness"
+ tech_lotor_working_class_1_hive_desc: "Increased development through our hive networks increases the cohesiveness of the hive at the expense of slightly increasing drone autonomy"
+ tech_lotor_working_class_2_hive: "Unity of the Swarm"
+ tech_lotor_working_class_2_hive_desc: "By stimulating the brains of the common worker drone, we can more easily increase stability throughout our colonies."
+ tech_lotor_working_class_3_hive: "A Life For The Swarm"
+ tech_lotor_working_class_3_hive_desc: "New drones must submit their lives entirely to the needs of the swarm. Hunter-Seeker drones are tasked with eliminating any deviant drones that do not conform."
+ tech_lotor_hologram_advancements_1: "Environmental Holograms I"
+ tech_lotor_hologram_advancements_1_desc: "New Hologram Technologies allow us to decrease the necessary amenity level a member of our society needs to feel happy by providing alluring distractions."
+ tech_lotor_hologram_advancements_1_hive: "Improved Food Distribution I"
+ tech_lotor_hologram_advancements_1_hive_desc: "Changes in our Food Distribution policies allows for less food waste and improved production chains throughout our colonies."
+
+ tech_lotor_hologram_advancements_2: "Environmental Holograms II"
+ tech_lotor_hologram_advancements_2_desc: "Building on the basics of hologram technology, we are capable of misguiding members of our population into believing they live a healthier lifestyle."
+ tech_lotor_hologram_advancements_2_hive: "Improved Food Distribution II"
+ tech_lotor_hologram_advancements_2_hive_desc: "Further Changes in our Food Distribution will lead to smaller storage areas and improved nutrition absorption across our space."
+
+ tech_lotor_datapads_1: "Basic Datapads"
+ tech_lotor_datapads_1_desc: "A basic information display and handheld computer in a small and handy device. The datapad improves work structures and allows information to be more easily accessible."
+ tech_lotor_datapads_2: "Improved Datapads"
+ tech_lotor_datapads_2_desc: "Building upon the foundation of the basic datapad, next generation models feature additional processing power and expanded functionality."
+ tech_lotor_datapads_1_hive: "Work Regulations"
+ tech_lotor_datapads_1_hive_desc: "By increasing cohesiveness among our worker drones, we are able to minimize the loss of drone assets."
+ tech_lotor_datapads_2_hive: "Work Coordination"
+ tech_lotor_datapads_2_hive_desc: "By better emphasizing the primary goals of the hive, our complex drones can work with less interruptions."
+ tech_lotor_energy_whip: "Energy Whips"
+ tech_lotor_energy_whip_desc: "A reliable way to punish slaves with energy shocks, these handheld weapons are capable of inflicting pain without leaving long-term damages to valuable product."
+
+# Synthetic Empires
+ tech_lotor_micro_replicators: "Micro-Replicators"
+ tech_lotor_micro_replicators_desc: "These microscopic tools can assist our replication units in creating the more complex circuitry needed for new drones."
+
+ tech_lotor_self_assembling_components: "Self-Assembling Components"
+ tech_lotor_self_assembling_components_desc: "Modelled on organic DNA, these microscopic machine intellects are capable of autonomously assembling most components needed for new drones."
+
+ tech_lotor_neuroregeneration: "Neural Tissue Engineering"
+ tech_lotor_neuroregeneration_desc: "When tailored to a species' genome, this form of tissue engineering has intensive neuroregenerative properties, significantly increasing the development of neurons, axons, and synapses in its recipient."
+
+ tech_lotor_amoeba_strike_craft_1: "Purrgil Breeding Program"
+ tech_lotor_amoeba_strike_craft_1_desc: "By breeding Purrgil in captivity, we can imprint their symbiotic flagella upon our starships, allowing them to act as organic strike craft for our navy."
+
+ tech_lotor_prescient_data_modeling: "Numistic Data Modeling"
+ tech_lotor_prescient_data_modeling_desc: "Are the precognitive powers of Numa at work, or is it a matter of skilled craftsmanship? Either way, this galactic stock market prediction model will forecast fluctuations in the economy with divine accuracy."
+
+ tech_lotor_orbital_trash_dispersal: "Orbital Trash Dispersal"
+ tech_lotor_orbital_trash_dispersal_desc: "This orbital bombardment management system bombards a planet with millions of high-velocity projectiles, overwhelming planetside defensive grids with trash data. Ships equipped with this component will cause more damage during orbital bombardment."
+
+ tech_lotor_space_whale_weapon_1: "Frequency Tuning"
+ tech_lotor_space_whale_weapon_1_desc: "Adapting the Purrgil method of siphoning energy from gaseous matter, it is possible to construct weapons draining energy from enemy ships."
+
+ tech_lotor_positronic_implants: "Positronic Implants"
+ tech_lotor_positronic_implants_desc: "These advanced new implants expand possibilities through the application of limited cybernetics. Some members in our society see cybernetics as a fashion statement, while others use it out of necessity."
+
+ tech_lotor_enigmatic_encoder: "Enigmatic Encoder"
+ tech_lotor_enigmatic_encoder_desc: "The Enigmatic Encoder scrambles flight path data according to some indeterminable design before feeding it back to fleet command."
+
+ tech_lotor_enigmatic_decoder: "Enigmatic Decoder"
+ tech_lotor_enigmatic_decoder_desc: "While producing average results in standard tests, the accuracy of the Enigmatic Decoder's prediction algorithms seemingly increase as the target's flight path grows more erratic."
+
+ tech_lotor_adaptive_combat_algorithms: "Adaptive Combat Algorithms"
+ tech_lotor_adaptive_combat_algorithms_desc: "Organics often fight using illogical and unpredictable tactics that can be difficult to effectively counter. Adaptive tactics and new, more maneuverable warforms should provide a decisive advantage."
+
+ tech_lotor_biomechanics: "Biomechanics"
+ tech_lotor_biomechanics_desc: "Millions of years of organic evolution will sometimes, through sheer persistence, produce elegant solutions that can also be applied to machine designs."
+
+ tech_lotor_gene_seed_purification: "Gene Seed Purification"
+ tech_lotor_gene_seed_purification_desc: "Nucleotide purification techniques allow for the isolation and refinement of particularly desirable genetic traits."
+
+ tech_lotor_morphogenetic_field_mastery: "Morphogenetic Field Mastery"
+ tech_lotor_morphogenetic_field_mastery_desc: "From its cradle as a purely pharmaceutical venture, advancements in our understanding of the morphogenetic field allow for direct, subconscious interfaces with organic units."
+
+ tech_lotor_artificial_moral_codes: "Artificial Moral Codes"
+ tech_lotor_artificial_moral_codes_desc: "It is circumstance that dictates what is moral. Define the circumstances, and ethics is like clay in your hands."
+
+ tech_lotor_synthetic_thought_patterns: "Synthetic Thought Patterns"
+ tech_lotor_synthetic_thought_patterns_desc: "Thinking outside the box merely places you in another, somewhat larger box."
+
+ tech_lotor_unity_of_purpose: "Unity of Purpose"
+ tech_lotor_unity_of_purpose_desc: "The purpose of one is the purpose of all. Together, we are greater than the sum of our parts."
+
+ tech_lotor_collective_production_methods: "Collective Production Methods"
+ tech_lotor_collective_production_methods_desc: "Together, we build the future. Unity of thought will bring us one step closer to constructing a perfect utopia."
+
+ tech_lotor_resource_processing_algorithms: "Resource Processing Algorithms"
+ tech_lotor_resource_processing_algorithms_desc: "Efficiency in all things."
+
+ tech_lotor_gargantuan_evolution: "Gargantuan Evolution"
+ tech_lotor_gargantuan_evolution_desc: "Voidspawn eggs have evolved to withstand the harsh conditions of space by absorbing and conserving energy from their nearest star."
+
+ tech_lotor_experimental_subspace_navigation: "Speculative Hyperlane Breaching"
+ tech_lotor_experimental_subspace_navigation_desc: "Through this poorly understood and experimental form of hyperspace probing, solitary science ships can break out of the naturally-occurring hyperlanes and attempt to navigate to known but otherwise unreachable destinations."
+
+ tech_lotor_repeatable_lcluster_clue: "$clue$"
+ tech_lotor_repeatable_lcluster_clue_desc: "Intensive study within the fields of nanomachinery and subspace phenomena will eventually yield a new §Y$clue$§! into the $lgate_disabled$ mystery."
+
+ tech_lotor_lgate_activation: "L-Gate Activation"
+ tech_lotor_lgate_activation_desc: "The L-Gates defy our current understanding of subspace mechanics. This must be remedied before they can be opened for travel."
+
+# Intel
+ tech_lotor_subdermal_stimulation: "Subdermal Stimulation"
+ tech_lotor_subdermal_stimulation_desc: "Deep-tissue implants are the latest innovation in the revolutionary overlapping of sensory engineering and entertainment experiences. Where we're going, we won't need skin to feel!"
+
+ tech_lotor_thought_enforcement: "Thought Enforcement"
+ tech_lotor_thought_enforcement_desc: "Telepaths can monitor the citizenry for incorrect thoughts, but with some study they could also correct thought aberrations that they find."
+
+ tech_lotor_tracking_implants: "Tracking Implants"
+ tech_lotor_tracking_implants_desc: "Further advancements in the field of subdermal implants can provide detailed information regarding the movements and actions of the implanted."
+
+ tech_lotor_decryption_1: "Slicer Training"
+ tech_lotor_decryption_1_desc: "Primitive encryption systems stand no chance against modern day Slicers. Just make sure to buy them some caf first."
+
+ tech_lotor_decryption_2: "Simulated Social Engineering"
+ tech_lotor_decryption_2_desc: "The weakest link in any security system are the individuals within it. By modeling their weaknesses in computer simulations, we can find novel ways to bypass their security - or trick them into bypassing it for us."
+
+ tech_lotor_decryption_3: "Computer Spikes"
+ tech_lotor_decryption_3_desc: "These small, disk shaped devices carry programs specifically designed to slice into a security system by overwhelming it with garbage data. Most doors can be opened with a little luck, and the right amount of spikes."
+
+ tech_lotor_decryption_4: "Astromech Scomp Linking"
+ tech_lotor_decryption_4_desc: "Astromech droids equipped with a scomp link can 'jack in' to virtually any security system, making them essential for the purposes of espionage and electronic warfare."
+
+ tech_lotor_encryption_1: "Quantum Firewalls"
+ tech_lotor_encryption_1_desc: "Advances in computing technology have given us new ways to protect our data from prying eyes."
+
+ tech_lotor_encryption_2: "Automatic Deletion Protocols"
+ tech_lotor_encryption_2_desc: "As soon as an unknown program is detected in our systems, automated droid intelligences are tasked to isolate, quarantine, and destroy the malevolent program before it can inflict damage."
+
+ tech_lotor_encryption_3: "Time Sensitive Passwords"
+ tech_lotor_encryption_3_desc: "Military and civilian passcodes across our space must adhere to a complex and fluctuating standard, increasing encryption across our space, though much to the annoyance of many security officials."
+
+ tech_lotor_encryption_4: "Code Cylinders"
+ tech_lotor_encryption_4_desc: "Vital intelligence and passcodes are infused into small, bio-linked code cylinders, typically held by higher ranking officers. These cylinders allow for greater utility and encryption across our military installations."
+
+ tech_lotor_centralized_command: "Centralized Command"
+ tech_lotor_centralized_command_desc: "Creating a dedicated headquarters for all levels of military operations shapes an efficient fleet, and lays a better foundation for future military training."
+
+ tech_lotor_alien_life_studies: "Xenology"
+ tech_lotor_alien_life_studies_desc: "Studying the fauna of other worlds gives insight into alien behaviors, allowing us to identify and domesticate docile entities."
+
+ tech_lotor_executive_retreat: "Executive Leisure Program"
+ tech_lotor_executive_retreat_desc: "Providing an extensive vacation resort network for our high ranking executives serves to increase happiness among our board members and keep operations flowing smoothly."
+
+ tech_lotor_xeno_tourism_agency: "Xeno Outreach Agencies"
+ tech_lotor_xeno_tourism_agency_desc: "Alien tourism and immigration may be viewed with suspicion by some, but its potential for revenue is hard to dispute."
+
+ tech_lotor_housing_agrarian_idyll: "Agrarian Utopias"
+ tech_lotor_housing_agrarian_idyll_desc: "Through the establishment of weather-controlled rural communes, we can support a larger population without disrupting our agrarian way of life."
+
+ tech_lotor_advanced_battle_tactics: "Advanced Battle Tactics"
+ tech_lotor_advanced_battle_tactics_desc: "After extensive experience in naval operations, our fleet has incorporated lessons learned into our standard doctrine."
+
+# Communication Relay
+ tech_lotor_communication_relay_1: "Communication Relay Base"
+ tech_lotor_communication_relay_1_desc: "The primary structure of this system's communication relay will serve to host a large number of dishes and comm devices."
+ tech_lotor_communication_relay_2: "Communication Relay Enhancement: Expanded Receiver Dishes" 
+ tech_lotor_communication_relay_2_desc: "The receiver dishes upon our Communications Relays and Communication Relays Nexuses have been vastly expanded, alongside upgrades to both internal hardware and software. This upgrade increases both the amount of data per second received by the relays as well as the processing and distribution of said data down to smaller sub-stations or sub-satellites for circulation around the planet. While this does benefit administrative and military functions, the primary beneficiary of this upgrade is our people with faster, more free access to the holonet."
+ tech_lotor_communication_relay_3: "$lotor_communication_relay_2$" #this is correct
+ tech_lotor_communication_relay_3_desc: "With the finalized touches upon this station's comm relay, it will serve as a coordination hub across this star system. "
+
+# Synthetic Fuel
+ tech_lotor_synthethic_fuel: "Synthetic Fuel Process"
+ tech_lotor_synthethic_fuel_desc: "By replicating the processes required to extract and produce coaxium fuel, we will be able to create our own."
+
+## Components Hyperdrive
+# Hyperdrive
+ tech_lotor_hyperdrive_1: "$HYPERDRIVE_1$"
+ tech_lotor_hyperdrive_1_desc: "While our attempts to reverse engineer Rakatan hyperdrives have not been without tragedy, we have finally managed to unlock the secrets of hyperspace travel."
+ tech_lotor_hyperdrive_2: "$HYPERDRIVE_2$"
+ tech_lotor_hyperdrive_2_desc: "Like the strands of a spider web, the extra-dimensional realm of hyperspace runs between the gravity wells of most stars. Improvements to the hyperdrive may allow us to venture at even greater speeds."
+ tech_lotor_hyperdrive_3: "$HYPERDRIVE_3$"
+ tech_lotor_hyperdrive_3_desc: "We have identified the existence of points in space where a ship expends less energy to breach their way into a hyperlane. This will lead to a new generation of safer and quicker hyperdrives."
+ tech_lotor_hyperdrive_4: "$HYPERDRIVE_4$"
+ tech_lotor_hyperdrive_4_desc: "This new generation of hyperdrives is capable of accessing the subspace slipstreams that are present within hyperspace, theoretically leading to dramatically improved drive performance."
+ tech_lotor_hyperdrive_5: "$HYPERDRIVE_5$"
+ tech_lotor_hyperdrive_5_desc: "The latest in a new generation of hyperdrives showcases our engineers ability to innovate when necessary. Performance, reliability, and fuel efficiency are all significantly impacted by these upgrades."
+
+# Station Automation Tech
+ tech_lotor_station_automation_1: "Station Social Automation"
+ tech_lotor_station_automation_1_desc: "Automated systems for specialized research in the field of sociology."
+ tech_lotor_station_automation_2: "Station Computer Automation"
+ tech_lotor_station_automation_2_desc: "Automated systems for specialized research related to physics and the nature of the universe."
+ tech_lotor_station_automation_3: "Station Engineering Automation"
+ tech_lotor_station_automation_3_desc: "Automated systems for specialized research regarding any engineering R&D"
+
+# Additional Navigation Computer
+ tech_lotor_additional_nav_computer_1: "Standard Navigation Computer"
+ tech_lotor_additional_nav_computer_1_desc: "Essential for modern spaceflight, basic navigation computers are necessary for any vessel attempting to travel hyperspace."
+ tech_lotor_additional_nav_computer_2: "Modernized Navigation Computer"
+ tech_lotor_additional_nav_computer_2_desc: "As navigation technology continues to develop, navicomputers have become capable of hosting additional star systems in their memory banks."
+ tech_lotor_additional_nav_computer_3: "Overhault Navigation Computer"
+ tech_lotor_additional_nav_computer_3_desc: "Now paired with astromech units, these advanced navicomputer consoles allow for truly unmatched interstellar cartography."
+
+# Hyperspace Beacon Disruptors
+ tech_lotor_gravity_well_1: "$SHIP_GRAVITY_WELL_1$"
+ tech_lotor_gravity_well_1_desc: "$SHIP_GRAVITY_WELL_1_DESC$"
+ tech_lotor_gravity_well_2: "$SHIP_GRAVITY_WELL_2$"
+ tech_lotor_gravity_well_2_desc: "$SHIP_GRAVITY_WELL_2_DESC$"
+ tech_lotor_gravity_well_3: "$SHIP_GRAVITY_WELL_3$"
+ tech_lotor_gravity_well_3_desc: "$SHIP_GRAVITY_WELL_3_DESC$"
+
+ ap_lotor_gravity_well: "Experimental Gravity Projection Methods"
+ ap_lotor_gravity_well_desc: "After extensive experimentation with methods of interdiction, this prototype device is capable of pulling starships out of hyperspace through simulating the mass shadow of planetary objects."
+
+# Astromech Droids
+ tech_lotor_astromech_droids_1: "$ASTROMECH_DROIDS_0$"
+ tech_lotor_astromech_droids_1_desc: "$ASTROMECH_DROIDS_0_DESC$"
+ tech_lotor_astromech_droids_2: "$ASTROMECH_DROIDS_1$"
+ tech_lotor_astromech_droids_2_desc: "$ASTROMECH_DROIDS_1_DESC$"
+ tech_lotor_astromech_droids_3: "$ASTROMECH_DROIDS_2$"
+ tech_lotor_astromech_droids_3_desc: "$ASTROMECH_DROIDS_2_DESC$"
+ tech_lotor_astromech_droids_4: "$ASTROMECH_DROIDS_3$"
+ tech_lotor_astromech_droids_4_desc: "$ASTROMECH_DROIDS_3_DESC$"
+
+# Trade Route Construction
+ tech_lotor_trade_route_construction_1: "Trade Route Construction"
+ tech_lotor_trade_route_construction_1_desc: "Schematics to start establishing trade routes along a pre-determined set of highly utilized coordinates."
+ tech_lotor_trade_route_construction_2: "Improved Trade Route Construction"
+ tech_lotor_trade_route_construction_2_desc: "Trade route construction can be improved with better starcharts and course plotting."
+
+# Tech Unlock Reactor Texts
+ TECH_UNLOCK_REACTOR_1_TITLE: "§HUnlocks Component:§! Type-1 Fusion Reactor"
+ TECH_UNLOCK_REACTOR_1_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_2_TITLE: "§HUnlocks Component:§! Type-2 Cold Fusion Reactor"
+ TECH_UNLOCK_REACTOR_2_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_3_TITLE: "§HUnlocks Component:§! Type-3 Proto-Hypermatter Reactor"
+ TECH_UNLOCK_REACTOR_3_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_4_TITLE: "§HUnlocks Component:§! Type-4 Hypermatter Reactor"
+ TECH_UNLOCK_REACTOR_4_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_5_TITLE: "§HUnlocks Component:§! Type-5 Hypermatter Annihilator"
+ TECH_UNLOCK_REACTOR_5_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_6_TITLE: "§HUnlocks Component:§! Type-6 Tachyonic Reactor"
+ TECH_UNLOCK_REACTOR_6_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_7_TITLE: "§HUnlocks Component:§! Type-7 Solar Ionization Reactor"
+ TECH_UNLOCK_REACTOR_7_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_8A_TITLE: "§HUnlocks Component:§! Type-8 Sun Reactor"
+ TECH_UNLOCK_REACTOR_8A_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+ TECH_UNLOCK_REACTOR_8B_TITLE: "§HUnlocks Component:§! Type-8 Isotope-5 Reactor"
+ TECH_UNLOCK_REACTOR_8B_DESC: "Unlocks the next level of reactors, for power generation onboard starships."
+
+# Ship Reactors
+ tech_lotor_ship_reactor_1: "Type-1 Fusion Reactor"
+ tech_lotor_ship_reactor_1_desc: "These old reactors help to provide power to critical ship components. They get the job done but are hardly advanced by any stretch of the imagination."
+ tech_lotor_ship_reactor_2: "Type-2 Cold Fusion Reactor"
+ tech_lotor_ship_reactor_2_desc: "Engineers have developed new physical reactions for powering our vessels, increasing efficiency."
+ tech_lotor_ship_reactor_3: "Type-3 Proto-Hypermatter Reactor"
+ tech_lotor_ship_reactor_3_desc: "Providing coolant reserves inside a power reactor allows pilots to push systems to their limits longer without risking dangerous temperature spikes, or even a meltdown."
+ tech_lotor_ship_reactor_4: "Type-4 Hypermatter Reactor"
+ tech_lotor_ship_reactor_4_desc: "The latest enhancements to power reactors allow pilots to manually adjust power management across all critical systems, better improving efficiency."
+ tech_lotor_ship_reactor_5: "Type-5 Hypermatter Annihilator"
+ tech_lotor_ship_reactor_5_desc: "Specialized durasteel casings now house each power reactor to further lower the risk of overheating systems."
+ tech_lotor_ship_reactor_6: "Type-6 Tachyonic Reactor"
+ tech_lotor_ship_reactor_6_desc: "Utility droids now aid in monitoring the latest power reactors in order to automatically handle power management throughout the ship, decreasing crew requirements and improving efficiency."
+ tech_lotor_ship_reactor_7: "Type-7 Solar Ionization Reactor"
+ tech_lotor_ship_reactor_7_desc: "Power reactors are coated with specialized fuel cells and auxiliary generator functions, further improving system functionality."
+# Both Isotope-5 and Sun Reactors are Tier 8!
+ tech_lotor_isotope5_reactors: "Type-8 Isotope-5 Reactor"
+ tech_lotor_isotope5_reactors_desc: "Applying rare and volatile Isotope-5 Fuel rods to our powerplants allows for dramatically increased shield, weapon, and engine yields."
+ tech_lotor_ship_reactor_sun_generator: "Type-8 Sun Generator"
+ tech_lotor_ship_reactor_sun_generator_desc: "These massive power generators are practically miniature artificial stars. Due to their massive power output, the technology can be dangerous in improper or untrained hands. An overloaded Sun Generator is capable of causing considerable destruction."
+
+## Components Reactors Enhancer
+# Reactor Enhancer
+ tech_lotor_reactor_enhancer_1: "$REACTOR_ENHANCER_1$"
+ tech_lotor_reactor_enhancer_1_desc: "$REACTOR_ENHANCER_1_DESC$"
+ tech_lotor_reactor_enhancer_2: "$REACTOR_ENHANCER_2$"
+ tech_lotor_reactor_enhancer_2_desc: "$REACTOR_ENHANCER_2_DESC$"
+ tech_lotor_reactor_enhancer_3: "$REACTOR_ENHANCER_3$"
+ tech_lotor_reactor_enhancer_3_desc: "$REACTOR_ENHANCER_3_DESC$"
+ tech_lotor_reactor_enhancer_4: "$REACTOR_ENHANCER_4$"
+ tech_lotor_reactor_enhancer_4_desc: "$REACTOR_ENHANCER_4_DESC$"
+ tech_lotor_reactor_enhancer_5: "$REACTOR_ENHANCER_5$"
+ tech_lotor_reactor_enhancer_5_desc: "$REACTOR_ENHANCER_5_DESC$"
+ tech_lotor_reactor_enhancer_6: "$REACTOR_ENHANCER_6$"
+ tech_lotor_reactor_enhancer_6_desc: "$REACTOR_ENHANCER_6_DESC$"
+
+## Components Sensors
+# Ship Sensors
+ tech_lotor_sensors_1: "CN-01 Ship Sensors"
+ tech_lotor_sensors_1_desc: "The first iteration of sensors uses radar pings to get an outline of other vessels in the immediate area, allowing for extremely limited ranges and utility."
+ tech_lotor_sensors_2: "CN-02 Ship Sensors"
+ tech_lotor_sensors_2_desc: "These sensors have been tuned to look for any gravitational changes in space, as opposed to radar waves to identify a ships signature."
+ tech_lotor_sensors_3: "CN-03 Ship Sensors"
+ tech_lotor_sensors_3_desc: "These new Sensors detect the subspace fluctuations left in the wake of traveling starships. Their sensitivity and range is greater than that of a gravitic sensor array."
+ tech_lotor_sensors_4: "CN-04 Ship Sensors"
+ tech_lotor_sensors_4_desc: "Core system upgrades allow for sensor suites to run for a longer duration, and with increased accuracy."
+ tech_lotor_sensors_5: "CN-05 Ship Sensors"
+ tech_lotor_sensors_5_desc: "These advanced sensors are equipped with rotating tachyon beams, allowing them to potentially detect ship movements even at extreme distances."
+ tech_lotor_sensors_6: "CN-06 Ship Sensors"
+ tech_lotor_sensors_6_desc: "A further improvement upon the latest tachyon equipped sensor suites, these systems are rumored to be capable of uncovering cloaked vessels." 
+
+# Misc Sensors
+ tech_lotor_listening_post: "Listening Post"
+ tech_lotor_listening_post_desc: "Powerful sensor arrays that can be added to the structure of orbital spaceports. They provide excellent sensor coverage of the surrounding region of space."
+ tech_lotor_black_hole_observatory: "Black Hole Observatory"
+ tech_lotor_black_hole_observatory_desc: "Studying a Black Hole can help to understand its unknown properties."
+ tech_lotor_sensor_jammers: "4b1 - Sensor Jamming Array"
+ tech_lotor_sensor_jammers_desc: "A Sensor Jammer usually seen on Frigates. If properly equipped, Frigates are more likely to survive heavy engagements by blending into the chaotic white noise of battle."
+
+## Theory Physics
+# Droid Brains
+ tech_lotor_droid_brain_1: "Class 5 - Labour Droid Brain"
+ tech_lotor_droid_brain_1_desc: "Class five droids were simple labor droids typically tasked with menial labor and basic utility. They were the most common form of droid."
+ tech_lotor_droid_brain_2: "Class 4 - Engineering Droid Brain"
+ tech_lotor_droid_brain_2_desc: "Class four droids were programmed for engineering and other technical sciences, typically being more sophisticated than their Class 5 progenitors."
+ tech_lotor_droid_brain_3: "Class 3 - Combat Droid Brain"
+ tech_lotor_droid_brain_3_desc: "Class three droids were programmed with combat functions in mind. Almost all class four droids carried weapons or nonlethal deterrents."
+ tech_lotor_droid_brain_4: "Class 2 - Laboratory Droid Brain"
+ tech_lotor_droid_brain_4_desc: "Class two droids worked in the fields of mathematics, physics, physical sciences, and medicine. Their development marked a considerable increase in droid intelligence."
+ tech_lotor_droid_brain_5: "Class 1 - Protocol Droid Brain"
+ tech_lotor_droid_brain_5_desc: "Class one droids were programmed to interact with sapient life in an everyday capacity, typically serving as translators, diplomats, and personal assistance droids. Class one droids are widely considered to be some of the most advanced ever created."
+
+# Market Algorithms
+ tech_lotor_consumer_good_refinement_1: "Market Analysis Algorithms"
+ tech_lotor_consumer_good_refinement_1_desc: "Basic administrative AIs can be used to streamline supply and demand lines, reducing waste."
+ tech_lotor_consumer_good_refinement_2: "Predictive Consumerism"
+ tech_lotor_consumer_good_refinement_2_desc: "Using advanced AI, we can reliably predict consumer demand before it exists."
+ tech_lotor_consumer_good_refinement_3: "Advanced Market Algorithms"
+ tech_lotor_consumer_good_refinement_3_desc: "Advanced algorithms aid with making better market decisions based on current economic and psychological theories surrounding credits."
+
+# Laboratories
+ tech_lotor_science_lab_1: "Basic Science Labs"
+ tech_lotor_science_lab_1_desc: "A location to make testable predictions of ongoing observable phenomena."
+ tech_lotor_science_lab_2: "Standard Science Labs"
+ tech_lotor_science_lab_2_desc: "As we explore the galaxy, we continually encounter new materials and substances that are unfamiliar to us. Cataloging and analyzing these discoveries will require new facilities."
+ tech_lotor_science_lab_3: "Modernized Science Labs"
+ tech_lotor_science_lab_3_desc: "To expand our knowledge base, we must consider all levels of existence. A new realm of science awaits us!"
+ tech_lotor_science_lab_4: "Advanced Science Labs"
+ tech_lotor_science_lab_4_desc: "Pushing the limits of science to help our understanding of the galaxy, no matter the cost."
+
+# Research Centers
+ tech_lotor_research_center_1: "Research Center"
+ tech_lotor_research_center_1_desc: "A bid for interplanetary resource pools and more flexible research grants."
+ tech_lotor_research_center_2: "Upgrade Research Center"
+ tech_lotor_research_center_2_desc: "A larger bid for interplanetary resource pools and more flexible research grants."
+ tech_lotor_research_center_3: "Advanced Research Center"
+ tech_lotor_research_center_3_desc: "The largest possible bid for interplanetary resource pools and more flexible tenure."
+
+# HoloNet
+ tech_lotor_holonet_1: "Early HoloNet"
+ tech_lotor_holonet_1_desc: "The HoloNet is a massive FTL communication system connecting citizens throughout the known galaxy."
+ tech_lotor_holonet_1_hive: "Early HoloNet"
+ tech_lotor_holonet_1_hive_desc: "The HoloNet is a massive FTL communication system connecting citizens throughout the known galaxy."
+ tech_lotor_holonet_2: "Civilian HoloNet"
+ tech_lotor_holonet_2_desc: "As the holonet has continued to develop, it has shown considerable potential for civilian use. A civilian network can be tailored to entertainment purposes and other social media outlets."
+ tech_lotor_holonet_2_hive: "Civilian HoloNet"
+ tech_lotor_holonet_2_hive_desc: "As the holonet has continued to develop, it has shown considerable potential for civilian use. A civilian network can be tailored to entertainment purposes and other social media outlets."
+ tech_lotor_holonet_3: "Upgraded HoloNet"
+ tech_lotor_holonet_3_desc: "Increased bandwidth speed provides faster communication across the greater holonet."
+ tech_lotor_holonet_3_hive: "Upgraded HoloNet"
+ tech_lotor_holonet_3_hive_desc: "Increased bandwidth speed provides faster communication across the greater holonet."
+ tech_lotor_holonet_4: "Advanced HoloNet"
+ tech_lotor_holonet_4_desc: "Premier holoNet access and speed provides the quickest mode of communication between galactic citizens as the network expands further."
+ tech_lotor_holonet_4_hive: "Advanced HoloNet"
+ tech_lotor_holonet_4_hive_desc: "Premier holoNet access and speed provides the quickest mode of communication between galactic citizens as the network expands further."
+
+# Physic Theory
+ tech_lotor_physics_theory_1: "Quantum Theory"
+ tech_lotor_physics_theory_1_desc: "Exploring the mediation of fundamental forces through subatomic particles."
+ tech_lotor_physics_theory_2: "Applied Quantum Physics"
+ tech_lotor_physics_theory_2_desc: "The seemingly erratic behavior of the smallest of things can dramatically alter the way we think about the bigger picture."
+ tech_lotor_physics_theory_3: "Space-Time Theory"
+ tech_lotor_physics_theory_3_desc: "Three dimensions, inextricable from the fourth."
+ tech_lotor_physics_theory_4: "Improved Space-Time Theory"
+ tech_lotor_physics_theory_4_desc: "Expanding on the three dimensions and further pondering of the fourth."
+ tech_lotor_physics_theory_5: "Theory Beyond Space-Time"
+ tech_lotor_physics_theory_5_desc: "A mystery that confounds the brightest minds and leads to incoherent notes and rambling."
+
+# Misc
+ tech_lotor_research_option_1: "Research Option"
+ tech_lotor_research_option_1_desc: "A research option."
+ tech_lotor_cryostasis_1: "Cryostasis Pods"
+ tech_lotor_cryostasis_1_desc: "With the use of specialized containment cells, our citizens can be placed in a cryogenic sleep. Useful for when civilians need to travel vast galactic distances, typically in the interest of colonization."
+ tech_lotor_cryostasis_2: "Pre-manufactured Colonies"
+ tech_lotor_cryostasis_2_desc: "A large collection of frozen biological life pods stand by, ready for deployment. While our citizens slumber, droids can go about making the perfect colony infrastructure for them to awake to."
+ tech_lotor_physics_lab_efficiency_1: "Physics Lab Efficiency"
+ tech_lotor_physics_lab_efficiency_1_desc: "Improves efficiency in the physics lab by adding a race track for particles. Not only is it entertaining to watch, it can also give us a new understanding of the universe."
+ tech_lotor_physics_lab_efficiency_2: "Advanced Physics Lab Efficiency"
+ tech_lotor_physics_lab_efficiency_2_desc: "Building a better containment area for our particle accelerator means researchers can spend more time studying and less time worrying about the destruction of the universe."
+ tech_lotor_sociology_lab_efficiency_1: "Sociology Lab Efficiency"
+ tech_lotor_sociology_lab_efficiency_1_desc: "Adding a meditation area to the sociology lab will give researchers more time to reflect on their findings. Who knows what further insights can be gained with a little peace and quiet."
+ tech_lotor_sociology_lab_efficiency_2: "Advanced Sociology Lab Efficiency"
+ tech_lotor_sociology_lab_efficiency_2_desc: "Making sure some relaxing music plays around the sociology lab at all times guarantees a peaceful environment. Great for pondering the great mysteries of other cultures in detail."
+ tech_lotor_engineering_lab_efficiency_1: "Engineering Lab Efficiency"
+ tech_lotor_engineering_lab_efficiency_1_desc: "For the first time engineers have allowed droids into the lab. They are free to comment on what an engineer might be doing wrong in order to gain insights faster."
+ tech_lotor_engineering_lab_efficiency_2: "Advanced Engineering Lab Efficiency"
+ tech_lotor_engineering_lab_efficiency_2_desc: "High functioning droids can now directly assist in engineering research. Our creations surely have the best intentions when directing progress...surely."
+
+## Energy
+# Power Plants
+ tech_lotor_power_plant_2: "Basic Power Plants"
+ tech_lotor_power_plant_2_desc: "Capacitors capable of storing vast amounts of energy is one of the cornerstones for any modern civilization."
+ tech_lotor_power_plant_3: "Improved Power Plants"
+ tech_lotor_power_plant_3_desc: "Modulated force fields allow for increased production and improved energy yield."
+ tech_lotor_power_plant_4: "Modernized Power Plants"
+ tech_lotor_power_plant_4_desc: "Basic entanglement principles applied to energy generation provide a substantial increase in energy output."
+ tech_lotor_power_plant_5: "Advanced Power Plants"
+ tech_lotor_power_plant_5_desc: "Quantum superposition of energy coils, simultaneously drained and charged."
+ tech_lotor_energy_output_repeatable: "Applied Superconductivity"
+ tech_lotor_energy_output_repeatable_desc: "Minor improvements to transmission efficiency adds up to a sizable reduction in overall energy loss."
+
+# Power Grids
+ tech_lotor_power_hub_1: "Global Energy Management"
+ tech_lotor_power_hub_1_desc: "These load-balancing facilities can somewhat improve the stability of local grids and feed scraps of excess power back into centralized capacitors."
+ tech_lotor_power_hub_2: "Planetary Power Grid"
+ tech_lotor_power_hub_2_desc: "A re-engineered and unified power grid further reduces energy losses over long distances."
+ tech_lotor_power_hub_3: "Systemwide Power Grid"
+ tech_lotor_power_hub_3_desc: "Expanding the unified grid towards a system wide power structure improves energy usage."
+ tech_lotor_power_hub_4: "Isotope-5 Reactor"
+ tech_lotor_power_hub_4_desc: "Experimental Isotope-5 load-balancing facilities can greatly improve the stability of local grids and feed massive excess power back into centralized capacitors."
+
+# Power Packs
+ tech_lotor_power_packs_1: "Power Cells"
+ tech_lotor_power_packs_1_desc: "Also known as power packs, power cells provide energy for many vehicles, tools, and small arms."
+ tech_lotor_power_packs_2: "Early Power Packs"
+ tech_lotor_power_packs_2_desc: "Power packs provide increased energy outputs for many vehicles, tools, and small arms compared to cells."
+ tech_lotor_power_packs_3: "Advanced Power Packs"
+ tech_lotor_power_packs_3_desc: "Advanced power packs often fueled by tibanna gasses help provide increased energy output for many vehicles, tools, and small arms."
+
+## Components Shields
+# Deflector Shield Generators & Shield Type
+ tech_lotor_deflector_shields_1: "$SHIP_SHIELD_1$"
+ tech_lotor_deflector_shields_1_desc: "$SHIP_SHIELD_1_DESC$"
+ tech_lotor_deflector_shields_2: "$SHIP_SHIELD_2$"
+ tech_lotor_deflector_shields_2_desc: "$SHIP_SHIELD_2_DESC$"
+ tech_lotor_deflector_shields_3: "$SHIP_SHIELD_3$"
+ tech_lotor_deflector_shields_3_desc: "$SHIP_SHIELD_3_DESC$"
+ tech_lotor_deflector_shields_4: "$SHIP_SHIELD_4$"
+ tech_lotor_deflector_shields_4_desc: "$SHIP_SHIELD_4_DESC$"
+ tech_lotor_deflector_shields_5: "$SHIP_SHIELD_5$" #eg
+ tech_lotor_deflector_shields_5_desc: "$SHIP_SHIELD_5_DESC$"
+ tech_lotor_deflector_shields_6: "$SHIP_SHIELD_6$"
+ tech_lotor_deflector_shields_6_desc: "$SHIP_SHIELD_6_DESC$"
+ tech_lotor_deflector_shields_7: "$SHIP_SHIELD_7$" #dm
+ tech_lotor_deflector_shields_7_desc: "$SHIP_SHIELD_7_DESC$"
+
+# Regen Shield Type
+ tech_lotor_regen_shields_1: "$REGENERATIVE_SHIELD_TYPE_1$"
+ tech_lotor_regen_shields_1_desc: "$REGENERATIVE_SHIELD_TYPE_1_DESC$"
+ tech_lotor_regen_shields_2: "$REGENERATIVE_SHIELD_TYPE_2$"
+ tech_lotor_regen_shields_2_desc: "$REGENERATIVE_SHIELD_TYPE_2_DESC$"
+ tech_lotor_regen_shields_3: "$REGENERATIVE_SHIELD_TYPE_3$"
+ tech_lotor_regen_shields_3_desc: "$REGENERATIVE_SHIELD_TYPE_3_DESC$"
+ tech_lotor_regen_shields_4: "$REGENERATIVE_SHIELD_TYPE_4$"
+ tech_lotor_regen_shields_4_desc: "$REGENERATIVE_SHIELD_TYPE_4_DESC$"
+ tech_lotor_regen_shields_5: "$REGENERATIVE_SHIELD_TYPE_5$"
+ tech_lotor_regen_shields_5_desc: "$REGENERATIVE_SHIELD_TYPE_5_DESC$"
+
+# Ray Shield Type
+ tech_lotor_ray_shields_1: "$RAY_SHIELD_TYPE_1$"
+ tech_lotor_ray_shields_1_desc: "$RAY_SHIELD_TYPE_1_DESC$"
+ tech_lotor_ray_shields_2: "$RAY_SHIELD_TYPE_2$"
+ tech_lotor_ray_shields_2_desc: "$RAY_SHIELD_TYPE_2_DESC$"
+ tech_lotor_ray_shields_3: "$RAY_SHIELD_TYPE_3$"
+ tech_lotor_ray_shields_3_desc: "$RAY_SHIELD_TYPE_3_DESC$"
+ tech_lotor_ray_shields_4: "$RAY_SHIELD_TYPE_4$"
+ tech_lotor_ray_shields_4_desc: "$RAY_SHIELD_TYPE_4_DESC$"
+ tech_lotor_ray_shields_5: "$RAY_SHIELD_TYPE_5$"
+ tech_lotor_ray_shields_5_desc: "$RAY_SHIELD_TYPE_5_DESC$"
+
+# Strong Shield Type
+ tech_lotor_strong_shields_1: "$LAYERED_SHIELD_TYPE_1$"
+ tech_lotor_strong_shields_1_desc: "$LAYERED_SHIELD_TYPE_1_DESC$"
+ tech_lotor_strong_shields_2: "$LAYERED_SHIELD_TYPE_2$"
+ tech_lotor_strong_shields_2_desc: "$LAYERED_SHIELD_TYPE_2_DESC$"
+ tech_lotor_strong_shields_3: "$LAYERED_SHIELD_TYPE_3$"
+ tech_lotor_strong_shields_3_desc: "$LAYERED_SHIELD_TYPE_3_DESC$"
+ tech_lotor_strong_shields_4: "$LAYERED_SHIELD_TYPE_4$"
+ tech_lotor_strong_shields_4_desc: "$LAYERED_SHIELD_TYPE_4_DESC$"
+ tech_lotor_strong_shields_5: "$LAYERED_SHIELD_TYPE_5$"
+ tech_lotor_strong_shields_5_desc: "$LAYERED_SHIELD_TYPE_5_DESC$"
+
+# Shield Hardener
+tech_lotor_shield_hardeners_1: "$SHIELD_HARDENER_1$"
+tech_lotor_shield_hardeners_1_desc: "$SHIELD_HARDENER_1_DESC$"
+tech_lotor_shield_hardeners_2: "$SHIELD_HARDENER_2$"
+tech_lotor_shield_hardeners_2_desc: "$SHIELD_HARDENER_2_DESC$"
+
+# Shield Types
+ tech_lotor_shield_types_1: "Shield Type Theory"
+ tech_lotor_shield_types_1_desc: "Through changes in shield frequency and energy fluctuations, it is possible change the properties of our energy fields. Depending on the changes, we can either improve the durability by projecting additional layers or decrease the shield strength to allow for fast regeneration."
+ tech_lotor_shield_types_2: "Basic Shield Types"
+ tech_lotor_shield_types_2_desc: "Through changes in shield frequency and energy fluctuations, it is possible change the properties of our energy fields. Depending on the changes, we can either improve the durability by projecting additional layers or decrease the shield strength to allow for fast regeneration."
+ tech_lotor_shield_types_3: "Modern Shield Types"
+ tech_lotor_shield_types_3_desc: "Through changes in shield frequency and energy fluctuations, it is possible change the properties of our energy fields. Depending on the changes, we can either improve the durability by projecting additional layers or decrease the shield strength to allow for fast regeneration."
+ tech_lotor_shield_types_4: "Upgraded Shield Types"
+ tech_lotor_shield_types_4_desc: "Through changes in shield frequency and energy fluctuations, it is possible change the properties of our energy fields. Depending on the changes, we can either improve the durability by projecting additional layers or decrease the shield strength to allow for fast regeneration."
+ tech_lotor_shield_types_5: "Advanced Shield Types"
+ tech_lotor_shield_types_5_desc: "Through changes in shield frequency and energy fluctuations, it is possible change the properties of our energy fields. Depending on the changes, we can either improve the durability by projecting additional layers or decrease the shield strength to allow for fast regeneration."
+
+ TECH_UNLOCK_SHIELD_TYPES_TITLE: "§HUnlocks Feature:§! Shield Types"
+ TECH_UNLOCK_SHIELD_TYPES_DESC: "Allows us to research different applications of shield frequency and energy changes which opens the path towards different Shield Types, such as Layered Shields or Regenerative Shields."
+
+# Tech Event - Shield
+ lotor_tech_events.1.name: "Physics Research Institute"
+ lotor_tech_events.1.desc: "Welcome §Y[root.GetRulerTitle]§! §H[root.GetRulerName]§!. I am contacting you on behalf of the §Y[root.GetName]§!'s Physics Research Institute.\n\nWhile we are making huge progress towards shield designs, we think it would be wise to focus our efforts in one direction.\n\nPlease keep in mind that focusing on one path will forego other designs.\n\nLet us know your preference, though we can come to this question later."
+ lotor_tech_events.1.q: "What is the difference between the Shield Types?"
+ lotor_tech_events.1.q.response: "Different Shield Types provide different bonuses to our ships.\n\n£shield_normal£§HDeflector Shields§! offer an equal balance between regeneration and shield strength, and are the most common shield type in the galaxy.\n\n£shield_regen£§HRegenerative Shields§! rely on the generators being able to rapidly bring the shields back online if they are depleted in combat. Enemies need to concentrate fire on a single vessel if they wish to destroy it.\n\n£shield_layered£§HLayered Shields§! concentrates shields together in order to absorb hits from heavy blasts. If depleted it will take a significant amount of time for the shields to come back online, however, hopefully they'd never be lowered at all.\n\n£shield_ray£§HHybrid Shielding§! Dual particle and ray shielding meant to prevent slight damage from shield penetrating weapons piercing through to the ship's hull at the cost of less overall shield strength. Best suited to counter opponents specializing in shield penetrating weapons."
+
+ lotor_tech_events.1.a: "£shield_layered£ Layered Shields"
+ lotor_tech_events.1.a.tooltip: "Layered Shields provide more shield strength at the cost of regeneration speed."
+ lotor_tech_events.1.b: "£shield_regen£ Regenerative Shields"
+ lotor_tech_events.1.b.tooltip: "Regenerative Shields provide faster regeneration at the cost of less shield strength"
+ lotor_tech_events.1.c: "£shield_normal£ Deflector Shields"
+ lotor_tech_events.1.c.tooltip: "Deflector Shields have a balanced mix between shield strength and regeneration speed."
+ lotor_tech_events.1.d: "£shield_ray£ Hybrid Shielding"
+ lotor_tech_events.1.d.tooltip: "Dual particle and ray shielding meant to prevent damage from shield penetrating weapons at the cost of less overall shield strength."
+ lotor_tech_events.1.e: "Remind me again in 1 year."
+
+# Planetary Shields
+ tech_lotor_planetary_shield_generator_1: "Encasing Shield Generator"
+ tech_lotor_planetary_shield_generator_1_desc: "Standard shield generator that helps minimize losses from orbital bombardments."
+ tech_lotor_planetary_shield_generator_2: "Shutter Shield Generator"
+ tech_lotor_planetary_shield_generator_2_desc: "Improved shielding against orbital bombardments through better power management techniques."
+
+# Shield Capacitors
+ tech_lotor_shield_capacitors_1: "$SHIELD_CAPACITOR_1$"
+ tech_lotor_shield_capacitors_1_desc: "$SHIELD_CAPACITOR_1_DESC$"
+ tech_lotor_shield_capacitors_2: "$SHIELD_CAPACITOR_2$"
+ tech_lotor_shield_capacitors_2_desc: "$SHIELD_CAPACITOR_2_DESC$"
+ tech_lotor_shield_capacitors_3: "$SHIELD_CAPACITOR_3$"
+ tech_lotor_shield_capacitors_3_desc: "$SHIELD_CAPACITOR_3_DESC$"
+
+# Other
+ tech_lotor_deflector_shields_repeatable: "Deflector Shields Repeatable"
+ tech_lotor_deflector_shields_repeatable_desc: "The basic mechanics of ship shields are complex, but they can be adjusted and improved in a multitude of ways."
+
+## Component Aux
+# Targeting Systems
+ tech_lotor_targeting_systems_1: "Improved Targeting Systems MK I"
+ tech_lotor_targeting_systems_1_desc: "Targeting systems aid both pilots and crew in taking accurate shots at moving targets."
+ tech_lotor_targeting_systems_2: "Improved Targeting Systems MK II"
+ tech_lotor_targeting_systems_2_desc: "Targeting systems now make use of extra computing power to aid both pilots and crew so they can take accurate shots at moving targets."
+ tech_lotor_targeting_systems_3: "Improved Targeting Systems MK III"
+ tech_lotor_targeting_systems_3_desc: "Droids assigned to communicating with targeting computers can now provide analysis to pilots and crew on where the best target of an enemy vessel is located."
+
+## Weapons Specials
+# Atmospheric Calculations
+ tech_lotor_atmospheric_calculations_1: "Atmospheric Calculations"
+ tech_lotor_atmospheric_calculations_1_desc: "Orbital bombardment inflicts heavy damage to planetary infrastructure. By fine-tuning weapons to adjust for each planet's unique atmosphere, the damage can be further increased."
+ tech_lotor_atmospheric_calculations_2: "Bombardment Sanitization"
+ tech_lotor_atmospheric_calculations_2_desc: "Placing specifically conditioned gunners into bombardment positions on a vessel can guarantee maximum damage is applied to a planet's surface. If we don't care about casualties, why should our troops?"
+
+## Weapons Kinetic
+# Mass Drivers
+ tech_lotor_ship_mass_drivers_1: "$SHIP_MASS_DRIVER_1$"
+ tech_lotor_ship_mass_drivers_1_desc: "$SHIP_MASS_DRIVER_1_DESC$"
+ tech_lotor_ship_mass_drivers_2: "$SHIP_MASS_DRIVER_2$"
+ tech_lotor_ship_mass_drivers_2_desc: "$SHIP_MASS_DRIVER_2_DESC$"
+ tech_lotor_ship_mass_drivers_3: "$SHIP_MASS_DRIVER_3$"
+ tech_lotor_ship_mass_drivers_3_desc: "$SHIP_MASS_DRIVER_3_DESC$"
+ tech_lotor_ship_mass_drivers_4: "$SHIP_MASS_DRIVER_4$"
+ tech_lotor_ship_mass_drivers_4_desc: "$SHIP_MASS_DRIVER_4_DESC$"
+ tech_lotor_ship_mass_drivers_5: "$SHIP_MASS_DRIVER_5$" 
+ tech_lotor_ship_mass_drivers_5_desc: "$SHIP_MASS_DRIVER_5_DESC$"
+ tech_lotor_ship_mass_drivers_6: "$SHIP_MASS_DRIVER_6$"
+ tech_lotor_ship_mass_drivers_6_desc: "$SHIP_MASS_DRIVER_6_DESC$"
+
+ tech_lotor_kinetic_improvement_1: "Kinetic Weapon Improvements I"
+ tech_lotor_kinetic_improvement_1_desc: "More powerful springs and lightened bolts work to increase the fire rate of Kinetic weapons through faster cycling of the mechanical parts." #rate
+
+ tech_lotor_kinetic_improvement_2: "Kinetic Weapon Improvements II"
+ tech_lotor_kinetic_improvement_2_desc: "Through layering materials of varying density, the heads of Kinetic warheads have been enhanced, allowing for deeper penetration and harder impacts on enemy vessels." #damage
+
+ tech_lotor_kinetic_improvement_3: "Kinetic Weapon Improvements III"
+ tech_lotor_kinetic_improvement_3_desc: "Through the use of a revolutionary new loading mechanism, two Kinetic warheads can be fired with a singular chemical, plasma, or electromagnetic charge, allowing a much faster rate of fire with no increased chance of malfunction." #rate
+
+ tech_lotor_kinetic_improvement_4: "Kinetic Weapon Improvements IV"
+ tech_lotor_kinetic_improvement_4_desc: "Kinetic warheads are now created with an incendiary material at the tip, capable of burning through armor and creating a minor thermal explosion on impact." #damage
+
+ tech_lotor_kinetic_improvement_5: "Kinetic Weapon Improvements V"
+ tech_lotor_kinetic_improvement_5_desc: "Barrels of Kinetic warheads have a rotary design similar to that of a gattling blaster rifle. Our Kinetic weaponry now fire at a staggeringly high rate of fire, which combined with the incendiary tips can literally melt enemy armor." #rate+damage
+
+## Weapons Lasers
+# Laser Cannons
+ tech_lotor_laser_cannons_1: "$SHIP_LASER_CANNON_1$"
+ tech_lotor_laser_cannons_1_desc: "$SHIP_LASER_CANNON_1_DESC$"
+ tech_lotor_laser_cannons_2: "$SHIP_LASER_CANNON_2$"
+ tech_lotor_laser_cannons_2_desc: "$SHIP_LASER_CANNON_2_DESC$"
+ tech_lotor_laser_cannons_3: "$SHIP_LASER_CANNON_3$"
+ tech_lotor_laser_cannons_3_desc: "$SHIP_LASER_CANNON_3_DESC$"
+ tech_lotor_laser_cannons_4: "$SHIP_LASER_CANNON_4$"
+ tech_lotor_laser_cannons_4_desc: "$SHIP_LASER_CANNON_4_DESC$"
+ tech_lotor_laser_cannons_5: "$SHIP_LASER_CANNON_5$"
+ tech_lotor_laser_cannons_5_desc: "$SHIP_LASER_CANNON_5_DESC$"
+ tech_lotor_laser_cannons_6: "$SHIP_LASER_CANNON_6$" 
+ tech_lotor_laser_cannons_6_desc: "$SHIP_LASER_CANNON_6_DESC$"
+
+# Turbolaser
+ tech_lotor_turbolaser_1: "$SHIP_TURBOLASER_1$"
+ tech_lotor_turbolaser_1_desc: "$SHIP_TURBOLASER_1_DESC$"
+ tech_lotor_turbolaser_2: "$SHIP_TURBOLASER_2$"
+ tech_lotor_turbolaser_2_desc: "$SHIP_TURBOLASER_2_DESC$"
+ tech_lotor_turbolaser_3: "$SHIP_TURBOLASER_3$"
+ tech_lotor_turbolaser_3_desc: "$SHIP_TURBOLASER_3_DESC$"
+ tech_lotor_turbolaser_4: "$SHIP_TURBOLASER_4$"
+ tech_lotor_turbolaser_4_desc: "$SHIP_TURBOLASER_4_DESC$"
+ tech_lotor_turbolaser_5: "$SHIP_TURBOLASER_5$"
+ tech_lotor_turbolaser_5_desc: "$SHIP_TURBOLASER_5_DESC$"
+ tech_lotor_turbolaser_6: "$SHIP_TURBOLASER_6$"
+ tech_lotor_turbolaser_6_desc: "$SHIP_TURBOLASER_6_DESC$"
+
+
+# Ion Cannons
+ tech_lotor_ion_cannons_1: "$SHIP_ION_CANNON_1$"
+ tech_lotor_ion_cannons_1_desc: "$SHIP_ION_CANNON_1_DESC$"
+ tech_lotor_ion_cannons_2: "$SHIP_ION_CANNON_2$"
+ tech_lotor_ion_cannons_2_desc: "$SHIP_ION_CANNON_2_DESC$"
+ tech_lotor_ion_cannons_3: "$SHIP_ION_CANNON_3$"
+ tech_lotor_ion_cannons_3_desc: "$SHIP_ION_CANNON_3_DESC$"
+ tech_lotor_ion_cannons_4: "$SHIP_ION_CANNON_4$"
+ tech_lotor_ion_cannons_4_desc: "$SHIP_ION_CANNON_4_DESC$"
+ tech_lotor_ion_cannons_5: "$SHIP_ION_CANNON_5$"
+ tech_lotor_ion_cannons_5_desc: "$SHIP_ION_CANNON_5_DESC$"
+ tech_lotor_ion_cannons_6: "$SHIP_ION_CANNON_6$"
+ tech_lotor_ion_cannons_6_desc: "$SHIP_ION_CANNON_6_DESC$"
+
+
+# Beam Dish Laser
+ tech_lotor_dish_laser_1: "$DISH_LASER_1$"
+ tech_lotor_dish_laser_1_desc: "$DISH_LASER_1_DESC$"
+ tech_lotor_dish_laser_2: "$DISH_LASER_2$"
+ tech_lotor_dish_laser_2_desc: "$DISH_LASER_2_DESC$"
+ tech_lotor_dish_laser_3: "$DISH_LASER_3$"
+ tech_lotor_dish_laser_3_desc: "$DISH_LASER_3_DESC$"
+
+# Rapid Laser Cannons
+ tech_lotor_rapid_laser_cannons_1: "$SHIP_RAPID_LASER_CANNON_1$"
+ tech_lotor_rapid_laser_cannons_1_desc: "$SHIP_RAPID_LASER_CANNON_1_DESC$"
+ tech_lotor_rapid_laser_cannons_2: "Standard Rapid Laser Cannons"
+ tech_lotor_rapid_laser_cannons_2_desc: "$SHIP_RAPID_LASER_CANNON_2_DESC$"
+ tech_lotor_rapid_laser_cannons_3: "Modernized Rapid Laser Cannons"
+ tech_lotor_rapid_laser_cannons_3_desc: "$SHIP_RAPID_LASER_CANNON_3_DESC$"
+
+# Laser Point Defense
+ tech_lotor_laser_point_defence_1: "$SHIP_LASER_PD_1$"
+ tech_lotor_laser_point_defence_1_desc: "$SHIP_LASER_PD_1_DESC$"
+ tech_lotor_laser_point_defence_2: "Basic Laser Point Defense"
+ tech_lotor_laser_point_defence_2_desc: "$SHIP_LASER_PD_2_DESC$"
+ tech_lotor_laser_point_defence_3: "Standard Laser Point Defense"
+ tech_lotor_laser_point_defence_3_desc: "$SHIP_LASER_PD_3_DESC$"
+ tech_lotor_laser_point_defence_4: "Modern Laser Point Defense"
+ tech_lotor_laser_point_defence_4_desc: "$SHIP_LASER_PD_4_DESC$"
+ tech_lotor_laser_point_defence_5: "Advanced Laser Point Defense"
+ tech_lotor_laser_point_defence_5_desc: "$SHIP_LASER_PD_5_DESC$"
+ tech_lotor_laser_point_defence_6: "Revolutionary Laser Point Defense"
+ tech_lotor_laser_point_defence_6_desc: "$SHIP_LASER_PD_6_DESC$"
+
+# Element Laser Improvements
+ tech_lotor_laser_improvement_1: "Laser Weapon Improvements I"
+ tech_lotor_laser_improvement_1_desc: "Power cells within a Laser turret battery are designed to recharge at a faster rate in order to facilitate a higher volume of fire." #rate
+
+ tech_lotor_laser_improvement_2: "Laser Weapon Improvements II"
+ tech_lotor_laser_improvement_2_desc: "Barrels inside a Laser turret battery are upgraded with a higher quality focusing lens to amplify the strength of the Laser being fired at the enemy." #damage
+
+ tech_lotor_laser_improvement_3: "Laser Weapon Improvements III"
+ tech_lotor_laser_improvement_3_desc: "Chaining multiple Power cells together similar to a rope while performing a safety override on the Laser weapon allows for faster weapon fire while draining the Power cells at an equivalent rate to the previous design." #rate
+
+ tech_lotor_laser_improvement_4: "Laser Weapon Improvements IV"
+ tech_lotor_laser_improvement_4_desc: "Dual layer lenses installed on the Laser weapons ensure a more focused beam and increased damage to an enemy vessel on impact." #damage
+
+ tech_lotor_laser_improvement_5: "Laser Weapon Improvements V"
+ tech_lotor_laser_improvement_5_desc: "Chemical compounds injected into a Power cell before use allows Lasers to be fired at a faster rate while also packing a heavier punch to the enemy." #rate + damage
+
+ tech_lotor_ion_improvement_1: "Ion Weapon Improvements I"
+ tech_lotor_ion_improvement_1_desc: "Ion weapon barrels now charge the projectile throughout the firing process instead of charging fully, then firing, resulting in a faster rate of fire." #rate
+
+ tech_lotor_ion_improvement_2: "Ion Weapon Improvements II"
+ tech_lotor_ion_improvement_2_desc: "Ion particles are supercharged inside a cannon as they are fired to deliver higher damage yields to enemy vessels." #damage
+
+ tech_lotor_ion_improvement_3: "Ion Weapon Improvements III"
+ tech_lotor_ion_improvement_3_desc: "Ion weapon batteries now operate on a separate power grid from the rest of a vessels primary systems. Gunners can now fire in faster succession without fear of overloading adjacent subsystems." #rate
+
+ tech_lotor_ion_improvement_4: "Ion Weapon Improvements IV"
+ tech_lotor_ion_improvement_4_desc: "Ion cannon barrels are now designed to be larger in width so that more ion particles can be released. A bigger blast means a stronger charge and more damage." #damage
+
+ tech_lotor_ion_improvement_5: "Ion Weapon Improvements V"
+ tech_lotor_ion_improvement_5_desc: "Ion Weapon Batteries are now designed similarly to a gattling blaster rifle with rotating barrels, dramatically increasing rate of fire while the rotation supercharges the blasts further, increasing damage." #rate+damage
+
+
+# Plasma Sphere
+ tech_lotor_plasma_spheres_1: "$SHIP_PLASMA_SPHERES_1$"
+ tech_lotor_plasma_spheres_1_desc: "$SHIP_PLASMA_SPHERES_1_DESC$"
+ tech_lotor_plasma_spheres_2: "$SHIP_PLASMA_SPHERES_2$"
+ tech_lotor_plasma_spheres_2_desc: "$SHIP_PLASMA_SPHERES_2_DESC$"
+ tech_lotor_plasma_spheres_3: "$SHIP_PLASMA_SPHERES_3$"
+ tech_lotor_plasma_spheres_3_desc: "$SHIP_PLASMA_SPHERES_3_DESC$"
+ tech_lotor_plasma_spheres_4: "$SHIP_PLASMA_SPHERES_4$"
+ tech_lotor_plasma_spheres_4_desc: "$SHIP_PLASMA_SPHERES_4_DESC$"
+ tech_lotor_plasma_spheres_5: "$SHIP_PLASMA_SPHERES_5$"
+ tech_lotor_plasma_spheres_5_desc: "$SHIP_PLASMA_SPHERES_5_DESC$"
+ tech_lotor_plasma_spheres_6: "R$SHIP_PLASMA_SPHERES_6$"
+ tech_lotor_plasma_spheres_6_desc: "$SHIP_PLASMA_SPHERES_6_DESC$"
+
+# Tractor Beams
+ tech_lotor_tractor_beams_1: "$SHIP_TRACTOR_BEAM_1$"
+ tech_lotor_tractor_beams_1_desc: "$SHIP_TRACTOR_BEAM_1_DESC$"
+ tech_lotor_tractor_beams_2: "$SHIP_TRACTOR_BEAM_2$"
+ tech_lotor_tractor_beams_2_desc: "$SHIP_TRACTOR_BEAM_2_DESC$"
+ tech_lotor_tractor_beams_3: "$SHIP_TRACTOR_BEAM_3$"
+ tech_lotor_tractor_beams_3_desc: "$SHIP_TRACTOR_BEAM_3_DESC$"
+ tech_lotor_tractor_beams_4: "$SHIP_TRACTOR_BEAM_4$"
+ tech_lotor_tractor_beams_4_desc: "$SHIP_TRACTOR_BEAM_4_DESC$"
+
+# Spectrum Laser
+ tech_lotor_spectrum_laser_1: "$SHIP_SPEKTRUM_LASER_1$"
+ tech_lotor_spectrum_laser_1_desc: "$SHIP_SPEKTRUM_LASER_1_DESC$"
+ tech_lotor_spectrum_laser_2: "$SHIP_SPEKTRUM_LASER_2$"
+ tech_lotor_spectrum_laser_2_desc: "$SHIP_SPEKTRUM_LASER_2_DESC$"
+ tech_lotor_spectrum_laser_3: "$SHIP_SPEKTRUM_LASER_3$"
+ tech_lotor_spectrum_laser_3_desc: "$SHIP_SPEKTRUM_LASER_3_DESC$"
+ tech_lotor_spectrum_laser_4: "$SHIP_SPEKTRUM_LASER_4$"
+ tech_lotor_spectrum_laser_4_desc: "$SHIP_SPEKTRUM_LASER_4_DESC$"
+ tech_lotor_spectrum_laser_5: "$SHIP_SPEKTRUM_LASER_5$"
+ tech_lotor_spectrum_laser_5_desc: "$SHIP_SPEKTRUM_LASER_5_DESC$"
+ tech_lotor_spectrum_laser_6: "$SHIP_SPEKTRUM_LASER_6$"
+ tech_lotor_spectrum_laser_6_desc: "$SHIP_SPEKTRUM_LASER_6_DESC$"
+
+### Gateways
+ gateway_physic_theory: "Gateway for everything that increases physic research."
+ gateway_droids: "§HDroids§!\n§EThis technology will lead to further advancements in the field of droid fabrication.§!"
+ gateway_droid_brains: "§HDroid Brains§!\n§EThis technology will lead to further advancements in various Technologies which require additional calculation power.§!"
+ gateway_holonet: "§HHoloNet§!\n§EThis technology will lead to further advancements in the Galactic HoloNet.§!"
+ gateway_deflector_shields: "§HDeflector Shields§!\n§EThis technology will lead to further advancements in Deflector Shields.§!"
+ gateway_shield_types: "§HShield Types§!\n§EThis technology will lead to further advancements for special Shield Types.§!"
+ gateway_regen_shields: "§HRegenerative Shields§!\n§EThis technology will lead to further advancements in Regenerative Shield Types.§!"
+ gateway_ray_shields: "§HRay Shields§!\n§EThis technology will lead to further advancements in Ray Shield Types.§!"
+ gateway_strong_shields: "§HLayered Shields§!\n§EThis technology will lead to further advancements in Layered Shield Types.§!"
+ gateway_electrostatic_barrier: "§HElectrostatic Barriers§!\n§EThis technology will lead to further advancements in Electrostatic Barriers.§!"
+ gateway_laser_weapons: "§HLaser Weapons§!\n§EThis technology will lead to further advancements in laser based weapon systems.§!"
+ gateway_ion_cannons: "§HIon Weapons§!\n§EThis technology will lead to further advancements in ion based weapon systems.§!"
+ gateway_projectile_cannon: "§HProjectile Weapons§!\n§EThis technology will lead to further advancements in projectile based weapon systems.§!"
+ gateway_exploration: "§HExploration Path§!\n§EThis technology will lead to further advancements in the exploration of the Galaxy.§!"
+ gateway_cloning: "§HCloning§!\n§EThis technology will lead to further advancements in the field of cloning and cloned military.§!"
+ gateway_isotope5: "§HIsotope5§!\n§EThis technology will lead to further advancements around the Special Resource Isotope5.§!"
+
+ tech_lotor_ship_generic_armor_1: "$SHIP_ARMOR_1$"
+ tech_lotor_ship_generic_armor_1_desc: "$SHIP_ARMOR_1_DESC$"
+ tech_lotor_ship_generic_armor_2: "$SHIP_ARMOR_2$"
+ tech_lotor_ship_generic_armor_2_desc: "$SHIP_ARMOR_2_DESC$"
+ tech_lotor_ship_generic_armor_3: "$SHIP_ARMOR_3$"
+ tech_lotor_ship_generic_armor_3_desc: "$SHIP_ARMOR_3_DESC$"
+ tech_lotor_ship_generic_armor_4: "$SHIP_ARMOR_4$"
+ tech_lotor_ship_generic_armor_4_desc: "$SHIP_ARMOR_4_DESC$"
+ tech_lotor_ship_generic_armor_5: "$SHIP_ARMOR_5$"
+ tech_lotor_ship_generic_armor_5_desc: "$SHIP_ARMOR_5_DESC$"
+ tech_lotor_ship_generic_armor_6: "$SHIP_ARMOR_6$"
+ tech_lotor_ship_generic_armor_6_desc: "$SHIP_ARMOR_6_DESC$"
+
+# Heavy Armor
+ tech_lotor_ship_heavy_armor_1: "$SHIP_HEAVY_ARMOR_1$"
+ tech_lotor_ship_heavy_armor_1_desc: "$SHIP_HEAVY_ARMOR_1_DESC$"
+ tech_lotor_ship_heavy_armor_2: "$SHIP_HEAVY_ARMOR_2$"
+ tech_lotor_ship_heavy_armor_2_desc: "$SHIP_HEAVY_ARMOR_2_DESC$"
+ tech_lotor_ship_heavy_armor_3: "$SHIP_HEAVY_ARMOR_3$"
+ tech_lotor_ship_heavy_armor_3_desc: "$SHIP_HEAVY_ARMOR_3_DESC$"
+ tech_lotor_ship_heavy_armor_4: "$SHIP_HEAVY_ARMOR_4$"
+ tech_lotor_ship_heavy_armor_4_desc: "$SHIP_HEAVY_ARMOR_4_DESC$"
+ tech_lotor_ship_heavy_armor_5: "$SHIP_HEAVY_ARMOR_5$"
+ tech_lotor_ship_heavy_armor_5_desc: "$SHIP_HEAVY_ARMOR_5_DESC$"
+ tech_lotor_ship_heavy_armor_6: "$SHIP_HEAVY_ARMOR_6$"
+ tech_lotor_ship_heavy_armor_6_desc: "$SHIP_HEAVY_ARMOR_6_DESC$"
+
+# Oridium Armor
+ tech_lotor_ship_oridium_armor_1: "$SHIP_ORIDIUM_ARMOR_1$"
+ tech_lotor_ship_oridium_armor_1_desc: "$SHIP_ORIDIUM_ARMOR_1_DESC$"
+ tech_lotor_ship_oridium_armor_2: "$SHIP_ORIDIUM_ARMOR_2$"
+ tech_lotor_ship_oridium_armor_2_desc: "$SHIP_ORIDIUM_ARMOR_2_DESC$"
+ tech_lotor_ship_oridium_armor_3: "$SHIP_ORIDIUM_ARMOR_3$"
+ tech_lotor_ship_oridium_armor_3_desc: "$SHIP_ORIDIUM_ARMOR_3_DESC$"
+
+# Armor Hardener
+ tech_lotor_armor_hardeners_1: "$ARMOR_HARDENER_1$"
+ tech_lotor_armor_hardeners_1_desc: "$ARMOR_HARDENER_1_DESC$"
+ tech_lotor_armor_hardeners_2: "$ARMOR_HARDENER_2$"
+ tech_lotor_armor_hardeners_2_desc: "$ARMOR_HARDENER_2_DESC$"
+
+### Farming Stuff
+ tech_lotor_industrial_farming: "Industrial Farming"
+ tech_lotor_industrial_farming_desc: "Large-scale industrial farms grow nutrient-rich produce, allowing a civilization to grow in population."
+ tech_lotor_eco_simulation: "Eco Simulation"
+ tech_lotor_eco_simulation_desc: "Farming techniques can be further refined through sophisticated computer simulations of differing environments and weather patterns. This allows for more predictable crop yields."
+ tech_lotor_gene_crops: "Gene Crops"
+ tech_lotor_gene_crops_desc: "Sophisticated genetic engineering of crops helps increase yield and further improves both taste and nutrient levels."
+ tech_lotor_nano_vitality_crops: "Nano Vitality Crops"
+ tech_lotor_nano_vitality_crops_desc: "Infusing crop strands with small amounts of nano-machines help create a type of produce that is ultra resilient, and the chemical composition of which can be tailored and altered during its entire lifetime."
+ tech_lotor_advanced_crops: "Advanced Crops"
+ tech_lotor_advanced_crops_desc: "Advanced crops offer the nutritional elements of several standard food crops in one convenient package."
+ tech_lotor_food_processing_1: "Food Processing"
+ tech_lotor_food_processing_1_desc: "Early food processing facilities help to verify safety and pack food units."
+ tech_lotor_food_processing_2: "Improved Food Processing"
+ tech_lotor_food_processing_2_desc: "Improvements to food processing help increase productivity."
+ tech_lotor_food_processing_3: "Advanced Food Processing"
+ tech_lotor_food_processing_3_desc: "Advancements with food processing help improve productivity and quality."
+ tech_lotor_orbital_hydroponics: "Space Hydroponics"
+ tech_lotor_orbital_hydroponics_desc: "Hydroponics on orbital platforms allows for the growing of food in an environment where it would be normally impossible."
+ tech_lotor_planetary_hydroponics: "Planetary Hydroponics"
+ tech_lotor_planetary_hydroponics_desc: "Hydroponics farming in a controlled environment allows for crops to be grown in climates where farming would normally be impossible."
+ tech_lotor_advanced_hydroponics: "Advanced Orbital Hydroponics"
+ tech_lotor_advanced_hydroponics_desc: "Improvements to hydroponic farming increases quality and yield."
+ tech_lotor_nutrient_replication: "Nutrient Replication"
+ tech_lotor_nutrient_replication_desc: "Replicating the necessary nutrient make up of soil synthetically."
+ tech_lotor_repeatable_improved_tile_food_output: "Transgenetic Crops"
+ tech_lotor_repeatable_improved_tile_food_output_desc: "Further genetic improvements to food production. Hopefully no one goes hungry ever again in our empire."
+
+#Colonization Stuff
+ tech_colonization_1: "New Worlds Protocol"
+ tech_colonization_1_desc: "Gathering resources and gear required to establish a planetary colony allows us to herd brave pioneers into grand ark ships, confident that they will survive the long voyage across the stars to a new home."
+ tech_lotor_colonization_2: "Atmospheric Filtering"
+ tech_lotor_colonization_2_desc: "By adjusting atmospheric filtering on a per-site basis to better filter out undesirable elements, colonial living conditions may be improved."
+ tech_lotor_colonization_3: "Hostile Environment Adaption"
+ tech_lotor_colonization_3_desc: "Further study into the hazardous environments found on other planets help alleviate the difficulties that colonizers encounter in their day-to-day lives on foreign worlds."
+ tech_lotor_colonization_4: "Foreign Soil Enrichment"
+ tech_lotor_colonization_4_desc: "Extensive study into different soil types and their ability to support crops will help improve the living conditions of our settlers on foreign worlds."
+ tech_lotor_colonization_5: "Eco-Integration Studies"
+ tech_lotor_colonization_5_desc: "Additional study into different planetary climates will allow us to settle our population on worlds previously thought too hostile to support them."
+ tech_lotor_hospitals_1: "Hospitals"
+ tech_lotor_hospitals_1_desc: "Facilities placed around planetary settlements designed to heal the sick and provide advanced healthcare that ordinary clinics do not provide."
+ tech_lotor_hospitals_2: "Advanced Hospitals"
+ tech_lotor_hospitals_2_desc: "Healthcare in hospitals can be segmented into individual wards in order to specialize treatments. These wards can also help quarantine severely ill persons away from the rest of the population."
+
+ tech_lotor_normal_medical_supplies: "Medpac Production"
+ tech_lotor_normal_medical_supplies_desc: "A small first aid kit that contained limited-utility diagnosis equipment and other essential medicines for the treatment of wounds."
+ tech_lotor_kolto_medical_supplies: "Kolto Medpacs"
+ tech_lotor_kolto_medical_supplies_desc: "A small first aid kit that contained limited-utility diagnosis equipment and other essential medicines for the treatment of wounds. Unlike the basic medpac, these include Kolto infusions to treat more serious injuries."
+ tech_lotor_juvan_medical_supplies: "Juvan Medpacs"
+ tech_lotor_juvan_medical_supplies_desc: "Juvan, more commonly referred to as rejuv, is a chemical compound capable of healing internal injuries more effectively than Kolto. It will make a perfect addition to the regular medpacs typically issued across our space."
+ tech_lotor_bacta_medical_supplies: "Bacta Medpacs"
+ tech_lotor_bacta_medical_supplies_desc: "Bacta fluids, recently discovered on Thyferra, make it possible to heal poisonings and infections as well as more traditional physical wounds more effectively than Kolto, allowing for more potent medpacs."
+
+ tech_lotor_spice_mining: "Spice Extraction"
+ tech_lotor_spice_mining_desc: "An addictive and rare substance, Spice serves as a reliable cash crop for morally bankrupt elements across the Galaxy."
+ tech_lotor_spice_filtering_1: "Spice Filtering"
+ tech_lotor_spice_filtering_1_desc: "Our mining process has been refined, allowing for more pure samples of Spice to be recovered. Citizens have a significantly higher buzz than a placebo."
+ tech_lotor_spice_filtering_2: "Advanced Spice Filtering"
+ tech_lotor_spice_filtering_2_desc: "Droids can now analyze chemical compounds to make sure our miners are extracting only the purest spice. It will now be able to more freely flow across our empire."
+ tech_lotor_planetary_resurfacing: "Planetary Resurfacing"
+ tech_lotor_planetary_resurfacing_desc: "With the advent of clean fusion, automation, and matter compression technologies, it was only a matter of time before mountain top removal became mountain range removal."
+ tech_lotor_deep_crust_engineering: "Deep Crust Engineering"
+ tech_lotor_deep_crust_engineering_desc: "Advances in soil processing technology and deep-shaft mining techniques allow geo-engineering at previously unthinkable depths and temperatures. Magma hotspots can now be exploited, suppressed, or even relocated."
+ tech_lotor_dangerous_wildlife_removal_1: "Dangerous Wildlife Removal"
+ tech_lotor_dangerous_wildlife_removal_1_desc: "Tactical disruption of natural habitats combined with converging search-and-destroy patterns can effectively eliminate hostile wildlife in a very short span of time. Even regular citizens can shoot womp rats from the privacy of their own home."
+ tech_lotor_selective_defoliants: "Selective Defoliants"
+ tech_lotor_selective_defoliants_desc: "Thorough cataloging, gene sequencing, and computer modeling of exobotanical ecosystems, coupled with gene editing and dispersal mechanisms, we will be able to reshape alien plant communities to our liking."
+ tech_lotor_soil_remediation: "Soil Remediation"
+ tech_lotor_soil_remediation_desc: "The process of soil deposition normally takes millions of years. With advanced fracking, chemical engineering, and hydraulic management technologies even the poorest substrate can be turned into fertile topsoil."
+ tech_lotor_xeno_hydraulic_mastery: "Xeno-Hydraulic Mastery"
+ tech_lotor_xeno_hydraulic_mastery_desc: "Sapient races have been reclaiming swampland for thousands of years. A coordinated system of modular aqueducts, pump stations, chemical remediation crawlers and automated soil compactors can reclaim land at unprecedented speeds."
+ tech_lotor_climate_control_network: "Climate Control Network"
+ tech_lotor_climate_control_network_desc: "Orbital systems of mirrors and shades can effect dramatic changes in planetary climates, when managed properly."
+ tech_lotor_ocean_ecology_management: "Ocean Ecology Management"
+ tech_lotor_ocean_ecology_management_desc: "Given enough processing power, networked sensors, and distributed stations, even the ocean currents can be managed to a fine level of control."
+ tech_lotor_subterranean_colonization: "Subterranean Colonization"
+ tech_lotor_subterranean_colonization_desc: "Many planets exhibit extensive subsurface voids. Subterranean exploration, exploitation, and construction techniques can greatly increase the habitable area of some worlds."
+ tech_lotor_tomb_world_adaption: "Tomb World Adaption"
+ tech_lotor_tomb_world_adaption_desc: "Through comprehensive study of irradiated environments we will allow our settlers to colonize worlds that have been devastated by nuclear warfare."
+ tech_lotor_hospitals: "Hospitals"
+ tech_lotor_hospitals_desc: "Hospitals"
+ tech_lotor_terrestrial_sculpting: "Terrestrial Sculpting"
+ tech_lotor_terrestrial_sculpting_desc: "There is no simple solution to the problem of macro-scale reshaping of planetary crusts - only bigger trowels and orbital-deployed drills."
+ tech_lotor_ecological_adaptation: "Ecological Adaptation"
+ tech_lotor_ecological_adaptation_desc: "By adapting planetary ecosystems to large-scale environmental changes we can turn terraforming into a less disruptive process."
+ tech_lotor_climate_restoration: "Climate Restoration"
+ tech_lotor_climate_restoration_desc: "By advancing our understanding of atmospheric transformation, we will be able to terraform even the most ecologically devastated worlds."
+
+#Government Stuff
+ tech_lotor_planetary_government: "Planetary Government"
+ tech_lotor_planetary_government_desc: "Once a colony has been firmly established and pioneers turn into citizens, the need for a strong local government providing stability trumps the colonial need for flexibility."
+
+ tech_lotor_planetary_unification: "Planetary Unification"
+ tech_lotor_planetary_unification_desc: "Ancient warring tribes, historical nations in conflict, and government mismanagement have shown us what not to do with our people. Philosophers have taught us new ways to unify a planet in the service of our empire."
+
+ tech_lotor_basic_envoy_droids: "Basic Envoy Droids"
+ tech_lotor_basic_envoy_droids_desc: "These basic model diplomatic droids help to facilitate basic diplomatic interactions."
+
+ tech_lotor_protocol_droids: "Protocol Droids"
+ tech_lotor_protocol_droids_desc: "More sophisticated than their progenitors, Protocol Droids are a considerable boon to our diplomatic corps."
+
+ tech_lotor_colonial_centralization: "Colonial Centralization"
+ tech_lotor_colonial_centralization_desc: "Robust frameworks for local governance created on a per-case basis, to meet each colony's needs."
+
+ tech_lotor_diplomacy_1: "Interspecies Diplomacy"
+ tech_lotor_diplomacy_1_desc: "Coming to a common understanding among species on the same planet can be challenging but not impossible. Making sure we respect each individual will be the first step towards empire cohesion."
+
+ tech_lotor_diplomacy_2: "Galactic Diplomacy"
+ tech_lotor_diplomacy_2_desc: "Dealing with neighboring systems and empires is far more intense than negotiations on a planetary scale. Aggressive negotiations should not be our first answer."
+
+ tech_lotor_diplomacy_3: "Intergalactic Diplomacy"
+ tech_lotor_diplomacy_3_desc: "Diplomacy with the larger galactic community is no simple task. Diplomats and other envoys must train for years to make sure we avoid awkward incidents between empires."
+
+ tech_lotor_global_production_strategy_1: "Global Production Strategy"
+ tech_lotor_global_production_strategy_1_desc: "Planets are large and production sites are often separated by vast distances. A coherent strategy for making certain that everyone is pulling in the same direction is often needed."
+
+ tech_lotor_global_production_strategy_2: "Advanced Global Production Strategy"
+ tech_lotor_global_production_strategy_2_desc: "Infrastructure designed to connect vast distances across our planets can improve productivity and profits."
+
+ tech_lotor_autocurating_vault_1: "Automated Curation Algorithms"
+ tech_lotor_autocurating_vault_1_desc: "Continuous, asynchronous analysis of disparate data sets allows for the accurate modeling of hitherto-unpredictable fluctuations in social currents."
+
+ tech_lotor_autocurating_vault_2: "Advanced Automated Curation Algorithms"
+ tech_lotor_autocurating_vault_2_desc: "Continuous, asynchronous analysis of disparate data sets allows for the accurate modeling of hitherto-unpredictable fluctuations in social currents."
+
+ tech_lotor_sectorial_centralization: "Sectorial Centralization"
+ tech_lotor_sectorial_centralization_desc: "Establishing centralized sectors helps keep our empire running effectively, at the same time making it easier to bring our Traditions and Customs towards the outer reaches of our Empire."
+
+ tech_lotor_galactic_administration: "Galactic Administration"
+ tech_lotor_galactic_administration_desc: "It takes more than just an iron will to control the galaxy. Sometimes, you need to have a well designed and convoluted bureaucracy."
+
+ tech_lotor_galactic_markets: "Galactic Markets"
+ tech_lotor_galactic_markets_desc: "$building_galactic_stock_exchange_desc$"
+
+ tech_lotor_autonomous_agents: "Autonomous Agents"
+ tech_lotor_autonomous_agents_desc: "Semi-independent units have proved critical to the success of our grand designs."
+ tech_lotor_emboided_dynamism: "Embodied Dynamism"
+ tech_lotor_emboided_dynamism_desc: "Initiative and some measure of ambition must be promoted in our autonomous leader units, while still making certain that they do not stray too far from that which has been outlined by the core directive."
+ tech_lotor_living_state: "Living State"
+ tech_lotor_living_state_desc: "The Empire lives, the Empire breathes. We may make up its body, but it is not for the left hand to know what the right hand is doing. Separating specific tasks can minimize red tape."
+ tech_lotor_adaptive_bureaucracy: "Adaptive Bureaucracy"
+ tech_lotor_adaptive_bureaucracy_desc: "The progress we make calls for a new, nimbler form of administration that may aid rather than hinder us in our pursuits."
+ tech_lotor_colonial_bureaucracy: "Colonial Bureaucracy"
+ tech_lotor_colonial_bureaucracy_desc: "Local administrative developments allow for closer supervision of colonial affairs without excessively burdening central decision-making."
+ tech_lotor_sectorwide_bureaucracy: "Sector-wide Bureaucracy"
+ tech_lotor_sectorwide_bureaucracy_desc: "A more centralized approach to handling administrative developments throughout an entire sector."
+ tech_lotor_galactic_bureaucracy: "Galactic Bureaucracy"
+ tech_lotor_galactic_bureaucracy_desc: "Multiple administrative strata efficiently surface only the most vital information to the upper levels of government."
+ tech_lotor_repeatable_improved_core_system_cap: "Administrative Efficiency"
+ tech_lotor_repeatable_improved_core_system_cap_desc: "Restructuring the managerial web linking outer worlds to the capital can help alleviate the administrative stressors and information chokepoints that frequently arise within a budding empire."
+ tech_lotor_enhanced_bureaucracy: "Enhanced Bureaucracy"
+ tech_lotor_enhanced_bureaucracy_desc: "The bureaucracy can be improved upon constantly. Whether it becomes a labyrinthine system of administrative tasks depends on the ruler."
+ tech_lotor_effective_bureaucracy: "Effective Bureaucracy"
+ tech_lotor_effective_bureaucracy_desc: "An effective bureaucracy can properly take care of the populace in numerous ways. The best bureaucracies achieve this without anyone ever noticing."
+ tech_lotor_interplanetary_commerce: "Interplanetary Commerce"
+ tech_lotor_interplanetary_commerce_desc: "Trade between planets allows both parties to flourish and grow."
+ tech_lotor_space_trading_1: "Offworld Trade Companies"
+ tech_lotor_space_trading_1_desc: "Particular businesses within our empires can make sure trade flows smoothly from one sector to another."
+ tech_lotor_space_trading_2: "Efficient Offworld Trade Companies"
+ tech_lotor_space_trading_2_desc: "Improved navigational beacons along popular hyperlanes aid major companies in conducting trade."
+ tech_lotor_interstellar_economics: "Interstellar Economics"
+ tech_lotor_interstellar_economics_desc: "The future of economics lies beyond our core world sectors. Trading can now reach the furthest corners of our empire."
+ tech_lotor_galactic_economics: "Galactic Economics"
+ tech_lotor_galactic_economics_desc: "Economics can no longer be thought of solely within our own borders. Galactic affairs can have drastic effects on on our income generation if not monitored closely."
+ tech_lotor_holo_entertainment: "Holographic Entertainment"
+ tech_lotor_holo_entertainment_desc: "$building_hyper_entertainment_forum_desc$"
+ tech_lotor_hyper_entertainment_forum: "3-Dimensional Holographic Entertainment"
+ tech_lotor_hyper_entertainment_forum_desc: "Holographic entertainment is enhanced through advanced rendering techniques and better-quality images."
+ tech_lotor_entertainment_3: "Advanced Holographic Entertainment"
+ tech_lotor_entertainment_3_desc: "Pushing the limits of existing holographic technology can bring us unrivaled image quality."
+
+# Cultural Techs
+ tech_cultural_heritage: "Cultural Heritage Sites"
+ tech_cultural_heritage_desc: "Physical reminders of how far we have come both instill a reverence for past achievements and bolster ambitions for the future."
+ tech_lotor_heritage_site: "Improved Cultural Heritage Sites"
+ tech_lotor_heritage_site_desc: "Physical reminders of how far we have come both instill a reverence for past achievements and bolster ambitions for the future. Adding a written message to the site makes sure no one can forget."
+ tech_lotor_hypercomms_forum: "Local Hypercommunication"
+ tech_lotor_hypercomms_forum_desc: "Not all research into faster-than-light communication channels produces useful results, but some outcomes may find new purpose in bringing our people together on a planetary scale."
+ tech_lotor_holo_hypercomms_forum: "Holo Hypercommunication"
+ tech_lotor_holo_hypercomms_forum_desc: "Not all research into faster-than-light communication channels produces useful results, but some outcomes may find new purpose in bringing our people together on a galactic scale."
+ tech_lotor_holographic_rituals: "Holographic Rituals"
+ tech_lotor_holographic_rituals_desc: "Seeing is believing, and belief begets reality. What's a little trickery if we can secure the loyalty of the populace?"
+ tech_lotor_consecration_fields: "Consecration Fields"
+ tech_lotor_consecration_fields_desc: "Through our understanding of physics and field manipulation, our holy places shall be seen and felt by all."
+ tech_lotor_transcendent_faith: "Transcendent Faith"
+ tech_lotor_transcendent_faith_desc: "Leaving our planetary cradle has opened us up to a new understanding of faith, and its place in a wider context."
+ tech_lotor_hive_node: "Synaptic Structures"
+ tech_lotor_hive_node_desc: "One hive, one mind."
+ tech_lotor_hive_cluster: "Clustered Synapses"
+ tech_lotor_hive_cluster_desc: "Close groupings of nests make it easier for us to work in unison."
+ tech_lotor_advanced_clustered_synapses: "Advanced Clustered Synapses"
+ tech_lotor_advanced_clustered_synapses_desc: "Spires and deep tunnels connect the nests across our planets."
+ tech_lotor_hive_confluence: "Local Confluence of Thought"
+ tech_lotor_hive_confluence_desc: "A localized union of minds."
+
+#Space Strategy Techs
+ tech_lotor_doctrine_fleet_size_1: "Interstellar Combat"
+ tech_lotor_doctrine_fleet_size_1_desc: "Gradual adaptation to the realities of deep-space combat allows us to effectively coordinate larger maneuvers."
+ tech_lotor_doctrine_fleet_size_2: "Doctrine Reactive Formation"
+ tech_lotor_doctrine_fleet_size_2_desc: "Admirals prone to following this doctrine often react to enemy movements in battle. Why charge ahead to make a mistake when the enemy can do that for you?"
+ tech_lotor_doctrine_fleet_size_3: "Doctrine Interstellar Warfare"
+ tech_lotor_doctrine_fleet_size_3_desc: "A single battle no longer determines the fate of an empire. Admirals know a small defeat can lead to even greater gains in the future."
+ tech_lotor_doctrine_fleet_size_4: "Doctrine Fluid Fleet Templates"
+ tech_lotor_doctrine_fleet_size_4_desc: "A wide variety of ship classes within a fleet can allow Admirals to adapt to any situation."
+ tech_lotor_doctrine_fleet_size_5: "Doctrine Armada Battle Formations"
+ tech_lotor_doctrine_fleet_size_5_desc: "Making sure a fleet centered around domination through superior firepower can win the day."
+ tech_lotor_interstellar_fleet_traditions: "Interstellar Fleet Traditions"
+ tech_lotor_interstellar_fleet_traditions_desc: "A body of knowledge regarding combat behaviors is useless without a strong code governing its use."
+ tech_lotor_refit_standards: "Refit Standards"
+ tech_lotor_refit_standards_desc: "Standardizing workflows for upgrading and retrofitting ship components can lead to massive efficiency gains."
+ tech_lotor_command_matrix: "Command Matrix"
+ tech_lotor_command_matrix_desc: "Restructuring the chain of command and deciding what interdependencies are set between officers makes fleets more responsive and effective."
+ tech_lotor_doctrine_navy_size_1: "Doctrine Fleet Support"
+ tech_lotor_doctrine_navy_size_1_desc: "As interstellar expeditions become increasingly common, it is important to provide planetside relief for returning fleets."
+ tech_lotor_doctrine_navy_size_2: "Doctrine Support Vessels"
+ tech_lotor_doctrine_navy_size_2_desc: "A fleet does not function on zeal and determination alone. To ensure steady access to critical supplies, we should organize our logistics corps into dedicated support vessels."
+ tech_lotor_doctrine_navy_size_3: "Doctrine Interstellar Logistics"
+ tech_lotor_doctrine_navy_size_3_desc: "Amateurs talk about tactics. Professionals study logistics. By ensuring our fleets are regularly and efficiently supplied, we can increase the number of vessels we can effectively support."
+ tech_lotor_doctrine_navy_size_4: "Fleet Management Procedures"
+ tech_lotor_doctrine_navy_size_4_desc: "By maintaining a professional corps of fleet liaisons, we can improve communications and the flow of orders throughout the chain of command."
+ tech_lotor_repeatable_naval_cap: "Fleet Support Procedures"
+ tech_lotor_repeatable_naval_cap_desc: "Improved fleet management procedures will free up the resources needed to maintain a bigger fleet."
+ tech_lotor_repeatable_command_limit: "Admiralty Support Staff"
+ tech_lotor_repeatable_command_limit_desc: "Improving the support staff available to our admirals will increase the number of ships they can command in a single fleet."
+
+## Components Crew
+# Crews for Ships
+ tech_lotor_trained_crews_1: "Standardized Crew Training"
+ tech_lotor_trained_crews_1_desc: "Understanding the basics of one's station aboard a ship is a necessity to guarantee the best possible performance."
+
+ tech_lotor_trained_crews_2: "Advanced Crew Training"
+ tech_lotor_trained_crews_2_desc: "Knowing how to handle situations under duress is key to any seasoned naval crewman."
+
+ tech_lotor_trained_crews_3: "High Quality Training Academies"
+ tech_lotor_trained_crews_3_desc: "Academies produce outstanding recruits and prepare them for their future aboard our ships."
+## Army Techs
+# Armies
+ tech_lotor_light_armored_vehicles: "Light Armored Vehicles"
+ tech_lotor_light_armored_vehicles_desc: "Armored vehicles ranging from repulsor craft to lightly armored walkers can assist soldiers in both peacekeeping and war."
+
+ tech_lotor_planetary_assault_craft: "Planetary Assault Crafts"
+ tech_lotor_planetary_assault_craft_desc: "Starfighters and other gunships provide our troops with close air support on the field."
+
+ tech_lotor_heavy_armored_vehicles: "Heavy Armored Vehicles"
+ tech_lotor_heavy_armored_vehicles_desc: "Heavily armored walkers and other vehicles can be utilized for shock and awe or full-on assaults against the enemy."
+
+ tech_lotor_global_defense_grid: "Planetary Defense Grid"
+ tech_lotor_global_defense_grid_desc: "A wide network of automated defense systems that help repel invading forces."
+ tech_lotor_combat_training_1: "Combat Training"
+ tech_lotor_combat_training_1_desc: "Simulations and drills are necessary to maintain a competent fighting force."
+ tech_lotor_combat_training_2: "Advanced Combat Training"
+ tech_lotor_combat_training_2_desc: "Just like the previous simulations, except far more rigorous."
+ tech_lotor_dioxatrene_booster: "Dioxatrene-11 Adrenaline Boosters"
+ tech_lotor_dioxatrene_booster_desc: "Adrenal stimulants provide a soldier with that extra burst of energy needed in a combat situation."
+
+# Generic
+ infantry_assault_army: "Infantry Assault Platoon"
+ infantry_assault_army_desc: "A military force comprised of basic infantry units. Used primarily to patrol the streets and other light combat situations."
+ infantry_assault_army_plural: "Infantry Assault Platoons"
+ light_armored_vehicle_army: "Light Armored Vehicles"
+ light_armored_vehicle_army_desc: "Armored vehicles ranging from repulsor craft to lightly armored walkers that can assist soldiers in both peacekeeping and war."
+ light_armored_vehicle_army_plural: "Light Armored Vehicle Battalion"
+ heavy_armored_vehicle_army: "Heavy Armored Vehicles"
+ heavy_armored_vehicle_army_desc: "Heavily armored walkers and other vehicles that can be utilized for shock and awe or a full-on assault against the enemy."
+ heavy_armored_vehicle_army_plural: "Heavy Armored Vehicle Group"
+ planetary_assault_craft_army: "Planetary Assault Crafts"
+ planetary_assault_craft_army_desc: "Starfighters and other gunships that can strafe the battlefield to aid in ground operations and establish air supriority."
+ planetary_assault_craft_army_plural: "Planetary Assault Craft Squadron"
+
+ droid_infantry_army: "Mark I Assault Droid"
+ droid_infantry_army_desc: "A large Battledroid with a vaguely humanoid shape, the Mark I Assault Droid is a capable defender for low security areas."
+ droid_infantry_army_plural: "Mark I Assault Droid Groups"
+
+# Republic
+ infantry_assault_army_republic: "Republic Infantry Platoon"
+ infantry_assault_army_republic_desc: "A collective force of able-bodied soldiers from across the Republic."
+ infantry_assault_army_republic_plural: "Republic Infantry Platoons"
+
+ light_armored_vehicle_army_republic: "Light Republic Walkers"
+ light_armored_vehicle_army_republic_desc: "Lightly armored walkers, such as the Rapid Recon Walker, can help shift the tide of battle when accompanying infantry."
+ light_armored_vehicle_army_republic_plural: "Rapid Recon Walker Battalion"
+
+ heavy_armored_vehicle_army_republic: "Heavy Armored Republic Tank"
+ heavy_armored_vehicle_army_republic_desc: "The heaviest armored vehicles that support the Republic infantry such as the Firebrand Tank."
+ heavy_armored_vehicle_army_republic_plural: "Firebrand Tank Group"
+
+ planetary_assault_craft_army_republic: "Aurek Starfighter Detachment"
+ planetary_assault_craft_army_republic_desc: "Assigned to low-orbit and ground combat, these pilots can provide strafing runs and engage in dogfights."
+ planetary_assault_craft_army_republic_plural: "Aurek Starfighter Squadron"
+
+ droid_infantry_army_republic: "Mark IV Assault Droid Group"
+ droid_infantry_army_republic_desc: "Created by the Galactic Republic, this droid model is used as a common automated defense system. More powerful than a Sentinel droid, it is said the Mark IV's can even give force sensitives trouble."
+ droid_infantry_army_republic_plural: "Mark IV Assault Droid Groups"
+
+# Sith
+ infantry_assault_army_sith: "Sith Infantry Platoon"
+ infantry_assault_army_sith_desc: "Sith soldiers are pulled from across the human populations of the empire, as per Moff Vaiken's reforms."
+ infantry_assault_army_sith_plural: "Sith Infantry Platoons"
+
+ light_armored_vehicle_army_sith: "Light Walker"
+ light_armored_vehicle_army_sith_desc: "Lightly armored walkers, such as the Imperial Walker, can help shift the tide of battle when accompanying infantry."
+ light_armored_vehicle_army_sith_plural: "Imperial Walker Group"
+
+ heavy_armored_vehicle_army_sith: "Heavy Armored Tank"
+ heavy_armored_vehicle_army_sith_desc: "The heaviest armored Sith vehicles like the Imperial Crawler Tank, can turn the tide of battle in favor of the Empire."
+ heavy_armored_vehicle_army_sith_plural: "Imperial Crawler Tank Group"
+
+ planetary_assault_craft_army_sith: "Sith Starfighter Detachment"
+ planetary_assault_craft_army_sith_desc: "Skilled and relentless pilots assigned to assist in ground operations."
+ planetary_assault_craft_army_sith_plural: "Sith Assault Fighter Squadron"
+
+ droid_infantry_army_sith: "Sentinel Droid Group"
+ droid_infantry_army_sith_desc: "Originally a Republic design, the Sentinel droid has been repurposed to deal with security and heavy fighting scenarios."
+ droid_infantry_army_sith_plural: "Sentinel Droid Groups"
+
+# Mando
+ infantry_assault_army_mando: "Mandalorian Warriors"
+ infantry_assault_army_mando_desc: "Feared warriors across the galaxy, the Mandalorian clans lead the akaan from the front lines."
+ infantry_assault_army_mando_plural: "Mandalorian Warriors"
+
+ light_armored_vehicle_army_mando: "Firebrand Light Tanks"
+ light_armored_vehicle_army_mando_desc: "Lightly armored vehicles, cobbled together from battle debris, shift the tide of battle when accompanying ori'ramikad."
+ light_armored_vehicle_army_mando_plural: "Firebrand Light Tank Division"
+
+ heavy_armored_vehicle_army_mando: "Canderous Assault Tanks"
+ heavy_armored_vehicle_army_mando_desc: "Heavy assault tanks, such as the Canderous Assault Tank, can break enemy formations to instill fear."
+ heavy_armored_vehicle_army_mando_plural: "Canderous Assault Tank Group"
+
+ planetary_assault_craft_army_mando: "The Bes'uliik"
+ planetary_assault_craft_army_mando_desc: "The Bes'uliik, commonly referred to as the Basilisk war droid, is a powerful and semi-sentient combat droid that strikes fear in the heart of the enemy."
+ planetary_assault_craft_army_mando_plural: " Bes'uliik Hunting Group"
+
+ mandalorian_crusaders_army: "Mandalorian Neo Crusaders"
+ mandalorian_crusaders_army_desc: "The Mandalorian Neo-Crusaders were an order of Mandalorians sponsored by Mandalore the Ultimate following the end of the Great Sith War and his own ascension to the position of Mandalore. Named after the original Mandalorian Crusaders, they will fight the many wars to come."
+ mandalorian_crusaders_army_plural: "Mandalorian Neo Crusaders"
+
+# Hutt
+ infantry_assault_army_hutt: "Scoundrels"
+ infantry_assault_army_hutt_desc: "The Hutts often employ any low life they can find in order to complete their dirty work. They might not be the most effective, but these Scoundrels are looking for a quick credit chip, and will do anything to obtain it."
+ infantry_assault_army_hutt_plural: "Scoundrels Gangs"
+
+ light_armored_vehicle_army_hutt: "WLO-5 Speeder Tanks"
+ light_armored_vehicle_army_hutt_desc: "The WLO-5 Speeder Tanks are equipped with weaponry to support our ground infantry in the field of battle. They can go toe to toe with any modern light walker to turn the tide of an engagement."
+ light_armored_vehicle_army_hutt_plural: "WLO-5 Speeder Tank Group"
+
+ heavy_armored_vehicle_army_hutt: "Weaponized Sailbarge"
+ heavy_armored_vehicle_army_hutt_desc: "When in doubt, go for the really big gun. The Hutts have modified their personal Sailbarges with light turbolaser batteries to inflict maximum damage on enemy ground targets."
+ heavy_armored_vehicle_army_hutt_plural: "Weaponized Sailbarge Tank Group"
+
+ planetary_assault_craft_army_hutt: "Dunelizard Starfighter Detachment"
+ planetary_assault_craft_army_hutt_desc: "Occasionally, an aerial strike is the best way to destroy enemy ground targets. Dunelizard Fighter Squadrons can be deployed to the battlefield to win the day for our forces."
+ planetary_assault_craft_army_hutt_plural: "Dunelizard Fighter Squadrons"
+
+ droid_infantry_army_hutt: "Security Droids"
+ droid_infantry_army_hutt_desc: "Sometimes, the morals of an organic can get in the way of doing what needs to be done. The Hutts make use of these security droid models in those rare situations."
+ droid_infantry_army_hutt_plural: "Security Droid Groups"
+
+# Tion
+ guardian_corps_army: "Guardian Corps Droid Squad"
+ guardian_corps_army_desc: "The famous War Droids of Xim the Despot, former ruler of the Tion Hegemony. These droids employ ancient technology which allows them to be a deadly foe even with their outdated design. Contrary to the Commander versions, the regular Guardian Crops Droid can still be produced."
+ guardian_corps_army_plural: "Guardian Crops Droid Squads"
+
+ guardian_corps_commander_army: "Guardian Corps Commander Squad"
+ guardian_corps_commander_army_desc: "Designed with greater independence, these vastly improved variants of the Guardian Corps Droids can no longer be produced by normal means, the technology used for their manufacture long since lost. Even through the Guardian Corps are old designs their semi-Rakatan heritage allows them to remain a deadly adversary."
+ guardian_corps_commander_army_plural: "Guardian Corps Commander Squads"
+
+# Trandoshans
+ trandoshan_hunter_army: "Trandoshan Hunter Group"
+ trandoshan_hunter_army_desc:  "Trandoshan's reptilian features make them perfect for hunting enemies on the battlefield no matter the environment."
+ trandoshan_hunter_army_plural: "Trandoshan Hunter Groups"
+
+## Missile Techs
+ tech_lotor_missiles_choice: "Missile Weapon Technologies"
+ tech_lotor_missiles_choice_desc: "Multiple missile types exist for us to choose from. Each have unique benefits and drawbacks that should be discussed with our engineers before we make a decision." #this tech lets you choose one of the other missiles as your weapon path
+
+ tech_lotor_torpedo_choice: "Torpedo Weapon Technologies"
+ tech_lotor_torpedo_choice_desc: "Multiple torpedo types exist for us to choose from. Each have unique benefits and drawbacks that should be discussed with our engineers before we make a decision." #this tech lets you choose one of the other torpedoes as your weapon path
+
+ tech_lotor_missiles_1: "$SHIP_MISSILE_1$"
+ tech_lotor_missiles_1_desc: "$SHIP_MISSILE_1_DESC$"
+ tech_lotor_missiles_2: "$SHIP_MISSILE_2$"
+ tech_lotor_missiles_2_desc: "$SHIP_MISSILE_2_DESC$"
+ tech_lotor_missiles_3: "$SHIP_MISSILE_3$"
+ tech_lotor_missiles_3_desc: "$SHIP_MISSILE_3_DESC$"
+ tech_lotor_missiles_4: "$SHIP_MISSILE_4$"
+ tech_lotor_missiles_4_desc: "$SHIP_MISSILE_4_DESC$"
+ tech_lotor_missiles_5: "$SHIP_MISSILE_5$"
+ tech_lotor_missiles_5_desc: "$SHIP_MISSILE_5_DESC$"
+ tech_lotor_missiles_6: "$SHIP_MISSILE_6$"
+ tech_lotor_missiles_6_desc: "$SHIP_MISSILE_6_DESC$"
+
+ tech_lotor_dibber_missiles_1: "$SHIP_DIBBER_MISSILE_1$"
+ tech_lotor_dibber_missiles_1_desc: "$SHIP_DIBBER_MISSILE_1_DESC$"
+ tech_lotor_dibber_missiles_2: "$SHIP_DIBBER_MISSILE_2$"
+ tech_lotor_dibber_missiles_2_desc: "$SHIP_DIBBER_MISSILE_2_DESC$"
+ tech_lotor_dibber_missiles_3: "$SHIP_DIBBER_MISSILE_3$"
+ tech_lotor_dibber_missiles_3_desc: "$SHIP_DIBBER_MISSILE_3_DESC$"
+ tech_lotor_dibber_missiles_4: "$SHIP_DIBBER_MISSILE_4$"
+ tech_lotor_dibber_missiles_4_desc: "$SHIP_DIBBER_MISSILE_4_DESC$"
+ tech_lotor_dibber_missiles_5: "$SHIP_DIBBER_MISSILE_5$"
+ tech_lotor_dibber_missiles_5_desc: "$SHIP_DIBBER_MISSILE_5_DESC$"
+ tech_lotor_dibber_missiles_6: "$SHIP_DIBBER_MISSILE_6$"
+ tech_lotor_dibber_missiles_6_desc: "$SHIP_DIBBER_MISSILE_6_DESC$"
+
+ tech_lotor_explosive_improvement_1: "Explosive Weapon Improvements I"
+ tech_lotor_explosive_improvement_1_desc: "Modifications to the release mechanisms of our Explosive weapons allow firing at a faster rate without endangering the ship they're fired from." #rate
+
+ tech_lotor_explosive_improvement_2: "Explosive Weapon Improvements II"
+ tech_lotor_explosive_improvement_2_desc: "Our Explosive weapons are developed with an experimental shaped charge instead of a simple explosive tip to deliver a stronger punch to an enemy hull." #damage
+
+ tech_lotor_explosive_improvement_3: "Explosive Weapon Improvements III"
+ tech_lotor_explosive_improvement_3_desc: "Enhancements to the storage, loading, and priming of our Explosive weapons has been optimized on all of our ships, allowing follow-up shots to be fired at a quickened pace." #rate
+
+ tech_lotor_explosive_improvement_4: "Explosive Weapon Improvements IV"
+ tech_lotor_explosive_improvement_4_desc: "Explosive weapons are programmed to target essential ship systems to deliver the maximum possible damage to an enemy vessel." #damage
+
+ tech_lotor_explosive_improvement_5: "Explosive Weapon Improvements V"
+ tech_lotor_explosive_improvement_5_desc: "Our explosive weaponry has been redesigned with a new conical shaped charge based off of the previous experimental shaped charge, allowing extreme damage with smaller missiles, the reduced size resulting in a faster rate of fire as well." #rate+damage
+
+ tech_lotor_breacher_missiles_1: "$SHIP_BREACHER_MISSILE_1$"
+ tech_lotor_breacher_missiles_1_desc: "$SHIP_BREACHER_MISSILE_1_DESC$"
+ tech_lotor_breacher_missiles_2: "$SHIP_BREACHER_MISSILE_2$"
+ tech_lotor_breacher_missiles_2_desc: "$SHIP_BREACHER_MISSILE_2_DESC$"
+ tech_lotor_breacher_missiles_3: "$SHIP_BREACHER_MISSILE_3$"
+ tech_lotor_breacher_missiles_3_desc: "$SHIP_BREACHER_MISSILE_3_DESC$"
+ tech_lotor_breacher_missiles_4: "$SHIP_BREACHER_MISSILE_4$"
+ tech_lotor_breacher_missiles_4_desc: "$SHIP_BREACHER_MISSILE_4_DESC$"
+ tech_lotor_breacher_missiles_5: "$SHIP_BREACHER_MISSILE_5$" 
+ tech_lotor_breacher_missiles_5_desc: "$SHIP_BREACHER_MISSILE_5_DESC$"
+ tech_lotor_breacher_missiles_6: "$SHIP_BREACHER_MISSILE_6$" 
+ tech_lotor_breacher_missiles_6_desc: "$SHIP_BREACHER_MISSILE_6_DESC$"
+
+ tech_lotor_radiation_missiles_1: "$SHIP_RADIATION_MISSILE_1$"
+ tech_lotor_radiation_missiles_1_desc: "$SHIP_RADIATION_MISSILE_1_DESC$"
+ tech_lotor_radiation_missiles_2: "$SHIP_RADIATION_MISSILE_2$"
+ tech_lotor_radiation_missiles_2_desc: "$SHIP_RADIATION_MISSILE_2_DESC$"
+ tech_lotor_radiation_missiles_3: "$SHIP_RADIATION_MISSILE_3$"
+ tech_lotor_radiation_missiles_3_desc: "$SHIP_RADIATION_MISSILE_3_DESC$"
+ tech_lotor_radiation_missiles_4: "$SHIP_RADIATION_MISSILE_4$"
+ tech_lotor_radiation_missiles_4_desc: "$SHIP_RADIATION_MISSILE_4_DESC$"
+ tech_lotor_radiation_missiles_5: "$SHIP_RADIATION_MISSILE_5$"
+ tech_lotor_radiation_missiles_5_desc: "$SHIP_RADIATION_MISSILE_5_DESC$"
+ tech_lotor_radiation_missiles_6: "$SHIP_RADIATION_MISSILE_6$" 
+ tech_lotor_radiation_missiles_6_desc: "$SHIP_RADIATION_MISSILE_6_DESC$"
+
+ tech_lotor_acid_rad_improvement_1: "Corrosive & Radiation Weapon Improvements I"
+ tech_lotor_acid_rad_improvement_1_desc: "Modifications to the release mechanisms of our Corrosive and Radiation weapons allow firing at a faster rate without endangering the ship they're fired from." #rate
+
+ tech_lotor_acid_rad_improvement_2: "Corrosive & Radiation Weapon Improvements II"
+ tech_lotor_acid_rad_improvement_2_desc: "Our government no longer restricts the chemical makeup of the corrosive material and/or radiation yields loaded into our warheads, unleashing untold amount of damage on the enemy." #damage
+
+ tech_lotor_acid_rad_improvement_3: "Corrosive & Radiation Weapon Improvements III"
+ tech_lotor_acid_rad_improvement_3_desc: "Enhancements to the storage, loading, and priming of our Corrosive and Radiation weapons has been optimized on all of our ships, allowing follow-up shots to be fired at a quickened pace." #rate
+
+ tech_lotor_acid_rad_improvement_4: "Corrosive & Radiation Weapon Improvements IV"
+ tech_lotor_acid_rad_improvement_4_desc: "The metal comprising the warheads of these weapons has been chemically altered to create an even stronger corrosive and/or radiation effect on detonation, increasing penetration and adhesion of the payload." #damage
+
+ tech_lotor_acid_rad_improvement_5: "Corrosive & Radiation Weapon Improvements V"
+ tech_lotor_acid_rad_improvement_5_desc: "The amount of volatile material within the warheads has been increased and put under immense pressure, allowing for a stronger payload at a smaller size, increasing the fire rate and damage of the weapon against our enemies." #rate+damage
+
+ tech_lotor_proton_torpedo_1: "$SHIP_PROTON_TORPEDO_1$"
+ tech_lotor_proton_torpedo_1_desc: "$SHIP_PROTON_TORPEDO_1_DESC$"
+ tech_lotor_proton_torpedo_2: "$SHIP_PROTON_TORPEDO_2$"
+ tech_lotor_proton_torpedo_2_desc: "$SHIP_PROTON_TORPEDO_2_DESC$"
+ tech_lotor_proton_torpedo_3: "$SHIP_PROTON_TORPEDO_3$"
+ tech_lotor_proton_torpedo_3_desc: "$SHIP_PROTON_TORPEDO_3_DESC$"
+ tech_lotor_proton_torpedo_4: "$SHIP_PROTON_TORPEDO_4$"
+ tech_lotor_proton_torpedo_4_desc: "$SHIP_PROTON_TORPEDO_4_DESC$"
+ tech_lotor_proton_torpedo_5: "$SHIP_PROTON_TORPEDO_5$" 
+ tech_lotor_proton_torpedo_5_desc: "$SHIP_PROTON_TORPEDO_5_DESC$"
+ tech_lotor_proton_torpedo_6: "$SHIP_PROTON_TORPEDO_6$" 
+ tech_lotor_proton_torpedo_6_desc: "$SHIP_PROTON_TORPEDO_6_DESC$"
+
+ tech_lotor_ion_torpedo_1: "$SHIP_ION_TORPEDO_1$"
+ tech_lotor_ion_torpedo_1_desc: "$SHIP_ION_TORPEDO_1_DESC$"
+ tech_lotor_ion_torpedo_2: "$SHIP_ION_TORPEDO_2$"
+ tech_lotor_ion_torpedo_2_desc: "$SHIP_ION_TORPEDO_2_DESC$"
+ tech_lotor_ion_torpedo_3: "$SHIP_ION_TORPEDO_3$"
+ tech_lotor_ion_torpedo_3_desc: "$SHIP_ION_TORPEDO_3_DESC$"
+ tech_lotor_ion_torpedo_4: "$SHIP_ION_TORPEDO_4$"
+ tech_lotor_ion_torpedo_4_desc: "$SHIP_ION_TORPEDO_4_DESC$"
+ tech_lotor_ion_torpedo_5: "$SHIP_ION_TORPEDO_5$" 
+ tech_lotor_ion_torpedo_5_desc: "$SHIP_ION_TORPEDO_4_DESC$"
+ tech_lotor_ion_torpedo_6: "$SHIP_ION_TORPEDO_6$" 
+ tech_lotor_ion_torpedo_6_desc: "$SHIP_ION_TORPEDO_4_DESC$"
+
+ tech_lotor_seismic_charge_1: "$SHIP_SEISMIC_CHARGE_1$"
+ tech_lotor_seismic_charge_1_desc: "$SHIP_SEISMIC_CHARGE_1_DESC$"
+ tech_lotor_seismic_charge_2: "$SHIP_SEISMIC_CHARGE_2$"
+ tech_lotor_seismic_charge_2_desc: "$SHIP_SEISMIC_CHARGE_2_DESC$"
+ tech_lotor_seismic_charge_3: "$SHIP_SEISMIC_CHARGE_3$"
+ tech_lotor_seismic_charge_3_desc: "$SHIP_SEISMIC_CHARGE_3_DESC$"
+
+ tech_lotor_sonic_improvement_1: "Sonic Weapon Improvements"
+ tech_lotor_sonic_improvement_1_desc: "Applying sonic wave enhancements to our weapons makes them better against armor, though less effective against shields."
+
+# Tech Event - Missiles
+ lotor_tech_events.2.name: "Engineering Research Institute"
+ lotor_tech_events.2.desc: "Welcome §Y[root.GetRulerTitle]§! §H[root.GetRulerName]§!. I am contacting you on behalf of the §Y[root.GetName]§!'s Engineering Research Institute.\n\nWhile we have made considerable progress towards missile design development, we think it would be wise to focus our efforts in one direction.\n\nPlease keep in mind that while focusing on one path we forego other designs.\n\nLet us know your preference, or we will ask this question again later."
+ lotor_tech_events.2.q: "What is the difference between the Missile Types?"
+ lotor_tech_events.2.q.response: "Different missile types provide different focuses that benefits damage output based on the enemy ship design.\n\n£missile_explosive£ §HExplosive Missiles§! are basic self-propelled projectiles, known for their wide range of uses.\n\n£missile_breacher£ §HBreacher Missiles§! provide an explosion of corrosive, volatile material on impact, which is especially effective in destroying starship armor.\n\n£missile_dibber£ §HDibber Missiles§! are short ranged fast firing missiles. While not as strong as other missile variants, dibbers quickly put pressure on their target.\n\n£missile_radiation£ §HAtomic Missiles§! are powerful explosives whose power derives from nuclear reactions. These weapons leave residual radiation after their detonation and are known to penetrate starship armor and hulls."
+
+ lotor_tech_events.2.a: "£missile_explosive£ Explosive Missiles"
+ lotor_tech_events.2.a.tooltip: "Explosive missiles are basic self-propelled projectiles, known for their versatility."
+ lotor_tech_events.2.b: "£missile_breacher£ Breacher Missiles"
+ lotor_tech_events.2.b.tooltip: "Breacher missiles provide an explosion of adhesive corrosive material on impact, which is especially effective in destroying starship armor."
+ lotor_tech_events.2.c: "£missile_radiation£ Atomic Missiles"
+ lotor_tech_events.2.c.tooltip: "Atomic missiles are powerful explosives whose power derives from nuclear reactions. These weapons leave residual radiation after their detonation and are known to penetrate starship armor and hull."
+ lotor_tech_events.2.d: "£missile_dibber£ Dibber Missiles"
+ lotor_tech_events.2.d.tooltip: "Short ranged fast firing missiles. While not as strong as other missile variants, dibbers quickly put pressure on their target."
+ lotor_tech_events.2.remind: "Remind me again in 1 year."
+
+# Tech Event - Torpedo
+ lotor_tech_events.3.name: "Engineering Research Institute"
+ lotor_tech_events.3.desc: "Welcome §Y[root.GetRulerTitle]§! §H[root.GetRulerName]§!. I am contacting you on behalf of the §Y[root.GetName]§!'s Engineering Research Institute.\n\nWe have made huge progress towards torpedo design development, though we think it would be wise to focus our efforts in one direction.\n\nPlease keep in mind that while focusing on one path we forego other designs.\n\nLet us know your preference, or we can come to this question later."
+ lotor_tech_events.3.q: "What is the difference between the Torpedo Types?"
+ lotor_tech_events.3.q.response: "Different torpedoes types provide different focuses benefits based on the enemy ship design.\n\n£torpedo_proton£ §HProton Torpedoes§! are a type of heavy ordnance used throughout the galaxy. They offer reduced damage against shields but provide substantial structural damage on hit.\n\n£torpedo_ion£ §HIon Torpedo§! are capable of homing in on enemies, Ion torpedoes carried an intense ion charge, and detonated in a powerful Ion blast upon impacting a targeted ship.\n\n£torpedo_ion£ §HToxic Waste Disposers§! A cheap and illegal alternative to torpedo weapons, toxic waste disposers can be used to dump hazardous ship reactor waste directly onto enemy ships at close range. Toxic Waste cant be targeted by point defence."
+
+ lotor_tech_events.3.a: "£torpedo_proton£ Proton Torpedo"
+ lotor_tech_events.3.a.tooltip: "Proton Torpedoes are a type of heavy ordnance used throughout the galaxy. They offer reduced damage against shields but provide substantial structural damage on hit."
+ lotor_tech_events.3.b: "£torpedo_ion£ Ion Torpedo"
+ lotor_tech_events.3.b.tooltip: "Ion Torpedoes are capable of homing in on enemies. They carry an intense ion charge, making them considerably effective against shields."
+ lotor_tech_events.3.c: "£torpedo_toxic£ Toxic Waste Disposer"
+ lotor_tech_events.3.c.tooltip: "A cheap and illegal alternative to torpedo weapons, toxic waste disposers can be used to dump hazardous ship reactor waste directly onto enemy ships at close range."
+ lotor_tech_events.3.d: "Remind me again in 1 year."
+
+## Colonies
+ tech_lotor_penal_colonies: "Penal Colonies"
+ tech_lotor_penal_colonies_desc: "Penal colonies are designed to keep criminals and potential dissidents away from the more law-abiding citizens. Out of sight, out of mind."
+ tech_lotor_neural_implants: "Neural Implants"
+ tech_lotor_neural_implants_desc: "Cognition is little more than the processing of sensory input. As a result the definition of what is real can be changed on a whim."
+ tech_lotor_resort_colonies: "Resort Colonies"
+ tech_lotor_resort_colonies_desc: "The perfect place for the wealthy to hide away and forget what minor inconveniences they have at home."
+ tech_lotor_slave_colonies: "Slave Colonies"
+ tech_lotor_slave_colonies_desc: "Worlds intended only for the use of slaves and their overseers."
+
+## Thruster
+ tech_lotor_ship_thrusters_1: "$SHIP_SUBLIGHT_THRUSTER_1$"
+ tech_lotor_ship_thrusters_1_desc: "Sublight thrusters are a vital starship component used to steer ships through realspace at speeds lower than the speed of light."
+ tech_lotor_ship_thrusters_2: "$SHIP_SUBLIGHT_THRUSTER_2$"
+ tech_lotor_ship_thrusters_2_desc: "Sublight thrusters are a vital starship component used to steer ships through realspace at speeds lower than the speed of light. Improved connections to the rest of a vessel ensure they won't fall off at a critical moment."
+ tech_lotor_ship_thrusters_3: "$SHIP_SUBLIGHT_THRUSTER_3$"
+ tech_lotor_ship_thrusters_3_desc: "Modernized thrusters improve travel time by adding larger thruster nozzles."
+ tech_lotor_ship_thrusters_4: "$SHIP_SUBLIGHT_THRUSTER_4$"
+ tech_lotor_ship_thrusters_4_desc: "Upgraded thrusters increase travel speeds through lighter durasteel exteriors."
+ tech_lotor_ship_thrusters_5: "$SHIP_SUBLIGHT_THRUSTER_5$"
+ tech_lotor_ship_thrusters_5_desc: "Advanced thrusters are high end components that outperform previous generations."
+ tech_lotor_ship_thrusters_6: "$SHIP_SUBLIGHT_THRUSTER_6$" #dm
+ tech_lotor_ship_thrusters_6_desc: "Futuristic thrusters are high end components that outperform previous generations."
+
+ TECH_UNLOCK_THRUSTER_5_TITLE: "§HUnlocks Component:§! Advanced Ion Engine"
+ TECH_UNLOCK_THRUSTER_5_DESC: "§HAdvanced Ion Engine§!\nThese highly advanced fusion-powered thrusters provide ships with unmatched maneuverability and speed under sublight conditions."
+
+ TECH_UNLOCK_THRUSTER_6_TITLE: "§HUnlocks Component:§! Futuristic Ion Engine"
+ TECH_UNLOCK_THRUSTER_6_DESC: "§HFuturistic Ion Engine§!\nThese highly advanced fusion-powered thrusters provide ships with unmatched maneuverability and speed under sublight conditions, even compared to other Ion Engines."
+
+# Afterburner
+ tech_lotor_afterburners_1: "$CLOUZON_AFTERBURNER_1$"
+ tech_lotor_afterburners_1_desc: "$CLOUZON_AFTERBURNER_1_DESC$"
+ tech_lotor_afterburners_2: "$CLOUZON_AFTERBURNER_2$"
+ tech_lotor_afterburners_2_desc: "$CLOUZON_AFTERBURNER_2_DESC$"
+
+# Society Theory Techs
+ tech_lotor_society_theory_1: "Biodiversity Studies"
+ tech_lotor_society_theory_1_desc: "Studying the different forms of life that appear on our world helps us better understand ourselves and the life that surrounds us."
+ tech_lotor_society_theory_2: "Xenobiology"
+ tech_lotor_society_theory_2_desc: "Studying the life that arises on other worlds and beyond allows us to understand fundamental aspects of biology that were previously beyond our reach."
+ tech_lotor_society_theory_3: "Interterrestrial Biology"
+ tech_lotor_society_theory_3_desc: "Studying life within our planet shows us new aspects of evolution."
+ tech_lotor_society_theory_4: "Deep Space Biology"
+ tech_lotor_society_theory_4_desc: "The study of organisms living freely in space, giving insight as to the evolution of creatures in the void."
+ tech_lotor_society_theory_5: "Secrets of Life"
+ tech_lotor_society_theory_5_desc: "Having the opportunity to study the multitudes of life lets us find some common ground for all living beings. The foundational building blocks of life."
+ tech_lotor_arcane_deciphering: "Precursor Deciphering"
+ tech_lotor_arcane_deciphering_desc: "Deciphering the mysteries of powerful and ancient races can bring us unimaginable knowledge."
+# Special Resource
+ # Isotope-5
+ ap_lotor_isotope_5: "Isotope-5 Extraction"
+ ap_lotor_isotope_5_desc: "Allows extraction and experimentation with Isotope-5, an extremely potent substance capable of considerable power generation."
+
+ district_isotope5_labs: "Isotope-5 Laboratory Complex"
+ district_isotope5_labs_desc: "wip"
+ tech_lotor_mine_isotope5: "Isotope-5 Extraction"
+ tech_lotor_mine_isotope5_desc: "A dangerous and extensive process to extract one of the most volatile materials in the galaxy."
+ tech_lotor_mine_isotope5_improvement_1: "Enhanced Isotope-5 Extraction"
+ tech_lotor_mine_isotope5_improvement_1_desc: "Improvements to the extraction increase efficiency, though dangers still remain."
+ tech_lotor_mine_isotope5_improvement_2: "Modernized Isotope-5 Extraction"
+ tech_lotor_mine_isotope5_improvement_2_desc: "Modernized extraction methods just marginally decrease the chance of a horrible accident occurring."
+ tech_lotor_isotope5: "Isotope-5 Restructure"
+ tech_lotor_isotope5_desc: "Applying Isotope-5 infused components to our ships requires a rewiring of internal components and additional observatory systems to prepare for adverse reactions."
+
+ tech_lotor_isotope5_shields: "Isotope-5 boosted Shield"
+ tech_lotor_isotope5_shields_desc: "Applying Isotope-5 Fuel rods to Shield Generators will allow us to boost their yield considerably."
+ tech_lotor_isotope5_weapons: "Isotope-5 boosted Weapons"
+ tech_lotor_isotope5_weapons_desc: "Applying Isotope-5 Fuel rods to Weapon Systems will allow us to boost their yield considerably."
+
+# Heavy Alloys
+ tech_lotor_mine_heavy_alloys: "Heavy Alloy Extraction"
+ tech_lotor_mine_heavy_alloys_desc: "Heavy Alloys like Beskar, Doonium and Nyix are essential for large scale building projects, and are all extracted with a similar procedure."
+ tech_lotor_mine_heavy_alloys_improvement_1: "Enhanced Heavy Alloy Mining"
+ tech_lotor_mine_heavy_alloys_improvement_1_desc: "Heavy Alloys like Beskar, Doonium and Nyix can be extracted easily with the help of specialized mining droids."
+ tech_lotor_mine_heavy_alloys_improvement_2: "Modernized Heavy Alloy Mining"
+ tech_lotor_mine_heavy_alloys_improvement_2_desc: "Heavy Alloys like Beskar, Doonium and Nyix deposits can be identified from orbit with specialized scanners, increasing efficiency in our mining operations."
+
+# Gene Techs
+ tech_lotor_genome_mapping: "Genome Mapping"
+ tech_lotor_genome_mapping_desc: "Mapping the genome of an individual through the sequencing of their DNA opens up for tailored medical treatments and therapies."
+ tech_lotor_vitality_boosters: "Vitality Boosters"
+ tech_lotor_vitality_boosters_desc: "Where the body fails, science intervenes."
+ tech_lotor_selected_lineages: "Selected Lineages"
+ tech_lotor_selected_lineages_desc: "Careful reproductive planning should be incentivized, lest we waste valuable genetic legacies."
+ tech_lotor_capacity_boosters: "Capacity Boosters"
+ tech_lotor_capacity_boosters_desc: "We leave nothing to chance, no matter the cost. Through exacting curation of DNA banks do we build the leaders of tomorrow."
+ tech_lotor_epigenetic_triggers: "Epigenetic Triggers"
+ tech_lotor_epigenetic_triggers_desc: "Advanced DNA methylation techniques allow for functionally significant alterations to be made to arbitrary genomes."
+ tech_lotor_gene_tailoring: "Gene Tailoring"
+ tech_lotor_gene_tailoring_desc: "Making gene-editing tools widely available is sure to have a positive impact on our development as a species."
+ tech_lotor_gene_tailoring_modifier_desc: "$species_trait_points_add$: $POINTS|0=+$"
+ tech_genetic_resequencing: "Genetic Resequencing"
+ tech_genetic_resequencing_desc: "No longer will we be limited by the basic biological structure of a species when striving to improve them. DNA is just another material to be shaped as the sculptor wills it."
+ tech_lotor_glandular_acclimation: "Glandular Acclimation"
+ tech_lotor_glandular_acclimation_desc: "Through glandular biological tailoring we can change the environmental tolerance of a species to suit our needs."
+ tech_lotor_genetic_resequencing: "Genetic Resequencing"
+ tech_lotor_genetic_resequencing_desc: "No longer will we be limited by the basic biological structure of a species when striving to improve them. DNA is just another material to be shaped as the sculptor wills it."
+ tech_lotor_gene_expressions: "Gene Expression"
+ tech_lotor_gene_expressions_desc: "Stricter control of RNA and protein production on the cellular level."
+ tech_lotor_gene_expressions_modifier_desc: "$species_trait_points_add$: $POINTS|0=+$"
+
+ # Space Exploration
+ tech_lotor_galactic_ambitions: "Galactic Ambitions"
+ tech_lotor_galactic_ambitions_desc: "Our future lies in the sea of stars."
+ tech_lotor_manifest_destiny: "Manifest Destiny"
+ tech_lotor_manifest_destiny_desc: "We must have to courage to seize our fate and make true what was always meant to be."
+ tech_lotor_additional_starbases_1: "Additional Starbases"
+ tech_lotor_additional_starbases_1_desc: "In order to protect our ever expanding empire, governors have requested to build more space stations on the far edges of our empire. As long as we have the resources to do so we should let them."
+ tech_lotor_additional_starbases_2: "Additional Starbase Logistics"
+ tech_lotor_additional_starbases_2_desc: "Requisitions for additional logistical components helps with specific starbase operations."
+ tech_lotor_interstellar_campaigns: "Interstellar Campaigns"
+ tech_lotor_interstellar_campaigns_desc: "System and sector wide campaigns can expand our sphere of influence, with or without military support."
+ tech_lotor_galactic_campaigns: "Galactic Campaigns"
+ tech_lotor_galactic_campaigns_desc: "Further improvements to administration grants an extended power projection across the stars, and the military clout needed to enforce our demands."
+ tech_lotor_inter_galactic_campaigns: "Intergalactic Campaigns"
+ tech_lotor_inter_galactic_campaigns_desc: "A well-oiled war machine is the key to exerting influence on a galactic scale. Backed by the might of our military, we can lay claim to almost anything we want."
+ tech_lotor_repeatable_lotor_improved_starbase_capacity: "Repeatable starbase"
+ tech_lotor_repeatable_lotor_improved_starbase_capacity_desc: "The immense logistical support networks needed to maintain an upgraded Starbase can be further improved, allowing us to support more of these stations."
+
+ # Psionics
+ tech_lotor_psionic_theory: "Midi-chlorian Studies"
+ tech_lotor_psionic_theory_desc: "Without the midi-chlorians, life could not exist, and we would have no knowledge of the Force. They continually speak to us, telling us the will of the Force. When you learn to quiet your mind, you will hear them speaking to you."
+ tech_lotor_telepathy: "Force Sensitives"
+ tech_lotor_telepathy_desc: "Individuals who do not train to be a Jedi or Sith yet have a natural affinity to the Force are known as Force Sensitives. They tend to be just as diverse as the Galaxy itself."
+ tech_lotor_precognition_interface: "Battle Meditation Chamber"
+ tech_lotor_precognition_interface_desc: "Battle meditation is an extremely rare Force ability that considerably boosts the morale, stamina, and overall battle prowess of an individual's allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight."
+
+ # Space Construction
+ tech_lotor_modular_engineering: "Modular Engineering"
+ tech_lotor_modular_engineering_desc: "Streamlined starbase construction procedures, using modular designs, will reduce the present build cost and time."
+ tech_lotor_space_defense_station_improvement: "Improved Defense Stations"
+ tech_lotor_space_defense_station_improvement_desc: "Improvements to automated systems help bolster our defenses."
+ tech_lotor_space_mining_1: "Early Space Mining"
+ tech_lotor_space_mining_1_desc: "Through the use of mining drills, and raw manpower, we are able to harvest minerals and other valuable materials in orbit."
+ tech_lotor_space_mining_2: "Space Mining"
+ tech_lotor_space_mining_2_desc: "Through the use of mining drills, droids, and raw manpower, we are able to harvest minerals and other valuable materials in orbit at a slightly higher rate."
+ tech_lotor_space_mining_3: "Routine Space Mining"
+ tech_lotor_space_mining_3_desc: "Through the use of mining drills, droids, and raw manpower, we are able to harvest minerals and other valuable materials in orbit. On site storage facilities allow for more mining before resources need to be transported to another location."
+ tech_lotor_space_mining_4: "Experimental Space Mining Techniques"
+ tech_lotor_space_mining_4_desc: "Experimental and dangerous fracking techniques are utilized to gather raw materials faster."
+ tech_lotor_space_mining_5: "Enhanced Space Mining"
+ tech_lotor_space_mining_5_desc: "Improved fracking techniques are adopted to gather resources faster and safer."
+
+# Space Research
+ tech_lotor_space_science_1: "Early Space Laboratories"
+ tech_lotor_space_science_1_desc: "Barely passable as laboratories, these facilities are cramped and in desperate need of funding, but get the bare minimum of the job done."
+ tech_lotor_space_science_2: "Space Laboratories"
+ tech_lotor_space_science_2_desc: "The baseline for which all orbital laboratories are judged. Adequate space, adequate funding, adequate results."
+ tech_lotor_space_science_3: "Routine Space Laboratories"
+ tech_lotor_space_science_3_desc: "Laboratories designed for routine studies. Perhaps adding a caff machine in the back for extra morale."
+ tech_lotor_space_science_4: "Experimental Space Laboratories"
+ tech_lotor_space_science_4_desc: "Specialized laboratories for experimental and theoretical research. Bizarre hypothesis' can be tested without worrying about major consequences."
+ tech_lotor_space_science_5: "Enhanced Space Laboratories"
+ tech_lotor_space_science_5_desc: "Improved laboratories with more space and better equipment."
+
+# Starfighters
+ tech_lotor_strike_craft_1: "Early Star Fighters"
+ tech_lotor_strike_craft_1_desc: "$SHIP_STRIKE_CRAFT_FIGHTER_1_DESC$"
+ tech_lotor_strike_craft_2: "Star Fighters"
+ tech_lotor_strike_craft_2_desc: "$SHIP_STRIKE_CRAFT_FIGHTER_2_DESC$"
+ tech_lotor_strike_craft_3: "Advanced Star Fighters"
+ tech_lotor_strike_craft_3_desc: "$SHIP_STRIKE_CRAFT_FIGHTER_3_DESC$"
+
+ tech_lotor_strike_craft_improvement_1: "Improved Miniature Weapon Systems"
+ tech_lotor_strike_craft_improvement_1_desc: "Increasing the speed at which fighter pilots can process and act upon enemy positioning data elevates strike craft a few steps up the food chain."
+ tech_lotor_strike_craft_improvement_2: "Star Fighter Heat Recycling"
+ tech_lotor_strike_craft_improvement_2_desc: "Circulating excess heat from weapons discharge in order to prime munitions as they are loaded increases the rate of fire of strike craft weaponry."
+
+# Industry
+ tech_basic_industry: "Industrial Base"
+ tech_lotor_basic_industry_desc: "The basic industrial infrastructure that is required to become a spacefaring civilization."
+ tech_lotor_powered_exoskeletons: "Powered Exoskeletons"
+ tech_lotor_powered_exoskeletons_desc: "Wearing a powered exoskeleton suit augments the user's strength and speed. The military applications are obvious, but it will also increase labor efficiency."
+ tech_lotor_robotic_workers: "Class 1 - Labour Droids"
+ tech_lotor_robotic_workers_desc: "A mechanical work force able to work under the most hostile conditions, these robotic workers can perform menial labor tasks but shouldn't be expected to do anything beyond that. They are hard-working and capable of following basic vocal instructions. Good motivators not included."
+ tech_lotor_droid_workers: "Class 2 - Specialized Droids"
+ tech_lotor_droid_workers_desc: "Specialized body parts allow these droids to work in more complex jobs. These units have an expanded movement range equal to that of most organics as well as greatly improved neural processors. Restraining bolts not included."
+ tech_lotor_synthetic_workers: "Class 4 - Assistance Droids"
+ tech_lotor_synthetic_workers_desc: "Highly advanced droids which are usually stronger, faster and more durable than the vast majority of organics. With their upgraded neural processors they are fully capable of independent operations, yet shouldn't be trusted with leading positions because of limited artificial memory."
+ tech_lotor_synthetic_leaders: "Droid Personality Matrix"
+ tech_lotor_synthetic_leaders_desc: "By solving the artificial memory issue, these droids can be used to command fleets of entire warships or governing of planets. They are capable of interacting with droids and organics alike and no longer need routine memory sweeps."
+
+ tech_lotor_integrated_cybernetics: "$tech_integrated_cybernetics$"
+ tech_lotor_integrated_cybernetics_desc: "$tech_integrated_cybernetics_desc$"
+ tech_lotor_neuro_quantum_links: "$tech_neuro_quantum_links$"
+ tech_lotor_neuro_quantum_links_desc: "$tech_neuro_quantum_links_desc$"
+ tech_lotor_robot_assembly_complex: "$tech_robot_assembly_complex$"
+ tech_lotor_robot_assembly_complex_desc: "$tech_robot_assembly_complex_desc$"
+
+ tech_lotor_robomodding: "Machine Template System"
+ tech_lotor_robomodding_desc: "Rewritable assembly templates allow for the creation of bespoke droid worker designs."
+ tech_lotor_robomodding_points_1: "Cross Model Standardization"
+ tech_lotor_robomodding_points_1_desc: "Improved production practices allow for standardized components, increasing ease of repairs and reducing cost of manufacture."
+ tech_lotor_robomodding_points_2: "Fungible Circuitry"
+ tech_lotor_robomodding_points_2_desc: "Improved production practices allow for fundamental changes to droid workers without compromising core functionality."
+ tech_lotor_robomodding_m: "Enhanced Droid Template"
+ tech_lotor_robomodding_m_desc: "Standardization of assembly templates allow for improved specialization of the droid population."
+ tech_lotor_binary_motivators: "Binary Motivators"
+ tech_lotor_binary_motivators_desc: "These advanced motivators are both smaller and lighter than previous versions, allowing droid units to allocate additional space for subsystems."
+ tech_lotor_nanite_assemblers: "Nanite Assemblers"
+ tech_lotor_nanite_assemblers_desc: "Using programmable nanites to assist in the construction of new droid units will allow for more advanced models that are equipped with an even greater array of subsystems."
+
+ tech_lotor_mega_assembly: "Mega Assembly"
+ tech_lotor_mega_assembly_desc: "Advanced templates allow us to drastically increase the assembly rate of new droid units."
+ tech_lotor_luxuries_1: "Nano Circuit Assembly"
+ tech_lotor_luxuries_1_desc: "With pre-programmed nano-circuits, many consumer products can be rapidly assembled in fabricators."
+ tech_lotor_luxuries_2: "Replicator Kiosks"
+ tech_lotor_luxuries_2_desc: "These kiosks can replicate any pre-approved object if its pattern has been stored within their memory banks."
+ tech_lotor_alloys_1: "Refined Alloy Casts"
+ tech_lotor_alloys_1_desc: "Improvements to the casts used in the creation of alloy ingots through cooling coils and pressure treatments."
+ tech_lotor_alloys_2: "Nano Separators"
+ tech_lotor_alloys_2_desc: "Nano separators help extract impurities from our alloys, ensuring we have only the highest quality."
+ tech_lotor_advanced_metallurgy_1: "Alloy Production Improvements"
+ tech_lotor_advanced_metallurgy_1_desc: "The use of droids and specialized equipment help with melting and refining metals and alloys."
+ tech_lotor_housing_1: "Weather Control Systems"
+ tech_lotor_housing_1_desc: "The ability to alter a planet's weather patterns to suppress destructive weather phenomena will make residential buildings easier to maintain and open up new areas for habitation."
+ tech_lotor_housing_2: "Anti-Gravity Engineering"
+ tech_lotor_housing_2_desc: "With directional gravity technology, buildings on the surface of planets can reach higher than ever before without risking structural collapse. The sky is the limit!"
+ tech_lotor_housing_3: "Idyllic Architecture"
+ tech_lotor_housing_3_desc: "Through the establishment of weather-controlled rural communes, we can support a larger population without disrupting our agrarian way of life."
+ tech_lotor_mining_1: "Mining Network"
+ tech_lotor_mining_1_desc: "The application of mechanical engineering to mineral extraction is a fundamental requirement for any industrial society."
+ tech_lotor_mining_2: "Geothermal Fracking"
+ tech_lotor_mining_2_desc: "New fracking techniques will allow us to tap into previously unattainable pockets of geothermal resources deep beneath the planet's crust."
+ tech_lotor_mining_3: "Deep Core Mining"
+ tech_lotor_mining_3_desc: "These massive drills are needed to access the rich mineral deposits that can often be found close to a planet's core."
+ tech_lotor_mining_4: "Mineral Isolation"
+ tech_lotor_mining_4_desc: "Advanced spectrometry combines with fracking techniques and chemical flushing to rapidly exploit shallow and mid-depth deposits."
+ tech_lotor_mining_5: "Advanced Mineral Isolation"
+ tech_lotor_mining_5_desc: "Improvements on isolation practices provide a thorough acquisition of mineral deposits "
+ tech_lotor_mineral_purification_1: "Mineral Purification"
+ tech_lotor_mineral_purification_1_desc: "Optimal processing of mined materials have allowed us to reach new levels of efficiency."
+ tech_lotor_mineral_purification_2: "Improved Mineral Purification"
+ tech_lotor_mineral_purification_2_desc: "Second-stage processing of pseudo-refined minerals allow for more efficient storage and transportation."
+ tech_lotor_mineral_purification_3: "Advanced Mineral Purification"
+ tech_lotor_mineral_purification_3_desc: "Third-stage processing of pseudo-refined minerals allow for more efficient storage and transportation."
+ tech_lotor_repeatable_improved_tile_mineral_output: "Extraction Patterns"
+ tech_lotor_repeatable_improved_tile_mineral_output_desc: "Changes in how mineral deposits are evaluated relative to each other lead to more efficient patterns."
+
+#Engineering Theory
+ tech_lotor_engineering_theory_1: "Nanomechanics"
+ tech_lotor_engineering_theory_1_desc: "Advanced instrumentation allows for the study and practical application of physical systems at nanometric scales."
+ tech_lotor_engineering_theory_2: "Supersolid Materials"
+ tech_lotor_engineering_theory_2_desc: "The production and understanding of supersolids are of immeasurable value to any and every space-age civilization."
+ tech_lotor_engineering_theory_3: "Superfluid Materials"
+ tech_lotor_engineering_theory_3_desc: "The study of superfluidity promises to marry quantum mechanics with the fundamental interaction of gravity."
+ tech_lotor_engineering_theory_4: "Advanced Engineering Theory"
+ tech_lotor_engineering_theory_4_desc: "Advanced engineering concepts that expand upon quantum mechanics and the fundamental interaction of gravity."
+ tech_lotor_engineering_theory_5: "Future Engineering Theory"
+ tech_lotor_engineering_theory_5_desc: "The combination of complex understanding of quantum mechanics and gravity. "
+ tech_lotor_assembly_pattern: "Assembly Pattern"
+ tech_lotor_assembly_pattern_desc: "Rapid iteration in construction simulations determines the fastest but potentially not the most effective component assembly patterns for each building project ahead of time."
+ tech_lotor_improved_assembly_pattern: "Improved Assembly Patterns"
+ tech_lotor_improved_assembly_pattern_desc: "Rapid iteration in construction simulations determines the optimal component assembly patterns for each building project ahead of time."
+ tech_lotor_construction_templates: "Construction Template"
+ tech_lotor_construction_templates_desc: "Standardized pre-fab templates massively reduce on-site facility construction times."
+ tech_lotor_repeatable_reduced_building_time: "Assembly Algorithms"
+ tech_lotor_repeatable_reduced_building_time_desc: "Rapid iteration in construction simulations determines the near perfect component assembly patterns for each building project through complex mathematical equations."
+ tech_lotor_ascension_theory: "Ascension Theory"
+ tech_lotor_ascension_theory_desc: "Our history is a repeating cycle of dramatic technological, political, and cultural leaps; these leaps are often preceded by periods of upheaval and followed by times of relative stability. By identifying the core, recurring premises of these leaps, we may be able to effectively short-circuit the cycle for our own benefit."
+
+# Hull Plating Technologies
+ tech_lotor_hull_plating_1: "Basic Ship Hull Plating"
+ tech_lotor_hull_plating_1_desc: "Rudimentary starship hull structure and production techniques leads to moderately increased hull integrity and easier manufacturing of vessels."
+ tech_lotor_hull_plating_2: "Early Ship Hull Plating"
+ tech_lotor_hull_plating_2_desc: "Learning from past mistakes in starship hull structure and production techniques has lead to improved hull integrity and easier manufacturing of vessels."
+ tech_lotor_hull_plating_3: "Modern Ship Hull Plating"
+ tech_lotor_hull_plating_3_desc: "Engineers have put their own personal touches on starship hull structure and production techniques leading to improved hull integrity and easier manufacturing of vessels."
+ tech_lotor_hull_plating_4: "Improved Ship Hull Plating"
+ tech_lotor_hull_plating_4_desc: "Starship hull structure and production techniques have been applied to larger ships leading to improved hull integrity and easier manufacturing of those vessels."
+ tech_lotor_hull_plating_5: "Advanced Ship Hull Plating"
+ tech_lotor_hull_plating_5_desc: "Working with allied nations on starship hull structure and production techniques has led to improved hull integrity and easier manufacturing of all vessels."
+
+#Cargo Bays
+ tech_lotor_cargo_bays: "Cargo Bays"
+ tech_lotor_cargo_bays_desc: "Through anti-gravity lifts and new warehouse computer systems, storing cargo is easier than ever!"
+
+#Transport stuff
+ tech_lotor_transport_opt_1: "Improved Transport Logistics I"
+ tech_lotor_transport_opt_1_desc: "Easier resettlement and public transport allows for improved travel times throughout our empire."
+ tech_lotor_transport_opt_2: "Improved Transport Logistics II"
+ tech_lotor_transport_opt_2_desc: "Public transport thruster upgrades allow for improved travel times throughout our empire."
+ tech_lotor_transport_opt_3: "Improved Transport Logistics III"
+ tech_lotor_transport_opt_3_desc: "Less red tape surrounding resettlement allows for improved travel times throughout our empire."
+
+ tech_lotor_survey_droids: "Survey Droids"
+ tech_lotor_survey_droids_desc: "A survey droid specifically built for exploration will prove to be a considerable asset to our explorers."
+ tech_lotor_hyperspace_buoy_1: "Early Hyperspace Buoy"
+ tech_lotor_hyperspace_buoy_1_desc: "Like a beacon in the darkness, this station allows us to create trade routes through the galaxy by placing a number of linked beacon stations along the chosen path."
+ tech_lotor_hyperspace_buoy_2: "Modern Hyperspace Buoy"
+ tech_lotor_hyperspace_buoy_2_desc: "Adding extra antenna to a hyperspace buoy means their signal can be received from farther distances."
+
+ TECH_UNLOCK_MEGASTRUCTURE_HYPERSPACE_BUOY_1_TITLE: "§HUnlocks§!: §YHyperspace Buoy§! Megastructure\n"
+ TECH_UNLOCK_MEGASTRUCTURE_HYPERSPACE_BUOY_1_DESC: "Allows us to artificially create Important Trade Routes along chosen paths for faster Interstellar Travel."
+
+#Thruster Upgrade
+ tech_lotor_thruster_upgrade_1: "Thruster Upgrade MK I"
+ tech_lotor_thruster_upgrade_1_desc: "Constant technological upgrades lead to modest improvement of thruster output and handling."
+ tech_lotor_thruster_upgrade_2: "Thruster Upgrade MK II"
+ tech_lotor_thruster_upgrade_2_desc: "Constant technological upgrades lead to moderate improvement of thruster output and handling."
+ tech_lotor_thruster_upgrade_3: "Thruster Upgrade MK III"
+ tech_lotor_thruster_upgrade_3_desc: "Constant technological upgrades lead to significant improvement of thruster output and handling."
+ tech_lotor_thruster_upgrade_4: "Thruster Upgrade MK IV"
+ tech_lotor_thruster_upgrade_4_desc: "Constant technological upgrades lead to exceptional improvement of thruster output and handling."
+ tech_lotor_thruster_upgrade_5: "Thruster Upgrade MK V"
+ tech_lotor_thruster_upgrade_5_desc: "Constant technological upgrades lead to unparalleled improvement of thruster output and handling."
+
+# Fuel Technologies
+ tech_lotor_refueling_station: "Orbital Refueling Stations"
+ tech_lotor_refueling_station_desc: "These large orbital fueling stations use their zero-G environment to store fuel more efficiently."
+
+ tech_lotor_starship_fuel_1: "Basic Fuel Processing"
+ tech_lotor_starship_fuel_1_desc: "Simple fuel extraction and transport techniques can lead to more efficient fuel production and transport. Just watch out for spills..."
+ tech_lotor_starship_fuel_2: "Early Fuel Processing"
+ tech_lotor_starship_fuel_2_desc: "Precise measuring guarantees our technicians do not extract more fuel than our transports are ready for."
+ tech_lotor_starship_fuel_3: "Modern Fuel Processing"
+ tech_lotor_starship_fuel_3_desc: "Improvements via droid drilling procedures will lead to more successful fuel production as well as more jobs."
+ tech_lotor_starship_fuel_4: "Improved Fuel Processing"
+ tech_lotor_starship_fuel_4_desc: "Adding extra cargo bays to our fuel transport leads to better yields carried back to our worlds."
+ tech_lotor_starship_fuel_5: "Advanced Fuel Processing"
+ tech_lotor_starship_fuel_5_desc: "We can trust higher functioning droid models with the transportation of fuel, meaning miners can focus solely on extraction."
+
+# Anti Crime Techs
+ tech_lotor_anti_crime_1: "Basic Criminal Prosecution"
+ tech_lotor_anti_crime_1_desc: "The goal of a successful law system is to reintegrate reformed criminals back into the society, this is a steady process which can always be improved."
+ tech_lotor_anti_crime_2: "Early Criminal Prosecution"
+ tech_lotor_anti_crime_2_desc: "Hiring prosecutors unwilling to take bribes can go a long way in making sure criminals stay off the streets when necessary."
+ tech_lotor_anti_crime_3: "Modern Criminal Prosecution"
+ tech_lotor_anti_crime_3_desc: "A jury trial is seen as a more fair system than allowing a single judge decide a case. Our citizens are more likely to follow the law when they have an opportunity to affect it."
+ tech_lotor_anti_crime_4: "Improved Criminal Prosecution"
+ tech_lotor_anti_crime_4_desc: "Droid recording systems have been installed in a court room to make sure nothing can be taken out of context in the public eye."
+ tech_lotor_anti_crime_5: "Advanced Criminal Prosecution"
+ tech_lotor_anti_crime_5_desc: "Allowing a criminal to appeal their case if they believe they were wronged by their representation further enforces public trust in the law."
+
+# Hive Anti Crime - Maybe new Text because drones?
+ tech_lotor_anti_crime_1_hive: "Basic Rogue Drone Prosecution"
+ tech_lotor_anti_crime_1_hive_desc: "The occasional rogue drone can prove to be a danger to the greater collective. Searching for these dangerous elements is a necessity."
+ tech_lotor_anti_crime_2_hive: "Early Rogue Drone Prosecution"
+ tech_lotor_anti_crime_2_hive_desc: "Ensuring additional drones are not liable to be corrupted by an individualist element will help ensure dissent does not gain a foothold in the hive."
+ tech_lotor_anti_crime_3_hive: "Modern Rogue Drone Prosecution"
+ tech_lotor_anti_crime_3_hive_desc: "A streamlined method of eliminating rogue elements ensures that hostile drones are eradicated in record time."
+ tech_lotor_anti_crime_4_hive: "Improved Rogue Drone Prosecution"
+ tech_lotor_anti_crime_4_hive_desc: "By destroying all leftover traces of a rogue element's synaptic pathways in the mind, we can effectively erase their existence from the Hive."
+ tech_lotor_anti_crime_5_hive: "Advanced Rogue Drone Prosecution"
+ tech_lotor_anti_crime_5_hive_desc: "The Hive not only has managed to eradicate dissenting drones, but has proven to be able to destroy new ones before they can form treasonous thoughts."
+
+# Special Weapons
+ tech_lotor_mining_laser_1: "$MINING_DRONE_LASER_1$"
+ tech_lotor_mining_laser_1_desc: "$MINING_DRONE_LASER_1_DESC$"
+ tech_lotor_mining_laser_2: "$MINING_DRONE_LASER_2$"
+ tech_lotor_mining_laser_2_desc: "$MINING_DRONE_LASER_2_DESC$"
+ tech_lotor_mining_laser_3: "$MINING_DRONE_LASER_3$"
+ tech_lotor_mining_laser_3_desc: "$MINING_DRONE_LASER_2_DESC$"
+
+ tech_lotor_toxic_waste_1: "$TOXIC_WASTE_1$"
+ tech_lotor_toxic_waste_1_desc: "$TOXIC_WASTE_1_DESC$"
+ tech_lotor_toxic_waste_2: "$TOXIC_WASTE_2$"
+ tech_lotor_toxic_waste_2_desc: "$TOXIC_WASTE_2_DESC$"
+ tech_lotor_toxic_waste_3: "$TOXIC_WASTE_3$"
+ tech_lotor_toxic_waste_3_desc: "$TOXIC_WASTE_3_DESC$"
+
+ tech_lotor_lightning_gun_1: "$LIGHTNING_GUN_1$"
+ tech_lotor_lightning_gun_1_desc: "$LIGHTNING_GUN_1_DESC$"
+ tech_lotor_lightning_gun_2: "$LIGHTNING_GUN_2$"
+ tech_lotor_lightning_gun_2_desc: "$LIGHTNING_GUN_2_DESC$"
+ tech_lotor_lightning_gun_3: "$LIGHTNING_GUN_3$"
+ tech_lotor_lightning_gun_3_desc: "$LIGHTNING_GUN_3_DESC$"
+
+ tech_lotor_energy_improvement_1: "Energy Weapon Improvement I"
+ tech_lotor_energy_improvement_1_desc: "Emitters of our Energy Weapons are redesigned in a way to channel more raw power whilst also focusing the energy in a more expedient fashion." #rate+dmg
+
+ tech_lotor_energy_improvement_2: "Energy Weapon Improvement II"
+ tech_lotor_energy_improvement_2_desc: "Power cells for our Energy Weapon batteries are enhanced to amplify power capacity while using as little energy as possible to prevent constant reloads." #rate+dmg
+
+ tech_lotor_energy_improvement_3: "Energy Weapon Improvement III"
+ tech_lotor_energy_improvement_3_desc: "Due to improvements to the manufacturing process of our Energy Weapons, we've been able to relax the integrated safeguards within their circuitry, allowing for a higher rate of fire and more powerful projectiles within similar heat and energy tolerances of past designs." #rate+dmg
+
+ tech_lotor_laminanium_armor_1: "Laminanium Coating"
+ tech_lotor_laminanium_armor_1_desc: "$LAMINANIUM_COATING_I_DESC$"
+ tech_lotor_laminanium_armor_2: "Fibrex Laminanium Coating"
+ tech_lotor_laminanium_armor_2_desc: "$LAMINANIUM_COATING_II_DESC$"
+
+
+ tech_lotor_quantum_crystal_armor_1: "Experimental Quantum Crystal Armor"
+ tech_lotor_quantum_crystal_armor_1_desc: "$SHIP_QUANTUM_CRYSTAL_ARMOR_1_DESC$"
+
+ tech_lotor_quantum_crystal_armor_2: "Early Quantum Crystal Armor"
+ tech_lotor_quantum_crystal_armor_2_desc: "$SHIP_QUANTUM_CRYSTAL_ARMOR_2_DESC$"
+
+ tech_lotor_additional_bulkheads_1: "Additional Bulkheads"
+ tech_lotor_additional_bulkheads_1_desc: "Increased hull plating for ships can reduce structural failure."
+ tech_lotor_additional_bulkheads_2: "Improved Bulkheads"
+ tech_lotor_additional_bulkheads_2_desc: "Heavier hull plating for ships can reduce structural failure."
+ tech_lotor_additional_bulkheads_3: "Impenetrable Bulkheads"
+ tech_lotor_additional_bulkheads_3_desc: "Multiple layers of hull plating for ships can significantly reduce structural failure."
+
+# Force
+ tech_lotor_jedi_temple_1: "Jedi Enclave"
+ tech_lotor_jedi_temple_1_desc: "A small Jedi outpost housing a handful of Jedi, solidifying their presence as well as providing a calming aura to the planet."
+ tech_lotor_jedi_temple_2: "Jedi Temple"
+ tech_lotor_jedi_temple_2_desc: "A proper Jedi Temple that both houses numerous Jedi and trains new members for the Jedi Order. The number of Jedi stationed here provide security and assistance to any who may need it."
+ tech_lotor_sith_temple_1: "Sith Shrine"
+ tech_lotor_sith_temple_1_desc: "A local Sith Shrine, this shrine attracts acolytes of the dark side of the force."
+ tech_lotor_sith_temple_2: "Sith Academy"
+ tech_lotor_sith_temple_2_desc: "A proper Sith Academy, turning Dark Side acolytes and Force Sensitives into proper Sith under the oversight of a Lord or Lords."
+
+# Force Weapons
+ tech_lotor_sith_alchemie_lightning_1: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1$"
+ tech_lotor_sith_alchemie_lightning_1_desc: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1_DESC$"
+ tech_lotor_sith_alchemie_lightning_2: "$LARGE_SITH_ALCHEMIE_LIGHTNING_2$"
+ tech_lotor_sith_alchemie_lightning_2_desc: "$LARGE_SITH_ALCHEMIE_LIGHTNING_2_DESC$"
+ tech_lotor_sith_alchemie_lightning_3: "$LARGE_SITH_ALCHEMIE_LIGHTNING_3$"
+ tech_lotor_sith_alchemie_lightning_3_desc: "$LARGE_SITH_ALCHEMIE_LIGHTNING_3_DESC$"
+
+ tech_lotor_force_storm: "Force Storm Conjuration"
+ tech_lotor_force_storm_desc: "$FORCE_STORM_DESC$"
+ tech_lotor_light_beam: "Beam of Light Side Energy"
+ tech_lotor_light_beam_desc: "$LIGHT_BEAM_DESC$"
+ tech_lotor_dark_beam: "Beam of Dark Side Energy"
+ tech_lotor_dark_beam_desc: "$DARK_BEAM_DESC$"
+
+ tech_lotor_force_improvement_1: "Force Weapon Improvement I"
+ tech_lotor_force_improvement_1_desc: "More experienced force users are assigned as gunners for Force enhanced weaponry to amplify its abilities mid combat." #rate+dmg
+
+ tech_lotor_force_improvement_2: "Force Weapon Improvement II"
+ tech_lotor_force_improvement_2_desc: "Meditation chambers are developed for our force users to man our Force enhanced weapon batteries." #rate+dmg
+
+ tech_lotor_force_improvement_3: "Force Weapon Improvement III"
+ tech_lotor_force_improvement_3_desc: "Force enhanced weapon batteries can draw from a gunners force energy in order to unleash even more power on the enemy." #rate+dmg
+
+# Escape Pods
+ tech_lotor_emergency_extraction_methods_1: "Emergency Escape Pods"
+ tech_lotor_emergency_extraction_methods_1_desc: "Escape pods, also known as life pods, are small escape crafts intended for use in emergencies. They were standard aboard all deep-space starships."
+ tech_lotor_emergency_extraction_methods_2: "Improved Escape Pods launching Mechanism"
+ tech_lotor_emergency_extraction_methods_2_desc: "Escape pods, also known as life pods, are small escape crafts intended for use in emergencies. They were standard aboard all deep-space starships. They are now equipped with hyperdrives to get further away from a crisis."
+
+# Station Defenses
+ tech_lotor_synchronized_defences: "Synchronized Defenses"
+ tech_lotor_synchronized_defences_desc: "Aligning defensive and offensive weapon execution paradigms allows for increased efficiency."
+
+# Infrastructure
+ tech_lotor_capital_productivity_1: "Durasteel Infrastructure"
+ tech_lotor_capital_productivity_1_desc: "Stronger durasteel allow us to create prefabricated buildings, providing our colonies with improved infrastructure."
+ tech_lotor_capital_productivity_2: "Efficiencies of Scale"
+ tech_lotor_capital_productivity_2_desc: "Increased population density gives us an opportunity to further increase productivity."
+ tech_lotor_capital_productivity_3: "Maximized Productivity"
+ tech_lotor_capital_productivity_3_desc: "Continued advancements in technology allows our most developed planets to reach productivity levels nearly unheard of decades prior."
+
+ tech_lotor_paradise_dome: "Paradise Dome"
+ tech_lotor_paradise_dome_desc: "A fully enclosed habitation dome with a self-contained ecosystem, a veritable private paradise for those rich or fortunate enough to live there."
+
+ tech_lotor_planetary_infrastructure_1: "Ceramo-Metal Infrastructure"
+ tech_lotor_planetary_infrastructure_1_desc: "Stronger alloys such as Oridium allow us to create enhanced prefabricated buildings, providing our colonies with improved infrastructure."
+ tech_lotor_planetary_infrastructure_2: "Perfected Durasteel Infrastructure"
+ tech_lotor_planetary_infrastructure_2_desc: "Advances in metallurgy permit us to build vastly larger and more durable structures, greatly improving the infrastructure of our colonies."
+
+ tech_lotor_dangerous_wildlife_removal_2: "Very Dangerous Wildlife Removal"
+ tech_lotor_dangerous_wildlife_removal_2_desc: "Certain beasts present a considerable threat to sapient life. Their removal is likely to be a lengthy process, requiring considerable investment in hunters and resources."
+
+ tech_lotor_dangerous_wildlife_removal_3: "Sith Wildlife Removal"
+ tech_lotor_dangerous_wildlife_removal_3_desc: "Sithspawn are typically augmented in truly atrocious ways. Removing them from our worlds are likely to be a long and costly process."
+
+# Ship Architectures - need desc rewriting
+ tech_lotor_sith_architecture: "£dcs£Dromund Kalakar Shipyards"
+ tech_lotor_sith_architecture_desc: "Based on designs drafted at Dromund Kalakar Shipyards and approved by Grand Moff Vaiken, ships of the Sith Empire present a dangerous threat with an emphasis on terrorizing profiles and heavy firepower."
+
+ tech_lotor_alderaan_architecture: "£ars£Alderaan Royal Engineers"
+ tech_lotor_alderaan_architecture_desc: "The Alderaan Royal Engineers are a founding shipwright, and one of the most recognized names in Republic Space. Traits and small design cues may differ between the originating Alderaanian house, but functionality remains the same."
+
+ tech_lotor_corellia_architecture: "£cec£Corellian Engineering Corporation "
+ tech_lotor_corellia_architecture_desc: "The Coronet Shipyards based on Corellia are one of the most prolific shipbuilders of all time, not only in the Core, but across the galaxy as a whole."
+
+ tech_lotor_kuat_architecture: "£kdy£Kuat Drive Yards"
+ tech_lotor_kuat_architecture_desc: "One of the premier shipyards in the galaxy, Kuat Drive Yards produce ships of unparalleled quality and scale. They strive to be the best ship manufacturer in the galaxy and may very well be on their way to achieving that goal."
+
+ tech_lotor_mon_cala_architecture: "£mon_cal£Mon Calamari Shipyards"
+ tech_lotor_mon_cala_architecture_desc: "The Mon Calamari Shipyards are known for their elegant, streamlined, and robust ship designs, as well as their extensive shield technologies."
+
+ tech_lotor_rendili_architecture: "£rhw£Rendili Hyperworks"
+ tech_lotor_rendili_architecture_desc: "Rendili Hyperworks supplies the bulk of the Republic Navy, having a reputation for reliable and durable vessels with great longevity."
+
+ tech_lotor_soro_suub_architecture: "£ss£SoroSuub Corporation"
+ tech_lotor_soro_suub_architecture_desc: "The SoroSuub Corporation is known for their technological prowess and industrial might, having proved themselves competent shipwrights after the design and production of numerous popular vessels."
+
+ tech_lotor_mando_architecture: "£mm£MandalMotors"
+ tech_lotor_mando_architecture_desc: "Mandalorian ships are a force to be reckoned with in combat, utilizing Beskar in almost every step of fabrication. Few of MandalMotors' designs have Mandalorian origins, however, most having been attained through conquest of other civilizations and repurposed for their own use."
+
+ tech_lotor_hutt_architecture: "£gs£Guarja Shipyards"
+ tech_lotor_hutt_architecture_desc: "Guarja Shipyards is a massive shipyard known for their ability to produce legally distinct starships that bear a striking resemblance to other patented designs. Not that this is a problem given their location in Hutt space, where patents and legality of production is far more… flexible." 
+
+ tech_lotor_onderon_architecture: "£onderon Onderon Royal Shipyards Architecture"
+ tech_lotor_onderon_architecture_desc: "Onderon Royal Shipyards are known for their ingenuity and ability to repurpose vessel parts and designs. Many of the starships they produce have their origins in old cargo and colony transport designs, taking advantage of their size for military purposes."
+
+ tech_lotor_bothan_architecture: "Bothan Shipyards"
+ tech_lotor_bothan_architecture_desc: "The Bothawui Shipyards maintain a high standard for their vessels and each ship is built to exact specifications. None of their designs have ever been stolen."
+
+ tech_lotor_chiss_architecture: "£sycan£Sycan Fleet Systems"
+ tech_lotor_chiss_architecture_desc: "The Chiss Expansionary Defense Force is the military arm of the Chiss Ascendancy and maintains a vigilant watch over their interests in the Unknown Regions with the help of warships constructed by Sycan Fleet Systems."
+
+ tech_lotor_criminal_architecture: "Criminal Shipyards" #not needed?
+ tech_lotor_criminal_architecture_desc: "Scavenged debris from raids and heists are cobbled together in a somewhat unorthodox way, but it works. At least, it usually works."
+
+ tech_lotor_czerka_architecture: "Czerka Arms"
+ tech_lotor_czerka_architecture_desc: "The ships owned by Czerka Arms have questionable origins, but the credit trail is suspiciously short. The designs are surprisingly effective given obvious corners that were cut to save on spending."
+
+ tech_lotor_verpine_architecture: "Slayn & Korpil"
+ tech_lotor_verpine_architecture_desc: "Based out of the Roche Asteroid Field, Slayn & Korpil are a Verpine-owned ship manufacturing company. While the designs themselves aren't outwardly impressive, the internal components and ship systems are beyond compare."
+
+ tech_lotor_nikarduan_architecture: "Nikardun Architecture" #not needed
+ tech_lotor_nikarduan_architecture_desc: "Aided by the mysterious Grysk, Nikardun ship designs follow a more ancient thus more powerful design philosophy, even if the designs aren't fully understood."
+
+# Unknown Regions 
+ tech_lotor_electrostatic_barrier_1: "Prototype Electrostatic Barrier"
+ tech_lotor_electrostatic_barrier_1_desc:  "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_1_DESC$"
+ tech_lotor_electrostatic_barrier_2: "Early Electrostatic Barrier"
+ tech_lotor_electrostatic_barrier_2_desc: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_2_DESC$"
+ tech_lotor_electrostatic_barrier_3: "Basic Electrostatic Barrier"
+ tech_lotor_electrostatic_barrier_3_desc: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_3_DESC$"
+ tech_lotor_electrostatic_barrier_4: "Modern Electrostatic Barrier"
+ tech_lotor_electrostatic_barrier_4_desc: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_4_DESC$"
+ tech_lotor_electrostatic_barrier_5: "Upgraded Electrostatic Barrier"
+ tech_lotor_electrostatic_barrier_5_desc: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_5_DESC$"
+
+ tech_lotor_skywalker: "Sky-Walker Navigators"
+ tech_lotor_skywalker_desc: "$SHIP_CHISS_CREW_SKYWALKER_CO_DESC$"
+
+ tech_lotor_into_the_unknown: "Into the Unknown"
+ tech_lotor_into_the_unknown_desc: "The Unknown Regions was the collective term used for both those regions of the galaxy not formally charted, and the disparate companion galaxies in orbit beyond the galactic disk. With this technological breakthrough we might be able to enter them."
+
+ tech_lotor_ancient_hyperlanes: "Ancient Hyperlanes"
+ tech_lotor_ancient_hyperlanes_desc: "Ancient and Forgotten hyperlanes from before the Great Hyperspace War. They offer potential riches but also forgotten dangers."
+
+ TECH_UNLOCK_ANCIENT_HYPERLANES_TITLE: "§HUnlocks Feature:§! Ancient Hyperlanes"
+ TECH_UNLOCK_ANCIENT_HYPERLANES_DESC: "Allows your Ships to travel through ancient hyperlanes and discover long forgotten places."
+ TECH_UNLOCK_INTO_UNKNOWN_TITLE: "§HUnlocks Feature:§! Unknown Hyperlanes"
+ TECH_UNLOCK_INTO_UNKNOWN_DESC: "Allows your Ships to travel in and out of the Unknown Regions."
+
+### Cloning
+# Vanilla local
+ tech_lotor_gene_banks: "$tech_gene_banks$"
+ tech_lotor_gene_banks_desc: "$tech_gene_banks_desc$"
+ tech_lotor_lithoid_transgenesis: "$tech_lithoid_transgenesis$"
+ tech_lotor_lithoid_transgenesis_desc: "$tech_lithoid_transgenesis_desc$"
+ tech_lotor_plantoid_transgenesis: "$tech_plantoid_transgenesis$"
+ tech_lotor_plantoid_transgenesis_desc: "$tech_plantoid_transgenesis_desc$"
+ tech_lotor_leviathan_transgenesis: "$tech_leviathan_transgenesis$"
+ tech_lotor_leviathan_transgenesis_desc: "$tech_leviathan_transgenesis_desc$"
+ tech_lotor_cloning: "Experimental Cloning"
+ tech_lotor_cloning_desc: "Breakthroughs in enucleation and artificial womb technology allows for the production of individuals based on a common genetic template."
+
+# Lotor Unique Cloning Techs
+ tech_lotor_clone_inhibitor_chips: "Inhibitor Chips"
+ tech_lotor_clone_inhibitor_chips_desc: "Inhibitor Chips are biomechanical devices that are engineered into our clone troopers from birth. They prevent clone troopers from being overly independent and aggressive."
+ tech_lotor_cloning_spaarti: "Spaarti Cloning Mechanism"
+ tech_lotor_cloning_spaarti_desc: "Spaarti clone vats can now be replicated more efficiently in order to build vats in more locations."
+
+# Individual Cloning
+ ap_lotor_cloning: "Individual Cloning"
+ ap_lotor_cloning_desc: "Through the use of expensive genetic sequencing technology, individuals in our empire can be cloned. Perhaps this is the first step towards achieving immortality?"
+ clone_leader_menu: "Cloning Menu"
+ tech_lotor_cloning_improved: "Improved Individual Cloning"
+ tech_lotor_cloning_improved_desc: "Cheaper cloning vat technology means more access to cloning in everyday life, including regrown limbs and organic tissue."
+ tech_lotor_cloning_force: "Force Sensitive Cloning"
+ tech_lotor_cloning_force_desc: "Cloning technology has advanced far enough to replicate Force Sensitive individuals."
+
+# Shko-Yagu
+ ap_lotor_shkoyagu: "Trandoshan Shko-Yagu"
+ ap_lotor_shkoyagu_desc: "The shko-yagu is a ritual in Trandoshan society that signifies the person's rebirth and transition over the midpoint of life. It involves contemplation, fasting, and requires the person to constantly hunt throughout it."
+ shkoyagu_menu: "Shko-Yagu Menu"
+
+# Selected Terraforming
+ tech_lotor_selective_terraforming: "Selective Terraforming"
+ tech_lotor_selective_terraforming_desc: "Terraforming on a small scale in order to specialize a particular planet to our needs."
+
+ decision_selective_terraforming_food: "Selective Terraforming - Agricultural Districts"
+ decision_selective_terraforming_food_desc: "§G+3§! possible Food Districts.\n§HOnly one Selective Terraforming can be selected§!"
+
+ decision_selective_terraforming_energy: "Selective Terraforming - Generator Districts"
+ decision_selective_terraforming_energy_desc: "§G+3§! possible Generator Districts.\n§HOnly one Selective Terraforming can be selected§!"
+
+ decision_selective_terraforming_minerals: "Selective Terraforming - Mining Districts"
+ decision_selective_terraforming_minerals_desc: "§G+3§! possible Mining Districts.\n§HOnly one Selective Terraforming can be selected§!"
+
+# Custom Descriptions for Techs
+ TECH_UNLOCK_SELECTIVE_TERRAFORMING_TITLE: "§HUnlocks Component:§! Selective Terraforming"
+ TECH_UNLOCK_SELECTIVE_TERRAFORMING_DESC: "§HSelective Terraforming§!\nAllows us to terraform only selected parts of a planet through a unique decision."
+
+ TECH_UNLOCK_ESCAPE_PODS_1_TITLE: "§HUnlocks Feature:§! Destroyed Ships return a small amount of £crew£ §Y$crew$§!."
+ TECH_UNLOCK_ESCAPE_PODS_1_DESC: "§HEscape Pods§!\nSmall pods are attached to a vessel in order to establish evacuation of the Crew. A percentage will want to rejoin the fight."
+
+ TECH_UNLOCK_ESCAPE_PODS_2_TITLE: "§HImproves Feature:§! Destroyed Ships return a larger amount of £crew£ §Y$crew$§!."
+ TECH_UNLOCK_ESCAPE_PODS_2_DESC: "§HAdvanced Escape Pods§!\nLarge pods are attached to a vessel in order to establish evacuation of the Crew. A percentage will want to rejoin the fight. "
+
+ TECH_UNLOCK_LEADER_CLONING_TITLE: "§HUnlocks Feature:§! Leader Cloning\nTaking DNA from government leaders will allow them to be cloned. We no longer need to worry about a loss of talent."
+
+ TECH_UNLOCK_IMPROVE_LEADER_CLONING_TITLE: "§HImproves Feature:§! Leader Cloning, lowers the chance of a critical errors in the process."
+ TECH_UNLOCK_IMPROVE_LEADER_CLONING_DESC: "§HImproved Leader Cloning§!\nAdvanced DNA sampling techniques ensures our cloned leadership avoids harmful genetic defects."
+
+ TECH_UNLOCK_FORCE_LEADER_CLONING_TITLE: "§HUnlocks Feature:§! Force Sensitive Leader Cloning"
+ TECH_UNLOCK_FORCE_LEADER_CLONING_DESC: "§HForce Sensitive Leader Cloning§!\nOur scientists are now able to account for midi-chlorians when attempting to clone a leader."
+
+ TECH_UNLOCK_IMPROVE_INHIBITOR_TITLE: "§HImproves $building_clone_vats$:§! produce an additional §G+1.0§! §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!."
+ TECH_UNLOCK_IMPROVE_INHIBITOR_DESC: "§HImproved $building_clone_vats$ §!\nThe chips were surgically implanted into the brains of every single clone embryo past stage three of development. Allegedly to prevent clone troopers from being overly independent and aggressive."
+
+ TECH_UNLOCK_IMPROVE_SPAARTI_TITLE: "§HImproves $building_clone_vats$:§! produce an additional §G+3§! £crew£ §Y$crew$§!"
+ TECH_UNLOCK_IMPROVE_SPAARTI_DESC: "§HImproved $building_clone_vats$ §!\nSpaarti cloning cylinders were four-meter-tall tanks that acted as mechanical wombs filled with nutrient chemicals and organic catalyzers, used for the creation of personal clone armies."
+
+ TECH_UNLOCK_TORPEDO_CHOICE_TITLE: "§HUnlocks:§! Torpedo Weapons"
+ TECH_UNLOCK_TORPEDO_CHOICE_DESC: "§HTorpedo Weapons§!\nEngineers throughout our empire have developed a variety of different torpedo technologies. Discussing the benefits and cons of each of them will help us make an informed decision on which to pursue."
+
+ TECH_UNLOCK_TORPEDO_FRIGATE_TITLE: "§RIf you use non Lotor Ships:§!\n§HUnlocks:§! Torpedo Frigates"
+ TECH_UNLOCK_TORPEDO_FRIGATE_DESC: "If you are using a non Lotor Shipset and the vanilla shipclasses, this will unlock the Torpedo Frigate."
+
+ TECH_UNLOCK_MISSILE_CHOICE_TITLE: "§HUnlocks:§! Missile Weapons"
+ TECH_UNLOCK_MISSILE_CHOICE_DESC: "§HMissile Weapons§!\nEngineers throughout our empire have developed a variety of different missile technologies. Discussing the benefits and cons of each of them will help us make an informed decision on which to pursue."
+
+ TECH_UNLOCK_EARLY_STRIKE_CRAFT_TITLE: "§HUnlocks Components:§! Early Starfighter\n§HUnlocks Components:§! Early Bomber"
+ TECH_UNLOCK_EARLY_STRIKE_CRAFT_DESC: "§HEarly Starfighter§!\nThese early designs for fighters and bombers are based off of pre-Great Hyperspace War technology. While easily outclassed by more advanced designs, in large numbers these craft can provide a potent tool for offense, defense, or both simultaneously. Capable of being deployed by multiple larger class ships and starbases with appropriate upgrades, they provide some utility to any naval force. Specific models of these vessels vary according to the manufacturing civilization."
+
+ TECH_UNLOCK_STRIKE_CRAFT_TITLE: "§HUnlocks Components:§! Starfighter\n§HUnlocks Components:§! Bomber"
+ TECH_UNLOCK_STRIKE_CRAFT_DESC: "§HEarly Starfighter§!\nThese modern designs for fighters and bombers are a significant upgrade over the previous generation from the pre-Great Hyperspace War era. Technological advancements enhance both the offensive and defensive capabilities of these craft, easily outmatching their older counterparts, outclassed only by the most advanced designs. Capable of being deployed by multiple larger class ships and starbases with appropriate upgrades, they provide great utility to any naval force. Specific models of these vessels vary according to the manufacturing civilization."
+
+ TECH_UNLOCK_ADVANCED_STRIKE_CRAFT_TITLE: "§HUnlocks Components:§! Advanced Starfighter\n§HUnlocks Components:§! Advanced Bomber"
+ TECH_UNLOCK_ADVANCED_STRIKE_CRAFT_DESC: "§HEarly Starfighter§!\nThese advanced, next generation designs for fighters and bombers are the pinnacle of small-vessel combat technology. In addition to previous technological advancements, these designs boast newer materials, upgrades to ship systems, and experimental propulsion and weaponry unmatched by anything short of other next generation starfighters. Capable of being deployed by multiple larger class ships and starbases with appropriate upgrades, they provide exceptional utility to any naval force. Specific models of these vessels vary according to the manufacturing civilization."
+
+ TECH_UNLOCK_IMPROVE_BATTLE_TACTICS_TITLE: "§HUnlocks:§! Advanced Battletactics"
+ TECH_UNLOCK_IMPROVE_BATTLE_TACTICS_DESC: "§HAdvanced Battletactics§!\nImprovements in our standard tactics which result in better overall performance in our navy."
+
+ REQUIRED_CREW_STANDARD_TITLE: "§HUnlocks Component:§! Starship Crew"
+ REQUIRED_CREW_STANDARD_DESC: "Crew is needed."
+
+ TECH_UNLOCK_TRACTOR_BEAM_I_TITLE: "§HUnlocks Component:§! $tech_lotor_tractor_beams_1$"
+ TECH_UNLOCK_TRACTOR_BEAM_I_DESC: "$tech_lotor_tractor_beams_1_desc$"
+
+ TECH_UNLOCK_TRACTOR_BEAM_II_TITLE: "§HUnlocks Component:§! $tech_lotor_tractor_beams_2$"
+ TECH_UNLOCK_TRACTOR_BEAM_II_DESC: "$tech_lotor_tractor_beams_2_desc$"
+
+ TECH_UNLOCK_TRACTOR_BEAM_III_TITLE: "§HUnlocks Component:§! $tech_lotor_tractor_beams_3$"
+ TECH_UNLOCK_TRACTOR_BEAM_III_DESC: "$tech_lotor_tractor_beams_3_desc$"
+
+ TECH_UNLOCK_TRACTOR_BEAM_IV_TITLE: "§HUnlocks Component:§! $tech_lotor_tractor_beams_4$"
+ TECH_UNLOCK_TRACTOR_BEAM_IV_DESC: "$tech_lotor_tractor_beams_4_desc$"
+
+ TECH_UNLOCK_SENSOR_JAMMER_TITLE: "§HUnlocks Component:§! $tech_lotor_sensor_jammers$"
+ TECH_UNLOCK_SENSOR_JAMMER_DESC: "$tech_lotor_sensor_jammers_desc$"
+
+ TECH_UNLOCK_FUEL_REFINERY_UPGRADE_TITLE: "§HImproves $building_fuel_refinery$:§! additional §G+2§! £fuel£ §Y$fuel$§! Jobs"
+ TECH_UNLOCK_FUEL_REFINERY_UPGRADE_DESC: "Improvements via droid drilling procedures will lead to more successful fuel production as well as more jobs."
+
+ TECH_UNLOCK_ASTRO_MECH_ZERO_TITLE: "§HUnlocks Component:§! $tech_lotor_astromech_droids_1$"
+ TECH_UNLOCK_ASTRO_MECH_ZERO_DESC: "$tech_lotor_astromech_droids_1_desc$"
+
+ TECH_UNLOCK_ASTRO_MECH_I_TITLE: "§HUnlocks Component:§! $tech_lotor_astromech_droids_2$"
+ TECH_UNLOCK_ASTRO_MECH_I_DESC: "$tech_lotor_astromech_droids_2_desc$"
+
+ TECH_UNLOCK_ASTRO_MECH_II_TITLE: "§HUnlocks Component:§! $tech_lotor_astromech_droids_3$"
+ TECH_UNLOCK_ASTRO_MECH_II_DESC: "$tech_lotor_astromech_droids_3_desc$"
+
+ TECH_UNLOCK_ASTRO_MECH_III_TITLE: "§HUnlocks Component:§! $tech_lotor_astromech_droids_4$"
+ TECH_UNLOCK_ASTRO_MECH_III_DESC: "$tech_lotor_astromech_droids_4_desc$"
+
+ TECH_UNLOCK_NAVI_COMPUTER_I_TITLE: "§HUnlocks Component:§! $tech_lotor_additional_nav_computer_1$"
+ TECH_UNLOCK_NAVI_COMPUTER_I_DESC: "$tech_lotor_additional_nav_computer_1_desc$"
+
+ TECH_UNLOCK_NAVI_COMPUTER_II_TITLE: "§HUnlocks Component:§! $tech_lotor_additional_nav_computer_2$"
+ TECH_UNLOCK_NAVI_COMPUTER_II_DESC: "$tech_lotor_additional_nav_computer_2_desc$"
+
+ TECH_UNLOCK_NAVI_COMPUTER_III_TITLE: "§HUnlocks Component:§! $tech_lotor_tractor_beams_3$"
+ TECH_UNLOCK_NAVI_COMPUTER_III_DESC: "$tech_lotor_additional_nav_computer_3$"
+
+# Other Ascension perks
+ ap_lotor_criminal_underworld: "Criminal Underworld"
+ ap_lotor_criminal_underworld_desc: "With brighter lights come deeper shadows; even the most prosperous empires have a sprawling underworld.\n\nWhile §Rreducing§! your Branch Office Income, §Ythis Ascension Perk makes your Criminal Operations unstoppable without direct war.§!"
+
+ ap_lotor_habitats: "Orbital Habitats"
+ ap_lotor_habitats_desc: "The vast expanse of the galaxy holds limitless riches for those empires that understand how to maintain their grasp on the void."
+# New Shipsizes Technologies
+ tech_lotor_heavy_cruisers: "Heavy Cruisers"
+ tech_lotor_heavy_cruisers_desc: "Leaving behind the experimental next-generation colony ship hull configuration, this design is built for heavy fights with multiple enemy warships."
+ TECH_UNLOCK_HEAVY_CRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Heavy Cruiser"
+ TECH_UNLOCK_HEAVY_CRUISER_CONSTRUCTION_DESC: "§HHeavy Cruiser§!\nThe Heavy Cruiser is heavier counterpart to the more versatile and utilitarian mainline cruiser variants, serving as strong bulwarks in the Fleet."
+ tech_lotor_battlecruisers: "Battlecruisers"
+ tech_lotor_battlecruisers_desc: "Beyond the size of normal military vessels, Battlecruisers are traditionally heavily armored and armed."
+ TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Battlecruiser"
+ TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC: "§HBattlecruiser§!\nThe largest conventional warship of its time, a Battlecruiser is capable of destroying an entire fleet of smaller warships singlehandedly."
+
+ TECH_CORVETTE_MKII_TITLE: "§HUnlocks Ship Refit:§! Corvette MKII"
+ TECH_CORVETTE_MKII_DESC: "The §HCorvette MKII§! refit allows us to refit our Corvettes with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_CORVETTE_MKIII_TITLE: "§HUnlocks Ship Refit:§! Corvette MKIII"
+ TECH_CORVETTE_MKIII_DESC: "The §HCorvette MKIII§! refit allows us to refit our Corvettes with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ TECH_FRIGATE_MKII_TITLE: "§HUnlocks Ship Refit:§! Frigate MKII"
+ TECH_FRIGATE_MKII_DESC: "The §HFrigate MKII§! refit allows us to refit our Frigates with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_FRIGATE_MKIII_TITLE: "§HUnlocks Ship Refit:§! Frigate MKIII"
+ TECH_FRIGATE_MKIII_DESC: "The §HFrigate MKIII§! refit allows us to refit our Frigates with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ TECH_CRUISER_MKII_TITLE: "§HUnlocks Ship Refit:§! Cruiser MKII"
+ TECH_CRUISER_MKII_DESC: "The §HCruiser MKII§! refit allows us to refit our Cruisers with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_CRUISER_MKIII_TITLE: "§HUnlocks Ship Refit:§! Cruiser MKIII"
+ TECH_CRUISER_MKIII_DESC: "The §HCruiser MKIII§! refit allows us to refit our Cruisers with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ TECH_HEAVY_CRUISER_MKII_TITLE: "§HUnlocks Ship Refit:§! Heavy Cruiser MKII"
+ TECH_HEAVY_CRUISER_MKII_DESC: "The §HHeavy Cruiser MKII§! refit allows us to refit our Heavy Cruisers with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_HEAVY_CRUISER_MKIII_TITLE: "§HUnlocks Ship Refit:§! Heavy Cruiser MKIII"
+ TECH_HEAVY_CRUISER_MKIII_DESC: "The §HHeavy Cruiser MKIII§! refit allows us to refit our Heavy Cruisers with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ TECH_BATTLESHIP_MKII_TITLE: "§HUnlocks Ship Refit:§! Battleship MKII"
+ TECH_BATTLESHIP_MKII_DESC: "The §HBattleship MKII§! refit allows us to refit our Battleships with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_BATTLESHIP_MKIII_TITLE: "§HUnlocks Ship Refit:§! Battleship MKIII"
+ TECH_BATTLESHIP_MKIII_DESC: "The §HBattleship MKIII§! refit allows us to refit our Battleships with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ TECH_BATTLECRUISER_MKII_TITLE: "§HUnlocks Ship Refit:§! Battlecruiser MKII"
+ TECH_BATTLECRUISER_MKII_DESC: "The §HDreadnought MKII§! refit allows us to refit our Battlecruisers with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_BATTLECRUISER_MKIII_TITLE: "§HUnlocks Ship Refit:§! Battlecruiser MKIII"
+ TECH_BATTLECRUISER_MKIII_DESC: "The §HBattlecruiser MKIII§! refit allows us to refit our Battlecruisers with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ TECH_DREADNOUGHT_MKII_TITLE: "§HUnlocks Ship Refit:§! Dreadnought MKII"
+ TECH_DREADNOUGHT_MKII_DESC: "The §HDreadnought MKII§! refit allows us to refit our Dreadnoughts with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+ TECH_DREADNOUGHT_MKIII_TITLE: "§HUnlocks Ship Refit:§! Dreadnought MKIII"
+ TECH_DREADNOUGHT_MKIII_DESC: "The §HDreadnought MKIII§! refit allows us to refit our Dreadnoughts with advanced equipment.\nUpgrading their:\n§Y$MOD_SHIP_HULL_ADD$§!\n§Y$MOD_SHIP_ARMOR_ADD$§!\n§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!\n§Y$MOD_SHIP_ACCURACY_ADD$§!\nWhile increasing the Production Cost."
+
+ tech_lotor_modern_designs_desc: "Through updating and the modernisation of our existing designs and blueprints, we managed to improve the capabilities of"
+ tech_lotor_advanced_designs_desc: "The ever changing landscape of galactic technologies makes it necessary, to update our starships to endure all upcoming challenges. Through advanced modernization methods we can vastly improve"
+ tech_lotor_corvettes_2: "Modern Corvette Designs"
+ tech_lotor_corvettes_2_desc: "$tech_lotor_modern_designs_desc$ our Corvette Designs."
+ tech_lotor_corvettes_3: "Advanced Corvette Designs"
+ tech_lotor_corvettes_3_desc: "$tech_lotor_advanced_designs_desc$ our Corvette Designs."
+ tech_lotor_destroyers_2: "Modern Frigate Designs"
+ tech_lotor_destroyers_2_desc: "$tech_lotor_modern_designs_desc$ our Frigate Designs."
+ tech_lotor_destroyers_3: "Advanced Frigate Designs"
+ tech_lotor_destroyers_3_desc: "$tech_lotor_corvettes_3_desc$ our Frigate Designs."
+ tech_lotor_cruisers_2: "Modern Cruiser Designs"
+ tech_lotor_cruisers_2_desc: "$tech_lotor_modern_designs_desc$ our Cruiser Designs."
+ tech_lotor_cruisers_3: "Advanced Cruiser Designs"
+ tech_lotor_cruisers_3_desc: "$tech_lotor_advanced_designs_desc$ our Cruiser Designs."
+ tech_lotor_heavy_cruisers_2: "Modern Heavy Cruiser Designs"
+ tech_lotor_heavy_cruisers_2_desc: "$tech_lotor_modern_designs_desc$ our Heavy Cruiser Designs."
+ tech_lotor_heavy_cruisers_3: "Advanced Heavy Cruiser Designs"
+ tech_lotor_heavy_cruisers_3_desc: "$tech_lotor_advanced_designs_desc$ our Heavy Cruiser Designs."
+ tech_lotor_battleships_2: "Modern Battleship Designs"
+ tech_lotor_battleships_2_desc: "$tech_lotor_modern_designs_desc$ our Battleship Designs."
+ tech_lotor_battleships_3: "Advanced Battleship Designs"
+ tech_lotor_battleships_3_desc: "$tech_lotor_advanced_designs_desc$ our Battleship Designs."
+ tech_lotor_battlecruisers_2: "Modern Battlecruiser Designs"
+ tech_lotor_battlecruisers_2_desc: "$tech_lotor_modern_designs_desc$ our Battlecruiser Designs."
+ tech_lotor_battlecruisers_3: "Advanced Battlecruiser Designs"
+ tech_lotor_battlecruisers_3_desc: "$tech_lotor_advanced_designs_desc$ our Battlecruiser Designs."
+ tech_lotor_dreadnought_2: "Modern Dreadnought Designs"
+ tech_lotor_dreadnought_2_desc: "$tech_lotor_modern_designs_desc$ our Dreadnought Designs."
+ tech_lotor_dreadnought_3: "Advanced Dreadnought Designs"
+ tech_lotor_dreadnought_3_desc: "$tech_lotor_advanced_designs_desc$ our Dreadnought Designs."
+
+# Vanilla PK Weapons for Custom Empires
+ tech_lotor_pk_cracker: "$tech_pk_cracker$"
+ tech_lotor_pk_cracker_desc: "$tech_pk_cracker_desc$"
+ tech_lotor_pk_godray: "$tech_pk_godray$"
+ tech_lotor_pk_godray_desc: "$tech_pk_godray_desc$"
+ tech_lotor_pk_nanobots: "$tech_pk_nanobots$"
+ tech_lotor_pk_nanobots_desc: "$tech_pk_nanobots_desc$"
+ tech_lotor_pk_shielder: "$tech_pk_shielder$"
+ tech_lotor_pk_shielder_desc: "$tech_pk_shielder_desc$"
+ tech_lotor_pk_neutron: "$tech_pk_neutron$"
+ tech_lotor_pk_neutron_desc: "$tech_pk_neutron_desc$"
+
+# Archeotechnologies
+ tech_lotor_event_civilian_ships: "Civilian Ship Construction Methods"
+ tech_lotor_event_civilian_ships_desc: "Through planning and allocation of additional resources, we can improve the construction methods of our science, colony and other civilian ships, lowering their production cost and increasing the speed of assembly."
+ tech_lotor_event_long_distance_crews: "Long Distance Crew Training"
+ tech_lotor_event_long_distance_crews_desc: "Through new crew training methods, we can ensure that our officers will perform at their best possible level no matter how far away they are from home."
+ tech_lotor_event_sensors: "Advanced Scanning Arrays"
+ tech_lotor_event_sensors_desc: "Improved computer programs and new scanning arrays allow for faster planetary scans."
+ tech_lotor_event_hush58_comlink: "Prototype Hush-58 Comlink"
+ tech_lotor_event_hush58_comlink_desc: "A prototype model of a next generation handheld comlink, possessing a range of almost 50 kilometers, variable frequencies, encoding, a sound-reproduction matrix, a reception antenna, and built-in silence projectors that allowed the user to maintain stealth, making it a true technological marvel."
+
+ tech_lotor_event_replicator: "Pre-Republic Replicators"
+ tech_lotor_event_replicator_desc: "These replicators from a long forgotten civilization are a technological marvel, capable of producing a number of items and goods with less resources than conventional manufacturing means." #+5% consumer good production empire wide
+ tech_lotor_event_meditation_crystals: "Meditation Crystals"
+ tech_lotor_event_meditation_crystals_desc: "While not all beings are force sensitive, the force still flows through all living things. These Meditation Crystals allow the force to permeate the surrounding society more fully, providing a sense of relief and happiness to the population." #+2.5% pop happiness + 2.5% pop unity production
+ tech_lotor_event_access_disk_decoder: "Access Disk Encoder"
+ tech_lotor_event_access_disk_decoder_desc: "An added layer of security for our civilization, these Access Disk Encoders replace a number of basic and advanced security checks, making our infrastructure more difficult to slice into." #+1 Encryption#
+ tech_lotor_event_naktra_cystal_gardening: "Nak'tra Crystal Gardening"
+ tech_lotor_event_naktra_cystal_gardening_desc: "Nak'tra Crystals are a unique form of energy crystal native to Kashyyyk. Capable of being grown and maintained at a much faster rate than other crystals are formed naturally, Nak'tra Gardens are an indispensable boon that provides an otherwise"
+
+# 3.7 Techs
+ tech_lotor_detection_array: "$tech_detection_array$"
+ tech_lotor_detection_array_desc: "$tech_detection_array_desc$"
+ tech_lotor_dark_matter_detection: "$tech_dark_matter_detection$"
+ tech_lotor_dark_matter_detection_desc: "$tech_dark_matter_detection_desc$"
+ tech_lotor_assisted_detection: "$tech_assisted_detection$"
+ tech_lotor_assisted_detection_desc: "$tech_assisted_detection_desc$"
+
+### Cloaking Generator
+ ap_cloaking_generators: "Cloaking Generators"
+ ap_cloaking_generators_desc: "Cloaks will allow our vessels to gain a tactical advantage when entering combat, but may alarm our neighbours who do not possess the technology."
+ ap_cloaking_generator_unlocks: "Allows for development of §HCloaking Generators§!"
+
+ lotor_tech_events.5.name: "Stygium Cloak Research"
+ lotor_tech_events.5.desc: "[Root.GetRulerTitle] [Root.GetRulerName], I am Doctor x, team leader on the Starship Stealth Initiative Project, and I am most pleased to announce a breakthrough in our research efforts. by refining a rare strand of stygium crystal, we have been able to produce a cloaking field powerful enough to conceal both sensor emissions, as well as visual profile. The first prototypes of this device are nearly ready to be fitted onto ships in our fleet!"
+ lotor_tech_events.5.q: "What are the implications of this technology?"
+ lotor_tech_events.5.q.response: "A cloaked vessel will be nearly undetectable by most sensor systems, allowing us to bypass closed borders and conduct covert missions in hostile territory. The espionage and strategic advantages to this device are unparalleled."
+ lotor_tech_events.5.a: "Excellent."
+ LOTOR_CLOAKING_DEVICE_PROJECT: "Cloaking Generator Prototype"
+ LOTOR_CLOAKING_DEVICE_PROJECT_DESC: "Stygium cloaks effectively allow specially modified vessels to disappear entirely from visual scans and sensor sweeps, at the expense of some durability and firepower."
+ lotor_tech_events.6.name: "Finished Prototype"
+ lotor_tech_events.6.desc: "[Root.GetRulerTitle] [Root.GetRulerName], I am pleased to announce the first working production model of the Stygium Cloak is finished and ready to be fitted to our ships. While functional, this device is only a first generation prototype, and will only be able to conceal smaller vessels until the process can be refined further."
+ lotor_tech_events.6.a: "Excellent"
+
+ tech_lotor_cloaking_1: "$CLOAKING_GENERATOR_1$"
+ tech_lotor_cloaking_1_desc: "$CLOAKING_GENERATOR_1_DESC$"
+ tech_lotor_cloaking_2: "$CLOAKING_GENERATOR_2$"
+ tech_lotor_cloaking_2_desc: "$CLOAKING_GENERATOR_2_DESC$"
+ tech_lotor_cloaking_3: "$CLOAKING_GENERATOR_3$"
+ tech_lotor_cloaking_3_desc: "$CLOAKING_GENERATOR_3_DESC$"
+ tech_lotor_cloaking_4: "$CLOAKING_GENERATOR_4$"
+ tech_lotor_cloaking_4_desc: "$CLOAKING_GENERATOR_4_DESC$"

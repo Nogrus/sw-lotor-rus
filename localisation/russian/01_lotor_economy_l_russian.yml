@@ -1,0 +1,269 @@
+﻿l_russian:
+
+# Resources
+ sr_meds: "Medical Supplies"
+ sr_meds_desc: "§E§HMedical Supplies§! (£meds£) depending on your §HTechnical Level§!, Medical Supplies consist of either Basic Medpacs, Kolto Medpacs, Juvan Medpacs or Bacta Medpacs.\nWe can gain more by:\n§Y1.§! Acquiring §HMedical Supplies Deposits§!.\n§Y2.§! Buying more on the §HMarket§!.§!\n§Y3.§! Building §HMedical Supplies Factories§!.§!"
+
+ sr_heavy_alloys: "Heavy Alloys"
+ sr_heavy_alloys_desc: "§E§HHeavy Alloys§! (£heavy_alloys£) including, Beskar, Doonium and Nyix are used for advanced Starship Hulls and Heavy Armorplates.\nWe can gain more by:\n§Y1.§! Acquiring §HHeavy Alloy Deposits§!.\n§Y2.§! Building §HHeavy Alloy Forges§!.\n§Y3.§! Buying more on the §HMarket§!.§!"
+
+ sr_isotope5: "Isotope-5"
+ sr_isotope5_desc: "§E§HIsotope-5§! (£isotope5£) was one of the rarest substances in the known galaxy, it had powerful warping effects on gravitational and electromagnetic fields even in minuscule quantities.\nThe primary usage is §YIsotope-5 Fuel Rods§! which increase power generation to increase deflector shields and power weaponry.\nWe can gain more by acquiring §HIsotope-5 Deposits§!.§!"
+
+ sr_spice: "Spice"
+ sr_spice_desc: "§E§HSpice§! (£spice£) was slang for various mind-altering drugs. Varieties included ryll and glitterstim. We can gain more by:\n§Y1.§! Acquiring §HSpice Deposits§!\n§Y2.§! Building §HCriminal Branch Offices§!.\n§Y3.§! Buying more on the §HMarket§!.§!"
+
+ #sr_oridium: "Oridium"
+ #sr_oridium_desc: "§E§HOridium§! (£oridium£) was a rare metal with special anti sensor properties. Because of its hard to trace surface, it was used in advanced espionage buildings and special communication arrays.\nWe can gain more by:\n§Y1.§! Acquiring §HOridium Deposits§!.\n§Y2.§! Buying more on the §HMarket§!.§!"
+
+ fuel: "Starship Fuel"
+ fuel_desc: "§E§HStarship Fuel§! (£fuel£) was the term used for a variety of substances, including hypermatter, used to power vehicles and starships. We can gain more by:\n§Y1.§! Acquiring §HFuel Deposits§!\n§Y2.§! Building §HSynthetic Fuel Refineries§!.\n§Y3.§! Buying more on the §HMarket§!.§!"
+
+ sr_dark_matter_desc: "§E§HDark Matter§! (£sr_dark_matter£) has many properties that disturb gravity and energetic fields.\nWe can gain more by:\n§Y1.§! Acquiring §HDark Matter Deposits§! near Black Holes or certain nebulas.\n§Y2.§! Buying more on the §HMarket§!.§!"
+
+ rare_crystals_desc: "§E§HRare Crystals§! (£rare_crystals£) including, Nova, Kyber Crystals and similar, have properties that make them extremely effective at focusing laser beams, and they are also a critical component in most advanced electronics. In addition, many cultures treasure them as decorations and adornments.§!"
+ 
+ exotic_gases_desc: "§E§HExotic Gases§! (£exotic_gases£) are rare and exotic gases including Tibanna Gas, Clouzon-36 and others with a variety of different uses, particularly in the operation of advanced energy-based weaponry and Deflector Shields. Some of the gases can also be used as recreational drugs.§!"
+
+ volatile_motes_desc: "§E§HVolatile Materials§! (£volatile_motes£) are materials contain a tremendous amount of energy which could be exploited in energy production or even as explosives.§!"
+
+ crew: "Manpower"
+ crew_desc: "§E§HManpower§! (£crew£) represents all of the available Military personnel which can be allocated to new Starships, Armies or Space Stations. We can gain more by:\n§Y1.§! Building §HMilitary Academies§! to increase our Manpower production and build §HStrongholds§! to increase the maximum amount of Crew your Empire can keep.\n§Y2.§! Building orbital §HTraining Centers§! on our Space Stations.\n§Y3.§! Changing our empire-wide §HRecruitment Policy§!.\n§Y4. §!Acquiring §HCloning Technologies§!.§!\n§Y5.§! §EA small amount from §HCapital Buildings§!.§!"
+
+# Old
+# crew_desc: "§E§HManpower§! (£crew£) represents all of the available Military personnel which can be allocated to new Starships, Armies or Space Stations. We can gain more by:\n§Y1.§! Building §HMilitary Academies§! on the surface of colonized planets.\n§Y2.§! Changing the §HMilitary Laws§! of our Population to mobilize more.\n§Y3.§! Other ways to increase your empire population like the §HSlave Market§! or §HCloning Technologies§!.§!"
+
+ lotor_entertrainers_additional_amenities: "£job_entertainer£ Entertainers provide §G+2§! £amenities£ §YAmenities§!"
+
+ # Others
+ leader_trait_lotor_economist: "Economist"
+ leader_trait_lotor_economist_desc: "This leader is known for their understanding of trade and commerce."
+ leader_trait_lotor_recruiter: "Recruiter"
+ leader_trait_lotor_recruiter_desc: "This leader's charismatic attitude helps to gain support from the local populace."
+
+ empire_crew_deficit: "Crew Deficit"
+ empire_crew_deficit_desc: "Not enough crew to supply our ships!"
+
+ empire_fuel_deficit: "Starship Fuel Deficit"
+ empire_fuel_deficit_desc: "Our starship fuel reserves are running low. This could have consequences for our fleets."
+
+ empire_spice_deficit: "Spice Deficit"
+ empire_spice_deficit_desc: "Not enough spice!"
+
+ empire_meds_deficit: "Meds Deficit"
+ empire_meds_deficit_desc: "Not enough meds!"
+
+ empire_heavy_alloy_deficit: "Heavy Alloy Deficit"
+ empire_heavy_alloy_deficit_desc: "Not enough heavy alloys!"
+
+ ### Deep Space & Unknown Region Hyperlanes
+ DEEP_SPACE_HYPERLANE1_GALACTIC: "Deep Space Hyperlane"
+ DEEP_SPACE_HYPERLANE1_DESC: "A Hyperlane which connects the known galaxy and the chaos."
+ DEEP_SPACE_HYPERLANE1_DESC_UNEXPLORED: "A long reaching Hyperlane that ends far away from its entry point."
+
+ DEEP_SPACE_HYPERLANE_GALACTIC: "Deep Space Hyperlane"
+ DEEP_SPACE_HYPERLANE_DESC: "A Hyperlane which connects remote areas of space."
+ DEEP_SPACE_HYPERLANE_DESC_UNEXPLORED: "A long reaching Hyperlane that ends far away from its entry point."
+
+ DEEP_SPACE_UNKOWN_COUNTRY_CANNOT_USE: "This hyperlane is blocked."
+ DEEP_SPACE_UNKNOWN_COUNTRY_NOT_TECH: "We don't have the necessary technology to use this hyperlane."
+ DEEP_SPACE_ANCIENT_COUNTRY_CANNOT_USE: "This hyperlane is blocked."
+ DEEP_SPACE_ANCIENT_COUNTRY_NOT_TECH: "We don't have the necessary technology to use this hyperlane."
+
+ # Deep Space
+ deep_space_hyperlane_name: "Deep Space Hyperlane"
+ deep_space_hyperlane: "$deep_space_hyperlane_name$"
+ deep_space_hyperlane_DESC: "A rare, somewhat unique Hyperlane that's generally regarded as safe to use. These kinds of Deep Space Hyperlanes were used by civilizations many millenniums ago just as current civilizations use our standard Hyperlanes for all manner of transport. Scans show no distinct disruptions or gravitational disturbances along the route even after all this time, though caution is still recommended as with all Hyperspace travel."
+ deep_space_hyperlane1_name: "$deep_space_hyperlane_name$"
+ deep_space_hyperlane1: "$deep_space_hyperlane_name$"
+ deep_space_hyperlane1_DESC: "$deep_space_hyperlane_DESC$"
+
+ # Unknown Region
+ deep_space_hyperlane2: "Unstable Hyperlane"
+ deep_space_hyperlane2_DESC: "An ancient Hyperlane established by a long lost civilization. No record or information has been found as to the course or the destination of this Hyperlane. In addition, scans indicate substantial gravitational anomalies and route deviation, leading to the conclusion that any ship entering the Hyperlane may be in for a perilous journey. Moreover, even if the ship does survive, its ultimate destination is entirely unknown, the emptiness of the void just as likely as a magnificent discovery."
+ deep_space_hyperlane3: "$deep_space_hyperlane2$"
+ deep_space_hyperlane3_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane4: "$deep_space_hyperlane2$"
+ deep_space_hyperlane4_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane5: "$deep_space_hyperlane2$"
+ deep_space_hyperlane5_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane6: "$deep_space_hyperlane2$"
+ deep_space_hyperlane6_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane7: "$deep_space_hyperlane2$"
+ deep_space_hyperlane7_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane9: "$deep_space_hyperlane2$"
+ deep_space_hyperlane9_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane10: "$deep_space_hyperlane2$"
+ deep_space_hyperlane10_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane11: "$deep_space_hyperlane2$"
+ deep_space_hyperlane11_DESC: "$deep_space_hyperlane2_DESC$"
+ deep_space_hyperlane12: "$deep_space_hyperlane2$"
+ deep_space_hyperlane12_DESC: "$deep_space_hyperlane2_DESC$"
+
+ deep_space_hyperlane_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane1_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane2_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane3_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane4_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane5_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane6_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane7_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane9_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane10_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane11_MEGASTRUCTURE_DETAILS: "wip"
+ deep_space_hyperlane12_MEGASTRUCTURE_DETAILS: "wip"
+
+# Policies
+ edict_recruitment_drive: "Emergency Recruitment Drive"
+ edict_recruitment_drive_desc: "Try to get a larger Amount of your Population into the Military, these people will miss in the working forces."
+
+ edict_additional_medpacs: "Additional Medpacs"
+ edict_additional_medpacs_desc: "Our nation buys more medpacs from medical corporations in order to combat illnesses spreading through our empire."
+
+# Deposits
+ d_fuel_deposit_0: "Large Fuel Deposit"
+ d_fuel_deposit_0_desc: "Our Home Planet has a large deposit of fuel."
+ d_fuel_deposit_1: "Small Fuel Deposit"
+ d_fuel_deposit_1_desc: "A small deposit of fuel located beneath the planet's crust, useful for both planetary and interplanetary needs ranging from running generators to fueling starship reactors. With adequate tools to drill into the planet's surface and extract the resource, our civilization may benefit greatly either from its use or sale."
+ d_fuel_deposit_2: "Medium Fuel Deposit"
+ d_fuel_deposit_2_desc: "A medium deposit of fuel located beneath the planet's crust, useful for both planetary and interplanetary needs ranging from running generators to fueling starship reactors. With adequate tools to drill into the planet's surface and extract the resource, our civilization may benefit greatly either from its use or sale."
+ d_fuel_deposit_3: "Large Fuel Deposit"
+ d_fuel_deposit_3_desc: "A large deposit of fuel located beneath the planet's crust, useful for both planetary and interplanetary needs ranging from running generators to fueling starship reactors. With adequate tools to drill into the planet's surface and extract the resource, our civilization may benefit greatly either from its use or sale."
+
+ d_fuel_orbit_1: "Small Gaseous Fuel Deposit"
+ d_fuel_orbit_1_desc: "A small deposit of gaseous fuel located beneath the planet's crust, useful for both planetary and interplanetary needs ranging from residential heating to starship fuel. With adequate tools to drill into the planet's surface and extract the resource, our civilization may benefit greatly either from its use or sale."
+ d_fuel_orbit_2: "Medium Gaseous Fuel Deposit"
+ d_fuel_orbit_2_desc: "A medium deposit of gaseous fuel located beneath the planet's crust, useful for both planetary and interplanetary needs ranging from residential heating to starship fuel. With adequate tools to drill into the planet's surface and extract the resource, our civilization may benefit greatly either from its use or sale."
+ d_fuel_orbit_3: "Large Gaseous Fuel Deposit"
+ d_fuel_orbit_3_desc: "A large deposit of gaseous fuel located beneath the planet's crust, useful for both planetary and interplanetary needs ranging from residential heating to starship fuel. With adequate tools to drill into the planet's surface and extract the resource, our civilization may benefit greatly either from its use or sale."
+ d_odd_powercore: "Odd Powercore"
+
+# Megastructures
+ lotor_fuel_depot_1: "Orbital Fuel Depot"
+ lotor_fuel_depot_1_DESC: "This Orbital Fuel Depot increases the maximum capacity of starship fuel for the controlling faction. Large fuel tanks and processing stations are housed within its heavily armored hull, situated in the vacuum of space as opposed to the surface of a planet or moon. This results in ease of transport and distribution throughout our borders as vessels do not need to descend or ascend through a given atmosphere to access the depot."
+ lotor_fuel_depot_1_MEGASTRUCTURE_DETAILS: "This Orbital Fuel Depot increases our faction's fuel storage and provides a safe location with minimized fuel destabilization."
+ requires_no_existing_fuel_depot: "Requires no Existing Fuel Depot in the System"
+ lotor_fuel_depot_2: "Large Orbital Fuel Depot"
+ lotor_fuel_depot_2_DESC: "This Orbital Fuel Depot increases the maximum capacity of starship fuel for the controlling faction. Massive fuel tanks and processing stations are housed within its heavily armored hull, situated in the vacuum of space as opposed to the surface of a planet or moon. This results in ease of transport and distribution throughout our borders as vessels do not need to descend or ascend through a given atmosphere to access the depot. Upgraded processing equipment and practices have also resulted in a processes that prevents some level of fuel destabilization."
+ lotor_fuel_depot_2_MEGASTRUCTURE_DETAILS: "This Large Orbital Fuel Depot vastly increases our faction's fuel storage and provides a safe location with minimized fuel destabilization."
+
+ count_megastructure_trigger: ""
+ lotor_communication_relay_1: "Communication Relay"
+ lotor_communication_relay_1_DESC: "A large Communication Relay enabling faster, more efficient communication in the sector. Official and administrative benefits include stronger encryption, boosted range, and faster routing of transmissions. The relay also provides a benefit to the general populace through increased channel capacity and updates for holonet communication and connection."
+ lotor_communication_relay_1_MEGASTRUCTURE_DETAILS: "This Communication Relay improves communication efficiency and increases channel capacity for our faction."
+ requires_no_existing_communication_relay: "Requires no existing $lotor_communication_relay_1$"
+ requires_no_communication_relay_nearby: "§RCan't be next to another system with a Communication Relay.§!"
+
+ lotor_communication_relay_2: "Communication Relay Nexus"
+ lotor_communication_relay_2_DESC: "A large Communication Relay enabling faster, more efficient communication in the sector. Official and administrative benefits include stronger encryption, boosted range, and faster routing of transmissions. The relay also provides a benefit to the general populace through increased channel capacity and updates for holonet communication and connection. Through the linking of multiple new components and oridium coating, this Communication Relay Nexus enhances every aspect of the standard Communication Relay."
+ lotor_communication_relay_2_MEGASTRUCTURE_DETAILS: "This Communication Relay Nexus vastly improves communication efficiency and increases channel capacity for our faction."
+
+ lotor_communication_unity: "§HUnlocks Feature§!: §YCommunication Relays§! produce additional £unity£ §Y$unity$§!"
+ lotor_communication_relay_ruined: "Ruined Communication Relay"
+ lotor_communication_relay_ruined_DESC: "A derelict Communication Relay found in the emptiness of space, useless in its current state. Its location has been logged in our records for future reference. With enough resources and ships to perform repairs, we could use it to our advantage, providing extensive benefits to our sector wide communication."
+ lotor_communication_relay_ruined_MEGASTRUCTURE_DETAILS: "An old Communication Relay, with a some repairs, we could use it to our advantage."
+ lotor_communication_relay_restored: "Restored Communication Relay"
+ lotor_communication_relay_restored_DESC: "This Ruined Communication Relay currently provides nothing, but with repairs may improve communication efficiency and increase channel capacity for a given faction."
+
+ TECH_UNLOCK_MEGASTRUCTURE_COMMUNICATION_RELAY_1_TITLE: "§HUnlocks§!: §Y$lotor_communication_relay_1$§! Megastructure"
+ TECH_UNLOCK_MEGASTRUCTURE_COMMUNICATION_RELAY_1_DESC: "$lotor_communication_relay_1_DESC$"
+
+ TECH_UNLOCK_MEGASTRUCTURE_COMMUNICATION_RELAY_2_TITLE: "§HUnlocks§!: §Y$lotor_communication_relay_2$§! Upgrade"
+ TECH_UNLOCK_MEGASTRUCTURE_COMMUNICATION_RELAY_2_DESC: "$lotor_communication_relay_2_DESC$"
+
+ TECH_UNLOCK_MEGASTRUCTURE_FUEL_DEPOT_TITLE: "§HUnlocks§!: §Y$lotor_fuel_depot_1$§! Megastructure"
+ TECH_UNLOCK_MEGASTRUCTURE_FUEL_DEPOT_DESC: "$lotor_fuel_depot_1_DESC$"
+ TECH_UNLOCK_MEGASTRUCTURE_FUEL_DEPOT_2_TITLE: "§HUnlocks§!: §Y$lotor_fuel_depot_2$§! Upgrade"
+ TECH_UNLOCK_MEGASTRUCTURE_FUEL_DEPOT_2_DESC: "$lotor_fuel_depot_2_DESC$"
+
+ TECH_ADDITIONAL_STOARGE_TITLE: "Additional Resource Stoarge:\nMajor Resources: §G+20000§!\nMinor Resources: §G+10000§!"
+ TECH_ADDITIONAL_STOARGE_DESC: "Additional Resource Stoarge:\nMajor Resources: §G+20000§!\nMinor Resources: §G+10000§!"
+
+ # Hyper Relay 1
+ # Rewrites Vanilla one is in lotor_gr_i_english
+
+ # Hyper Relay 2
+ hyper_relay_2: "Major Hyperspace Beacon"
+ hyper_relay_2_plural: "Major Hyperspace Beacons"
+ hyper_relay_2_DESC: "A chain of Hyperspace Beacons allows traveling along a marked Hyperspace Route between adjacent systems. Chains of important star systems form the major trade routes, which are vital navigational routes for trade and transit and can cross multiple sectors."
+ hyper_relay_2_MEGASTRUCTURE_DETAILS: "A §Ychain of Hyperspace Beacons§! allows significantly faster transit times between adjacent systems. Chains of important star systems form the major trade routes, which are vital navigational routes for trade and transit and can cross multiple sectors."
+ hyper_relay_2_tooltip: "$TRIGGER_FAIL$This system is not on a major trade route in lore."
+ mod_relay_bypass_megastructure_bypass_windup_mult: "Hyperspace Beacon windup speed"
+
+# New Buildings
+ tech_lotor_synthetic_heavy_alloys: "Heavy Alloy Forges"
+ tech_lotor_synthetic_heavy_alloys_desc: "Heavy Alloy Forges use a synthetic process to create alternative £heavy_alloys£ §YHeavy Alloys§!."
+
+ job_heavy_alloy_maker: "Heavy Alloy Metallurgist"
+ job_heavy_alloy_maker_desc: "Uses a synthetic process to create alternative £heavy_alloys£ §YHeavy Alloys§!."
+ job_heavy_alloy_maker_plural: "Heavy Alloy Metallurgist"
+ job_heavy_alloy_maker_effect_desc: "£job_heavy_alloy_maker£ $job_heavy_alloy_maker_plural$ turn £energy£ §Y$energy$§! and £alloys£ §Y$alloys$§! into £heavy_alloys£ §YHeavy Alloys§!"
+
+ job_heavy_alloy_drone_add: "$job_heavy_alloy_drone$ Drones"
+ job_heavy_alloy_drone: "Heavy Alloy Drone"
+ job_heavy_alloy_drone_desc: "Uses a synthetic process to create alternative £heavy_alloys£ §YHeavy Alloys§!."
+ job_heavy_alloy_drone_plural: "Heavy Alloy Drones"
+ job_heavy_alloy_drone_effect_desc: "£job_heavy_alloy_drone£ $job_heavy_alloy_drone_plural$ turn £energy£ §Y$energy$§! and £alloys£ §Y$alloys$§! into £heavy_alloys£ §YHeavy Alloys§!"
+
+# Fuel Refinery
+ job_fuel_refiner: "Fuel Refiner"
+ job_fuel_refiner_desc: "Uses a synthetic process to create alternative £fuel£ §Y$fuel$§!."
+ job_fuel_refiner_plural: "Fuel Refiners"
+ job_fuel_refiner_effect_desc: "£job_fuel_refiner£ $job_fuel_refiner_plural$ turn £energy£ §Y$energy$§! into £fuel£ §Y$fuel$§!"
+
+ job_fuel_refiner_drone: "Fuel Refiner Drone"
+ job_fuel_refiner_drone_desc: "Uses a synthetic process to create alternative Starship Fuel"
+ job_fuel_refiner_drone_plural: "Fuel Refiner Drones"
+ job_fuel_refiner_drone_effect_desc: "£job_fuel_refiner_drone£ $job_fuel_refiner_drone_plural$ turn £energy£ §Y$energy$§! into £fuel£ §Y$fuel$§!"
+
+# Heavy Alloy Extraction
+ building_heavy_alloys_extractor: "Heavy Alloy Extractor"
+ building_heavy_alloys_extractor_plural: "Heavy Alloy Extractors"
+ building_heavy_alloys_extractor_desc: "A large scale mining operation which reaches deep into the planet's mantle to access veins of resilient alloys."
+ job_heavy_alloy_extracter: "Heavy Alloy Extractor"
+ job_heavy_alloy_extracter_plural: "Heavy Alloy Extractors"
+ job_heavy_alloy_extracter_desc: "With modern power drills and other advanced tools, mining may not be the back-breaking profession it once was, but it is still far from easy."
+
+ job_heavy_alloy_extracter_drone: "Heavy Alloy Extractor Drone"
+ job_heavy_alloy_extracter_drone_plural: "Heavy Alloy Extractor Drones"
+ job_heavy_alloy_extracter_drone_desc: "Equipped with modern power drills and advanced machinery, these drones extract and prepare valuable heavy alloys for industrial and military use."
+
+# Republic Aid Agency Holding
+ holding_republic_aid_agency: "Republic Aid Agency"
+ holding_republic_aid_agency_plural: "Republic Aid Agencies"
+ holding_republic_aid_agency_desc: "Agencies founded and staffed by the Galactic Republic, bringing some of their culture, trade, knowledge and other benefits to the planet."
+
+# Mandalorian Recruitment System
+ job_mando_apprentice: "Mandalorian Recruit"
+ job_mando_apprentice_plural: "Mandalorian Recruits"
+ job_mando_apprentice_desc: "Everyone can become a Mandalorian if he survives the Training for it."
+
+ MESSAGE_MANDO_POPS_RECRUIT: "We have trained $VALUE|Y$ £pops£ Pops to become Mandalorians in our Recruitment Camps on $PLANET|Y$."
+ MESSAGE_MANDO_POPS_RECRUIT_TITLE: "Mandalorian Recruit Training Finished"
+ lotor_mandalorian_flavour.2.name: "Mandalorian Training finished on [Root.Capital.GetName]"
+ lotor_mandalorian_flavour.2.desc: "Ever since the [Root.GetAdj] takeover of [Root.Capital.GetName] the Training of [necrophage_species.GetNamePlural] to join the Mandalorian Forces began. This Process takes roughly 5 Years and only the strongest survive."
+ lotor_mandalorian_flavour.2.A: "Prepare the Training"
+ lotor_mandalorian_flavour.2.A.tooltip: "I have no Idea what should be here"
+ building_mando_recruitment_camp_scaling_tooltip: "To assure a steady supply of £job_mando_apprentice£ $job_mando_apprentice_plural$, the number of jobs provided scales between §Y1§! and §Y3§!, depending on §Ypop growth§!.\n\n"
+
+ job_mando_apprentice_effect_desc: "£job_mando_apprentice£ $job_mando_apprentice_plural$ turn £consumer_goods£ §Y$consumer_goods$§! and £food£ §Y$food$§! into £unity£ §Y$unity$§! and £crew£ §Y$crew$§!.\nOnce every §Y5§! years, alien pops finish their training and become §YMandalorian§!."
+
+ requires_ascension_perks_6: "$TRIGGER_FAIL$Requires six other Ascension Perks to be selected first."
+
+ job_queen_drone: "Queen Drone"
+ job_queen_drone_plural: "Queen Drones"
+ job_queen_drone_desc: "A special drone, helping with the growing population."
+
+# Ship Components & Modifiers
+ ship_components_crew: "Starship Crew"
+
+# Republic Senator
+ job_republic_senator: "Senator"
+ job_republic_senator_plural: "Senators"
+ job_republic_senator_desc: "Galactic Senators were individuals who represented the many planets of the galaxy in the Senate of the Galactic Republic. Some senators were genuine in their desire to make improvements, while others were entirely corrupt and sought only personal gain. Senators were often served by various aides, whose careers were closely tied to the senator they served, unless they were able to replace them."
+
+ planet_patrol_drones: "Patrol Drones"
+
+ star_forge: "The Star Forge"
+ star_forge_DESC: "A giant automated shipyard, designed by the Rakatans to create the most powerful army of all time. The Star Forge can draw energy and matter from a nearby star which, when combined with the power of the Force, makes it capable of creating an endless supply of ships, droids, and other war material."
+ star_forge_MEGASTRUCTURE_DETAILS: "$star_forge_Desc$"

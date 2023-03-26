@@ -1,0 +1,612 @@
+﻿l_russian:
+
+# Loading Tips
+ LOADING_TIP_0: "\"I'm not a warrior, I'm a soldier. There's a difference. Warriors attack and conquer, they prey on the weak. Soldiers defend and protect the innocent - usually from warriors.\" - §YCarth Onasi§!"
+ LOADING_TIP_1: "\"I will not remove your mask until there is justice,\nuntil the Mandalorians have been defeated once and for all. So swears Revan!\" - §YRevan§!"
+ LOADING_TIP_2: "\"Statement: Oh, do shut up, you beeping little trash compactor!\" - §YHK-47§!"
+ LOADING_TIP_3: "\"The Sith Empire will burn brightly, like a supernova, dwarfing the complacent Republic.\nWe shall hold the entire galaxy in our grasp.\" - §YNaga Sadow§!"
+ LOADING_TIP_4: "\"The chains of the grave cannot hold a Dark Lord of the Sith...\" - §YMarka Ragnos§!"
+ LOADING_TIP_5: "\"A warrior knows nothing of surrender.\" - §YMandalore the Indomitable§!"
+ LOADING_TIP_6: "\"What do I see? What does your eye see for the Nihil?\" - §YMarchion Ro§!"
+ LOADING_TIP_7: "\"This station will be a symbol of the Republic in the Outer Rim.. The beacon.\nThe beacon of the Republic. The sound... of hope.\" - §YLina Soh§!"
+ LOADING_TIP_8: "\"I was a historian once, gathering the relics of the Jedi, learning the ancient mysteries.\nAlways, there were more questions.\" - §YKreia§!"
+ LOADING_TIP_9: "\"After a thousand years, Korriban is ours again.\" - §YMalgus§!"
+ LOADING_TIP_10: "\"I am Darth Bane, Dark Lord of the Sith. I will survive. At any cost.\" - §YBane§!" # oh god, this will go to his head :P
+ LOADING_TIP_11: "\"Mandalore has returned! I am Mandalore the Preserver,\nand I will restore the honor and glory of my people!\" - §YCanderous Ordo§!"
+ LOADING_TIP_12: "\"What greater weapon is there than to turn an enemy to your cause?\nTo use their own knowledge against them?\" - §YBastila Shan§!"
+ LOADING_TIP_13: "\"As a meatbag would say: I have a bad feeling about this.\" - §YHK-47§!"
+ LOADING_TIP_14: "\"My life spans millennia. Legions have risen to test me...\nMy ascendance is inevitable.\" - §YTenebrae§!"
+ LOADING_TIP_15: "\"The Jedi Council were foolish to let you live.\nI won't make the same mistake.\" - §YDarth Malak§!"
+ LOADING_TIP_16: "\"Victory in battle is my justification.\" - §YCanderous Ordo§!"
+ LOADING_TIP_17: "\"The Jedi... The Sith... You don't get it, do you? To the Galaxy, they're the same thing: Men and women with too much power, squabbling over religion, while the rest of us burn!\" - §YAtton Rand§!"
+ LOADING_TIP_18: "\"There is no death; there is only the force- and I am its master.\" - §YVitiate§!"
+ LOADING_TIP_19: "\"War... is a hunger. And there are spirits in the galaxy whose hunger is never satisfied.\" - §YKreia§!"
+ LOADING_TIP_20: "\"Savior, conqueror, hero, villain. You are all things, Revan... and yet you are nothing. In the end, you belong to neither the light nor the darkness.\" - §YDarth Malak§!"
+ LOADING_TIP_21: "\"Two there should be; no more, no less. One to embody the power, the other to crave it.\" - §YBane§!"
+ LOADING_TIP_22: "\"My ascendance is inevitable. A day, a year, a millennium - it matters not. I hold the patience of stone and the will of stars. Your striving is insignificant. Let your death be the same.\" - §YEmperor Vitiate§!"
+
+ aurek: "Aurek"
+ besh: "Besh"
+ cresh: "Cresh"
+ cherek: "Cherek"
+ dorn: "Dorn"
+ esk: "Esk"
+ enth: "Enth"
+ onith: "Onith"
+ forn: "Forn"
+ grek: "Grek"
+ herf: "Herf"
+ isk: "Isk"
+ jenth: "Jenth"
+ krill: "Krill"
+ krenth: "Krenth"
+ leth: "Leth"
+ mern: "Mern"
+ nern: "Nern"
+ nen: "Nen"
+ osk: "Osk"
+ orenth: "Orenth"
+ penth: "Penth"
+ qek: "Qek"
+ resh: "Resh"
+ senth: "Senth"
+ shen: "Shen"
+ trill: "Trill"
+ thesh: "Thesh"
+ usk: "Usk"
+ vev: "Vev"
+ wesk: "Wesk"
+ xesh: "Xesh"
+ yirt: "Yirt"
+ zerek: "Zerek"
+
+ Rancor: "Rancors"
+ Acklay: "Acklays"
+ Nexu: "Nexus"
+ Krayt: "Krayts"
+ Mynock: "Mynocks"
+ Mythosaur: "Mythosaurs"
+ Kath_Hound: "Kath Hounds"
+ Mudhorn: "Mudhorns"
+ Wampa: "Wampas"
+ Kinrath: "Kinraths"
+
+ criminal_01: "Criminal"
+ sith_emp_01: "Sith Empire"
+ old_rep_01: "Republic"
+ mandalorian_01: "Mandalorian"
+ generic_lotor_01: "Generic"
+ outer_rim_01: "Outer Rim"
+ kuat_01: "Kuat"
+ hutt_01: "Hutt"
+ onderon_01: "Onderon"
+ chiss_01: "Chiss"
+ killik_01: "Killik"
+
+ Old_Republic: "Old Republic"
+ Sith_Empire: "Sith Empire"
+ Mandalorian: "Mandalorian"
+ NAME_GALACTIC_REPUBLIC_FORMED: "Galactic Republic"
+ NAME_Sith_Empire_REFORMED: "Resurgent Sith Empire"
+ NAME_Mandalorian_Crusade_REFORMED: "Mandalorian Crusade"
+ NAME_Mandalorian_Country_REFORMED: "Mandalorian Clans"
+ NAME_Mandalorian_Remnant_1: "Mandalorian Exiles"
+ NAME_Mandalorian_Remnant_2: "Mandalorian Worlds"
+ NAME_Mandalorian_Remnant_3: "Mandalorian Raiders"
+ NAME_Mandalorian_Warlord: "Mandalorian Warlord"
+
+ NAME_Galactic_Republic_Empire: "Galactic Republic"
+ BRANCH_OFFICE_NOT_HUTT: "§HThe Hutts won't allow rivaling Branch Offices§!"
+
+ FLAG_CATEGORY_lotor: "LOTOR"
+ FLAG_CATEGORY_hutt_clans: "Hutt Clans"
+ FLAG_CATEGORY_onderon: "Onderon"
+
+# Starting Texts
+
+ START_SCREEN_CORUSCANT: "No expectation is set too high for the people of §YCoruscant§!!\n\nThe rebuilt city of Zhell is truly a sight to behold. A crowning achievement of all things in beauty, architecture, and efficiency. As grand and noble as the city is, it is only a façade. Without others following our lead of Democracy, how could they ever grow to be as grand as we?\n\nDuring the reign of the §HInfinite Empire§!, our people sent out sleeper ships, secretly colonizing planets under §HRakatan's§! eyes. With those despots gone, we must seek out our long-lost brothers and sisters. We must reunite under one banner, it is the only way we can be strong and prosper."
+
+ START_SCREEN_ALDERAAN: "Of all the core worlds, §YAlderaan§! is unmatched in its beauty. Human settlement on this unspoiled world is still an ongoing venture and brings with it new challenges. As descendants of human colonists from the §YHerglic Trade Empire§!, our people lived at peace with nature and each other. This harmony allows ten families to grow in power and prestige as §YAlderaan§! continues to expand its influence.\n\nHowever, the §YGreat Houses§! are not the first families on this planet and we are merely in the shadow of an older empire. Among the picturesque landscape are petrified spires belonging to an ancient race that has seemingly vanished from §YAlderaan§!.\n\nWe must not go the way of this lost empire and §YAlderaan§! must endure. The leadership of the §YGreat Houses§! and our brilliant scientists and engineers will see that our people can survive peacefully in this ever expanding galaxy."
+
+ START_SCREEN_CORELLIA: "We are the sons and daughters of former slaves, held in bondage by the §HInfinite Empire§!. Our ancestors toiled at length to construct a machine that could harness energy from suns and produce fleets of immense size. But as the §HBuilders§! fell, we seized the opportunity and revolted.\n\nSince then, we have reverse engineered their machines and mastered hyperspace travel. Our insights brought us closer together and eventually, others in the galaxy as well. We've charted new planets, fostered a closer bond with §YSelonian§! and §YDrall§!, and continue to explore the §BCore§!.\n\n§YCorellia's§! future is bright and we will pursue a better future for our people as our galaxy expands."
+
+ START_SCREEN_DURO: "Our people are former slaves turned explorers, reverse engineering the machinery of the §HBuilders§! and using it to explore the Galaxy. Our understanding of hyperspace travel allows us to expand trade and forge alliances with our neighbors, some of which joined us in rebelling against the §HBuilders§!.\n\nDue to our engineering prowess, the §YDuros§! have a bright future ahead. Our leaders see the galaxy as full of opportunity for our people."
+
+ START_SCREEN_ALSAKAN: "The northern portion of the §BCore§! took the brunt of the chaos of the §HGreat Hyperspace War§!. The §YAlsakan's§! stood by with the §BCore§! to defend the galaxy from the §HSith§! expecting rewards beyond our wildest dreams. Unfortunately, the people of §YCoruscant§! have decided they'd much rather restore their own planet rather than pay their debts to us. We were one of §YCoruscant's§! first colonies only to now be abandoned in our time of need.\n\nIn this time of great change the §BMid Rim§! to our north is shaping up to be a dangerous place to live. The sparks left behind from §HMandalore the Indomitable's§! great crusade could threaten to turn into an inferno once again if not dealt with appropriately. If we are going to maintain our extravagant lifestyle, we will need the backing of the §BCore§!. Whether it's by joining the coalition rumored to be forming there or conquering §YCoruscant§! for its natural resources."
+
+ START_SCREEN_CZERKA_CORPORATION: "Greetings §YPresident Seario§!, the board of §YCzerka Corporation§! congratulates you on your most prestigious promotion.\n\nHowever, there are concerns you may not share the same interests as they do. You must forgo any morals, compassion, and empathy for your fellow man. Ensure credits are filling our coffers, through any legal or ambiguous means. Influence is key; use it wisely to keep certain predicaments under wraps. Wars will be fought over pointless politics. The galaxy's loss, will be our gain.\n\nThis is a business Mr. President, take the board's advice and you will lead §YCzerka Corporation§! into an age of untold opportunities!"
+
+ START_SCREEN_KUAT: "As a primary ship producer for the §BCore Worlds§! during the §HGreat Hyperspace War§!, §YKuat§! proved to be a valuable target for §HSith§! aggression. The shipyards that were once our crowning achievement has been torn down leaving us vulnerable for a future assault. We still have blueprints for ships that allowed us to stand above other nations of the §BCore§! and should start producing more immediately. Our society sits in the center of a crowded galactic §BCore§! that would be all too willing to seize our intellectual property if we show weakness. The humiliation of our defeat can only be removed if we show the galaxy, we can defend ourselves without §YCoruscant's§! protection.\n\nWith the advancements in hyperspace technology we should secure as much territory as possible in order to maintain chokepoints away from §YKuat§! itself. Regardless of the inevitability of galactic political crises to come, §YKuat§! must endure."
+
+ START_SCREEN_AHTO: "§YManaan§! sits in the §BMid Rim§! and has always been vital for galactic security. The §YSelkath§! local to the planet have mastered the art of kolto production making the area a point of interest for §HJedi§! and §HSith§! forces during the §HGreat Hyperspace War§!. Kolto is a substance capable of healing the gravest of wounds making it invaluable to any military campaign waged across the galaxy. To guarantee the safety of our people as well as the kolto refineries scattered across the planet, the §YAhto High Courts§! remained a neutral party in the §HGreat Hyperspace War§! selling kolto to both sides.\n\nThe §YAhto High Courts§! now stand at a crossroads with the galaxy entering an uneasy peace. Rumors are spreading that the §BCore Worlds§! intend to make a formal alliance to guarantee galactic safety for centuries to come. We could use our new hyperdrive technology to bring us closer to this regime, potentially dragging us into future conflicts, or we can stay true to ourselves."
+
+ START_SCREEN_ARKANIAN: "The galaxy is sprawling and there are many new opportunities ahead of us. Our merchants see new markets and new hyperlanes to utilize. Despite the obvious inferiorities of our neighbors, our brilliant scientific minds see new candidates for our genetic prowess. The superiority of the §YArkanians§! will be brought to the larger galaxy."
+
+ START_SCREEN_GUARDIANS: "The §HJedi Order§! do not own the force no matter how often they claim otherwise. The §YWhills§! have taught us the force is something that resides in all beings. During the §HGreat Hyperspace War§! many of these beings were killed, some even by the §HJedi§! despite their supposed adherence to the 'light' side of the force. It is clear to us that the force needs a new protector who will serve it more faithfully than the §HJedi§! have done so far. Thus the §YGuardians of the Whills§! have formed to represent the force itself in the §BCore Worlds§!.\n\nAdvancements in hyperdrive technology has made it safer than ever before to carry our message effectively through the stars. If §YCoruscant§!, the §HJedi§!, and the rest of the §BCore§! refuses to listen to our message we may have to take matters into our own hands. Alternatively, spreading our nation northwards through the §BWestern Reaches§! could allow our people the ability to tell a new audience about the force before the §HJedi's§! twisted view of it reaches them."
+
+ START_SCREEN_MANDALORIAN: "We have inherited the legacy of §YMand'alor the First§!, a §YTaung§! of §HCoruscanta§!. Our legacy is one of war, of conquest, of honor bound traditions. We have brought many into our culture, whether it was through conquest or liberation. They have learned our traditions and have become Mandalorians like us; learned to revel in battle and support your fellow Mandalorian on and off the battlefield.\n\nUnder the guidance of our §YMand'alor§!, we will continue to move out from §YMandalore§! itself, to §YConcord Dawn§!, to §YOrdo§!, to §YMandilla§!, and beyond. We continue to give reverence to Kad Ha'rangir, the god of destruction, as we prepare to expand our borders and influence. This is the way."
+
+ START_SCREEN_SITH_REFUGEES: "We were driven from our world of §YKorriban§! by the §HRepublic§! and the §HJedi§! as retribution for Sadow's invasion of §HCoruscant§!. §YKorriban§! is plundered and our most precious relics are scattered. We are few in number now but the Dark Side still calls to us. Our Emperor has gathered what few of us remain and led us to the jungle world of §YDromund Kaas§! in an attempt to rebuild what was lost.\n\nOne day, the §YSith Empire§! will make its glorious return to the galaxy. One day, the skies of §HCoruscant§! will be darkened by our fleet. But until then, we shall wait in the shadows and rebuild."
+
+ START_SCREEN_TARIS: "The §YTaris Civil Authority§! finds itself licking its wounds from the §HGreat Hyperspace War§!. §HMandalore the Indomitable§! waged a bloody crusade through our territories leaving us vulnerable to future assaults from all sides. While defeated it is important to remember §HMandalore§! sits next to §YTaris§! and could attack us once again if a new leader is settled upon. We must develop our military infrastructure beyond Mandalorian capabilities if we are to survive.\n\nAlthough it is unlikely they would listen, hyperdrive technology upgrades have allowed us to theoretically reach the §BCore Worlds§! so that we could plead our case to §YCoruscant§! directly. If the various Mandalorian clans unify themselves around a singular leader once again the §BCore§! may be our only hope for protection. Striking them quickly might be our only hope to avoid the apocalypse."
+
+ START_SCREEN_ZYGERRIA: "Slavery is the natural order of things. The weak deserve nothing more than to kneel before the strong, bound to our service.'\n\n§YZygerrians§! have always believed this to be true. Our very existence was nothing more than chattel slaves to those §HRakatan§! things. The moment we sensed their strength waned, we took action! They were false rulers as it seemed, their monuments toppled, forts razed and cities devastated. The only thing that remained from their empire, was the §HRakatans§! themselves. We forced them in shackles to erect §YZygerrian§! monuments. The burned forts were rebuilt, and the cities that were flattened under our revolt, rose once again through §HRakatan§! slave labor.\n\nThey couldn't endure the same hardships they put us, when the last §HRakatan§! fell, we knew what had to be done. Their systems, their slaves, their legacy, shall be ours. It's ironic that the §HRakatans§! made such pitiful slaves. For all their might, they failed at being strong."
+
+ START_SCREEN_VERPINE: "The §YVerpine§! have stayed safe within the §BRoche Asteroid Field§! for a millennia. We have stayed out of the galactic politics for most of that time thus avoiding the tragedies created by the §HGreat Hyperspace War§!. In the meantime our hive drones have developed enhanced ship building techniques that allow us to stand up to the strongest communities in the galaxy. Now that isolationism which has protected us for a time must end. \n\nThe destruction caused by the latest great war has exposed many natural resources we could exploit if we grab them. With the Mandalorians gathering strength near our borders, we §YVerpine§! should do the same. Although §HMandalore the Indomitable§! left our hive be during his crusade there is no telling if that peaceful coexistence will continue under new leadership. The galaxy is ours for the taking."
+
+ START_SCREEN_TION: "We are the §H[Root.GetName]§!, remnants of §YXim§!'s Empire, though defeated his legacy may yet live through us.\n\nMany sectors have been snatched away after §YXim§!'s capture. We are in economic ruin, war resources are in low supply, and our populace moral pitiful. It's a grim fate, but one set upon us and we shall face it with the same courage as §YXim§! once did!\n\nA time will come where we must decide if war or diplomacy is the best course of action, the §HUnion§! will continue to expand into the §STionese Cluster§!. §YXim§! had a considerable large empire, we may face other feuding nations, or worse, the Hutts. It is unknown if this empire even still exists, the legends say they were our enemy during §YXim§!'s reign. However, they seem to have fallen off the face of the galaxy. Regardless if the Hutts live, we were once a prominent figure in the Galactic theatre, we will have a power greater than §YXim§!!"
+
+ START_SCREEN_MONCALA: "We have long since recovered from the Long War with our §YQuarren§! neighbors. Now is the time for peace and prosperity, for exploration and adventure. Thanks to the scientific breakthrough of the brilliant scientist §YQ-Viza§! and his hyperdrive, we are able to see more of the galaxy beyond §YDac§!. The galaxy awaits our scientists and engineers!"
+
+ START_SCREEN_HSSKOR: "Beyond §YTrandosha§! and beyond §YKashyyyk§! are star systems home to many species. Our encounter with the §HRepublic§! brought to our attention so many opportunities. It is as if the §YScorekeeper§! blesses us every rotation with new targets. Whether it is as mercenaries, bounty hunters, or slavers, our finest will continue to reap Jagannath points as we expand across the galaxy!"
+
+ START_SCREEN_BOTHAN: "§YBothans§! within our local sector of space can sense a great change in the galaxy is coming. We here always been able to perceive future threats with our inherent ability for espionage and infiltration. The unfortunate disasters associated with the §HGreat Hyperspace War§! has created a power vacuum throughout the §BCore§! that will not be healed easily. Even if the people of §YCoruscant§! manage to pick up the pieces, bad actors within the §BOuter Rim§! will work to secure power.\n\nConducting spy operations in the years leading up to the Hyperspace War has created many enemies for §YBothans§!. The nations who want to take revenge against us will now have their chance to do so without fear of retribution. It is up to us to guarantee our own security for the foreseeable future. The advancements in Hyperdrive technology has given us all the tools we need to make a destiny for ourselves. Perhaps one day we will be a proud face of ensuring galactic peace, even if it is from the shadows."
+
+ START_SCREEN_FALEEN: "The §YNoble Houses of Falleen§! stand strong in the face of adversity. The §HGreat Hyperspace War§! has crippled the §BCore World§! empires leaving the order of the galaxy in flux. We now have the opportunity to reshape galactic society to benefit us above all else. For too long the troubles of the §BMid Rim§! have been ignored in favor of gathering the riches of high society on §HCoruscant§!. For too long have the so-called leaders of the galaxy listened to religious radicals in all political matters. The §YFalleen§! may be seen as violent and manipulative, but at the very least our code of conduct ensures stability.\n\nHyperdrive technology has progressed to the point we can create a truly sustainable interstellar empire. Blood is in the water; it is up to us to bring about a more sophisticated leadership to the §BCore§!."
+
+ START_SCREEN_ONDERON: "Our lineage, the §YOnderon Royal Family§!, was founded by the Dark Jedi §YFreedon Nadd§!. Overcome with disdain for the §YJedi Order§!, §YNadd's§! quest began with an attempt to find the §YSith Empire§!, though instead led him to the Dark Lord of the Sith, §YNaga Sadow§!. §YNadd§! consumed the Dark Lord's knowledge with the thirst of a thousand men, then slew his new master when he he had nothing left to teach, as there can only be one Dark Lord.\n\nAfter claiming the mantle of Dark Lord of the Sith, §YNadd§! set out to claim a world for his own purposes. Located within the Inner Rim, the planet §YOnderon§! lay host to a young civilization ripe for conquest. With the dark side surging within him, §YNadd§! slew the barbaric Monarchs in the city of §YIziz§! and assumed the title of King. In his century-long reign he completely transformed §YOnderon§! into a haven steeped in Sith Alchemy and Mysticism.\n\nThis was but a few centuries ago, the fate of §YOnderon§! seeming wrought with involvements by the Sith and Jedi, as well as civil wars and skirmishes with numerous other civilizations. Most recently the §YBeast Wars of Onderon§!, a conflict that had spanned centuries between §YIziz§! and the barbarous §YBeast Riders§!, have finally come to an end. With the union of §YOron Kira§!, the Beast-Lord, and §YGalia§!, our Princess and descendant of §YFreedon Nadd§!, the people of §YIziz§! and the §YBeast Riders§! are now one, and look to the future of §YOnderon§! together."
+
+ START_SCREEN_RODIAN: "While §YRodia§! has been consumed with conflict since the first §YRodian§! step foot out of their caves. Clans of all shapes and sizes have hunted each other for sport to test their skills in deadly combat. As a result, §YRodia§! stayed out of the greatest conflict the galaxy has ever known and has given us an opportunity to take more territory. The §YHutt Empire§! to our north has retreated their borders to lick their wounds. \n\nShortly before the next clan hunt was about to begin, a §YGrand Protector§! has emerged to focus the clans on greater pursuits. Why should §YRodians§! fight amongst themselves when there was an entire galaxy waiting for them? New hyperdrive technology will allow us to seize the stars and test ourselves against new enemies."
+
+ START_SCREEN_HUTT_EMPIRE: "§Y[Root.Capital.GetName]§!, a planet deemed so perfect that the §HInfinite Empire§! took notice and tried to seize it from their rightful rulers. §YArdustagg the Absolute§! drove off the §HInfinite Invaders§! and took control of their starships.\n\nWith §YArdustagg§!'s victory and the blessings from our patron gods, §YArdos§! and §YEvona§!, we look to the stars to claim our destiny. To establish an empire that sprawls across the known galaxy, controlled only by the strongest of Hutts. All other 'empires' will be crushed, and forgotten. Those who are deemed fit, will have the privilege to serve our glorious empire.\n\nWe §YHutts§! must always remember §Y[Root.Capital.GetName]§! and seek to spread our influence no matter the price!"
+
+ START_SCREEN_PYKE: "Spice has flourished throughout the galaxy in the time before the §HGreat Hyperspace War§!. Addicts of all shapes and sizes have provided a huge amount of credits to our §YSyndicate§!. Prior to the wars end our profits through the §BHydian Way§! were at an all time high. Unfortunately, those credits have dried up seeing as no one wants to risk long distance travel until the new hyperdrive technologies have been adequately tested. We must look for new places to trade spice.\n\nThe §HHutt Empire§! to our south have always been a thorn in our sides syphoning credits from our trade deals at every opportunity. In their weakened state the §HHutts§! are vulnerable to an attack from our forces. Perhaps we can make a new group of addicts that will spend more credits on the spice. No matter what happens the spice belongs to the Syndicate, and we will do everything necessary to protect it."
+
+ START_SCREEN_MUUN: "§YMuunilinst§! has always been a safe place to store and exchange credits. It's position within the §BOuter Rim§! territories has made the planet safe from the galactic troubles of the galaxy. The §HGreat Hyperspace War§! has left pre established heavy weights in the realms of politics up ended. The §BCore Worlds§! will need a guiding hand to restore order to the natural way of things. Members in the high echelons of our society has called upon our leadership to aid in the reconstruction efforts.\n\nIf the §YMuuns§! were willing to restructure our own government we can enter the galactic stock exchange. Our previous experience storing credits make us a natural fit to take on even more responsibilities. Who would really notice if we take a few extra credits off the top?"
+
+ START_SCREEN_IRIDONIAN: "We §YIridonians§! have always been determined to create our own future. From the moment we stepped out of the caves of §YIridonia§!, we have had to struggle to survive. It was as though the planet itself has been trying to stagnate before reaching the stars, yet we have endured. So, it was no surprise to us that we have managed to weather the storm of the §HGreat Hyperspace War§! intact. Though the damage inflicted to the §BMid Rim§! has been extensive, yet we are still alive. With the galaxy having been torn down has only given us the opportunity to prove our worth as a valuable member of galactic society.\n\nHyperdrives have been upgraded for safe interstellar travel. Stationed in the §BMid Rim§!, we have the possibility to expand as we wish and act as a gateway between the §BCore§! and the §BOuter Rim§!. The fate of our people and by extension the galaxy rests in our hands."
+
+ START_SCREEN_TOGRUTA: "The §YTogruta§! have always stood together no matter the challenges facing our people. Standing as one has always benefited us more than isolating our people in the shadows. The disasters of the §HGreat Hyperspace War§! can only be mended together. And now the galaxy has a chance to mirror §YTogrutan§! way of life solidifying safety and security for all. The §BCore Worlds§! which have been divided in the past are showing signs that they wish to create a united front to face threats in the future.\n\nUnfortunately, our distance from the §BCore§! makes it difficult for us to join the new union. Although hyperdrive upgrades have made it possible to travel interstellar space, several empires could potentially stand in our way. We will need to move with haste if we could have a chance at joining this new galactic order before threats in the §BOuter Rim§! swallow us whole."
+
+ START_SCREEN_TWILEK: "Although most citizens within the galaxy saw the §HGreat Hyperspace War§! as a day of great sorrow, the §YTwi'leks§! of §YRyloth§! saw it as a day of freedom. The §HHutt Empire§! can no longer sustain its control over our territory. For the first time in a millennia we can control our own destiny. Everything from a government to military infrastructure must be developed from the ground up to suit our needs. The §BOuter Rim§! can be a dangerous place full of species that would love to take advantage of us.\n\nThe recent advancements in safe hyperdrive technologies will only accelerate our plans. We should spread our people to more places throughout the stars if we are to preserve our freedoms. Our fate is now ours to determine, let's not ruin it."
+
+ START_SCREEN_MALASTARE: "§YMalastare§! has always been important to the galaxy due to our position within the §BHydian Way§!. Trade between the §BCore Worlds§! and the §BOuter Rim§! flows through our territories at least before the §HGreat Hyperspace War§!. We profited from the mere shipment of goods through our space rather than the production of goods, that will need to change. Now everything from trade to mere transportation has been extremely difficult meaning we must adapt to a shifting galaxy if we are to survive. Fuels under the surface of §YMalastare§! could potentially be needed in space flight. Mining these fuels could make us an even more vital center piece in galactic power if we are willing to gather the resource.\n\nAlternatively, spice that once came almost exclusively from the §BOuter Rim§! will need a new supplier. If we are willing to risk the §BOuter Rim's§! wrath cutting them out of the spice business, we can make substantial credit gains. Regardless of how we make our credits, hyperdrive enhancements have been made to more safely travel the stars. Developing our place in the §BHydian Way§! must be our top priority."
+
+ START_SCREEN_EXCHANGE: "The galaxy is presenting new opportunities for us. New hyperlanes for our smugglers, new markets for slaves, and new targets for our bounty hunters. It's obvious that we aren't the only ones aware of this. The §HHutts§!, §HZygerrians§!, and the upstart §HPykes§! are no doubt plotting their own expansion in the §BOuter Rim§!. It's only a matter of time before we will have to do something about the competition."
+
+ START_SCREEN_SOROSUB: "§YSullustans§! have stuck to themselves for a long time on §YSullust§! in safety believing we had nothing to contribute to the galaxy. Even though we have always been excellent ship builders, the galaxy has relied upon the likes of §YKuat§!, §YCorellia§!, and §YDac§! for engineering needs. The §HGreat Hyperspace War§! has changed all that giving us the opportunity to bring our skills to the table. Species located within the south side of the galaxy will need reliable ships to weather the coming storm. \n\nAdvancements to hyperdrive technologies will allow us to spread our designs to new races. Credits are on the table waiting for us to snatch them up."
+
+ START_SCREEN_CHISS: "Long before the ice, the §YChiss§! people knew the simple pleasure of having the sun shone on us. Everything changed when the ice came. Pushed underground, we had to adapt to survive. Here we learned what it takes to survive the harshness of unpredictableness. Major changes in our society and technology were required, as a result, our people came together to develop the §YChiss Ascendancy§!. The §YAscendancy§! quickly grew to envelop all of §YCsilla§! and it's people, governed by the §YRuling Families§!.\n\nTrapped in §YCsilla's§! crust, our need of colony ships has never been greater. With aid from the §YChiss Expansion Defense Force§!, the will of the people, and the §YRuling Families'§! approval; we must set course to the nearby systems. However, we must be wary, these hyperlanes have strange anomalies surrounding them. Navigation attempts may prove to be futile. Furthermore, our long-range sensors have picked up unusual data from the core the galaxy. Signs of battles. We know we are not alone in the galaxy.\n\nIt is an age that reckons back to when §YCsilla§! froze over, we must once again adapt to our surroundings. We must calculate every move, proceed with caution, and execute every action with perfection!"
+
+ START_SCREEN_KILLIK: "We were once mere tools for §YThe Celestials§! but suddenly, they exiled us to another world across the galaxy. Most of our hives on §YAlderaan§! now remain empty and our space stations abandoned. The Colony now toils on §YYoggoy§! in peace, building new hives. The Kind will be strong again."
+
+ START_SCREEN_UNKNOWN_REGIONS_GENERIC: "The empires of lesser space know nothing of the emerging powers of the §BUnknown Regions§!. Nestled away beyond stellar anomalies, nebulae, and a myriad of unstable conditions, we've overcome the hostilities of this region.. We've adapted to these conditions and have prospered. We will explore and expand within The Chaos."
+
+ START_SCREEN_MEGACORP_GENERIC: "The fall of the §HRakatans§! and the defeat of the §HSith§! has proved good for business. As other empires eagerly try to expand outward, they'll need someone to provide them the ships and financial backing to aid in their endeavors. Our skilled engineers and financiers will prosper in this age of expansion and exploration. We will seek out new markets and clients that will help fill our coffers."
+
+ START_SCREEN_OTHERS: "Tyranny, instability and war left the galaxy in ruins. The fall of the §HInfinite Empire§! and the defeat of the §HSith§! has allowed our people to slowly expand and reconnect with the larger galaxy. A new generation of explorers, scientists, and engineers await a world filled with mystery and wonder."
+
+ START_SCREEN_HERGLIC: "Hailing from the ocean world of §YGiju§!, the §YHerglic§! are an ancient and venerable species living in the §BColonies region§!. Just as the §HCorellians§! and §HDuro§!, the §YHerglics§! mastered hyperspace travel early in galactic history, allowing them to establish the §YHerglic Trade Empire§!. Their trade empire led to the creation of the §YRimma Trade Route§!, one of the most prosperous trade lanes in the galaxy.\n\nIn the wake of the §HGreat Hyperspace War§! and the §HGreat Sith War§!, the §YHerglics§! venture out once more into the galaxy."
+
+ START_SCREEN_TELOS: "§YTelos§! is known for its strategic importance to the §YGalactic Republic§!. Under the protection of the Telos Security Force and Republic military, the §YTelosian Council§! oversees the renewed growth and prosperity of its people as they venture out into the galaxy."
+### Origins
+ origin_pyke_syndicate: "Pyke Family"
+ origin_pyke_syndicate_desc: "The Pyke Family began their rise as spice dealers based on the planet Oba Diah, having grown into a sizable crime syndicate. Their criminal operations still focus on mining, smuggling, and distributing spice, though have begun to delve into slavery and other nefarious activities. With the collapse of the Infinite and Xim's Empire and the defeat of the Sith, the Galaxy is ripe for new business endeavors. Though whether this relatively small yet powerful syndicate continues to grow of its own accord or find itself falling to conflict or subjugation by others such as the nearby Hutts is to be seen..."
+
+ origin_czerka_corp: "Anytime, anywhere, we're there"
+ origin_czerka_corp_desc: "Founded as Czerka Mining and Industrial, the Czerka Corporation is one of the most influential corporate entities in the Galaxy. Unafraid to take advantage of any profitable situation, Czerka Corp has garnered a reputation for exploiting galactic law, destitute planets, and even their own employees. This goes against the claims of the organization, putting down such assertions as rumors and conjecture. With the collapse of the Infinite Empire, Xim's Empire, and the near obliteration of the Sith, Czerka can enhance their profit margins considerably as several worlds are left destabilized by the chaos."
+ origin_czerka_corp_effect: "Start the game with:\n- §H$sm_lotor_manufacturer_czerka$§!, starbase building providing you with §Gunique bonuses§!.\n- The ability to get the §H$building_czerka_weapon_factory$§!, branch office building.\n\n"
+
+ origin_trandoshan_tribe: "For the Scorekeeper"
+ origin_trandoshan_tribe_desc: "The Trandoshans relish both the hunt and the kill. Hunting species from across the galaxy for sport is commonplace for their kind, oftentimes turning those they don't kill into slaves upon capture. Their great strength, resilience, and unique culture results in many Trandoshans becoming bounty hunters, soldiers, and cartel or syndicate enforcers. Although their culture may seem barbaric to others, their pursuit for Jagannath points drives them, a form of esteem in the eyes of their 'Scorekeeper'."
+ origin_trandoshan_tribe_effect: "Start the game with:\n- The Ability to choose the Ascension Perk §HShko-Yagu§! a special rebirth ritual.\n\n"
+
+ origin_tion_hegemony: "Ruins of Xim's Empire"
+ origin_tion_hegemony_desc: "The legacy of Xim the Despot is seen throughout the galaxy. However, his death and the empire's collapse led to a disjointed series of polities. Out of the eight thrones of his empire, the fourth one at Desevero grew to prominence with its union with Tion. As successors to Xim's empire, the Honorable Union seeks to expand their influence and with the memory of Xim's defeat against the Hutt's, the people of Desevero and Tion seek to reclaim that legacy and avenge the collapse of Xim's empire."
+ origin_tion_hegemony_effect: "Start the game with:\n- The §HHutt Empire§! being your historical enemy in the south.\n\n"
+
+ origin_guardians_whills: "Ancient Sect"
+ origin_guardians_whills_desc: "Throughout history both the Jedi and Sith have been the greatest known quantity of individuals practicing use and understanding of the force. There are, however, numerous other religious and spiritual sects separate from the two divisive factions. The Guardians of the Whills are one such group, believing in oneness with the Force and protecting the Holy City of Jedha and its pilgrims. Though unlike the Jedi and Sith, the Guardians of the Whills do not use the Force, instead listening and trying to understand its will. In these uncertain times, the Force is with them, and they are one with the Force."
+
+ origin_caretakers_iokath: "Caretakers of the Dyson sphere"
+ origin_caretakers_iokath_desc: "Deep in the Unknown Regions there is a large sphere housing a species few have seen. The sphere is built around an unknown star, harnessing energy from the celestial object to to power the multiple constructs inside. As scientists and engineers, this species labor at making horrific weapons and devices which they unleash on unsuspecting worlds. They sit outside of the known galaxy, making it hard to tell how the fall of the Rakatans has affected them, if at all. It's even harder to say how these Caretakers will affect the larger galaxy as a whole."
+
+ origin_killik_hive: "Tools of the Celestials"
+ origin_killik_hive_desc: "A race of large insectoid laborers who served ancient beings of immense power, the Killik lived in mounds on Alderaan until the Rakatans came to power. After the Hive exhausted their planetary resources they set their sights on a new planet, the ancient Sith world of Korriban. They invaded in force against the native Sith before being repelled, after which they seemingly vanished. All that was left of their legacy in the known galaxy were towering spires on Alderaan and an ancient space station. However, the Hive still exists deep in the Unknown Regions, far away from the prying eyes of others."
+
+ origin_ahto_council: "Treasures of the Hrakert Rift"
+ origin_ahto_council_desc: "The beautiful ocean world of Manaan is home to the Selkath species and their prized resource kolto, a liquid with incredible healing properties. Deep in the Hrakert Rift, a massive shark is believed to produce the resource, or is at least closely tied to its production. This liquid and its importance on a galactic scale make the Selkath's homeworld an indispensable asset, especially to those waging war on a large scale. It's only a matter of time before the rest of the galaxy knows what treasure lies in the depths of the Hrakert Rift."
+ origin_ahto_council_effect: "- Start the game with:\n- The technology to build £building£§H$building_meds_production_plural$§!.\n- §HNeutral Faction§!, positive opinion modifier with all factions.\n- £building£$building_meds_production_plural$ have §G+3§! £job_meds_technician£ $job_meds_technician$ Jobs on §HManaan§!.\n- §G+100%§! $mod_planet_jobs_sr_meds_produces_mult$ Jobs on §HManaan§!\n- §G+1§! $mod_building_meds_production_max$ on §HManaan§!.\n\n"
+
+ origin_sorosuub: "SoroSuub Corporation"
+ origin_sorosuub_desc: "The SoroSuub Corporation is one of the oldest companies in the galaxy, existing for centuries even before becoming known galaxy wide. Based out of Sullust, it's location along the Rimma Trade Route puts it in a prime position for becoming a major manufacturing hub for various vehicles and starships as well as mining operations and mineral processing. As the Galaxy opens up, the longstanding SoroSuub Corporation is in a unique position to expand not only their commercial influence, but their diplomatic one as well."
+ origin_sorosuub_effect: "Start the game with:\n- §H$sm_lotor_manufacturer_soro_suub$§!, starbase building providing you with §Gunique bonuses§!.\n\n"
+
+ origin_malastare: "Fuel Corporations of Malastare"
+ origin_malastare_desc: "Situated along the Hydian Way and home to the Dug species stands the Mid-rim world of Malastare, a large planet covered in methane lakes, dense jungles, and vast deserts. The dark and dreary world is also home to a variety of ferocious creatures ranging from the nexu to the monstrous Zillo beast. Fortunately for the Dugs it was discovered that the natural fuel of the planet was toxic to the hostile Zillo beasts which so often plagued Dug society. With safety from the hostile wildlife secured, the Dugs could look onward from Malastare, the galactic community taking kindly to a new source of starship fuel for import."
+
+ origin_hutt_empire: "£gs£ The Magnificent Hutt Empire"
+ origin_hutt_empire_desc: "When the Infinite Empire of the Rakata fell, the power vacuum they left behind was so large and all-consuming that only the glorious and munificent Hutts could hope to fill it. Boasting an empire supported by all manner of illicit trades and practices, at least illicit according to the more civilized portions of the galaxy, the Hutts enjoy robust and diverse sources of income. Though wars with the Tion Hegemony and brushes with the dark Jedi have tested their resolve, the Hutts endure, their empire a shining jewel in Mid and Outer-Rims."
+ origin_hutt_empire_effect: "Start the game with:\n- The §HWeequay§!, §HKlatooinians§! and §HGamorreans§! around your territory.\n- The §HTion Hegemony§! being your historical enemy in the north.\n- A special protection from §HCriminal Holdings§! throughout the §HHutt Clans§!.\n- §H$sm_lotor_manufacturer_hutt$§!, starbase building providing you with §Gunique bonuses§!.\n\n"
+
+ origin_shattered_clans: "£mando£ Mandalorian Clans"
+ origin_shattered_clans_desc: "Originally known as the Taung and native to Coruscant, what would eventually become the Mandalorians were driven from their home planet due to their obsession with honor and combat which was perceived as barbaric by other species. They soon found a new home, conquering a planet in the Outer-Rim and renaming it after the general who led them to victory, Mandalore, and themselves Mando'ade - sons and daughters of the Mandalore. In the centuries since, the Mandalorian clans have expanded outward, taking nearby systems and building their strength while never straying far from Mandalore. The time has come for the Great Crusade. The fleets gather, the warriors mass, and converts flock from nearby systems to swell the ranks as the Mandalorians prepare for a great and glorious war."
+ origin_shattered_clans_effect: "Start the game with:\n- The Quest for the next §HMand'alor§!, who is needed to proclaim the next £mando£ §HMandalorian Crusade§!.\n- The ability to turn other species through harsh training into proper Mandalorians.\n- §H$sm_lotor_manufacturer_mando$§!, starbase building providing you with §Gunique bonuses§!.\n\n"
+
+ origin_sith_refugee: "£sith£ Refugees of the Sith Genocide"
+ origin_sith_refugee_desc: "Immediately following the Great Hyperspace War and the failed Invasion of the Core Worlds, the proto Republic struck deep into the Remnants of the Sith Empire. Republic Troops and the Jedi eradicated most of their known civilization, desperate refugees escaping into the Unknown Regions led by the Sith Emperor, Vitiate. Years later they landed on Dromund Kaas, beginning to recuperate their former strength through the founding of a new standing army, establishing a new Sith Academy, and conquering the surrounding territories away from the prying eyes of the Republic. One day, when their strength is renewed, they vow to return and enact vengeance on the Republic and its allies."
+ origin_sith_refugee_effect: "Start the game with:\n- A shattered £sith£ §HSith Empire§! which needs to be reformed under its new immortal Emperor.\n- Unique quest chains around the §HSith§! & §HSith Empire§!.\n- §H$sm_lotor_manufacturer_sith$§!, starbase building providing you with §Gunique bonuses§!.\n\n"
+
+ origin_former_rakatan_slave: "£republic£ Proto-Republic Core Worlds"
+ origin_former_rakatan_slave_desc: "Following the mysterious disappearance of the Rakatan Empire, many of their former Slave Worlds were left alone. Reengineering of the Rakatan Technology and especially their Hyperdrive lead to a rapid technological progression towards Space Travel, the zenith of this progression was the Great Hyperspace War between the Aligned Core Worlds and the Ancient Sith Empire. This War left the Galaxy in ruins and destroyed early communication and relations. After a time of isolation and stagnation, multiple Empires seek to explore the unknown in search for new opportunities."
+ origin_former_rakatan_slave_effect: "Start the game with:\n- The possibility to form the £republic£ §HGalactic Republic§!.\n- §BAdvanced Core World§! Technologies.\n- Unique smaller event chains, tied to the specific founding member.\n\n"
+
+ origin_chiss_ascendancy: "The Frozen Planet"
+ origin_chiss_ascendancy_desc: "Csilla, home planet of the Chiss, has entered an Ice Age. As the normally-temperate equatorial zones shrink and the poles freeze solid, the Chiss must look simultaneously to the stars and the depths for the resources to maintain their world. Digging deep to heat their cities with mantle warmth and building scout ships to find nearby systems and worlds to mine and colonize, the Chiss with their advanced, unorthodox technology are set to become a power in the galaxy, if only they can survive long enough for their efforts to reach fruition. The Unknown Regions are a dangerous place; the only certainty for the Chiss is struggle."
+ origin_chiss_ascendancy_effect: "Start the game with:\n- Unique §HUnknown Region & Chiss Technologies§!.\n- Being locked into the §HUnknown Regions§! at the beginning.\n\n"
+
+ # copy of origin_default, needed for starting techs
+ origin_default_unknown_regions: "Unknown Region Power"
+ origin_default_unknown_regions_desc: "Tyranny, Instability and War left the Galaxy in ruins, after the mysterious disappearance of the Rakatan Empire and the following time of uncertainty shortly followed by the first Galactic War between the Core Worlds and the Sith Empire, multiple Empires preferred to turn inward and shut themselves of from the outer Galaxy. Now a new generation is born, without the shackles of fear from the prior age. The Galaxy is again a mysterious place full of wonders and worth being explored."
+ origin_default_unknown_regions_effect: "Start the game with:\n- Unique §HUnknown Region Technologies§!.\n- Being locked into the §HUnknown Regions§! at the beginning.\n\n"
+
+ origin_kingdom_of_onderon: "£onderon£ The Kingdom of Onderon"
+ origin_kingdom_of_onderon_desc: "Freedon Nadd, a fallen Jedi not content to serve the Order, struck out on his own, spreading darkness. He roamed the uncharted systems until he found a world he could dominate through the Dark Side, Onderon. Nadd disposed of the previous monarchs and assumed the throne as King of Onderon. Now, in the centuries that have followed since the passing of Nadd, a new form of rule has taken hold following a protracted civil war. The echoes of Nadd's reign, however, are not easily forgotten..."
+ origin_kingdom_of_onderon_tooltip: "Start the game with:\n-§H$sm_lotor_manufacturer_onderon$§!, starbase building providing you with §Gunique bonuses§!.\n- A Unique digsite, §H$secrets_of_the_royal_palace$§!, on Onderon.\n- Multiple Story Events about Onderon's tumultuous history.\n\n"
+
+ origin_verpine_hive_society: "Asteroid Hive Society"
+ origin_verpine_hive_society_desc: "A generally peaceful and technologically brilliant civilization, the Verpines are mostly found settled on artificial, self-sustaining environments on the asteroids of the Roche system. What happened to their original homeworld isn't known for certain, the insectoid race having lived in the Roche system before the Republic was founded. The intellect and craftsmanship of the Verpines is known throughout the galaxy for everything from their deflector shields to ion blasters, cardio-regulators to medical droids. Whether this makes them a potent ally or a strategic target for other civilizations is yet to be seen..."
+ origin_verpine_hive_society_tooltip: "Start the game with:-\nA challenging unique start on a Planet Type.\n- §H$sm_lotor_manufacturer_verpine$§! starbase building providing you with §Gunique bonuses§!.\n§RWarning: This Species can only live on Asteroids or Gaia Worlds!§!\n\n"
+
+ origin_kuat_ring: "£kdy£ The Orbital Ring of Kuat"
+ origin_kuat_ring_desc: "An absolute goliath of a space station, the Kuat Drive Yards Orbital Array, or KYD Orbital Array, orbits and encircles the entity of the planet Kuat. Made up of numerous types of modules, the ring is comprised of hundreds of warehouses, shipyards, commercial and residential zones, security and military stations, spaceports, and more. In addition, thousands of weapon systems cover the ring for defensive purposes, though primarily geared towards fending off smaller vessels while security and military fleets repulse larger vessels.\nThe station is renowned for its numerous and vast shipyards, such being its namesake as the Kuat Drive Yards, the individual shipyards being Maw Shipyards, Deponn Shipyards, and Andrim Shipyards. Consisting primarily of massive drydocks, the shipyards work in tandem with the warehouses, machine shops, factories, and workers living aboard the ring to repair, maintain, build, and upgrade any and every space vessel that docks with enough credits."
+ origin_kuat_ring_tooltip: "Start the game with:-§H$sm_lotor_manufacturer_kuat$§!, starbase building providing you with §Gunique bonuses§!.\n- A fully constructed Orbital Ring around §HKuat§! as well as §H$tech_orbital_ring_tier_1$§!.\n\n"
+
+ origin_arkanian_geneticists: "Arkanian Geneticists"
+ origin_arkanian_geneticists_desc: "While many civilizations are just learning the risks and benefits of genetic manipulation, Arkanian scientists nearly mastered the practice centuries ago. Driven by already formidable intellect and a natural curiosity, the Arkanians began genetic experimentation relatively early into their civilization's development. As a result they live long lives, have enhanced mental faculties, and generally see themselves as superior compared to other species. Even today, the curiosity of the Arkanians grows, leading to somewhat questionable experimentation on alien species, as well as the rumored creation of different Arkanian sub-species..."
+ origin_arkanian_geneticists_tooltip: "Start the game with:\n-§H$tech_lotor_genome_mapping$§! and §H$tech_lotor_gene_tailoring$§! technologies.\n- §BAdvanced Core World§! technologies.\n\n"
+
+ origin_herglic_traders: "Pioneering Galactic Traders"
+ origin_herglic_traders_desc: "The Herglic species took to space travel and exploration quite early compared to most throughout the Galaxy and were fortunate enough to discover an ancient hyperlane near their home system, allowing them ease of travel and expansion as their civilization prospered. Combined with a pleasant, peaceful demeanor and natural curiosity, the Herglics established many connections and relationships with other planets and societies. Trade agreements were commonly established with these societies and, due to their control over the nearby hyperlane and the space around it, led to the Herglics establishing dominating trade in the area. Millenia have passed since and Herglic mastery over trade routes and xenophilic relations has only improved."
+ origin_herglic_traders_tooltip: "Start the game with:\n- a headstart in §Hmultiple technologies§!.\n\n"
+
+# Empires
+ EMPIRE_DESIGN_CoruscantiiUnion: "£republic£ §HCoruscantii Union§!"
+ EMPIRE_DESIGN_HousesofAlderaan: "£republic£ §HHouses of Alderaan§!"
+ EMPIRE_DESIGN_CorellianTechnocracy: "£republic£ §HCorellian Technocracy§!"
+ EMPIRE_DESIGN_CommonalityofDuro: "£republic£ §HCommonality of Duro§!"
+ EMPIRE_DESIGN_AlsakanMonarchy: "§HAlsakan Monarchy§!"
+ EMPIRE_DESIGN_CzerkaCorporation: "§HCzerka Corporation§!"
+ EMPIRE_DESIGN_AhtoHighCourt: "§HAhto High Court§!"
+ EMPIRE_DESIGN_KuatAristocracy: "§HKuat Aristocracy§!"
+ EMPIRE_DESIGN_HerglicTradeEmpire: "§HHerglic Trade Empire§!"
+ EMPIRE_DESIGN_ArkanianDominion: "§MArkanian Dominion§!"
+ EMPIRE_DESIGN_GuardiansoftheWhills: "§MGuardians of the Whills§!"
+ EMPIRE_DESIGN_MandalorianSpace: "£mando£ §YMandalorian Space§!"
+ EMPIRE_DESIGN_SithRefugees: "£sith£ §YRemnants of the Sith Empire§!"
+ EMPIRE_DESIGN_TarisCivilAuthority: "§YTaris Civil Authority§!"
+ EMPIRE_DESIGN_TelosianCouncil: "§YTelosian Council§!"
+ EMPIRE_DESIGN_ZygerrianSlavers: "§YZygerrian Slavers§!"
+ EMPIRE_DESIGN_VerpineHiveSociety: "§YVerpine Hive Society§!"
+ EMPIRE_DESIGN_TionHegemony: "§GTion Hegemony§!"
+ EMPIRE_DESIGN_MonCalamariMonarchy: "§GMon Calamari Monarchy§!"
+ EMPIRE_DESIGN_HsskorDominion: "§GHsskor Dominion§!"
+ EMPIRE_DESIGN_BothanSpace: "§GBothan Space§!"
+ EMPIRE_DESIGN_NobleHousesofFalleen: "§GNoble Houses of Falleen§!"
+ EMPIRE_DESIGN_TheocracyofOnderon: "£onderon£ §GTheocracy of Onderon§!"
+ EMPIRE_DESIGN_RodianRealm: "§GRodian Realm§!"
+ EMPIRE_DESIGN_HuttEmpire: "£gs£ §WHutt Empire§!"
+ EMPIRE_DESIGN_PykeSyndicate: "§WPyke Syndicate§!"
+ EMPIRE_DESIGN_MuunBankingClan: "§RMuun Banking Clan§!"
+ EMPIRE_DESIGN_IridonianSector: "§RIridonian Authority§!"
+ EMPIRE_DESIGN_CovenantofTogruta: "§RCovenant of Togruta§!"
+ EMPIRE_DESIGN_TwilekEnclave: "§BTwilek Enclave§!"
+ EMPIRE_DESIGN_MalastarianCouncil: "§BCouncil of Malastare§!"
+ EMPIRE_DESIGN_ExchangeOrganisation: "§CExchange Organization§!"
+ EMPIRE_DESIGN_SoroSuubCorporation: "§CSoroSuub Corporation§!"
+ EMPIRE_DESIGN_ChissAscendancy: "§LChiss Ascendancy§!"
+ EMPIRE_DESIGN_KillikHive: "§LKillik Hive§!"
+ EMPIRE_DESIGN_NikardunDestiny: "§LNikardun Destiny§!"
+ EMPIRE_DESIGN_PaataatanHive: "§LPaataatus Hiveborn§!"
+ EMPIRE_DESIGN_PaccoshCooperative: "§LPaccosh Cooperative§!"
+ EMPIRE_DESIGN_VakCombine: "§LVak Combine§!"
+
+ EMPIRE_DESIGN_CaretakersofIokath: "§LCaretakers of Iokath§!"
+
+# Empire Civics
+ old_republic_civic_major: "Galactic Senate"
+ old_republic_civic_major_desc: "The Galactic Senate is the legislative and executive branch of the Galactic Republic that's located on Coruscant."
+ coruscant_civic_major: "Coruscantii Resilience"
+ coruscant_civic_major_desc: "The Coruscant people are no strangers to hardship. After witnessing the destructive domestic war between the Mandalorian and the Zhell and enduring enslavement by the Rakata, the people of Coruscant are determined to make the galaxy work for them for a change."
+ alderaan_civic_major: "Alderaanian Political Mastery"
+ alderaan_civic_major_desc: "The Alderaanian Nobility have long held dear the lessons they took from the earliest wars their societies suffered, lessons on the steep cost of warfare in lives and hope. Their preferred battlefield is the courtroom; their preferred weapon, the honest word."
+ corellia_civic_major: "CEC"
+ corellia_civic_major_desc: "Corellian society prides itself on prowess in engineering and shipbuilding, so much so that many corporations have have risen to positions of influence and power within the Corellian government."
+ duro_civic_major: "Duro Mining Corporations"
+ duro_civic_major_desc: "Early Duros explorers surveyed incredible deposits of mineral wealth in the early days of their expansion. Now mining colonies have sprung up all over Duros space, and the Duros lack for almost nothing."
+ sith_civic_major: "The Empire's Wrath"
+ sith_civic_major_desc: "After the Genocide on the Sith Population, the Remnants of the Sith Empire needed to recover its strength in secrecy. The entire civilization was ultimately driven towards one single purpose, revenge on the Core Worlds and their Jedi Protectors."
+ sith_civic_major_2: "Necessary Secrecy"
+ sith_civic_major_2_desc: "After the Genocide on the Sith Population, the Remnants of the Sith Empire need to stay secret to prevent total annihilation. Their driving social need is a lust for vengeance, a desire to prove to the Jedi, the rest of the galaxy, and even themselves that their choices were justified."
+ hutt_civic_major: "Hutt Magnificence"
+ hutt_civic_major_desc: "When one's corpulence and magnificence are so obviously superior, it is simply the logical expectation that other, less magnificent forms of life will serve, protect, and elevate."
+ mando_civic_major: "Army of Outcasts"
+ mando_civic_major_desc: "To be Mandalorian is not to be of Mandalore. To be Mandalorian is to share common experiences of rejection, common ambitions of acceptance, and common drive to greatness. We adapt, we overcome, we thrive: this is the way."
+ taris_civic_major: "Upper City Aristocracy"
+ taris_civic_major_desc: "Entrenched humanocentrists? Nonsense. We of the Tarisian nobility simply understand the laws of economics more thoroughly than any of the aliens living in the lower levels. After all, if they simply applied themselves, I'm sure they could have a happy and wealthy life in the upper city. They simply choose not to."
+ czerka_civic_major: "Arms Dealers"
+ czerka_civic_major_desc: "Czerka Arms seeks to provide its clients with the right firepower to deal with any problem. If two of Czerka's clients happen to be on opposite sides of a shooting war, well, that just means more firepower must be sold."
+ civic_tooltip_czerka_major_effects: "WIP"
+ moncala_civic_major: "Mon Calamari Engineering"
+ moncala_civic_major_desc: "A deep understanding of fluid and pressure vessel dynamics empowered early Mon Calamari engineers to build more with less. Subsequent advances in energy efficiency, shielding technology, and low- and zero-gee construction techniques have made Daq an orbital-industrial powerhouse."
+ zygerrian_civic_major: "Infamous Slavers"
+ zygerrian_civic_major_desc: "Indentured servitude, forced labor, slavery, call it whatever you like; people and their labor are commodities like any others, and marketable as such. The Empire would never have gotten this far if they weren't."
+ arkanian_civic_major: "Masters of Genetics"
+ arkanian_civic_major_desc: "As you would enhance any other tool to increase its efficiency, so you must enhance your body, for it is the tool you use to experience the universe. Reshape yourself to suit your experience, and become the true Arkanian you were always meant to be."
+ exchange_civic_major: "Shadowy Business"
+ exchange_civic_major_desc: "Wherever there is demand, an inventive power will arise to meet it. Wherever there is misfortune, an cunning power will arise to exploit it. Wherever there is excess, an ambitious power will arise to consume it. We are the Exchange: inventive, cunning, ambitious, and beholden to none."
+ bothan_civic_major: "Intelligence Community"
+ bothan_civic_major_desc: "This society values intel above all else, for knowledge is power. The government has various intelligence agencies that collect foreign and domestic intelligence, contribute to military planning, and perform espionage of all varieties."
+ verpine_civic_major: "Verpine Technology"
+ verpine_civic_major_desc: "A long history in space stations and habitable hollow asteroids has left the Verpine with an ingenuity and resourcefulness of the sort rarely found in species with habitable homeworlds. If you want something built right, no matter what it is, make sure there's a Verpine on the design, construction, and quality control teams."
+ twilek_civic_major: "Ride along the Storm"
+ twilek_civic_major_desc: "The Twi'leks' tidally locked homeworld of Ryloth is famous for its unceasing equatorial and polar storms. The Twi'leks themselves are similarly famous for daredevil spirit in the face of political and military storms. The wrath of a Twi'lek clan is no laughing matter."
+ iridonian_civic_major: "Zabrak Spirit"
+ iridonian_civic_major_desc: "Competitive and driven, the Zabrak will fight for every advantage, be it military or political. A frontal assault is inadvisable."
+ rodian_civic_major: "Environmental Shields"
+ rodian_civic_major_desc: "The rodian society encased their cities into environmental shields which allowed entry and exit of vehicles via specific slots. This early adaption of shield technology lead to environmental safe cities."
+ togruta_civic_major: "Isolationists"
+ togruta_civic_major_desc: "Clan-centric and communal, Togruta society is tied to the land for succor and shelter. Even after Discovery by the Republic, Togrutans preferred to stay out of Galactic Politics."
+ tion_civic_major: "Ashes of Xim's Empire"
+ tion_civic_major_desc: "Formerly a thriving Empire, now reduced to backwater worlds, follow our ancestors glory and expand the Empire. These are the only mandates that matter. All shall swear fealty to the line of Xim, one way or the other."
+ kuat_civic_major: "Beholden to the Ten"
+ kuat_civic_major_desc: "The oldest, best-established, and richest families from the original colony ship that settled the planet are known as the Ten. Collectively, they own Kuat's shipbuilding industry and its supporting industries. Though the government is nominally independent, nothing gets through the Kuati parliamentary chamber without the backing of at least six of the Ten. May the Force have mercy on you if you anger even one of them."
+ ahto_civic_major: "Origin of Kolto"
+ ahto_civic_major_desc: "Manaan is the sole source of the miracle medicine Kolto, a substance which has become necessary in both civilian and military medicine the galaxy over. Their monopoly has enabled a rise to heights of economic and political power undreamt of, enabling the Selkath to enforce their own neutrality in all galactic conflicts."
+ chiss_civic_major: "Policy of Isolation"
+ chiss_civic_major_desc: "The Chiss Ascendancy is non-interventionist as a matter of course. We will only step into foreign diplomatic situations if it can be proven to the Council of Families that some aspect of that situation presents an overt and unavoidable threat to the Chiss people. Those who prove unwilling to hold to this code will find no place among us."
+ guardiansofthewhills_civic_major: "Pilgrims of the Force"
+ guardiansofthewhills_civic_major_desc: "The Force is with me, and I am one with the Force, and I fear nothing, for all is as the Force wills it. We guard the sites of the living Force and remember all that it sees and all that it touches."
+ theocracyofonderon_civic_major: "Beast Rider Society"
+ theocracyofonderon_civic_major_desc: "Branded as criminals by royals manipulated by Naddists, the Beast Riders were forced to adapt to the unforgiving wilderness of Onderon. Their exile led them to become fierce warriors and masters of Dxun's most formidable monstrosities."
+
+ hsskordominion_civic_major: "Trandoshan Hunting Culture"
+ hsskordominion_civic_major_desc: "Trandoshans devote themselves to the thrill of the Hunt, believing that the goddess Scorekeeper watches over them, and keeps track of their sport."
+ killikhive_civic_major: "Killik Joiners Culture"
+ killikhive_civic_major_desc: "Killiks through some unknown biological means can force their hivemind upon other biological species. Though science can cut these joiners off from the hivemind, their personality is forever erased."
+ civic_tooltip_killikhive_major_effects: "This Species can integrate others into their Hivemind without the Ascension Perk necessary for it."
+ malastariancouncil_civic_major: "Fuel Production Industry"
+ malastariancouncil_civic_major_desc: "Malastare is extremely rich in starship fuel deposits, and the Dugs over time became extremely talented in refining it, with many fuel companies trying to learn their secret, or at the very least have them as a supplier"
+ pykesyndicate_civic_major: "Spice Mines"
+ pykesyndicate_civic_major_desc: "Pykes are known for their Spice Mines in which they enslave people and droids to harvest enormous amounts of spice under harsh circumstances"
+ sorosuuubcorporation_civic_major: "Galactic Beauty Specialists"
+ sorosuuubcorporation_civic_major_desc: "Shockingly, the Sullustans are incredibly talented and famous hairdressers and barbers, despite the lack of hair. Many of the Galactic Elite would rather visit a Barber on Sullust then a Wookiee specialist."
+
+ alsakan_civic_major: "Alsakan Axis"
+ alsakan_civic_major_desc: "An ancient and wealthy world, Alsakan has been at odds with Coruscant for centuries. Their own ambitions for the Core rival Coruscant, with the potential for armed conflicts."
+ herglic_civic_major: "Herglic Traders"
+ herglic_civic_major_desc: "One of the first established trading empires in the galaxy, the Herglic Trade Empire was famously known for its business web with the planet Giju in the center of it."
+ civic_tooltip_herglic_civic_major_effects: "Test"
+
+ nikardun_civic_major: "Unknown Region Power"
+ nikardun_civic_major_desc: "Placeholder to fix origin bug"
+ paataatus_civic_major: "Unknown Region Power"
+ paataatus_civic_major_desc: "Placeholder to fix origin bug"
+ paccosh_civic_major: "Unknown Region Power"
+ paccosh_civic_major_desc: "Placeholder to fix origin bug"
+ vak_civic_major: "Unknown Region Power"
+ vak_civic_major_desc: "Placeholder to fix origin bug"
+
+# Namelists
+ name_list_Alderaan: "Alderaan"
+ name_list_Czerka: "Czerka"
+ name_list_Ghorfas: "Ghorfas"
+ name_list_Chiss: "Chiss"
+ name_list_Ewoks: "Ewoks"
+ name_list_Geonosian: "Geonosians"
+ name_list_Hutt: "Huttese"
+ name_list_Gungan: "Gungan"
+ name_list_Jawa: "Jawa"
+ name_list_Jedi: "Jedi"
+ name_list_Mandalorian: "Mandalorian"
+ name_list_Republic: "Republic"
+ name_list_Sith: "Sith"
+ name_list_Togruta: "Togruta"
+ name_list_twilek: "Twilek"
+ name_list_Wookiee: "Wookiee"
+ name_list_Human: "Human"
+ name_list_Duro: "Duro"
+ name_list_Selkath: "Selkath"
+ name_list_Arkanian: "Arkanian"
+ name_list_Bothan: "Bothan"
+ name_list_Criminal: "Diverse Humanoids"
+ name_list_Trandoshan: "Trandoshan"
+ name_list_Zabrak: "Zabrak"
+ name_list_Killik: "Killik"
+ name_list_Malastare: "Malastare"
+ name_list_Mon_Cala: "Mon Calamari"
+ name_list_Falleen: "Falleen"
+ name_list_Pyke: "Pyke"
+ name_list_Rodian: "Rodian"
+ name_list_Sullustan: "Sullustan"
+ name_list_Verpine: "Verpine"
+ name_list_Zygerrian: "Zygerrian"
+ name_list_Corellian: "Corellian"
+ name_list_Hapan: "Hapan"
+ name_list_Sith_Human: "Imperial Human"
+ name_list_Ithorian: "Ithorian"
+ name_list_Devaronian: "Devaronian"
+ name_list_Kel_Dor: "Kel Dor"
+ name_list_Kuat: "Kuati"
+ name_list_Unknown_Regions: "Unknown Regions"
+ name_list_Quermian: "Quermian"
+ name_list_Onderon: "Onderonian"
+ name_list_Alien: "Generic Alien"
+ name_list_Tion_Desevero: "Tion-Desevero"
+
+# Verpine Asteroid
+ pc_giant_asteroid: "Giant Asteroid"
+ pc_giant_asteroid_desc: "An unusually large asteroid capable of habitation."
+ pc_giant_asteroid_adj: "Giant Asteroid"
+ mod_pc_giant_asteroid_habitability: "Giant Asteroid Habitability"
+ trait_pc_giant_asteroid_preference: "Giant Asteroid Preference"
+ trait_pc_giant_asteroid_preference_desc: "This species is highly adapted to living on massive asteroids."
+
+# Iokath
+ origin_shipset_change_tooltip: "§HThis Origin will change your Shipset!§!"
+ pc_iokath: "Special Dyson Sphere"
+ pc_iokath_desc: "A special Dyson Sphere build in ancient times"
+ mod_pc_iokath_habitability: "Dyson Sphere Habitability"
+ trait_pc_iokath_preference: "Dyson Sphere Preference"
+ trait_pc_iokath_preference_desc: "This species has mastered an engineering feat that rivals the Celestials yet they are confined to it."
+
+# Historical Opinions
+ opinion_keeps_it_friendly: "Friendly"
+ opinion_damage_jedi_relations: "Damaged Relations"
+ opinion_historical_enemies_1: "Historical Enemies"
+ opinion_historical_enemies_2: "Historical Enemies"
+ opinion_historical_enemies_3: "Historical Enemies"
+ opinion_historical_enemies_4: "Historical Enemies"
+ opinion_historical_enemies_5: "Historical Nuisance"
+ opinion_historical_enemies_6: "Historical Nuisance"
+ opinion_historical_enemies_7: "Historical Nuisance"
+ opinion_historical_enemies_8: "Historical Nuisance"
+ opinion_historical_sith_allies_1: "Dark Side Allies"
+ opinion_historical_sith_allies_2: "Dark Side Allies"
+
+# Event Opinions
+ opinion_mandalorian_compensation_1: "War Reparations"
+ opinion_mandalorian_compensation_2: "War Reparations"
+
+# Traits
+ trait_mandalorian_species: "Mandalorian"
+ trait_mandalorian_species_desc: "Mandalorians aren't a Race, anyone can join their Society if they survive the training. This leads to more possible infighting but a rather strong and adaptable society."
+
+ trait_hutt_species: "Gastropods"
+ trait_hutt_species_desc: "Hutts are a large slug-like sentient species who's natural narcissism makes them perfect to rule Hutt space."
+# Leader Traits
+ leader_trait_ruler_empowered_1: "§MEmpowered§!"
+ leader_trait_ruler_empowered_1_desc: "After accomplishing the first task, Vitiates' Power and Influence grows."
+ leader_trait_ruler_empowered_2: "§MUnrivaled§!"
+ leader_trait_ruler_empowered_2_desc: "After finishing the first two tasks, Vitiate has risen above the other Sith Lords."
+ leader_trait_ruler_empowered_3: "§MThe Immortal Emperor§!"
+ leader_trait_ruler_empowered_3_desc: "After accomplishing all three tasks, Vitiate is unstoppable."
+
+ leader_trait_lotor_supreme_chancellor: "Supreme Chancellor"
+ leader_trait_lotor_supreme_chancellor_desc: "The Supreme Chancellor of the Galactic Republic"
+
+ leader_trait_lotor_beast_rider_king: "Beast Rider King"
+ leader_trait_lotor_beast_rider_king_desc: "The Savage Noble. The Aristocratic Barbarian. These antithetical descriptions are the most apt for Oron Kira, the Beast Rider King of Iziz. Having been raised a Beast Rider, his immense strength and understanding of the battlefield had a profound impact on the planet of Onderon. Once this strength and understanding of the battlefield resulted in the end of centuries of conflict between the Beast Riders and the people of Iziz, peace being cemented with his marriage to the rightful Queen of Onderon. And with this marriage came pragmatism, patience, and cunning alongside the strength, passion, and intensity as conqueror turned to ruler, tempered by both his station and his Queen." 
+
+ leader_trait_lotor_mercy_corps: "Mercy Corps"
+ leader_trait_lotor_mercy_corps_desc: "The Republic Mercy Corps was an organization that served as volunteers in the Galactic Republic's military. The Jedi Council never refused to let a Jedi assist in the Mercy Corps. The Jedi Knight Revan organized his followers under the banner of the Mercy Corps to fight the Mandalorian Crusade."
+# Others
+ em_lotor_important_empire_ai: "Major AI Buff"
+ habitability_0: "Zero Habitability Plan"
+
+### Governments & Authorities
+ # Sith Empire - Dark Council
+ RT_SITH_EMPEROR: "Emperor"
+ RT_SITH_EMPEROR_FEMALE: "Empress"
+ auth_dark_council: "The Immortal Emperor"
+ auth_dark_council_desc: "A day, a year, a millennium - it matters not. The Sith Emperor's life spans millennia, Legions have risen to test him yet nothing could stop this ancient force of darkness."
+ gov_dark_council: "The Dark Council"
+ gov_dark_council_desc: "The unicameral governing body of the reconstituted Sith Empire, its twelve members served as the ruling body throughout the majority of the Empire's History."
+
+# Mandalorian Clans - Shattered Clans
+ RT_CLAN_LEADER: "Clan Leader"
+ RT_CLAN_LEADER_FEMALE: "Clan Leader"
+ auth_shattered_clans: "Clan Leader"
+ auth_shattered_clans_desc: "With the absence of a true Ruler, the leaders of multiple clans try to claim power in this vacuum, sadly without the mask of the last Mand'alor, this wont result in success."
+ gov_shattered_clans: "Shattered Clans"
+ gov_shattered_clans_desc: "After the defeat of Mand'alor the Indomitable and the loss of his Mask no new Mandalore could arise."
+
+# Mandalorian Clans - United Clans
+ RT_MANDALOR: "Mand'alor"
+ RT_MANDALOR_FEMALE: "Mand'alor"
+ gov_mando_clans: "United Clans"
+ gov_mando_clans_desc: "Under the rule of their Mand'alor, the Mandalorian clans are united for a greater purpose and the preservation of their ancient culture."
+ auth_mandalorian_crusade: "Mand'alor"
+ auth_mandalorian_crusade_desc: "The title of Mand'alor is an ancient one, meaning 'sole ruler' in Mando'a. It is traditionally symbolized by the passing of the mask of Mand'alor from one leader to another upon their death."
+
+# Chiss Ascendancy - Syndicure
+ RT_SYNDIC: "Syndic Prime"
+ RT_SYNDIC_FEMALE: "Syndic Prime"
+ gov_syndicure: "Syndicure"
+ gov_syndicure_desc: "The Syndicure is the supreme ruling body of the Chiss Ascendancy. It wields both executive and legislative authority over the Ascendancy."
+ auth_ruling_houses: "Nine Ruling Families"
+ auth_ruling_houses_desc: "A Structure of Nine Major Families and Forty Lesser Families, all of them working together and against each other for their own gain."
+
+# Duro - High Houses
+ gov_high_houses: "Duro High Houses"
+ gov_high_houses_desc: "A council of merchants that oversee the functions of the Duro Commonality."
+ auth_high_houses: "High Houses"
+ auth_high_houses_desc: "A council of merchants that oversee the functions of the Duro Commonality."
+
+# Hutt - Hutt Council
+ RT_COUNCIL_LEADER: "Supreme Mogul"
+ RT_COUNCIL_LEADER_FEMALE: "Supreme Mogul"
+ gov_hutt_ruling_council: "Five Hutt Families"
+ gov_hutt_ruling_council_desc: "The five most powerful Hutt Families each control a seat on the Grand Hutt Council, where they debate about future criminal deals as well as the future of the Hutts itself."
+ auth_hutt_ruling_council: "Grand Hutt Council"
+ auth_hutt_ruling_council_desc: "The Grand Hutt Council, also known as the Hutt Council, was the ruling body of the Hutt Clan, a collection of powerful Hutt crime clan-families, and was located on the Hutt home world."
+
+# Alderaan - Noble Houses
+ RT_KING: "King"
+ RT_QUEEN: "Queen"
+ gov_noble_houses: "Great Houses of Alderaan"
+ gov_noble_houses_desc: "The Great Houses of Alderaan were the many noble families of the planet Alderaan. The Great Houses formed the Alderaanian Parliament, and there were a total of forty-seven Houses."
+ auth_noble_houses: "High Council of Alderaan"
+ auth_noble_houses_desc: "Alderaan was headed by a hereditary constitutional monarchy, with the House of Organa presiding over the High Court and legislative High Council of Alderaan."
+
+# Corellia - Ruling Council
+ RT_COUNCILOR: "Prime Minister"
+ RT_COUNCILOR_FEMALE: "Prime Minister"
+ gov_ruling_council: "Ruling Council of Corellia"
+ gov_ruling_council_desc: "The Corellian Council was a government body on Corellia. This elected governing body represented the planet's major population districts and was led by a prime minister, who was ultimately chosen by a Council vote."
+ auth_ruling_council: "Ministry of Corellia"
+ auth_ruling_council_desc: "After forceful abdication of the last Monarch of Corellia, the planet became ruled by a Ministry which itself was controlled by a prime minister."
+
+# Taris Civil Authority
+ gov_civil_authority: "Civil Authority"
+ gov_civil_authority_desc: "The Taris Civil Authority is the law and enforcement organization formed to enforce the socioeconomic divisions as well as secure the city sectors of the planet."
+ RT_CONSTABLE: "Constable"
+ RT_CONSTABLE_FEMALE: "Constable"
+
+# Bothan Council
+ gov_bothan_council: "Bothan Council"
+ gov_bothan_council_desc: "The Bothan Council is the legislative body for the numerous Bothan clans and holds influence across Bothan space."
+ RT_FIRST_SECRETARY: "First Secretary"
+ RT_FIRST_SECRETARY_FEMALE: "First Secretary"
+
+# Rodian Tribes
+ gov_rodia_tribe: "Tribal Council"
+ gov_rodia_tribe_desc: "Tribal Council"
+ RT_GRAND_PROTECTOR: "Grand Protector"
+ RT_GRAND_PROTECTOR_FEMALE: "Grand Protector"
+
+# Exchange Organization 
+ gov_exchange_org: "Syndicate"
+ gov_exchange_org_desc: "The Exchange operates as a crime syndicate under the leadership of a Compeer."
+ RT_COMPEER: "Compeer"
+ RT_COMPEER_FEMALE: "Compeer"
+
+# Gungan Council
+ gov_gungan_tribe: "High Council"
+ gov_gungan_tribe_desc: "The Gungan High Council consisted of several Reps and led by a singular ruler known as the Boss."
+ RT_BOSS: "Boss"
+ RT_BOSS_FEMALE: "Boss"
+
+### Personalities
+ personality_coruscant_explorers: "Heart of the Galactic Core"
+ personality_coruscant_explorers_desc: "The Coruscanti seek to rebuild themselves after the Great Hyperspace War. With the Sith vanquished, the galaxy awaits the rebuilding of the Core Worlds."
+ personality_duro_corellia_explorers: "Explorers from the Galactic Core"
+ personality_duro_corellia_explorers_desc: "With the Sith threat all but eradicated in its entirety, these stalwart explorers look towards the future and the ever expanding opportunities that await them. With their mastery over the Rakatan hyperdrives, there is no world too distant to explore."
+ personality_peaceful_alderaan: "Peaceful Mediators"
+ personality_peaceful_alderaan_desc: "The Alderaanians are a mostly peaceful people that would rather seek alternatives to fighting. However, if there is a threat large enough, they will set aside their diplomatic ways to face it."
+ personality_sith_imperialists: "Vengeful Imperialists"
+ personality_sith_imperialists_desc: "Survivors of the Great Hyperspace War seek to reclaim their rightful place in the galaxy through conquest, subjugation, and mastery of the Dark Side of the Force."
+ personality_sith_resurgence: "Resurgent Sith Empire"
+ personality_sith_resurgence_desc: "Our time has come. For 300 years we prepared, we grew stronger while your rested in your cradle of power. Believing your people were save and protected."
+ personality_hutt_empire: "Opportunistic Imperialists"
+ personality_hutt_empire_desc: "Waiting and biding their time, the Hutts will strike out to subjugate any that they feel are beneath them."
+ personality_mandalorian_roamers: "Mandalorian Thugs"
+ personality_mandalorian_roamers_desc: "With no Mand'alor uniting the clans, the Mandalorians fight for no cause. Instead, they are nothing more than a disorganized collection of brigands that roam their sector of space."
+ personality_mandalorian_crusaders: "Mandalorian Crusaders"
+ personality_mandalorian_crusaders_desc: "Under their Mand'alor, the clans are united. With the promise of conquest and glory, they are the enduring legacy of the Taung and Mandalore the First."
+ personality_chiss_isolationists: "Chiss Isolationists"
+ personality_chiss_isolationists_desc: "Deep within the Chaos, the Chiss remain isolated from the conflicts taking place elsewhere in the galaxy. Instead, they focus on the affairs of the Aristocra and the dangers that inhabit this region."
+ personality_fallen_realm_tion: "Fallen Realm"
+ personality_fallen_realm_tion_desc: "Remnants of Xim the Despot's glorious empire still exist, desperately trying to rebuild their lost glory. As the power dynamics of the galaxy change, they must change as well."
+ personality_friendly_traders: "Pioneering Galactic Traders"
+ personality_friendly_traders_desc: "The Herglic species took to space travel and exploration quite early compared to most throughout the Galaxy and were fortunate enough to discover an ancient hyperlane near their home system, allowing them ease of travel and expansion as their civilization prospered. Combined with a pleasant, peaceful demeanor and natural curiosity, the Herglics established many connections and relationships with other planets and societies. "

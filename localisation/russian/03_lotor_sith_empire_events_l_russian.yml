@@ -1,0 +1,195 @@
+﻿l_russian:
+
+# Sith Return
+ SITH_RETURN_PROJECT: "Complete the Preparations"
+ SITH_RETURN_PROJECT_DESC: "At long last the Emperor has given us permission to reveal our survival following the Great Hyperspace War to the Galaxy at large. All that remains is to prepare our fleets and ground troops for the inevitable war to follow."
+ lotor_sith_invasion.10.name: "Final Preparations - Crisis"
+ lotor_sith_invasion.10.desc: "§HAdds Special Project§!"
+ lotor_sith_invasion.10.a: "Finish the Preparations"
+
+# Sith Beetle
+ lotor_sith_empire.1000.name: "Wasteland of Kalsunor"
+ lotor_sith_empire.1000.desc: "The recolonization of Kalsunor is a great success for the Empire. However, there is one slight snag, years ago some of our brightest minds saw the potential in a type of beetle that lived on this world. No larger than a womp rat, Sith Alchemy enhanced these creatures turning them into weapons. Their descendants apparently still inhabit this world. Given the right instructions under a talented Sith Sorcerer, we could try to domesticate these chittering monstrosities for future campaigns."
+ lotor_sith_empire.1000.a: "Allocate any Sith required to this project."
+ lotor_sith_empire.1000.b: "Let the locals handle it."
+ lotor_sith_empire.1010.name: "Beetle Army"
+ lotor_sith_empire.1010.desc: "Success! The Silooth have responded well to our domestication attempts on Kalsunor. They are still a bit unpredictable but maybe in a few generations it will be bred out of them. We can now put them to use in the field as we see fit."
+ lotor_sith_empire.1010.a: "Very Good Commander."
+ lotor_pm_defensive_beetles: "Silooth Beetle Guardians"
+ lotor_sith_empire.1020.name: "Aggressive Beetle Invasion"
+ lotor_sith_empire.1020.desc: "The Sith Sorcerer we assigned to the Beetle domestication project on Kalsunor sabotaged the mission in order to betray their master. We've lost contact with the facility and our soldiers took heavy losses cleaning up the site. Other groups have reported mixed results but none of them look promising. This may have been a fool's errand."
+ lotor_sith_empire.1020.a: "The Sith Always Betray Each Other."
+
+# Sith Shipyard
+ lotor_sith_empire.100.name: "Dromund Kalakar Shipyards"
+ lotor_sith_empire.100.desc: "The Imperial fleet needs to be rebuilt after suffering so many losses in the Great Hyperspace War. Our current ship designs need to be improved and upgraded before we can begin planning our return to the galaxy."
+ lotor_sith_empire.100.a: "Very well, seek out a proper shipwright."
+ SITH_SHIPYARD_PROJECT: "Establish the Shipyards"
+ SITH_SHIPYARD_PROJECT_DESC: "Dromund Kalakar Shipyards has offered their support in expanding and rebuilding the Imperial Navy. Their contributions will help improve the durability of our ships as well as their combat effectiveness. They also adhere to the late Grand Moff Vaiken's plans for the Sith Armada. Working with them will no doubt yield fantastic results."
+ lotor_sith_empire.110.name: "Dromund Kalakar Shipyards"
+ lotor_sith_empire.110.desc: "The skilled engineers at the Dromund Kalakar Shipyards have improved our ship schematics according to former Grand Moff Vaiken's specifications. Together, we will fulfill the destiny the Emperor has foreseen for the Imperial military. And when the time is right, we will reveal our glorious armada to the Republic."
+ lotor_sith_empire.110.a: "Glory to the Empire!"
+ em_lotor_no_shipyards: "Devastated Shipyards"
+ em_lotor_no_shipyards_desc: "With the great defeat in the Great Hyperspace War, the Sith Empire lost most of its major shipbuilding sites, we need to restart our efforts to once more try to conquer the galaxy."
+ em_lotor_sith_new_start: "The Exodus"
+ em_lotor_sith_new_start_desc: "After losing the Great Hyperspace War, the Sith Lord Vitiate gathered his followers abord a small fleet of starships and departed towards Dromund Kaas with the goal of reforming the Sith Empire anew."
+
+# Dromund Kaas Pacification - from Tradition
+ d_dromund_kaas_blocker: "Aggressive Wildlife"
+ d_dromund_kaas_blocker_desc: "Dromund Kaas is well known for its aggressive wildlife that makes it difficult for us to take full advantage of the land. Putting together squads of elite soldiers could be the solution to solve this problem."
+
+ lotor_sith_empire.200.name: "A Dangerous Planet"
+ lotor_sith_empire.200.desc: "Dromund Kaas is known for its hostile environment, certain areas are crawling with predators that can easily threaten our attempts at establishing a strong foothold on this world. We must do whatever we can to put an end to them!"
+ lotor_sith_empire.200.a: "It shall be done, my Lord."
+
+ lotor_sith_empire.210.name: "Planetary Pacification Started"
+ lotor_sith_empire.210.desc: "Our soldiers have had success raiding the dens of the beasts on Dromund Kass. We could accelerate the process if we had more recruits to throw at the problem."
+ lotor_sith_empire.210.a: "Very well, see to it that they are given their assignments."
+ lotor_sith_empire.210.b: "This is not necessary."
+
+ lotor_sith_empire.220.name: "Mostly Pacified"
+ lotor_sith_empire.220.desc: "More of the dreadful monstrosities scattered across Dromund Kass have been terminated. The final beasts threatening our land expansion are the force sensitive Terentateks. This stage in the operation will be overseen by Odile Vaiken personally and he requests extra materials to ensure the job is done correctly."
+ lotor_sith_empire.220.a: "See to it that Vaiken gets the supplies he needs."
+ lotor_sith_empire.220.b: "No need to waste resources when victory is in our grasp."
+
+ lotor_sith_empire.230.name: "Dromund Kaas is ours!"
+ lotor_sith_empire.230.desc: "After a grueling fight, most of the planet's terentatek population has been eliminated. Under Vaiken's command, our soldiers proved victorious. Even Vaiken himself killed one of the Sith-spawn abominations. Their extermination is the first step in establishing a permanent foothold on this world."
+ lotor_sith_empire.230.a: "The first step towards our revenge."
+
+ ## Sith Events
+
+ # Rebuilding the Empire
+ lotor_em_rebuilding_empire: "Rebuilding the Empire"
+ lotor_em_rebuilding_empire_desc: "In order to restore the glorious Sith Empire to its former heights, we need to redouble our efforts to continue expanding."
+ lotor_sith_empire.2000.name: "Rebuilding the Empire"
+ lotor_sith_empire.2000.desc: "The glory of any empire begins with a strong foundation. Our people are doing everything to bring us back to our old strength and take revenge on the Republic. Building new outposts and colonies should benefit our empire greatly."
+ lotor_sith_empire.2000.a: "For the Empire!"
+
+ # Refugee Transports
+ lotor_sith_empire.2011.name: "More survivors arrived"
+ lotor_sith_empire.2011.desc: "We have made contact with some transport ships that have just reached §HDromund Kaas§!. The individuals inside are survivors of the Great Hyperspace War and wish to rejoin our cause. The ships have trained pilots and crew members in addition to regular soldiers and a working force."
+ lotor_sith_empire.2011.a: "Great."
+ lotor_sith_empire.2011.a.tooltip: "2 §YHuman§! pops are created"
+ lotor_sith_empire.2012.name: "More survivors arrived"
+ lotor_sith_empire.2012.desc: "We have made contact with some transport ships that have just reached §HDromund Kaas§!. The individuals inside are survivors of the Great Hyperspace War and wish to rejoin our cause. The ships have trained pilots and crew members in addition to regular soldiers and a working force."
+ lotor_sith_empire.2012.a: "Great."
+ lotor_sith_empire.2012.a.tooltip: "2 §YHuman§! pops are created"
+
+ # Wrecked Starbase
+ SITH_WRECKED_SHIPYARD_PROJECT: "Repair the §H[fromfrom.GetName]-Station§!"
+ SITH_WRECKED_SHIPYARD_PROJECT_DESC: "In order to bring the Shipyards of the §H[fromfrom.GetName]-Station§! back online, we need to send out a Construction-Ship with a contingent of highly skilled engineers. Since there are enough parts to be found in the debris field near the station, the repairs should be cheap and relatively quick."
+ lotor_sith_empire.2021.name: "Hyperspace-War Shipyard"
+ lotor_sith_empire.2021.desc: "Science-Officer §H[fromfromfrom.GetLeaderName]§! on board of the §H[fromfromfrom.GetName]§! was able to find a shipyard damaged in the Great Hyperspace War in the §H[fromfrom.GetName]-System§!.\n\nThe science team was able to bring the station back online. A few repairs will still be needed to get the §RShipyards§! back in proper shape.\n\nIn order to get the old shipyard going again, we should send a construction ship with a team of engineers to the §H[fromfrom.GetName]-Station§!."
+ lotor_sith_empire.2021.a: "Prepare construction ship."
+ lotor_sith_empire.2022.name: "Hyperspace-War Shipyard"
+ lotor_sith_empire.2022.desc: "During the repairs to the §H[wrecked_sith_shipyard_system.GetName]-Station§!, our engineers first put the old crew quarters back into service to speed up the repairs to the station.\n\nOur team was able to fully repair two of the old §RShipyards§! of the §H[wrecked_sith_shipyard_system.GetName]-Station§!. This new shipyard will serve the Empire well!"
+ lotor_sith_empire.2022.a: "Perfect."
+
+ # Stranded Army
+ lotor_sith_empire.2031.name: "Stranded Army"
+ lotor_sith_empire.2031.desc: "After our Science-Officer §H[fromfromfrom.GetLeaderName]§! picked up faint signals from a moon in the §H[fromfrom.GetName]-System§!, their team set out to verify the source of the signal. What our science team found is something no one expected.\n\nOn the moon there are several transport ships and a whole army of Massasi Warriors who have once again sworn allegiance to the §RSith Empire§!. After repairing the transport ships and filling the tanks, this great army is once again at our service."
+ lotor_sith_empire.2031.a: "They are welcome!"
+
+ # Battle Debris
+ SITH_BATTLE_DEBIS_01_PROJECT: "Battle Debris in the §H[fromfrom.GetName]-System§!"
+ SITH_BATTLE_DEBIS_01_PROJECT_DESC: "In the §H[fromfrom.GetName]-System§! there is a debris field which we should examine more closely with a construction ship. Maybe there's still something of value in the rubble."
+ SITH_BATTLE_DEBIS_02_PROJECT: "Battle Debris in the §H[fromfrom.GetName]-System§!"
+ SITH_BATTLE_DEBIS_02_PROJECT_DESC: "In the §H[fromfrom.GetName]-System§! there is a debris field which we should examine more closely with a construction ship. Maybe there's still something of value in the rubble."
+ SITH_BATTLE_DEBIS_03_PROJECT: "Battle Debris in the §H[fromfrom.GetName]-System§!"
+ SITH_BATTLE_DEBIS_03_PROJECT_DESC: "In the §H[fromfrom.GetName]-System§! there is a debris field which we should examine more closely with a construction ship. Maybe there's still something of value in the rubble."
+
+ # Battle Debris 01
+ lotor_sith_empire.2041.name: "Battle Debris near §H[debris_event_location.GetName]§!"
+ lotor_sith_empire.2041.desc: "As the §H[fromfromfrom.GetName]§! and Science Officer §H[fromfromfrom.GetLeaderName]§! reach the orbit of §H[debris_event_location.GetName]§!, the crew notice a debris field in the near vicinity. It appears some damaged ships from the Great Hyperspace-War are floating here. We should send a construction ship and see if we can recycle anything."
+ lotor_sith_empire.2041.a: "Send a ship."
+ lotor_sith_empire.2042.name: "Battle Debris near §H[debris_event_location.GetName]§!"
+ lotor_sith_empire.2042.desc: "Unfortunately, the ships in the debris field were too badly damaged to put them back into service. However, our salvage team was able to get some resources from the wrecks to help us set up a new fleet."
+ lotor_sith_empire.2042.a: "Unfortunate."
+
+ # Battle Debris 02
+ lotor_sith_empire.2044.name: "Battle Debris near §H[debris_event_location.GetName]§!"
+ lotor_sith_empire.2044.desc: "After spending some time in the debris field around §H[debris_event_location.GetName]§!, our engineers have successfully repaired three §RPythar-class§! corvettes to combat-ready condition.\n\nThe ships may need some upgrades, but nonetheless they are now able to be in our fleet."
+ lotor_sith_empire.2044.a: "Integrate them into the fleet."
+
+ # Battle Debris 03
+ lotor_sith_empire.2046.name: "Battle Debris near §H[debris_event_location.GetName]§!"
+ lotor_sith_empire.2046.desc: "After spending some time in the debris field around §H[debris_event_location.GetName]§!, our engineers have successfully repaired two §RPythar-class§! corvettes and even a §RTerminus-class§! destroyer to combat-ready condition.\n\nThe ships may need some upgrades, but nonetheless they are now back in our fleet."
+ lotor_sith_empire.2046.a: "Goooood..."
+ 
+ # Lost Colony
+ lotor_sith_empire.2051.name: "Lost Survivors"
+ lotor_sith_empire.2051.desc: "Our Science-Officer §H[fromfromfrom.GetLeaderName]§!, has made an amazing discovery on §H[lost_colony_sith.GetName]§!. It seems that not all Sith made it to §RDromund Kaas§!, instead some of the refugees established a colony on §H[lost_colony_sith.GetName]§!.\n\nThe survivors are ready to rejoin our effort to resurrect the great §RSith Empire§!."
+ lotor_sith_empire.2051.a: "Great."
+ lotor_sith_empire.2051.a.tooltip: "5 §YSith§! pops are created"
+
+ # A Symbol of Power
+ NEW_FLAGSHIP_SITH: "A Symbol of §RPower§!"
+ NEW_FLAGSHIP_SITH_DESC: "With the constant expansion of our territories, armies and fleets, it is time to construct a true flagship for the fleet. Building the proper flagship for the cause is a difficult endeavor and probably a project ahead of its time; we will need every scientist and engineer to build a magnificent vessel for our new Sith Empire."
+ lotor_sith_empire.2061.name: "A Symbol of §RPower§!"
+ lotor_sith_empire.2061.desc: "With the stabilization of our position around §HDromund Kaas§! and rebuilding our fleets and armies, our admiralty thinks it is now time to build a flagship that will strike fear into our enemies. The first plans are to develop a Battleship with superior turbolasers and ion cannons as armament.\n\nThis mighty ship is supposed to monitor and coordinate our fleet remotely."
+ lotor_sith_empire.2061.a: "Start the Project"
+ lotor_sith_empire.2062.name: "A Symbol of §RPower§!"
+ lotor_sith_empire.2062.desc: "Our flagship, the §HHarrower§!, is complete and ready to serve in our armada. However, such a ship requires the leadership of an outstanding tactician and admiral. Some of the true Sith may consider this a sacrilege, but due to his many merits and loyalty, only one can do so: §HOdile Vaiken§!.\n\nAs a boy, he escaped the destruction of §HKorriban§! and since then, as a pilot and later as a general, he has been instrumental in restructuring the Sith army and the cleansing of §HDromund Kaas§!. Even if he is a human, he is the logical choice."
+ lotor_sith_empire.2062.a: "For the Empire!"
+ 
+# A Symbol of Strength
+ tech_symbol_of_strength: "§MSymbol of Strength§! Special Starbase Components"
+ tech_symbol_of_strength_desc: "A set of special components for the §HDromund Kaas§! Station."
+ sm_shipyard_sith: "Dromund Kaas Shipyard"
+ sm_shipyard_sith_desc: "A shipyard may build two ships simultaneously, in parallel with other shipyards."
+ sm_gun_battery_sith: "Dromund Kaas Laser Battery"
+ sm_gun_battery_sith_desc: "Adds four medium-sized weapon slots to the starbase."
+ sm_missile_battery_sith: "Dromund Kaas Missile Battery"
+ sm_missile_battery_sith_desc: "Adds four missile weapon slots to the starbase."
+
+ NEW_STARBASE_SITH: "A Symbol of §MStrength§!"
+ NEW_STARBASE_SITH_DESC: "Upgrade §HDromund Kaas-Station§! into a Star Fortress. Further modifications to the station can be ordered after completing this basic construction."
+ lotor_sith_empire.2071.name: "A Symbol of §MStrength§!"
+ lotor_sith_empire.2071.desc: "With the growth of the empire and the expansion of our territories, it is time to provide our new home system with a starbase that is unparalleled in the galaxy. The time has come, whether it becomes a mighty fortress protecting §HDromund Kaas§! or a mega shipyard that will lift our armada to untold power."
+ lotor_sith_empire.2071.a: "The Sith will rise!"
+ lotor_sith_empire.2072.name: "A Symbol of §MStrength§!"
+ lotor_sith_empire.2072.desc: "§R[Ruler.GetTitle] [Ruler.GetName]§!, the base construction of the §HDromund Kaas-Station§! has been completed. Now we should decide whether we should expand the starbase into an impregnable fortress or if we should install the largest shipyard in the known universe, including a military academy. The choice is yours, my Emperor."
+ lotor_sith_empire.2072.a: "Build a Mega-Shipyard"
+ lotor_sith_empire.2072.a.tooltip: "Upgrades the §HDromund-Kaas§! Station with unique shipyards that doubles the number of ships that can be worked on simultaneously."
+ lotor_sith_empire.2072.b: "Upgrade it to a Bulwark"
+ lotor_sith_empire.2072.b.tooltip: "Upgrades the §HDromund-Kaas§! Station with special weapon batteries that double the number of available weapon slots."
+
+# A Symbol of Passion
+ d_imperial_citadel: "§RImperial Citadel§!"
+ d_imperial_citadel_desc: "The Imperial Citadel is an awe-inspiring building and the center of power for the Sith Empire."
+ IMPERIAL_CITADEL: "A Symbol of §GPassion§!"
+ IMPERIAL_CITADEL_DESC: "The Imperial Citadel is the heart of our empire and houses our most important institutions."
+ lotor_sith_empire.2081.name: "A Symbol of §GPassion§!"
+ lotor_sith_empire.2081.desc: "With the continued growth of our empire and Imperial Institutions, we need a center of power from which operations can be coordinated and planned. The project involves the blueprints to build a majestic §RImperial Citadel§! which will house the seat of the Emperor, the Dark Council, the Naval Logistics Headquarters, the Army Coordination Center, and even more room for the embassies of potential allies. This building will be the pride of §HDromund-Kaas§!!"
+ lotor_sith_empire.2081.a: "You may begin at once."
+ lotor_sith_empire.2082.name: "A Symbol of §GPassion§!"
+ lotor_sith_empire.2082.desc: "My §R[Ruler.GetTitle] [Ruler.GetName]§!, the construction of the §RImperial Citadel§! is complete. This mighty structure will serve as our center of power on §HDromund Kaas§!.\n\nLong live the Sith Empire!"
+ lotor_sith_empire.2082.a: "Excellent."
+
+
+# Sith Raid
+ lotor_colony_events.11.name: "Colony on §H[This.GetName]§! destroyed"
+ lotor_colony_events.11.desc: "We received a distress call from our new colony on §H[This.GetName]§!, reporting an attack by shadowy warriors carrying red lightsabers. Shortly after the emergency call, we completely lost contact with the colony. First scans show that there is little hope for survivors.\n\nAs a result these events, we were contacted by those responsible for the massacre and warned not to go any further into their space. They call themselves §RSith§! and believe in using the dark side of the Force.\nNonetheless, we will not let the §RSith§! get away with their actions so easily."
+ lotor_colony_events.11.a: "They must pay for this!"
+ lotor_colony_events.12.name: "Colony on §H[This.GetName]§! raided"
+ lotor_colony_events.12.desc: "We just received a distress call from our colony on §H[This.GetName]§!. The colony is under attack and many of our colonists have died in the fighting. Our colony didn't have a chance to repel the attack, but there are survivors who managed to communicate with an officer of the attackers.\nThe officer introduces himself as a Massasi warrior in the service of the §RSith Empire§! and warns us encroaching further into their territory if we wish to avoid further consequences. We've heard of the §RSith§! before in tall tales but thought they were wiped out after the Great Hyperspace War.\n\nWe should prepare for further confrontations with this previously unknown threat."
+ lotor_colony_events.12.a: "Prepare defenses immediately!"
+
+# Sith Raid (Sith Feedback)
+ lotor_em_arena_fights: "Arena fights"
+ lotor_em_arena_fights_desc: "§HFarh j'Hien§! and his men may prove worthy in the arena for the next few years to rejoin the Sith military or they will die trying. In any case, the fights always serve as entertainment to the masses."
+ lotor_em_taste_of_blood: "A taste of blood"
+ lotor_em_taste_of_blood_desc: "After the ritual sacrifice of the §H[raided_planet.GetName]§! captives, our people thirst for more blood and war."
+ opinion_sith_taste_of_blood: "§H[raided_planet.GetName]§! raided"
+ opinion_sith_taste_of_blood_desc: "The horrific murder of the §H[raided_planet.GetName]§! population and destruction of the colony only fuels our connection to the dark side."
+ lotor_colony_events.13.name: "Raid on §H[raided_planet.GetName]§!"
+ lotor_colony_events.13.desc: "§R[Ruler.GetTitle] [Ruler.GetName]§!, the government of the §R[raided_empire.GetName]§!, has contacted us regarding §HFarh j'Hien§!, an officer at our academy, who assembled a small squad and attacked a colony on §H[raided_planet.GetName]§!. We have warned them not to encroach any further into our territory, or they will suffer the consequences.\n\nWhile it's impressive what §HFarh j'Hien§! has accomplished with so few troops on Desevro, we still have to decide his future. As it turns out, §HFarh j'Hien§! revealed our existence and conducted the raid without orders. How should we respond?"
+ lotor_colony_events.13.a: "Promote him"
+ lotor_colony_events.13.a.tooltip: "Recruit §HFarh j'Hien§! as a §RGeneral§! for our ground troops."
+ lotor_colony_events.13.b: "Punish him"
+ lotor_colony_events.14.name: "Captives of §H[raided_planet.GetName]§!"
+ lotor_colony_events.14.desc.a: "Now as §HFarh j'Hien§! has been promoted to General and will lead our troops in battles to come, one more matter remains to be resolved. \n\nDuring the raid on §H[raided_planet.GetName]§!, the raiding party was able to take a few prisoners whose fate we now have to decide. We could integrate them and use them as workers or we can sacrifice them to the dark gods as our ancestors did."
+ lotor_colony_events.14.a.tooltip: "Two §YHuman§! Pops are created on Dromund Kaas."
+ lotor_colony_events.14.desc.b: "Now as §HFarh j'Hien§! and his men are allowed to prove themselves in the arenas on §HDromund Kaas§! one loose end remains unresolved.\n\nDuring the raid on §H[raided_planet.GetName]§!, the raiding party was able to take a few prisoners whose fate we also have to decide. We could integrate them and use them as workers or we can sacrifice them to the dark gods as our ancestors did."
+ lotor_colony_events.14.a: "Integrate them"
+ lotor_colony_events.14.b: "§RBloooood!§!"

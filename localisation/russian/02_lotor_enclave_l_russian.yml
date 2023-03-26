@@ -1,0 +1,75 @@
+﻿l_russian:
+
+# Station 88
+ enclave_trade_1_rig: "Special Deal (£volatile_motes£ x1)"
+ enclave_trade_2_rig: "Special Deal (£volatile_motes£ x2)"
+ enclave_trade_3_rig: "Special Deal (£volatile_motes£ x3)"
+ enclave_trade_4_rig: "Special Deal (£volatile_motes£ x4)"
+ enclave_trade_5_rig: "Special Deal (£volatile_motes£ x5)"
+
+ end_trade_station88_2: "This will terminate our current resource trade deal with Station 88."
+
+ station88_deal_in_place: "We already have a §YDeal with Station 88§!."
+
+ station88greeting.desc: "I speak on behalf of the Deep Space Trading Station 88. We have facilitated trade negotiations between interested parties on our station for a couple of years.\n\nIf you happen to possess more resources than you need, we are more than willing to take it off your hands. You will be duly compensated, of course."
+ station88.103.name: "Deep Space Trading Station 88"
+ station88.103.desc: "The Deep Space Trading Station 88 greets you."
+
+ station88.105.c.sr1: "We already have a §YDeal with Station 88§!\n"
+
+ station88.130.desc: "The volatile mote is a prized condiment in this part of the galaxy. It is renowned throughout the galaxy for its distinct flavor, which is unlike any other, and explosiveness, which is unlike any other. We sell it only to our most valued trading partners, among which we count the [Root.GetName].\n\nIf you can meet our modest price, we are willing to export Volatile Motes to you for a period of ten standard years."
+
+ station88.143.a.desc: "The starbase was a unique Trading Enclave and has been destroyed in the [trader_system.GetName] system. This free outpost facilitated trade between interstellar civilizations for a while, but no longer."
+
+ enclave_mineral_trade_1_rig: "Station 88 Trade Deal"
+ enclave_mineral_trade_1_rig_desc: "This trade deal stipulates a monthly transfer of resources between us and Station 88.\n\n§YIt can be ended at any time in the Station 88 diplomatic menu.§!"
+
+# Petabys Station
+ enclave_trade_1_mut: "Special Deal (£rare_crystals£ x1)"
+ enclave_trade_2_mut: "Special Deal (£rare_crystals£ x2)"
+ enclave_trade_3_mut: "Special Deal (£rare_crystals£ x3)"
+ enclave_trade_4_mut: "Special Deal (£rare_crystals£ x4)"
+ enclave_trade_5_mut: "Special Deal (£rare_crystals£ x5)"
+
+ end_trade_petabys_3: "This will terminate our current resource trade deal with Petabys Station."
+ petabys_deal_in_place: "We already have a §YPetabys Deal§!."
+
+ petabys.102c.desc: "Well met, friends! I represent the Petabys Trading Station, and let me be the first to welcome you to the Petabys system. Our organization consists of hundreds of independent merchant captains who brave the spaceways in search of the next good deal.\n\nAt our facilities, you will be able to trade away some of your excess resources. Please contact us if you are interested in such an arrangement."
+
+ petabys.104.name: "Petabys Trading Station"
+ petabys.104a.desc: "A couple hundred years ago, the duros spread through the stars, we are one of their forgotten Outposts."
+ petabys.104b.desc: "It is said that a Duro can smell a good deal from a distance of twelve parsecs. This is an exaggeration... in truth, the distance is only eight parsecs."
+ petabys.104c.desc: "The Petabys Trading Station welcomes you. Would you like to make a deal?"
+ petabys.104d.desc: "A Duro and a Corellian walk into a bar... never mind, this does not make for appropriate conversation. I ask your forgiveness."
+
+ petabys.105.c.sr3: "We already have a §YPetabys Trade Deal§!\n"
+
+ petabys.144.desc.first: "Reports are coming in that the headquarters of the Petabys Trading Station in the [trader_system.GetName] system has been pulverized"
+ petabys.144.desc.second: "The handful of surviving merchant captains have scattered across the galaxy."
+ petabys.162.desc: "Ah, so the pirates show their true colors! You can forget about our trade deals! No Duro will do business with the [Root.GetName] again."
+ petabys.163b.desc: "You will find that Duros have very long memories, [Root.GetSpeciesName]. We never forget a slight."
+
+# Bannister Station
+
+ enclave_trade_1_xur: "Special Deal (£exotic_gases£ x1)"
+ enclave_trade_2_xur: "Special Deal (£exotic_gases£ x2)"
+ enclave_trade_3_xur: "Special Deal (£exotic_gases£ x3)"
+ enclave_trade_4_xur: "Special Deal (£exotic_gases£ x4)"
+ enclave_trade_5_xur: "Special Deal (£exotic_gases£ x5)"
+
+ end_trade_banner_1: "This will terminate our current resource trade deal with Bannister Station."
+
+ banner.102a.desc: "Welcome to Bannister Station!\n\nWe are a business conglomerate operating out of the [trader_system.GetName] system, specializing in trade - the very building blocks of civilization, as we like to say here at Bannister Station.\n\nPlease, do not hesitate to contact us if you're interested in making a good deal."
+ banner.100.name: "Bannister Station"
+ banner.100a.desc: "We do not discriminate against prospective buyers here at Bannister Station. Who are we to judge the morals of your star nation?"
+ banner.100b.desc: "Perhaps you need minerals for building warships. Perhaps you need them for building orphanages! Here at Bannister Station, we make it our business not to care!"
+ banner.100f.desc: "You have reached Bannister Station. How may we help you?"
+
+ banner_deal_in_place: "We already have a §YBannister Deal§!."
+ banner.105.c.sr2: "We already have a §YBannister Station Trade Deal§!\n"
+
+ banner.131.desc: "This is a product that we here at Bannister Station are particularly proud of. Our Medical Division has recently begun refining a gas with unique properties that will significantly ease the often difficult process of adapting to a foreign planetary environment. It is however unlikely to be compatible with alien physiology!\n\nWe are willing to export our Exotic Gas to you for a period of ten standard years, after which the contract will have to be renegotiated."
+ banner.131.a.reply: "That's the Bannister way! Our freighters will begin making deliveries immediately.\n\n§LBy purchasing this product, you agree that Bannister Station cannot be held responsible for any adverse effects that may result from its use, including but not limited to skin irritation, psychotic episodes, ocular discoloration, aggressive mutation, increased colonist suicide rates, precognitive trances, biosphere depletion, dangerous strangelet production, micro black hole generation, grain elevator explosions, societal collapse, mass extinction events, unexpected supernova detonations, the complete or partial destruction of your star nation, sudden gamma-ray bursts, time travel paradoxes, vacuum metastability events, universal entropy, the collapse of the space-time continuum ...§!"
+ banner.142.desc.first: "The corporate headquarters of Bannister Station Gas in the [trader_system.GetName] system was recently destroyed"
+ banner.156.desc: "Your reckless attacks have put Bannister Station property and employees at risk. We have no choice but to terminate our current trade agreement. There will be no refunds."
+ banner.156.desc.notrade: "Your reckless attack endangers Bannister Station property and employees alike. You would do well to remember that good customer relations go both ways."

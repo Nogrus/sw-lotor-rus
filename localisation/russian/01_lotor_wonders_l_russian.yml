@@ -1,0 +1,98 @@
+﻿l_russian:
+
+# Wonder Deposits are in the Deposit File!
+
+ lotor_wonders.10.name: "£wonders_galaxy£ §MShawken Spire§! - Rebuilding Efforts"
+ lotor_wonders.10.desc: "The people of [Root.GetName] want to rebuild the great §MShawken Spire§!! They think it will be a sign of unity for our empire and possibly the whole galaxy. It will take a tremendous effort and time from our best engineers but it is possible. When finished it will reach low-orbit altitude and be the tallest structure known to us. The engineers will try to keep the spire as historical accurate as possible but without any surviving documents of its construction thousands of years ago this will be difficult. A finished spire will bring large amounts of tourists to the planet and our empire and increase our trade value!"
+ lotor_wonders.10.a.tooltip: "Adds a decision to the planet [Root.GetName] to rebuild the spire."
+ lotor_wonders.11.name: "£wonders_galaxy£ §MShawken Spire§! - Rebuild Finished"
+ lotor_wonders.11.desc: "Today is the day, the §MShawken Spire§! is finished. Rebuild with todays materials it reaches up into low-orbit. Our engineers tried their best to keep the spire as historical accurate as possible and many of our people think they managed it. Even during constructions many said the spire is one of the most beautiful structures they ever seen and the view from its observation deck is said to be a \"one of a kind\" experience."
+ lotor_wonders.11.a: "We made history!"
+
+ lotor_wonders.20.name: "£wonders_galaxy£ §MCelebratus Archive§!"
+ lotor_wonders.20.desc: "Today scientists of [Root.GetName] decided to create one of the largest archives in the known universe in an unprecedented effort to preserve knowledge of hundreds of species. In the coming years, scientists want to collect as much data as possible from all over the galaxy. This will not only help our scientists to understand the past, present and possible future of our galaxy better but also allow us to share this knowledge with the rest of the galaxy."
+ lotor_wonders.20.a.tooltip: "Adds the §MCelebratus Archive§! as deposit to the planet [Root.GetName]."
+ lotor_wonders.21.name: "£wonders_galaxy£ §MCelebratus Archive§! Expansion"
+ lotor_wonders.21.desc: "After years of collecting knowledge from all over the galaxy, the original build archive started to fill up. Today the first expansion of the archive was finished. This expansion more than doubles the footprint of the building since our scientists vastly underestimated the sheer amount of space needed to store all the data from around the galaxy. The archive also starts to attract a lot of people and scientist from other parts of the galaxy to learn and research as well as to share their knowledge."
+ lotor_wonders.21.a.tooltip: "Improves the §MCelebratus Archive§! deposit on the planet [Root.GetName]."
+ lotor_wonders.22.name: "£wonders_galaxy£ §MCelebratus Archive§!"
+ lotor_wonders.22.desc: "Today the §MCelebratus Archive§! officially finishes its first phase to collect knowledge from around the galaxy. This doesn't mean that new discoveries won't be added to the archive, but the initial for knowledge and its collection was successfully finished.\nOur scientists preserved the knowledge of thousand of species, persons, systems, planets and much more. Now the scientists go into the second phase of mainly focusing on the preserving and researching of the knowledge. Many people think that this could be the start of an age of science on the planet of [Root.GetName] and in turn for the entire galaxy."
+ lotor_wonders.22.a: "Let the research begin!"
+ lotor_wonders.22.a.tooltip: "Improves the §MCelebratus Archive§! deposit on the planet [Root.GetName]."
+
+ lotor_wonders.30.name: "£wonders_galaxy£ §MXim Statue§!"
+ lotor_wonders.30.desc: "Some people on the planet [Root.GetName] want to rebuild the hundred-meter high §MXim Statue§! that stood during his reign and was destroyed by an earthquake towards the end of it. It's a symbol of our militaristic past, and some people think we shouldn't rebuild it because of that. Rebuilding it could send a message to our people that we want to honor this past and make them reconsider their political beliefs towards it. On the other hand, if we don't follow their wish, we could send the message that we want to differentiate ourselves from the past."
+ lotor_wonders.30.a: "Rebuild it"
+ lotor_wonders.30.b: "Leave it"
+ lotor_wonders.30.a.tooltip: "The rebuild will take around 3 years."
+ lotor_wonders.30.b.tooltip: "The §MXim Statue§! will not be rebuild."
+ lotor_wonders.31.name: "£wonders_galaxy£ §MXim Statue§!"
+ lotor_wonders.31.desc: "The rebuild of the §MXim Statue§! is completed. He now towers again one-hundred meters above the people of Desevro as a symbol for his reign and accomplishments. As he has risen from the ashes will we as the [Root.Owner.GetName] as well!"
+ lotor_wonders.31.a: "Magnificent"
+ lotor_wonders.31.a.tooltip: "The §MXim Statue§! is now rebuild."
+
+ lotor_wonders.40.name: "£wonders_galaxy£ §MManmade Ice Caves§!"
+ lotor_wonders.40.desc: "During construction works at the Hasamadhi warehouse district near [Root.GetName]'s south pole workers found a large network of subterranean caves in the glaciers. During their inspection, it was decided they couldn't have naturally formed. Any further work on the site was halted. Scientists and archaeologists are now examining the caves to hopefully find out who made them and why they were cut into the glacier."
+ lotor_wonders.40.a: "Interesting"
+ lotor_wonders.40.a.tooltip: "We will hear again from the scientists and archaeologists once they have new information."
+
+ lotor_wonders.41.name: "£wonders_galaxy£ §MIce Crypts§!"
+ lotor_wonders.41.desc: "The scientists and archaeologists that analyzed the glacial caves near [Root.GetName]'s south pole have finished their research.\nAt the end of the tunnel system, they found thirteen burial chambers, each containing a mummified corpse with weapons, armor, and trophies of war.\nIt is believed that they are the remains of the chiefs of the thirteen nations of Zhell, who may have fled here after their defeat at the hands of the Taungs in Pre-Republic times. If true these are the only known artifacts of this time period. Our archaeologists urge us to not disturb the delicate remains but are open for the caves to become open to the public."
+ lotor_wonders.41.a: "Amazing find!"
+
+ lotor_wonders.50.name: "£wonders_galaxy£ §MForbidden Gardens of Nusswatta§!"
+ lotor_wonders.50.desc: "Archaeologists claim to have found the forbidden gardens of Xim the Despot on Nusswatta. The complex of gardens located in a caldera of an extinct volcano were originally cultivated as a royal retreat for the court of the Empire of Xim. It is said that all who entered without permission were put to death and that the Gardens were cultivated by a cadre of slaves blinded at birth. There are also stories of traitors, failed Tionese military officers, and defeated enemies that have supposedly been executed here."
+ lotor_wonders.50.a: "What a find!"
+
+# Space City
+ SPACE_CITY_NAME: "£wonders_galaxy£ §MSpace City§!"
+ space_city_trade: "Trade Modules"
+ space_city_trade_desc: "Trade Modules provide adequate space for businesses to deliver goods and services to populations around the galaxy. Thus, giving us extra income."
+ space_city_research: "Research Installations"
+ space_city_research_desc: "Research Installations allow scientists to conduct experiments on Space City without interfering with the populace on the station."
+ space_city_everything: "Additional Sections"
+ space_city_everything_desc: "Additional Sections allow us to build additional modules to Space City. Our engineers can build anything, from more housing to industrial capacity."
+
+ lotor_wonders.61.name: "The Concept of a Space City"
+ lotor_wonders.61.desc: "A private corporation has contacted us with an opportunity. They want to develop a Space City above [From.GetName]. This Orbital Installation could be a new potential Trade Hub, Research Installation or even something different. The corporation asks us to decide what the primary purpose of this station should be, if we provide the necessary funding."
+
+ lotor_wonders.61.a: "Focus on Trade Modules"
+ lotor_wonders.61.b: "Focus on Research Installations"
+ lotor_wonders.61.c: "Focus on a bit of Everything"
+ lotor_wonders.61.d: "Don't Focus on Anything"
+
+ lotor_wonders.62.name: "£wonders_galaxy£ §MSpace City§!"
+ lotor_wonders.62.desc: "Success! The Space City was finally constructed above [From.GetName]. While the station was finished its cost was way higher than anticipated, resulting in the bankruptcy of the construction company. The dedication of this station and its facilities now lies in our hand! We will have full control of this marvelous station, a true wonder of the galaxy."
+ lotor_wonders.62.tooltip: "Creates a habitat with one pop above the planet [From.GetName]."
+
+ lotor_wonders.71.name: "£wonders_galaxy£ §MResidence for the Supreme Chancellor§!"
+ lotor_wonders.71.desc: "Politicians and servants alike are unhappy about our current accommodations for our Supreme Chancellor. They say they are not fit for the head of the galactic republic. More and more are demanding that we build a new bigger and greater residence for our future supreme chancellors on [From.GetName]. We started working on plans for a grand palace."
+ lotor_wonders.71.a: "Let's build it!"
+ lotor_wonders.71.a.tooltip: "Adds a decision to build the £wonders_galaxy£ §MPresidential Palace§! on [From.GetName]."
+
+ lotor_wonders.72.name: "£wonders_galaxy£ §MPresidential Palace§! finished"
+ lotor_wonders.72.desc: "Today marks the completion of the §MPresidential Palace§!. Its sheer size makes everything around it appear tiny in comparison. This is definitely a place to call home for a Supreme Chancellor."
+ lotor_wonders.72.a: "Great work!"
+
+ lotor_wonders.83.name: "£wonders_galaxy£ §MThe Ark of Baron Auletphant§!"
+ lotor_wonders.83.desc: "Today the scientists of the Baobab Archives on [This.GetName] got contacted by Baron Auletphant. Thought by many to only be a myth the Baron built a golden-colored barge encrusted with rose and azure-colored mytag crystals for his scientific endeavors. With this barge, he then collected aquatic specimens from across the galaxy for an entire century. Now he landed his ship at the Archives to donate his findings. Our scientists say that the sheer amount of different and never before seen specimens inside the ship is astonishing and that we can learn a lot from it. Baron Auletphant decided to stay with the scientists to further assist their research."
+ lotor_wonders.83.tooltip: "Adds the §MThe Ark of Baron Auletphant§! to the Baobab Archives"
+
+ lotor_wonders.84.name: "£wonders_galaxy£ §MBaobab Archives§!"
+ lotor_wonders.84.desc: "The prestigious merchant family Baobab presented today their plans to build an archive for information on galactic history, planets, languages, cultures, hyperspace lanes and more on our planet [This.GetName]. The archives could be a great opportunity to improve our research endeavors!"
+ lotor_wonders.84.a: "Nice work!"
+
+ decision_shawken_spire_rebuild: "£wonders_galaxy£ §MShawken Spire Rebuild§!"
+ decision_shawken_spire_rebuild_desc: "Starts the rebuilding of the ancient §MShawken Spire§!."
+ decision_imperial_palace: "£wonders_galaxy£ §MPresidential Palace§!"
+ decision_imperial_palace_desc: "Starts the building of the grand Presidential Palace."
+
+ belgoths_beacon: "£wonders_galaxy£ §MBelgoth's Beacon§!"
+ belgoths_beacon_DESC: "Belgoth's Beacon was a hyperspace beacon commissioned by Borte Belgoth in approximately 25,100 BBY. The satellite is one of the first beacons created on the Perlemian Trade Route. Once on its surface sculpted faces of a columi, a cacodemon and a molator could be seen. It's destroyed beyond repair."
+ belgoths_beacon_MEGASTRUCTURE_DETAILS: "$belgoths_beacon_DESC$"
+
+ NAME_Ark_Auletphant: "£wonders_galaxy£ §MThe Ark of Baron Auletphant§!"
+ ark_auletphant_section_template: "Ark Auletphant Section Template"
+ ark_auletphant_chain_title: "£wonders_galaxy£ Ark of Baron Auletphant Event Chain"
+ ark_auletphant_chain_desc: "Event Chain for the wonder £wonders_galaxy£ §MArk of Baron Auletphant§!."
+ ark_auletphant_planets_visited: "Aquatic Specimens collected"

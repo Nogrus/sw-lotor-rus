@@ -1,0 +1,94 @@
+﻿l_russian:
+# Alsakan Events
+ NAME_ALSAKAN_MONARCHY_REFORMED: "Alsakan Monarchy"
+ NAME_ALSAKAN_DEFENCE_FORCE: "Alsakan Defense Force"
+ lotor_pm_unhappy_population: "Unhappy Population"
+ lotor_pm_unhappy_population_desc: "Due to recent actions, our populace has grown displeased."
+ lotor_em_lobying_dispute: "Lobbying Dispute"
+ lotor_em_diplomatic_dispute: "Diplomatic Dispute"
+ lotor_em_mining_dispute: "Mining Dispute"
+ lotor_em_changed_government: "Recently Changed Government"
+ d_former_killik_colony: "Abandoned Killik Colony"
+ d_former_killik_colony_desc: "Ages ago, this planet housed a Killik colony. Now no Killiks remain here anymore but the colony became a tourist attraction."
+ d_thriving_economy: "Thriving Economy"
+ d_thriving_economy_desc: "This planet has a thriving economy."
+ d_corrupt_capital: "Corrupt Capital"
+ d_corrupt_capital_desc: "Through illegal actions, bribery and other means. This planet managed to become the Capital of this Empire."
+
+ lotor_coruscant_events.100.name: "Colonization of Alsakan"
+ lotor_coruscant_events.100.desc: "The colonization of Alsakan was a success. Our settlers have faced few issues and the future of the planet is bright!"
+ lotor_coruscant_events.100.a: "A Proud Colony of our Empire!"
+
+ lotor_coruscant_events.110.name: "Thriving Colony"
+ lotor_coruscant_events.110.desc: "Our colony on Alsakan is thriving beyond our expectations. The upper classes of Coruscant are even buying second homes on the newly colonized world."
+ lotor_coruscant_events.110.a: "Grant Additional Funds"
+ lotor_coruscant_events.110.b: "Deny it"
+
+ lotor_coruscant_events.120.name: "Pirate Raid on Alsakan!"
+ lotor_coruscant_events.120.desc: "Due to the success of our colony on Alsakan, pirates have sought to plunder the system. Who knew that more money would cause more problems?"
+ lotor_coruscant_events.120.a: "Defend the Planet!"
+
+ lotor_coruscant_events.125.name: "Pirate Leader Defeated"
+ lotor_coruscant_events.125.desc: "Thanks to our stalwart defenses and the response time from one of our fleets, we've fought back against the pirates. We also killed the pirate leader in the battle as well. However, we should still be alert for another raid."
+ lotor_coruscant_events.125.a: "The Damage is already done..."
+
+ lotor_coruscant_events.130.name: "Alsakans Personal Defense Force"
+ lotor_coruscant_events.130.desc: "Our colonists on Alsakan are urging that we prepare a small defense force to help defend the planet from future raids. While it would be nice to supply a colony with some extra ships, we can always assign one of our fleets to patrol the system."
+ lotor_coruscant_events.130.a: "Help them establish their local Defense Force"
+ lotor_coruscant_events.130.b: "Request denied."
+
+ lotor_coruscant_events.150.name: "Diplomatic Issue with Neighboring Empire"
+ lotor_coruscant_events.150.desc: "Alsakan diplomats tried reaching out to neighboring systems in an attempt to establish new deals with them. When approached, the diplomats were confused. They mentioned that they already had existing treaties with Coruscant."
+ lotor_coruscant_events.150.a: "this will have consequences"
+
+ lotor_coruscant_events.160.name: "Illegal Lobbying & Disappearing Funds"
+ lotor_coruscant_events.160.desc: "One of our Governors recently noticed that a rather large amount of funds has been diverted towards the Alsakan System, we believe people have been bribed."
+ lotor_coruscant_events.160.a: "Sheer incompetence!"
+
+ lotor_coruscant_events.170.name: "Mining Permission Issue"
+ lotor_coruscant_events.170.desc: "A system neighboring the Alsakan colony is home to a very large vein of a rare minerals. Normally our mining teams would have access to the vein but the Alsakan colonists have refused access to it. They claim its their own."
+ lotor_coruscant_events.170.a: "Alsakan is bending the rules"
+
+ lotor_coruscant_events.180.name: "Alsakans continuing Diplomatic Issues"
+ lotor_coruscant_events.180.desc: "Over the recent years, Alsakan tried to improve its own status while worsening the outlook of Coruscant, this cant stand any longer we need to act now."
+ lotor_coruscant_events.180.a: "We have to approach them"
+
+ lotor_coruscant_events.190.name: "Alsakans Place in the Sun"
+ lotor_coruscant_events.190.desc: "Our meeting has revealed that the Alsakan seek to usurp Coruscant as the center of galactic politics and as the capital. They argue that the wealth and success of Alsakan shows that they are far more deserving and propose an ultimatum: Either the Coruscantii Union reorganizes itself with the Alsakan as their rulers or suffer the consequences."
+ lotor_coruscant_events.190.a: "Disagree, this has to stop here and now"
+ lotor_coruscant_events.190.b: "Agree, reform the current Power Structure"
+
+ lotor_coruscant_events.200.name: "Declaration of Independence"
+ lotor_coruscant_events.200.desc: "It has come to the worst possible outcome, the Alsakan colonists have declared independence from Coruscant. All of the resources and support we gave to them since their founding have been turned against us. We have just gained ourselves a new rival."
+ lotor_coruscant_events.200.a: "Traitors!"
+
+# Rebuild Coruscant
+ em_lotor_coruscant_rebuilding: "Rebuilding of Coruscant"
+ decision_coruscant_city_planet: "Rebuilding of Coruscant"
+ decision_coruscant_city_planet_desc: "The battle on §YCoruscant§! during the §HGreat Hyperspace War§! left the planet a shell of what it could be. In order to fulfill the promise of a better §YCoruscant§!, we should focus on rebuilding this mighty city world."
+ d_coruscant_marvel: "Marvel of Engineering"
+ d_coruscant_marvel_desc: "The First Ecumenopolis of the Galaxy, §YCoruscant§! has been designed to sustain its own special needs at least for the moment."
+ d_coruscant_marvel_agrar: "Coruscat Agrar Hydroponics"
+ d_coruscant_marvel_agrar_desc: "To feed the massive population, §YCoruscant§! build multiple Hydroponic bays below the surface."
+ d_coruscant_marvel_energy: "Central power distribution grid "
+ d_coruscant_marvel_energy_desc: "The central power distribution grid was located 5,000 levels down from the surface of Senate District on §YCoruscant§!. It provided electrical power to the city-world, going to many districts, including the Senate Building."
+ d_coruscant_marvel_trade: "Coruscant Spaceport"
+ d_coruscant_marvel_trade_desc: "The Coruscant Spaceport was a massive spaceport near the Senate Building on §YCoruscant§!. During the years surrounding the Great Galactic War and subsequent Cold War, it served as the primary spaceport for §YCoruscant§!. The Coruscant Spaceport Authority managed the building and the surrounding traffic from incoming and outgoing vessels."
+ lotor_coruscant_events.10.name: "Massive Groundquake"
+ lotor_coruscant_events.10.desc: "A massive groundquake has brought destruction to §YCoruscant§!. Countless lives have been lost and numerous buildings have been reduced to rubble. Not since the uprising against §HRakatans§! have the people of §YCoruscant§! seen so much death."
+ lotor_coruscant_events.10.a: "Oh No!"
+
+ lotor_coruscant_events.20.name: "Potential Solution"
+ lotor_coruscant_events.20.desc: "Surveying the destruction has led us to the conclusion that the best way to avoid another major catastrophe like this again is to terraform the planet. If we transformed the surface of the planet into a cityscape, it should allow us to control geological processes beneath the surface. However, this process is a lengthy one undertaking such an endeavor will radically change the planet forever.\n§HThis Unlocks a Special Decision on Coruscant!.§!"
+ lotor_coruscant_events.20.a: "We Must Do It."
+
+ lotor_coruscant_events.30.name: "The First City Planet!"
+ lotor_coruscant_events.30.desc: "Success! After laboring for so long, the surface of the planet is transformed. §YCoruscant§! is covered from pole to pole with our skyscrapers and spires. The interior of the planet has transformed as well, making several new layers."
+ lotor_coruscant_events.30.a: "The Jewel of the Core shines once more."
+
+ lotor_coruscant_events.40.name: "The Story about Coruscant"
+ lotor_coruscant_events.40.desc: "Having been considered to be the origins of Humanity, §YCoruscant§! has always been considered an important fixture of galactic history. Now, that legacy will be continued for millennia to come with the completion of the Ecumenopolis and the recent development of the §YGalactic Republic§! roots being traced back here."
+ lotor_coruscant_events.40.a: "A Legacy Secured."
+
+ pm_earth_quake: "Destroyed Infrastructure"
+ pm_earth_quake_desc: "A massive influx of seismic activity has wreaked havoc on major industrial sectors on Coruscant. While our structures have all been built to code for such events, this has only mitigated the worst of the damage. Most structures still stand with varying amounts of damage and residential areas were generally unaffected.  Many workplaces, be them civic or industrial, have been damaged beyond functional usage for the time being. Until repairs are made we can expect lessened production and a hit to the happiness of our populace as a result."

@@ -1,0 +1,516 @@
+﻿l_russian:
+
+# Sith Empire Rebuilding
+ tradition_sith_reformation: "Rebuilding"
+ tradition_sith_reformation_desc: "The Sith Empire will rise once more!"
+
+ tr_sith_reformation_adopt: "Rebuilding an Empire"
+ tr_sith_reformation_adopt_tooltip: "§HStarts Eventchain:§! Dromund Kaas Pacification"
+ tr_sith_reformation_finish: "Envoys of the Empire"
+
+ tr_sith_reformation_1: "New Imperial Army"
+ tr_sith_reformation_1_delayed: "Odile Vaiken's military reforms ensure that every non-Force user of proper age will serve in the Empire's military."
+ tr_sith_reformation_2: "Rebuild our Shipyards"
+ tr_sith_reformation_2_tooltip: "§HUnlocks Technology:§! $tech_lotor_sith_architecture$\n§HRemoves Modifier:§! $em_lotor_no_shipyards$"
+ tr_sith_reformation_2_delayed: "Our shipyards and navy need to be modernized. Soon our armada will return to the galaxy."
+ tr_sith_reformation_3: "A New Imperial Culture"
+ tr_sith_reformation_3_delayed: "Utilizing our non-Sith populace will help fill the ranks of our military."
+ tr_sith_reformation_4: "The Dark Council"
+ tr_sith_reformation_4_delayed: "The Dark Council are rulers to all of the Sith, only answering to the Emperor himself. They personally select the leaders of this new empire to ensure quality and loyalty."
+ tr_sith_reformation_5: "The Hidden Emperor"
+ tr_sith_reformation_5_delayed: "The Emperor plots the future of the Sith Empire in secret, setting in motion plans that will shape the Empire for centuries to come."
+
+
+# Imperial Intelligence - Sith Exclusive
+ tradition_sith_intelligence: "Imperial Agents"
+ tradition_sith_intelligence_desc: "Imperial Intelligence provide a vital role in the information gathering initiatives and internal security of the Sith Empire."
+
+ tr_sith_intelligence_adopt: "Services of Imperial Intelligence"
+ tr_sith_intelligence_finish: "Take them Away."
+
+ tr_sith_intelligence_1: "Skilled Slicers"
+ tr_sith_intelligence_1_delayed: "Sometimes all that is needed is a slicer and a computer spike."
+ tr_sith_intelligence_2: "Imperial Counter Inteligence"
+ tr_sith_intelligence_2_delayed: "Enemies of the Empire will try their hardest to disrupt our activities and prevent us from gaining power. Thankfully our agents put an end to this before it can happen."
+ tr_sith_intelligence_3: "Sphere of Influence"
+ tr_sith_intelligence_3_delayed: "The machinations of our Emperor stretch far and wide. Even those brought into our Empire are still in the Emperor's grasp." 
+ tr_sith_intelligence_4: "Destabilize"
+ tr_sith_intelligence_4_delayed: "Embedded in multiple governments and militaries across the galaxy, our agents manipulate the weak-minded abd weak-willed leadership of lesser empires."
+ tr_sith_intelligence_5: "Long-term Infiltration"
+ tr_sith_intelligence_5_delayed: "No one ever expects to be betrayed by those closest to them."
+
+# Sith Order
+ tradition_sith_order: "A New Sith Order"
+ tradition_sith_order_desc: "The dark side of the Force is a pathway to many abilities some consider to be unnatural."
+
+ tr_sith_order_adopt: "Sith Doctrine"
+ tr_sith_order_adopt_desc: "§HAllows the Research of:§! $tech_lotor_sith_temple_1$"
+ 
+ tr_sith_order_1: "Lessons of the Genocide"
+ tr_sith_order_1_delayed: "The Jedi and Republic devastated our homeworld and nearly drove our people to extinction.\n§RPeace is a lie. There is only Passion.§!"
+
+ tr_sith_order_2: "A New Generation of Sith Acolytes"
+ tr_sith_order_2_desc: "§HUnlocks Feature:§! Force Sensitivity Leader Trait."
+ tr_sith_order_2_delayed: "Rebuilding the Sith Order is vital for our survival.\n§RThrough Passion I gain Strength.§!"
+
+ tr_sith_order_3: "Sith Warriors"
+ tr_sith_order_3_desc: "Max Rivalries §G+1§!\n§HUnlocks Army:§! Sith Warrior Armies"
+ tr_sith_order_3_delayed: "Our most adept warriors will cut through those who oppose us.\n§RThrough Strength I gain Power.§!"
+
+ tr_sith_order_4: "Sith Alchemy"
+ tr_sith_order_4_delayed: "Mastery of dark side magick will grant us even greater power.\n§RThrough Power I gain Victory.§!"
+
+ tr_sith_order_5: "Sith Inquisitors"
+ tr_sith_order_5_desc: "Espionage Operation Speed §G+25%§!\n§HUnlocks Army:§! Sith Inquisitor Armies"
+ tr_sith_order_5_delayed: "Victory will come only when the enemy is completely crushed and yields to our power.\n§RThrough victory, my chains are broken.§!"
+
+ tr_sith_order_finish: "The Force shall free me."
+
+# Jedi Order
+ tradition_jedi_order: "The Jedi Order"
+ tradition_jedi_order_desc: "The Force is what gives a Jedi their power. It surrounds us and penetrates us. It binds the galaxy together."
+
+ tr_jedi_order_adopt: "Jedi Teachings"
+ tr_jedi_order_adopt_desc: "§HAllows the Research of:§! $tech_lotor_jedi_temple_1$"
+
+ tr_jedi_order_1: "Lessons of the Ancestors"
+ tr_jedi_order_1_delayed: "Ancient teachings enlighten us to alternatives to fighting.\n§BThere is no emotion, there is peace.§!"
+
+ tr_jedi_order_2: "A New Generation of Jedi"
+ tr_jedi_order_2_desc: "§HUnlocks Feature:§! Force Sensitivity Leader Trait."
+ tr_jedi_order_2_delayed: "Teaching the ways of the Force to the youngest members of our society will draw them closer to the Light.\n§BThere is no ignorance, there is knowledge.§!"
+
+ tr_jedi_order_3: "Jedi Knights"
+ tr_jedi_order_3_desc: "Planetary Crime §G-15%§!\n§HUnlocks Army:§! Jedi Knight Armies"
+ tr_jedi_order_3_delayed: "The Jedi Knights serve as the guardians of peace and justice.\n§BThere is no passion, there is serenity.§!"
+
+ tr_jedi_order_4: "Jedi Scholars"
+ tr_jedi_order_4_delayed: "By studying the sacred Jedi texts, we can learn how to bring peace in a chaotic galaxy.\n§BThere is no chaos, there is harmony.§!"
+
+ tr_jedi_order_5: "Jedi Consulars"
+ tr_jedi_order_5_desc: "Espionage Operation Speed §G+0.25%§!\n§HUnlocks Army:§! Jedi Consulars Armies"
+ tr_jedi_order_5_delayed: "Consulars sought diplomatic measures in spreading peace and harmony.\n§BThere is no death, there is the Force.§!"
+
+ tr_jedi_order_finish: "Towards the Light"
+
+# Galactic Republic Tradition
+ tradition_galactic_republic: "Galactic Republic"
+ tradition_galactic_republic_desc: "The Galactic Republic represents an attempt to bring together many worlds and species to help resolve crises and maintain a peaceful, prosperous galaxy."
+
+ tr_galactic_republic_adopt: "A United Cause"
+ tr_galactic_republic_finish: "We are all the Republic"
+
+ tr_galactic_republic_1: "Republic Senators"
+ tr_galactic_republic_1_desc: "§YAvailable Envoys§! are increased by §G+1§!.\n§G+1§! £job_republic_senator£ §Y$job_republic_senator$§! Job on the Capital."
+ tr_galactic_republic_1_delayed: "Senators represented member worlds of the Galactic Republic. They mostly strove to see better conditions for the people they represent."
+ tr_galactic_republic_2: "Diplomatic Negotiations"
+ tr_galactic_republic_2_delayed: "When two groups reach an impasse, negotiations are required to avoid further conflict."
+ tr_galactic_republic_3: "Office of the Supreme Chancellor"
+ tr_galactic_republic_3_delayed: "The Office of the Supreme Chancellor has two meanings - the position of the Supreme Chancellor itself and the combined group of aides and government staff that are directly beneath the Supreme Chancellor." # Which one do you want me to use?
+ tr_galactic_republic_4: "Admiralty" #redo into Republic Military crew thingy
+ tr_galactic_republic_4_desc: "§HUnlocks Component:§! Republic Crew Type\n§Y$MOD_LEADER_ADMIRAL_SKILL_LEVELS$§! is increased by §Y1§!."
+ tr_galactic_republic_4_delayed: "The main command organization of the naval military branch of the Galactic Republic. In peace times, the Republic Navy had a void of small crafts with the ability to call more into service once required. Furthermore numerous leader exchange programs inside the Galactic Republic allow for experienced Captains and Admirals."
+ tr_galactic_republic_5: "All Stars Burn As One"
+ tr_galactic_republic_5_delayed: "Our part in the preservation of the Galactic Republic does not go unnoticed. We are all the Republic."
+
+# Mandalorian Culture
+ tradition_mandalorian_culture: "Mando'ade"
+ tradition_mandalorian_culture_desc: "We are the children of Mandalore."
+
+ tr_mandalorian_culture_adopt: "Armour Culture"
+ tr_mandalorian_culture_finish: "Military Might of Mandalore"
+ tr_mandalorian_culture_finish_tooltip: "§HUnlocks Naval Recruitment Policy:§! $naval_recruitment_mando_volunteer$"
+
+ tr_mandalorian_culture_1: "History of the Taung"
+ tr_mandalorian_culture_1_delayed: "The legacy of our people begins with the Taung of Coruscant. We owe them our existence."
+ tr_mandalorian_culture_2: "Mandalorian Identity"
+ tr_mandalorian_culture_2_desc: "§HUnlocks Building:§! Mandalorian Recruitment Camp"
+ tr_mandalorian_culture_2_delayed: "Mandalorians are not defined by circumstances of birth but by adherence to the Resol'nare."
+ tr_mandalorian_culture_3: "Mand'alor"
+ tr_mandalorian_culture_3_delayed: "Mandalore is the name we give to our leader. Becoming Mandalore is the greatest honor any Mandalorian could aspire to."
+ tr_mandalorian_culture_4: "The Legend of the Mythosaur"
+ tr_mandalorian_culture_4_delayed: "A long extinct species slain by our Taung ancestors and Mandalore the First. Their legacy is a part of our own and lives on as a symbol of our people."
+ tr_mandalorian_culture_5: "Underground Contacts"
+ tr_mandalorian_culture_5_delayed: "Maintaining connections to unsavory parts of the galaxy can provide more than just credits."
+
+# Mandalorian Supremacy
+ tradition_mandalorian_supremacy: "Overwhelm"
+ tradition_mandalorian_supremacy_desc: "The strength of our warriors in combat is unparalleled."
+ tr_mandalorian_supremacy_adopt: "Warrior Culture"
+ tr_mandalorian_supremacy_finish: "The Galaxy will bend the knee, or it will burn."
+
+ tr_mandalorian_supremacy_1: "Mandalorian Warfleet"
+ tr_mandalorian_supremacy_1_delayed: "Mandalorian warships instill fear in our enemies - a reminder that their doom is at hand."
+ tr_mandalorian_supremacy_2: "MandalMotors"
+ tr_mandalorian_supremacy_2_delayed: "The most prominent shipwright and manufacturer within Mandalorian space provides our forces with just what they need to ensure victory."
+ tr_mandalorian_supremacy_2_desc: "§HUnlocks Technology:§! Mandalorian Architecture"
+ tr_mandalorian_supremacy_3: "Leadership"
+ tr_mandalorian_supremacy_3_delayed: "Our training regimen produces brilliant military leaders that are able to best the most battle-hardened admirals."
+ tr_mandalorian_supremacy_4: "Unleash Armageddon"
+ tr_mandalorian_supremacy_4_delayed: "We will inflict harsh punishments on those who refuse to fall before us. The Mando'ade are your clan now."
+ tr_mandalorian_supremacy_5: "Improved Warheads"
+ tr_mandalorian_supremacy_5_delayed: "Our enemies are unprepared to face an unstoppable barrage of nuclear warheads."
+ tr_mandalorian_supremacy_5_desc: "§HUnlocks Technology:§! Atomic Missiles"
+
+# Mandalorian Crusade
+ tradition_mandalorian_crusade: "The New Crusade"
+ tradition_mandalorian_crusade_desc: "With a new Mand'alor at our front, we can finally restore our old glory as our warriors traverse the stars."
+
+ opinion_received_republic_aid: "Received Republic Aid"
+ opinion_mando_crusade_escalation_i: "Mandalorian Atrocities"
+ opinion_mando_crusade_escalation_ii: "Mandalorian Atrocities"
+ opinion_mando_crusade_escalation_iii: "Mandalorian Atrocities"
+ opinion_mando_crusade_escalation: "Targets of the Crusade"
+
+ tr_mandalorian_crusade_adopt: "Glorious Purpose"
+ tr_mandalorian_crusade_adopt_desc: "§HUnlocks Feature:§! Mandalorian Crusade Orders"
+ tr_mandalorian_crusade_finish: "Escalation"
+ tr_mandalorian_crusade_finish_desc: "Grants £pop£ §YPop§! §G+10%§! §YHappiness§! while at War"
+ mod_mandalorian_crusade_tradition_adopt: "Fighting the Crusade"
+ lotor_mando_at_war: "Mandalorians at War"
+
+ tr_mandalorian_crusade_1: "New Recruitment Policy"
+ tr_mandalorian_crusade_1_desc: "£capital_building£ §HCapital Buildings§! provide 1 £mando_apprentice£ §HMandalorian Recruit§! Job.\nRecruiting £pop£ §YPops§! provides £unity£ Unity."
+ tr_mandalorian_crusade_1_delayed: "Our recruits come from across the many different clans and species in our empire. They are prepared and willing to fight in service of our Mand'alor."
+ tr_mandalorian_crusade_2: "Neo-Crusaders"
+ tr_mandalorian_crusade_2_delayed: "The legacy of the Taung will be preserved by a new generation of warriors."
+ tr_mandalorian_crusade_3: "Military Camps"
+ tr_mandalorian_crusade_3_delayed: "Outposts established on the frontlines ensure our warriors are supplied and reinforced in our campaign."
+ tr_mandalorian_crusade_4: "Forward, for Mandalore!"
+ tr_mandalorian_crusade_4_delayed: "Our rally masters and field marshalls continue our push towards victory while scientists working under Demagol toil away on scientific advancements."
+ tr_mandalorian_crusade_5: "A New Order"
+ tr_mandalorian_crusade_5_delayed: "The presence of our Neo-Crusaders will instill fear among those who would rise against us."
+
+# Glorious Hutt Empire
+ tradition_glorious_hutt: "Glorious Empire"
+ tradition_glorious_hutt_desc: "The might and the majesty of the Hutt Empire will be known throughout the galaxy."
+
+ tr_glorious_hutt_adopt: "Menagerie of Terror"
+ tr_glorious_hutt_adopt_tooltip: "§HUnlocks Decision:§! $decision_establish_menagerie$"
+ decision_establish_menagerie: "Establish Menagerie"
+ decision_establish_menagerie_desc: "A menagerie is used by the Hutts so that different exotic animals can eat their enemies." 
+ d_menagerie_deposits: "Menagerie"
+ d_menagerie_deposits_desc: "This menagerie is used to dispose of the Hutt's enemies."
+ tr_glorious_hutt_finish: "Our Glorious Empire"
+
+ tr_glorious_hutt_1: "Benevolent Overlords"
+ tr_glorious_hutt_1_delayed: "We are truly kind to those we bring into our empire. All of our subjects know their place at the bottom."
+ tr_glorious_hutt_2: "Hutt Law Enforcement"
+ tr_glorious_hutt_2_tooltip: "§HUnlocks Edict:§! $edict_enhanced_surveillance$\n£job_enforcer£ §Y$job_enforcer_plural$§! also produce §Y1§! £unity£ Unity"
+ tr_glorious_hutt_2_delayed: "The Hutts use a variety of different species as enforcers to maintain control of slave populations on their planets."
+
+ tr_glorious_hutt_3: "Workplace Motivators"
+ tr_glorious_hutt_3_tooltip: "§HUnlocks Edict:§! $edict_extended_shifts$"
+ tr_glorious_hutt_3_delayed: "There are many ways to motivate those who perform menial labor to work harder. Some based on incentives and some... not."
+ tr_glorious_hutt_4: "Supreme Dominion"
+ tr_glorious_hutt_4_delayed: "Those who wish to challenge the strength of the Hutt Empire will meet the same end as Xim the Despot and his pitiful empire - total obliteration."
+ tr_glorious_hutt_5: "Hutt Grand Council"
+ tr_glorious_hutt_5_delayed: " The ruling body of the Hutt Clan, led by a collection of powerful Hutt  clan chiefs, and are located on the Hutt home world of Nal Hutta." 
+
+# Legacy of Queen Rana (Duro)
+ tradition_legacy_of_rana: "Legacy of Rana"
+ tradition_legacy_of_rana_desc: "Queen Rana Mas Trehalt is a figure that all of the Commonality owes their achievements to.\nHer legacy lives on with us."
+
+ tr_legacy_of_rana_adopt: "Legacy of the Queen"
+ tr_legacy_of_rana_finish: "Defensive Bulwark"
+
+ tr_legacy_of_rana_1: "No Surrender"
+ tr_legacy_of_rana_1_delayed: "No matter the odds, the spirit of the Duro is unbreakable!" #rewrite pls
+ tr_legacy_of_rana_2: "Unyielding Resistance"
+ tr_legacy_of_rana_2_delayed: "Our engineers and scientist have ensured our orbital cities remain protected in times of crisis, protecting our people from would-be invaders."
+ tr_legacy_of_rana_3: "Master Navigators"
+ tr_legacy_of_rana_3_desc: "§HUnlocks Admiral Trait:§! $leader_trait_lotor_duro_astrologian$"
+ tr_legacy_of_rana_3_delayed: "With our new understanding of hyperdrive technology, we helped to chart new hyperlanes and discover new regions of the galaxy."
+ tr_legacy_of_rana_4: "Reverse Engineering Experts"
+ tr_legacy_of_rana_4_delayed: "Under Queen Rana, we mastered hyperdrive technology, unlocking the secrets of Rakatan engineering and space travel."
+ tr_legacy_of_rana_4_desc: "While in a defensive war with another empire, §Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§! is increased by §G+33%§!. In addition, the §Y$MOD_SHIP_FIRE_RATE_MULT$§! is increased by §G+15%§! for ships within your borders."
+ tr_legacy_of_rana_5: "Orbital Habitat Mastery"
+ tr_legacy_of_rana_5_delayed: "Space has always been fascinating to our people. Now we are ready to take the next step towards it."
+
+# Alderaanian Houses
+ tradition_alderaan_houses: "Noble Houses"
+ tradition_alderaan_houses_desc: "Descendants of the first human colonists on Alderaan, members of house Alde, Organa, Panteer, Thul, and Ulgo represent the founding houses."
+
+ tr_alderaan_houses_adopt: "Support from the Founding Families"
+ tr_alderaan_houses_finish: "Diplomatic Mastery"
+
+ tr_alderaan_houses_1: "House Ulgo"
+ tr_alderaan_houses_1_delayed: "Abandoning the excess of the other Houses, House Ulgo embraces the ideals of discipline, duty, and tradition as well as cooperation with fellow minded empires."
+ tr_alderaan_houses_2: "House Thul"
+ tr_alderaan_houses_2_delayed: "An ancient house that seeks military power for alderaan through any means and at odds with the members of House Organa."
+ tr_alderaan_houses_3: "House Panteer"
+ tr_alderaan_houses_3_tooltip: "Embassies: §G+3§! £unity£ §YUnity§!"
+ tr_alderaan_houses_3_delayed: "Not only is House Panteer known for their patronage of the arts, they are responsible for many of the kings and queens that have ascended the throne."
+ tr_alderaan_houses_4: "House Alde"
+ tr_alderaan_houses_4_delayed: "One of the oldest of the Great Houses with a lineage that traces back to the planet's original human colony. House Alde is renown through the galaxy for their contacts and relations."
+ tr_alderaan_houses_5: "House Organa"
+ tr_alderaan_houses_5_delayed: "House Organa is known for their diplomatic skills, skills that have helped them rule over Alderaan the longest."
+
+# Criminal Industries (Branch Office)
+ tradition_criminal_industries: "Criminal Industries"
+ tradition_criminal_industries_desc: "The facade of legitimate business."
+
+ tr_criminal_industries_adopt: "Criminal Industries"
+ tr_criminal_industries_finish: "The Underworld are the real powers of this galaxy."
+
+ tr_criminal_industries_1: "Long Term Investments"
+ tr_criminal_industries_1_delayed: "Time and money is key to our success and the downfall of our rivals."
+ tr_criminal_industries_2: "Illicit Acquisitions"
+ tr_criminal_industries_2_delayed: "There are no rules of acquisition among scum and villiany."
+ tr_criminal_industries_3: "Criminal Operations"
+ tr_criminal_industries_3_delayed: "The funding and support of criminal operations will improve our bottom line."
+ tr_criminal_industries_3_tooltip: "Increases Crime of your Branch Office Buildings by §Y50%§!"
+ tr_criminal_industries_4: "Shadow Games"
+ tr_criminal_industries_4_delayed: "Playing both sides is not as easy as it looks."
+ tr_criminal_industries_5: "Organized Underworld"
+ tr_criminal_industries_5_delayed: "The underworld is an ecosystem that has a very fragile balance. Organization and cooperation between families and bosses are key."
+ tr_criminal_industries_5_exchange: "The Exchange Syndicate"
+ tr_criminal_industries_5_pyke: "The Pyke Families"
+
+
+# Sentient Property (Slavery)
+ tradition_sentient_property: "Sentient Property"
+ tradition_sentient_property_desc: "The galaxy is full of lesser species that exist only to serve. They just don't realize it yet."
+ tr_sentient_property_adopt: "Sentient Property"
+ tr_sentient_property_1: "Indentured Beings"
+ tr_sentient_property_1_delayed: "Carefully worded contracts can ensure our new assets are bound to their word as long as we see fit."
+ tr_sentient_property_2: "Specialized Slaving Guilds"
+ tr_sentient_property_2_delayed: "Specialization is key for maintaining a functional slaving enterprise."
+ tr_sentient_property_3: "Harsh Rules"
+ tr_sentient_property_3_delayed: "Our slaves must fall in line or else face the consequences. After all, slaves can be easily replaced."
+ tr_sentient_property_4: "Slavery driven Infrastructure"
+ tr_sentient_property_4_delayed: "Lesser species have their role to play in our empire."
+ tr_sentient_property_4.tooltip: "§HImproves $building_slave_processing$:§! §G+5§! £stability£ §Y$MOD_PLANET_STABILITY_ADD$§!"
+ tr_sentient_property_5: "Galaxy-wide Slave Trade"
+ tr_sentient_property_5_delayed: "From the Deep Core to the fringes of Wild Space, the galaxy is ripe for harvesting."
+ tr_sentient_property_5.tooltip: "§HAcquire:§! §G3-5§! £pop_cat_slave£ §H$pop_cat_slave_plural$§! of an existing Species.\n\n§HHutt Empire:§! $tr_sentient_property_5.tooltip_hutt$\n\n§HHsskor Dominion:§! $tr_sentient_property_5.tooltip_trandoshan$\n\n§HZygerrian Slavers:§! $tr_sentient_property_5.tooltip_zygerrian$"
+ tr_sentient_property_5.tooltip_trandoshan: "Acquire §G3-5§! £pop_cat_slave£ §YWookie Slaves§!\nand $MOD_BIOLOGICAL_POP_HAPPINESS$ §G+5%§!"
+ tr_sentient_property_5.tooltip_hutt: "Acquire §G3-5§! £pop_cat_slave£ §YTwilek Slaves§!\nand $MOD_POP_AMENITIES_USAGE_MULT$ §G-10%§!"
+ tr_sentient_property_5.tooltip_zygerrian: "Acquire §G3-5§! £pop_cat_slave£ §YTogruta Slaves§!\nand $mod_job_slave_overseer_per_pop$"
+ tr_sentient_property_5_trandoshan: "Slave Hunting Culture"
+ tr_sentient_property_5_hutt: "Pleasure Slaves"
+ tr_sentient_property_5_zygerrian: "The Zygerrian Slave Empire"
+ tr_sentient_property_finish: "The weak shall service the strong."
+ tr_sentient_property_finish.tooltip: "§HUnlocks Edicts:§! $edict_lotor_sp_efficient_management$\n§HUnlocks Edicts:§! $edict_lotor_sp_slave_reinforcements$\n§HUnlocks Edicts:§! $edict_lotor_sp_illegal_testing$"
+ 
+ edict_lotor_sp_efficient_management: "Efficient Management"
+ edict_lotor_sp_efficient_management_desc: "Improved guidelines for our overseers ensure that slaves are used to the fullest extent." #buffs slave ouput, less slave hapiness
+ edict_lotor_sp_slave_reinforcements: "Slave Reinforcements"
+ edict_lotor_sp_slave_reinforcements_desc: "The expendable nature of slaves makes them ideal reinforcements." #buffs crew production, less slave hapiness
+ edict_lotor_sp_illegal_testing: "Illegal Testing"
+ edict_lotor_sp_illegal_testing_desc: "The abundance of slaves provides several new test subjects for our scientists and engineers." #buffs research production, less slave hapiness
+
+# Corellian Spirit
+ tradition_corellian_engineering: "Corellian Spirit"
+ tradition_corellian_engineering_desc: "Corellia is known for their shipyards and engineering feats that stand out among the Core Worlds."
+
+ tr_corellian_engineering_adopt: "services of the Corellian Engineering Corporation"
+ tr_corellian_engineering_finish: "Two Corellians together is a conspiracy. Three is a fight."
+
+ tr_corellian_engineering_1: "Hyperdrive Mastery"
+ tr_corellian_engineering_1_delayed: "By reverse engineering the Rakatan hyperdrive, Corellian engineers have mastered hyperspace travel."
+ tr_corellian_engineering_2: "Highly Technological Society"
+ tr_corellian_engineering_2_delayed: "Through collaboration between our most brilliant minds and our neighbors, our ships and technologies will be seen throughout the galaxy!"
+ tr_corellian_engineering_3: "Famous Engineers"
+ tr_corellian_engineering_3_delayed: "Not a day goes by that our shipyards get a request for new vessels, Corellian Enginners are well known through the enitre core worlds."
+ tr_corellian_engineering_4: "Military Contracts"
+ tr_corellian_engineering_4_delayed: "Our name and quality is known in every strata of society, even in the upper echelons of the military, many of our leaders had their first trials as military contrators."
+ tr_corellian_engineering_5: "Civilian Market"
+ tr_corellian_engineering_5_delayed: "Regular spacers know they are purchasing a quality ship when it comes from the Corellian Engineering Corporation!"
+
+# Coruscantii Pride
+ tradition_coruscantii_pride: "Coruscantii Pride"
+ tradition_coruscantii_pride_desc: "The Queen of the Core bows to no one."
+
+ tr_coruscantii_pride_adopt: "The Center of the Galaxy"
+ tr_coruscantii_pride_finish: "All Roads lead to Coruscant"
+
+ tr_coruscantii_pride_1: "Military Professionalism"
+ tr_coruscantii_pride_1_delayed: "Military academies help train prospective new leaders for the Republic military."
+ tr_coruscantii_pride_2: "Stalwart Defenders"
+ tr_coruscantii_pride_2_delayed: "A soldier from Coruscant will fight to their last breath. We will never surrender. For hope; for freedom; for the Republic!"
+ tr_coruscantii_pride_3: "The Galactic Core"
+ tr_coruscantii_pride_3_delayed: "The Core Worlds are the heart of the Republic, and the heart of civilization. While we may be different in many ways, we all share the same values" 
+ tr_coruscantii_pride_4: "Durasteel Infrastructure"
+ tr_coruscantii_pride_4_delayed: "Coruscanti shipwrights have set military standard across many worlds."
+ tr_coruscantii_pride_5: "Protective Bastions"
+ tr_coruscantii_pride_5_delayed: "As civilian travel grows across the hyperlanes, it falls upon the our fleet to safeguard them."
+
+# Ascendancy - Chiss Tree 
+ tradition_ascendancy: "Ascendant Might"
+ tradition_ascendancy_desc: "Far removed from the turmoil of lesser space, the Chiss Ascendancy thrives in the Chaos."
+
+ tr_ascendancy_adopt: "Highly Capacble Personell"
+ tr_ascendancy_adopt_tooltip: "§HUnlocks Naval Recruitment Policy:§! $naval_recruitment_chiss_elite$"
+ tr_ascendancy_finish: "Stability within the Chaos"
+
+ tr_ascendancy_1: "The Families" # Might redo the loc later - Bosmer
+ tr_ascendancy_1_delayed: "The Chiss families are organized in a hierarchy of political and social ranks."
+ tr_ascendancy_2: "Expansionary Defense Fleet" 
+ tr_ascendancy_2_delayed: "The Expansionary Defense Fleet's purpose is to protect Chiss interests and investigating threats to the Ascendancy from outside their borders."
+ tr_ascendancy_3: "Shrouded in Secrecy"
+ tr_ascendancy_3_delayed: "With an isolationist policy in place, the Ascendancy keeps its secrets safe."
+ tr_ascendancy_4: "Word of the Syndicure"
+ tr_ascendancy_4_delayed: "The Syndicure oversees all functions of the Ascendancy, acting as the supreme ruling body."
+ tr_ascendancy_5: "Sky-walkers"
+ tr_ascendancy_5_tooltip: "§HUnlocks Unique Crew:§! $tech_lotor_skywalker$"
+ tr_ascendancy_5_delayed: "Without a navigator, it is almost impossible to traverse the Chaos. Since Ancient times, the Ascendancy used the ozyly-esehembo to traverse its geography."
+
+ # Killik Hivemind Tree
+ tradition_killik_hivemind: "Killik Hivemind"
+ tradition_killik_hivemind_desc: "The hivemind connects us and guides us towards a better future."
+ tr_killik_hivemind_adopt: "will of the Hivemind"
+ tr_killik_hivemind_finish: "Queens of the Hive"
+ 
+ tr_killik_hivemind_1: "Loyalty to the Queen"
+ tr_killik_hivemind_1_delayed: "With every nest functioning as an individual, each drones still retains loyalty to the queen of each nest."
+ tr_killik_hivemind_2: "Tools of the Architects"
+ tr_killik_hivemind_2_delayed: "The our hives continue to labor peacefully, even after the departure of the Celestials."
+ tr_killik_hivemind_3: "Expansion of the Nest"
+ tr_killik_hivemind_3_delayed: "Each Killik can produce at least a thousand eggs that within two years time would produce nymphs ready to lay their own eggs."
+ tr_killik_hivemind_4: "Protectors of the Nest"
+ tr_killik_hivemind_4_delayed: "When attacked, our warrior drones will swarm the assailants in great numbers."
+ tr_killik_hivemind_5: "Connected Memories"
+ tr_killik_hivemind_5_delayed: "No matter the distance from Yoggoy or Oroboro, the Killiks retain a connection to their wayward hives."
+
+ # Banking Clan
+ tradition_banking_clan: "Investments"
+ tradition_banking_clan_desc: "The safety of our clients' investment is always our paramount concern."
+
+ tr_banking_clan_adopt: "The sound financial practices of the Banking Clan"
+ tr_banking_clan_finish: "The IGBC is pleased to back the Galactic Standard Credit."
+ tr_banking_clan_finish_tooltip: "§HUnlocks Building:§! $building_muun_bank$\n§HUnlocks Ability:§! Branch Office Aquisition."
+
+ tr_banking_clan_1: "Vaults of Scipio"
+ tr_banking_clan_1_delayed: "A place to house treasures beyond measure as well as host guests willing to make lucrative business deals."
+ tr_banking_clan_2: "Just Good Business"
+ tr_banking_clan_2_delayed: "Our people will know the values of making the appropriate deals and signing the right treaties for profits."
+ tr_banking_clan_3: "Collection and Security Division"
+ tr_banking_clan_3_delayed: "Such a vast amount of wealth attracts attention from a distasteful crowd. Every effort must be made to protect our assets."
+ tr_banking_clan_4: "Employee Benefits"
+ tr_banking_clan_4_delayed: "The best employee is a happy one. Giving them meager benefits will keep them in line while keeping profits stable"
+ tr_banking_clan_5: "Galactic Credit Standard"
+ tr_banking_clan_5_delayed: "Creating a galactic standard for the value of credits will ensure no one can question our wealth or escape their true debit."
+
+ # Czerka Corp
+ tradition_czerka_corp: "Business Ventures"
+ tradition_czerka_corp_desc: "Centuries of service-a heritage to be proud of. Now accepting lifetime-employment applications."
+ tr_czerka_corp_adopt: "Responsibilities of maintaining an amoral megacorporation"
+ tr_czerka_corp_finish: "Spreading Business Intrests"
+
+ tr_czerka_corp_1: "Czerka Arms"
+ tr_czerka_corp_1_desc: "§HUnlocks Building:§! $building_czerka_weapon_factory$"
+ tr_czerka_corp_1_delayed: "With war always on the minds of galactic leaders, someone is needed to produce material required to wage it."
+ tr_czerka_corp_1_tooltip: "§HUnlocks Building:§! $building_czerka_weapon_factory$"
+ tr_czerka_corp_2: "Czerka Mining and Industrial"
+ tr_czerka_corp_2_delayed: "Coruscant wasn't built in a day so they say. Gaining raw minerals and producing other valued goods for the galaxy will make us an invaluable asset to the galaxy."
+ tr_czerka_corp_3: "Secret Weapons Division"
+ tr_czerka_corp_3_desc: "§HUnlocks Technology:§! $tech_lotor_droid_brain_3$."
+ tr_czerka_corp_3_delayed: "Developing deadlier equipment for the engines of war will bring further credits to our accounts."
+ tr_czerka_corp_4: "Exclusivity"
+ tr_czerka_corp_4_delayed: "Selling our equipment exclusively to one party or another can ensure our reputation is protected."
+ tr_czerka_corp_5: "Regional Operations"
+ tr_czerka_corp_5_delayed: "Establishing facilities on foreign worlds will cut out any middlemen getting in the way of our profit margins."
+
+# Legacy of Xim
+ tradition_tion_legacy: "Legacy of Xim"
+ tradition_tion_legacy_desc: "Xim the Despot was one of the most notorious pre-Galactic Republic tyrants. We must continue his legacy for the benefit of Tion."
+
+ tr_tion_legacy_adopt: "Territorial Rivalries"
+ tr_tion_legacy_finish: "Throne Worlds of the Tion Hegemony"
+ tr_tion_legacy_finish_tooltip: "§HUnlocks Decision:§! $decision_declare_throne_world$"
+ decision_declare_throne_world: "Declare Throne World"
+ decision_declare_throne_world_desc: "This planet is a beacon of light for the Tion Hegemony, an exemplar of the power and majesty of our great empire. As such, it is deserving of becoming one of the great Throne Worlds, honoring the memory of our progenitor, Emperor Xim. This planet and its people shall be the ideal to strive for in our glorious empire. May its people live in prosperity and happiness."
+ pm_lotor_tion_throne_world: "Tionese Throne World"
+ pm_lotor_tion_throne_world_desc: "The title of Throne World is reserved for the most glorious of planets in the Tion Hegemony whose people are paragons of our society. A tribute to our late Emperor Xim, Throne Worlds carry on his memory through their perseverance and continued prosperity. We dream of a day where Throne Worlds comprise the entirety of our empire, bringing glory to Xim's name throughout the stars."
+
+ tr_tion_legacy_1: "Guardian Corps"
+ tr_tion_legacy_1_desc: "Allows the production of ancient §YGuardian Corps Droids§!."
+ tr_tion_legacy_1_delayed: "Enhancing our ground troops will ensure our slaves stay in line."
+ tr_tion_legacy_2: "Former High End Warfleet"
+ tr_tion_legacy_2_delayed: "Restoring fleets that used to belong to Xim will allow us to expand our influence."
+ tr_tion_legacy_3: "Noble Houses of Tion"
+ tr_tion_legacy_3_delayed: "Establishing opulent estates for our noble houses will show the slaves their place."
+ tr_tion_legacy_4: "GenoHaradan"
+ tr_tion_legacy_4_delayed: "Trained assassins to target our most dangerous enemies."
+ tr_tion_legacy_5: "Proud Heritage"
+ tr_tion_legacy_5_delayed: "The nobles of Tion will continue Xim's legacy by teaching the lower classes of his greatness."
+
+ # Arkanian Meritocracy
+ tradition_arkanian_adasca_corp: "Meritocracy"
+ tradition_arkanian_adasca_corp_desc: "The Arkanian Dominion will prosper under the patronage of several Corporate Meritocracies."
+
+ tr_arkanian_adasca_corp_adopt: "Patronage of the Corporate Meritocracies"
+ tr_arkanian_adasca_corp_adopt_desc: "§HUnlocks Researcher Trait:§! $leader_trait_arcanian_genetics$"
+ leader_trait_arcanian_genetics: "Arkanian Geneticist"
+ leader_trait_arcanian_genetics_desc: "This scientist has worked at one of Arkania's many genetics research institutions, or even worked for the renowned Adascacorp itself. Whatever the case, this scientist has gained an apt understanding of biology."
+ tr_arkanian_adasca_corp_finish: "Hightech Research Facilities"
+ tr_arkanian_adasca_corp_finish_desc: "§HUnlocks Deposit:§! Adascorp Research Facilities"
+ lotor_arkania_events.10.name: "The Adascorp Research Facilities"
+ lotor_arkania_events.10.desc: "A glorious day for Arkania! For years Arkanian scientists have been renowned in their expertise of genetics and biology across the galaxy. Now, the great House of Adasca, the foremost family on Arkania, has used their vast wealth and influence to hire the top scientists of the planet. Using this newfound talent, the Lord of Adasca has today founded a new company, the Adasca BioMechanical Corporation of Arkania, or Adascorp for short. The company is directed towards bioengineering and medical research. The first factory is already planned, with production to open soon of adrenals, stimulants, and medkits. The first research facility is also planned within the same complex to be used for the study of genetics, medicine, and other fields of biology. The expertise of Adascorp is sure to give Arkania a cutting-edge in bioengineering technology for generations to come!"
+ lotor_arkania_events.10.a: "This will bring prosperity to Arkania!"
+ d_adasca_corp_laboratories: "Adascorp Research Facilities"
+ d_adasca_corp_laboratories_desc: "The Adasca BioMechanical Corporation of Arkania, known simply as Adascorp, is a vast medical corporation from Arkania. Founded and led by the prominent House of Adasca, Adascorp brings incredible profit to the planet and has spurred much trade and prosperity.  It regularly manufactures adrenals, stimulants, and medkits, and has achieved galactic renown for its bioengineering and medical research advances."
+
+ tr_arkanian_adasca_corp_1: "Adascorp"
+ tr_arkanian_adasca_corp_1_delayed: "The Adasca BioMechanical Corporation, or Adascorp, is the true power behind the Arkanian Dominion, led by Lord Arkoh Adasca."
+ tr_arkanian_adasca_corp_2: "The Adascorp Surveying Teams"
+ tr_arkanian_adasca_corp_2_delayed: "Well-trained and diligent expeditionary teams are dispatched by Adascorp to survey the galaxy."
+ tr_arkanian_adasca_corp_3: "Adascorp Science Division"
+ tr_arkanian_adasca_corp_3_delayed: "Adascorp scientists are renowned for their diligence and expertise in biology, yet their skill in other fields are commendable as well."
+ tr_arkanian_adasca_corp_4: "Arkanian Microtechnologies"
+ tr_arkanian_adasca_corp_4_delayed: "Publicly, Arkanian Microtechnologies is the premier designer of medical supplies and technology. Privately, they use their medical services to spearhead genetic engineering experimentation, legal or otherwise."
+ tr_arkanian_adasca_corp_5: "Czerka Corporation Bailout"
+ tr_arkanian_adasca_corp_5_delayed: "After a failed launch, Adascorp has offered to purchase the entire line of HK-24 assassin droids. Adascorp needs them for troops, as well as to use as a solution to the Offshoot Question"
+ opinion_czerka_business_partner: "Business Partner"
+
+# Onderon Royalty
+ tradition_onderon_royal: "Royalty"
+ tradition_onderon_royal_desc: "Free from Naddist influence, the Royal Family of Onderon will guide us towards a prosperous future."
+
+ tr_onderon_royal_adopt: "traditions of the Onderonian royal family"
+ tr_onderon_royal_finish: "Onderon Royalty"
+
+ tr_onderon_royal_1: "Historic Scarsity"
+ tr_onderon_royal_1_delayed: "Despite the verdant jungles of Onderon and Dxun, multiple wars put a strain on our natural resources."
+ tr_onderon_royal_2: "Walls of Iziz"
+ tr_onderon_royal_2_delayed: "The towering walls protect the citizens of Iziz from the monstrosities that lie beyond it."
+ tr_onderon_royal_3: "The Royal Family"
+ tr_onderon_royal_3_delayed: "The Royal Family brings the promise of stability and peace to a war-torn Onderon."
+ tr_onderon_royal_4: "The House of Kira"
+ tr_onderon_royal_4_delayed: "The marriage of Oron Kira to Princess Kira unified the people of Iziz and the Beast Riders from beyond the walls."
+ tr_onderon_royal_5: "Veterans of the Sith War"
+ tr_onderon_royal_5_delayed: "Our military has no shortage of cunning admirals and generals who have bested Beast Riders, Naddists, and Mandalorians alike in combat."
+
+#########################################
+#########################################
+
+ # Onderon - Naddist/Sith/Dark Side Cult; original locs by Legate#6653 from the community server
+ # tradition_onderon_naddist: "Naddist Legacy"
+  #tradition_onderon_naddist_desc: "The legacy of Freedon Nadd continues as Onderon embraces the power of the dark side once more."
+  #tr_onderon_naddist_adopt: "and embrace the power of the dark side once more"
+  #tr_onderon_naddist_adopt_effect: "Effect"
+  #tr_onderon_naddist_adopt_desc: "Effect"
+
+  #tr_onderon_naddist_1: "Sith Cult"
+  #tr_onderon_naddist_1_desc: "Effect"
+  #tr_onderon_naddist_1_delayed: "Following the arrival of Freedon Nadd, our #culture was transformed into one steeped in Sith lore and magic."
+
+  #tr_onderon_naddist_2: "Wild Justice" 
+  #tr_onderon_naddist_2_desc: "Effect"
+  #tr_onderon_naddist_2_delayed: "Our punishment for dissidents shall fit their crimes. They will feed the jungles while our cities remain safe and secure."
+
+  #tr_onderon_naddist_3: "Ancient Relics"
+  #tr_onderon_naddist_3_desc: "Effect"
+  #tr_onderon_naddist_3_delayed: "Jewelry, armor, and weapons from the rule of Nadd and Ommin will adorn our finest warriors."
+
+  #tr_onderon_naddist_4: "Ancient Magic"
+  #tr_onderon_naddist_4_desc: "Effect"
+  #tr_onderon_naddist_4_delayed: "With power of the Sith, we can conjure powerful apparitions and enhance the efficiency of our forces. What enemy can stand against that kind of strength?"
+
+  #tr_onderon_naddist_5: "Dark Guidance"
+  #tr_onderon_naddist_5_desc: "§HUnlocks Feature:§! Sky-Walker Navigators"
+  #tr_onderon_naddist_5_delayed: "Our rulers have guidance and support from the spirit of the Dark Lord Freedon Nadd himself. The destiny of the Sith lies with us."
+
+  #tr_onderon_naddist_finish: "Effect"
+  #tr_onderon_naddist_finish_effect: "Effect"

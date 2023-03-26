@@ -1,0 +1,464 @@
+﻿l_russian:
+
+### Anomalies - Generic Planet
+
+ # Rakatan Power Core
+ lotor_odd_powercore: "Руины прошлого"
+ lotor_odd_powercore_category_desc: "Проводя обычную проверку системы §Н[Root.System.GetName]§!, наши сенсоры обнаружили руины архаичной космической станции, возможно, времен §НВеликой гиперпространственной войны§! Наш §Yученый§! предлагает возглавить выездную группу для дальнейшего исследования."
+ lotor_anomalies.1.name: "Странная энергетическая сигнатура"
+ lotor_anomalies.1.desc: "Исследуя внутренние помещения разрушенной станции, команда под руководством §Y[this.GetLeaderName]§! находит доказательства того, что эта установка связана с объектом на поверхности §Y[From.GetName]§! При ближайшем рассмотрении они обнаруживают на поверхности планеты под землей заброшенную геотермальную электростанцию, которая все еще работает после столетий запустения. Хотя она сильно повреждена и быстро приходит в упадок, §Y[this.GetLeaderName]§! удалось выкачать большую часть оставшихся энергетических запасов установки, оставив нам трофеи."
+ lotor_anomalies.1.a.tooltip: "Добавить §Y£energy£ +3 £physics£ +5§! §Y[From.GetName]§!"
+ lotor_anomalies.1.a: "Демонтировать станцию и изучить ее технологию."
+
+ # Static Shock Gas Giant
+ lotor_gas_giant_anomalies: "Исследование газового гиганта"
+ lotor_gas_giant_category_desc: "Один из газовых гигантов в §Hсистеме [Root.System.GetName]§! озадачил наших исследователей, испуская ряд странных звуков высокого тона на нескольких частотах связи, некоторые из которых почти похожи на призывы животных. Хотя многие члены исследовательской группы §Y[this.GetLeaderName]§! считают, что это смещение газовых полок и штормовые ветры в верхних слоях атмосферы планеты, они просят разрешения на дальнейшее исследование."
+ lotor_static_shock_projects: "Проект статический шок"
+ lotor_anomalies.10.name: "Статический шок"
+ lotor_anomalies.10.desc: "После нескольких недель исследований в попытке расшифровать природу статического сигнала большинство исследователей списали проект как неудачный. Однако один ученый упрямо продолжает утверждать, что видел газообразные образования в нижних слоях атмосферы во время исследований ближе к ядру планеты. §Y[this.GetLeaderName]§! совершает последний проход через ядро, чтобы обнаружить стаю массивных существ среди огромных облаков гиганта. Эти существа, похоже, питаются энергией, содержащейся в скоплении газов в облаках планеты, канализируя потенциальные ресурсы для добычи. Несмотря на этот потенциальный спад в добыче ресурсов, биологов восхищает форма навигации, используемая гигантскими газоглотателями, и они предполагают, что у них может быть связь с Силой, которую они используют для ориентации. Дальнейшие исследования могут дать дополнительные сведения."
+ lotor_anomalies.10.a: "Приступайте"
+ lotor_anomalies.11.name: "Статический шок"
+ lotor_anomalies.11.desc: "Свяжитесь с группой биологов."
+ lotor_anomalies.11.a: "Великолепно"
+ lotor_anomalies.12.name: "Статический шок"
+ lotor_anomalies.12.desc: "Изучение газоглотателей столкнулось с многочисленными досадными неудачами. Несмотря на свою послушность, звери демонстрировали однообразный менталитет в отношении потребления энергии, и экспедиция израсходовала значительные ресурсы, не получив ничего."
+ lotor_anomalies.12.a: "Прискорбно"
+
+ # Xim Storehouse
+ lotor_anomalies.20.name: "Хранилище Ксима"
+ lotor_anomalies.20.desc: "Когда наша исследовательская экспедиция под руководством §Y[this.GetLeaderName]§! раскопала руины на §Y[From.GetName]§!, было обнаружено множество артефактов с древним гербом Ксима Деспота, включая изрядное количество минералов, охраняемых давно бездействующими боевыми дроидами. Команда предполагает, что руины когда-то были одним из многочисленных хранилищ Ксима, которое, скорее всего, было давно разграблено в последующие века, но, похоже, некоторые ценные предметы все еще остались на месте."
+ lotor_anomalies.20.a: "О Ксиме лучше забыть. Сохраним то, что сможем."
+ lotor_anomalies.20.b: "Невероятная находка. Убедитесь, что она выставлена должным образом."
+ lotor_asteroid_anomalies: "Хранилище на астероиде"
+ lotor_asteroid_category_desc: "Останки небольшого пиратского убежища, похоже, вырезаны в близлежащем астероиде. Технология и состояние руин кажется архаичным, происходящими до Великой гиперпространственной войны. Наши ученые стремятся к дальнейшим исследованиям."
+
+ # The Force Nexus
+ lotor_anomalies.30.name: "Нексус Силы"
+ lotor_anomalies.30.desc: "Из луны §Y[From.GetName]§! исходят архаичные энергетические сигнатуры, что требует проведения исследований командой ученых. После посадки на планету и исследования местности наша команда обнаруживает то, что, по-видимому, является древним святилищем, посвященным в качестве места захоронения великому колдуну Силы из давно забытого Ордена, предшествующего всем известным записям. По мере продолжения археологических раскопок §Y[this.GetLeaderName]§! находит множество примечательных артефактов и, как ни странно, драгоценный Бескар. Перед тем как начать исследовать это место, один из членов команды указывает на зловещее послание, вырезанное на саркофаге колдуна, которое гласит: "Те, кто войдёт, должны отказаться от сокровищ внутри, или будут прокляты на тысячу лет". Поскольку активные раскопки экспедиции транслируются по голонету, среди более духовных слоев населения начинают распространяться суеверия."
+ lotor_anomalies.30.a: "Ба! Не пугайте нас своими колдовскими штучками."
+ lotor_anomalies.30.b: "Бескара достаточно."
+ lotor_anomalies.30.c: "Используйте чувствительность к Силе §M[this.GetLeaderName]§! для ведения переговоров с сущностью."
+ lotor_arch_being_anomaly: "Опасная могила"
+ lotor_arch_being_category_desc: "Пока наша научная команда исследует поверхность §Y[From.GetName]§!, она обнаруживает некую форму активности на ничем не примечательной луне этого мира. Наши ученые советуют провести дальнейшее расследование."
+ lotor_arch_being_grave_plundered: "Осквернённая могила"
+ lotor_arch_being_grave_plundered_desc: "wip"
+ # Toxic Discoveries
+ lotor_anomalies.40.name: "Токсичные находки"
+ lotor_anomalies.40.desc: "Через несколько часов после посадки на опасную поверхность §Y[From.GetName]§!, §Y[this.GetLeaderName]§! нашел то, что, похоже, является грузовой емкостью старого хаттского грузового корабля. Судя по следам углерода, судно, которому она принадлежала, было атаковано. Если открыть контейнер, окажется, что он содержит значительное количество хорошо сохранившихся продуктов питания."
+ lotor_anomalies.40.a: "Чудесно."
+ lotor_anomalies.40.b: "Нам не нужно грабить старые трупы, проанализировать образцы."
+ lotor_toxic_discoveries: "Токсичные находки"
+ lotor_toxic_discoveries_category_desc: "Наша последняя проверка поверхности §Y[From.GetName]§! обнаружила то, что кажется обломками звездолета. Наши ученые хотят провести дальнейшее исследование."
+
+ # Tarnished
+ lotor_anomalies.50.name: "Аварийная посадка"
+ lotor_anomalies.50.desc: "Приближаясь к загадочной сигнатуре на §Y[From.GetName]§! мы обнаружили покоящиеся обломки старого инопланетного корабля снабжения, созданного еще до §HВеликой гиперпространственной войны§! В коридорах корабля валяется множество странных инопланетных тел, причем §Y[this.GetLeaderName]§! предполагает, что они могут быть в какой-то форме связаны с древними Раката! На корабле, тем временем, находится несколько грузовых контейнеров с полезными припасами, но самым любопытным является поддон с эмбрионами, хранящимися в холодильной камере, единственная функционирующая система, оставшаяся на заброшенном корабле, и, вероятно, источник энергетического сигнала. Возникает вопрос, что делать с эмбрионами."
+ lotor_anomalies.50.a: "Спасем то, что сможем."
+ lotor_anomalies.50.b: "Изучите их. Они могут дать представление о древней истории Галактики."
+ lotor_crashsite_researched: "Исследовать место крушения"
+ lotor_crash_landing: "Аварийная посадка"
+ lotor_crash_landing_category_desc: "Во время проверки сенсорами пустынного мира-гробницы §Y[From.GetName]§ выделена небольшая энергетическая сигнатура. Первые показания не дают никакой ценной информации о её природе, но наша научная команда хочет провести исследования на месте."
+
+ # Who Goes There?
+ lotor_barren_moon: "Тёмная энергия"
+ lotor_barren_moon_category_desc: "Пролетая мимо ничем не примечательной планеты §Y[From.GetName]§!, наша научная команда начала испытывать повышенные чувства паранойи и страха, без явных рациональных причин. §Y[this.GetLeaderName]§! рекомендовал провести дальнейшее расследование этого явления."
+ lotor_force_aspects_to_research: "Исследовать аспекты Силы"
+ lotor_force_aspects_discoveries: "Открытие аспекта Силы"
+ lotor_force_aspects_discoveries_desc: "wip"
+ lotor_anomalies.60.name: "Темная энергия"
+ lotor_anomalies.60.desc: "Группа исследователей, отправленная для изучения поверхности §Y[From.GetName]§!, полностью уничтожена. Последние передачи §Y[this.GetLeaderName]§!, казалось, сообщали, что они приближаются к источнику темной энергии планеты, но затем мы услышали бессвязный бред и безумие. После тщательного изучения журналов неудавшейся экспедиции выяснилось, что на §Y[From.GetName]§ расположен какой-то древний курган ситхов, духи внутри которого все еще беспокойны и злы."
+ lotor_anomalies.60.a: "Пусть злобные призраки упокоятся"
+ lotor_anomalies.60.b: "Какая потеря."
+
+ # Lost Caverns
+ lotor_anomalies.70.name: "Скальные наездники"
+ lotor_anomalies.70.desc: "Ученый §Y[this.GetLeaderName]§! обнаружил странную форму фауны на основе кремния на поверхности §Y[From.GetName]§!, которая, похоже, потребляет близлежащие залежи породы и выделяет очищенные минералы в процессе, похожем на фотосинтез. Эксплуатация этих форм жизни могла бы принести значительную пользу нашим усилиям, хотя это, скорее всего, нанесло бы ущерб местной экосистеме. Хотя они совершенно чужды нашим традиционным определениям жизни, некоторые утверждают, что их следует сохранить и оставить в покое."
+ lotor_anomalies.70.a: "Каждая форма жизни заслуживает шанса."
+ lotor_anomalies.70.b: "Нам нужны ресурсы."
+ lotor_molten_secrets_anomaly: "Скальные наездники"
+ lotor_molten_secrets_category_desc: "Проведенное сканирование §Y[From.GetName]§ позволяет предположить наличие аномально большого количества богатых залежей минералов. Наши ученые предлагают более внимательно осмотреть планету."
+
+ # Rai'harriiu? - Needs rewrite
+ lotor_anomalies.80.name: "Рай'харриу"
+ lotor_anomalies.80.desc: "Когда §Y[this.GetLeaderName]§! возглавлял команду по исследованию наркотика Рай'харрилу на §Y[From.GetName]§!, они стали свидетелями ужасов каннибализма, новых племенных божеств и публичных жертвоприношений. §Y[this.GetLeaderName]§! был замечен за конфискацией ритуального наркотика, но, к счастью, был спасен военным контингентом, посланным вместе с ними. Команда захватила оставшийся Рай'харрилу и арестовала оставшихся культистов. Поскольку количество наркотика по-прежнему ограничено, остается неясным, что с ним делать."
+ lotor_anomalies.80.a: "Уничтожить его. Он слишком опасен."
+ lotor_anomalies.80.b: "Может быть взять небольшое количество в качестве образца?"
+ lotor_Rai_harriiu_anomaly: "Рай'харриу"
+ lotor_Rai_harriiu_category_desc: "Сенсорная разведка близлежащей системы обнаружила некую форму незаконной горнодобычи! По слухам, на этом предприятии пытаются создать Рай'харриу - наркотик, вызывающий сильную зависимость, якобы усиливающий некоторые из самых ужасных и первобытных импульсов нашего вида. Может потребоваться дальнейшее расследование."
+ lotor_Rai_harriiu_testing: "Серия тестов Рай'харриу"
+
+ # Stop That! - needs rewrite, also terrible
+ lotor_moon_crashlanding_anomaly: "Свободное падение"
+ lotor_moon_crashlanding_category_desc: "Похоже, что близлежащая луна §Y[From.GetName]§! искусственно уменьшила свою орбиту, чтобы быть ближе к соседней планете, что привело к значительным тектоническим и гравитационным повреждениям."
+ lotor_anomalies.90.name: "Свободное падение"
+ lotor_anomalies.90.desc: "При ближайшем рассмотрении луны §Y[this.GetLeaderName]§! наша исследовательская группа обнаружила свидетельства наличия разветвлённой сети субсветовых двигателей и генераторов репульсорной тяги, которые, вероятно, использовались для того, чтобы вытолкнуть луну с ее традиционной орбиты. Хотя у нас нет возможности вернуть Луну на прежнее место, оставленная инопланетная техника послужит отличным материалом для изучения и исследования."
+ lotor_anomalies.90.a: "Да будет так"
+ lotor_anomalies.90.b: "Я думаю, у нас достаточно ресурсов"
+
+ # Hollow Asteroid - not good needs rewrite
+ lotor_anomalies.100.name: "Полый астероид"
+ lotor_anomalies.100.desc: "Когда наша команда исследователей проникает во внутреннее ядро §Y[From.GetName]§! они были поражены, обнаружив архаичное военное производство с символикой Корос Главного. Возможно, этот объект когда-то использовался в качестве плацдарма для военных операций во время §HВеликой гиперпространственной войны§! Хотя по современным меркам это архаичный объект, при определенных инвестициях его можно частично восстановить, чтобы увеличить производство сплавов. В качестве альтернативы, древние корпуса военных кораблей, все еще хранящиеся здесь, могли бы дать альтернативный взглаяд на нашу собственную флотскую доктрину."
+ lotor_anomalies.100.a: "Изучите."
+ lotor_anomalies.100.b: "Восстановите."
+ lotor_hollow_asteroid_anomaly: "Полый Астероид"
+ lotor_hollow_asteroid_categorie_desc: "Первые сенсорные исследования астероида §Y[From.GetName]§! привели ученых в недоумение, предположив, что его внутренняя часть, вероятно, была значительно выдолблена. Возможно, исследовательская группа сможет дать больше информации."
+
+ # Invasive Experiments
+ lotor_anomalies.110.name: "Контакты четвёртой степени"
+ lotor_anomalies.110.desc: "Научная команда под руководством §Y[this.GetLeaderName]§! высадилась на станцию §Y[From.GetName]§! и сообщает, что она была создана для наблюдения за культурой и развитием людей на планете ниже. По мере продолжения исследований, мы были встревожены свидетельствами того, что они занимались варварскими исследованиями, похищая людей и пытаясь скрестить их вид со своим собственным. Ужасающие открытия становятся только хуже, когда §Y[this.GetLeaderName]§! видит попытку генного скрещивания образцов со многими видами животных и других разумных видов. Можно было бы ожидать чистой и клинической процедуры, однако на борту станции все было не так. Однако они сделали большой шаг вперед в эволюционных исследованиях, и некоторые из наших ученых предлагают сохранить данные и уничтожить станцию. Объект экспериментов, похоже, умер естественной смертью."
+ lotor_anomalies.110.a: "Сохраните данные и уничтожте станцию."
+ lotor_anomalies.110.b: "Это не этично! Уничтожте станцию."
+ lotor_anomalies.110.c: "Раскрыть, чем занимались здесь эти мерзкие пришельцы."
+ lotor_invasive_anomaly: "Контакты четвёртой степени"
+ lotor_invasive_categorie_desc: "Наша научная группа обнаружила одинокую неработающую космическую станцию, вращающуюся вокруг §Y[From.GetName]§! По данным нашей научной группы, она испускает слабый энергетический сигнал, несмотря на отсутствие признаков жизни. Возможно, нам следует изучить источник этой энергии."
+ lotor_invasive_modifier: "Расскрытие информации об экспериментах"
+ lotor_invasive_modifier_desc: "Мы расскрыли другим информацию об экспериментах на заброшенной космической станции. Люди боятся, что их может постигнуть та же участь."
+
+ # Inquisitive Inspection
+ lotor_anomalies.120.name: "Любознательность"
+ lotor_anomalies.120.desc: "При ближайшем рассмотрении научный сотрудник §Y[this.GetLeaderName]§! определил, что на высокой орбите вокруг §Y[From.GetName]§! действительно находится станция. Приземлившись внутри станции, наша научная команда быстро выяснила, что экипаж пытался инициировать самоуничтожение, но не смог и покинул ее незадолго до нашего прибытия. Мы не можем их отследить, однако бессистемно разбросанные датапады позволяют предположить, что экипаж состоял из торговцев информацией, а несколько файлов можно сохранить для собственного использования."
+ lotor_anomalies.120.a: "Загрузить все что можно."
+ lotor_anomalies.120.a.tooltip: "Попутно установите связь с §Y[target_country.GetName]§!"
+ lotor_anomalies.120.b: "Подобная информация имеет хорошую рыночную цену."
+ lotor_inquisitive_anomaly: "Любознательность"
+ lotor_inquisitive_categorie_desc: "Сканеры фиксируют странные показания вокруг §Y[From.GetName]§! Есть слабые энергетические сигнатуры, указывающие на то, что вокруг этой планеты вращается станция, но, согласно записям, в этой системе никогда не было зарегистрированных сооружений. Очевидно, мы должны исследовать эту область."
+
+ # Ancient Debris
+ lotor_anomalies.130.name: "Древние обломки"
+ lotor_anomalies.130.desc: "Похоже, что небольшая стычка произошла на §Y[From.GetName]§! во время гиперпространственной войны. Мы обнаружили несколько кораблей меньшего размера на сходящей орбите. Если мы хотим воспользоваться этой находкой, нам нужно поторопиться."
+ lotor_anomalies.130.a: "Соберите команду"
+ lotor_anomalies.131.name: "Древние обломки"
+ lotor_anomalies.131.desc: "We studied the designs of the derelicts, but given the limited time before they de-orbited we couldn't extract much relevant information. That being said, our findings should improve our engineering research. In particular studying the scorch marks should give us some insights to further turbolaser designs."
+ lotor_anomalies.131.a: "A great finding!"
+ ANCIENT_DEBRIS: "Ancient Debris"
+ ANCIENT_DEBRIS_DESC: "Debris field of a battle fought ages ago."
+ lotor_ancient_debris_anomaly: "Ancient Debris"
+ lotor_ancient_debris_categorie_desc: "Early sensor scans from our science vessel pick up what seems to be a lot of debris in orbit around §Y[From.GetName]§!. Since their profiles match designs from the §HGreat Hyperspace War§!, we may wish to investigate the site to enhance our own designs."
+
+ # Abandoned Colony
+ lotor_abandoned_desert_anomaly: "Abandoned Colony"
+ lotor_abandoned_desert_categorie_desc: "Our science team found remains of a colony bearing our flag and architectural techniques. Curiously, there is no official record of a colony having ever been founded in this system. The scientific community agrees this must be investigated."
+ lotor_abandoned_desert: "Abandoned Colony Found"
+ lotor_anomalies.140.name: "Abandoned Colony"
+ lotor_anomalies.140.desc: "According to the reports from our expedition, this was indeed our colony on §Y[From.GetName]§!, several decades prior to the §HGreat Hyperspace War§!. During the chaos contact was lost, and the planet quickly became buried under the bureaucracy of war. Their fate was a tragic one, having been heavily reliant on trade and technology, subsequent generations understood less and less about what they were using. As the machinery that had once sustained them degraded, they had no way to replace it. The planet itself was also affected by the war becoming inhospitable to life, and without some essential life support the colony rapidly died out."
+ lotor_anomalies.140.a: "Maybe we should re-examine some of our older colonial protocols?"
+ lotor_anomalies.140.b: "Proof that our colonies need us to survive!"
+
+ # Forsaken Warehouse
+ lotor_anomalies.150.name: "Forsaken Warehouse"
+ lotor_anomalies.150.desc: "The explorers report that the structures detected earlier are warehouses. Long abandoned, they bear no markings that we recognize. Theories range from the base being some sort of smuggler cache, to a lost empire's ancient shrine. Nevertheless, we could salvage some resources."
+ lotor_anomalies.150.a: "Great!"
+ lotor_factory_desert_anomaly: "Forsaken Warehouse"
+ lotor_factory_desert_categorie_desc: "Unidentified structures were detected on the surface of §Y[From.GetName]§!. Seeing as the surrounding areas are void of life, further investigation appears to be warranted."
+
+ # Fascinating Wildlife
+ lotor_anomalies.160.name: "Fascinating Wildlife"
+ lotor_anomalies.160.desc: "So far, §Y[this.GetLeaderName]§! has not been able to discover how §Y[From.GetName]§! can support so many different species. If we end up colonizing here, we could effectively study this phenomenon over a longer period of time. However, we could also allow the population to hunt some of the animals and exhibit them in zoos."
+ lotor_anomalies.160.a: "Study it."
+ lotor_anomalies.160.b: "Allow hunting."
+ lotor_wildlife_studies: "Wildlife Studies"
+ lotor_wildlife_studies_desc: "Initial scans of §Y[From.GetName]§! show readings of a previously undiscovered alien species. While primitive, the animals of §Y[From.GetName]§! could be a valuable target of study."
+ lotor_wildlife_hunting: "Wildlife Hunting"
+ lotor_wildlife_hunting_desc: "§Y[this.GetLeaderName]§! has spread the word to our people that the animals of §Y[From.GetName]§! can be hunted for fun. Tourism will most likely increase to this location as long as there is a stable animal population to hunt."
+ lotor_fascinating_wildlife_anomaly: "Fascinating Wildlife"
+ lotor_fascinating_wildlife_categorie_desc: "It appears as though §Y[From.GetName]§! has a wide variety of different animals living on it. We should send a team of researchers to find out where this impressive fauna came from to add it to our galactic records."
+
+ # Extraordinary Underwater Flora
+ lotor_anomalies.170.name: "Extraordinary Underwater Flora"
+ lotor_anomalies.170.desc: "As it turns out, this variety of colors and elevations actually comes from huge coral reefs. The water on §Y[From.GetName]§! also seems to have a certain composition that significantly increases its buoyancy. The shores of §Y[From.GetName]§! appear to be extremely fertile, which could make it an excellent agricultural world."
+ lotor_anomalies.170.a: "Incredible."
+ lotor_underwater_flora: "Extraordinary Underwater Flora"
+ lotor_underwater_flora_desc: "The underwater biome of §Y[From.GetName]§! somehow ensures a plethora of organic species and extremely fertile soils on the banks. Researching the area could bring further viability of our people colonizing diverse environments."
+ lotor_underwater_flora_anomaly: "Strange Sighting"
+ lotor_underwater_flora_categorie_desc: "Even from §Y[From.GetName]§!'s orbit, §Y[this.GetLeaderName]§! was able to identify large elevations and discolorations in the water. It is believed that these could be large coral reefs and aquatic plants. If this hypothesis proves to be correct, minerals or chemical reactions on the banks would also be possible. Although this goes against our initial plans to study habitability, it is decided we should investigate this phenomenon."
+
+ # Low Gravity
+ lotor_anomalies.180.name: "Low Gravity"
+ lotor_anomalies.180.desc: "After a series of intensive scans on §Y[From.GetName]§! we have determined the planet has very low gravity and an above-average concentration of oxygen. As a result of this astrological phenomenon, the flora and fauna located on the planet are abnormally large compared to finding them elsewhere. These animals seem to behave extremely aggressively and want to defend their territory more violently."
+ lotor_anomalies.180.a: "Fascinating."
+ lotor_decreased_gravity: "Decreased Gravity"
+ lotor_decreased_gravity_desc: "This planet has a lower gravity than usual."
+ lotor_decreased_gravity_anomaly: "Low Gravity"
+ lotor_decreased_gravity_categorie_desc: "Our science team has been thrown off by §Y[From.GetName]§!, it has lower gravity than usual for this sector. An investigation should be launched to uncover the truth of this."
+
+ # Dense Mineral Fields
+ lotor_anomalies.190.name: "Dense Mineral Fields"
+ lotor_anomalies.190.desc: "§Y[this.GetLeaderName]§! was able to find the cause of the disturbance in the form of unusually high concentrations of minerals scattered across §Y[From.GetName]§!. These mineral fields are extensive and can be found all over the planet. However, some deposits are difficult to reach via land vehicles due to large mountain ranges or dense forests. In the end, §Y[this.GetLeaderName]§! in collaboration with local mining consortiums deemed the extra hassle grabbing the materials worth the effort from an economics standpoint."
+ lotor_anomalies.190.a: "Wonderful."
+ lotor_dense_mineral_fields: "Dense Mineral Fields"
+ lotor_dense_mineral_fields_desc: "§Y[From.GetName]§! has an extensive mineral field as well as some caves with much more minerals. The proximity to the resources allows the alloy foundries to work more effectively."
+ lotor_dense_mineral_fields_anomaly: "Strange Data"
+ lotor_dense_mineral_fields_categorie_desc: "Our science team led by §Y[this.GetLeaderName]§! have tried to obtain more detailed data from the orbit of §Y[From.GetName]§!. However, the scanners seem to be disturbed by something on the planet's surface. We should send a team to investigate."
+
+ # Planetary Ruins
+ lotor_anomalies.200.name: "Planetary Ruins"
+ lotor_anomalies.200.desc: "The science team led by §Y[this.GetLeaderName]§! made an incredible discovery. We have found the ruins of a base seemingly belonging to an ancient civilization from before the §HGreat Hyperspace War§!. Some of the facilities and equipment are still in reasonable condition meaning we can take advantage of the find."
+ lotor_anomalies.200.a: "Great."
+ lotor_strange_planet_ruins: "Ancient Ruins"
+ lotor_strange_planet_ruins_desc: "Ruins of an ancient civilization."
+ lotor_strange_planet_ruins_anomaly: "Strange Signal"
+ lotor_strange_planet_ruins_categorie_desc: "Our science team was able to detect slight energy spikes coming §Y[From.GetName]§!'s surface. There could be something of value here, we should send a team."
+
+ # Unique Atmosphere
+ lotor_anomalies.210.name: "Unique Atmosphere"
+ lotor_anomalies.210.desc: "The atmosphere on §Y[From.GetName]§! offers clean air to breathe, but members of our team have been acting strangely since we arrived here. it seems to satisfy §Y[this.GetLeaderName]§! in some way to breathe this air. Other members of the team express similar feelings of satisfaction as well as show outward signs of attraction to each other. Although droid scanners were able to detect several gas deposits under the surface, the productivity of the team left a lot to be desired."
+ lotor_anomalies.210.a: "Ignorance Is Bliss."
+ lotor_fascinating_atmosphere: "Unique Atmosphere"
+ lotor_fascinating_atmosphere_desc: "The composition of the atmosphere has an impact on the behavior of the population."
+ lotor_fascinating_atmosphere_anomaly: "Unique Atmosphere"
+ lotor_fascinating_atmosphere_categorie_desc: "While examining §Y[From.GetName]§! from orbit, Our science team witnessed a vibrant display of colors in the planet's atmosphere. Early theories suggest that the atmosphere is toxic or contains a large quantity of exotic gases. In any case, we should investigate this more closely."
+
+ # Tectonic Activity
+ lotor_anomalies.220.name: "Tectonic Activity"
+ lotor_anomalies.220.desc: "After lengthy examinations, science officer §Y[this.GetLeaderName]§! is certain that §Y[From.GetName]§! is permanently plagued by micro earthquakes and other natural disasters. Our force sensitive liaison indicates §HSith§! sorcery was involved in creating the rapid catastrophes. §Y[From.GetName]§! is definitely not the best place to establish a new colony, but science teams could make some discoveries here over a longer period of time."
+ lotor_anomalies.220.a: "Interesting."
+ lotor_planet_high_tectonics: "High Tectonic Activity"
+ lotor_planet_high_tectonics_desc: "A high frequency of tectonic activity can be observed on §Y[From.GetName]§!. Even though life on this planet is more difficult, scientists can gain important insights from studying these unusually frequent tectonic events."
+ lotor_tectonic_activity_anomaly: "Tectonic Activity"
+ lotor_tectonic_activity_categorie_desc: "When §Y[From.GetName]§! was initially scanned, our science team discovered a high level of tectonic activity. The activity dissipated rapidly to the point some on the team suggested the fluctuation was a sensor error. It may just be a coincidence, but we should investigate the planet regardless."
+
+ # Stormy Atmosphere
+ lotor_anomalies.230.name: "Stormy Atmosphere"
+ lotor_anomalies.230.desc: "Our observations over a period of weeks has shown that these storms appear to be very destructive. Wind speeds reaching 130 kms per minute tear through the open spaces of §Y[From.GetName]§!. While colonists would have to endure the harsh conditions, our scientists may learn some interesting facts about weather patterns if a settlement was established here."
+ lotor_anomalies.230.a: "Nothing ventured, nothing gained."
+ lotor_stormy_atmosphere: "Stormy Atmosphere"
+ lotor_stormy_atmosphere_desc: "Many protracted storms and thunderstorms are the norm on this planet."
+ lotor_stormy_atmosphere_anomaly: "Stormy Atmosphere"
+ lotor_stormy_atmosphere_categorie_desc: "Our science team has detected some rather violent thunderstorms across §Y[From.GetName]§!'s atmosphere. Our scientists should probably take a look at this unique phenomenon."
+
+ # Dangerous Magnetic Field
+ lotor_anomalies.240.name: "Strong Magnetic Field"
+ lotor_anomalies.240.desc: "Upon landing on §Y[From.GetName]§! scientists have identified why our scanners mostly failed. The planet's magnetic field is unusually strong. Radiation is almost impossible to find, but equipment must be specially encapsulated so that it works in this environment. §Y[this.GetLeaderName]§! predicts the planet is perfect for a new colony as it protects our colonists from radiation. That is if our empire is willing to pay extra for the specialized building materials required to settle here."
+ lotor_anomalies.240.a: "Wonderful."
+ lotor_dangerous_magnetic_field: "Dangerous Magnetic Field"
+ lotor_dangerous_magnetic_field_desc: "This planet has an exceptionally strong natural magnetic field. This fact ensures that the inhabitants of this planet are better protected from radiation and meteoroids. However, special equipment is required for the construction of buildings."
+ lotor_dangerous_magnetic_field_anomaly: "Inconsistent Data"
+ lotor_dangerous_magnetic_field_categorie_desc: "As our science team approaches §Y[From.GetName]§!, some of the scanners malfunction giving off the chart readings. In the first attempts, it was impossible to collect meaningful data here. Let's send a team to the planet's surface to find out more."
+
+ # Shooting Stars
+ lotor_anomalies.250.name: "Shooting Stars"
+ lotor_anomalies.250.desc: "Closer investigations have shown that meteorites mostly consist of different minerals. While our team was surveying the planet, they were able to observe multiple further impacts. Without risking our team in a more in depth study, §Y[this.GetLeaderName]§! best guess is that the atmosphere is not strong enough to protect the planet from these meteorites."
+ lotor_anomalies.250.a: "Concerning."
+ lotor_metroid_bombardment: "Dangerous Shooting Stars"
+ lotor_metroid_bombardment_desc: "This planet is hit by meteorites more often than usual. In return, this ensures that there are rich mineral deposits on the planet."
+ lotor_comet_bombardment_anomaly: "Shooting Stars"
+ lotor_comet_bombardment_categorie_desc: "After initial scans of §Y[From.GetName]§! were completed, our science teams pinpointed impact craters from meteor strikes in an abnormally high frequency. We should see what actually came down and why it is happening so often."
+
+ # Asteroid Mining Station
+ lotor_anomalies.260.name: "Asteroid Mining Station"
+ lotor_anomalies.260.desc: "§Y[this.GetLeaderName]§! has followed the asteroid signal an old prospecting station in an alarming condition. The station appears to have been split in two, probably by a rogue vessel during the §HGreat Hyperspace War§!. We can try to fix it or shut it down completely and investigate."
+ lotor_anomalies.260.a: "Repair it."
+ lotor_anomalies.260.b: "Research it."
+ lotor_anomalies.261.name: "Asteroid Mining Station"
+ lotor_anomalies.261.desc: "While trying to repair the station on §Y[From.GetName]§!, the energy core overheated and triggered a catastrophic chain reaction. Many members of the science team were killed and the remaining ruins are nothing but a hunk of junk. What a tragic loss for our people."
+ lotor_anomalies.261.a: "Unfortunate."
+ lotor_anomalies.262.name: "Asteroid Mining Station"
+ lotor_anomalies.262.desc: "§Y[this.GetLeaderName]§! was able to get most of the asteroid facility on §Y[From.GetName]§! up and running again. It appears as though particularly heavy alloys were mined here. In addition, our scientists can learn a lot of the past prior to the war from the installation in the future."
+ lotor_anomalies.262.a: "Great."
+ d_restored_mining_station: "Restored Ancient Mining Station"
+ d_restored_mining_station_desc: "The reconstruction of this station enables us to mine resources effectively."
+ d_research_mining_station: "Ancient Mining Station Research Base"
+ d_research_mining_station_desc: "The establishment of a research station makes it possible to find out more about the construction of this unique station."
+ lotor_asteroid_mining_station_anomaly: "Asteroid Mining Station"
+ lotor_asteroid_mining_station_categorie_desc: "Our science team picked up a weak signal from §Y[From.GetName]§!. The signal is very weak, but our scientists were able to pinpoint the exact location. It is an unique enough energy signature to warrant further investigation."
+
+ # Exotic Gas Giant
+ lotor_anomalies.270.name: "Exotic Gases"
+ lotor_anomalies.270.desc: "After carefully examining the composition of the gases, §Y[this.GetLeaderName]§! was able to isolate several different isotopes belonging to a variety of exotic gasses. Our on board military consultant points out the gasses in question are vital to the production laser-based weaponry. We have marked the area for construction crews to utilize in the future."
+ lotor_anomalies.270.a: "Excellent."
+ lotor_gas_giant_anomaly: "Exotic Gas Giant"
+ lotor_gas_giant_categorie_desc: "In this system, our science team noticed that §Y[From.GetName]§! is a gas giant exhibiting increased density. We need further research to know whether we can process some of these gases."
+
+ # Frozen Discovery
+ lotor_anomalies.280.name: "Frozen Discovery"
+ lotor_anomalies.280.desc: "§Y[this.GetLeaderName]§! made an interesting discovery after landing on §Y[From.GetName]§!. The team quickly stumbled across a never before seen regenerative fluid in some icy rock faces. §Y[this.GetLeaderName]§! observes the ice repairs itself almost instantaneously after someone attempts to melt a piece of it. We should set up a special mining facility here to ensure that we can extract all of the fluid without losing anything from the usual processing processes."
+ lotor_anomalies.280.a: "Build it."
+ lotor_anomalies.280.b: "We cant afford that."
+ lotor_icy_discovery_anomaly: "Frozen Discovery"
+ lotor_icy_discovery_categorie_desc: "Our scientists have found ambiguous results when they first examined the scanner data from §Y[From.GetName]§!. The ice itself looks as though it is glowing. A ground expedition is necessary in order to be able to come up with a reasonable explanation to the cause of such a phenomenon..."
+
+ # Orbital Casino
+ lotor_anomalies.290.name: "Abandoned Station"
+ lotor_anomalies.290.desc: "The technology doesn't seem to be as advanced as our own further supporting the hypothesis that this used to be a pirate haven of some kind. No signs of struggle can be found leading §Y[this.GetLeaderName]§! to suspect that the pirates merely left the sector when their profits evaporated. We can probably cannibalize a few materials here if we were willing to tear the station apart. However, a businessman with a shady background has contacted us and would like to rebuild the station in order to turn it into a casino. We can now decide how we wish to proceed."
+ lotor_anomalies.290.a: "Rent it."
+ lotor_anomalies.290.b: "Destroy it."
+ d_orbital_casino: "Orbital Casino"
+ d_orbital_casino_desc: "A businessman has rented an old station from us and runs a casino here."
+ lotor_abandoned_station_anomaly: "Abandoned Station"
+ lotor_abandoned_station_categorie_desc: "Our science team has found an abandoned station tucked away above §Y[From.GetName]§!. It's profile doesn't match any known station designs in our records. While it might just be one of the many pirate stations in this sector, we should still get the science team ready for deployment."
+
+ # Reflective Asteroids - Oridium
+ lotor_anomalies.300.name: "Reflective Asteroids"
+ lotor_anomalies.300.desc: "As previously suspected, a large portion of the asteroids in question are composed of the highly reflective Oridium. §Y[this.GetLeaderName]§! believes that this material could be used for a kind of camouflage technique that scanners can hardly detect. The military applications of such a material are staggering to consider even if it would take a millennia to utilize efficiently. Due to the difficulty of navigating out here, the crew suggests installing navigation buoys to ensure safe travel for our mining ships."
+ lotor_anomalies.300.a: "Install those buoys!"
+ lotor_anomalies.300.b: "We can't afford that."
+ lotor_reflective_asteroids_anomaly: "Reflective Asteroids"
+ lotor_reflective_asteroids_categorie_desc: "Our science team has discovered an oddly shaped cluster of smaller asteroids near §Y[From.GetName]§!. Upon giving the formation a closer look, scientists notice the smaller rocks send strange data to the navigation computer when approached. The data seems to be incomplete and due to strong reflections, it is almost impossible to navigate on sight. It is believed that these asteroids must contain a certain composition of reflective rare alloy called Oridium which effectively jam our scanning equipment. In any case, we should look carefully at this."
+
+ # Cave Network - Kyber Crystals
+ lotor_anomalies.310.name: "Cave Network"
+ lotor_anomalies.310.desc: "As the science team finds an entrance to delve deeper into the tunnel system, they find more and more raw minerals within the cave. It isn't the only interesting find, mushrooms discovered alongside the minerals give off a shallow blue light, which partially illuminates the caves. §Y[this.GetLeaderName]§! was also able to find some small harmless life forms that seem to feed on the moss and mushrooms in the caves. The exploration into the caves continues after our force sensitive liaison urges the team to follow the blue light deeper into the cave system. After a few more hours of searching, a deposit of Kyber Crystals was located. There are countless numbers of these rare crystals to be found deep in the caves. We should quickly set up a mining station here in order to be able to mine the Kyber Crystals."
+ lotor_anomalies.310.a: "The brightest stars have hearts of kyber."
+ lotor_kyber_cave_anomaly: "Cave Network"
+ lotor_kyber_cave_categorie_desc: "Early scans of §Y[From.GetName]§! have found an extensive tunnel system just under the surface. Energy signatures indicate that something valuable could be hidden here. We should get a scout team ready."
+
+ # Just Debris
+ lotor_anomalies.320.name: "Just Debris"
+ lotor_anomalies.320.desc: "It is apparently not just a field of debris in the orbit of §Y[From.GetName]§!, but rather the remains of a great battle. The science team can only assume these vessels rammed into each at high speeds to create this particular debris pattern. Most likely we have stumbled on yet another atrocity previously forgotten during the §HGreat Hyperspace War§!. The sheer level of destruction makes it clear that there is no technology to be found here. However, we should build a mining station in the area in order to be able to recycle the wreckage."
+ lotor_anomalies.320.a: "Their loss is our gain."
+ lotor_just_debris_anomaly: "Just Debris"
+ lotor_just_debris_categorie_desc: "Our science team has found a field of debris near §Y[From.GetName]§!. Maybe we can obtain some lost technology from here."
+
+ # The Lost Ark
+ lotor_anomalies.330.name: "The Lost Ark"
+ lotor_anomalies.330.desc: "As we suspected, data about the mother ship could be found in the escort ships. The largest ship in the convoy crashed on §Y[From.GetName]§!. When §Y[this.GetLeaderName]§! finds the wreck, the team notice that despite it's age, some of the old systems like the power core still seem to be running at minimal capacity. With some heavy lifting by the droid team our scientists have managed to access the main core of the ship. The datapad records in the core tell of a warlike race that calls themselves the §HInfinite Empire§! being the ones responsible for the crash. According to the records, there were over 250,000 colonists on this ship before it was brought down by this §HInfinite Empire§!. Further investigations inside the ship indicate that her cryostasis section must have been completely destroyed. Even if we may not be able to salvage a lot of useful technology, we may still learn something about the Galaxy's past and this Infinite Empire. We should set up a permanent research station here."
+ lotor_anomalies.330.a: "A historian's paradise."
+ lotor_lost_ark_anomaly: "Crash Site"
+ lotor_lost_ark_categorie_desc: "Our scanners appear to have come across the remains of an ancient flotilla of starships above §Y[From.GetName]§!. There is no trace of the larger ship that must have tugged the rest here, but an analysis of the escort ship's systems could reveal the location of the mother ship. Prepare a team to investigate."
+
+ # Pulsar Mystery
+ lotor_anomalies.340.name: "Pulsar Mystery"
+ lotor_anomalies.340.desc: "The science teams suspicions were confirmed after our scanners spotted the unique energy signatures. While nothing can explain the strange energy pulse under a scientific basis, the force sensitive liaison suggests §HSith§! sorcery may have caused the phenomenon. They explain it could be an echo of the force from an ancient battle maneuver. We should set up a science station here to find out more about the event."
+ lotor_anomalies.340.a: "Fascinating."
+ lotor_pulsar_anomaly: "Pulsar Mystery"
+ lotor_pulsar_categorie_desc: "Our scientists led by §Y[this.GetLeaderName]§! have identified unusual energy signatures radiating from §Y[From.GetName]§!. We should probably take a closer look."
+
+ # Restless Planet
+ lotor_anomalies.350.name: "Restless Planet"
+ lotor_anomalies.350.desc: "The surface of §Y[From.GetName]§! is not quite what we expected. In theory our people could live here, but the team experienced multiple storms, earthquakes, and other natural disasters while on the ground. The sheer amount of natural tectonic movements within the core of the planet puzzles §Y[this.GetLeaderName]§!. Under normal circumstances the tectonic activity displayed here would've caused the planet to collapse in on itself. A science station for longer investigations of the planet could provide further information about the planet."
+ lotor_anomalies.350.a: "Shaken and stirred."
+ lotor_geothermal_activity_anomaly: "Restless Planet"
+ lotor_geothermal_activity_categorie_desc: "Our scientists have discovered a surprisingly well suited planet for a potential colony. To be sure, we should send a team to §Y[From.GetName]§! and take a closer look."
+
+ # Old Spore Ruins
+ lotor_anomalies.360.name: "Old Spore Ruins"
+ lotor_anomalies.360.desc: "§Y[this.GetLeaderName]§! reaches the ruins to confirm that they are indeed covered with spores and fungi. With some luck, we eventually gain entry to one of the buildings, which appears to be a laboratory. After analyzing the datapads left behind, the team was able to decode this message... 'Yesterday our experiments have gone too far. Using the genes of the §YVesuvague§! tree and the §YBafforrs§!, along with some other things, we have created a new being. Like the §YVesuvague§!, this creation snared its victims in its tentacle-like vines. It also communicated with itself like the §YBafforr§! trees. Its mind is evil. What have we done?'. Our scientists are intimidated by the warning and decide to analyze any other old ruins in this galaxy so that we do not suffer the same fate as these poor creatures."
+ lotor_anomalies.360.a: "Concerning."
+ lotor_spore_ruin_anomaly: "Old Spore Ruins"
+ lotor_spore_ruin_categorie_desc: "Our team was able to spot some unique ruins on the surface of §Y[From.GetName]§!. It seems as if the area surrounding the ruins is covered with some kind of organic mass. We should investigate this with the utmost caution."
+
+ # The Outcast
+ lotor_anomalies.370.name: "The Outcast"
+ lotor_anomalies.370.desc: "Curiously, §Y[this.GetLeaderName]§! only met one very friendly scientist inside the facility. He tells us that he was sent into exile after half his team lost their lives in a mishap while experimenting on personal energy shield technology. He further claims he was able to complete the research and has even extended it's applications into the medical realm. To do this he studied a previously unknown species he calls the §YAnzati§!, which reportedly seem to have extremely long lifespans. Even though our team suspects that this man has lost his mind due to prolonged isolation, the shield device he created works on short intervals. If this technology was more standardized in its design, it might even be able to be equipped on our ground troops. After a long negotiation with §H[this.GetLeaderName]§!, the man is willing to make a deal for a patent."
+ lotor_anomalies.370.a: "Buy it."
+ lotor_anomalies.370.b: "Don't buy it."
+ lotor_exiled_scientist_anomaly: "The Outcast"
+ lotor_exiled_scientist_categorie_desc: "Our scientists have found a small laboratory that appears to be still in active use when viewed from orbit of §Y[From.GetName]§!. Maybe we should contact the local research team to discover what exactly they are working on."
+
+ # Weak Signal
+ lotor_anomalies.380.name: "A Reason to Kill"
+ lotor_anomalies.380.desc: "As soon as the science team got within range of the shuttle, the crew opened fire on us. Although the engagement only lasted a few minutes, we will still have to make repairs on our own landing craft ship. Thankfully, there are plenty of parts laying around in the form of the attackers shuttle. Our team discovers they were so aggressive on first contact due to the spice that they tried to quickly stow away. We must have arrived on the planet just before a spice deal could have taken place. While we have no way to know now where the spice was headed, at least we can make sure it doesn't end up in the wrong hands. No one will notice if some of the contraband goes missing for personal use... Right?"
+ lotor_anomalies.380.a: "No honor among thieves."
+ lotor_spice_trouble_anomaly: "Weak Signal"
+ lotor_spice_trouble_categorie_desc: "Our scanners have been able to detect a slight ping from a shuttle on the surface of §Y[From.GetName]§!. The shuttle isn't replying to any of our attempts to communicate with it meaning the crew could be in trouble. We should land nearby to make sure everything is ok."
+
+ # Unexpected Detour
+ lotor_anomalies.390.name: "Unexpected Detour"
+ lotor_anomalies.390.desc: "Our team's high spirits quickly dwindle when it becomes apparent §Y[From.GetName]§! is completely unremarkable in every way. Due to the pilots inability to stay awake on the job, our discovery of the rest of this system has been setback a few days. §Y[this.GetLeaderName]§! has taken full responsibility for the accident to high command, shielding the rest of the crew from future consequences. We can only hope the crew can move on and forget this accident sooner rather than later."
+ lotor_anomalies.390.a: "Time heals all wounds..."
+ lotor_unfortunate_landing_anomaly: "Unexpected Detour"
+ lotor_unfortunate_landing_categorie_desc: "After a slight collision with an asteroid due to a sleeping pilot, our science team's ship has to make emergency repairs on §Y[From.GetName]§!. The least we can do is take advantage of this unfortunate mishap and take a look around."
+
+ # Exotic Wildlife
+ lotor_anomalies.400.name: "Exotic Wildlife"
+ lotor_anomalies.400.desc: "While exploring this extraordinary planet, our scientists came across a majestic species of fox that has a fur made of crystals. We named this newly discovered species §YVulptex§!. §Y[this.GetLeaderName]§! suggests we should exhibit and breed these phenomenal animals to the general public in our empire. The team spends the rest of the day herding as many §YVulptex§! on to the landing shuttle as possible to be able to bring them to a zoo in the future."
+ lotor_anomalies.400.a: "Great."
+ lotor_vulptex_anomaly: "Exotic Discovery"
+ lotor_vulptex_categorie_desc: "Scanners have picked up on life signs from §Y[From.GetName]§!, a truly exotic planet covered with rare minerals and crystals. We should take a closer look at this world."
+
+ # Unexpected Message
+ lotor_anomalies.410.name: "An Unexpected Message"
+ lotor_anomalies.410.desc: "As §Y[this.GetLeaderName]§! attempted to decipher the strange markings on §Y[from.GetName]§!, a message came in from the capital. Our team is needed on the homeworld to help train the next generation of reconnaissance units."
+ lotor_anomalies.410.a: "OK"
+ lotor_anomalies.411.name: "Little Helpers"
+ lotor_anomalies.411.desc: "The team worked for months with a government military taskforce to complete the prototype of a spider droid which could facilitate easier exploration of new planets in the future. Apparently, the military discovered the incomplete plans during an extensive training exercise. Speculation regarding the original developer of this droid are quickly shut down since high command just wants to see the droid working again. The military brigade would like to give our team an F1 Explorer droid as a thank you for our help. However, §Y[this.GetLeaderName]§! would prefer to have the surveyor droid their team was also working on. After lengthy discussions, the commander agrees to sell the other prototype for a higher price."
+ lotor_anomalies.411.a: "Just Take the F1 Explorer."
+ lotor_anomalies.411.b: "Buy the Surveyor."
+ EXPLORER_DEVELOPMENT: "Little Helpers"
+ EXPLORER_DEVELOPMENT_DESC: "When investigating §Y[From.GetName]§!, our scientist is ordered back to the home planet to help a technology company complete an automatic exploration unit."
+ lotor_little_helpers_anomaly: "Layers of Stone"
+ lotor_little_helpers_categorie_desc: "While exploring §Y[From.GetName]§!, our science team discovers strange markings in layers of stone that could provide information about the age of this system."
+
+ # Master of the Past
+ lotor_anomalies.420.name: "Master of the Past"
+ lotor_anomalies.420.desc: "When §Y[this.GetLeaderName]§! reaches the ruins, the team separates into smaller groups to investigate the remains of this Sith temple. Since entering the ruin, §Y[this.GetLeaderName]§! starts feeling a sense of discomfort and of being watched by others. As the force sensitive liaison is about to translate one of the ancient scriptures, he hears a voice whispering §H'Leave this place you unworthy weakling or I will destroy you'§!. Nervous and insecure, our team packs their things and attempts to leave the main hall. A force spirit appears again demanding they leave immediately. As the team runs for their lives, they hear the same force spirit shout §H'Run weakling, I'll find you anyway.'§! The team manage to escape just in time to watch more force spirits guarding the entrance to the door. It is agreed by every member of the team that the records of the §HSith§! temple are deleted from the ever expanding galactic holo map."
+ lotor_anomalies.420.a: "Best we all forget that happened."
+ lotor_master_of_the_past_anomaly: "Master of the Past"
+ lotor_master_of_the_past_categorie_desc: "Our science team has discovered an ancient Sith ruin on §Y[from.GetName]§!. We should wake the force sensitive liaison and get our equipment ready to investigate this find more closely."
+
+ # Refueling Mission
+ lotor_anomalies.430.name: "Refueling Mission"
+ lotor_anomalies.430.desc: "Refueling the ship and requesting supplies takes about a day, and §Y[this.GetLeaderName]§! has given the team a day off to have fun on this station. As §Y[this.GetLeaderName]§! moves towards the local bar, they see a man sitting alone in a dark corner of the cantina. On a whim, they ask the man whether everything is alright, but receive no answer. As they get closer they notice that the man is completely motionless dead. §Y[this.GetLeaderName]§! races to the security area for help. When they arrive in the security area, they find the bodies of multiple dead security officials. After gathering the rest of the crew together and performing an autopsy on the victims, it becomes apparent they are all missing their brains. A theory emerges that this isn't a case of random foul play but instead a parasite is spreading that devours the brain of its victims. Completely shocked by what must have happened here, the team prepares for immediate departure from the station. It would be best to destroy this place before the parasite can spread any further."
+ lotor_anomalies.430.a: "Proceed."
+ lotor_refueling_mission_anomaly: "Refueling Mission"
+ lotor_refueling_mission_categorie_desc: "In order to prepare for a longer expedition, our team should get some supplies and fuel at a nearby station on §Y[from.GetName]§!."
+
+ # Promising Ruins
+ lotor_anomalies.440.name: "Promising Ruins"
+ lotor_anomalies.440.desc: "When §Y[this.GetLeaderName]§! reached the ruins, it quickly became clear that we have found some sort of factory dating back to before the Great Hyperspace War. The scientists carefully examine the exterior of the ruin and stabilize the entrance with a few steel struts. Inside the factory, everything is covered in a thick layer of rubble, the systems completely destroyed and the floor unstable. As science officer §Y[this.GetLeaderName]§! tries to reach for a console, the ground breaks beneath their feet. By some miracle, our officer survived this fall, however, the recovery turned out to be extremely difficult. The team decides to leave the ruins behind and abandon the investigation, but §Y[this.GetLeaderName]§! will be permanently crippled."
+ lotor_anomalies.440.a: "A Terrible Loss."
+ lotor_promising_ruins_anomaly: "Promising Ruins"
+ lotor_promising_ruins_categorie_desc: "Our team was able to pick up a mysterious ruin on §Y[from.GetName]§! while scanning the area. We should definitely investigate."
+
+ # Old Mining Network
+ lotor_anomalies.450.name: "Old Mining Network"
+ lotor_anomalies.450.desc: "After a closer exploration of the abandoned mine, §Y[this.GetLeaderName]§! sees the spice deposits on the tunnel walls. A vast majority of the spice appears to have been extracted already, which explains the lack of miners in the facility. However, we were able to mine out some of the spice. The team shares it amongst themselves as a morale boost for the journeys to come."
+ lotor_anomalies.450.a: "Great!"
+ lotor_spice_mine_anomaly: "Old Mining Network"
+ lotor_spice_mine_categorie_desc: "Our scientists found an old abandoned mine while scanning §Y[from.GetName]§!. We should explore the mine to find out what exactly was being exploited here."
+
+ # Derelict
+ lotor_anomalies.460.name: "Derelict"
+ lotor_anomalies.460.desc: "The science team have returned safely and have brought news of the preserved body of an unknown breed of nerf. Apparently this ship was supposed to be helping with expanding biodiversity of nerf in another system yet they never made it to their destination. Maybe someone had a beef with nerf herders and fired on the vessel? Or perhaps they were another victim of the §HGreat Hyperspace War§!? Either way something must be done with the nerf bodies that have been found. We could study the crews intentions for these nerf more closely or just sell them to the highest bidder."
+ lotor_anomalies.460.a: "We should study this."
+ lotor_anomalies.460.b: "Sell the corpse to private interest."
+ lotor_derelict_corvette_anomaly: "Derelict"
+ lotor_derelict_corvette_categorie_desc: "Our science operatives have discovered the energy signature of a derelict cargo ship in §Y[from.GetName]§!. The team decides that with some carefulness, they should be able to retrieve whatever is within its hold. "
+
+ # Exhibition of exotic animals
+ lotor_anomalies.470.name: "Exotic Animals"
+ lotor_anomalies.470.desc: "It didn't take long for our team of scientists to discover the creature's isolated nesting grounds. Preliminary tests indicate that they indeed share genetic ancestry with the species we have on our homeworld. §Y[this.GetLeaderName]§! hypothesizes that this creature must have been transplanted here by an ancient empire or this is in fact the progenitor species."
+ lotor_anomalies.470.a: "Try to find a private collector."
+ lotor_anomalies.470.b: "Bring them home and share this with our people."
+ lotor_exotic_leggett: "Exhibition of exotic animals"
+ lotor_exotic_leggett_desc: "An exhibition of exotic animals from all corners of the Galaxy was organized on our home planet."
+ lotor_exotic_leggett_anomaly: "Exotic Animals"
+ lotor_exotic_leggett_categorie_desc: "A team of scientists has discovered unique lifeforms that sparks their curiosity. At first glance, they resemble a creature native to our homeworld."
+
+ # A Starbound Fate
+ lotor_anomalies.480.name: "A Starbound Fate"
+ lotor_anomalies.480.desc.general: "Scans show a relatively small but resource rich asteroid on a collision course with the nearby star. The dense alloy deposits just below the surface prevent detailed scan results from coming through clearly. There is little time before the asteroid descends into the star. "
+ lotor_anomalies.480.desc.force: "$lotor_anomalies.480.desc.general$\n\n§Y[this.GetLeaderName]§! has stated that they can sense something within the asteroid while reaching out with the force, likely a deposit of kyber crystals, but they aren't completely certain. "
+ lotor_anomalies.480.a: "The alloy rich surface of the asteroid will suffice." 
+ lotor_anomalies.480.b: "Whatever lay inside the asteroid is too valuable to pass up."
+ lotor_anomalies.480.c: "The kyber crystals asteroid are too valuable to pass up."
+
+ lotor_anomalies.481.name: "$lotor_anomalies.480.name$"
+ lotor_anomalies.481.desc: "Mining into the surface of the asteroid, your scientists were able to gather a combination of precious metals. The short time before collision with the star was still enough to bring in a small freighter, filling it cargo bay to capacity, lifting off as the asteroid began to fall into the gravity well of the star. "
+
+ lotor_anomalies.482.name: "$lotor_anomalies.480.name$"
+ lotor_anomalies.482.desc: "Mining into the surface of the asteroid, your scientists were able to gather a combination of metals and kyber crystals. The short time before collision with the star was still enough to bring in a small freighter, filling it cargo bay to capacity, lifting off as the asteroid began to fall into the gravity well of the star. "
+
+ lotor_anomalies.483.name: "$lotor_anomalies.480.name$"
+ lotor_anomalies.483.desc: "The team was able to deftly avoid the densest deposits of alloy while drilling deep into the core of the asteroid, revealing a large deposit of kyber crystals. While keeping to a tight schedule, they were able to gather both crystals and alloys onto the freighter before departing. "
+
+### Anomalies - Specific Planet
+ # Mausoleum Moon Anomaly - Sarcophagus
+ lotor_sarcophagus_moon_anomaly: "The Mausoleum Moon"
+ lotor_sarcophagus_moon_categorie_desc: "While performing a standard scan in the §YSacorria system§! a curious signal was detected from a nearby moon."
+
+ lotor_anomalies_custom.10.name: "Ordered Surface"
+ lotor_anomalies_custom.10.desc: "Initial scans of §YSacorria's moon§! have revealed geometric structures covering hundreds of kilometers of the visible surface. Further scans indicate that beneath the lunar surface exists a labyrinthian series of tunnel networks. As §YSacorria§! was once settled before the Great Hyperspace War, perhaps it's worth investigating the purpose behind these subterranean passages."
+ lotor_anomalies_custom.10.a: "Let's look into it, then."
+ lotor_anomalies_custom.20.name: "Orbital Catacombs"
+ lotor_anomalies_custom.20.desc: "It turns out that §YSarcophagus§!, aptly named, is host to a massive sprawl of tombs, graves, and mausoleums that cover nearly the entire moon! Our scientist has informed us that they've only scratched the surface of the moon's history and the inhabitants buried here, but that they're confident that with the proper manpower for a full excavation they could chart the vast complexes beneath the surface. The manpower that would be required is indeed significant, but it is the only sure way to uncover as many secrets as we can."
+ lotor_anomalies_custom.20.a: "That will be enough."
+ lotor_anomalies_custom.20.b: "Assemble the men!"
+ lotor_anomalies_custom.30.name: "The Mausoleum Moon"
+ lotor_anomalies_custom.30.desc: "The mission was a success! Reports from §YSarcophagus§! indicate that the excavation allowed the science team to coordinate and focus their efforts on the most important and grand of the tombs and burial chambers, yielding valuable historic and societal data about the once-inhabitants of the world below. Some members of the science and excavation teams have become so fascinated with the discoveries that many members of the teams have since requested that we continue the previous inhabitants' tradition and resume the moon's usage as a tomb world."
+ lotor_anomalies_custom.30.a: "We have learned much"
+ lotor_anomalies_custom.30.b: "Who are we to deny tradition?"
+ lotor_anomalies_custom.40.name: "A Tomb Renewed"
+ lotor_anomalies_custom.40.desc: "Disaster\nReports are incoming from excavation team we sent to assist on §YSarcophagus§!. Apparently, while exploring one of the lower sections of the moon's extensive crypts, a seismic sensor set off a ground-quake that triggered a cascading collapse. The collapse has resulted in the death of our science team and a number of workers sent alongside them to explore §YSarcophagus§!. The more superstitious claim that disturbing the burial site of so many dead was undoubtedly the cause, having deemed the moon cursed, and those that survived doomed!"
+ lotor_anomalies_custom.40.a: "This is terrible!"
+ d_sarcophagus_mausoleum: "Sarcophagus Mausoleum"

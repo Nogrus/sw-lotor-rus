@@ -1,0 +1,65 @@
+﻿l_russian:
+
+ r_zillo_scale: "Scales of the Zillo Beast"
+ r_zillo_scale_desc: "Scales of the Great Earth Beast, with their help our Ships are unstoppable."
+ r_krayt_perl: "Pearl of a Krayt Dragon"
+ r_krayt_perl_desc: "This pearl is proof that you have slain a great Krayt Dragon. People from near and far are attracted to its glory."
+ lotor_zillo_beast_triumph: "Slayers of the Beast"
+ lotor_krayt_dragon_triumph: "Glory of the Dragon Perl"
+ lotor_starforge_core_triumph: "Starforge Core Production Assistance"
+ lotor_revan_mask_triumph: "Fame of Darth Revan"
+ lotor_freedon_nadd_alchemy: "Freedon Nadds Alchemistic Knowledge"
+ lotor_twilek_ark_triumph: "Riding the Storm"
+
+ r_muur_talisman: "Muur Talisman"
+ r_muur_talisman_desc: "One of the three Great Amulets created by the Sith lord Sorzus Syn in ancient times."
+
+ r_twilek_ark: "The Ark of Ryloth"
+ r_twilek_ark_desc: "A legendary Relic of the Twi'leks, this ark is one of the most important riches of Ryloth."
+
+ r_uneti_sappling: "Uneti Force Tree"
+ r_uneti_sappling_desc: "An incredibly rare and force sensitive tree that grows on the ancient world of Ahch-To."
+
+ r_revan_mask: "Darth Revan's Mask"
+ r_revan_mask_desc: "The famous Mask of the Fallen Jedi Revan, its a symbol of fight against the heavily armored Mandalorians."
+
+ r_hammer_station: "Hammer Station"
+ r_hammer_station_desc: "A powerful prototype battle station built within an asteroid that weaponized asteroids as projectiles."
+
+ r_starforge_core: "Core of the Starforge"
+ r_starforge_core_desc: "The core removed from the wreckage of the §HStar Force§! - a massive automated shipyard of Rakatan design."
+
+ r_mandalore_mask: "Mask of the Mandalore"
+ r_mandalore_mask_desc: "Removed from §HMandalore the Ultimate§! himself, this mask was retrieved after his death in combat. It is a symbol of the 'Mand'alor' - the sole ruler of the Mandalorian people."
+
+ r_red_ring_vaale: "Red Ring of Vaale"
+ r_red_ring_vaale_desc: "The Rings of Vaale were an artifact crafted by §HThe Architects of Vaale§!, an ancient, long-forgotten society based in the city of Vaale on the planet Dianth. According to legends, two such rings existed: one that provided eternal life but drove the wearer to madness, and another that gave whoever wore it eternal fortune but hastened their death. When worn together, the rings supposedly provided the wearer with great power."
+
+ r_blue_ring_vaale: "Blue Ring of Vaale"
+ r_blue_ring_vaale_desc: "The Rings of Vaale were an artifact crafted by §HThe Architects of Vaale§!, an ancient, long-forgotten society based in the city of Vaale on the planet Dianth. According to legends, two such rings existed: one that provided eternal life but drove the wearer to madness, and another that gave whoever wore it eternal fortune but hastened their death. When worn together, the rings supposedly provided the wearer with great power."
+ r_blue_ring_vaale_active: "Gives the $r_blue_ring_vaale$ to one of your leaders."
+ requires_blue_ring_vaale_not_equipped: "$TRIGGER_FAIL$§ROne of your leaders is already wearing the $r_blue_ring_vaale$§!"
+ leader_trait_blue_ring_of_vaale: "$r_blue_ring_vaale$"
+ leader_trait_blue_ring_of_vaale_desc: "The $r_blue_ring_vaale$ provides eternal life at the expense of one's mental health."
+
+ r_both_rings_vaale: "Rings of Vaale"
+ r_both_rings_vaale_desc: "When worn together, the rings supposedly provided the wearer with great power."
+
+ r_drengir_seeds: "Drengir Seeds"
+ r_drengir_seeds_desc: "These seeds can be planted to grow mighty sentient plants known as the §HDrengir§!. The §HDrengir§! crave force sensitives and will hunt them down with no mercy."
+
+ r_black_sphere: "Black Sphere of Eckless"
+ r_black_sphere_desc: "The Black Sphere was a ball of naturally occurring carbonite, marked with tiny white impurities that gave it the impression of stars shining from within. It was highly revered by the natives of Eckless, believed it held the coordinates to the planet Eckless."
+
+ r_onderon_holocron: "Freedon Nadd's Holocron"
+ r_onderon_holocron_desc: "Unlike other Sith Holocrons which focused primarily on philosophical teachings or secrets of the force, §H$r_onderon_holocron$§! functioned more as a repository of knowledge on how to further expand his kingdom into a true empire. These blueprints for expansion combined his martial and governing theories with extensive knowledge on Sith alchemy and ancient ship designs from before the tragedy on Korriban. In the right hands, the holocron presents immense power... or in the wrong hands, a grave threat."
+
+ r_terentatek_claw: "Claw of a Terentatek"
+ r_terentatek_claw_desc: "Taken as a trophy, this claw is not only a testament to the size of this Sithspawn abomination but a reminder that the dark side still lingers in the galaxy."
+
+ lotor_relic_events.200.name: "The Greatest Treasure"
+ lotor_relic_events.200.desc: "Perl, Perl, PERL!!"
+ lotor_relic_events.200.a: "YES"
+
+ r_bacca_blade: "Bacca's Ceremonial Blade"
+ r_bacca_blade_desc: "Bacca's Ceremonial Blade was a sacred Wookiee sword, forged by the legendary Wookiee warrior Bacca from the debris of the first starship to crash on Kashyyyk. From Bacca onward, the Ceremonial Blade was associated with the role of the Chieftain and was a symbol of their strength and courage."

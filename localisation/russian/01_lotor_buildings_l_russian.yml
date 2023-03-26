@@ -1,0 +1,114 @@
+﻿l_russian:
+### Buildings
+
+ building_fuel_refinery: "Завод по переработке топлива"
+ building_fuel_refinery_desc: "Использует процес синтезирования для создания альтернативного топлива для звездолётов."
+
+ building_advanced_planetary_shield_generator: "Генератор щитового поля"
+ building_advanced_planetary_shield_generator_desc: "Генератор шитового поля помогает свести к минимуму потери от орбитальных бомбардировок."
+
+ building_isotope5_reactor: "Реактор Изотопа-5"
+ building_isotope5_reactor_desc: "Используя мощь Изотопа-5, мы можем генерировать энергию в немыслимых ранее маштабах."
+
+ building_research_lab_4: "Продвинутая исследовательская лаборатория"
+ building_research_lab_4_desc: "Ученые получают больше свободы для экспериментов и проверки своих новых теорий."
+
+ building_advanced_institute: "Продвинутый Исследовательский институт"
+ building_advanced_institute_desc: "Сотрудничая с другими учеными и исследователями, институт выступает в качестве передовой линии исследований на планете."
+ building_advanced_supercomputer: "Продвинутый суперкомпьютер"
+ building_advanced_supercomputer_desc: "Эти суперкомпьютеры намного превосходят любой высокоразвитый мозг дроида."
+
+ building_heavy_alloy_forge: "Кузня тяжелых сплавов"
+ building_heavy_alloy_forge_desc: "Кузня тяжелых сплавов, использует процесс синтезирования, для воссоздания тяжелых сплавов."
+
+ building_hutt_palace: "Дворец Хаттов"
+ building_hutt_palace_desc: "Местный Дворец Хаттов, место криминала и шикарных возможностей, по крайней мере для Хаттов."
+
+ building_mando_recruitment_camp: "Лагерь Мандалорских новобранцев"
+ building_mando_recruitment_camp_desc: "Каждый может стать мандалорцем, если он выживет после здешних тренировок."
+
+ building_jedi_temple_1: "Анклав джедаев"
+ building_jedi_temple_1_desc: "Небольшой форпост джедаев, где живут монахи-джедаи, увеличивает их число и создаёт успокаивающую ауру на планете.\nУвеличивает число §Bдоступных джедаев§! на §G+3§!"
+
+ building_jedi_temple_2: "Храм джедаев"
+ building_jedi_temple_2_desc: "Настоящий храм джедаев, здесь размещены многочисленные джедаи, обеспечивающие безопасность и помощь всем нуждающимся.\nУвеличивает число  §Bдоступных джедаев§! на §G+5§!."
+
+ building_sith_temple_1: "Святилище ситхов"
+ building_sith_temple_1_desc: "Местное святилище ситхов, которое привлекает аколитов темной стороны силы и увеличивает их число.\nУвеличивает число §Rдоступных ситхов§! на §G+3§!"
+
+ building_sith_temple_2: "Академия ситхов"
+ building_sith_temple_2_desc: "Академия ситхов, превращающая грубых аколитов темной стороны в настоящих лордов ситхов.\nУвеличивает число §Rдоступных ситхов§! на §G+5§!"
+
+ building_hive_holo_confluence: "Слияние мыслей посредством холопередатчиков"
+ building_hive_holo_confluence_desc: "Объединение многих умов ради великой цели."
+
+## Starbase
+ sm_crew_training_center: "Центр подготовки экипажей"
+ sm_crew_training_center_desc: "В этом центре мы используем голографические проекции для безопасной подготовки экипажа к любым возможным испытаниям, которые могут поджидать его во тьме космоса."
+
+
+# Manufacturers
+ lotor_only_one_manufacturer: "На одной звездной базе можно использовать только одного производителя."
+ lotor_ship_manufacturer_intro: "Производители кораблей позволяют нам использовать опыт одной из известных в галактике компаний по производству судов."
+
+ sm_lotor_manufacturer_sith: "Производство $tech_lotor_sith_architecture$"
+ sm_lotor_manufacturer_sith_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_sith_architecture_desc$"
+
+ sm_lotor_manufacturer_alderaan: "Производство $tech_lotor_alderaan_architecture$"
+ sm_lotor_manufacturer_alderaan_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_alderaan_architecture_desc$"
+
+ sm_lotor_manufacturer_corellia: "Производство $tech_lotor_corellia_architecture$"
+ sm_lotor_manufacturer_corellia_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_corellia_architecture_desc$"
+
+ sm_lotor_manufacturer_kuat: "Производство $tech_lotor_kuat_architecture$"
+ sm_lotor_manufacturer_kuat_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_kuat_architecture_desc$"
+
+ sm_lotor_manufacturer_mon_cala: "Производство $tech_lotor_mon_cala_architecture$"
+ sm_lotor_manufacturer_mon_cala_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_mon_cala_architecture_desc$"
+
+ sm_lotor_manufacturer_rendili: "Производство $tech_lotor_rendili_architecture$"
+ sm_lotor_manufacturer_rendili_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_rendili_architecture_desc$"
+
+ sm_lotor_manufacturer_soro_suub: "Производство $tech_lotor_soro_suub_architecture$"
+ sm_lotor_manufacturer_soro_suub_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_soro_suub_architecture_desc$"
+
+ sm_lotor_manufacturer_mando: "Производство $tech_lotor_mando_architecture$"
+ sm_lotor_manufacturer_mando_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_mando_architecture_desc$"
+
+ sm_lotor_manufacturer_hutt: "Производство $tech_lotor_hutt_architecture$"
+ sm_lotor_manufacturer_hutt_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_hutt_architecture_desc$"
+
+ sm_lotor_manufacturer_onderon: "Производство $tech_lotor_onderon_architecture$"
+ sm_lotor_manufacturer_onderon_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_onderon_architecture_desc$"
+
+ sm_lotor_manufacturer_bothan: "Производство $tech_lotor_bothan_architecture$"
+ sm_lotor_manufacturer_bothan_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_bothan_architecture_desc$"
+
+ sm_lotor_manufacturer_chiss: "Производство $tech_lotor_chiss_architecture$"
+ sm_lotor_manufacturer_chiss_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_chiss_architecture_desc$"
+
+ sm_lotor_manufacturer_criminal: "Производство $tech_lotor_criminal_architecture$"
+ sm_lotor_manufacturer_criminal_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_criminal_architecture_desc$"
+ sm_lotor_manufacturer_czerka: "Производство $tech_lotor_czerka_architecture$"
+ sm_lotor_manufacturer_czerka_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_czerka_architecture_desc$"
+
+ sm_lotor_manufacturer_verpine: "Производство $tech_lotor_verpine_architecture$"
+ sm_lotor_manufacturer_verpine_desc: "$lotor_ship_manufacturer_intro$\n$tech_lotor_verpine_architecture_desc$"
+
+# Manufacturer Modifiers
+ lotor_manufacturer_sith_modifier: "Верфи Дромунд-Калакара"
+ lotor_manufacturer_alderaan_modifier: "Альдераан Роял Инжениринг"
+ lotor_manufacturer_corellia_modifier: "Корелианская Инженерная корпорация"
+ lotor_manufacturer_kuat_modifier: "Верфи Куата"
+ lotor_manufacturer_mon_cala_modifier: "Верфи Мон-Каламари"
+ lotor_manufacturer_rendili_modifier: "Рендили Гиперворкс"
+ lotor_manufacturer_soro_suub_modifier: "Корпорация СороСууб"
+ lotor_manufacturer_mando_modifier: "МандалМоторс"
+ lotor_manufacturer_hutt_modifier: "Верфи Гуарджия"
+ lotor_manufacturer_onderon_modifier: "Королевские верфи Ондерона"
+
+ building_czerka_weapon_factory: "Оружейные производства Цзерки"
+ building_czerka_weapon_factory_desc: "Оружие Цзерки  разрабатывает самое современное оружие для продажи через это предприятие."
+
+ building_muun_bank: "Филиал Межгалактического Банковского клана"
+ building_muun_bank_desc: "Межгалактический банковский клан использует этот объект в качестве операционной базы для своей банковской деятельности на других мирах."
