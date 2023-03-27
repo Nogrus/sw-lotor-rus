@@ -145,23 +145,23 @@
  lotor_anomalies.140.b: "Доказательство того, что мы нужны нашим колониям, чтобы выжить!"
 
  # Forsaken Warehouse
- lotor_anomalies.150.name: "Forsaken Warehouse"
- lotor_anomalies.150.desc: "The explorers report that the structures detected earlier are warehouses. Long abandoned, they bear no markings that we recognize. Theories range from the base being some sort of smuggler cache, to a lost empire's ancient shrine. Nevertheless, we could salvage some resources."
- lotor_anomalies.150.a: "Great!"
- lotor_factory_desert_anomaly: "Forsaken Warehouse"
- lotor_factory_desert_categorie_desc: "Unidentified structures were detected on the surface of §Y[From.GetName]§!. Seeing as the surrounding areas are void of life, further investigation appears to be warranted."
+ lotor_anomalies.150.name: "Покинутое хранилище"
+ lotor_anomalies.150.desc: "Исследователи сообщают, что обнаруженные ранее строения являются складами. Давно заброшенные, они не имеют никаких опознавательных знаков. Теории варьируются от базы являющейся тайником контрабандистов до древней святыни потерянной империи. Тем не менее, мы можем извлечь некоторые ресурсы."
+ lotor_anomalies.150.a: "Великолепно!"
+ lotor_factory_desert_anomaly: "Покинутое хранилище"
+ lotor_factory_desert_categorie_desc: "На поверхности §Y[From.GetName]§! были обнаружены неопознанные структуры! Поскольку в окрестностях нет жизни, дальнейшее исследование представляется оправданным."
 
  # Fascinating Wildlife
- lotor_anomalies.160.name: "Fascinating Wildlife"
- lotor_anomalies.160.desc: "So far, §Y[this.GetLeaderName]§! has not been able to discover how §Y[From.GetName]§! can support so many different species. If we end up colonizing here, we could effectively study this phenomenon over a longer period of time. However, we could also allow the population to hunt some of the animals and exhibit them in zoos."
- lotor_anomalies.160.a: "Study it."
- lotor_anomalies.160.b: "Allow hunting."
- lotor_wildlife_studies: "Wildlife Studies"
- lotor_wildlife_studies_desc: "Initial scans of §Y[From.GetName]§! show readings of a previously undiscovered alien species. While primitive, the animals of §Y[From.GetName]§! could be a valuable target of study."
- lotor_wildlife_hunting: "Wildlife Hunting"
- lotor_wildlife_hunting_desc: "§Y[this.GetLeaderName]§! has spread the word to our people that the animals of §Y[From.GetName]§! can be hunted for fun. Tourism will most likely increase to this location as long as there is a stable animal population to hunt."
- lotor_fascinating_wildlife_anomaly: "Fascinating Wildlife"
- lotor_fascinating_wildlife_categorie_desc: "It appears as though §Y[From.GetName]§! has a wide variety of different animals living on it. We should send a team of researchers to find out where this impressive fauna came from to add it to our galactic records."
+ lotor_anomalies.160.name: "Великолепная дикая природа"
+ lotor_anomalies.160.desc: "Пока что §Y[this.GetLeaderName]§! не удалось выяснить, как §Y[From.GetName]§! может поддерживать такое количество различных видов. Если мы колонизируем это место, мы сможем эффективно изучать это явление в течение более длительного периода времени. Однако мы также могли бы позволить населению охотиться на некоторых животных и выставлять их в зоопарках."
+ lotor_anomalies.160.a: "Изучить это."
+ lotor_anomalies.160.b: "Разрешить охоту."
+ lotor_wildlife_studies: "Изучение дикой природы"
+ lotor_wildlife_studies_desc: "Первоначальное сканирование §Y[From.GetName]§! показало наличие ранее не обнаруженного инопланетного вида. Несмотря на примитивность, животные §Y[From.GetName]§! могут стать ценным объектом для изучения."
+ lotor_wildlife_hunting: "Сафари в дикой природе"
+ lotor_wildlife_hunting_desc: "§Y[this.GetLeaderName]§! распространил среди наших людей весть о том, что на животных §Y[From.GetName]§! можно охотиться ради удовольствия. Туризм, скорее всего, будет расти в этом месте, пока есть стабильная популяция животных, на которых можно устроить сафари."
+ lotor_fascinating_wildlife_anomaly: "Великолепная дикая природа"
+ lotor_fascinating_wildlife_categorie_desc: "Похоже, что на §Y[From.GetName]§! обитает множество различных животных. Мы должны послать группу исследователей, чтобы выяснить, откуда взялась эта впечатляющая фауна, и добавить ее в наши архивы."
 
  # Extraordinary Underwater Flora
  lotor_anomalies.170.name: "Extraordinary Underwater Flora"
