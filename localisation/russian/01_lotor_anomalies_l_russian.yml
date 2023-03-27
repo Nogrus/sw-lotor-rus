@@ -164,7 +164,7 @@
  lotor_fascinating_wildlife_categorie_desc: "Похоже, что на §Y[From.GetName]§! обитает множество различных животных. Мы должны послать группу исследователей, чтобы выяснить, откуда взялась эта впечатляющая фауна, и добавить ее в наши архивы."
 
  # Extraordinary Underwater Flora
- lotor_anomalies.170.name: "Extraordinary Underwater Flora"
+ lotor_anomalies.170.name: "Необычная подводная флора"
  lotor_anomalies.170.desc: "As it turns out, this variety of colors and elevations actually comes from huge coral reefs. The water on §Y[From.GetName]§! also seems to have a certain composition that significantly increases its buoyancy. The shores of §Y[From.GetName]§! appear to be extremely fertile, which could make it an excellent agricultural world."
  lotor_anomalies.170.a: "Incredible."
  lotor_underwater_flora: "Extraordinary Underwater Flora"
