@@ -1,24 +1,24 @@
 ﻿l_russian:
 
 ## Weapon Types - Elements
- weapon_type_radiation: "£weapon_type_radiation£ §YRadiation§!"
+ weapon_type_radiation: "£weapon_type_radiation£ §YРадиационное оружие§!"
  weapon_type_force: "£weapon_type_force£ §MСила§!"
  #weapon_type_kinetic
  #weapon_type_energy
  #weapon_type_explosive
- weapon_type_acid: "£weapon_type_acid£ §YCorrosive§!"
- weapon_type_ion: "£weapon_type_ion£ §YIon§!"
- weapon_type_laser: "£weapon_type_laser£ §YLaser§!"
- weapon_type_sonic: "£weapon_type_sonic£ §YSonic§!"
+ weapon_type_acid: "£weapon_type_acid£ §YКислотное оружие§!"
+ weapon_type_ion: "£weapon_type_ion£ §YИонное оружие§!"
+ weapon_type_laser: "£weapon_type_laser£ §YЛазерное оружие§!"
+ weapon_type_sonic: "£weapon_type_sonic£ §YАкустическое оружие§!"
 
 ## Weapon Types - Weapon
  #weapon_type_point_defense
- weapon_type_cannon: "§YCannon§!"
- weapon_type_missile: "§YMissile§!"
- weapon_type_torpedo: "§YTorpedo§!"
- weapon_type_fighter: "§YFighter§!"
- weapon_type_bomber: "§YBomber§!"
- weapon_type_catalyst: "§YCatalyst§!"
+ weapon_type_cannon: "§YОрудия§!"
+ weapon_type_missile: "§YРакеты§!"
+ weapon_type_torpedo: "§YТорпеды§!"
+ weapon_type_fighter: "§YИстребители§!"
+ weapon_type_bomber: "§YБомбардировщики§!"
+ weapon_type_catalyst: "§YКаталитическое оружие§!"
 
 ## Components
  internal_components_size_I: "Internal Components"
