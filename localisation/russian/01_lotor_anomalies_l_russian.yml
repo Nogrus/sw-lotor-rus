@@ -165,21 +165,21 @@
 
  # Extraordinary Underwater Flora
  lotor_anomalies.170.name: "Необычная подводная флора"
- lotor_anomalies.170.desc: "As it turns out, this variety of colors and elevations actually comes from huge coral reefs. The water on §Y[From.GetName]§! also seems to have a certain composition that significantly increases its buoyancy. The shores of §Y[From.GetName]§! appear to be extremely fertile, which could make it an excellent agricultural world."
- lotor_anomalies.170.a: "Incredible."
- lotor_underwater_flora: "Extraordinary Underwater Flora"
- lotor_underwater_flora_desc: "The underwater biome of §Y[From.GetName]§! somehow ensures a plethora of organic species and extremely fertile soils on the banks. Researching the area could bring further viability of our people colonizing diverse environments."
- lotor_underwater_flora_anomaly: "Strange Sighting"
- lotor_underwater_flora_categorie_desc: "Even from §Y[From.GetName]§!'s orbit, §Y[this.GetLeaderName]§! was able to identify large elevations and discolorations in the water. It is believed that these could be large coral reefs and aquatic plants. If this hypothesis proves to be correct, minerals or chemical reactions on the banks would also be possible. Although this goes against our initial plans to study habitability, it is decided we should investigate this phenomenon."
+ lotor_anomalies.170.desc: "Как выяснилось, это разнообразие цвета и возвышенностей на самом деле обусловлено огромными коралловыми рифами. Вода на §Y[From.GetName]§! также, похоже, имеет определенный состав, который значительно повышает ее плавучесть. Берега §Y[From.GetName]§! кажутся чрезвычайно плодородными, что может сделать его отличным сельскохозяйственным миром."
+ lotor_anomalies.170.a: "Невероятно."
+ lotor_underwater_flora: "Необычная подводная флора"
+ lotor_underwater_flora_desc: "Подводный биом §Y[From.GetName]§ каким-то образом обеспечивает изобилие органических видов и чрезвычайно плодородные почвы на берегах. Исследование этой области может привести к дальнейшей выживаемости нашего народа, колонизирующего разнообразные среды."
+ lotor_underwater_flora_anomaly: "Странное зрелище"
+ lotor_underwater_flora_categorie_desc: "Даже с орбиты §Y[From.GetName]§! §Y[this.GetLeaderName]§! смог определить большие возвышения и обесцвечивания в воде. Предполагается, что это могут быть крупные коралловые рифы и водные растения. Если эта гипотеза окажется верной, то на берегах также могут находиться минералы или химические компоненты. Хотя это идет вразрез с нашими первоначальными планами по изучению пригодных планет, решено, что мы должны исследовать это явление."
 
  # Low Gravity
- lotor_anomalies.180.name: "Low Gravity"
- lotor_anomalies.180.desc: "After a series of intensive scans on §Y[From.GetName]§! we have determined the planet has very low gravity and an above-average concentration of oxygen. As a result of this astrological phenomenon, the flora and fauna located on the planet are abnormally large compared to finding them elsewhere. These animals seem to behave extremely aggressively and want to defend their territory more violently."
- lotor_anomalies.180.a: "Fascinating."
- lotor_decreased_gravity: "Decreased Gravity"
- lotor_decreased_gravity_desc: "This planet has a lower gravity than usual."
- lotor_decreased_gravity_anomaly: "Low Gravity"
- lotor_decreased_gravity_categorie_desc: "Our science team has been thrown off by §Y[From.GetName]§!, it has lower gravity than usual for this sector. An investigation should be launched to uncover the truth of this."
+ lotor_anomalies.180.name: "Низкая Гравитация"
+ lotor_anomalies.180.desc: "После серии интенсивных сканирований на §Y[From.GetName]§! мы определили, что планета имеет очень низкую гравитацию и концентрацию кислорода выше среднего. В результате этого астрологического феномена флора и фауна, обитающие на планете, аномально велики по сравнению с тем, что можно встретить в других местах. Эти животные, похоже, ведут себя крайне агрессивно и стремятся более яростно защищать свою территорию."
+ lotor_anomalies.180.a: "Очаровательно."
+ lotor_decreased_gravity: "Пониженная гравитация"
+ lotor_decreased_gravity_desc: "На этой планете более низкая гравитация по сравнению со стандартом."
+ lotor_decreased_gravity_anomaly: "Низкая гравитация"
+ lotor_decreased_gravity_categorie_desc: "Наша научная команда была послана на §Y[From.GetName]§! Она имеет более низкую гравитацию, чем обычно для этого сектора. Необходимо начать исследование, чтобы выяснить причину этого."
 
  # Dense Mineral Fields
  lotor_anomalies.190.name: "Dense Mineral Fields"
