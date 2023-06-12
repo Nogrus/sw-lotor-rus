@@ -1,235 +1,235 @@
 ﻿l_russian:
- ONDERON_paladin: "Paladin"
- ONDERON_zakkeg: "Zakkeg"
- ONDERON_orbalisk: "Orbalisk"
- ONDERON_boma: "Boma"
- ONDERON_pritarr: "Pritarr"
- ONDERON_dalgo: "Dalgo"
- ONDERON_fambaa: "Fambaa"
- ONDERON_pikobi: "Pikobi"
- ONDERON_ruping: "Ruping"
- ONDERON_tee_muss: "Tee-muss"
- ONDERON_untamed: "Untamed"
- ONDERON_iziz: "Iziz"
- ONDERON_kira: "Kira"
- ONDERON_beast_rider: "Beast Rider"
- ONDERON_malgan: "Malgan"
- ONDERON_ommin: "Ommin"
- ONDERON_shatoon: "Shatoon"
- ONDERON_unifar: "Unifar"
- ONDERON_highlands: "Highlands"
- ONDERON_dxun: "Dxun"
- ONDERON_dagri: "Dagri"
- ONDERON_evas: "Evas"
- ONDERON_suthre: "Suthre"
- ONDERON_cannok: "Cannok"
- ONDERON_drexl: "Drexl"
- ONDERON_gharzr: "Gharzr"
- ONDERON_maalraas: "Maalraas"
- ONDERON_crasna: "Crasna"
- ONDERON_japrael: "Japrael"
- ONDERON_warbeast: "Warbeast"
- ONDERON_dxunian_stalker: "Dxunian Stalker"
- ONDERON_nighthunter: "Nighthunter"
- ONDERON_skreev: "Skreev"
- ONDERON_dxunian_raptor: "Dxunian Raptor"
- ONDERON_dxunian_devourer: "Dxunian Devourer"
- ONDERON_amanoa: "Amanoa"
- ONDERON_citadel: "Citadel"
- ONDERON_battlement: "Battlement"
- ONDERON_sarcophagus: "Sarcophagus"
- ONDERON_naddist: "Naddist"
- ONDERON_providence: "Providence"
- ONDERON_subjugator: "Subjugator"
- ONDERON_conqueror: "Conqueror"
- ONDERON_crusader: "Crusader"
- ONDERON_glory: "Glory"
- ONDERON_immortal: "Immortal"
- ONDERON_judicator: "Judicator"
- ONDERON_vanguard: "Vanguard"
- ONDERON_renown: "Renown"
- ONDERON_demolisher: "Demolisher"
- ONDERON_storm: "Storm"
- ONDERON_stormstrike: "Stormstrike"
- ONDERON_constr_aurek: "Constructor Aurek"
- ONDERON_constr_besh: "Constructor Besh"
- ONDERON_constr_cresh: "Constructor Cresh"
- ONDERON_constr_dorn: "Constructor Dorn"
- ONDERON_constr_forn: "Constructor Forn"
- ONDERON_constr_grek: "Constructor Grek"
- ONDERON_constr_herf: "Constructor Herf"
- ONDERON_constr_isk: "Constructor Isk"
- ONDERON_constr_jenth: "Constructor Jenth"
- ONDERON_constr_krill: "Constructor Krill"
- ONDERON_constr_leth: "Constructor Leth"
- ONDERON_constr_mern: "Constructor Mern"
- ONDERON_constr_nern: "Constructor Nern"
- ONDERON_constr_osk: "Constructor Osk"
- ONDERON_constr_peth: "Constructor Peth"
- ONDERON_constr_senth: "Constructor Senth"
- ONDERON_constr_trill: "Constructor Trill"
- ONDERON_constr_usk: "Constructor Usk"
- ONDERON_constr_vev: "Constructor Vev"
- ONDERON_constr_wesk: "Constructor Wesk"
- ONDERON_constr_xesh: "Constructor Xesh"
- ONDERON_constr_yirt: "Constructor Yirt"
- ONDERON_constr_zerek: "Constructor Zerek"
- ONDERON_constr_cherek: "Constructor Cherek"
- ONDERON_constr_qek: "Constructor Qek"
- ONDERON_constr_resh: "Constructor Resh"
- ONDERON_constr_enth: "Constructor Enth"
- ONDERON_constr_onith: "Constructor Onith"
- ONDERON_constr_krenth: "Constructor Krenth"
- ONDERON_constr_nen: "Constructor Nen"
- ONDERON_constr_orenth: "Constructor Orenth"
- ONDERON_constr_shen: "Constructor Shen"
- ONDERON_constr_thesh: "Constructor Thesh"
- ONDERON_fortress_kira: "Fortress Kira"
- ONDERON_fortress_iziz: "Fortress Iziz"
- ONDERON_fortress_nadd: "Fortress Nadd"
- ONDERON_fortress_ommin: "Fortress Ommin"
- ONDERON_fortress_amanoa: "Fortress Amanoa"
- ONDERON_FLEET_onderonian_space_force: "Onderonian Space Force"
- ONDERON_FLEET_beast_rider_s_might: "Beast Rider's Might"
- ONDERON_FLEET_warbeast_swarm: "Warbeast Swarm"
- ONDERON_FLEET_nighthunter_pack: "Nighthunter Pack"
- ONDERON_FLEET_royal_protectors: "Royal Protectors"
- ONDERON_FLEET_queen_s_command: "Queen's Command"
- ONDERON_FLEET_king_s_hand: "King's Hand"
- ONDERON_FLEET_slayers_of_mandalore: "Slayers of Mandalore"
- ONDERON_FLEET_strike_force_aurek: "Strike Force Aurek"
- ONDERON_FLEET_strike_force_besh: "Strike Force Besh"
- ONDERON_FLEET_strike_force_cresh: "Strike Force Cresh"
- ONDERON_FLEET_strike_force_dorn: "Strike Force Dorn"
- ONDERON_FLEET_strike_force_forn: "Strike Force Forn"
- ONDERON_FLEET_strike_force_grek: "Strike Force Grek"
- ONDERON_FLEET_strike_force_herf: "Strike Force Herf"
- ONDERON_FLEET_strike_force_isk: "Strike Force Isk"
- ONDERON_FLEET_strike_force_jenth: "Strike Force Jenth"
- ONDERON_FLEET_strike_force_krill: "Strike Force Krill"
- ONDERON_FLEET_strike_force_leth: "Strike Force Leth"
- ONDERON_FLEET_strike_force_mern: "Strike Force Mern"
- ONDERON_FLEET_strike_force_nern: "Strike Force Nern"
- ONDERON_FLEET_strike_force_osk: "Strike Force Osk"
- ONDERON_FLEET_strike_force_peth: "Strike Force Peth"
- ONDERON_FLEET_strike_force_senth: "Strike Force Senth"
- ONDERON_FLEET_strike_force_trill: "Strike Force Trill"
- ONDERON_FLEET_strike_force_usk: "Strike Force Usk"
- ONDERON_FLEET_strike_force_vev: "Strike Force Vev"
- ONDERON_FLEET_strike_force_wesk: "Strike Force Wesk"
- ONDERON_FLEET_strike_force_xesh: "Strike Force Xesh"
- ONDERON_FLEET_strike_force_yirt: "Strike Force Yirt"
- ONDERON_FLEET_strike_force_zerek: "Strike Force Zerek"
- ONDERON_FLEET_strike_force_cherek: "Strike Force Cherek"
- ONDERON_FLEET_strike_force_qek: "Strike Force Qek"
- ONDERON_FLEET_strike_force_resh: "Strike Force Resh"
- ONDERON_FLEET_strike_force_enth: "Strike Force Enth"
- ONDERON_FLEET_strike_force_onith: "Strike Force Onith"
- ONDERON_FLEET_strike_force_krenth: "Strike Force Krenth"
- ONDERON_FLEET_strike_force_nen: "Strike Force Nen"
- ONDERON_FLEET_strike_force_orenth: "Strike Force Orenth"
- ONDERON_FLEET_strike_force_shen: "Strike Force Shen"
- ONDERON_FLEET_strike_force_thesh: "Strike Force Thesh"
- ONDERON_FLEET_SEQUENTIAL_onderon_defense_fleet: "$ORD$ Onderon Defense Fleet"
- ONDERON_ARMY_SEQUENTIAL_onderonian_royal_milita: "$ORD$ Onderonian Royal Milita"
- ONDERON_ARMY_SEQUENTIAL_onderonian_ground_forces: "$ORD$ Onderonian Ground Forces"
- ONDERON_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- ONDERON_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- ONDERON_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- ONDERON_ARMY_SEQUENTIAL_naddist_warriors: "$ORD$ Naddist Warriors"
- ONDERON_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- ONDERON_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- ONDERON_CHR_anosek: "Anosek"
- ONDERON_CHR_bahima: "Bahima"
- ONDERON_CHR_olko: "Olko"
- ONDERON_CHR_lux: "Lux"
- ONDERON_CHR_bostuco: "Bostuco"
- ONDERON_CHR_dashel: "Dashel"
- ONDERON_CHR_firil: "Firil"
- ONDERON_CHR_gegorran: "Gegorran"
- ONDERON_CHR_gelesi: "Gelesi"
- ONDERON_CHR_saw: "Saw"
- ONDERON_CHR_harger: "Harger"
- ONDERON_CHR_hutch: "Hutch"
- ONDERON_CHR_tigran: "Tigran"
- ONDERON_CHR_borgin: "Borgin"
- ONDERON_CHR_tolo: "Tolo"
- ONDERON_CHR_kadron: "Kadron"
- ONDERON_CHR_kiph: "Kiph"
- ONDERON_CHR_laane: "Laane"
- ONDERON_CHR_m_sadaar: "M'sadaar"
- ONDERON_CHR_ramsis: "Ramsis"
- ONDERON_CHR_mondon: "Mondon"
- ONDERON_CHR_oron: "Oron"
- ONDERON_CHR_nebo: "Nebo"
- ONDERON_CHR_nikko: "Nikko"
- ONDERON_CHR_novar: "Novar"
- ONDERON_CHR_jintar: "Jintar"
- ONDERON_CHR_olis: "Olis"
- ONDERON_CHR_regalun: "Regalun"
- ONDERON_CHR_ponlar: "Ponlar"
- ONDERON_CHR_napo: "Napo"
- ONDERON_CHR_qimtiq: "Qimtiq"
- ONDERON_CHR_sanjay: "Sanjay"
- ONDERON_CHR_rask: "Rask"
- ONDERON_CHR_riiken: "Riiken"
- ONDERON_CHR_akenathen: "Akenathen"
- ONDERON_CHR_dex: "Dex"
- ONDERON_CHR_tobin: "Tobin"
- ONDERON_CHR_tolas: "Tolas"
- ONDERON_CHR_vaklu: "Vaklu"
- ONDERON_CHR_jon: "Jon"
- ONDERON_CHR_vix: "Vix"
- ONDERON_CHR_amanoa: "Amanoa"
- ONDERON_CHR_anda: "Anda"
- ONDERON_CHR_anjali: "Anjali"
- ONDERON_CHR_anoser: "Anoser"
- ONDERON_CHR_bakkel: "Bakkel"
- ONDERON_CHR_mina: "Mina"
- ONDERON_CHR_dono: "Dono"
- ONDERON_CHR_jonra: "Jonra"
- ONDERON_CHR_steela: "Steela"
- ONDERON_CHR_deil: "Deil"
- ONDERON_CHR_lina: "Lina"
- ONDERON_CHR_pokk: "Pokk"
- ONDERON_CHR_foth: "Foth"
- ONDERON_CHR_sullio: "Sullio"
- ONDERON_CHR_talia: "Talia"
- ONDERON_CHR_terlyn: "Terlyn"
- ONDERON_CHR_deja: "Deja"
- ONDERON_CHR_baz: "Baz"
- ONDERON_CHR_bonteri: "Bonteri"
- ONDERON_CHR_far: "Far"
- ONDERON_CHR_gerrera: "Gerrera"
- ONDERON_CHR_jamiro: "Jamiro"
- ONDERON_CHR_kaa: "Kaa"
- ONDERON_CHR_kad: "Kad"
- ONDERON_CHR_kadru: "Kadru"
- ONDERON_CHR_dendup: "Dendup"
- ONDERON_CHR_kira: "Kira"
- ONDERON_CHR_galia: "Galia"
- ONDERON_CHR_oarr: "Oarr"
- ONDERON_CHR_petryph: "Petryph"
- ONDERON_CHR_popotis: "Popotis"
- ONDERON_CHR_rash: "Rash"
- ONDERON_CHR_shemar: "Shemar"
- ONDERON_CHR_tandin: "Tandin"
- ONDERON_CHR_tiree: "Tiree"
- ONDERON_CHR_vander: "Vander"
- ONDERON_CHR_nebet: "Nebet"
- ONDERON_CHR_skelda: "Skelda"
- ONDERON_CHR_ommin: "Ommin"
- ONDERON_CHR_nadd: "Nadd"
- ONDERON_CHR_dovos: "Dovos"
- ONDERON_CHR_gobee: "Gobee"
- ONDERON_CHR_kurt: "Kurt"
- ONDERON_CHR_panar: "Panar"
- ONDERON_CHR_kinch: "Kinch"
- ONDERON_CHR_akoru: "Akoru"
- ONDERON_CHR_bregan: "Bregan"
- ONDERON_CHR_brutann: "Brutann"
- ONDERON_CHR_amroth: "Amroth"
- ONDERON_CHR_clazca: "Clazca"
- ONDERON_CHR_dor_drel: "Dor-Drel"
- ONDERON_CHR_ezelk: "Ezelk"
- ONDERON_CHR_sunka: "Sunka"
+  ONDERON_paladin: "Паладин" #NT!
+  ONDERON_zakkeg: "Заккег" #NT!
+  ONDERON_orbalisk: "Орбалиск" #NT!
+  ONDERON_boma: "Бома" #NT!
+  ONDERON_pritarr: "Притарр" #NT!
+  ONDERON_dalgo: "Далго" #NT!
+  ONDERON_fambaa: "Фамбаа" #NT!
+  ONDERON_pikobi: "Пикоби" #NT!
+  ONDERON_ruping: "Рупинг" #NT!
+  ONDERON_tee_muss: "Ти-мусс" #NT!
+  ONDERON_untamed: "Неприрученный" #NT!
+  ONDERON_iziz: "Изиз" #NT!
+  ONDERON_kira: "Кира" #NT!
+  ONDERON_beast_rider: "Звериный наездник" #NT!
+  ONDERON_malgan: "Малган" #NT!
+  ONDERON_ommin: "Оммин" #NT!
+  ONDERON_shatoon: "Шатон" #NT!
+  ONDERON_unifar: "Унифар" #NT!
+  ONDERON_highlands: "Нагорье" #NT!
+  ONDERON_dxun: "Дксун" #NT!
+  ONDERON_dagri: "Дагри" #NT!
+  ONDERON_evas: "Эвас" #NT!
+  ONDERON_suthre: "Сутре" #NT!
+  ONDERON_cannok: "Каннок" #NT!
+  ONDERON_drexl: "Дрексл" #NT!
+  ONDERON_gharzr: "Гарзр" #NT!
+  ONDERON_maalraas: "Маалраас" #NT!
+  ONDERON_crasna: "Красна" #NT!
+  ONDERON_japrael: "Джапраэль" #NT!
+  ONDERON_warbeast: "Боевой зверь" #NT!
+  ONDERON_dxunian_stalker: "Дксунский сталкер" #NT!
+  ONDERON_nighthunter: "Ночной охотник" #NT!
+  ONDERON_skreev: "Скреев" #NT!
+  ONDERON_dxunian_raptor: "Дксунский раптоп" #NT!
+  ONDERON_dxunian_devourer: "Дксунский пожиратель" #NT!
+  ONDERON_amanoa: "Аманоа" #NT!
+  ONDERON_citadel: "Цитадель" #NT!
+  ONDERON_battlement: "Зубцы" #NT!
+  ONDERON_sarcophagus: "Саркофаг" #NT!
+  ONDERON_naddist: "Наддист" #NT!
+  ONDERON_providence: "Провидение" #NT!
+  ONDERON_subjugator: "Покоритель" #NT!
+  ONDERON_conqueror: "Завоеватель" #NT!
+  ONDERON_crusader: "Крестоносец" #NT!
+  ONDERON_glory: "Слава" #NT!
+  ONDERON_immortal: "Бессмертный" #NT!
+  ONDERON_judicator: "Вершитель" #NT!
+  ONDERON_vanguard: "Авангард" #NT!
+  ONDERON_renown: "Признание" #NT!
+  ONDERON_demolisher: "Уничтожитель" #NT!
+  ONDERON_storm: "Шторм" #NT!
+  ONDERON_stormstrike: "Удар бури" #NT!
+  ONDERON_constr_aurek: "Конструктор «Аурек»" #NT!
+  ONDERON_constr_besh: "Конструктор «Беш»" #NT!
+  ONDERON_constr_cresh: "Конструктор «Креш»" #NT!
+  ONDERON_constr_dorn: "Конструктор «Дорн»" #NT!
+  ONDERON_constr_forn: "Конструктор «Форн»" #NT!
+  ONDERON_constr_grek: "Конструктор «Грек»" #NT!
+  ONDERON_constr_herf: "Конструктор «Херф»" #NT!
+  ONDERON_constr_isk: "Конструктор «Иск»" #NT!
+  ONDERON_constr_jenth: "Конструктор «Джент»" #NT!
+  ONDERON_constr_krill: "Конструктор «Крилл»" #NT!
+  ONDERON_constr_leth: "Конструктор «Лет»" #NT!
+  ONDERON_constr_mern: "Конструктор «Мерн»" #NT!
+  ONDERON_constr_nern: "Конструктор «Нерн»" #NT!
+  ONDERON_constr_osk: "Конструктор «Оск»" #NT!
+  ONDERON_constr_peth: "Конструктор «Пет»" #NT!
+  ONDERON_constr_senth: "Конструктор «Сент»" #NT!
+  ONDERON_constr_trill: "Конструктор «Трилл»" #NT!
+  ONDERON_constr_usk: "Конструктор «Уск»" #NT!
+  ONDERON_constr_vev: "Конструктор «Вев»" #NT!
+  ONDERON_constr_wesk: "Конструктор «Уэск»" #NT!
+  ONDERON_constr_xesh: "Конструктор «Зеш»" #NT!
+  ONDERON_constr_yirt: "Конструктор «Йирт»" #NT!
+  ONDERON_constr_zerek: "Конструктор «Зерек»" #NT!
+  ONDERON_constr_cherek: "Конструктор «Черек»" #NT!
+  ONDERON_constr_qek: "Конструктор «Кек»" #NT!
+  ONDERON_constr_resh: "Конструктор «Реш»" #NT!
+  ONDERON_constr_enth: "Конструктор «Энт»" #NT!
+  ONDERON_constr_onith: "Конструктор «Онит»" #NT!
+  ONDERON_constr_krenth: "Конструктор «Крент»" #NT!
+  ONDERON_constr_nen: "Конструктор «Нен»" #NT!
+  ONDERON_constr_orenth: "Конструктор «Орент»" #NT!
+  ONDERON_constr_shen: "Конструктор «Шен»" #NT!
+  ONDERON_constr_thesh: "Конструктор «Теш»" #NT!
+  ONDERON_fortress_kira: "Крепость Кира" #NT!
+  ONDERON_fortress_iziz: "Крепость Изиз" #NT!
+  ONDERON_fortress_nadd: "Крепость Надд" #NT!
+  ONDERON_fortress_ommin: "Крепость Оммин" #NT!
+  ONDERON_fortress_amanoa: "Крепость Аманоа" #NT!
+  ONDERON_FLEET_onderonian_space_force: "Ондеронские космические силы" #NT!
+  ONDERON_FLEET_beast_rider_s_might: "Мощь \"Звериных наездников\"" #NT!
+  ONDERON_FLEET_warbeast_swarm: "Рой боевых зверей" #NT!
+  ONDERON_FLEET_nighthunter_pack: "Стая ночных охотников" #NT!
+  ONDERON_FLEET_royal_protectors: "Королевские защитники" #NT!
+  ONDERON_FLEET_queen_s_command: "Приказ королевы" #NT!
+  ONDERON_FLEET_king_s_hand: "Королевская рука" #NT!
+  ONDERON_FLEET_slayers_of_mandalore: "Убийцы Мандалора" #NT!
+  ONDERON_FLEET_strike_force_aurek: "Ударная группа «Аурек»" #NT!
+  ONDERON_FLEET_strike_force_besh: "Ударная группа «Беш»" #NT!
+  ONDERON_FLEET_strike_force_cresh: "Ударная группа «Креш»" #NT!
+  ONDERON_FLEET_strike_force_dorn: "Ударная группа «Дорн»" #NT!
+  ONDERON_FLEET_strike_force_forn: "Ударная группа «Форн»" #NT!
+  ONDERON_FLEET_strike_force_grek: "Ударная группа «Грек»" #NT!
+  ONDERON_FLEET_strike_force_herf: "Ударная группа «Херф»" #NT!
+  ONDERON_FLEET_strike_force_isk: "Ударная группа «Иск»" #NT!
+  ONDERON_FLEET_strike_force_jenth: "Ударная группа «Джент»" #NT!
+  ONDERON_FLEET_strike_force_krill: "Ударная группа «Крилл»" #NT!
+  ONDERON_FLEET_strike_force_leth: "Ударная группа «Лет»" #NT!
+  ONDERON_FLEET_strike_force_mern: "Ударная группа «Мерн»" #NT!
+  ONDERON_FLEET_strike_force_nern: "Ударная группа «Нерн»" #NT!
+  ONDERON_FLEET_strike_force_osk: "Ударная группа «Оск»" #NT!
+  ONDERON_FLEET_strike_force_peth: "Ударная группа «Пет»" #NT!
+  ONDERON_FLEET_strike_force_senth: "Ударная группа «Сент»" #NT!
+  ONDERON_FLEET_strike_force_trill: "Ударная группа «Трилл»" #NT!
+  ONDERON_FLEET_strike_force_usk: "Ударная группа «Уск»" #NT!
+  ONDERON_FLEET_strike_force_vev: "Ударная группа «Вев»" #NT!
+  ONDERON_FLEET_strike_force_wesk: "Ударная группа «Уэск»" #NT!
+  ONDERON_FLEET_strike_force_xesh: "Ударная группа «Зеш»" #NT!
+  ONDERON_FLEET_strike_force_yirt: "Ударная группа «Йирт»" #NT!
+  ONDERON_FLEET_strike_force_zerek: "Ударная группа «Зерек»" #NT!
+  ONDERON_FLEET_strike_force_cherek: "Ударная группа «Черек»" #NT!
+  ONDERON_FLEET_strike_force_qek: "Ударная группа «Кек»" #NT!
+  ONDERON_FLEET_strike_force_resh: "Ударная группа «Реш»" #NT!
+  ONDERON_FLEET_strike_force_enth: "Ударная группа «Энт»" #NT!
+  ONDERON_FLEET_strike_force_onith: "Ударная группа «Онит»" #NT!
+  ONDERON_FLEET_strike_force_krenth: "Ударная группа «Крент»" #NT!
+  ONDERON_FLEET_strike_force_nen: "Ударная группа «Нен»" #NT!
+  ONDERON_FLEET_strike_force_orenth: "Ударная группа «Орент»" #NT!
+  ONDERON_FLEET_strike_force_shen: "Ударная группа «Шен»" #NT!
+  ONDERON_FLEET_strike_force_thesh: "Ударная группа «Теш»" #NT!
+  ONDERON_FLEET_SEQUENTIAL_onderon_defense_fleet: "$ORD$ Onderon Defense Fleet" #NT!
+  ONDERON_ARMY_SEQUENTIAL_onderonian_royal_milita: "$ORD$ Onderonian Royal Milita" #NT!
+  ONDERON_ARMY_SEQUENTIAL_onderonian_ground_forces: "$ORD$ Onderonian Ground Forces" #NT!
+  ONDERON_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  ONDERON_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  ONDERON_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon" #NT!
+  ONDERON_ARMY_SEQUENTIAL_naddist_warriors: "$ORD$ Naddist Warriors" #NT!
+  ONDERON_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  ONDERON_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard" #NT!
+  ONDERON_CHR_anosek: "Anosek" #NT!
+  ONDERON_CHR_bahima: "Bahima" #NT!
+  ONDERON_CHR_olko: "Olko" #NT!
+  ONDERON_CHR_lux: "Lux" #NT!
+  ONDERON_CHR_bostuco: "Bostuco" #NT!
+  ONDERON_CHR_dashel: "Dashel" #NT!
+  ONDERON_CHR_firil: "Firil" #NT!
+  ONDERON_CHR_gegorran: "Gegorran" #NT!
+  ONDERON_CHR_gelesi: "Gelesi" #NT!
+  ONDERON_CHR_saw: "Saw" #NT!
+  ONDERON_CHR_harger: "Harger" #NT!
+  ONDERON_CHR_hutch: "Hutch" #NT!
+  ONDERON_CHR_tigran: "Tigran" #NT!
+  ONDERON_CHR_borgin: "Borgin" #NT!
+  ONDERON_CHR_tolo: "Tolo" #NT!
+  ONDERON_CHR_kadron: "Kadron" #NT!
+  ONDERON_CHR_kiph: "Kiph" #NT!
+  ONDERON_CHR_laane: "Laane" #NT!
+  ONDERON_CHR_m_sadaar: "M'sadaar" #NT!
+  ONDERON_CHR_ramsis: "Ramsis" #NT!
+  ONDERON_CHR_mondon: "Mondon" #NT!
+  ONDERON_CHR_oron: "Oron" #NT!
+  ONDERON_CHR_nebo: "Nebo" #NT!
+  ONDERON_CHR_nikko: "Nikko" #NT!
+  ONDERON_CHR_novar: "Novar" #NT!
+  ONDERON_CHR_jintar: "Jintar" #NT!
+  ONDERON_CHR_olis: "Olis" #NT!
+  ONDERON_CHR_regalun: "Regalun" #NT!
+  ONDERON_CHR_ponlar: "Ponlar" #NT!
+  ONDERON_CHR_napo: "Napo" #NT!
+  ONDERON_CHR_qimtiq: "Qimtiq" #NT!
+  ONDERON_CHR_sanjay: "Sanjay" #NT!
+  ONDERON_CHR_rask: "Rask" #NT!
+  ONDERON_CHR_riiken: "Riiken" #NT!
+  ONDERON_CHR_akenathen: "Akenathen" #NT!
+  ONDERON_CHR_dex: "Dex" #NT!
+  ONDERON_CHR_tobin: "Tobin" #NT!
+  ONDERON_CHR_tolas: "Tolas" #NT!
+  ONDERON_CHR_vaklu: "Vaklu" #NT!
+  ONDERON_CHR_jon: "Jon" #NT!
+  ONDERON_CHR_vix: "Vix" #NT!
+  ONDERON_CHR_amanoa: "Amanoa" #NT!
+  ONDERON_CHR_anda: "Anda" #NT!
+  ONDERON_CHR_anjali: "Anjali" #NT!
+  ONDERON_CHR_anoser: "Anoser" #NT!
+  ONDERON_CHR_bakkel: "Bakkel" #NT!
+  ONDERON_CHR_mina: "Mina" #NT!
+  ONDERON_CHR_dono: "Dono" #NT!
+  ONDERON_CHR_jonra: "Jonra" #NT!
+  ONDERON_CHR_steela: "Steela" #NT!
+  ONDERON_CHR_deil: "Deil" #NT!
+  ONDERON_CHR_lina: "Lina" #NT!
+  ONDERON_CHR_pokk: "Pokk" #NT!
+  ONDERON_CHR_foth: "Foth" #NT!
+  ONDERON_CHR_sullio: "Sullio" #NT!
+  ONDERON_CHR_talia: "Talia" #NT!
+  ONDERON_CHR_terlyn: "Terlyn" #NT!
+  ONDERON_CHR_deja: "Deja" #NT!
+  ONDERON_CHR_baz: "Baz" #NT!
+  ONDERON_CHR_bonteri: "Bonteri" #NT!
+  ONDERON_CHR_far: "Far" #NT!
+  ONDERON_CHR_gerrera: "Gerrera" #NT!
+  ONDERON_CHR_jamiro: "Jamiro" #NT!
+  ONDERON_CHR_kaa: "Kaa" #NT!
+  ONDERON_CHR_kad: "Kad" #NT!
+  ONDERON_CHR_kadru: "Kadru" #NT!
+  ONDERON_CHR_dendup: "Dendup" #NT!
+  ONDERON_CHR_kira: "Kira" #NT!
+  ONDERON_CHR_galia: "Galia" #NT!
+  ONDERON_CHR_oarr: "Oarr" #NT!
+  ONDERON_CHR_petryph: "Petryph" #NT!
+  ONDERON_CHR_popotis: "Popotis" #NT!
+  ONDERON_CHR_rash: "Rash" #NT!
+  ONDERON_CHR_shemar: "Shemar" #NT!
+  ONDERON_CHR_tandin: "Tandin" #NT!
+  ONDERON_CHR_tiree: "Tiree" #NT!
+  ONDERON_CHR_vander: "Vander" #NT!
+  ONDERON_CHR_nebet: "Nebet" #NT!
+  ONDERON_CHR_skelda: "Skelda" #NT!
+  ONDERON_CHR_ommin: "Ommin" #NT!
+  ONDERON_CHR_nadd: "Nadd" #NT!
+  ONDERON_CHR_dovos: "Dovos" #NT!
+  ONDERON_CHR_gobee: "Gobee" #NT!
+  ONDERON_CHR_kurt: "Kurt" #NT!
+  ONDERON_CHR_panar: "Panar" #NT!
+  ONDERON_CHR_kinch: "Kinch" #NT!
+  ONDERON_CHR_akoru: "Akoru" #NT!
+  ONDERON_CHR_bregan: "Bregan" #NT!
+  ONDERON_CHR_brutann: "Brutann" #NT!
+  ONDERON_CHR_amroth: "Amroth" #NT!
+  ONDERON_CHR_clazca: "Clazca" #NT!
+  ONDERON_CHR_dor_drel: "Dor-Drel" #NT!
+  ONDERON_CHR_ezelk: "Ezelk" #NT!
+  ONDERON_CHR_sunka: "Sunka" #NT!

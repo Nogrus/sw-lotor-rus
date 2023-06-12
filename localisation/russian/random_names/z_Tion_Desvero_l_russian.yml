@@ -1,212 +1,212 @@
 ﻿l_russian:
- TION_ferece: "Ferece"
- TION_barseg: "Barseg"
- TION_cron: "Cron"
- TION_argai: "Argai"
- TION_livien: "Livien"
- TION_xer: "Xer"
- TION_tiatiov: "Tiatiov"
- TION_daritha: "Daritha"
- TION_genoharadan: "GenoHaradan"
- TION_terman: "Terman"
- TION_lianna: "Lianna"
- TION_janilis: "Janilis"
- TION_thule: "Thule"
- TION_junkfort: "Junkfort"
- TION_nardolin: "Nardolin"
- TION_florn: "Florn"
- TION_iego: "Iego"
- TION_maelibus: "Maelibus"
- TION_ranroon: "Ranroon"
- TION_heimoila: "Heimoila"
- TION_cutter: "Cutter"
- TION_star_glaive: "Star-Glaive"
- TION_battlebird: "Battlebird"
- TION_harpice: "Harpice"
- TION_penteconter: "Penteconter"
- TION_polyreme: "Polyreme"
- TION_rakehell: "Rakehell"
- TION_xolochi: "Xolochi"
- TION_mytag: "Mytag"
- TION_bordhell: "Bordhell"
- TION_indrexu_spiral: "Indrexu Spiral"
- TION_queen_of_ranroon: "Queen of Ranroon"
- TION_eibon_scimitar: "Eibon Scimitar"
- TION_deathknell: "Deathknell"
- TION_huttslayer: "Huttslayer"
- TION_hutt_s_bane: "Hutt's Bane"
- TION_might_of_tion: "Might of Tion"
- TION_legacy_of_cron: "Legacy of Cron"
- TION_legacy_of_argai: "Legacy of Argai"
- TION_back_spiral: "Back Spiral"
- TION_legacy_of_livien: "Legacy of Livien"
- TION_legacy_of_barseg: "Legacy of Barseg"
- TION_radama_void: "Radama Void"
- TION_xo_s_eye: "Xo's Eye"
- TION_nikato_s_bootheel: "Nikato's Bootheel"
- TION_dark_reaper: "Dark Reaper"
- TION_shining_gem: "Shining Gem"
- TION_crimson_condottiere: "Crimson Condottiere"
- TION_corps_commander: "Corps Commander"
- TION_far_indrexu: "Far Indrexu"
- TION_constr_aurek: "Constructor Aurek"
- TION_constr_besh: "Constructor Besh"
- TION_constr_cresh: "Constructor Cresh"
- TION_constr_dorn: "Constructor Dorn"
- TION_constr_forn: "Constructor Forn"
- TION_constr_grek: "Constructor Grek"
- TION_constr_herf: "Constructor Herf"
- TION_constr_isk: "Constructor Isk"
- TION_constr_jenth: "Constructor Jenth"
- TION_constr_krill: "Constructor Krill"
- TION_constr_leth: "Constructor Leth"
- TION_constr_mern: "Constructor Mern"
- TION_constr_nern: "Constructor Nern"
- TION_constr_osk: "Constructor Osk"
- TION_constr_peth: "Constructor Peth"
- TION_constr_senth: "Constructor Senth"
- TION_constr_trill: "Constructor Trill"
- TION_constr_usk: "Constructor Usk"
- TION_constr_vev: "Constructor Vev"
- TION_constr_wesk: "Constructor Wesk"
- TION_constr_xesh: "Constructor Xesh"
- TION_constr_yirt: "Constructor Yirt"
- TION_constr_zerek: "Constructor Zerek"
- TION_constr_cherek: "Constructor Cherek"
- TION_constr_qek: "Constructor Qek"
- TION_constr_resh: "Constructor Resh"
- TION_constr_enth: "Constructor Enth"
- TION_constr_onith: "Constructor Onith"
- TION_constr_krenth: "Constructor Krenth"
- TION_constr_nen: "Constructor Nen"
- TION_constr_orenth: "Constructor Orenth"
- TION_constr_shen: "Constructor Shen"
- TION_constr_thesh: "Constructor Thesh"
- TION_FLEET_strike_force_aurek: "Strike Force Aurek"
- TION_FLEET_strike_force_besh: "Strike Force Besh"
- TION_FLEET_strike_force_cresh: "Strike Force Cresh"
- TION_FLEET_strike_force_dorn: "Strike Force Dorn"
- TION_FLEET_strike_force_forn: "Strike Force Forn"
- TION_FLEET_strike_force_grek: "Strike Force Grek"
- TION_FLEET_strike_force_herf: "Strike Force Herf"
- TION_FLEET_strike_force_isk: "Strike Force Isk"
- TION_FLEET_strike_force_jenth: "Strike Force Jenth"
- TION_FLEET_strike_force_krill: "Strike Force Krill"
- TION_FLEET_strike_force_leth: "Strike Force Leth"
- TION_FLEET_strike_force_mern: "Strike Force Mern"
- TION_FLEET_strike_force_nern: "Strike Force Nern"
- TION_FLEET_strike_force_osk: "Strike Force Osk"
- TION_FLEET_strike_force_peth: "Strike Force Peth"
- TION_FLEET_strike_force_senth: "Strike Force Senth"
- TION_FLEET_strike_force_trill: "Strike Force Trill"
- TION_FLEET_strike_force_usk: "Strike Force Usk"
- TION_FLEET_strike_force_vev: "Strike Force Vev"
- TION_FLEET_strike_force_wesk: "Strike Force Wesk"
- TION_FLEET_strike_force_xesh: "Strike Force Xesh"
- TION_FLEET_strike_force_yirt: "Strike Force Yirt"
- TION_FLEET_strike_force_zerek: "Strike Force Zerek"
- TION_FLEET_strike_force_cherek: "Strike Force Cherek"
- TION_FLEET_strike_force_qek: "Strike Force Qek"
- TION_FLEET_strike_force_resh: "Strike Force Resh"
- TION_FLEET_strike_force_enth: "Strike Force Enth"
- TION_FLEET_strike_force_onith: "Strike Force Onith"
- TION_FLEET_strike_force_krenth: "Strike Force Krenth"
- TION_FLEET_strike_force_nen: "Strike Force Nen"
- TION_FLEET_strike_force_orenth: "Strike Force Orenth"
- TION_FLEET_strike_force_shen: "Strike Force Shen"
- TION_FLEET_strike_force_thesh: "Strike Force Thesh"
- TION_FLEET_first_throne: "First Throne"
- TION_FLEET_second_throne: "Second Throne"
- TION_FLEET_third_throne: "Third Throne"
- TION_FLEET_fourth_throne: "Fourth Throne"
- TION_FLEET_fifth_throne: "Fifth Throne"
- TION_FLEET_sixth_throne: "Sixth Throne"
- TION_FLEET_seventh_throne: "Seventh Throne"
- TION_FLEET_eighth_throne: "Eighth Throne"
- TION_FLEET_hutt_s_bane: "Hutt's Bane"
- TION_FLEET_hutt_slayer: "Hutt Slayer"
- TION_FLEET_scourge_of_varl: "Scourge of Varl"
- TION_FLEET_scourge_of_nal_hutta: "Scourge of Nal Hutta"
- TION_FLEET_xim_s_return: "Xim's Return"
- TION_FLEET_SEQUENTIAL_defense_fleet: "$ORD$ Defense Fleet"
- TION_ARMY_SEQUENTIAL_honor_guard: "$ORD$ Honor Guard"
- TION_ARMY_SEQUENTIAL_infantry_company: "$ORD$ Infantry Company"
- TION_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- TION_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- TION_ARMY_SEQUENTIAL_guardian_corps: "$ORD$ Guardian Corps"
- TION_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- TION_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- TION_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- TION_CHR_jake: "Jake"
- TION_CHR_sannus: "Sannus"
- TION_CHR_dominic: "Dominic"
- TION_CHR_nenevanth: "Nenevanth"
- TION_CHR_adon_aris: "Adon'aris"
- TION_CHR_biblack: "Biblack"
- TION_CHR_wheade: "Wheade"
- TION_CHR_ekh: "Ekh"
- TION_CHR_druuven: "Druuven"
- TION_CHR_ithmir: "Ithmir"
- TION_CHR_jos: "Jos"
- TION_CHR_orman: "Orman"
- TION_CHR_kashan: "Kashan"
- TION_CHR_kerred: "Kerred"
- TION_CHR_phillip: "Phillip"
- TION_CHR_jerik: "Jerik"
- TION_CHR_steef: "Steef"
- TION_CHR_yin: "Yin"
- TION_CHR_dunaub: "Dunaub"
- TION_CHR_nolan: "Nolan"
- TION_CHR_orliss: "Orliss"
- TION_CHR_goran: "Goran"
- TION_CHR_tal: "Tal"
- TION_CHR_thorne: "Thorne"
- TION_CHR_luscen: "Luscen"
- TION_CHR_mazzi: "Mazzi"
- TION_CHR_perrive: "Perrive"
- TION_CHR_alto: "Alto"
- TION_CHR_trigg: "Trigg"
- TION_CHR_hylei: "Hylei"
- TION_CHR_indrexu: "Indrexu"
- TION_CHR_lianna: "Lianna"
- TION_CHR_fessi: "Fessi"
- TION_CHR_amatha: "Amatha"
- TION_CHR_terri: "Terri"
- TION_CHR_jenna: "Jenna"
- TION_CHR_senni: "Senni"
- TION_CHR_sandi: "Sandi"
- TION_CHR_miri: "Miri"
- TION_CHR_valles: "Valles"
- TION_CHR_alreeda: "Alreeda"
- TION_CHR_soames: "Soames"
- TION_CHR_harthan: "Harthan"
- TION_CHR_lorrick: "Lorrick"
- TION_CHR_raynor: "Raynor"
- TION_CHR_tion: "Tion"
- TION_CHR_cortess: "Cortess"
- TION_CHR_daud: "Daud"
- TION_CHR_fetz: "Fetz"
- TION_CHR_herr: "Herr"
- TION_CHR_karl: "Karl"
- TION_CHR_lars: "Lars"
- TION_CHR_otek: "Otek"
- TION_CHR_santhe: "Santhe"
- TION_CHR_sharockk: "Sharockk"
- TION_CHR_snivas: "Snivas"
- TION_CHR_tion_hyme: "Tion-Hyme"
- TION_CHR_vocta: "Vocta"
- TION_CHR_gillmunn: "Gillmunn"
- TION_CHR_hesz: "Hesz"
- TION_CHR_kraym: "Kraym"
- TION_CHR_stratus: "Stratus"
- TION_CHR_matteus: "Matteus"
- TION_CHR_maslovar: "Maslovar"
- TION_CHR_ferece: "Ferece"
- TION_CHR_robeir: "Robeir"
- TION_CHR_rodin: "Rodin"
- TION_CHR_hlian: "Hlian"
- TION_CHR_xer: "Xer"
- TION_CHR_zaym: "Zaym"
- TION_CHR_tiatiov: "Tiatiov"
- TION_CHR_livien: "Livien"
- TION_CHR_verpalion: "Verpalion"
+  TION_ferece: "Ферече" #NT!
+  TION_barseg: "Барсег" #NT!
+  TION_cron: "Крон" #NT!
+  TION_argai: "Аргай" #NT!
+  TION_livien: "Ливьен" #NT!
+  TION_xer: "Зер" #NT!
+  TION_tiatiov: "Тиатиов" #NT!
+  TION_daritha: "Дарита" #NT!
+  TION_genoharadan: "ГеноХарадан" #NT!
+  TION_terman: "Терман" #NT!
+  TION_lianna: "Лианна" #NT!
+  TION_janilis: "Джанилис" #NT!
+  TION_thule: "Туле" #NT!
+  TION_junkfort: "Джанкфорт" #NT!
+  TION_nardolin: "Нардолин" #NT!
+  TION_florn: "Флорн" #NT!
+  TION_iego: "Иего" #NT!
+  TION_maelibus: "Мэлибус" #NT!
+  TION_ranroon: "Ранрун" #NT!
+  TION_heimoila: "Хеймойла" #NT!
+  TION_cutter: "Резчик" #NT!
+  TION_star_glaive: "Звёздная глефа" #NT!
+  TION_battlebird: "Боевая птица" #NT!
+  TION_harpice: "Харпис" #NT!
+  TION_penteconter: "Пентеконтор" #NT!
+  TION_polyreme: "Полирема" #NT!
+  TION_rakehell: "Развратник" #NT!
+  TION_xolochi: "Ксолочи" #NT!
+  TION_mytag: "Митаг" #NT!
+  TION_bordhell: "Бордхелл" #NT!
+  TION_indrexu_spiral: "Спираль Индрексу" #NT!
+  TION_queen_of_ranroon: "Королева Ранруна" #NT!
+  TION_eibon_scimitar: "Скимитар Эйбон" #NT!
+  TION_deathknell: "Погребальный звон" #NT!
+  TION_huttslayer: "Хаттоубийца" #NT!
+  TION_hutt_s_bane: "Проклятие хаттов" #NT!
+  TION_might_of_tion: "Мощь Тиона" #NT!
+  TION_legacy_of_cron: "Наследие Крона" #NT!
+  TION_legacy_of_argai: "Наследие Аргая" #NT!
+  TION_back_spiral: "Обратная спираль" #NT!
+  TION_legacy_of_livien: "Наследие Ливьена" #NT!
+  TION_legacy_of_barseg: "Наследие Барсега" #NT!
+  TION_radama_void: "Пустошь Радама" #NT!
+  TION_xo_s_eye: "Глаз Зо" #NT!
+  TION_nikato_s_bootheel: "Каблук Никато" #NT!
+  TION_dark_reaper: "Тёмный жнец" #NT!
+  TION_shining_gem: "Сияющий самоцвет" #NT!
+  TION_crimson_condottiere: "Багровый кондотьер" #NT!
+  TION_corps_commander: "Командир Корпуса стражей" #NT!
+  TION_far_indrexu: "Дальний Индрексу" #NT!
+  TION_constr_aurek: "Конструктор «Аурек»" #NT!
+  TION_constr_besh: "Конструктор «Беш»" #NT!
+  TION_constr_cresh: "Конструктор «Креш»" #NT!
+  TION_constr_dorn: "Конструктор «Дорн»" #NT!
+  TION_constr_forn: "Конструктор «Форн»" #NT!
+  TION_constr_grek: "Конструктор «Грек»" #NT!
+  TION_constr_herf: "Конструктор «Херф»" #NT!
+  TION_constr_isk: "Конструктор «Иск»" #NT!
+  TION_constr_jenth: "Конструктор «Джент»" #NT!
+  TION_constr_krill: "Конструктор «Крилл»" #NT!
+  TION_constr_leth: "Конструктор «Лет»" #NT!
+  TION_constr_mern: "Конструктор «Мерн»" #NT!
+  TION_constr_nern: "Конструктор «Нерн»" #NT!
+  TION_constr_osk: "Конструктор «Оск»" #NT!
+  TION_constr_peth: "Конструктор «Пет»" #NT!
+  TION_constr_senth: "Конструктор «Сент»" #NT!
+  TION_constr_trill: "Конструктор «Трилл»" #NT!
+  TION_constr_usk: "Конструктор «Уск»" #NT!
+  TION_constr_vev: "Конструктор «Вев»" #NT!
+  TION_constr_wesk: "Конструктор «Уэск»" #NT!
+  TION_constr_xesh: "Конструктор «Зеш»" #NT!
+  TION_constr_yirt: "Конструктор «Йирт»" #NT!
+  TION_constr_zerek: "Конструктор «Зерек»" #NT!
+  TION_constr_cherek: "Конструктор «Черек»" #NT!
+  TION_constr_qek: "Конструктор «Кек»" #NT!
+  TION_constr_resh: "Конструктор «Реш»" #NT!
+  TION_constr_enth: "Конструктор «Энт»" #NT!
+  TION_constr_onith: "Конструктор «Онит»" #NT!
+  TION_constr_krenth: "Конструктор «Крент»" #NT!
+  TION_constr_nen: "Конструктор «Нен»" #NT!
+  TION_constr_orenth: "Конструктор «Орент»" #NT!
+  TION_constr_shen: "Конструктор «Шен»" #NT!
+  TION_constr_thesh: "Конструктор «Теш»" #NT!
+  TION_FLEET_strike_force_aurek: "Ударная группа «Аурек»" #NT!
+  TION_FLEET_strike_force_besh: "Ударная группа «Беш»" #NT!
+  TION_FLEET_strike_force_cresh: "Ударная группа «Креш»" #NT!
+  TION_FLEET_strike_force_dorn: "Ударная группа «Дорн»" #NT!
+  TION_FLEET_strike_force_forn: "Ударная группа «Форн»" #NT!
+  TION_FLEET_strike_force_grek: "Ударная группа «Грек»" #NT!
+  TION_FLEET_strike_force_herf: "Ударная группа «Херф»" #NT!
+  TION_FLEET_strike_force_isk: "Ударная группа «Иск»" #NT!
+  TION_FLEET_strike_force_jenth: "Ударная группа «Джент»" #NT!
+  TION_FLEET_strike_force_krill: "Ударная группа «Крилл»" #NT!
+  TION_FLEET_strike_force_leth: "Ударная группа «Лет»" #NT!
+  TION_FLEET_strike_force_mern: "Ударная группа «Мерн»" #NT!
+  TION_FLEET_strike_force_nern: "Ударная группа «Нерн»" #NT!
+  TION_FLEET_strike_force_osk: "Ударная группа «Оск»" #NT!
+  TION_FLEET_strike_force_peth: "Ударная группа «Пет»" #NT!
+  TION_FLEET_strike_force_senth: "Ударная группа «Сент»" #NT!
+  TION_FLEET_strike_force_trill: "Ударная группа «Трилл»" #NT!
+  TION_FLEET_strike_force_usk: "Ударная группа «Уск»" #NT!
+  TION_FLEET_strike_force_vev: "Ударная группа «Вев»" #NT!
+  TION_FLEET_strike_force_wesk: "Ударная группа «Уэск»" #NT!
+  TION_FLEET_strike_force_xesh: "Ударная группа «Зеш»" #NT!
+  TION_FLEET_strike_force_yirt: "Ударная группа «Йирт»" #NT!
+  TION_FLEET_strike_force_zerek: "Ударная группа «Зерек»" #NT!
+  TION_FLEET_strike_force_cherek: "Ударная группа «Черек»" #NT!
+  TION_FLEET_strike_force_qek: "Ударная группа «Кек»" #NT!
+  TION_FLEET_strike_force_resh: "Ударная группа «Реш»" #NT!
+  TION_FLEET_strike_force_enth: "Ударная группа «Энт»" #NT!
+  TION_FLEET_strike_force_onith: "Ударная группа «Онит»" #NT!
+  TION_FLEET_strike_force_krenth: "Ударная группа «Крент»" #NT!
+  TION_FLEET_strike_force_nen: "Ударная группа «Нен»" #NT!
+  TION_FLEET_strike_force_orenth: "Ударная группа «Орент»" #NT!
+  TION_FLEET_strike_force_shen: "Ударная группа «Шен»" #NT!
+  TION_FLEET_strike_force_thesh: "Ударная группа «Теш»" #NT!
+  TION_FLEET_first_throne: "Первый трон" #NT!
+  TION_FLEET_second_throne: "Второй трон" #NT!
+  TION_FLEET_third_throne: "Третий трон" #NT!
+  TION_FLEET_fourth_throne: "Четвёртый трон" #NT!
+  TION_FLEET_fifth_throne: "Пятый трон" #NT!
+  TION_FLEET_sixth_throne: "Шестой трон" #NT!
+  TION_FLEET_seventh_throne: "Седьмой трон" #NT!
+  TION_FLEET_eighth_throne: "Восьмой трон" #NT!
+  TION_FLEET_hutt_s_bane: "Проклятие хаттов" #NT!
+  TION_FLEET_hutt_slayer: "Истребление хаттов" #NT!
+  TION_FLEET_scourge_of_varl: "Бич Варла" #NT!
+  TION_FLEET_scourge_of_nal_hutta: "Плеть Нал-Хатты" #NT!
+  TION_FLEET_xim_s_return: "Возвращение Зима" #NT!
+  TION_FLEET_SEQUENTIAL_defense_fleet: "$ORD$ Defense Fleet" #NT!
+  TION_ARMY_SEQUENTIAL_honor_guard: "$ORD$ Honor Guard" #NT!
+  TION_ARMY_SEQUENTIAL_infantry_company: "$ORD$ Infantry Company" #NT!
+  TION_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  TION_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  TION_ARMY_SEQUENTIAL_guardian_corps: "$ORD$ Guardian Corps" #NT!
+  TION_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors" #NT!
+  TION_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  TION_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard" #NT!
+  TION_CHR_jake: "Jake" #NT!
+  TION_CHR_sannus: "Sannus" #NT!
+  TION_CHR_dominic: "Dominic" #NT!
+  TION_CHR_nenevanth: "Nenevanth" #NT!
+  TION_CHR_adon_aris: "Adon'aris" #NT!
+  TION_CHR_biblack: "Biblack" #NT!
+  TION_CHR_wheade: "Wheade" #NT!
+  TION_CHR_ekh: "Ekh" #NT!
+  TION_CHR_druuven: "Druuven" #NT!
+  TION_CHR_ithmir: "Ithmir" #NT!
+  TION_CHR_jos: "Jos" #NT!
+  TION_CHR_orman: "Orman" #NT!
+  TION_CHR_kashan: "Kashan" #NT!
+  TION_CHR_kerred: "Kerred" #NT!
+  TION_CHR_phillip: "Phillip" #NT!
+  TION_CHR_jerik: "Jerik" #NT!
+  TION_CHR_steef: "Steef" #NT!
+  TION_CHR_yin: "Yin" #NT!
+  TION_CHR_dunaub: "Dunaub" #NT!
+  TION_CHR_nolan: "Nolan" #NT!
+  TION_CHR_orliss: "Orliss" #NT!
+  TION_CHR_goran: "Goran" #NT!
+  TION_CHR_tal: "Tal" #NT!
+  TION_CHR_thorne: "Thorne" #NT!
+  TION_CHR_luscen: "Luscen" #NT!
+  TION_CHR_mazzi: "Mazzi" #NT!
+  TION_CHR_perrive: "Perrive" #NT!
+  TION_CHR_alto: "Alto" #NT!
+  TION_CHR_trigg: "Trigg" #NT!
+  TION_CHR_hylei: "Hylei" #NT!
+  TION_CHR_indrexu: "Indrexu" #NT!
+  TION_CHR_lianna: "Lianna" #NT!
+  TION_CHR_fessi: "Fessi" #NT!
+  TION_CHR_amatha: "Amatha" #NT!
+  TION_CHR_terri: "Terri" #NT!
+  TION_CHR_jenna: "Jenna" #NT!
+  TION_CHR_senni: "Senni" #NT!
+  TION_CHR_sandi: "Sandi" #NT!
+  TION_CHR_miri: "Miri" #NT!
+  TION_CHR_valles: "Valles" #NT!
+  TION_CHR_alreeda: "Alreeda" #NT!
+  TION_CHR_soames: "Soames" #NT!
+  TION_CHR_harthan: "Harthan" #NT!
+  TION_CHR_lorrick: "Lorrick" #NT!
+  TION_CHR_raynor: "Raynor" #NT!
+  TION_CHR_tion: "Tion" #NT!
+  TION_CHR_cortess: "Cortess" #NT!
+  TION_CHR_daud: "Daud" #NT!
+  TION_CHR_fetz: "Fetz" #NT!
+  TION_CHR_herr: "Herr" #NT!
+  TION_CHR_karl: "Karl" #NT!
+  TION_CHR_lars: "Lars" #NT!
+  TION_CHR_otek: "Otek" #NT!
+  TION_CHR_santhe: "Santhe" #NT!
+  TION_CHR_sharockk: "Sharockk" #NT!
+  TION_CHR_snivas: "Snivas" #NT!
+  TION_CHR_tion_hyme: "Tion-Hyme" #NT!
+  TION_CHR_vocta: "Vocta" #NT!
+  TION_CHR_gillmunn: "Gillmunn" #NT!
+  TION_CHR_hesz: "Hesz" #NT!
+  TION_CHR_kraym: "Kraym" #NT!
+  TION_CHR_stratus: "Stratus" #NT!
+  TION_CHR_matteus: "Matteus" #NT!
+  TION_CHR_maslovar: "Maslovar" #NT!
+  TION_CHR_ferece: "Ferece" #NT!
+  TION_CHR_robeir: "Robeir" #NT!
+  TION_CHR_rodin: "Rodin" #NT!
+  TION_CHR_hlian: "Hlian" #NT!
+  TION_CHR_xer: "Xer" #NT!
+  TION_CHR_zaym: "Zaym" #NT!
+  TION_CHR_tiatiov: "Tiatiov" #NT!
+  TION_CHR_livien: "Livien" #NT!
+  TION_CHR_verpalion: "Verpalion" #NT!

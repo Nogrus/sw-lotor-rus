@@ -1,335 +1,335 @@
 ﻿l_russian:
- DURO_axehead: "Axehead"
- DURO_reciprocity: "Reciprocity"
- DURO_cal: "Cal"
- DURO_centurion: "Centurion"
- DURO_consular: "Consular"
- DURO_core_systems: "Core Galaxy Systems"
- DURO_defender: "Defender"
- DURO_vanguard: "Vanguard"
- DURO_dreadnought: "Dreadnought"
- DURO_elite: "Elite"
- DURO_emissary: "Emissary"
- DURO_foray: "Foray"
- DURO_harbinger: "Harbinger"
- DURO_hammerhead: "Hammerhead"
- DURO_valiant: "Valiant"
- DURO_champion_of_iridonia: "Champion of Iridonia"
- DURO_sojurn: "Sojurn"
- DURO_tanthior: "Tanthior"
- DURO_testament: "Testament"
- DURO_veltraa: "Veltraa"
- DURO_heraklon: "Heraklon"
- DURO_inexpugnable: "Inexpugnable"
- DURO_courageous: "Courageous"
- DURO_swiftsure: "Swiftsure"
- DURO_diligence: "Diligence"
- DURO_indefatigable: "Indefatigable"
- DURO_tremendous: "Tremendous"
- DURO_interdictor: "Interdictor"
- DURO_invincible: "Invincible"
- DURO_longbeam: "Longbeam"
- DURO_aurora_iii: "Aurora III"
- DURO_aurora_ix: "Aurora IX"
- DURO_karvoss_dawn: "Karvoss Dawn"
- DURO_praetorian: "Praetorian"
- DURO_thranta: "Thranta"
- DURO_daybreaker: "Daybreaker"
- DURO_dorin_s_sky: "Dorin's Sky"
- DURO_grace_of_champalan: "Grace of Champalan Tides"
- DURO_outrider: "Outrider"
- DURO_vanguard_s_blade: "Vanguard's Blade"
- DURO_valor: "Valor"
- DURO_founder: "Founder"
- DURO_telos: "Telos"
- DURO_gav_daragon: "Gav Daragon"
- DURO_allusis: "Allusis"
- DURO_valliant: "Valliant"
- DURO_conraddas_vindicator: "Conraddas Vindicator"
- DURO_trehalt: "Trehalt"
- DURO_rana: "Rana"
- DURO_mas: "Mas"
- DURO_chidee: "Chidee"
- DURO_ervix: "Ervix"
- DURO_krallet: "Krallet"
- DURO_raraza: "Raraza"
- DURO_journeyman: "Journeyman"
- DURO_wanderer: "Wanderer"
- DURO_jivv: "Jivv"
- DURO_jyvus: "Jyvus"
- DURO_pellezara: "Pellezara"
- DURO_tayana: "Tayana"
- DURO_might_of_the_high: "Might of the High Houses"
- DURO_queen_s_respite: "Queen's Respite"
- DURO_astrologian: "Astrologian"
- DURO_stallwart: "Stallwart"
- DURO_protector_of_duro: "Protector of Duro"
- DURO_lors: "Lors"
- DURO_koli: "Koli"
- DURO_the_lost_king_of_duro: "The Lost King of Duro"
- DURO_vardovin: "Vardovin"
- DURO_constr_aurek: "Constructor Aurek"
- DURO_constr_besh: "Constructor Besh"
- DURO_constr_cresh: "Constructor Cresh"
- DURO_constr_dorn: "Constructor Dorn"
- DURO_constr_forn: "Constructor Forn"
- DURO_constr_grek: "Constructor Grek"
- DURO_constr_herf: "Constructor Herf"
- DURO_constr_isk: "Constructor Isk"
- DURO_constr_jenth: "Constructor Jenth"
- DURO_constr_krill: "Constructor Krill"
- DURO_constr_leth: "Constructor Leth"
- DURO_constr_mern: "Constructor Mern"
- DURO_constr_nern: "Constructor Nern"
- DURO_constr_osk: "Constructor Osk"
- DURO_constr_peth: "Constructor Peth"
- DURO_constr_senth: "Constructor Senth"
- DURO_constr_trill: "Constructor Trill"
- DURO_constr_usk: "Constructor Usk"
- DURO_constr_vev: "Constructor Vev"
- DURO_constr_wesk: "Constructor Wesk"
- DURO_constr_xesh: "Constructor Xesh"
- DURO_constr_yirt: "Constructor Yirt"
- DURO_constr_zerek: "Constructor Zerek"
- DURO_constr_cherek: "Constructor Cherek"
- DURO_constr_qek: "Constructor Qek"
- DURO_constr_resh: "Constructor Resh"
- DURO_constr_enth: "Constructor Enth"
- DURO_constr_onith: "Constructor Onith"
- DURO_constr_krenth: "Constructor Krenth"
- DURO_constr_nen: "Constructor Nen"
- DURO_constr_orenth: "Constructor Orenth"
- DURO_constr_shen: "Constructor Shen"
- DURO_constr_thesh: "Constructor Thesh"
- DURO_CLASS_foray: "Foray"
- DURO_CLASS_praetorian: "Praetorian"
- DURO_CLASS_hammerhead: "Hammerhead"
- DURO_CLASS_valorant: "Valorant"
- DURO_CLASS_invincible: "Invincible"
- DURO_CLASS_inexpungable: "Inexpungable"
- DURO_CLASS_dynamic: "Dynamic"
- DURO_CLASS_starscape: "Starscape"
- DURO_FLEET_joint_expeditionary_fleet: "Joint Expeditionary Fleet"
- DURO_FLEET_strategic_readiness_fleet: "Strategic Readiness Fleet"
- DURO_FLEET_tactical_response_fleet: "Tactical Response Fleet"
- DURO_FLEET_rapid_strike_fleet: "Rapid Strike Fleet"
- DURO_FLEET_forward_defense_fleet: "Forward Defense Fleet"
- DURO_FLEET_core_fleet: "Core Fleet"
- DURO_FLEET_vanguard_of_duro: "Vanguard of Duro"
- DURO_FLEET_duro_sector_defense_fleet: "Duro Sector Defense Fleet"
- DURO_FLEET_SEQUENTIAL_duro_fleet: "$ORD$ Duro Fleet"
- DURO_ARMY_SEQUENTIAL_colonial_watch: "$ORD$ Colonial Watch"
- DURO_ARMY_SEQUENTIAL_assault_group: "$ORD$ Assault Group"
- DURO_ARMY_SEQUENTIAL_penal_corps: "$ORD$ Penal Corps"
- DURO_ARMY_SEQUENTIAL_tankbred_regulars: "$ORD$ Tankbred Regulars"
- DURO_ARMY_SEQUENTIAL_dread_corps: "$ORD$ Dread Corps"
- DURO_ARMY_SEQUENTIAL_battle_drone_wing: "$ORD$ Battle Drone Wing"
- DURO_ARMY_SEQUENTIAL_battle_drone_emplacements: "$ORD$ Battle Drone Emplacements"
- DURO_ARMY_SEQUENTIAL_psi_ops_command: "$ORD$ Psi-Ops Command"
- DURO_ARMY_SEQUENTIAL_shock_swarm: "$ORD$ Shock Swarm"
- DURO_ARMY_SEQUENTIAL_purebloods: "$ORD$ Purebloods"
- DURO_ARMY_SEQUENTIAL_occupation_watch: "$ORD$ Occupation Watch"
- DURO_ARMY_SEQUENTIAL_occupation_drones: "$ORD$ Occupation Drones"
- DURO_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- DURO_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- DURO_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- DURO_CHR_alec: "Alec"
- DURO_CHR_amonos: "Amonos"
- DURO_CHR_angrigo: "Angrigo"
- DURO_CHR_ardu: "Ardu"
- DURO_CHR_doleth: "Doleth"
- DURO_CHR_looca: "Looca"
- DURO_CHR_felanil: "Felanil"
- DURO_CHR_formmn: "Formmn"
- DURO_CHR_badna: "Badna"
- DURO_CHR_hagk: "Hagk"
- DURO_CHR_cad: "Cad"
- DURO_CHR_bar: "Bar"
- DURO_CHR_gan: "Gan"
- DURO_CHR_bedd: "Bedd"
- DURO_CHR_bessel: "Bessel"
- DURO_CHR_cada: "Cada"
- DURO_CHR_bot: "Bot"
- DURO_CHR_ducilla: "Ducilla"
- DURO_CHR_durgard: "Durgard"
- DURO_CHR_broclin: "Broclin"
- DURO_CHR_bulo: "Bulo"
- DURO_CHR_chla: "Chla"
- DURO_CHR_calioc: "Calioc"
- DURO_CHR_opo: "Opo"
- DURO_CHR_chivz: "Chivz"
- DURO_CHR_naul: "Naul"
- DURO_CHR_thes: "Thes"
- DURO_CHR_yett: "Yett"
- DURO_CHR_yurf: "Yurf"
- DURO_CHR_dayso: "Dayso"
- DURO_CHR_cov: "Cov"
- DURO_CHR_crawrit: "Crawrit"
- DURO_CHR_rrabel: "Rrabel"
- DURO_CHR_dassid: "Dassid"
- DURO_CHR_chachi: "Chachi"
- DURO_CHR_ohwun: "Ohwun"
- DURO_CHR_kuuda: "Kuuda"
- DURO_CHR_staaysha: "Staaysha"
- DURO_CHR_naja: "Naja"
- DURO_CHR_maana: "Maana"
- DURO_CHR_vendri: "Vendri"
- DURO_CHR_kov: "Kov"
- DURO_CHR_lun: "Lun"
- DURO_CHR_z_paul: "Z'paul"
- DURO_CHR_dendis: "Dendis"
- DURO_CHR_samhan: "Samhan"
- DURO_CHR_doimo: "Doimo"
- DURO_CHR_dorai: "Dorai"
- DURO_CHR_dorcha: "Dorcha"
- DURO_CHR_tantron: "Tantron"
- DURO_CHR_dowron: "Dowron"
- DURO_CHR_akar: "Akar"
- DURO_CHR_lapad: "Lapad"
- DURO_CHR_gula: "Gula"
- DURO_CHR_squedge: "Squedge"
- DURO_CHR_ellor: "Ellor"
- DURO_CHR_kip: "Kip"
- DURO_CHR_feero: "Feero"
- DURO_CHR_fhorjak: "Fhorjak"
- DURO_CHR_delcan: "Delcan"
- DURO_CHR_ulli: "Ulli"
- DURO_CHR_vaas: "Vaas"
- DURO_CHR_gaidin: "Gaidin"
- DURO_CHR_seafon: "Seafon"
- DURO_CHR_riv: "Riv"
- DURO_CHR_gar: "Gar"
- DURO_CHR_serrol: "Serrol"
- DURO_CHR_tyro: "Tyro"
- DURO_CHR_vook: "Vook"
- DURO_CHR_geneer: "Geneer"
- DURO_CHR_genel: "Genel"
- DURO_CHR_geredi: "Geredi"
- DURO_CHR_niya: "Niya"
- DURO_CHR_rannek: "Rannek"
- DURO_CHR_gome: "Gome"
- DURO_CHR_gormo: "Gormo"
- DURO_CHR_doon: "Doon"
- DURO_CHR_telo: "Telo"
- DURO_CHR_guron: "Guron"
- DURO_CHR_ixigil: "Ixigil"
- DURO_CHR_idlen: "Idlen"
- DURO_CHR_banu: "Banu"
- DURO_CHR_harris: "Harris"
- DURO_CHR_meekah: "Meekah"
- DURO_CHR_borik: "Borik"
- DURO_CHR_nolan: "Nolan"
- DURO_CHR_obatt: "Obatt"
- DURO_CHR_l_ulo: "L'ulo"
- DURO_CHR_shriv: "Shriv"
- DURO_CHR_leslomy: "Leslomy"
- DURO_CHR_shin: "Shin"
- DURO_CHR_soopan: "Soopan"
- DURO_CHR_tainya: "Tainya"
- DURO_CHR_te_ami: "Te'Ami"
- DURO_CHR_monnda: "Monnda"
- DURO_CHR_kelna: "Kelna"
- DURO_CHR_zalaren: "Zalaren"
- DURO_CHR_xarval: "Xarval"
- DURO_CHR_varen: "Varen"
- DURO_CHR_wishan: "Wishan"
- DURO_CHR_grumme: "Grumme"
- DURO_CHR_eejeee: "Eejeee"
- DURO_CHR_ranin: "Ranin"
- DURO_CHR_vel: "Vel"
- DURO_CHR_arnoko: "Arnoko"
- DURO_CHR_b_nash: "B'Nash"
- DURO_CHR_baaks: "Baaks"
- DURO_CHR_badees: "Badees"
- DURO_CHR_baht: "Baht"
- DURO_CHR_basso: "Basso"
- DURO_CHR_brarun: "Brarun"
- DURO_CHR_cyst: "Cyst"
- DURO_CHR_c_chaan: "C'cHaan"
- DURO_CHR_chano: "Chano"
- DURO_CHR_cilgris: "Cilgris"
- DURO_CHR_col: "Col"
- DURO_CHR_cooh: "Cooh"
- DURO_CHR_dage: "Dage"
- DURO_CHR_dekkr: "Dekkr"
- DURO_CHR_delan: "Delan"
- DURO_CHR_demknot: "Demknot"
- DURO_CHR_deralm: "DeRalm"
- DURO_CHR_derra: "Derra"
- DURO_CHR_diin: "Diin"
- DURO_CHR_dobo: "Dobo"
- DURO_CHR_dow: "Dow"
- DURO_CHR_dula: "Dula"
- DURO_CHR_dwan: "Dwan"
- DURO_CHR_edthatt: "Edthatt"
- DURO_CHR_eepsey: "Eepsey"
- DURO_CHR_famas: "Famas"
- DURO_CHR_finyaft: "Finyaft"
- DURO_CHR_fuolos: "Fuolos"
- DURO_CHR_galeel: "Galeel"
- DURO_CHR_garbi: "Garbi"
- DURO_CHR_gathip: "Gathip"
- DURO_CHR_gehu: "Gehu"
- DURO_CHR_giedan: "Giedan"
- DURO_CHR_gisk: "Gisk"
- DURO_CHR_gorot: "Gorot"
- DURO_CHR_gronn: "Gronn"
- DURO_CHR_hiiz: "Hiiz"
- DURO_CHR_hydia: "Hydia"
- DURO_CHR_trehar: "Trehar"
- DURO_CHR_jacamden: "Jacamden"
- DURO_CHR_jon: "Jon"
- DURO_CHR_joo: "Joo"
- DURO_CHR_joyl: "Joyl"
- DURO_CHR_kabbas: "Kabbas"
- DURO_CHR_kaleeg: "Kaleeg"
- DURO_CHR_kashar: "Kashar"
- DURO_CHR_kayl: "Kayl"
- DURO_CHR_keggle: "Keggle"
- DURO_CHR_korofu: "Korofu"
- DURO_CHR_l_ampar: "L'ampar"
- DURO_CHR_limpan: "Limpan"
- DURO_CHR_lubboon: "Lubboon"
- DURO_CHR_madvak: "Madvak"
- DURO_CHR_maggrit: "Maggrit"
- DURO_CHR_mossu: "Mossu"
- DURO_CHR_nemall: "NeMall"
- DURO_CHR_nim: "Nim"
- DURO_CHR_two: "Two"
- DURO_CHR_ivreri: "Ivreri"
- DURO_CHR_pars: "Pars"
- DURO_CHR_qurno: "Qurno"
- DURO_CHR_rocca: "Rocca"
- DURO_CHR_ruxon: "Ruxon"
- DURO_CHR_sabha: "Sabha"
- DURO_CHR_sobilles: "SoBilles"
- DURO_CHR_suurgav: "Suurgav"
- DURO_CHR_tacema: "Tacema"
- DURO_CHR_taphan: "Taphan"
- DURO_CHR_tebbo: "Tebbo"
- DURO_CHR_toodoo: "Toodoo"
- DURO_CHR_tug: "Tug"
- DURO_CHR_vamm: "Vamm"
- DURO_CHR_vantai: "Vantai"
- DURO_CHR_vara: "Vara"
- DURO_CHR_vigos: "Vigos"
- DURO_CHR_vinn: "Vinn"
- DURO_CHR_wuht: "Wuht"
- DURO_CHR_zelli: "Zelli"
- DURO_CHR_zhug: "Zhug"
- DURO_CHR_zusi: "Zusi"
- DURO_CHR_zhensi: "Zhensi"
- DURO_CHR_hkk_skn: "Hkk Skn"
- DURO_CHR_de_nall: "De Nall"
- DURO_CHR_de_mall: "De Mall"
- DURO_CHR_de_maak: "De Maak"
- DURO_CHR_mas_rrehalt: "Mas Rrehalt"
- DURO_CHR_merg: "Merg"
- DURO_CHR_ilmas: "Ilmas"
- DURO_CHR_fon: "Fon"
- DURO_CHR_japra: "Japra"
- DURO_CHR_vikal: "Vikal"
- DURO_CHR_monak: "Monak"
- DURO_CHR_perak: "Perak"
- DURO_CHR_rald: "Rald"
- DURO_CHR_vardovin: "Vardovin"
+  DURO_axehead: "Топороглав" #NT!
+  DURO_reciprocity: "Взаимность" #NT!
+  DURO_cal: "Кэл" #NT!
+  DURO_centurion: "Центурион" #NT!
+  DURO_consular: "Консульский" #NT!
+  DURO_core_systems: "Основные галактические системы" #NT!
+  DURO_defender: "Защитник" #NT!
+  DURO_vanguard: "Авангард" #NT!
+  DURO_dreadnought: "Дредноут" #NT!
+  DURO_elite: "Элитный" #NT!
+  DURO_emissary: "Эмиссар" #NT!
+  DURO_foray: "Набег" #NT!
+  DURO_harbinger: "Предвестник" #NT!
+  DURO_hammerhead: "Молотоглав" #NT!
+  DURO_valiant: "Xрабрец" #NT!
+  DURO_champion_of_iridonia: "Чемпион Иридонии" #NT!
+  DURO_sojurn: "Тайник" #NT!
+  DURO_tanthior: "Тантиор" #NT!
+  DURO_testament: "Завещание" #NT!
+  DURO_veltraa: "Велтраа" #NT!
+  DURO_heraklon: "Ираклион" #NT!
+  DURO_inexpugnable: "Неприступный" #NT!
+  DURO_courageous: "Мужественный" #NT!
+  DURO_swiftsure: "Стремительный" #NT!
+  DURO_diligence: "Усердие" #NT!
+  DURO_indefatigable: "Неутомимый" #NT!
+  DURO_tremendous: "Гигантский" #NT!
+  DURO_interdictor: "Воспрещающий" #NT!
+  DURO_invincible: "Неукротимый" #NT!
+  DURO_longbeam: "Длинный луч" #NT!
+  DURO_aurora_iii: "Аврора III" #NT!
+  DURO_aurora_ix: "Аврора IX" #NT!
+  DURO_karvoss_dawn: "Заря Карвосса" #NT!
+  DURO_praetorian: "Преторианец" #NT!
+  DURO_thranta: "Транта" #NT!
+  DURO_daybreaker: "Зареносный" #NT!
+  DURO_dorin_s_sky: "Небеса Дорина" #NT!
+  DURO_grace_of_champalan: "Милость приливов Чампалана" #NT!
+  DURO_outrider: "Верховой" #NT!
+  DURO_vanguard_s_blade: "Клинок авангарда" #NT!
+  DURO_valor: "Доблесть" #NT!
+  DURO_founder: "Основатель" #NT!
+  DURO_telos: "Телос" #NT!
+  DURO_gav_daragon: "Гэв Дарагон" #NT!
+  DURO_allusis: "Аллусис" #NT!
+  DURO_valliant: "Отважный" #NT!
+  DURO_conraddas_vindicator: "Конраддас Воздаятель" #NT!
+  DURO_trehalt: "Трехалт" #NT!
+  DURO_rana: "Рана" #NT!
+  DURO_mas: "Maс" #NT!
+  DURO_chidee: "Чиди" #NT!
+  DURO_ervix: "Эрвикс" #NT!
+  DURO_krallet: "Краллет" #NT!
+  DURO_raraza: "Рараза" #NT!
+  DURO_journeyman: "Подмастерье" #NT!
+  DURO_wanderer: "Скиталец" #NT!
+  DURO_jivv: "Дживв" #NT!
+  DURO_jyvus: "Дживус" #NT!
+  DURO_pellezara: "Пеллезара" #NT!
+  DURO_tayana: "Тэйяна" #NT!
+  DURO_might_of_the_high: "Могущество Высших Домов" #NT!
+  DURO_queen_s_respite: "Отсрочка королевы" #NT!
+  DURO_astrologian: "Астролог" #NT!
+  DURO_stallwart: "Непоколебимый" #NT!
+  DURO_protector_of_duro: "Защитник Дуро" #NT!
+  DURO_lors: "Лорс" #NT!
+  DURO_koli: "Коли" #NT!
+  DURO_the_lost_king_of_duro: "Потерянный король Дуро" #NT!
+  DURO_vardovin: "Вардовин" #NT!
+  DURO_constr_aurek: "Конструктор «Аурек»" #NT!
+  DURO_constr_besh: "Конструктор «Беш»" #NT!
+  DURO_constr_cresh: "Конструктор «Креш»" #NT!
+  DURO_constr_dorn: "Конструктор «Дорн»" #NT!
+  DURO_constr_forn: "Конструктор «Форн»" #NT!
+  DURO_constr_grek: "Конструктор «Грек»" #NT!
+  DURO_constr_herf: "Конструктор «Херф»" #NT!
+  DURO_constr_isk: "Конструктор «Иск»" #NT!
+  DURO_constr_jenth: "Конструктор «Джент»" #NT!
+  DURO_constr_krill: "Конструктор «Крилл»" #NT!
+  DURO_constr_leth: "Конструктор «Лет»" #NT!
+  DURO_constr_mern: "Конструктор «Мерн»" #NT!
+  DURO_constr_nern: "Конструктор «Нерн»" #NT!
+  DURO_constr_osk: "Конструктор «Оск»" #NT!
+  DURO_constr_peth: "Конструктор «Пет»" #NT!
+  DURO_constr_senth: "Конструктор «Сент»" #NT!
+  DURO_constr_trill: "Конструктор «Трилл»" #NT!
+  DURO_constr_usk: "Конструктор «Уск»" #NT!
+  DURO_constr_vev: "Конструктор «Вев»" #NT!
+  DURO_constr_wesk: "Конструктор «Уэск»" #NT!
+  DURO_constr_xesh: "Конструктор «Зеш»" #NT!
+  DURO_constr_yirt: "Конструктор «Йирт»" #NT!
+  DURO_constr_zerek: "Конструктор «Зерек»" #NT!
+  DURO_constr_cherek: "Конструктор «Черек»" #NT!
+  DURO_constr_qek: "Конструктор «Кек»" #NT!
+  DURO_constr_resh: "Конструктор «Реш»" #NT!
+  DURO_constr_enth: "Конструктор «Энт»" #NT!
+  DURO_constr_onith: "Конструктор «Онит»" #NT!
+  DURO_constr_krenth: "Конструктор «Крент»" #NT!
+  DURO_constr_nen: "Конструктор «Нен»" #NT!
+  DURO_constr_orenth: "Конструктор «Орент»" #NT!
+  DURO_constr_shen: "Конструктор «Шен»" #NT!
+  DURO_constr_thesh: "Конструктор «Теш»" #NT!
+  DURO_CLASS_foray: "Набег" #NT!
+  DURO_CLASS_praetorian: "Преторианец" #NT!
+  DURO_CLASS_hammerhead: "Молотоглав" #NT!
+  DURO_CLASS_valorant: "Доблестный" #NT!
+  DURO_CLASS_invincible: "Неукротимый" #NT!
+  DURO_CLASS_inexpungable: "Неприступный" #NT!
+  DURO_CLASS_dynamic: "Динамичный" #NT!
+  DURO_CLASS_starscape: "Звёздный пейзаж" #NT!
+  DURO_FLEET_joint_expeditionary_fleet: "Объединённый экспедиционный флот" #NT!
+  DURO_FLEET_strategic_readiness_fleet: "Флот стратегической готовности" #NT!
+  DURO_FLEET_tactical_response_fleet: "Флот тактического реагирования" #NT!
+  DURO_FLEET_rapid_strike_fleet: "Флот быстрого реагирования" #NT!
+  DURO_FLEET_forward_defense_fleet: "Флот передовой обороны" #NT!
+  DURO_FLEET_core_fleet: "Основной флот" #NT!
+  DURO_FLEET_vanguard_of_duro: "Авангард Дуро" #NT!
+  DURO_FLEET_duro_sector_defense_fleet: "Флот обороны сектора Дуро" #NT!
+  DURO_FLEET_SEQUENTIAL_duro_fleet: "$ORD$ Флот Дуро" #NT!
+  DURO_ARMY_SEQUENTIAL_colonial_watch: "$ORD$ Колониальный дозор" #NT!
+  DURO_ARMY_SEQUENTIAL_assault_group: "$ORD$ Штурмовая группа" #NT!
+  DURO_ARMY_SEQUENTIAL_penal_corps: "$ORD$ Штрафной корпус" #NT!
+  DURO_ARMY_SEQUENTIAL_tankbred_regulars: "$ORD$ Солдаты-клоны" #NT!
+  DURO_ARMY_SEQUENTIAL_dread_corps: "$ORD$ Корпус ужаса" #NT!
+  DURO_ARMY_SEQUENTIAL_battle_drone_wing: "$ORD$ Крыло боевых дроидов" #NT!
+  DURO_ARMY_SEQUENTIAL_battle_drone_emplacements: "$ORD$ Комплекс боевых дронов" #NT!
+  DURO_ARMY_SEQUENTIAL_psi_ops_command: "$ORD$ Командование пси-операций" #NT!
+  DURO_ARMY_SEQUENTIAL_shock_swarm: "$ORD$ Ударный рой" #NT!
+  DURO_ARMY_SEQUENTIAL_purebloods: "$ORD$ Чистокровные" #NT!
+  DURO_ARMY_SEQUENTIAL_occupation_watch: "$ORD$ Оккупационный дозор" #NT!
+  DURO_ARMY_SEQUENTIAL_occupation_drones: "$ORD$ Оккупационные дроны" #NT!
+  DURO_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  DURO_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  DURO_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  DURO_CHR_alec: "Алек" #NT!
+  DURO_CHR_amonos: "Амонос" #NT!
+  DURO_CHR_angrigo: "Ангриго" #NT!
+  DURO_CHR_ardu: "Арду" #NT!
+  DURO_CHR_doleth: "Долетс" #NT!
+  DURO_CHR_looca: "Лука" #NT!
+  DURO_CHR_felanil: "Феланил" #NT!
+  DURO_CHR_formmn: "Форммн" #NT!
+  DURO_CHR_badna: "Бадна" #NT!
+  DURO_CHR_hagk: "Хагк" #NT!
+  DURO_CHR_cad: "Кад" #NT!
+  DURO_CHR_bar: "Бар" #NT!
+  DURO_CHR_gan: "Ган" #NT!
+  DURO_CHR_bedd: "Бидд" #NT!
+  DURO_CHR_bessel: "Бессел" #NT!
+  DURO_CHR_cada: "Када" #NT!
+  DURO_CHR_bot: "Бот" #NT!
+  DURO_CHR_ducilla: "Дуцилла" #NT!
+  DURO_CHR_durgard: "Дургард" #NT!
+  DURO_CHR_broclin: "Броклин" #NT!
+  DURO_CHR_bulo: "Було" #NT!
+  DURO_CHR_chla: "Чла" #NT!
+  DURO_CHR_calioc: "Калиос" #NT!
+  DURO_CHR_opo: "Оупо" #NT!
+  DURO_CHR_chivz: "Чивз" #NT!
+  DURO_CHR_naul: "Наул" #NT!
+  DURO_CHR_thes: "Зэс" #NT!
+  DURO_CHR_yett: "Йетт" #NT!
+  DURO_CHR_yurf: "Юрф" #NT!
+  DURO_CHR_dayso: "Дэйсо" #NT!
+  DURO_CHR_cov: "Ков" #NT!
+  DURO_CHR_crawrit: "Краврит" #NT!
+  DURO_CHR_rrabel: "Ррабел" #NT!
+  DURO_CHR_dassid: "Дассид" #NT!
+  DURO_CHR_chachi: "Чачи" #NT!
+  DURO_CHR_ohwun: "Охван" #NT!
+  DURO_CHR_kuuda: "Коуда" #NT!
+  DURO_CHR_staaysha: "Стаайша" #NT!
+  DURO_CHR_naja: "Найя" #NT!
+  DURO_CHR_maana: "Маана" #NT!
+  DURO_CHR_vendri: "Вендри" #NT!
+  DURO_CHR_kov: "Ков" #NT!
+  DURO_CHR_lun: "Лан" #NT!
+  DURO_CHR_z_paul: "Зи'поль" #NT!
+  DURO_CHR_dendis: "Дэндис" #NT!
+  DURO_CHR_samhan: "Самхан" #NT!
+  DURO_CHR_doimo: "Доимо" #NT!
+  DURO_CHR_dorai: "Дорай" #NT!
+  DURO_CHR_dorcha: "Дорча" #NT!
+  DURO_CHR_tantron: "Тантрон" #NT!
+  DURO_CHR_dowron: "Доврон" #NT!
+  DURO_CHR_akar: "Акар" #NT!
+  DURO_CHR_lapad: "Лапад" #NT!
+  DURO_CHR_gula: "Гула" #NT!
+  DURO_CHR_squedge: "Скуэдж" #NT!
+  DURO_CHR_ellor: "Иллор" #NT!
+  DURO_CHR_kip: "Кип" #NT!
+  DURO_CHR_feero: "Фееро" #NT!
+  DURO_CHR_fhorjak: "Фхор'як" #NT!
+  DURO_CHR_delcan: "Делкан" #NT!
+  DURO_CHR_ulli: "Улли" #NT!
+  DURO_CHR_vaas: "Ваас" #NT!
+  DURO_CHR_gaidin: "Гаидин" #NT!
+  DURO_CHR_seafon: "Сифон" #NT!
+  DURO_CHR_riv: "Рив" #NT!
+  DURO_CHR_gar: "Гар" #NT!
+  DURO_CHR_serrol: "Сэррол" #NT!
+  DURO_CHR_tyro: "Тайро" #NT!
+  DURO_CHR_vook: "Вук" #NT!
+  DURO_CHR_geneer: "Дженир" #NT!
+  DURO_CHR_genel: "Дженэл" #NT!
+  DURO_CHR_geredi: "Джерэди" #NT!
+  DURO_CHR_niya: "Ния" #NT!
+  DURO_CHR_rannek: "Раннек" #NT!
+  DURO_CHR_gome: "Гоум" #NT!
+  DURO_CHR_gormo: "Гормо" #NT!
+  DURO_CHR_doon: "Дун" #NT!
+  DURO_CHR_telo: "Тэло" #NT!
+  DURO_CHR_guron: "Гурон" #NT!
+  DURO_CHR_ixigil: "Иксиджил" #NT!
+  DURO_CHR_idlen: "Идлен" #NT!
+  DURO_CHR_banu: "Бану" #NT!
+  DURO_CHR_harris: "Харрис" #NT!
+  DURO_CHR_meekah: "Миика" #NT!
+  DURO_CHR_borik: "Борик" #NT!
+  DURO_CHR_nolan: "Нолан" #NT!
+  DURO_CHR_obatt: "Обатт" #NT!
+  DURO_CHR_l_ulo: "Л'уло" #NT!
+  DURO_CHR_shriv: "Шрайв" #NT!
+  DURO_CHR_leslomy: "Лесломи" #NT!
+  DURO_CHR_shin: "Шин" #NT!
+  DURO_CHR_soopan: "Супан" #NT!
+  DURO_CHR_tainya: "Тэйния" #NT!
+  DURO_CHR_te_ami: "Тэ'Амай" #NT!
+  DURO_CHR_monnda: "Манда" #NT!
+  DURO_CHR_kelna: "Келна" #NT!
+  DURO_CHR_zalaren: "Заларен" #NT!
+  DURO_CHR_xarval: "Ксарвал" #NT!
+  DURO_CHR_varen: "Варэн" #NT!
+  DURO_CHR_wishan: "Вишан" #NT!
+  DURO_CHR_grumme: "Грамми" #NT!
+  DURO_CHR_eejeee: "Ииджии" #NT!
+  DURO_CHR_ranin: "Ранин" #NT!
+  DURO_CHR_vel: "Вел" #NT!
+  DURO_CHR_arnoko: "Амоко" #NT!
+  DURO_CHR_b_nash: "Би'Наш" #NT!
+  DURO_CHR_baaks: "Баакс" #NT!
+  DURO_CHR_badees: "Бадис" #NT!
+  DURO_CHR_baht: "Бахт" #NT!
+  DURO_CHR_basso: "Бассо" #NT!
+  DURO_CHR_brarun: "Брарун" #NT!
+  DURO_CHR_cyst: "Цист" #NT!
+  DURO_CHR_c_chaan: "Cи'цХаан" #NT!
+  DURO_CHR_chano: "Чано" #NT!
+  DURO_CHR_cilgris: "Силгрис" #NT!
+  DURO_CHR_col: "Кол" #NT!
+  DURO_CHR_cooh: "Кух" #NT!
+  DURO_CHR_dage: "Дэйдж" #NT!
+  DURO_CHR_dekkr: "Деккр" #NT!
+  DURO_CHR_delan: "Делан" #NT!
+  DURO_CHR_demknot: "Демкнот" #NT!
+  DURO_CHR_deralm: "ДеРалм" #NT!
+  DURO_CHR_derra: "Дерра" #NT!
+  DURO_CHR_diin: "Диин" #NT!
+  DURO_CHR_dobo: "Добо" #NT!
+  DURO_CHR_dow: "Доу" #NT!
+  DURO_CHR_dula: "Дула" #NT!
+  DURO_CHR_dwan: "Дван" #NT!
+  DURO_CHR_edthatt: "Эдтхатт" #NT!
+  DURO_CHR_eepsey: "Ипси" #NT!
+  DURO_CHR_famas: "Фамас" #NT!
+  DURO_CHR_finyaft: "Финйафт" #NT!
+  DURO_CHR_fuolos: "Фуолос" #NT!
+  DURO_CHR_galeel: "Галил" #NT!
+  DURO_CHR_garbi: "Гарби" #NT!
+  DURO_CHR_gathip: "Гатхип" #NT!
+  DURO_CHR_gehu: "Геху" #NT!
+  DURO_CHR_giedan: "Джидан" #NT!
+  DURO_CHR_gisk: "Гиск" #NT!
+  DURO_CHR_gorot: "Горот" #NT!
+  DURO_CHR_gronn: "Гронн" #NT!
+  DURO_CHR_hiiz: "Хайиз" #NT!
+  DURO_CHR_hydia: "Хидиа" #NT!
+  DURO_CHR_trehar: "Трэхар" #NT!
+  DURO_CHR_jacamden: "Якамден" #NT!
+  DURO_CHR_jon: "Йон" #NT!
+  DURO_CHR_joo: "Йу" #NT!
+  DURO_CHR_joyl: "Джойл" #NT!
+  DURO_CHR_kabbas: "Каббас" #NT!
+  DURO_CHR_kaleeg: "Калиг" #NT!
+  DURO_CHR_kashar: "Кашар" #NT!
+  DURO_CHR_kayl: "Кайл" #NT!
+  DURO_CHR_keggle: "Киггли" #NT!
+  DURO_CHR_korofu: "Корофу" #NT!
+  DURO_CHR_l_ampar: "Л'ампар" #NT!
+  DURO_CHR_limpan: "Лимпан" #NT!
+  DURO_CHR_lubboon: "Лаббун" #NT!
+  DURO_CHR_madvak: "Мадвак" #NT!
+  DURO_CHR_maggrit: "Маггрит" #NT!
+  DURO_CHR_mossu: "Моссу" #NT!
+  DURO_CHR_nemall: "НиМал" #NT!
+  DURO_CHR_nim: "Ним" #NT!
+  DURO_CHR_two: "Два" #NT!
+  DURO_CHR_ivreri: "Айвери" #NT!
+  DURO_CHR_pars: "Парс" #NT!
+  DURO_CHR_qurno: "Курно" #NT!
+  DURO_CHR_rocca: "Рокка" #NT!
+  DURO_CHR_ruxon: "Раксон" #NT!
+  DURO_CHR_sabha: "Сабха" #NT!
+  DURO_CHR_sobilles: "СоБайлс" #NT!
+  DURO_CHR_suurgav: "Суургав" #NT!
+  DURO_CHR_tacema: "Тацема" #NT!
+  DURO_CHR_taphan: "Тапхан" #NT!
+  DURO_CHR_tebbo: "Тиббо" #NT!
+  DURO_CHR_toodoo: "Туудуу" #NT!
+  DURO_CHR_tug: "Таг" #NT!
+  DURO_CHR_vamm: "Вамм" #NT!
+  DURO_CHR_vantai: "Вантай" #NT!
+  DURO_CHR_vara: "Вара" #NT!
+  DURO_CHR_vigos: "Вигос" #NT!
+  DURO_CHR_vinn: "Винн" #NT!
+  DURO_CHR_wuht: "Вахт" #NT!
+  DURO_CHR_zelli: "Зелли" #NT!
+  DURO_CHR_zhug: "Чжаг" #NT!
+  DURO_CHR_zusi: "Зуси" #NT!
+  DURO_CHR_zhensi: "Чжэнси" #NT!
+  DURO_CHR_hkk_skn: "Хкк Скн" #NT!
+  DURO_CHR_de_nall: "Де Налл" #NT!
+  DURO_CHR_de_mall: "Де Малл" #NT!
+  DURO_CHR_de_maak: "Де Маак" #NT!
+  DURO_CHR_mas_rrehalt: "Мас Ррехалт" #NT!
+  DURO_CHR_merg: "Мерг" #NT!
+  DURO_CHR_ilmas: "Илмас" #NT!
+  DURO_CHR_fon: "Фон" #NT!
+  DURO_CHR_japra: "Йапра" #NT!
+  DURO_CHR_vikal: "Викал" #NT!
+  DURO_CHR_monak: "Монак" #NT!
+  DURO_CHR_perak: "Пирак" #NT!
+  DURO_CHR_rald: "Ралд" #NT!
+  DURO_CHR_vardovin: "Вардовин" #NT!

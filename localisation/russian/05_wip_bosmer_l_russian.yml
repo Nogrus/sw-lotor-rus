@@ -1,520 +1,520 @@
 ﻿l_russian:
 
-# Ryloth Gulag Bloom
- lotor_ryloth_events.10.name: "The Visitors"
- lotor_ryloth_events.10.desc: "An off-world cargo ship has arrived today ready to receive its shipment for the Duro colony on §YNeimoidia§!. The crew is very professional, a nice change of pace compared to the unscrupulous slavers and criminals that are frequent visitors to Ryloth. In addition to credits, they've also paid our dockworkers with fruit from another of their colonies. The crew comment that the mottled texture on the fruit is nothing to worry about."
- lotor_ryloth_events.10.a: "An odd but pleasant surprise."
-
- lotor_ryloth_events.20.name: "The Fungus"
- lotor_ryloth_events.20.desc: "One of our scientists has noticed that some of our trees are being slowly afflicted with a strange fungus. While it seems mostly benign, the larger scientific community encourages that we monitor this strange occurrence."
- lotor_ryloth_events.20.a: "Very well, lets gather some samples and study them."
-
- lotor_ryloth_events.30.name: "A Devastated World"
- lotor_ryloth_events.30.desc: "Despite our best efforts, the fungus has spread out of control. Ryloth's forests may never fully recover. However, authorities apprehended the crew of the Duro ship when they arrived. In the future, we may be able to fully restore Ryloth's forests but for now, our forests will give way to rocky, barren environments."
- lotor_ryloth_events.30.a: "For now, the forests will be just a memory."
-
- GUGAL_BLOOM_INVESTIGATION_PROJECT: "Invasive Spores"
- GUGAL_BLOOM_INVESTIGATION_PROJECT_DESC: "Our scientists are alarmed at the rapid spread of this invasive fungus. The initial observations of it being benign are called into question as they notice that trees afflicted with this fungus are dying at a rapid rate. Furthermore, the spread of this fungus could potentially devastate the forests on Ryloth beyond repair."
-
- GUGAL_BLOOM_TRACKING_PROJECT: "The Culprits"
- GUGAL_BLOOM_TRACKING_PROJECT_DESC: "The investigation points towards the dockworkers handling the Duro shipment. Upon interrogation, its revealed that the Duro crew offered the dockworkers some fruit in addition to their pay. After the Duros left, the workers tried the fruit and immediately tossed it out, claiming it was unpleasant and quite possibly rotten.The Duros are due back in a few rotations for their next shipment."
-
-
-# Alderaan Joiners
- r_killik_eggs: "Killik Eggsack"
- r_killik_eggs_desc: "New Killiks can be born through these eggsacks. Making a new hive means more Joiners to increase relations with the hive."
-
- leader_trait_lotor_killik_joiner: "Killik Joiner"
- leader_trait_lotor_killik_joiner_desc: "Joiners - or pejoratively bughugger and other slurs - was the name given to the non-Killiks who were absorbed into the Killik hive mind. This was caused by being exposed to the large amounts of pheromones that the Killiks secreted that changed a person's brain structure."
-
- lotor_alderaan_events.10.name: "The Monuments"
- lotor_alderaan_events.10.desc: "Alderaan's natural beauty is beyond comparison. Our forests, mountains, grasslands, and other features stand out among all of the Core Worlds, possibly among the rest of the galaxy. However, our planet is still not without mystery.\n\nThere are numerous spires scattered across the landscape. Our scientists and historians want to examine these structures in depth to figure out who or what constructed these elaborate 'towers'."
- lotor_alderaan_events.10.a: "Very well."
- lotor_alderaan_events.10.b: "Ensure our scientists are well equipped."
-
- lotor_alderaan_events.20.name: "The Castle Lands"
- lotor_alderaan_events.20.desc: "A great deal of information has been gathered from the many teams sent around the planet. The few teams who journeyed into these spires commented on how much they resemble the interior of insect hives yet were decorated with colorful mosaics.\n\nMultiple scientists report that they've felt calm around these massive constructs, and historians have noted that whatever empire and species made these 'castles' suffered a decline. Yet all the field notes expressed a reoccurring sentiment - reverence."
- lotor_alderaan_events.20.a: "We too could vanish if we are not careful..."
-
- lotor_alderaan_events.30.name: "Empty Nest"
- lotor_alderaan_events.30.desc: "The mystery surrounding the earthen castles continues to confound our historians and scientists. Further examinations into their structure show that the species originally living here were insectoids of some variety. One scientist noted a chamber with large holes in the walls made for eggs."
- lotor_alderaan_events.30.a: "Fascinating!"
-
- lotor_alderaan_events.40.name: "Rumors"
- lotor_alderaan_events.40.desc: "There are multiple rumors surrounding a strange mound in the middle of a settlement. The original settlers built around the structure due to its unique beauty and have lived normal, peaceful lives ever since.\n\nRecently, people claim they've been hearing scratching in their homes and strange smells. Others have heard clicking and chittering late at night near the mound. An even smaller amount reported headaches and nausea whenever they heard the noises.\n\nAdditionally, reports from other parts of the planet describe creatures coming out of these mounds every few years and coming into conflict with the Alderaanians."
- lotor_alderaan_events.40.a: "Send a small team to investigate."
- lotor_alderaan_events.40.b: "Send a large team to investigate."
- lotor_alderaan_events.40.c: "Nonsense!"
-
- lotor_alderaan_events.50.name: "Survey"
- lotor_alderaan_events.50.desc: "The team arrives and assists the local doctors as others start examining the mound and the surrounding buildings. The lead scientist asks around for the local mayor, but no one has seen him in a few days.\n\nAs the sun sets, some scientists also report the chittering rounds in some structures closest to the spire. A group of scientists enters the settlement's main government building and heads to the basement. A small astromech rolls past them, frantically beeping and trying to make the scientists turn around."
- lotor_alderaan_events.50.a: "Proceed with caution."
- lotor_alderaan_events.50.b: "Ignore the little droid."
-
- lotor_alderaan_events.60.name: "The Neighbors"
- lotor_alderaan_events.60.desc: "The lighting inside the basement is minimal at best. The faint hum of machinery is there, but the chittering and scratching noises are noticeably louder. Despite the urging of the little droid, the team moves forward and discovers a large hole in the ground with a faint, blueish light leading deeper.\n\nThey carefully follow the path until they reach a cavern lit up by bioluminescent fungi. The light from the fungi reveals tall, insectoid bodies moving around, tending to the clutches of eggs on the wall as what can only be assumed as their larvae feasting nearby.\n\nA lone grub crawls on the astromech, making the droid panic, alerting the entire hive to the team's presence."
- lotor_alderaan_events.60.a: "Blasted droid!"
-
- lotor_alderaan_events.70.name: "Rumors"
- lotor_alderaan_events.70.desc: "The drones tending to the egg move into position to protect them as the warrior drones surround the team, spears and rudimentary blasters drawn. A human steps forth from among them, and they lower their weapons. The man extends his hand to the lead scientist.\n'I'm the local mayor; it was only a matter of time, I suppose, before you'd meet the neighbors. Several days ago, these insects burrowed into the basement, looking to expand their hive. Not wanting to alarm the populace, I decided to go and investigate myself, only to be captured by the drones. §YThe Kind§! wishes to seek a peaceful existence between Alderaanian and Killik. They are not used to being disturbed by so many people at once.'\n\nThe scientist notices something peculiar about the man. He seemed a bit more rigid than one would expect, but his black eyes were the most glaring thing about his appearance."
- lotor_alderaan_events.70.a: "Absolutely! There will be peace in our time."
- lotor_alderaan_events.70.b: "We will see what we can do."
- lotor_alderaan_events.70.c: "Try and convince them not to hatch."
-
- lotor_alderaan_events.80.name: "Discovery"
- lotor_alderaan_events.80.desc: "The mayor smiles and nods. 'We aren't the only hive around here, and in fact, several of the Kind are stirring underneath our cities and towns. Do not worry; I will reveal the existence of our hive to the town. Now go, return to your fellow scientists. I will be up shortly.' The mayor orders the Killik to escort the scientists out of the tunnels and back to the surface.\n\nHours later, the mayor returns to the town square and informs the populace of the existence of the Killiks underneath their town and throughout the planet.\nWhether this was a good decision or not is yet to be seen."
- lotor_alderaan_events.80.a: "Who knows what might come of this?"
-
- lotor_alderaan_events.81.name: "Discovery"
- lotor_alderaan_events.81.desc: "The mayor grimaces and motions to the clutches of eggs adorning the room. Drones continue to attend to the eggs as they hatch and watch the grubs crawl about the cavern floor. 'It is a bit too late for that now. The Kind continues.'\n\nHours later, the mayor returns to the town square and informs the populace of the existence of the Killiks underneath their town and throughout the planet. Whether this was a good decision or not is yet to be seen."
- lotor_alderaan_events.81.a: "Who knows what may come of this?"
-
- lotor_alderaan_events.82.name: "Discovery"
- lotor_alderaan_events.82.desc: "Despite being brushed off as rumors, it appears the afflictions of the citizenry around the spire are based in reality. In fact, the truth is far more incredible than the rumors. The mayor has been missing for a few days but only recently returned, describing his encounter with tall insectoid creatures called the Killik.\n\nAccording to the report, these creatures are now waking up slowly. They are quite possibly the source of rumors about monsters and the strange chittering and scratching noises."
- lotor_alderaan_events.82.a: "Fascinating."
-
- lotor_alderaan_events.90.name: "Growing Doubt"
- lotor_alderaan_events.90.desc: "With news of the Killik's presence on Alderaan spreading throughout Alderaanian space, some members of the §YGreat Houses§! seek a peaceful relationship while others remain skeptical.\nHowever, some are opposed to any relationship with the Killik. They recall the times they've attacked villages, leaving them destroyed with no survivors. Recently, a small settlement was raided within the jurisdiction of House Thul."
- lotor_alderaan_events.90.a: "Only time will tell what these relations might bring."
-
- lotor_alderaan_events.100.name: "Reaching Out"
- lotor_alderaan_events.100.desc: "In an attempt to foster a relationship between the Killik and Alderaan, a small team of diplomats is sent to a hive, escorted by some members of House Thul. They intend to camp near one of the more active hives and attempt to communicate with the Killik. If it weren't for the diplomats, it'd appear as if a small strike force was being prepared."
- lotor_alderaan_events.100.a: "Nothing to see, move along."
- lotor_alderaan_events.100.b: "Examine the cargo."
-
- lotor_alderaan_events.101.name: "Uncovered"
- lotor_alderaan_events.101.desc: "Days later, the repulsorcraft returned with significantly fewer people. Although they never quite said what happened, it was clear that the mission failed terribly. Eventually, it was revealed that the diplomats acted as a cover for members of House Thul and Ulgo to destroy an emerging hive."
- lotor_alderaan_events.101.a: "Blasted bugs!"
-
- lotor_alderaan_events.102.name: "Uncovered"
- lotor_alderaan_events.102.desc: "Despite reassurances from the diplomats that they only brought the essentials, local authorities examine the cargo loaded onto the repulsorcraft. After a few minutes of examining the crates, they discover explosive charges hidden beneath essential supplies.\n\nWhen asked about the explosives; the diplomats feigned ignorance."
- lotor_alderaan_events.102.a: "Remove the diplomats from their posts!"
-
- lotor_alderaan_events.110.name: "Devastation"
- lotor_alderaan_events.110.desc: "One of the major farming settlements along the Apalis Coast was razed by a particularly war-like hive of Killiks. The leader of House Organa is both enraged and devastated by the loss of life and the destruction of a bountiful harvest."
- lotor_alderaan_events.110.a: "Send for aid from the other houses."
- lotor_alderaan_events.110.b: "Seek a military response."
-
- lotor_alderaan_events.111.name: "Responses"
- lotor_alderaan_events.111.desc: "Over the next few days, support comes from §HHouse Panteer§! and §HHouse Rist§!. Supplies, food, and medical aid are given to the survivors as members of the House Guard examine the devastated farmland. It appears as if some citizens were captured and their fate unknown.\n\nWhile investigating, they encounter a few members of a group known as the §ROrder of Extermination§!. Having taken it upon themselves to fight back against Killik attacks whenever they emerge, they offer their support to House Organa, despite rejecting any loyalty to any of the §YGreat Houses§!."
- lotor_alderaan_events.111.a: "Vigilantes? We have no use for their kind.."
-
- lotor_alderaan_events.112.name: "Responses"
- lotor_alderaan_events.112.desc: "Members of the House Guard aid in recovery efforts and learn that at least a few citizens were captured. However, their fate is unknown. As military leaders from §HHouse Organa§! deliberate, they are approached by a captain of a group called the §ROrder of Extermination§!.\nHaving taken it upon themselves to fight against the Killiks whenever their hives emerge and attack settlements, they offer their support to House Organa, despite rejecting loyalty to any of the §YGreat Houses§!."
- lotor_alderaan_events.112.a: "Perhaps this order will be useful."
-
- lotor_alderaan_events.113.name: "Vigilance"
- lotor_alderaan_events.113.desc: "Despite the offer from the Order, the leaders of §HHouse Organa§! turn down their direct support. They argue that the conflicts with the Killik will be ongoing and that orchestrating a large-scale attack would put more lives at risk. The head of §HHouse Organa§! orders a small detachment of the House Guard to monitor the area in case the Killik return or the captives turn up."
- lotor_alderaan_events.113.a: "Keep watch."
-
- lotor_alderaan_events.114.name: "Striking Back"
- lotor_alderaan_events.114.desc: "The §ROrder§! offers to take full charge of this mission, refusing §HHouse Organa§! or any other house to supply their forces. A concerned officer in the House Guard asks about the captives. The §ROrder§! captain grimaces and ignores the question.\n\nWith a sizeable force, the §ROrder§! rallies near the desolate village and finds the entrance to this hive inside a farmhouse. The foundation crumbled and revealed a massive network of tunnels leading to different parts of the hive. The captain signals his men to ready their blasters and flamethrowers as they near a chamber with the loudest buzzing."
- lotor_alderaan_events.114.a: "Very well."
-
- lotor_alderaan_events.115.name: "The Stranger"
- lotor_alderaan_events.115.desc: "Some time passes, and the settlement ruins are left behind and blocked off. One evening, a human emerges from one of the farmhouses with minimal injuries. A guardsman sees them and brings them into town, where they are checked over. Aside from the peculiar black eyes, they seem otherwise healthy. The lone human claims they are a scientist and is seeking to start their career a new in the service of Alderaan's interests."
- lotor_alderaan_events.115.a: "Bring them aboard. Give them a new lease on life."
-
- lotor_alderaan_events.116.name: "House Warming"
- lotor_alderaan_events.116.desc: "The soldiers enter the chamber and begin to open fire with their blasters and flamethrowers; within seconds, the chamber is set ablaze as the worker drones panic and are set aflame while the warriors rush into the fray only to be cut down by blaster fire. Some of the §ROrders'§! soldiers are knocked down by some of the larger warriors who weren't immediately dispatched; nearby soldiers quickly execute the warriors. The fighting continues as the Order pushes deeper into the hive, destroying eggs and grubs as they go.\nAmidst the battle, the captives are spotted. The captain and a few of his men rush to them and quickly examine them. Their eyes are black, and they seem to have been assimilated into the §YKind§!."
- lotor_alderaan_events.116.a: "There is no hope for them."
-
- lotor_alderaan_events.117.name: "Aftermath"
- lotor_alderaan_events.117.desc: "The order is given, and one of the soldiers turns their flamethrowers to the captives. For a brief moment, their humanity comes through as they plead, but within seconds they are silenced. The §ROrder§! continues to push through the hive until every last grub and egg is destroyed.\n\nAs the sun rises, the Order emerges victorious and is greeted with cheers and applause from the settlement's original inhabitants. A panicked group of citizens asks them the whereabouts of the captives. The captain grimaces and explains that they put the captives out of their misery."
- lotor_alderaan_events.117.a: "Nothing down there but bugs and bughuggers."
-
- lotor_alderaan_events.120.name: "Strange Conditions"
- lotor_alderaan_events.120.desc: "There are growing reports of humans with black eyes spotted in settlements that had recently come in contact with the Killiks. The reports also mention that while some retain their personality and mannerisms, others seem more drawn to the hives."
- lotor_alderaan_events.120.a: "A worrying development."
-
- lotor_alderaan_events.121.name: "Unforeseen Consequences"
- lotor_alderaan_events.121.desc: "Reports have reached the Alderaanian capital about the destruction of a settlement and hive near the Apalis Coast. According to some civilians, members of the Order of Extermination killed some captives of the Killiks during the fighting.\n\nThe §ROrder§! claims the captives had their minds subsumed by the Killiks, having joined their hivemind. The families of the deceased claimed they should have been spared and brought back for treatment."
- lotor_alderaan_events.121.a: "Side with the §ROrder§!."
- lotor_alderaan_events.121.b: "Side with the families."
-
- lotor_alderaan_events.122.name: "Unforeseen Consequences"
- lotor_alderaan_events.122.desc: "Reports have reached the Alderaanian capital of the destruction of a settlement near the Apalis Coast. According to §HOrgana§! guardsmen, a lone survivor of the attack came out of the rubble days after the attack. They claim he was acting peculiar and had black eyes.\nThis matches the report from scientists earlier about a mayor who had been taken into a hive and returned with similar abnormalities."
- lotor_alderaan_events.122.a: "We should monitor this closely."
-
- lotor_alderaan_events.130.name: "Alarming News"
- lotor_alderaan_events.130.desc: "Leaders of the Great Houses are growing increasingly alarmed with the news that more people are showing up with this affliction. Local doctors and scientists have started to refer to these people as '§HJoiners§!.'"
- lotor_alderaan_events.130.a: "A worrying development."
-
- lotor_alderaan_events.140.name: "Bug Problems"
- lotor_alderaan_events.140.desc: "The Alderaanian Joiners struggle to adapt to life with humans and serve the hiveminds. They say that their relationship with the Killik hiveminds is symbiotic, allowing for a greater connection than possibly the insects themselves.\n\nThis sentiment has disturbed many people, leading scientists to examine the §HJoiner's§! conditions and what causes the subsuming process; however, volunteers are needed, and few would want to participate willingly."
- lotor_alderaan_events.140.a: "Offer some compensation for tests."
- lotor_alderaan_events.140.b: "Acquire subjects through other means."
-
- lotor_alderaan_events.150.name: "New Subjects"
- lotor_alderaan_events.150.desc: "With subjects acquired, scientists start questioning and testing to understand the exact relationship between the §HJoiners§! and the hive. The questioning helps determine which hives have more §HJoiner§! activity and their connection to the hives. The testing is relatively standard, determining if there is any reasonably prominent biological connection.\nThe scientists and doctors can proceed with this line of examination, or they can approach it in a more invasive and far more dangerous way."
- lotor_alderaan_events.150.a: "Proceed as normal, no need to cause harm to the subjects."
- lotor_alderaan_events.150.b: "An in depth examination is absolutely required."
-
- lotor_alderaan_events.151.name: "Initial Findings"
- lotor_alderaan_events.151.desc: "The observation and questioning continue as expected as more information comes in from doctors and scientists across Alderaan. Based on non-invasive scans, it appears as if the §HJoiners§! were exposed to pheromones which started a transformation of their corpus callosum. The transformation allows them to receive signal impulses from the Killiks themselves."
- lotor_alderaan_events.151.a: "Fascinating!"
-
- lotor_alderaan_events.152.name: "Initial Findings"
- lotor_alderaan_events.152.desc: "Despite the subjects' pleas, the scientists and doctors begin doing invasive examinations of the patients. A thorough physical reveals that their physiology remains unchanged. However, when exposed to different heat and magnetic auras, their brain activity changes rapidly."
- lotor_alderaan_events.152.a: "Do more intensive brain studies."
- lotor_alderaan_events.152.b: "Push the limits of brain examination."
-
- lotor_alderaan_events.153.name: "Joining"
- lotor_alderaan_events.153.desc: "Additional questioning reveals that if a hive consumes a large enough population, they will adopt some of their mannerisms and traits. This worrying news is followed up with learning that it is possible to reverse the §GJoining§! process medically; however, it is a dangerous procedure that most would refuse to participate in."
- lotor_alderaan_events.153.a: "Perhaps some can be saved if stopped early enough..."
-
- lotor_alderaan_events.154.name: "Further Studies"
- lotor_alderaan_events.154.desc: "The examinations continue as scientists pour over the constant influx of new data. A sample of some plant matter around one of the hives sparked some brain activity, indicating that pheromones also cause a reaction in §HJoiners§!. At the same time, when exposed to chanmasu herbs provided by some Order soldiers, their bodies recoiled.\n\nAdditional scans show that the §Gjoining§! process transformed their brains, specifically the corpus callosum. This accounts for the unique responses to different auras."
- lotor_alderaan_events.154.a: "Very odd..."
-
- lotor_alderaan_events.155.name: "Further Studies"
- lotor_alderaan_events.155.desc: "Constant exposure to different auras puts a tremendous physical strain on a §HJoiner's§! body and mind. Before long, some of the subjects drop dead. Their autopsies reveal a transformed corpus callosum, no doubt a side effect of the §Gjoining§! process."
- lotor_alderaan_events.155.a: "A mind is a terrible thing to waste."
-
- lotor_alderaan_events.156.name: "Understanding Joiners"
- lotor_alderaan_events.156.desc: "When asked why they allowed themselves to become §HJoiners§!, they stated it was never intentional. Coming in contact with the pheromones and other auras was by no means planned, yet their joining with the §YHive§! has benefited them greatly. Some mention that they will ultimately become one with their respective hives.\nWith the questioning and testing concluding, it becomes clear to the Alderaanians that the §HJoiners§! are just one part of a complex web of interactions between themselves and the Killik. The §HJoiners§! are sent back to their respective homes from the testing sites."
- lotor_alderaan_events.156.a: "The §YGreat Houses§! should be informed of our discoveries."
-
- lotor_alderaan_events.157.name: "Dismissed"
- lotor_alderaan_events.157.desc: "The subjects who survived the brain studies are questioned afterward about how they became part of the hive. The §HJoiners§! say that their connection to their hives was not intentional, a mere side effect of being exposed to large amounts of pheromones.\nAs far as the §Gjoining§! process goes, asking if it was possible to disconnect someone from the hives, the §HJoiners§! respond hesitantly. According to them, it's possible but at significant risk to the individual. Not to mention the unwillingness of those who have become subsumed by the hives."
- lotor_alderaan_events.157.a: "These findings will be most useful."
-
- lotor_alderaan_events.158.name: "Final Results"
- lotor_alderaan_events.158.desc: "With the §HJoiners§! compensated and sent back to their respective homes, the scientists meet with the leaders of the §YGreat Houses§!. Many leaders are pleased with the simple fact that §HJoiners§! can be disconnected. However, with so few §HJoiners§! present in the Alderaanian population, there is no need to immediately seek a way to reverse the process.\n\nAt the same time, military leaders find it fascinating that pheromones and certain auras can cause an adverse reaction in the Killiks. There are still lingering questions about the Killiks, especially with the abandoned hives in the Castle Lands."
- lotor_alderaan_events.158.a: "The galaxy is vast and mysterious."
-
- lotor_alderaan_events.159.name: "Final Results"
- lotor_alderaan_events.159.desc: "The §HJoiners§! are sent back to their homes from the various testing sites, and the findings are sent to the leaders of the §YGreat Houses§!. The findings from the multiple scientists are well received, and the observations about reactions to auras, pheromones, and certain plants catch the interest of the military leaders, especially those from §HHouse Ulgo§! and §HHouse Thul§!.\n\nThere are still lingering questions about the Killiks, especially with the abandoned hives in the Castle Lands. The longer Alderaanians interact with the Killiks, the more information is gathered."
- lotor_alderaan_events.159.a: "Surely our studies today will not have repercussions."
-
- lotor_alderaan_events.160.name: "An Ongoing Mystery"
- lotor_alderaan_events.160.desc: "A group of scientists and historians have poured over all the findings from the recent interactions with the Killiks and §HJoiners§!. It became clear that the Killiks once swelled in numbers on Alderaan, but something occurred, leading to a rapid decline.\n\nReviewing the findings might reveal some information that was passed over. Alternatively, a small team of archaeologists and historians can be sent to the Castle Lands to examine one of the many hives."
- lotor_alderaan_events.160.a: "Continue reviewing notes."
- lotor_alderaan_events.160.b: "Send a small team to the Castle Lands for more information."
-
- lotor_alderaan_events.161.name: "Continued Studies"
- lotor_alderaan_events.161.desc: "Each report on the §HJoiners§! initially revealed very little new information. However, some of the §HJoiners§! made passing remarks about 'lost hives' and an event called the '§BGreat Migration§!' in the Killik's past."
- lotor_alderaan_events.161.a: "Interesting..."
-
- lotor_alderaan_events.162.name: "Continued Studies"
- lotor_alderaan_events.162.desc: "The team arrives at the Castle Lands and starts exploring one of the central spires. The eerie silence inside the earthen structure is surprisingly calming. Descending into the egg chamber, the archaeologists look over the numerous mosaics fashioned out of stones and pebbles.\n\nThe team is caught off guard by noticing a Joiner being escorted by two drones. The §HJoiner§! introduces themselves as §HDawn Herald§! - an emissary for one of the hives. She explains that she is here to learn of the '§BGreat Migration§!.'"
- lotor_alderaan_events.162.a: "By all means, tell us more."
-
- lotor_alderaan_events.163.name: "But Where?"
- lotor_alderaan_events.163.desc: "The §HJoiners§! make vague references to one of the largest Killik hives departing Alderaan. Since they could not find a world that could handle their numbers, the largest hive separated, pursuing other planets independently.\n\nThis revelation is fascinating yet slightly concerning. Perhaps it is possible to find another world they've settled on."
- lotor_alderaan_events.163.a: "Who knows where they could be?"
-
- lotor_alderaan_events.164.name: "But Where?"
- lotor_alderaan_events.164.desc: "According to the §HDawn Herald§!, the Great Migration was an event far in the Killik's past, before the Republic was even formed. They left Alderaan searching for a new home, but when they could not find a world that would hold their numbers, the largest hive split up to pursue their own paths.\n\nThis means the Killiks are also present on other planets, a surprising yet slightly concerning revelation. The §HJoiner§! continues to speak with the archaeologists before they part ways and return with their findings."
- lotor_alderaan_events.164.a: "Let's report the findings and see where we can go from there."
-
- lotor_alderaan_events.170.name: "Concerns"
- lotor_alderaan_events.170.desc: "The possibility that the Killiks spread to other worlds is alarming to most §YHouses§!. A few scientists started surveying neighboring Core World systems in response to this news. Their study shows that one world, §YAlsakan§!, had a Killik presence on it.\n\nLeaders from §HHouse Alde§! suggest going to §YAlsakan§! and meeting with a prominent historian. Their insights can help with possibly locating the new homeworld of the Killik."
- lotor_alderaan_events.170.a: "§YAlsakan§!? What a curious place."
-
- lotor_alderaan_events.180.name: "Crossroads"
- lotor_alderaan_events.180.desc: "The meeting with the Alsakan historian was insightful. The Killiks left mounds on §YAlsakan§! similar to those found in the Castle Lands. They are also dated back to before the §GRepublic§!. When asked about the potential location of a new §YKillik homeworld§!, the historian brought up a star chart. Albeit dated, they suggested that the Killik's new homeworld could be somewhere in the vast §BUnknown Regions§!.\n\nWhen the team returned to Alderaan, they faced a choice. Either pursue a potentially dangerous path of discovery with finding the new Killik homeworld or not."
- lotor_alderaan_events.180.a: "Perhaps we could make contact.."
- lotor_alderaan_events.180.b: "Would it be wise at all?"
-
- lotor_alderaan_events.181.name: "Playing It Safe"
- lotor_alderaan_events.181.desc: "After much deliberation, the decision is made not to seek out the homeworld. Siding with more reasonable members of the Alderaanian scientific community, the potential dangers of trying to reach out to the hivemind on their homeworld outweighs any benefits.\n\nRegardless, the prolonged examination of the Killiks and §HJoiners§! has been rather insightful. The overall activities of the hives appear to have dwindled, and conflicts with the Killiks have become less frequent."
- lotor_alderaan_events.181.a: "Perhaps they can stay dormant for a bit longer."
-
- lotor_alderaan_events.190.name: "Contact Established"
- lotor_alderaan_events.190.hostile: "After countless days of trying to establish contact, the §HJoiner§! finally succeeds in communicating with the hivemind and learns of its location.\n\nA medical droid monitors the vitals of the Joiner and notices a rapid heartbeat and strange neurological activity. The §HJoiner§! starts to stumble, gritting their teeth as they hold to the console inside the lab. An aide grabs them a seat, letting them sit down as the hivemind possesses the mind of the §HJoiner§!."
- lotor_alderaan_events.190.helpful: "After countless days of trying to establish contact, the §HJoiner§! finally succeeds in communicating with the hivemind and learns of its location.\n\nA medical droid notices a rapid heartbeat and increased neurological activity. The Joiner stands up and regains their composure as the hivemind takes hold."
- lotor_alderaan_events.190.a: "I have a bad feeling about this."
-
- lotor_alderaan_events.191.name: "The Hive Mind"
- lotor_alderaan_events.191.desc: "The §HJoiner§! collapses and holds their head. Whatever link they made with the hivemind was not pleasant.\n\n'§HThe Builders§! separated us. §YOroboro§! will be whole again on §YYoggoy§!. §YThe Kind§! will be whole again.'\n\nThe §HJoiner§! struggles to stand up, grabbing a console to steady themselves. While linked with the hivemind, they write down coordinates on a datapad.\n\n'The hives are in disarray. The lost hives are frenzied. Nests burned, links lost, and §YOroboro§! will -' Without warning, the §HJoiner§! falls unconscious."
- lotor_alderaan_events.191.a: "This is not good!"
-
- lotor_alderaan_events.192.name: "The Hive Mind"
- lotor_alderaan_events.192.desc: "The §HJoiner§! looks to the scientists with a relatively blank expression.\n\n'§YOroboro§! has reconnected with its greater half. §YThe Kind§! is most pleased. We were mere tools of the §HBuilders§!, creating §BQolaraloq§! and the §BFive Rocks§!. We were pulled from §YOroboro§! and placed here by the §HBuilders§!. Your willingness to let the Kind exist reflects greatly on your species. Perhaps one day we can be one again. §YOroboro§! made whole on §YYoggoy§!.'\n\nWith that, the §HJoiner§! collapses, holding their head as they attempt to raise themselves.\n\n'The original hive has been located but traveling to their world, §YYoggoy§!, is too dangerous. For now, you should consider yourselves lucky they answered so positively.'"
- lotor_alderaan_events.192.a: "That was a positive response?"
-
- lotor_alderaan_events.193.name: "The Hive Mind"
- lotor_alderaan_events.193.desc: "In the medbay, the §HJoiner§! is monitored by several doctors. The scientists stand by, waiting on them to regain consciousness, but the §HJoiner§! dies. With no leads beyond the name §YYoggoy§!, a rough approximation of its location, and an allusion to 'the §HBuilders§!,' the scientists conclude their study.\n\nThe prolonged examination of the Killiks and §HJoiners§! has proved to be rather insightful. The overall activities of the hives appear to have dwindled, and conflicts with the Killiks have become less frequent."
- lotor_alderaan_events.193.a: "Perhaps the hives will lay dormant once more.."
-
- lotor_alderaan_events.194.name: "The Hive Mind"
- lotor_alderaan_events.194.desc: "Discovering the location of their homeworld was truly a monumental discovery. Although it is far into unexplored regions of the galaxy, we at least know where the largest hive exists.\n\nThe prolonged examination of the Killiks and §HJoiners§! has proved to be rather insightful. The overall activities of the hives appear to have dwindled, and conflicts with the Killiks have become less frequent."
- lotor_alderaan_events.194.a: "Who knows what this new discovery will bring."
-
-#Taris - Pre Crusade
- lotor_taris_events.10.name: "A Construction Project"
- lotor_taris_events.10.desc: "We have been approached by members of an order of mystics that call themselves the §HJedi Order§!. They claim they are peacekeepers and mediators in times of crisis, encouraging peace and unity with '§Bthe Force§!.'\n\nIn exchange for creating an academy on our planet, they promise to help maintain stability and offer their assistance wherever needed."
- lotor_taris_events.10.a: "Absolutely, the Upper City welcomes you!"
- lotor_taris_events.10.b: "Perhaps another time, §HMasters§!. §HUnlocks a special Decision to build the Jedi Enclave on Taris§!"
- lotor_taris_events.20.name: "The Enclave"
- lotor_taris_events.20.desc: "The §YJedi Enclave§! is the newest addition to the Taris skyline. While it sits isolated from the rest of the sprawling ecumenopolis, the Jedi Enclave is where members of the order will train and live. Their presence here is a welcome one, offering a glimpse of hope in fairly uncertain times."
- lotor_taris_events.20.a: "May the Force be with them."
- lotor_taris_events.30.name: "Galactic Ambitions"
- lotor_taris_events.30.desc: "Being labeled as 'the §YCoruscant§! of the §BOuter Rim§!' is a great honor. While our sprawling cityscapes are not nearly as vast as those on §YCoruscant§!, Taris still has marvelous skylines. And our wealth is nothing to take lightly either. However, we can't simply be a planet to ourselves.\n\nWe should reach out to member worlds of the §GGalactic Republic§! and see if any of them can petition for our inclusion into this community. We should dispatch some diplomats to the major member worlds."
- lotor_taris_events.30.a: "Lets see what comes of this."
- lotor_taris_events.35.name: "Petitioning the Republic"
- lotor_taris_events.35.desc: "The §BOuter Rim§! world of §YTaris§! has been petitioning for a spot within the §GRepublic§! for some time now. Their planet shows potential as a possible member world but their position in the §BOuter Rim§! would prove a challenge to protect and provide aid to in case of a crisis.\n\nIn the meantime, we will refrain from directly answering their petitions."
- lotor_taris_events.35.a: "Best not to get their hopes up."
- lotor_taris_events.40.name: "Courting Coruscant"
- lotor_taris_events.40.desc: "Our petitions have been met with silence from Corellian, Duro, and Alderaanian leadership. The lack of interest is not entire unsurprising.\nHowever, representatives from §YCoruscant§! have some interest in our planet - from a financial perspective."
- lotor_taris_events.40.a: "Interesting..."
- lotor_taris_events.50.name: "A little bribery"
- lotor_taris_events.50.desc: "After much deliberation with the representatives from §YCoruscant§!, they offer membership in exchange for allowing Coruscanti businesses to establish themselves on the planet. However, they are not entirely convinced that Taris is a good choice for their enterprises."
- lotor_taris_events.50.a: "Credits might do the trick.."
- lotor_taris_events.50.b: "Credits and some high-end goods might persuade these diplomats.."
- lotor_taris_events.50.c: "Maybe these diplomats require something a bit more exotic.."
- lotor_taris_events.60.name: "Thankful Diplomats"
- lotor_taris_events.60.desc: "The diplomats receive their 'gifts' without any complication. They're thankful for the opportunity to meet with us. One the diplomats assures us that we will have no problems becoming a part of the Republic."
- lotor_taris_events.60.a: "Let us hope this won't worsen the deal."
- lotor_taris_events.70.name: "Good News!"
- lotor_taris_events.70.desc: "Some time passes and our leader informs us that the Senate has allowed our inclusion into the §GGalactic Republic§!. In the coming months, we will see increased trade and a detachment of ships to ensure the protection of our hyperlanes."
- lotor_taris_events.70.a: "Marvelous news!"
- lotor_taris_events.75.name: "A New Face"
- lotor_taris_events.75.desc: "A group of senators decided to draft a resolution that would include providing Taris membership status and the benefits associated with it. After much deliberation, the senate approved of the resolution.\n\nWhen asked about what brought about their change in opinion, the group of senators remained coy."
- lotor_taris_events.75.a: "Very well."
- lotor_taris_events.80.name: "The Graduates"
- lotor_taris_events.80.desc: "We have wonderful news from the §HJedi Enclave§!! The padawans of the most recent class are close to the end of their trials and will be conducting their last one on our moon. They are tasked with navigating the surface blind and reunite with their masters. Surely their masters known the surface is bombarded constantly."
- lotor_taris_events.80.a: "Those Jedi are mad!"
- lotor_taris_events.80.b: "May the Force be with them."
- lotor_taris_events.80.c: "Couldn't have they picked something less dangerous?"
- lotor_taris_events.90.name: "The Trial"
- lotor_taris_events.90.desc: "Surprisingly, the padawans reunited with their masters without a problem and have returned to the §HJedi Enclave§!. However, their masters appeared to be slightly disturbed. It is still unknown what bothered them on the moon."
- lotor_taris_events.90.a: "They survived, that's good, right?"
- lotor_taris_events.100.name: "Ruminations"
- lotor_taris_events.100.desc: "The §HJedi§! have been rather secretive as of late. Our liaison to the §HJedi§! has only overheard the padawans anxiously talk among themselves about the upcoming knighting ceremony. However, the liaison did mention something about one of the masters discussing a disturbing vision."
- lotor_taris_events.100.a: "Jedi have visions all the time. Nothing to worry about."
- lotor_taris_events.100.b: "We have a bad feeling about this."
- lotor_taris_events.110.name: "The Massacre"
- lotor_taris_events.110.desc: "The unthinkable has happened! The padawans have been slain! One padawan escaped the slaughter and was chased by the §HJedi§! and local authorities through the Upper and Middle cities. It is assumed that they are the one responsible for this senseless violence."
- lotor_taris_events.110.a: "Absolutely barbaric!"
- lotor_taris_events.110.b: "The Jedi need our support to help capture this fugitive!"
- lotor_taris_events.120.name: "Dimming Light"
- lotor_taris_events.120.desc: "Public order is rapidly deteriorating. Businesses are pulling out of Taris due to the perceived unsafe nature of the planet. This move has led to riots in the Middle and Lower cities. Furthermore, the §YJedi Council§! on §YCoruscant§! has reassigned the Taris masters to separate posts.\n\nAdditionally, we've learned that the surviving padawan restored the holographic memory of one of the master's droids and learned of the dark vision. All that is known about it is that the Jedi saw their own deaths."
- lotor_taris_events.120.a: "We'll capture this fugitive eventually."
- lotor_taris_events.120.b: "Quite a shame."
- lotor_taris_events.120.c: "The Jedi were more trouble than their worth. We are better off without them!"
-
-# Duro Events: Neimoidia
- lotor_duro_events.1.name: "Potential Colony"
- lotor_duro_events.1.desc: "One of our enterprising administrators, Chla C'cHaan, has located a planet in the nearby §YNeimoidia§! system that might be suitable for a new Duro colony."
- lotor_duro_events.1.a: "Fascinating!"
- lotor_duro_events.2.name: "Scouting The System"
- lotor_duro_events.2.desc: "The Neimoidia system proves to be a promising candidate for a new colony. Both §YPure Neimoidia§! and §YCato Neimoidia§! are ideal worlds for our colonists, despite the high gravity.\n\nWith additional funding, the survey teams can accelerate the process needed to clear the planet for settlement."
- lotor_duro_events.2.a: "That is unnecessary."
- lotor_duro_events.2.b: "Spare no expense, this is for the future of our people."
-
-
- lotor_duro_events.10.name: "A New Frontier"
- lotor_duro_events.10.desc: "§YNeimoidia§! is a wonderful new addition to our growing empire. §HChla C'cHaan§! will oversee the development of the new colony and chronicle its history."
- lotor_duro_events.10.a: "Excellent!"
- lotor_duro_events.20.name: "Our Cousins"
- lotor_duro_events.20.desc: "After a few years of adjusting to the high gravity of §YNeimoidia§! and the neighboring planets, the Duro colonists are finally adapting to these new changes. There are some noticeable changes to their physiology.\n\nTheir mannerisms are a bit peculiar as well. While we are more concerned with expansion and travel, they're content hoarding wealth and being a bit cowardly. Recent writings from §HC'cHaan§! show that he is distressed about this slow decline in Duro culture."
- lotor_duro_events.20.a: "That is a bit odd..."
- lotor_duro_events.30.name: "The Upstarts"
- lotor_duro_events.30.desc: "Our Neimoidian cousins are doing quite well for themselves in their own worlds. However, they seek to gain independence and separate from the §YCommonality of Duro§!.\n\nIt is a reasonable request but there could be ramifications later on if we decide to reject their petition. This is no doubt a historic crossroads for our two species."
- lotor_duro_events.30.a: "Very well, lets grant them this opportunity."
- lotor_duro_events.30.b: "It'd be a shame to lose these colonies. Proposition rejected."
- lotor_duro_events.41.name: "Who Needs Them Anyway"
- lotor_duro_events.41.desc: "While a minor setback to the Commonality of Duro, we see a prosperous future ahead for cousin species. Maybe their desire for wealth and luxury will benefit them."
- lotor_duro_events.41.a: "C'cHaan's chronicles will remember this day!"
- lotor_duro_events.42.name: "Our Purse Worlds"
- lotor_duro_events.42.desc: "The Neimoidians are angered by our outright rejection of their proposal. Hopefully this anger will pass. For the time being, our cowardly, greedy cousins will remain a part of the Commonality."
- lotor_duro_events.42.a: "Very well."
-# Hutt - Evocii 
-
- lotor_hutt_events.10.name: "A New Home"
- lotor_hutt_events.10.desc: "This lush jungle world seems like a promising new start for our people. Expanding to this world is only the first step in expanding our empire."
- lotor_hutt_events.10.a: "§YEvocar§! is truly a glorious jewel."
- 
- lotor_hutt_events.20.name: "The Natives"
- lotor_hutt_events.20.desc: "Our presence has got the attention of the natives. These lowly creatures call themselves the §HEvocii§!. These creatures are incredibly fascinated by our superior technology. Perhaps this could be used to our advantage."
- lotor_hutt_events.20.a: "These creatures already know who their superiors are."
- 
- MEET_ELDERS_PROJECT: "Meeting the Elders"
- 
- lotor_hutt_events.30.name: "A Good Deal"
- lotor_hutt_events.30.desc: "The §HEvocii§!, fascinated by our technological superiority, ask our leaders about the possibility of granting us more land in exchange for some of our technology.\n\nIts unknown if they are even capable of understanding our engineering and scientific achievements but the opportunity to get more land without direct conflict is appealing. Regardless of what we give them, we will still come out on top. "
- lotor_hutt_events.30.a: "Give the Evocii meaningless trinkets."
- lotor_hutt_events.30.b: "Give the Evocii some practical technology."
-
- lotor_hutt_events.40.name: "The Contract"
- lotor_hutt_events.40.desc: "It has become apparent we need more of the planet to satisfy our needs. We have drafted a contract that allows us to buy the planet from this lesser species. They still look to us in admiration so we should have no problem getting what we want."
- lotor_hutt_events.40.a: "Excellent"
- 
- REAL_ESTATE_PROJECT: "Free Real Estate"
-
- lotor_hutt_events.50.name: "Terms and Conditions"
- lotor_hutt_events.50.desc: "Almost without question, the §HEvocii§! agreed on the terms of the contract. With signatures from all of the elders and leaders, they have legally forfeited ownership of the planet and we have full control over it."
- lotor_hutt_events.50.a: "A lesser species knows its place."
- 
- lotor_hutt_events.60.name: "Complacency" # WIP
- lotor_hutt_events.60.desc: "Through politics and bribery, the §HEvocii§! are placated. We've avoided prolonged fighting and destruction of our infrastructure and for that the other Hutts are thankful. While we control nearly all the planet, the §HEvocii§! appear to be satisfied with what little they actually hold on to." # WIP
- lotor_hutt_events.60.a: "Excellent news!" # WIP
-
- lotor_hutt_events.70.name: "New Labor"
- lotor_hutt_events.70.desc: "We have pacified most of the insurgents and destroyed the agricultural capabilities of the §HEvocii§!. While a few discontent groups still exist, they're now little more than a nuisance that can be easily dealt with.\n\nWith the §HEvocii§! broken, it would be a fitting punishment for them to continue living here but as our slaves. There is also a §Ymoon§! orbiting [This.GetName] we can colonize as well, maybe forcibly move these disgusting creatures there."
- lotor_hutt_events.70.a: "This is their fate, now and forever."
-
-#Hutt - Varl Destruction
- lotor_hutt_events.80.name: "Peace and Quiet"
- lotor_hutt_events.80.desc: "We are blessed by the gods Ardos and Evona. The colony on Nal Hutta is growing and prospering. There is a bright future here for our people."
- lotor_hutt_events.80.a: "The gods are pleased."
-
- lotor_hutt_events.90.name: "The Angered Gods"
- lotor_hutt_events.90.desc: "The gods appear restless in the sky. The Ruling Council is worried that something catastrophic will happen in the near future and is urging our people to expand to not only the Nal Hutta colony, but other inhabitable worlds in our empire. "
- lotor_hutt_events.90.a: "But what angered our gods?"
-
- lotor_hutt_events.100.name: "The Angered Gods"
- lotor_hutt_events.100.desc: "The unthinkable is happening. Something has happened to Evona. A large swirling mass has consumed one of our gods!"
- lotor_hutt_events.100.a: "Ardos's wrath will be fierce and unyielding."
-
- lotor_hutt_events.110.name: "Wrath of Gods"
- lotor_hutt_events.110.desc: "Angered with the death of his wife, Ardos unleashes his rage on the system, destroying the atmospheres of every planet in the system. Varl is rendered uninhabitable.\n\nWith the loss of our gods and our survival on other worlds, it is clear that we must be at least near-gods to survive Ardos' wrath."
- lotor_hutt_events.110.a: "This will bring us good fortune, even if we've lost our homeworld."
-
-# Hutt - Kajidic
- lotor_hutt_events.120.name: "The Peacemaker"
- lotor_hutt_events.120.desc: "The inter-clan conflict among our people must have surely angered the gods. Fighting with slave armies on Varl most certainly offended them. Now would be a good time to implement a system pioneered by one of our finest negotiators, Budhila Hestilic Amura."
- lotor_hutt_events.120.a: "Truly one of our finest and most corpulent!"
-
- lotor_hutt_events.130.name: "Wise Insight"
- lotor_hutt_events.130.desc: "Budhila continues to show his brilliance. Responsible for drafting the contract that secured us Nal Hutta from the lowly Evocii, he encourages that we approach conflict both internally and externally.\n\nAccording to him, it is best to approach these conflicts as entrepreneurial ventures that favored aggressive, non-military internal rivalries and avoided outright conquest and war. Instead, it is better to influence and control organizations and worlds from within."
- lotor_hutt_events.130.a: "The means by which we prosper..."
-
- lotor_hutt_events.140.name: "The New ways"
- lotor_hutt_events.140.desc: "After much deliberation, the ideas proposed by Budhila are brought to the Ruling Council. Being convinced that such an approach would weed out the weakest elements of the species and promote a greater cohesion among the clans, they accept."
- lotor_hutt_events.140.a: "After all, somebody has to have it. Why not us?"
-
- #Rodia Events
- lotor_rodia_events.10.name: "Clan Feud"
- lotor_rodia_events.10.desc: " A simple disagreement over a trade escalated from an argument to violence between clans. While the fighting was quelled, it did result in the unnecessary death of several people."
- lotor_rodia_events.10.a: "So uncivilized!"
- lotor_rodia_events.10.b: "Our people just naturally crave battle."
- lotor_rodia_events.20.name: "A Greater Problem"
- lotor_rodia_events.20.desc: "Fighting between Rodian clans is nothing unusual but the increase in violence and over such trivial things as no doubt worrying to many clan leaders. We must find a way to help our people use their violent urges in a way that doesn't lead to destruction"
- lotor_rodia_events.20.a: "Very well."
- lotor_rodia_events.30.name: "A Novel Solution"
- lotor_rodia_events.30.desc: "Grand Protector Harido Kavila has proposed we take our tradition of gladiatorial fighting and adapt it to where we have choreographed battles and duels on stage before an audience. He points out that we can pull from our many stories and legends and bring them to life as well as put the desires for battle in check."
- lotor_rodia_events.30.a: "An excellent idea!"
- lotor_rodia_events.40.name: "Opening Night"
- lotor_rodia_events.40.desc: "The first performance was a spectacular success! The audience was enthralled by the intensity of the fight and the participants loved the chance to fight without the risk of death and severe maiming.\n\nPerhaps this theater business has greater potential than we realize."
- lotor_rodia_events.40.a: "Marvelous news!"
-
- #Isotope-5 events 
- lotor_isotope_events.11.name: "Construction Complete"
- lotor_isotope_events.11.desc: "We have successfully constructed a new facility to handle this volatile material. Let's hope nothing goes horribly wrong."
- lotor_isotope_events.11.a: "Very well."
- lotor_isotope_events.12.name: "Delayed Construction"
- lotor_isotope_events.12.desc: "Our workers have ran into a few complications with building the facility. They claim that they have not received the necessary materials they need to continue work. It is highly possible that we underestimated the amount of materials needed for the project but it is equally likely they might want to line their pockets with extra resources."
- lotor_isotope_events.12.a: "Supply the workers with additional funds."
- lotor_isotope_events.12.b: "Deny the request."
- lotor_isotope_events.13.name: "Facility Destroyed"
- lotor_isotope_events.13.desc: "An unfortunate accident has led to the destruction of our Isotype-5 facility. Thankfully, no one died in the resulting explosion and collapse of the structure. This is a major set back for our plans."
- lotor_isotope_events.13.a: "We must try again."
- lotor_isotope_events.14.name: "Facility Destroyed"
- lotor_isotope_events.14.desc: "An unfortunate accident has led to the destruction of our Isotype-5 facility. The explosion destroyed all progress we made and even claimed the life of one of our scientists. This is a major set back and loss for our endeavors."
- lotor_isotope_events.14.a: "Blast! Inform the family and lets try again."
- lotor_isotope_events.22.name: "Building Upgrade"
- lotor_isotope_events.22.desc: "Improvements to our facility will hopefully allow us to optimize production and manipulation of the material."
- lotor_isotope_events.22.a: "Excellent."
- lotor_isotope_events.23.name: "Delayed Improvements"
- lotor_isotope_events.23.desc: "Once more there are delays on the project. The lack of funding and adequate resources proves to be a reoccurring theme with our attempts at manipulating this rare material."
- lotor_isotope_events.23.a: "Provide the teams with the proper funding."
- lotor_isotope_events.23.b: "Reject request."
- lotor_isotope_events.24.name: "Upgrade Successful"
- lotor_isotope_events.24.desc: "A glorious day for our people is upon us. We have successfully expanded the facility, leading to more unique opportunities for advancements with this rare material."
- lotor_isotope_events.24.a: "This is fantastic news!"
- lotor_isotope_events.25.name: "Disaster"
- lotor_isotope_events.25.desc: "Tragedy strikes as our facility is devastated following a massive explosion in our expansion wing. Not only did we lose some assets, we also lost a scientist in the explosion."
- lotor_isotope_events.25.a: "Horrible news."
- lotor_isotope_events.26.name: "Disaster"
- lotor_isotope_events.26.desc: "Tragedy strikes as our facility is devastated following a massive explosion in our expansion wing. Not only did we lose some assets, we also lost a scientist in the explosion. Furthermore, we lost progress on our Isotype-5 research, setting us back."
- lotor_isotope_events.26.a: "This is madness!"
-
- # Generic event - HoloNet Comms (Heavily WIP)
- lotor_generic_event.10.name: "HoloNet Communications"
- lotor_generic_event.10.desc: "As the galaxy opens up to us, communication across the HoloNet is reconnecting people across the galaxy and boosting commerce and rebuilding efforts after the catastrophic war against the Sith.\n\nAdditionally, this massive communications grid allows news to travel throughout the galaxy."
- lotor_generic_event.10.a: "We've been listening to the HoloNet News for years!"
- 
- #Generic event - Bountiful Harvest
- lotor_generic_event.20.name: "Bountiful Harvest"
- lotor_generic_event.20.desc: "Our farmers have announced a record harvest this year. From Aurilian fruit to massive heads of silverleaf, local markets and tables will be filled to the brim with nutritious meals."
- lotor_generic_event.20.a: "Wonderful news!"
- 
- # Generic Event - Rich Mineral Vein
- lotor_generic_event.30.name: "Rich Mineral Vein Discovered"
- lotor_generic_event.30.desc: "A mining team has uncovered a vein of minerals that exceed expectations in quality."
- lotor_generic_event.30.a: "Wonderful, process them immediately."
- lotor_generic_event.30.b: "Sell them off for credits."
-
- # Generic Event - Pest infestation
- lotor_generic_event.40.name: "Infestation"
- lotor_generic_event.40.desc: "Reports are coming in from multiple starports in [From.GetAdj] space about a vermin infestation damaging goods. Drawn to a recent influx of new produce, these vermin have tainted most of these shipments."
- lotor_generic_event.40.a: "This shipment is completely worthless now."
- lotor_generic_event.40.b: "Allocate funds to prevent the vermin from spreading."
- lotor_generic_event.40.c: "Burn everything and pay a compensation"
- lotor_generic_event.41.name: "Infestation"
- lotor_generic_event.41.desc: "After a few days of sweeping throughout all the spaceports, it is safe to say that all these pests are eradicated.\n\nAll shipments passing through our spaceports are thoroughly screened for any sort of vermin and if any are found, small astromechs take care of the issue without delay."
- lotor_generic_event.41.a: "Very well."
- lotor_em_compensation: "Compensation"
- lotor_em_compensation_desc: "A compensation for tainted supplies."
-
- 
-# Planetary Modifiers
- pm_ryloth_forests: "Beautiful Forests"
- pm_killik_hive: "The Castle Lands"
- pm_killik_hive_desc: "The Castle Lands is home to abandoned earthen spires constructed by an enigmatic species."
- lotor_pm_happy_pops: "Happy Population"
- lotor_pm_happy_pops_desc: "Recent decisions by our governing officials are well received by the public "
- lotor_pm_unhappy_pops: "Unhappy Population"
- lotor_pm_unhappy_pops_desc: "Recent decisions by our governing officials have angered the public."
- pm_taris_jeditower: "Jedi Tower"
- pm_taris_jeditower_desc: "Also referred to as the Taris Academy, the Jedi Tower acts as a training academy for Jedi Masters and their Apprentices in the Upper City."
- lotor_pm_duro_pollution: "Millennia of Pollution"
- lotor_pm_duro_pollution_desc: "Eventually, due to millennia of pollution, the only remaining creature on Duro was the nonnative Fefze beetle. At the same time, the Atmosphere can almost be descripted as toxic."
-
-# Special Projects 
- alderaanian_joiners_chain_title: "Meet the Neighbors"
- alderaanian_joiners_chain_desc: "The abandoned hives on Alderaan are an enduring mystery to us. While beautiful and haunting monuments, it is highly likely they are linked to strange happenings taking place throughout the planet. Perhaps these spires are linked to rumors of odd behavior and monsters."
- joiners_clues: "Clues"
-
- ALSAKAN_HIVE_PROJECT: "Alsakan Hive Project"
- ALSAKAN_HIVE_PROJECT_DESC: "Based on findings from some of Alderaan's most diligent of historians, it is believed that the Killiks also colonized another §BCore§! world, §YAlsakan§!. Our historians and scientists are interested in examining the ruins of their hives to possibly figure out where the majority of the species have settled now."
-
- ALDERAAN_KILLIK_CONTACT_PROJECT: "Killik Contact"
- ALDERAAN_KILLIK_CONTACT_PROJECT_DESC: "We have been given the unique opportunity to try and make contact with the Killik hivemind off world. We have brought on a §HJoiner§! to aid in the process."
-
- GUGAL_BLOOM_CONTAINMENT_PROJECT: "Containment Project"
- GUGAL_BLOOM_CONTAINMENT_PROJECT_DESC: "The §RGugal Bloom§! is spreading rapidly throughout Ryloth. We must contain this fungus to prevent further devastation to our forests."
-
- MEET_ELDERS_PROJECT: "Meeting the Elders"
- MEET_ELDERS_PROJECT_DESC: "Our presence on this world has not gone unnoticed. The §HEvocii§! wish for us to meet with their elders and see if we can find some 'common ground.'"
-
- REAL_ESTATE_PROJECT: "Free Real Estate"
- REAL_ESTATE_PROJECT_DESC: "Through negotiation and various legal proceedings, the §HEvocii§! are willing to give up more of their space for our empire. Lets see how much we can get from them..."
-
- EVOCII_PACIFICATION_PROJECT: "Pacifying the Evocii"
- EVOCII_PACIFICATION_PROJECT_DESC: "Against their better judgement, these lowly creatures have decided to rise up against their superiors in a bid to reclaim their planet. It is clear what needs to be done.\n\nWipe them out. All of them."
-
- HUTT_KAJIDIC_PROJECT: "Understanding the Kajidic"
- HUTT_KAJIDIC_PROJECT_DESC: "Our glorious empire will benefit from the teachings of Budhila Hestilic Amura. Not only will these teachings help our day to day activities, but they can also be taught to our vassals as well."
-
- GUGAL_BLOOM_CONTAINMENT_PROJECT: "Containment Project"
- GUGAL_BLOOM_CONTAINMENT_PROJECT_DESC: "The §RGugal Bloom§! could have horrific ramifications for §YRyloth§!'s environment. We must contain this fungus before it gets out of hand."
- 
- RODIAN_THEATER_PROJECT: "Setting the Stage"
- RODIAN_THEATER_PROJECT_DESC: "To curb the fighting among the clans and temper the aggressive tendencies of our people we are going to create a staged battle."
-
-
-
-# Other
- decision_taris_jedi_tower: "Jedi Enclave Construction"
- decision_taris_jedi_tower_desc: "It is now time to start the Jedi Enclave Project"
- lotor_jedi_tower_building: "Jedi Enclave under construction"
- leader_trait_lotor_duro_astrologian: "Astrologian"
- leader_trait_lotor_duro_astrologian_desc: "Duros are renowned for their navigational skills and piloting abilities."
- republic_member_world_governor: "Republic Governor"
- republic_member_world_admiral: "Republic Admiral"
- republic_member_world_general: "Republic General"
- republic_member_world_scientist: "Republic Scientist"
+# Ryloth Gulag Bloom #NT!
+  lotor_ryloth_events.10.name: "Посетители"
+  lotor_ryloth_events.10.desc: "Сегодня прибыл инопланетный грузовой корабль, готовый принять груз для колонии Дуро на Неймодии. Экипаж очень профессиональный, приятное изменение по сравнению с недобросовестными работорговцами и преступниками, которые часто посещают Рилот. В дополнение к кредитам они также заплатили нашим докерам фруктами из другой их колонии. Экипаж отмечает, что крапчатая текстура плода не вызывает беспокойства."
+  lotor_ryloth_events.10.a: "Странная, но приятная неожиданность."
+
+  lotor_ryloth_events.20.name: "Грибок"
+  lotor_ryloth_events.20.desc: "Один из наших ученых заметил, что некоторые из наших деревьев медленно поражаются странным грибком. Хоть он и кажется в основном безобидным, более широкое научное сообщество призывает нас следить за этим странным явлением."
+  lotor_ryloth_events.20.a: "Очень хорошо, давайте соберем несколько образцов и изучим их."
+
+  lotor_ryloth_events.30.name: "Опустошенный мир"
+  lotor_ryloth_events.30.desc: "Несмотря на все наши усилия, грибок вышел из-под контроля. Вероятно, леса Рилота более никогда не восстановятся в полном смысле. Однако власти задержали экипаж корабля «Дуро», когда они прибыли. Возможно, в будущем мы сможем полностью восстановить леса Рилота, но пока что кроны уступят место каменистой и бесплодной местности."
+  lotor_ryloth_events.30.a: "Пока что леса останутся просто воспоминанием."
+
+  GUGAL_BLOOM_INVESTIGATION_PROJECT: "Агрессивные споры"
+  GUGAL_BLOOM_INVESTIGATION_PROJECT_DESC: "Наши ученые встревожены быстрым распространением этого агрессивного грибка. Первоначальные наблюдения за его доброкачественностью ставятся под сомнение, поскольку они замечают, что деревья, пораженные этим грибком, быстро умирают. Кроме того, распространение этого грибка потенциально может привести к опустошению лесов на Рилоте без возможности их восстановления."
+
+  GUGAL_BLOOM_TRACKING_PROJECT: "Виновные"
+  GUGAL_BLOOM_TRACKING_PROJECT_DESC: "Расследование указывает на докеров, перевозивших груз на корабле «Дуро». После допроса выяснилось, что команда «Дуро» предложила докерам немного фруктов в дополнение к их зарплате. После того, как «Дуро» отбыл, рабочие попробовали фрукт и тут же выбросили его, заявив, что он неприятный и, вполне возможно, гнилой. Корабль «Дуро» должен вернуться через несколько ротаций за следующей партией."
+
+
+# Alderaan Joiners #NT!
+  r_killik_eggs: "Кладка яиц килликов"
+  r_killik_eggs_desc: "Из этих кладок могут родиться новые киллики. Создание нового улья означает большее количество примкнувших, прислуживающих улью."
+
+  leader_trait_lotor_killik_joiner: "Примкнувший-киллик"
+  leader_trait_lotor_killik_joiner_desc: "Примкнувшие — или уничижительно жуколюбы и другие оскорбления — так называли не-килликов, которые были поглощены коллективным разумом килликов. Это было вызвано воздействием большого количества феромонов, выделяемых килликами, которые воздействовали на структуру мозга."
+
+  lotor_alderaan_events.10.name: "Памятники"
+  lotor_alderaan_events.10.desc: "Не найти сравнения естественной красоте Альдераана. Наши леса, горы, луга и другие особенности выделяются среди всех Миров Ядра, а возможно, и среди остальной части галактики. Однако наша планета по-прежнему не лишена загадок.\nПо ландшафту разбросаны многочисленные шпили. Наши учёные и историки хотят тщательно изучить эти сооружения, чтобы выяснить, кто или что построило эти сложные «башни»."
+  lotor_alderaan_events.10.a: "Очень хорошо."
+  lotor_alderaan_events.10.b: "Убедитесь, что наши ученые хорошо оснащены."
+
+  lotor_alderaan_events.20.name: "Замковые земли"
+  lotor_alderaan_events.20.desc: "Большое количество информации было получено от множества команд, разосланных по планете. Несколько команд, побывавших в этих шпилях, отметили, насколько они напоминают внутреннюю часть ульев насекомых, но украшенную красочной мозаикой.\nМногие ученые сообщают, что они чувствовали себя спокойно рядом с этими массивными конструкциями, а историки отмечают, что какая бы империя и вид ни построили эти «замки», они пришли в упадок. Тем не менее, все полевые заметки выражали повторяющееся чувство — благоговение."
+  lotor_alderaan_events.20.a: "Мы тоже можем исчезнуть, если не будем осторожны."
+
+  lotor_alderaan_events.30.name: "Пустое гнездо"
+  lotor_alderaan_events.30.desc: "Тайна, окружающая Замковые земли, продолжает ставить в тупик наших историков и учёных. Дальнейшие исследования их структуры показывают, что виды, первоначально жившие здесь, были инсектоидами разнообразных форм и размеров. Один учёный заметил камеру с большими отверстиями в стенах, сделанными для яиц."
+  lotor_alderaan_events.30.a: "Увлекательно!"
+
+  lotor_alderaan_events.40.name: "Слухи"
+  lotor_alderaan_events.40.desc: "Ходит множество слухов о странном кургане посреди поселения. Первоначальные поселенцы построили вокруг сооружения из-за его уникальной красоты и с тех пор живут нормальной, мирной жизнью.\n\nВ последнее время люди утверждают, что слышат в своих домах царапанье и улавливают странные запахи. Другие слышали щелканье и чириканье поздно ночью возле кургана. Ещё меньшее количество сообщало о головных болях и тошноте всякий раз, когда они слышали шум.\n\nКроме того, сообщения из других частей планеты описывают, как каждые несколько лет из этих курганов выходят существа, вступающие в конфликт с альдераанцами."
+  lotor_alderaan_events.40.a: "Отправьте небольшую группу для расследования."
+  lotor_alderaan_events.40.b: "Отправьте большую группу на расследование."
+  lotor_alderaan_events.40.c: "Глупости!"
+
+  lotor_alderaan_events.50.name: "Обследование"
+  lotor_alderaan_events.50.desc: "Команда прибывает и помогает местным врачам, пока другие начинают осматривать насыпь и окружающие здания. Ведущий учёный искал местного мэра, но его уже несколько дней никто не видел.\n\nКогда солнце село, некоторые учёные также сообщили о стрекотании в некоторых строениях, стоящих поблизости от шпиля. Группа учёных входит в главное правительственное здание поселения и направилась в подвал. Мимо них проезжает маленький астромеханик, отчаянно пищащий и пытающийся заставить их обернуться."
+  lotor_alderaan_events.50.a: "Продолжайте с осторожностью."
+  lotor_alderaan_events.50.b: "Игнорировать дроида."
+
+  lotor_alderaan_events.60.name: "Соседи"
+  lotor_alderaan_events.60.desc: "Освещение в подвале в лучшем случае минимальное. Слышен слабый гул машин, но чириканье и царапанье становится заметно громче. Несмотря на призывы маленького дроида, команда движется вперёд и обнаруживает большую дыру в земле со слабым голубоватым светом, исходящим из глубины.\n\nОни осторожно следуют вниз, пока не достигают пещеры, освещённой биолюминесцентными грибами. Свет от грибов выявляет копошащиеся высокие инсектоидные тела, ухаживающие за кладками яиц на стене и кормящими личинок.\n\nОдинокая личинка ползает по астромеханику, вызывая панику у дроида и предупреждая весь улей о присутствии команды."
+  lotor_alderaan_events.60.a: "Проклятый дроид!"
+
+  lotor_alderaan_events.70.name: "Слухи"
+  lotor_alderaan_events.70.desc: "Трутни-рабочие, занимают позиции, чтобы защитить яйца, в то время как дроны-воины окружают команду с копьями и рудиментарными бластерами наготове. Из их рядов выходит человек, и они опускают оружие. Мужчина протягивает руку ведущему учёному.\n«Я местный мэр, думаю, это был только вопрос времени, когда вы встретитесь с нашими соседями. Несколько дней назад эти инсектоиды прокопались в подвал, пытаясь расширить свой улей. Не желая тревожить население, я решил пойти и исследовать всё сам, но был схвачен трутнями. Род желает мирного существования между альдераанцами и килликами. Они не привыкли, чтобы в их дом проникало так много людей одновременно».\n\nУчёный заметил кое-что особенное в этом человеке. Он казался несколько скованным, чем можно было ожидать, но его чёрные глаза были самой яркой чертой его внешности."
+  lotor_alderaan_events.70.a: "Безусловно! В наше время будет мир."
+  lotor_alderaan_events.70.b: "Посмотрим, что мы можем сделать."
+  lotor_alderaan_events.70.c: "Попытайтесь убедить их не вылупляться."
+
+  lotor_alderaan_events.80.name: "Открытие"
+  lotor_alderaan_events.80.desc: "Мэр улыбнулся и кивнул: «Это не единственный наш улей, на самом деле несколько Родов разрастаются под нашими городами и поселками. Не волнуйтесь, я уведомлю город о существовании нашего улья. Теперь идите, возвращайтесь к своим, дорогие учёные. Я скоро поднимусь\". Мэр поручил киллику вывести учёных из туннелей обратно на поверхность.\n\nЧерез несколько часов мэр поднялся на городскую площадь и сообщил населению о существовании килликов под их городом и по всей планете.\nБыло ли это хорошим решением или нет, ещё предстоит выяснить."
+  lotor_alderaan_events.80.a: "Кто знает, что может из этого выйти?"
+
+  lotor_alderaan_events.81.name: "Открытие"
+  lotor_alderaan_events.81.desc: "Мэр поморщился и указывает на кладки яиц, украшающие комнату. Трутни продолжают заботиться о яйцах, пока из них вылупляются личинки, ползая по полу пещеры. «Сейчас уже слишком поздно. Род продолжается».\n\nЧерез несколько часов мэр возвращается на городскую площадь и сообщает населению о существовании килликов под их городом и по всей планете. Было ли это хорошим решением или нет, ещё предстоит выяснить."
+  lotor_alderaan_events.81.a: "Кто знает, что из этого может получиться?"
+
+  lotor_alderaan_events.82.name: "Открытие"
+  lotor_alderaan_events.82.desc: "Несмотря на то, что от них отмахнулись как от слухов, похоже, что бедствия жителей вокруг шпиля имеют под собой реальную основу. На самом деле правда куда более невероятна, чем слухи. Мэр пропал без вести несколько дней, но недавно вернулся, рассказав о своей встрече с высокими насекомоподобными существами, называемых килликами.\n\nСогласно отчету, эти существа сейчас медленно просыпаются. Вполне возможно, что они являются источником слухов о монстрах и странных чирикающих и царапающих звуках."
+  lotor_alderaan_events.82.a: "Увлекательно."
+
+  lotor_alderaan_events.90.name: "Растущие сомнения"
+  lotor_alderaan_events.90.desc: "С новостями о присутствии килликов на Альдераане, распространяющимися по всему альдераанскому пространству, некоторые члены Великих Домов стремятся к мирным отношениям с ними, в то время как другие остаются скептичными.\nОднако некоторые выступают против каких-либо отношений с килликами. Они вспоминают времена, когда инсектоиды нападали на деревни, оставляя их разрушенными без следа выживших. Недавно на маленькое поселение, находящееся под юрисдикцией Дома Тал, было совершено нападение."
+  lotor_alderaan_events.90.a: "Только время покажет, к чему могут привести эти отношения."
+
+  lotor_alderaan_events.100.name: "Протягивая руку"
+  lotor_alderaan_events.100.desc: "В попытке наладить отношения между килликами и Алдерааном небольшая группа дипломатов отправляется в улей в сопровождении членов Дома Тал. Они намереваются разбить лагерь возле одного из наиболее активных ульев и попытаться связаться с килликами. Если бы это не были дипломаты, могло показаться, что готовится небольшой ударный отряд."
+  lotor_alderaan_events.100.a: "Не на что смотреть, двигайтесь дальше."
+  lotor_alderaan_events.100.b: "Осмотрите груз."
+
+  lotor_alderaan_events.101.name: "Раскрытие"
+  lotor_alderaan_events.101.desc: "Несколько дней спустя репульсорный корабль вернулся со значительно меньшим количеством людей. Хотя они так и не сказали толком, что произошло, было ясно, что миссия провалилась. В конце концов, выяснилось, что дипломаты действовали как прикрытие для членов Дома Тал и Ульго, чтобы уничтожить формирующийся улей."
+  lotor_alderaan_events.101.a: "Чёртовы жуки!"
+
+  lotor_alderaan_events.102.name: "Раскрытие"
+  lotor_alderaan_events.102.desc: "Несмотря на заверения дипломатов, что они привезли только самое необходимое, местные власти досматривают груз, загруженный на репульсор. Через несколько минут осмотра ящиков они обнаруживают заряды взрывчатки, спрятанные под предметами первой необходимости.\n\nНа вопрос о взрывчатых веществах дипломаты притворились, что ничего не знают."
+  lotor_alderaan_events.102.a: "Снять дипломатов с должности!"
+
+  lotor_alderaan_events.110.name: "Опустошение"
+  lotor_alderaan_events.110.desc: "Одно из крупных фермерских поселений на побережье Апалис было разрушено особо воинственным ульем килликов. Лидер Дома Органа одновременно разъярён и опустошён гибелью людей и уничтожением богатого урожая."
+  lotor_alderaan_events.110.a: "Пошлите за подмогой к другим домам."
+  lotor_alderaan_events.110.b: "Добиться ответных мер военного характера."
+
+  lotor_alderaan_events.111.name: "Ответы"
+  lotor_alderaan_events.111.desc: "В течение следующих нескольких дней поддержку оказали Дом Пантир и Дом Рист. Припасы, еда и медицинская помощь передаются выжившим, пока члены Домашней гвардии осматривают опустошённые сельскохозяйственные угодья. Похоже, что некоторые граждане были схвачены и их судьба неизвестна.\n\nВо время расследования они столкнулись с несколькими членами группы, известной как Орден истребления. Взяв на себя обязательство отражать атаки килликов всякий раз, когда они возникают, они предлагают свою поддержку Дому Органа, несмотря на то, что отвергают любую лояльность к любому из Великих Домов."
+  lotor_alderaan_events.111.a: "Вигиланты? Для нас нет никакой пользы от них..."
+
+  lotor_alderaan_events.112.name: "Ответы"
+  lotor_alderaan_events.112.desc: "Члены Домашней гвардии помогают в восстановлении и узнают, что по крайней мере несколько граждан были захвачены килликами. Однако их дальнейшая судьба неизвестна. Пока военачальники Дома Органа раздумывают, к ним подходит капитан группы под названием Орден истребления.\nВзяв на себя задачу сражаться с килликами всякий раз, когда их ульи появляются и атакуют поселения, они предлагают свою поддержку Дому Органа, несмотря на то, что отвергают лояльность какому-либо из Великих Домов."
+  lotor_alderaan_events.112.a: "Возможно, этот орден будет полезен."
+
+  lotor_alderaan_events.113.name: "Бдительность"
+  lotor_alderaan_events.113.desc: "Несмотря на предложение ордена, лидеры Дома Органа отказываются от его прямой поддержки. Они утверждают, что конфликты с килликами будут продолжаться, а организация крупномасштабной атаки поставит под угрозу жизни большего числа людей. Глава Дома Органа приказал небольшому отряду Домашней гвардии следить за местностью на случай возвращения килликов или появления пленников."
+  lotor_alderaan_events.113.a: "Продолжайте бдеть."
+
+  lotor_alderaan_events.114.name: "Ответный удар"
+  lotor_alderaan_events.114.desc: "Орден предлагает взять на себя полную ответственность за эту миссию, отказывая Дому Органа или любому другому Дому в снабжении их войск. Обеспокоенный офицер Домашней гвардии задал вопрос о пленниках. Капитан ордена поморщился и проигнорировал вопрос.\n\nЗначительные силы Ордена истребления собрались возле заброшенной деревни и нашли вход в улей внутри фермы. Фундамент рухнул, обнажив огромную сеть туннелей, ведущих в разные части улья. Капитан сигнализирует своим людям, чтобы они подготовили бластеры и огнеметы, пока они приближались к залу, откуда доносился наибольший гул."
+  lotor_alderaan_events.114.a: "Очень хорошо."
+
+  lotor_alderaan_events.115.name: "Незнакомец"
+  lotor_alderaan_events.115.desc: "Проходит некоторое время, а руины поселения остаются позади и блокируются. Однажды вечером из одного из фермерских домов вышел человек. Его обнаружил гвардеец и сопроводил в город, где его подвергли осмотру. Помимо необычных чёрных глаз, в остальном он кажется здоровым. Незнакомец утверждает, что он учёный и стремится начать свою карьеру заново, служа интересам Альдераана."
+  lotor_alderaan_events.115.a: "Возьмём его на борт. Дадим человеку второй шанс."
+
+  lotor_alderaan_events.116.name: "Празднование новоселья"
+  lotor_alderaan_events.116.desc: "Солдаты входят в залу и начинают открывать огонь из своих бластеров и огнемётов, через несколько секунд камера загорелась, когда рабочие трутни паникуют и сгорают в огне, в то время как трутни-воины бросаются в драку, вскоре погибая под зарядами плазмы. Некоторых солдат ордена сбивают с ног некоторые из более крупных жуков, которых не удалось убить сразу, товарищи поблизости помогают расправиться с ними. Бои продолжаются, пока Орден всё глубже проникает в улей, уничтожая по пути яйца и личинок.\nВо время боя были найдены пленники. Капитан и несколько его людей бросаются к ним и быстро осматривают. Их глаза покрылись чернотой, и они, кажется, ассимилировались с Родом."
+  lotor_alderaan_events.116.a: "Для них нет никакой надежды."
+
+  lotor_alderaan_events.117.name: "Последствия"
+  lotor_alderaan_events.117.desc: "Отдаётся приказ, и один из солдат направил огнемёты на пленников. На короткий момент их прошлая личность проявилась, когда они умоляли о пощаде, но через несколько секунд все замолкли. Орден продолжает пробиваться через улей, до тех пор пока все личинки и яйца не будут уничтожены.\n\nКогда восходит солнце, орден выходит победителем, коренные жители поселения встречают его приветствиями и аплодисментами. В взволнованная группа горожан задала вопрос о захваченных жителях поселения. Капитан раздражённо сжал зубы, и объяснил, что они избавили их от страданий."
+  lotor_alderaan_events.117.a: "Внизу ничего нет, кроме жуков и жуколюбов."
+
+  lotor_alderaan_events.120.name: "Странные условия"
+  lotor_alderaan_events.120.desc: "Появляется всё больше сообщений о людях с синяками под глазами, замеченных в поселениях, недавно вступивших в контакт с килликами. В отчётах также упоминается, что, хотя некоторые сохраняют свою индивидуальность и манеры, других, похоже, больше привлекают ульи."
+  lotor_alderaan_events.120.a: "Тревожное развитие событий."
+
+  lotor_alderaan_events.121.name: "Непредвиденные последствия"
+  lotor_alderaan_events.121.desc: "До столицы Альдераана дошли сообщения об уничтожении поселения и улья недалеко от побережья Апалиса. По словам некоторых мирных жителей, члены Ордена истребления убили некоторых из пленённых килликами во время боёв.\n\nОрден утверждает, что киллики поглотили их разум, присоединив к их коллективному разуму. Семьи погибших настаивают, что их нужно было пощадить и вернуть для лечения."
+  lotor_alderaan_events.121.a: "Встать на сторону ордена."
+  lotor_alderaan_events.121.b: "Встать на сторону родственников погибших."
+
+  lotor_alderaan_events.122.name: "Непредвиденные последствия"
+  lotor_alderaan_events.122.desc: "В столицу Альдераана поступили сообщения о разрушении поселения у побережья Апалис. По словам гвардейцев Органы, через несколько дней после нападения из-под обломков выбрался единственный выживший. Они утверждают, что он вёл себя странно и у него были синяки под глазами.\nЭто совпадает с прошлым отчётом учёных о мэре, который был взят в улей и вернулся с аналогичными отклонениями."
+  lotor_alderaan_events.122.a: "Мы должны внимательно следить за ситуацией."
+
+  lotor_alderaan_events.130.name: "Тревожные новости"
+  lotor_alderaan_events.130.desc: "Лидеры Великих Домов встревожены новостями о том, что всё больше людей обнаруживаются с этим недугом. Местные врачи и учёные стали называть этих людей «примкнувшими»."
+  lotor_alderaan_events.130.a: "Тревожное развитие событий."
+
+  lotor_alderaan_events.140.name: "Жучиные проблемы"
+  lotor_alderaan_events.140.desc: "Альдераанские примкнувшие изо всех сил пытаются приспособиться к жизни с людьми и служить коллективному разуму. Они говорят, что их отношения с коллективным разумом килликов являются симбиотическими, что позволяет установить более тесную связь, чем, возможно, между самими насекомыми.\n\nЭто мнение обеспокоило многих людей, что побудило учёных изучить примкнувших и то, что вызывает процесс включения, однако нужны добровольцы, и немногие захотят участвовать добровольно."
+  lotor_alderaan_events.140.a: "Предложите компенсацию за тесты."
+  lotor_alderaan_events.140.b: "Заставить подданных другими способами."
+
+  lotor_alderaan_events.150.name: "Новые подданные"
+  lotor_alderaan_events.150.desc: "Получив предметы, учёные начинают задавать вопросы и тестировать, чтобы понять точную связь между примкнувшими и ульем. Опрос помогает определить, в каких ульях наблюдается больше активности примкнувших и их связь с ульями. Тестирование относительно стандартное, определяется, есть ли какая-либо достаточно заметная биологическая связь.\nУчёные и врачи могут продолжить этот подход, или они могут подойти к исследованию более инвазивным и гораздо более опасным способом."
+  lotor_alderaan_events.150.a: "Действуйте как обычно, не нужно причинять вред участникам исследования."
+  lotor_alderaan_events.150.b: "Глубокое обследование совершенно необходимо."
+
+  lotor_alderaan_events.151.name: "Первоначальные выводы"
+  lotor_alderaan_events.151.desc: "Наблюдения и допросы продолжаются, как и ожидалось, по мере того, как от врачей и учёных со всего Альдераана поступает всё больше информации. Основываясь на неинвазивном сканировании, похоже, что примкнувшие подверглись воздействию феромонов, которые начали трансформацию их мозолистого тела. Трансформация позволяет им получать сигнальные импульсы от самих килликов."
+  lotor_alderaan_events.151.a: "Увлекательно!"
+
+  lotor_alderaan_events.152.name: "Первоначальные результаты"
+  lotor_alderaan_events.152.desc: "Несмотря на мольбы испытуемых, учёные и врачи начинают инвазивные обследования пациентов. Тщательный медицинский осмотр показал, что их физиология осталась неизменной. Однако при различном тепловом и магнитном воздействии активность их мозга стремительно меняется."
+  lotor_alderaan_events.152.a: "Проводите более интенсивные исследования мозга."
+  lotor_alderaan_events.152.b: "Раздвиньте границы исследования мозга."
+
+  lotor_alderaan_events.153.name: "Примыкание"
+  lotor_alderaan_events.153.desc: "Дополнительный опрос показал, что если улей поглотит достаточно большую популяцию, он перенимаёт некоторые из манер и черт примкнувших. За этими тревожными новостями следует информация о том, что процесс Примыкания можно обратить вспять медицинским способом. Однако это опасная процедура, в которой большинство отказалось бы участвовать."
+  lotor_alderaan_events.153.a: "Возможно, некоторых можно спасти, если остановить процесс вовремя..."
+
+  lotor_alderaan_events.154.name: "Дальнейшие исследования"
+  lotor_alderaan_events.154.desc: "Исследования продолжаются по мере того, как учёные обрабатывают постоянный прибывающий поток новых данных. Образец растительного материала вокруг одного из ульев вызвал некоторую мозговую активность, что указывает на то, что феромоны также вызывают реакцию у примкнувших. В то же время, при воздействии трав шанмасу, предоставленных бойцами ордена, они пытались избегать источника запаха.\n\nДополнительные сканирования показывают, что процесс Примыкания трансформировал их мозг, особенно мозолистое тело. Это объясняет уникальные реакции на разнообразные раздражители."
+  lotor_alderaan_events.154.a: "Весьма необычно..."
+
+  lotor_alderaan_events.155.name: "Дальнейшие исследования"
+  lotor_alderaan_events.155.desc: "Постоянное воздействие различных раздражителей создает огромную физическую нагрузку на тело и разум примкнувшего. Вскоре некоторые из испытуемых пали замертво. Их вскрытия показали трансформированное мозолистое тело, вне всяких сомнений, побочный эффект процесса Примыкания."
+  lotor_alderaan_events.155.a: "Разум — вещь, которую страшно потерять."
+
+  lotor_alderaan_events.156.name: "Понимание примкнувших"
+  lotor_alderaan_events.156.desc: "Когда их спросили, почему они позволили себе стать примкнувшими, они отвечали, что это никогда не было преднамеренным решениеим. Контакт с феромонами и другими раздражителями ни в коем случае не был запланирован, но их присоединение к улью принесло им большую пользу. Некоторые упомянули, что в конечном итоге они станут единым целым со своими ульями.\nПо завершении допроса и тестирования альдераанцам становится ясно, что примкнувшие являются лишь частью сложной сети взаимодействия между ними и килликами. Примкнувших направили обратно в свои дома прямо с испытательных площадок."
+  lotor_alderaan_events.156.a: "Великие Дома должны быть проинформированы о наших находках."
+
+  lotor_alderaan_events.157.name: "Уволенный"
+  lotor_alderaan_events.157.desc: "Добровольцев, выживших после исследования мозга, впоследствии спросили о том, как они стали частью улья. Примкнувшие говорят, что их связь со своими ульями не была преднамеренной, лишь побочным эффектом воздействия большого количества феромонов.\nЧто касается процесса Примыкания, насчёт вопросов о том, можно ли кого-то отрезать от ульев, примкнувшие отвечают нерешительно. По их словам, это возможно, но со значительным риском для пациента. Не говоря уже о нежелании тех, кто попал под влияние ульев."
+  lotor_alderaan_events.157.a: "Эти выводы будут наиболее полезными."
+
+  lotor_alderaan_events.158.name: "Финальные результаты"
+  lotor_alderaan_events.158.desc: "После того, как примкнувшие получили компенсацию и были отправлены обратно в свои дома, учёные встретились с лидерами Великих Домов. Многие были довольны известием, что примкнувгих можно отрезать от ульев. Однако, учитывая, что среди населения Альдераана их число довольно мало, нет необходимости немедленно искать способ обратить этот процесс вспять.\n\nВ то же время военачальники находят захватывающим тот факт, что феромоны и иные раздражители могут вызывать неблагоприятную реакцию у килликов. Остаются нерешёнными вопросы о килликах, особенно о заброшенных ульях в Замковых землях."
+  lotor_alderaan_events.158.a: "Галактика огромна и полна загадок."
+
+  lotor_alderaan_events.159.name: "Финальные результаты"
+  lotor_alderaan_events.159.desc: "Примкнувшие отправляются обратно в свои дома прямо, а результаты отправляются лидерам Великих Домов. Выводы многих учёных были хорошо приняты, а наблюдения за реакцией на раздражители, вроде феромонов, некоторых растений и различного рода излучений вызывают интерес у военачальников, особенно из Дома Ульго и Дома Тал.\n\nОстаются нерешёнными вопросы о килликах, особенно о заброшенных ульях в Замковых землях. Чем дольше альдераанцы взаимодействуют с килликами, тем больше информации собирается."
+  lotor_alderaan_events.159.a: "Безусловно, наши исследования сегодня не будут иметь последствий."
+
+  lotor_alderaan_events.160.name: "Непреходящая тайна"
+  lotor_alderaan_events.160.desc: "Группа учёных и историков изучила все результаты недавних взаимодействий с килликами и примкнувшими. Стало ясно, что некогда число килликов на Альдераане увеличилось, но произошло нечто, что привело к быстрому сокращению численности инсектоидов.\n\nТщательное изучение находок могло бы выявить некоторую информацию, которая была упущена. В качестве альтернативы можно отправить небольшую группу археологов и историков в Замковые земли, чтобы исследовать один из многочисленных ульев."
+  lotor_alderaan_events.160.a: "Продолжайте просматривать хроники."
+  lotor_alderaan_events.160.b: "Отправьте небольшую команду в Замковые земли для получения дополнительной информации."
+
+  lotor_alderaan_events.161.name: "Продолжение исследований"
+  lotor_alderaan_events.161.desc: "Отчёты о примкнувших изначально раскрывали очень мало новой информации. Тем не менее, некоторые из них порой делали мимолетные упоминания о «потерянных ульях» и событии под названием «Великое переселение» в прошлом килликов."
+  lotor_alderaan_events.161.a: "Любопытно..."
+
+  lotor_alderaan_events.162.name: "Продолжение исследований"
+  lotor_alderaan_events.162.desc: "Исследователи прибыли в Замковые земли и начали обследовать один из центральных шпилей. Жуткая тишина внутри земляного сооружения действуют на удивление умиротворяюще. Спускаясь в камеру для яиц, археологи рассматривают многочисленные мозаики, вылепленные из камней и гальки.\n\nКоманда застигнута врасплох примкнувшей, которую сопровождали два трутня. Она представилась Вестницей Рассвета — эмиссаром одного из ульев. Эмиссар объяснила, что сюда она прибыла, чтобы узнать о «Великом переселении»."
+  lotor_alderaan_events.162.a: "В любом случае, расскажите нам больше."
+
+  lotor_alderaan_events.163.name: "Но куда?"
+  lotor_alderaan_events.163.desc: "Примкнувшая туманно намекает, что один из крупнейших ульев килликов покинул Альдераан. Поскольку они не смогли найти мир, который мог бы обеспечить их, самый большой из ульев распался, частями независимо исследуя новые миры.\n\nОткровение, несомненно, увлекательное, но вызывающее тревогу. Получается, может быть найден другой мир, на котором они поселились."
+  lotor_alderaan_events.163.a: "Кто знает, где они могут быть?"
+
+  lotor_alderaan_events.164.name: "Но где?"
+  lotor_alderaan_events.164.desc: "Согласно словам Вестницы Рассвета, \"Великое переселение\" килликов произошло в далёком прошлом, ещё до образования Республики. Они покинули Альдераан в поисках нового дома, но когда они не смогли найти мир, который мог бы вместить их численность, самый большой улей разделился на части, которые пошли своим путём.\n\nЭто означает, что киллики также присутствуют на других планетах, что является удивительным, но тревожным открытием. Примкнувшая продолжала некоторое беседовать с археологами, прежде чем они разошлись и вернулись со своими находками."
+  lotor_alderaan_events.164.a: "Давайте сообщим о результатах и посмотрим, что мы можем сделать дальше."
+
+  lotor_alderaan_events.170.name: "Обеспокоенность"
+  lotor_alderaan_events.170.desc: "Возможность того, что киллики распространились по другим мирам, вызывает тревогу у большинства Домов. В ответ на эту новость несколько учёных начали исследовать соседние системы Миров Ядра. Их исследование показывает, что на одном из них, Альсакане, присутствовали киллики.\n\nЛидеры Дома Альде предлагают отправиться в Альсакан и встретиться с известным историком. Их идеи могут помочь определить местонахождение нового дома килликов."
+  lotor_alderaan_events.170.a: "Альсакан? Какое интересное место."
+
+  lotor_alderaan_events.180.name: "Развилка"
+  lotor_alderaan_events.180.desc: "Встреча с альсаканским историком была познавательной. Киллики оставили на Альсакане курганы, похожие на те, что были найдены в Замковых землях. Они также датируются дореспубликанским периодом. Когда его спросили о потенциальном местонахождении новой планеты килликов, историк привёл звёздную карту. Хотя карта и устарела, он предположил, что колония килликов может находиться где-то в просторах §BНеизведанных Регионов§!.\n\nКогда команда вернулась на Альдераан, они столкнулись с выбором. Либо следовать потенциально опасному пути исследования с поиском нового родного мира килликов, либо нет."
+  lotor_alderaan_events.180.a: "Возможно, мы могли бы установить контакт..."
+  lotor_alderaan_events.180.b: "Разумно ли это вообще?"
+
+  lotor_alderaan_events.181.name: "Безопасная игра"
+  lotor_alderaan_events.181.desc: "После долгих раздумий принимается решение не предпринимать дальнейшие поиски. Принимая сторону более разумных членов альдераанского научного сообщества, потенциальные опасности попыток связаться с коллективным разумом на их новой родной планете перевешивают любые преимущества.\n\nКак бы то ни было, продолжительное изучение килликов и примкнувших было довольно познавательным. Общая активность ульев, похоже, уменьшилась, а конфликты с килликами стали менее частыми."
+  lotor_alderaan_events.181.a: "Возможно, они смогут оставаться в состоянии покоя ещё немного."
+
+  lotor_alderaan_events.190.name: "Контакт установлен"
+  lotor_alderaan_events.190.hostile: "После бесчисленных дней и ночей в попытках установить контакт, одному примкнувшему наконец удалось связаться с коллективным разумом и узнать о его местонахождении.\n\nМедицинский дроид следил за жизненно важными органами примкнувшего и зафиксировал учащённое сердцебиение и странную неврологическую активность. Он начал дёргаться, стиснув зубы, схватившись за консоль внутри лаборатории. Помощник оказал ему помощь, позволив усесться на место, пока коллективный разум овладевал сознанием примкнувшего."
+  lotor_alderaan_events.190.helpful: "После бесчисленных дней и ночей в попытках установить контакт, одному примкнувшему наконец удалось связаться с коллективным разумом и узнать о его местонахождении.\n\nМедицинский дроид отметил учащённое сердцебиение и повышенную неврологическую активность. Примкнувший встал и восстановил самообладание, когда коллективный разум взял верх."
+  lotor_alderaan_events.190.a: "У меня плохое предчувствие насчёт этого."
+
+  lotor_alderaan_events.191.name: "Разум улья"
+  lotor_alderaan_events.191.desc: "Примкнувший падает, держась за голову. Какую бы связь он ни установил с коллективным разумом, она далека от приятной.\n\n«Строители разделили нас. Ороборо вновь станет целым на Йоггое. Род вновь будет целым».\n\nПримкнувший изо всех сил пытается встать, хватаясь за консоль, чтобы не упасть. Будучи связанными с коллективным разумом, он записывает координаты в датапад.\n\n«Ульи разобщены. Потерянные ульи в бешенстве. Гнёзда сожжены, связи потеряны, а Ороборо будет…», - примкнувший внезапно потерял сознание."
+  lotor_alderaan_events.191.a: "Это не хорошо!"
+
+  lotor_alderaan_events.192.name: "Разум улья"
+  lotor_alderaan_events.192.desc: "Примкнувший смотрит на учёных с относительно пустым выражением лица.\n\n«Ороборо воссоединился со своей большей половиной. Род вполне удовлетворён. Мы были простыми инструментами Строителей, создавших Коларалок и Пять Скал. Они вытащили нас из Ороборо и поместили сюда. Ваша готовность допустить существование Рода сильно отражается на вашем виде. Возможно, однажды мы снова сможем стать единым целым. Ороборо воссоединится на Йоггое».\n\nПосле этих слов примкнувший почти упал, держась за голову, пытаясь подняться.\n\n«Первоначальный улей был обнаружен, но путешествие в их мир, Йоггой, слишком опасно. А пока вы должны считать себя счастливчиками, что они ответили так положительно»."
+  lotor_alderaan_events.192.a: "Это был положительный ответ?"
+
+  lotor_alderaan_events.193.name: "Разум улья"
+  lotor_alderaan_events.193.desc: "В медотсеке за примкнувшим ухаживало несколько врачей. Учёные стояли в стороне, ожидая, пока он придёт в сознание, но доброволец всё-таки погиб. Не имея никаких зацепок, кроме имени Йоггой, приблизительного определения его местонахождения и намека на «Строителей», учёные официально закрывают своё исследование.\n\nКак бы то ни было, продолжительное изучение килликов и примкнувших было довольно проницательным. Общая активность ульев, похоже, уменьшилась, а конфликты с килликами стали менее частыми."
+  lotor_alderaan_events.193.a: "Возможно, ульи снова заснут..."
+
+  lotor_alderaan_events.194.name: "Разум улья"
+  lotor_alderaan_events.194.desc: "Обнаружение местоположения нового дома килликов было поистине грандиозным открытием. Хотя он находится далеко в неизвестных регионах галактики, мы по крайней мере знаем, где находится самый большой улей.\n\nКак бы то ни было, продолжительное изучение килликов и примкнувших было довольно проницательным. Общая активность ульев, похоже, уменьшилась, а конфликты с килликами стали менее частыми."
+  lotor_alderaan_events.194.a: "Кто знает, к чему приведёт это новое открытие."
+
+#Taris - Pre Crusade #NT!
+  lotor_taris_events.10.name: "Строительный проект"
+  lotor_taris_events.10.desc: "К нам обратились члены ордена мистиков, которые называют себя Орденом джедаев. Они утверждают, что являются миротворцами и посредниками во время кризиса, поощряя мир и единство «с Силой».\n\nВ обмен на создание академии на нашей планете они обещают поддерживать стабильность и предлагать свою помощь везде, где это необходимо."
+  lotor_taris_events.10.a: "Безусловно, Верхний город приветствует вас!"
+  lotor_taris_events.10.b: "Возможно, в другой раз, мастера. §HОткрывает особое решение о строительстве Анклава джедаев на Тарисе§!."
+  lotor_taris_events.20.name: "Анклав"
+  lotor_taris_events.20.desc: "Анклав джедаев — новейшее дополнение к горизонту Тариса. Несмотря на то, что он изолирован от остальной части обширного экуминополиса, Анклав джедаев является местом, где члены ордена будут тренироваться и жить. Их присутствие здесь приветствуется, предлагая проблеск надежды в довольно смутные времена."
+  lotor_taris_events.20.a: "Да пребудет с ними Сила."
+  lotor_taris_events.30.name: "Галактические амбиции"
+  lotor_taris_events.30.desc: "Быть названным \"Корусантом Внешнего Кольца\" - большая честь. Хотя наши обширные городские пейзажи далеко не так обширны, как на Корусанте, на Тарисе по-прежнему есть изумительные горизонты. И к нашему богатству тоже не следует относиться легкомысленно. Однако мы не можем быть просто планетой для самих себя.\n\nМы должны связаться с мирами-членами Галактической Республики и узнать, может ли кто-нибудь из них подать прошение о нашем включении в это сообщество. Мы должны послать несколько дипломатов на главные миры-члены Республики."
+  lotor_taris_events.30.a: "Посмотрим, что из этого выйдет."
+  lotor_taris_events.35.name: "Петиции к Республике"
+  lotor_taris_events.35.desc: "Тарис, планета из Внешнего Кольца, уже некоторое время подаёт прошение о предоставлении места в Республике. Их планета демонстрирует потенциал в качестве возможного мира-члена, но их положение во Внешнем Кольце может оказаться сложной задачей для предоставления защиты и оказания помощи в случае какого-либо кризиса.\n\nПока же мы воздержимся от прямого ответа на их петиции."
+  lotor_taris_events.35.a: "Лучше не обманывать их надежды."
+  lotor_taris_events.40.name: "Ухаживания Корусанта"
+  lotor_taris_events.40.desc: "Наши петиции были встречены молчанием со стороны руководства Кореллии, Дуро и Альдераана. Отсутствие интереса с их стороны совсем неудивительно.\nОднако у представителей Корусанта есть некоторый интерес к нашей планете — с финансовой точки зрения."
+  lotor_taris_events.40.a: "Занятно..."
+  lotor_taris_events.50.name: "Немного взяточничества"
+  lotor_taris_events.50.desc: "После долгих переговоров с представителями Корусанта они предложили членство в обмен на разрешение предприятиям Корусанта обосноваться на планете. Однако они не вполне уверены в том, что Тарис — хороший выбор для их предприятий."
+  lotor_taris_events.50.a: "Кредиты могут творить чудеса.."
+  lotor_taris_events.50.b: "Кредиты и некоторые дорогие подарки могли бы убедить этих дипломатов..."
+  lotor_taris_events.50.c: "Может, этим дипломатам нужно что-то более экзотическое..."
+  lotor_taris_events.60.name: "Благодарные дипломаты"
+  lotor_taris_events.60.desc: "Дипломаты получили свои «подарки» без каких-либо осложнений. Они благодарны за возможность встретиться с нами. Один из дипломатов уверяет нас, что мы без проблем вступим в состав Республики."
+  lotor_taris_events.60.a: "Будем надеяться, что это не ухудшит наше дело."
+  lotor_taris_events.70.name: "Хорошие новости!"
+  lotor_taris_events.70.desc: "Проходит какое-то время, и наш лидер сообщает, что Сенат одобрил наше включение в Галактическую Республику. В ближайшие месяцы мы ожидаем увеличение торговли и прибытие отделения кораблей, которые обеспечат защиту наших гиперкоридоров."
+  lotor_taris_events.70.a: "Великолепные новости!"
+  lotor_taris_events.75.name: "Новое лицо"
+  lotor_taris_events.75.desc: "Группа сенаторов решила разработать резолюцию, которая включала бы предоставление статуса членства на Тарисе и связанных с ним преимуществ. После долгих раздумий сенат одобрил резолюцию.\n\nНа вопрос о том, что привело к изменению их мнения, группа сенаторов решила воздержаться от ответа."
+  lotor_taris_events.75.a: "Очень хорошо."
+  lotor_taris_events.80.name: "Выпускники"
+  lotor_taris_events.80.desc: "У нас прекрасные новости из Анклава Джедаев! Падаваны последнего класса подходят к концу своих испытаний и проведут свое последнее испытание на нашей луне. Им поручено перемещаться по слепой поверхности и воссоединиться со своими хозяевами. Наверняка их хозяева знают, что поверхность постоянно подвергается бомбардировкам."
+  lotor_taris_events.80.a: "Эти джедаи сумасшедшие!"
+  lotor_taris_events.80.b: "Да пребудет с ними Сила."
+  lotor_taris_events.80.c: "Неужели они не могли выбрать что-нибудь менее опасное?"
+  lotor_taris_events.90.name: "Испытание"
+  lotor_taris_events.90.desc: "Удивительно, но падаваны без проблем воссоединились со своими хозяевами и вернулись в Анклав Джедаев. Однако их хозяева, похоже, были немного встревожены. До сих пор неизвестно, что их беспокоило на луне."
+  lotor_taris_events.90.a: "Они выжили, это хорошо, верно?"
+  lotor_taris_events.100.name: "Размышления"
+  lotor_taris_events.100.desc: "В последнее время Джедаи были довольно скрытными. Наш связной подслушал, как падаваны с тревогой обсуждают между собой предстоящую церемонию посвящения в рыцари. Однако связной упомянул что-то о том, что один из мастеров обсуждал тревожное видение."
+  lotor_taris_events.100.a: "У Джедаев постоянно бывают видения. Не о чем беспокоиться."
+  lotor_taris_events.100.b: "У нас плохое предчувствие по этому поводу."
+  lotor_taris_events.110.name: "Резня"
+  lotor_taris_events.110.desc: "Произошло немыслимое! Падаваны убиты! Один падаван избежал бойни, и Джедаи и местные власти преследовали его через Верхний и Средний города. Предполагается, что он несёт ответственность за это бессмысленное насилие."
+  lotor_taris_events.110.a: "Абсолютное варварство!"
+  lotor_taris_events.110.b: "Джедаям нужна наша поддержка, чтобы поймать этого беглеца!"
+  lotor_taris_events.120.name: "Приглушенный свет"
+  lotor_taris_events.120.desc: "Общественный порядок стремительно ухудшается. Предприятия покидают Тарис из-за того, что планета воспринимается как небезопасная. Этот шаг привел к беспорядкам в Среднем и Нижнем городах. Кроме того, Совет Джедаев на Корусанте переназначил мастеров Тариса на отдельные должности.\n\nКроме того, мы узнали, что выживший падаван восстановил голографическую память одного из дроидов хозяина и узнал о темном видении. Все, что о нем известно, это то, что Джедаи видели собственную смерть."
+  lotor_taris_events.120.a: "В конце концов мы поймаем этого беглеца."
+  lotor_taris_events.120.b: "Очень жаль."
+  lotor_taris_events.120.c: "От Джедаев больше проблем, чем пользы. Нам лучше без них!"
+
+# Duro Events: Neimoidia #NT!
+  lotor_duro_events.1.name: "Потенциальная колония"
+  lotor_duro_events.1.desc: "Один из наших предприимчивых администраторов, Чла К'кХаан, обнаружил планету в соседней системе Неймодия, которая могла бы подойти для новой колонии Дуро."
+  lotor_duro_events.1.a: "Увлекательно!"
+  lotor_duro_events.2.name: "Разведка системы"
+  lotor_duro_events.2.desc: "Система Неймодия оказывается многообещающим кандидатом для новой колонии. И Истинная Неймодия, и Кейто-Неймодия — идеальные миры для наших колонистов, несмотря на высокую гравитацию.\n\nПри дополнительном финансировании исследовательские группы могут ускорить процесс, необходимый для расчистки планеты для заселения."
+  lotor_duro_events.2.a: "Это необязательно."
+  lotor_duro_events.2.b: "Не жалейте средств, это для будущего нашего народа."
+
+
+  lotor_duro_events.10.name: "Новый рубеж"
+  lotor_duro_events.10.desc: "Неймодия — прекрасное дополнение к нашей растущей империи. Чла К'кХаан будет наблюдать за развитием новой колонии и вести хронику её истории."
+  lotor_duro_events.10.a: "Превосходно!"
+  lotor_duro_events.20.name: "Наши кузены"
+  lotor_duro_events.20.desc: "После нескольких лет привыкания к высокой гравитации Неймодии и соседних планет колонисты с Дуро, наконец, приспосабливаются к этим изменениям. Есть некоторые заметные изменения в их физиологии.\n\nИх манеры тоже несколько своеобразны. В то время как мы больше озабочены расширением и путешествиями, они довольствуются тем, что копят богатство и ещё немного трусливы. Недавние письма К'кХаана показывают, что он обеспокоен этим медленным упадком культуры Дуро."
+  lotor_duro_events.20.a: "Это немного странно..."
+  lotor_duro_events.30.name: "Выскочки"
+  lotor_duro_events.30.desc: "Наши неймодианские кузены вполне неплохо себя чувствуют в своих мирах. Однако они стремятся обрести независимость и отделиться от Общности Дуро.\n\nЭто разумная просьба, но в дальнейшем могут быть последствия, если мы решим отклонить их прошение. Это, без сомнения, историческое распутье для двух наших видов."
+  lotor_duro_events.30.a: "Хорошо, давайте предоставим им эту возможность."
+  lotor_duro_events.30.b: "Было бы обидно потерять эти колонии. Предложение отклонено."
+  lotor_duro_events.41.name: "Кому они вообще нужны"
+  lotor_duro_events.41.desc: "Королева Рана Мас Трехалт — фигура, которой всё Сообщество обязано своими достижениями.\nЕё наследие живёт с нами."
+  lotor_duro_events.41.a: "Хроники К'кХаана запомнят этот день!"
+  lotor_duro_events.42.name: "Наши денежные миры"
+  lotor_duro_events.42.desc: "Неймодианцы возмущены нашим категорическим отказом от их предложения. Надеемся, этот гнев пройдёт. Пока что наши трусливые, жадные сородичи останутся частью Общности."
+  lotor_duro_events.42.a: "Ну и хорошо."
+# Hutt - Evocii #NT!
+
+  lotor_hutt_events.10.name: "Новый дом"
+  lotor_hutt_events.10.desc: "Этот пышный мир джунглей кажется многообещающим новым началом для нашего народа. Выход в этот мир — только первый шаг к расширению нашей империи."
+  lotor_hutt_events.10.a: "Эвокар – поистине великолепное сокровище."
+
+  lotor_hutt_events.20.name: "Туземцы"
+  lotor_hutt_events.20.desc: "Наше присутствие привлекло внимание местных жителей. Эти непритязательные существа называют себя эвокаями. Эти существа невероятно очарованы нашими передовыми технологиями. Возможно, это можно было бы использовать в наших интересах."
+  lotor_hutt_events.20.a: "Эти существа уже знают, кто выше их."
+
+  MEET_ELDERS_PROJECT: "Встреча со старейшинами"
+
+  lotor_hutt_events.30.name: "Хорошая сделка"
+  lotor_hutt_events.30.desc: "Эвокийцы, очарованные нашим технологическим превосходством, интересуются у наших лидеров о возможности предоставить нам больше земли в обмен на некоторые технологии.\n\nНеизвестно, способны ли они понять наши инженерные и научные достижения, но возможность получить больше земли без прямого конфликта привлекательна. Независимо от того, что мы им дадим, мы всё равно окажемся в выигрыше."
+  lotor_hutt_events.30.a: "Дадим аборигенам какие-нибудь бессмысленные безделушки."
+  lotor_hutt_events.30.b: "Стоит предоставить эвокийцам немного технологии практической направленности."
+
+  lotor_hutt_events.40.name: "Контракт"
+  lotor_hutt_events.40.desc: "Стало очевидным, что нам нужно больше земли для удовлетворения наших потребностей. Мы составили контракт, позволяющий нам купить планету у этого низшего вида. Они по-прежнему смотрят на нас с благоговением, поэтому у нас не должно возникнуть проблем с получением желаемого."
+  lotor_hutt_events.40.a: "Превосходно"
+
+  REAL_ESTATE_PROJECT: "Бесплатная недвижимость"
+
+  lotor_hutt_events.50.name: "Положения и условия"
+  lotor_hutt_events.50.desc: "Почти без вопросов эвокийцы согласились с условиями контракта. С подписями всех их старейшин и лидеров они юридически лишились права собственности на планету, и мы имеем над ней полный контроль."
+  lotor_hutt_events.50.a: "Низший вид знает своё место."
+
+  lotor_hutt_events.60.name: "Самодовольство" #WIP
+  lotor_hutt_events.60.desc: "При помощи политики и взяточничества аборигены были умиротворены. Мы избежали затяжных боев и разрушения нашей инфраструктуры, и за это другие хатты благодарны нам. В то время как под нашим контролем почти вся планету, эвокийцы, похоже, довольствуются тем немногим, что принадлежит им фактически." #WIP
+  lotor_hutt_events.60.a: "Отличные новости!" #WIP
+
+  lotor_hutt_events.70.name: "Новый труд"
+  lotor_hutt_events.70.desc: "Мы усмирили большую часть повстанцев и уничтожили сельскохозяйственные постройки эвокийцев. Хотя несколько групп недовольных всё ещё действуют, теперь они представляют собой не более чем досадное неудобство, с издержками от которой можно легко справиться.\n\nПосле того, как эвокийцы сломлены, для них будет подходящим наказанием продолжать жить здесь, но уже в качестве наших рабов. Также есть луна, вращающаяся вокруг [This.GetName], которую мы тоже можем колонизировать, возможно, удастся насильно переселить туда этих отвратительных существ."
+  lotor_hutt_events.70.a: "Это их судьба, сейчас и навсегда."
+
+#Hutt - Varl Destruction #NT!
+  lotor_hutt_events.80.name: "Мир и покой"
+  lotor_hutt_events.80.desc: "Нас благословили боги Ардос и Эвона. Колония на Нал-Хатте растёт и процветает. Здесь у нашего народа будет светлое будущее."
+  lotor_hutt_events.80.a: "Боги довольны."
+
+  lotor_hutt_events.90.name: "Разъярённые боги"
+  lotor_hutt_events.90.desc: "Боги на небесах кажутся беспокойными. Правящий совет обеспокоен тем, что в ближайшем будущем произойдет что-то катастрофическое, и призывает наш народ расширяться не только за счёт колонии Нал-Хатта, но и за счёт других обитаемых миров нашей империи. "
+  lotor_hutt_events.90.a: "Но что прогневало наших богов?"
+
+  lotor_hutt_events.100.name: "Разгневанные боги"
+  lotor_hutt_events.100.desc: "Происходит немыслимое. Что-то случилось с Эвоной. Огромная бурлящая масса поглотила одного из наших богов!"
+  lotor_hutt_events.100.a: "Гнев Ардоса будет свирепым и неумолимым."
+
+  lotor_hutt_events.110.name: "Ярость богов"
+  lotor_hutt_events.110.desc: "Разгневанный смертью своей жены, Ардос обрушивает свою ярость на систему, уничтожая атмосферу каждой планеты. Варл стал непригодным для жизни.\n\nС потерей наших богов и нашим выживанием в других мирах становится ясно, что мы должны быть хотя бы почти богами, чтобы пережить гнев Ардоса."
+  lotor_hutt_events.110.a: "Это принесёт нам удачу, даже если мы потеряем нашу родную планету."
+
+# Hutt - Kajidic #NT!
+  lotor_hutt_events.120.name: "Миротворец"
+  lotor_hutt_events.120.desc: "Межклановый конфликт среди нашего народа наверняка разозлил богов. Битвы с армиями рабов на Варле, безусловно, оскорбляли их. Сейчас самое время внедрить систему, разработанную одним из наших лучших переговорщиков, Будхилой Хестиликом Амуром."
+  lotor_hutt_events.120.a: "Воистину один из наших самых прекрасных и самых тучных!"
+
+  lotor_hutt_events.130.name: "Мудрый взгляд"
+  lotor_hutt_events.130.desc: "Будхила продолжает демонстрировать своё великолепие. Ответственный за составление контракта, обеспечившего нам Нал-Хатту от непритязательных эвоций, он призывает нас по-новому подходить к конфликтам как внутри, так и снаружи.\n\nПо его словам, лучше всего подходить к этим конфликтам как к коммерческому предприятию, которое способствуют агрессивному, но невоенному внутреннему соперничеству и позволяет избежать прямого завоевания и войны. Вместо этого лучше влиять и контролировать организации и планеты изнутри."
+  lotor_hutt_events.130.a: "Средства и методы, благодаря которым мы будем процветать..."
+
+  lotor_hutt_events.140.name: "Новые пути"
+  lotor_hutt_events.140.desc: "После долгих размышлений идеи, предложенные Будхилой, выносятся на рассмотрение Правящего совета. Убеждённые, что такой подход отсеет самые слабые стороны их вида и будет способствовать большей сплочённости кланов, они соглашаются."
+  lotor_hutt_events.140.a: "В конце концов, кто-то же должен заняться чем-то подобным. Так почему не мы?"
+
+ #Rodia Events #NT!
+  lotor_rodia_events.10.name: "Клановая вражда"
+  lotor_rodia_events.10.desc: "Простое разногласие из-за торговли переросло из ссоры в насилие между кланами. Хотя боевые действия были подавлены, они привели к ненужным смертям."
+  lotor_rodia_events.10.a: "Так некультурно!"
+  lotor_rodia_events.10.b: "Наш народ просто жаждет битв."
+  lotor_rodia_events.20.name: "Большая проблема"
+  lotor_rodia_events.20.desc: "В стычках между родианскими кланами нет ничего необычного, кроме роста насилия и таких тривиальных вещей, которые, без сомнения, беспокоят многих лидеров кланов. Мы должны найти способ помочь нашим людям использовать свои насильственные побуждения таким образом, чтобы это не вело к разрушению"
+  lotor_rodia_events.20.a: "Очень хорошо."
+  lotor_rodia_events.30.name: "Оригинальное решение"
+  lotor_rodia_events.30.desc: "Великий защитник Харидо Кавила предложил нам взять нашу традицию гладиаторских боев и адаптировать её к сценам, в которых мы ставили сражения и дуэли перед публикой. Он отмечает то, что мы можем извлечь из наших многочисленных историй и легенд и воплотить их в жизнь, а также обуздать жажду битв."
+  lotor_rodia_events.30.a: "Превосходная идея!"
+  lotor_rodia_events.40.name: "Ночь открытия"
+  lotor_rodia_events.40.desc: "Первое выступление имело грандиозный успех! Зрители были в восторге от накала боя, а участникам понравилась возможность сражаться без риска смерти и серьезных увечий.\n\nВозможно, этот театральный бизнес имеет больший потенциал, чем мы думаем."
+  lotor_rodia_events.40.a: "Великолепные новости!"
+
+ #Isotope-5 events #NT!
+  lotor_isotope_events.11.name: "Строительство завершено"
+  lotor_isotope_events.11.desc: "Мы успешно построили новый объект для работы с этим летучим материалом. Будем надеяться, что ничего страшного не случится."
+  lotor_isotope_events.11.a: "Очень хорошо."
+  lotor_isotope_events.12.name: "Задержка строительства"
+  lotor_isotope_events.12.desc: "Наши рабочие столкнулись с рядом сложностей при строительстве объекта. Они утверждают, что не получили необходимые материалы, необходимые им для продолжения работы. Весьма возможно, что мы недооценили количество материалов, необходимых для проекта, но не менее вероятно, что они просто хотят набить свои карманы дополнительными ресурсами."
+  lotor_isotope_events.12.a: "Обеспечьте рабочих дополнительными средствами."
+  lotor_isotope_events.12.b: "Отклонить запрос."
+  lotor_isotope_events.13.name: "Завод уничтожен"
+  lotor_isotope_events.13.desc: "Неудачная авария привела к разрушению нашего завода по производству изотопа-5. К счастью, в результате взрыва и обрушения конструкции никто не погиб. Это серьёзный удар по нашим планам."
+  lotor_isotope_events.13.a: "Мы должны попробовать ещё раз."
+  lotor_isotope_events.14.name: "Завод уничтожен"
+  lotor_isotope_events.14.desc: "Неудачная авария привела к разрушению нашего завода по производству изотопа-5. Взрыв уничтожил весь достигнутый нами прогресс и даже унёс жизнь одного из наших учёных. Это серьёзная неудача и существенная потеря наших ресурсов."
+  lotor_isotope_events.14.a: "Чёрт! Сообщите семье и попробуем ещё раз."
+  lotor_isotope_events.22.name: "Улучшить сооружение"
+  lotor_isotope_events.22.desc: "Мы надеемся, что усовершенствования нашего оборудования позволят нам оптимизировать производство и обработку материала."
+  lotor_isotope_events.22.a: "Превосходно."
+  lotor_isotope_events.23.name: "Задержка модернизации"
+  lotor_isotope_events.23.desc: "И снова задержки в реализации проекта. Отсутствие финансирования и адекватных ресурсов оказывается повторяющейся темой в наших попытках манипулировать этим редким материалом."
+  lotor_isotope_events.23.a: "Обеспечьте команды надлежащим финансированием."
+  lotor_isotope_events.23.b: "Отклонить запрос."
+  lotor_isotope_events.24.name: "Успешное усовершенствование"
+  lotor_isotope_events.24.desc: "Настал славный день для нашего народа. Мы успешно расширили завод, что привело к более уникальным возможностям для изучения этого редкого материала."
+  lotor_isotope_events.24.a: "Это фантастическая новость!"
+  lotor_isotope_events.25.name: "Катастрофа"
+  lotor_isotope_events.25.desc: "Произошла трагедия, когда наш завод был разрушен после мощного взрыва в строящемся крыле. Мало того, что мы потеряли вложенные ресурсы, мы также потеряли учёного во время взрыва."
+  lotor_isotope_events.25.a: "Ужасные новости."
+  lotor_isotope_events.26.name: "Катастрофа"
+  lotor_isotope_events.26.desc: "Произошла трагедия, когда наш завод был разрушен после мощного взрыва в строящемся крыле. Мало того, что мы потеряли вложенные ресурсы, мы также потеряли учёного во время взрыва. Более того, мы потеряли прогресс в наших исследованиях изотипа-5, отбросив нас назад."
+  lotor_isotope_events.26.a: "Это безумие какое-то!"
+
+ # Generic event - HoloNet Comms (Heavily WIP) #NT!
+  lotor_generic_event.10.name: "Коммуникации Голонета"
+  lotor_generic_event.10.desc: "По мере того, как галактика открывается для нас, связь через Голонет воссоединяет народы всей галактики, стимулирует торговлю и усилия по восстановлению после катастрофической войны против ситхов.\n\nКроме того, эта массивная коммуникационная сеть позволяет новостям путешествовать по всей галактике."
+  lotor_generic_event.10.a: "Мы слушаем \"Новости Голонета\" уже много лет!"
+
+ #Generic event - Bountiful Harvest #NT!
+  lotor_generic_event.20.name: "Обильный урожай"
+  lotor_generic_event.20.desc: "Наши фермеры объявили о рекордном урожае в этом году. Местные рынки и столы будут заполнены до краёв питательной пищей, от аурилианских фруктов до массивных кочанов сребролиста."
+  lotor_generic_event.20.a: "Замечательные новости!"
+
+ # Generic Event - Rich Mineral Vein #NT!
+  lotor_generic_event.30.name: "Обнаружена богатая минеральная жила"
+  lotor_generic_event.30.desc: "Горнодобывающая команда обнаружила жилу полезных ископаемых, качество которых превосходит все ожидания."
+  lotor_generic_event.30.a: "Замечательно, приступайте к их обработке."
+  lotor_generic_event.30.b: "Продать их за кредиты."
+
+ # Generic Event - Pest infestation #NT!
+  lotor_generic_event.40.name: "Заражение"
+  lotor_generic_event.40.desc: "Из нескольких космопортов в пространстве [From.GetAdj] приходят сообщения о нашествии паразитов, наносящих ущерб товарам. Привлеченные недавним притоком новых продуктов, эти вредители испортили большинство этих поставок."
+  lotor_generic_event.40.a: "Этот груз теперь совершенно бесполезен..."
+  lotor_generic_event.40.b: "Выделить средства, чтобы не допустить распространения этого вредителя."
+  lotor_generic_event.40.c: "Сжечь всё и заплатить компенсацию"
+  lotor_generic_event.41.name: "Заражение"
+  lotor_generic_event.41.desc: "После нескольких дней зачистки всех космодромов можно с уверенностью сказать, что все эти вредители уничтожены.\n\nВсе грузы, проходящие через наши космопорты, тщательно проверяются на наличие каких-либо паразитов, и если таковые обнаруживаются, маленькие астромеханики незамедлительно устраняют проблему."
+  lotor_generic_event.41.a: "Ну и прекрасненько."
+  lotor_em_compensation: "Компенсация"
+  lotor_em_compensation_desc: "Компенсация за испорченные товары."
+
+
+# Planetary Modifiers #NT!
+  pm_ryloth_forests: "Красивые леса"
+  pm_killik_hive: "Замковые земли"
+  pm_killik_hive_desc: "Замковые земли являются домом для заброшенных земляных шпилей, построенных загадочной расой."
+  lotor_pm_happy_pops: "Счастливое население"
+  lotor_pm_happy_pops_desc: "Недавние решения наших чиновников были хорошо восприняты общественностью "
+  lotor_pm_unhappy_pops: "Несчастное население"
+  lotor_pm_unhappy_pops_desc: "Недавние решения наших чиновников вызвали возмущение общественности."
+  pm_taris_jeditower: "Башня джедаев"
+  pm_taris_jeditower_desc: "Также известная как Академия Тариса, Башня джедаев действует как учебная академия для мастеров-джедаев и их учеников в Верхнем городе."
+  lotor_pm_duro_pollution: "Тысячелетия загрязнения"
+  lotor_pm_duro_pollution_desc: "В конце концов, после тысячелетия загрязнения, единственным оставшимся существом на Дуро стал ввезённый извне жук фефзе. В то же время, состояние атмосферы лишь немного не дотягивает до того чтобы назвать её токсичной."
+
+# Special Projects #NT!
+  alderaanian_joiners_chain_title: "Встречайте соседей"
+  alderaanian_joiners_chain_desc: "Заброшенные ульи на Альдераане остаются для нас загадкой. Несмотря на то, что это красивые и запоминающиеся памятники, весьма вероятно, что они связаны со странными событиями, происходящими на планете. Возможно, эти шпили связаны со слухами о странных случаях и монстрах."
+  joiners_clues: "Подсказки"
+
+  ALSAKAN_HIVE_PROJECT: "Проект Альсаканского улья"
+  ALSAKAN_HIVE_PROJECT_DESC: "Основываясь на выводах некоторых из самых признанныъ историков Альдераана, считается, что киллики также колонизировали другой Центральный Мир - Альсакан. Наши историки и учёные заинтересованы в изучении руин их ульев, чтобы, возможно, выяснить, где сейчас осело большинство представителей их расы."
+
+  ALDERAAN_KILLIK_CONTACT_PROJECT: "Контакт с килликами"
+  ALDERAAN_KILLIK_CONTACT_PROJECT_DESC: "У нас есть уникальная возможность попытаться установить контакт с коллективным разумом килликов за пределами планеты. Мы привлекли примкнувшего, чтобы помочь в этом процессе."
+
+  GUGAL_BLOOM_CONTAINMENT_PROJECT: "Проект сдерживания"
+  GUGAL_BLOOM_CONTAINMENT_PROJECT_DESC: "Гугал цветущий может иметь ужасные последствия для окружающей среды Рилота. Мы должны сдержать этот грибок, пока он не вышел из-под контроля."
+
+  MEET_ELDERS_PROJECT: "Встреча со старейшинами"
+  MEET_ELDERS_PROJECT_DESC: "Наше присутствие в этом мире не осталось незамеченным. Эвокийцы хотят, чтобы мы встретились с их старейшинами и посмотрели, сможем ли мы найти «общие точки соприкосновения»."
+
+  REAL_ESTATE_PROJECT: "Бесплатная недвижимость"
+  REAL_ESTATE_PROJECT_DESC: "Путем переговоров и различных судебных разбирательств эвокийцы готовы отдать большую часть своего пространства нашей империи. Посмотрим, сколько мы сможем получить от них..."
+
+  EVOCII_PACIFICATION_PROJECT: "Усмирение эвокийцев"
+  EVOCII_PACIFICATION_PROJECT_DESC: "Вопреки здравому смыслу, эти непритязательные создания решили восстать против вышестоящих, чтобы вернуть свою планету. Ясно, что нужно делать.\n\nУничтожить их. Всех их."
+
+  HUTT_KAJIDIC_PROJECT: "Понимание каджидика"
+  HUTT_KAJIDIC_PROJECT_DESC: "Наша славная империя получит пользу от учений Будхила Хестилика Амура. Эти учения не только помогут в нашей повседневной деятельности, но также могут быть переданы и нашим вассалам."
+
+  GUGAL_BLOOM_CONTAINMENT_PROJECT: "Проект сдерживания"
+  GUGAL_BLOOM_CONTAINMENT_PROJECT_DESC: "Гугал цветущий может иметь ужасные последствия для окружающей среды Рилота. Мы должны сдержать этот грибок, пока он не вышел из-под контроля."
+
+  RODIAN_THEATER_PROJECT: "Подготовка сцены"
+  RODIAN_THEATER_PROJECT_DESC: "Чтобы обуздать межклановую борьбу и умерить агрессивные наклонности нашего народа, мы собираемся создать постановочную битву."
+
+
+
+# Other #NT!
+  decision_taris_jedi_tower: "Строительство Анклава джедаев"
+  decision_taris_jedi_tower_desc: "Настало время начать проект «Анклав джедаев»."
+  lotor_jedi_tower_building: "Анклав джедаев в процессе строительства"
+  leader_trait_lotor_duro_astrologian: "Астролог"
+  leader_trait_lotor_duro_astrologian_desc: "Дуросы известны своими навыками навигации и пилотирования."
+  republic_member_world_governor: "Republic Governor"
+  republic_member_world_admiral: "Republic Admiral"
+  republic_member_world_general: "Republic General"
+  republic_member_world_scientist: "Republic Scientist"

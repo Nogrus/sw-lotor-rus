@@ -1,1158 +1,1158 @@
 ﻿l_russian:
- CORELLIAN_peregrine: "Peregrine"
- CORELLIAN_spirit_of_coron: "Spirit of Coronet"
- CORELLIAN_independence: "Independence"
- CORELLIAN_sovereign: "Sovereign"
- CORELLIAN_bel_ibis: "Bel Ibis"
- CORELLIAN_kolene: "Kolene"
- CORELLIAN_tyrena: "Tyrena"
- CORELLIAN_valorum: "Valorum"
- CORELLIAN_cutlass: "Cutlass"
- CORELLIAN_vigilant: "Vigilant"
- CORELLIAN_sentry: "Sentry"
- CORELLIAN_custode: "Custode"
- CORELLIAN_monitor: "Monitor"
- CORELLIAN_defender: "Defender"
- CORELLIAN_lillibanca: "Lillibanca"
- CORELLIAN_bloodstripe: "Bloodstripe"
- CORELLIAN_determination: "Determination"
- CORELLIAN_gus_talon: "Gus Talon"
- CORELLIAN_gus_treta: "Gus Treta"
- CORELLIAN_fire_of_drall: "Fire of Drall"
- CORELLIAN_bond_of_talus: "Bond of Talus"
- CORELLIAN_tralus_resplend: "Tralus Resplendent"
- CORELLIAN_selonian_queen: "Selonian Queen"
- CORELLIAN_glory_corellia: "Glory of Corellia"
- CORELLIAN_crollia: "Crollia"
- CORELLIAN_soronia: "Soronia"
- CORELLIAN_rayless: "Rayless"
- CORELLIAN_lantern: "Lantern"
- CORELLIAN_razorcat: "Razorcat"
- CORELLIAN_trifecta: "Trifecta"
- CORELLIAN_corell: "Corell"
- CORELLIAN_brotherhood: "Brotherhood"
- CORELLIAN_kith: "Kith"
- CORELLIAN_kin: "Kin"
- CORELLIAN_elder_brother: "Elder Brother"
- CORELLIAN_middle_child: "Middle Child"
- CORELLIAN_grass_snake: "Grass Snake"
- CORELLIAN_sand_panther: "Sand Panther"
- CORELLIAN_kor_vella: "Kor Vella"
- CORELLIAN_doaba_guerfel: "Doaba Guerfel"
- CORELLIAN_bela_vistal: "Bela Vistal"
- CORELLIAN_founder: "Founder"
- CORELLIAN_rabaan: "Rabaan"
- CORELLIAN_socorro: "Socorro"
- CORELLIAN_trulalis: "Trulalis"
- CORELLIAN_trigalis: "Trigalis"
- CORELLIAN_meridian: "Meridian"
- CORELLIAN_contemplanys: "Contemplanys"
- CORELLIAN_hermi: "Hermi"
- CORELLIAN_nomad: "Nomad"
- CORELLIAN_king_berethron: "King Berethron"
- CORELLIAN_diktat: "Diktat"
- CORELLIAN_senator_fordox: "Senator Fordox"
- CORELLIAN_merricope: "Merricope"
- CORELLIAN_thomree: "Thomree"
- CORELLIAN_gallamby: "Gallamby"
- CORELLIAN_beruss: "Beruss"
- CORELLIAN_sanctuary: "Sanctuary"
- CORELLIAN_governor_marcha: "Governor Marcha"
- CORELLIAN_vreni: "Vreni"
- CORELLIAN_hunchuzuc: "Hunchuzuc"
- CORELLIAN_agrilat: "Agrilat"
- CORELLIAN_denendre: "Denendre"
- CORELLIAN_dregan: "Dregan"
- CORELLIAN_bindreg: "Bindreg"
- CORELLIAN_kenalpa: "Kenalpa"
- CORELLIAN_blackfish: "Blackfish"
- CORELLIAN_bageraset: "Bageraset"
- CORELLIAN_blethyline: "Blethyline"
- CORELLIAN_canoid: "Canoid"
- CORELLIAN_carrion_spat: "Carrion Spat"
- CORELLIAN_banshee: "Banshee"
- CORELLIAN_sea_ray: "Sea Ray"
- CORELLIAN_slice_hound: "Slice Hound"
- CORELLIAN_dire_cat: "Dire-cat"
- CORELLIAN_durni: "Durni"
- CORELLIAN_gronda: "Gronda"
- CORELLIAN_gubbur: "Gubbur"
- CORELLIAN_gulginaw: "Gulginaw"
- CORELLIAN_gurrcat: "Gurrcat"
- CORELLIAN_krevol: "Krevol"
- CORELLIAN_jaggalor: "Jaggalor"
- CORELLIAN_krahbu: "Krahbu"
- CORELLIAN_murra: "Murra"
- CORELLIAN_paledor: "Paledor"
- CORELLIAN_pulsar_skate: "Pulsar Skate"
- CORELLIAN_raptor: "Raptor"
- CORELLIAN_razor_cat: "Razor Cat"
- CORELLIAN_sharnaff: "Sharnaff"
- CORELLIAN_slopewing: "Slopewing"
- CORELLIAN_tabage: "Tabage"
- CORELLIAN_tarkaline: "Tarkaline"
- CORELLIAN_vrelt: "Vrelt"
- CORELLIAN_wonat: "Wonat"
- CORELLIAN_gallant: "Gallant"
- CORELLIAN_recluse: "Recluse"
- CORELLIAN_liberty: "Liberty"
- CORELLIAN_righteous: "Righteous"
- CORELLIAN_universal: "Universal"
- CORELLIAN_beneficence: "Beneficence"
- CORELLIAN_autark: "Autark"
- CORELLIAN_autonomy: "Autonomy"
- CORELLIAN_autonomous: "Autonomous"
- CORELLIAN_home_rule: "Home Rule"
- CORELLIAN_daring: "Daring"
- CORELLIAN_valorant: "Valorant"
- CORELLIAN_void_sister: "Void Sister"
- CORELLIAN_center_bound: "Center Bound"
- CORELLIAN_fire_of_the_free: "Fire of the Free"
- CORELLIAN_agency: "Agency"
- CORELLIAN_free_will: "Free Will"
- CORELLIAN_settler: "Settler"
- CORELLIAN_trekker: "Trekker"
- CORELLIAN_pioneer: "Pioneer"
- CORELLIAN_expedition: "Expedition"
- CORELLIAN_firebolt: "Firebolt"
- CORELLIAN_ardent: "Ardent"
- CORELLIAN_chief: "Chief"
- CORELLIAN_constitution: "Constitution"
- CORELLIAN_dextrous: "Dextrous"
- CORELLIAN_freedom: "Freedom"
- CORELLIAN_gladiator: "Gladiator"
- CORELLIAN_monsoon: "Monsoon"
- CORELLIAN_zimitz: "Zimitz"
- CORELLIAN_patriot: "Patriot"
- CORELLIAN_port_royal: "Port Royal"
- CORELLIAN_providence: "Providence"
- CORELLIAN_starwolf: "Starwolf"
- CORELLIAN_squall: "Squall"
- CORELLIAN_stockade: "Stockade"
- CORELLIAN_rampart: "Rampart"
- CORELLIAN_loyal: "Loyal"
- CORELLIAN_invincible: "Invincible"
- CORELLIAN_spearhead: "Spearhead"
- CORELLIAN_impeccable: "Impeccable"
- CORELLIAN_pathfinder: "Pathfinder"
- CORELLIAN_red_cloud: "Red Cloud"
- CORELLIAN_victorious: "Victorious"
- CORELLIAN_arko: "Arko"
- CORELLIAN_defiant: "Defiant"
- CORELLIAN_valiant: "Valiant"
- CORELLIAN_antares: "Antares"
- CORELLIAN_resolute: "Resolute"
- CORELLIAN_beckoner: "Beckoner"
- CORELLIAN_steadfast: "Steadfast"
- CORELLIAN_stardust: "Stardust"
- CORELLIAN_insurrection: "Insurrection"
- CORELLIAN_freedom_fighter: "Freedom Fighter"
- CORELLIAN_neebray: "Neebray"
- CORELLIAN_supernova: "Supernova"
- CORELLIAN_golden_age: "Golden Age"
- CORELLIAN_jonash: "Jonash"
- CORELLIAN_prince_admiral: "Prince Admiral"
- CORELLIAN_cape_alsaka: "Cape Alsaka"
- CORELLIAN_korol: "Korol"
- CORELLIAN_star_stallion: "Star Stallion"
- CORELLIAN_buccaneer: "Buccaneer"
- CORELLIAN_freehold: "Freehold"
- CORELLIAN_equality: "Equality"
- CORELLIAN_frontier: "Frontier"
- CORELLIAN_homestead: "Homestead"
- CORELLIAN_newcomer: "Newcomer"
- CORELLIAN_trailblazer: "Trailblazer"
- CORELLIAN_halcyon: "Halcyon"
- CORELLIAN_longspur: "Longspur"
- CORELLIAN_itinerant: "Itinerant"
- CORELLIAN_wayfarer: "Wayfarer"
- CORELLIAN_wanderer: "Wanderer"
- CORELLIAN_roamer: "Roamer"
- CORELLIAN_farstrike: "Farstrike"
- CORELLIAN_brawler: "Brawler"
- CORELLIAN_brazen: "Brazen"
- CORELLIAN_representative: "Representative"
- CORELLIAN_threkin: "Threkin"
- CORELLIAN_jaina_the_elder: "Jaina the Elder"
- CORELLIAN_jaina_t_younger: "Jaina the Younger"
- CORELLIAN_free_reign: "Free Reign"
- CORELLIAN_free_hand: "Free Hand"
- CORELLIAN_liberality: "Liberality"
- CORELLIAN_corell_first: "Corell First"
- CORELLIAN_lawbringer: "Lawbringer"
- CORELLIAN_demos: "Demos"
- CORELLIAN_tolerance: "Tolerance"
- CORELLIAN_prudence: "Prudence"
- CORELLIAN_prudential: "Prudential"
- CORELLIAN_forbearance: "Forbearance"
- CORELLIAN_magnanimity: "Magnanimity"
- CORELLIAN_permissive: "Permissive"
- CORELLIAN_fortitude: "Fortitude"
- CORELLIAN_perseverance: "Perseverance"
- CORELLIAN_torrent: "Torrent"
- CORELLIAN_freebird: "Freebird"
- CORELLIAN_novaflame: "Novaflame"
- CORELLIAN_starhawk: "Starhawk"
- CORELLIAN_starbird: "Starbird"
- CORELLIAN_ramos: "Ramos"
- CORELLIAN_bedoch: "Bedoch"
- CORELLIAN_redick: "Redick"
- CORELLIAN_green_council: "Green Council"
- CORELLIAN_berethon: "Berethon"
- CORELLIAN_cerulian: "Cerulian"
- CORELLIAN_korin: "Korin"
- CORELLIAN_redris: "Redris"
- CORELLIAN_krahnn: "Krahnn"
- CORELLIAN_qella_tak: "Qella'tak"
- CORELLIAN_thunder_dragon: "Thunder Dragon"
- CORELLIAN_seldin: "Seldin"
- CORELLIAN_taradon: "Taradon"
- CORELLIAN_saving_grace: "Saving Grace"
- CORELLIAN_diligent: "Diligent"
- CORELLIAN_emerald_lance: "Emerald Lance"
- CORELLIAN_nova_whisper: "Nova Whisper"
- CORELLIAN_saxan_s_pride: "Saxan's Pride"
- CORELLIAN_silaban: "Silaban"
- CORELLIAN_deliverance: "Deliverance"
- CORELLIAN_pride_of_the_rim: "Pride of the Rim"
- CORELLIAN_retribution: "Retribution"
- CORELLIAN_sundered_heart: "Sundered Heart"
- CORELLIAN_farstar: "FarStar"
- CORELLIAN_liberator: "Liberator"
- CORELLIAN_agara: "Agara"
- CORELLIAN_amber_star: "Amber Star"
- CORELLIAN_ast_ria: "Ast'ria"
- CORELLIAN_stin: "Stin"
- CORELLIAN_athega: "Athega"
- CORELLIAN_aurora: "Aurora"
- CORELLIAN_badlands: "Badlands"
- CORELLIAN_beacon: "Beacon"
- CORELLIAN_bilbringi: "Bilbringi"
- CORELLIAN_birkby: "Birkby"
- CORELLIAN_bixby: "Bixby"
- CORELLIAN_blackmist: "Blackmist"
- CORELLIAN_blazen: "Blazen"
- CORELLIAN_borealis: "Borealis"
- CORELLIAN_burke: "Burke"
- CORELLIAN_candor: "Candor"
- CORELLIAN_charger: "Charger"
- CORELLIAN_clavier: "Clavier"
- CORELLIAN_claw: "Claw"
- CORELLIAN_coen: "Coen"
- CORELLIAN_constrictor: "Constrictor"
- CORELLIAN_controller: "Controller"
- CORELLIAN_crescent: "Crescent"
- CORELLIAN_cularin: "Cularin"
- CORELLIAN_dar_es: "Dar Es"
- CORELLIAN_dinko: "Dinko"
- CORELLIAN_emancipator: "Emancipator"
- CORELLIAN_eridain: "Eridain"
- CORELLIAN_ession_strike: "Ession Strike"
- CORELLIAN_ethar: "Ethar"
- CORELLIAN_fa_loh_sui: "Fa-Loh-Sui"
- CORELLIAN_falcon: "Falcon"
- CORELLIAN_fang: "Fang"
- CORELLIAN_farrelly: "Farrelly"
- CORELLIAN_filve: "Filve"
- CORELLIAN_firestorm: "Firestorm"
- CORELLIAN_gaaltura_v: "Gaaltura V"
- CORELLIAN_galaxy_chance: "Galaxy Chance"
- CORELLIAN_geedon: "Geedon"
- CORELLIAN_glaser: "Glaser"
- CORELLIAN_glazer: "Glazer"
- CORELLIAN_godar: "Godar"
- CORELLIAN_grappler: "Grappler"
- CORELLIAN_habatok: "Habatok"
- CORELLIAN_halifax: "Halifax"
- CORELLIAN_howlrunner: "Howlrunner"
- CORELLIAN_hyko: "Hyko"
- CORELLIAN_intrepid: "Intrepid"
- CORELLIAN_indefatigable: "Indefatigable"
- CORELLIAN_jaina_s_light: "Jaina's Light"
- CORELLIAN_janson: "Janson"
- CORELLIAN_javelin: "Javelin"
- CORELLIAN_judicator: "Judicator"
- CORELLIAN_keeper: "Keeper"
- CORELLIAN_kern_s_pride: "Kern's Pride"
- CORELLIAN_korolev: "Korolev"
- CORELLIAN_lance: "Lance"
- CORELLIAN_last_hope: "Last Hope"
- CORELLIAN_lauhu: "Lauhu"
- CORELLIAN_lialic_ii: "Lialic II"
- CORELLIAN_libra: "Libra"
- CORELLIAN_magua: "Magua"
- CORELLIAN_mahan: "Mahan"
- CORELLIAN_manx: "Manx"
- CORELLIAN_mar_duun: "Mar Duun"
- CORELLIAN_masanya: "Masanya"
- CORELLIAN_neelian: "Neelian"
- CORELLIAN_novaflare: "NovaFlare"
- CORELLIAN_olrac_etnom: "Olrac Etnom"
- CORELLIAN_oramac: "Oramac"
- CORELLIAN_petor: "Petor"
- CORELLIAN_phazer_one: "Phazer One"
- CORELLIAN_phazer_two: "Phazer Two"
- CORELLIAN_pushti: "Pushti"
- CORELLIAN_qiluiy: "Qiluiy"
- CORELLIAN_ram_s_head: "Ram's Head"
- CORELLIAN_rancor_s_tooth: "Rancor's Tooth"
- CORELLIAN_ranger: "Ranger"
- CORELLIAN_ranolfo: "Ranolfo"
- CORELLIAN_razor: "Razor"
- CORELLIAN_old_red: "Old Red"
- CORELLIAN_red_tooth: "Red Tooth"
- CORELLIAN_renthal_s_fist: "Renthal's Fist"
- CORELLIAN_ritam: "Ritam"
- CORELLIAN_sable_three: "Sable Three"
- CORELLIAN_safonne_s_sword: "Safonne's Sword"
- CORELLIAN_saki: "Saki"
- CORELLIAN_scarlet_thranta: "Scarlet Thranta"
- CORELLIAN_shredder: "Shredder"
- CORELLIAN_shurik: "Shurik"
- CORELLIAN_smokeswimmer: "Smokeswimmer"
- CORELLIAN_sonnel: "Sonnel"
- CORELLIAN_spartzen: "Spartzen"
- CORELLIAN_stallion: "Stallion"
- CORELLIAN_starfall: "Starfall"
- CORELLIAN_starlight_wander: "Starlight Wanderer"
- CORELLIAN_stellar_damsel: "Stellar Damsel"
- CORELLIAN_storm: "Storm"
- CORELLIAN_stormstrike: "Stormstrike"
- CORELLIAN_striker: "Striker"
- CORELLIAN_sundog: "Sundog"
- CORELLIAN_talon: "Talon"
- CORELLIAN_tarnta_s_fang: "Tarnta's Fang"
- CORELLIAN_thaere_runner: "Thaere Runner"
- CORELLIAN_thrasher: "Thrasher"
- CORELLIAN_thunder: "Thunder"
- CORELLIAN_thunderstrike: "Thunderstrike"
- CORELLIAN_tiger_one: "Tiger One"
- CORELLIAN_triumph: "Triumph"
- CORELLIAN_typhoon: "Typhoon"
- CORELLIAN_ullet: "Ullet"
- CORELLIAN_viper: "Viper"
- CORELLIAN_vop_hui: "Vop Hui"
- CORELLIAN_vorknkx: "Vorknkx"
- CORELLIAN_warrior: "Warrior"
- CORELLIAN_windswept: "Windswept"
- CORELLIAN_wolf_pack: "Wolf-Pack"
- CORELLIAN_zahtjav: "Zahtjav"
- CORELLIAN_andronikos: "Andronikos"
- CORELLIAN_memory: "Memory"
- CORELLIAN_memento: "Memento"
- CORELLIAN_trade_wind: "Trade Wind"
- CORELLIAN_wanderlust: "Wanderlust"
- CORELLIAN_seeker: "Seeker"
- CORELLIAN_skyrunner: "Skyrunner"
- CORELLIAN_boundless: "Boundless"
- CORELLIAN_curiosity: "Curiosity"
- CORELLIAN_far_reach: "Far Reach"
- CORELLIAN_vagabond: "Vagabond"
- CORELLIAN_visitor: "Visitor"
- CORELLIAN_correl_torch: "Correl Torch"
- CORELLIAN_corsuca_light: "Corusca Light"
- CORELLIAN_wagoneer: "Wagoneer"
- CORELLIAN_corellian_trail: "Corellian Trail"
- CORELLIAN_forder: "Forder"
- CORELLIAN_cortrekker: "CorTrekker"
- CORELLIAN_nova_coronet: "Nova Coronet"
- CORELLIAN_golden_roamer: "Golden Roamer"
- CORELLIAN_fresh_start: "Fresh Start"
- CORELLIAN_new_hope: "New Hope"
- CORELLIAN_prosperity: "Prosperity"
- CORELLIAN_settler_three: "Settler Three"
- CORELLIAN_bushwacker: "Bushwacker"
- CORELLIAN_const_aurek: "Constructor Aurek"
- CORELLIAN_const_besh: "Constructor Besh"
- CORELLIAN_const_cresh: "Constructor Cresh"
- CORELLIAN_const_dorn: "Constructor Dorn"
- CORELLIAN_const_forn: "Constructor Forn"
- CORELLIAN_const_grek: "Constructor Grek"
- CORELLIAN_const_herf: "Constructor Herf"
- CORELLIAN_const_isk: "Constructor Isk"
- CORELLIAN_const_jenth: "Constructor Jenth"
- CORELLIAN_const_krill: "Constructor Krill"
- CORELLIAN_const_leth: "Constructor Leth"
- CORELLIAN_const_mern: "Constructor Mern"
- CORELLIAN_const_nern: "Constructor Nern"
- CORELLIAN_const_osk: "Constructor Osk"
- CORELLIAN_const_peth: "Constructor Peth"
- CORELLIAN_const_senth: "Constructor Senth"
- CORELLIAN_const_trill: "Constructor Trill"
- CORELLIAN_const_usk: "Constructor Usk"
- CORELLIAN_const_vev: "Constructor Vev"
- CORELLIAN_const_wesk: "Constructor Wesk"
- CORELLIAN_const_xesh: "Constructor Xesh"
- CORELLIAN_const_yirt: "Constructor Yirt"
- CORELLIAN_const_zerek: "Constructor Zerek"
- CORELLIAN_const_cherek: "Constructor Cherek"
- CORELLIAN_const_qek: "Constructor Qek"
- CORELLIAN_const_resh: "Constructor Resh"
- CORELLIAN_const_enth: "Constructor Enth"
- CORELLIAN_const_onith: "Constructor Onith"
- CORELLIAN_const_krenth: "Constructor Krenth"
- CORELLIAN_const_nen: "Constructor Nen"
- CORELLIAN_const_orenth: "Constructor Orenth"
- CORELLIAN_const_shen: "Constructor Shen"
- CORELLIAN_const_thesh: "Constructor Thesh"
- CORELLIAN_ground_transport: "Ground Transport"
- CORELLIAN_citadel: "Citadel"
- CORELLIAN_gateway: "Gateway"
- CORELLIAN_riverland: "Riverland"
- CORELLIAN_thaos: "Thaos"
- CORELLIAN_gold_beach: "Gold Beach"
- CORELLIAN_dregin_s_pike: "Dregan's Pike"
- CORELLIAN_suntir: "Suntir"
- CORELLIAN_coronet: "Coronet"
- CORELLIAN_rhaler_s_bastion: "Rhaler's Bastion"
- CORELLIAN_doaba: "Doaba"
- CORELLIAN_guerfel: "Guerfel"
- CORELLIAN_mount_malal: "Mount Malal"
- CORELLIAN_blastfield: "Blastfield"
- CORELLIAN_axial_park: "Axial Park"
- CORELLIAN_labor_valley: "Labor Valley"
- CORELLIAN_inc_islands: "Incorporation Islands"
- CORELLIAN_centerpoint: "Centerpoint"
- CORELLIAN_goldoa: "Goldoa"
- CORELLIAN_faramar: "Faramar"
- CORELLIAN_kankaura: "Kankaura"
- CORELLIAN_dreamland: "Dreamland"
- CORELLIAN_bombard: "Bombard"
- CORELLIAN_ballista: "Ballista"
- CORELLIAN_catapult: "Catapult"
- CORELLIAN_harpoon: "Harpoon"
- CORELLIAN_polybolos: "Polybolos"
- CORELLIAN_culverin: "Culverin"
- CORELLIAN_CLASS_foray: "Foray"
- CORELLIAN_CLASS_praetorian: "Praetorian"
- CORELLIAN_CLASS_hammerhead: "Hammerhead"
- CORELLIAN_CLASS_valorant: "Valorant"
- CORELLIAN_CLASS_invincible: "Invincible"
- CORELLIAN_CLASS_inexpungable: "Inexpungable"
- CORELLIAN_CLASS_dynamic: "Dynamic"
- CORELLIAN_CLASS_starscape: "Starscape"
- CORELLIAN_FLEET_battle_group_corellia: "Battle Group Corellia"
- CORELLIAN_FLEET_battle_group_talus: "Battle Group Talus"
- CORELLIAN_FLEET_battle_group_tralus: "Battle Group Tralus"
- CORELLIAN_FLEET_battle_group_drall: "Battle Group Drall"
- CORELLIAN_FLEET_battle_group_selonia: "Battle Group Selonia"
- CORELLIAN_FLEET_SEQUENTIAL_corsec_squadron: "$ORD$ CorSec Squadron"
- CORELLIAN_ARMY_SEQUENTIAL_corsec_detachment: "$ORD$ CorSec Detachment"
- CORELLIAN_ARMY_SEQUENTIAL_volunteer_expeditionary_force: "$ORD$ Volunteer Expeditionary Force"
- CORELLIAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- CORELLIAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- CORELLIAN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- CORELLIAN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- CORELLIAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- CORELLIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- CORELLIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- CORELLIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- CORELLIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- CORELLIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- CORELLIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- CORELLIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- CORELLIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- CORELLIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- CORELLIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- CORELLIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- CORELLIAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- CORELLIAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- CORELLIAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- CORELLIAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- CORELLIAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- CORELLIAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- CORELLIAN_CHR_thrackan: "Thrackan"
- CORELLIAN_CHR_aiden: "Aiden"
- CORELLIAN_CHR_wedge: "Wedge"
- CORELLIAN_CHR_dur: "Dur"
- CORELLIAN_CHR_keiran: "Keiran"
- CORELLIAN_CHR_com: "Com"
- CORELLIAN_CHR_shor: "Shor"
- CORELLIAN_CHR_dupas: "Dupas"
- CORELLIAN_CHR_zekka: "Zekka"
- CORELLIAN_CHR_daclif: "Daclif"
- CORELLIAN_CHR_crix: "Crix"
- CORELLIAN_CHR_kirtan: "Kirtan"
- CORELLIAN_CHR_corran: "Corran"
- CORELLIAN_CHR_gil: "Gil"
- CORELLIAN_CHR_diric: "Diric"
- CORELLIAN_CHR_doman: "Doman"
- CORELLIAN_CHR_aidel: "Aidel"
- CORELLIAN_CHR_saz: "Saz"
- CORELLIAN_CHR_jonash: "Jonash"
- CORELLIAN_CHR_threkin: "Threkin"
- CORELLIAN_CHR_randil: "Randil"
- CORELLIAN_CHR_den: "Den"
- CORELLIAN_CHR_han: "Han"
- CORELLIAN_CHR_korol: "Korol"
- CORELLIAN_CHR_jacen: "Jacen"
- CORELLIAN_CHR_karl: "Karl"
- CORELLIAN_CHR_mathieu: "Mathieu"
- CORELLIAN_CHR_tettsel: "Tettsel"
- CORELLIAN_CHR_jagged: "Jagged"
- CORELLIAN_CHR_bayle: "Bayle"
- CORELLIAN_CHR_tormax: "Tormax"
- CORELLIAN_CHR_seb: "Seb"
- CORELLIAN_CHR_jareck: "Jareck"
- CORELLIAN_CHR_jurnel: "Jurnel"
- CORELLIAN_CHR_vol: "Vol"
- CORELLIAN_CHR_conil: "Conil"
- CORELLIAN_CHR_tekil: "Tekil"
- CORELLIAN_CHR_shi: "Shi"
- CORELLIAN_CHR_myron: "Myron"
- CORELLIAN_CHR_jab: "Jab"
- CORELLIAN_CHR_garm: "Garm"
- CORELLIAN_CHR_odair: "Odair"
- CORELLIAN_CHR_draykken: "Draykken"
- CORELLIAN_CHR_hraykken: "Hraykken"
- CORELLIAN_CHR_hiram: "Hiram"
- CORELLIAN_CHR_anson: "Anson"
- CORELLIAN_CHR_crev: "Crev"
- CORELLIAN_CHR_natt: "Natt"
- CORELLIAN_CHR_sunny: "Sunny"
- CORELLIAN_CHR_dev: "Dev"
- CORELLIAN_CHR_grov: "Grov"
- CORELLIAN_CHR_ezra: "Ezra"
- CORELLIAN_CHR_ront: "Ront"
- CORELLIAN_CHR_jerem: "Jerem"
- CORELLIAN_CHR_monti: "Monti"
- CORELLIAN_CHR_cole: "Cole"
- CORELLIAN_CHR_jorj: "Jorj"
- CORELLIAN_CHR_lanius: "Lanius"
- CORELLIAN_CHR_jonah: "Jonah"
- CORELLIAN_CHR_jesseb: "Jesseb"
- CORELLIAN_CHR_lon: "Lon"
- CORELLIAN_CHR_banyon: "Banyon"
- CORELLIAN_CHR_abagga: "Abagga"
- CORELLIAN_CHR_bobor: "Bobor"
- CORELLIAN_CHR_macz: "Macz"
- CORELLIAN_CHR_cubber: "Cubber"
- CORELLIAN_CHR_waroon: "Waroon"
- CORELLIAN_CHR_sal: "Sal"
- CORELLIAN_CHR_darvis: "Darvis"
- CORELLIAN_CHR_skerrick: "Skerrick"
- CORELLIAN_CHR_davrin: "Davrin"
- CORELLIAN_CHR_deegan: "Deegan"
- CORELLIAN_CHR_deflaros: "Deflaros"
- CORELLIAN_CHR_sann: "Sann"
- CORELLIAN_CHR_rothgar: "Rothgar"
- CORELLIAN_CHR_dex: "Dex"
- CORELLIAN_CHR_didjoa: "Didjoa"
- CORELLIAN_CHR_myn: "Myn"
- CORELLIAN_CHR_valon: "Valon"
- CORELLIAN_CHR_chelch: "Chelch"
- CORELLIAN_CHR_yustavan: "Yustavan"
- CORELLIAN_CHR_tev: "Tev"
- CORELLIAN_CHR_ivr: "Ivr"
- CORELLIAN_CHR_atlan: "Atlan"
- CORELLIAN_CHR_rik: "Rik"
- CORELLIAN_CHR_voba: "Voba"
- CORELLIAN_CHR_shol: "Shol"
- CORELLIAN_CHR_thale: "Thale"
- CORELLIAN_CHR_darv: "Darv"
- CORELLIAN_CHR_erno: "Erno"
- CORELLIAN_CHR_falco: "Falco"
- CORELLIAN_CHR_barr: "Barr"
- CORELLIAN_CHR_harlon: "Harlon"
- CORELLIAN_CHR_annor: "Annor"
- CORELLIAN_CHR_dannl: "Dannl"
- CORELLIAN_CHR_chak: "Chak"
- CORELLIAN_CHR_davin: "Davin"
- CORELLIAN_CHR_soontir: "Soontir"
- CORELLIAN_CHR_todr: "Todr"
- CORELLIAN_CHR_almark: "Almark"
- CORELLIAN_CHR_ilim: "Ilim"
- CORELLIAN_CHR_ecclessis: "Ecclessis"
- CORELLIAN_CHR_salovan: "Salovan"
- CORELLIAN_CHR_mich: "Mich"
- CORELLIAN_CHR_jace: "Jace"
- CORELLIAN_CHR_crale: "Crale"
- CORELLIAN_CHR_zorajas: "Zorajas"
- CORELLIAN_CHR_jaylon: "Jaylon"
- CORELLIAN_CHR_nov: "Nov"
- CORELLIAN_CHR_gerrol: "Gerrol"
- CORELLIAN_CHR_markus: "Markus"
- CORELLIAN_CHR_pharnis: "Pharnis"
- CORELLIAN_CHR_ellias: "Ellias"
- CORELLIAN_CHR_scolex: "Scolex"
- CORELLIAN_CHR_de_hoff: "De'hoff"
- CORELLIAN_CHR_mramo: "Mramo"
- CORELLIAN_CHR_elias: "Elias"
- CORELLIAN_CHR_neeja: "Neeja"
- CORELLIAN_CHR_kenth: "Kenth"
- CORELLIAN_CHR_pol: "Pol"
- CORELLIAN_CHR_viktor: "Viktor"
- CORELLIAN_CHR_janzel: "Janzel"
- CORELLIAN_CHR_hendrick: "Hendrick"
- CORELLIAN_CHR_rodin: "Rodin"
- CORELLIAN_CHR_enneth: "Enneth"
- CORELLIAN_CHR_braganti: "Braganti"
- CORELLIAN_CHR_helfin: "Helfin"
- CORELLIAN_CHR_jenos: "Jenos"
- CORELLIAN_CHR_ilyamo: "Ilyamo"
- CORELLIAN_CHR_gol: "Gol"
- CORELLIAN_CHR_falan: "Falan"
- CORELLIAN_CHR_dinnik: "Dinnik"
- CORELLIAN_CHR_irek: "Irek"
- CORELLIAN_CHR_bran: "Bran"
- CORELLIAN_CHR_jabi: "Jabi"
- CORELLIAN_CHR_jakir: "Jakir"
- CORELLIAN_CHR_mack: "Mack"
- CORELLIAN_CHR_wildis: "Wildis"
- CORELLIAN_CHR_tomi: "Tomi"
- CORELLIAN_CHR_talan: "Talan"
- CORELLIAN_CHR_joz: "Joz"
- CORELLIAN_CHR_heff: "Heff"
- CORELLIAN_CHR_kal: "Kal"
- CORELLIAN_CHR_jori: "Jori"
- CORELLIAN_CHR_joth: "Joth"
- CORELLIAN_CHR_cohden: "Cohden"
- CORELLIAN_CHR_ben: "Ben"
- CORELLIAN_CHR_dorvin: "Dorvin"
- CORELLIAN_CHR_craddock: "Craddock"
- CORELLIAN_CHR_saul: "Saul"
- CORELLIAN_CHR_denell: "Denell"
- CORELLIAN_CHR_van: "Van"
- CORELLIAN_CHR_lex: "Lex"
- CORELLIAN_CHR_erel: "Erel"
- CORELLIAN_CHR_kett: "Kett"
- CORELLIAN_CHR_shoan: "Shoan"
- CORELLIAN_CHR_tan: "Tan"
- CORELLIAN_CHR_nevis: "Nevis"
- CORELLIAN_CHR_bidlo: "Bidlo"
- CORELLIAN_CHR_pel: "Pel"
- CORELLIAN_CHR_dael: "Dael"
- CORELLIAN_CHR_aram: "Aram"
- CORELLIAN_CHR_yade: "Yade"
- CORELLIAN_CHR_zuld: "Zuld"
- CORELLIAN_CHR_yanus: "Yanus"
- CORELLIAN_CHR_barid: "Barid"
- CORELLIAN_CHR_dayvid: "Dayvid"
- CORELLIAN_CHR_tosk: "Tosk"
- CORELLIAN_CHR_hurn: "Hurn"
- CORELLIAN_CHR_derremd: "Derremd"
- CORELLIAN_CHR_janqual: "Janqual"
- CORELLIAN_CHR_stax: "Stax"
- CORELLIAN_CHR_fenig: "Fenig"
- CORELLIAN_CHR_bek: "Bek"
- CORELLIAN_CHR_romas: "Romas"
- CORELLIAN_CHR_nozzo: "Nozzo"
- CORELLIAN_CHR_kaj: "Kaj"
- CORELLIAN_CHR_jasper: "Jasper"
- CORELLIAN_CHR_aalos: "Aalos"
- CORELLIAN_CHR_galidon: "Galidon"
- CORELLIAN_CHR_jav: "Jav"
- CORELLIAN_CHR_lorn: "Lorn"
- CORELLIAN_CHR_gilad: "Gilad"
- CORELLIAN_CHR_kazic: "Kazic"
- CORELLIAN_CHR_malik: "Malik"
- CORELLIAN_CHR_petro: "Petro"
- CORELLIAN_CHR_phaeris: "Phaeris"
- CORELLIAN_CHR_keekrim: "Keekrim"
- CORELLIAN_CHR_ilir: "Ilir"
- CORELLIAN_CHR_dubrank: "Dubrank"
- CORELLIAN_CHR_mat: "Mat"
- CORELLIAN_CHR_rallo: "Rallo"
- CORELLIAN_CHR_custo: "Custo"
- CORELLIAN_CHR_tait: "Tait"
- CORELLIAN_CHR_ubis: "Ubis"
- CORELLIAN_CHR_dash: "Dash"
- CORELLIAN_CHR_rosh: "Rosh"
- CORELLIAN_CHR_palejo: "Palejo"
- CORELLIAN_CHR_andronikos: "Andronikos"
- CORELLIAN_CHR_jerris: "Jerris"
- CORELLIAN_CHR_rion: "Rion"
- CORELLIAN_CHR_thaddeus: "Thaddeus"
- CORELLIAN_CHR_barit: "Barit"
- CORELLIAN_CHR_cyru: "Cyru"
- CORELLIAN_CHR_jornel: "Jornel"
- CORELLIAN_CHR_newin: "Newin"
- CORELLIAN_CHR_pech: "Pech"
- CORELLIAN_CHR_sevik: "Sevik"
- CORELLIAN_CHR_finn: "Finn"
- CORELLIAN_CHR_hershel: "Hershel"
- CORELLIAN_CHR_hasadar: "Hasadar"
- CORELLIAN_CHR_sherro: "Sherro"
- CORELLIAN_CHR_silas: "Silas"
- CORELLIAN_CHR_tennet: "Tennet"
- CORELLIAN_CHR_jarred: "Jarred"
- CORELLIAN_CHR_chun: "Chun"
- CORELLIAN_CHR_keevy: "Keevy"
- CORELLIAN_CHR_raan: "Raan"
- CORELLIAN_CHR_jord: "Jord"
- CORELLIAN_CHR_sarvel: "Sarvel"
- CORELLIAN_CHR_galvain: "Galvain"
- CORELLIAN_CHR_denjax: "Denjax"
- CORELLIAN_CHR_booster: "Booster"
- CORELLIAN_CHR_probus: "Probus"
- CORELLIAN_CHR_pavik: "Pavik"
- CORELLIAN_CHR_renn: "Renn"
- CORELLIAN_CHR_mill: "Mill"
- CORELLIAN_CHR_garv: "Garv"
- CORELLIAN_CHR_harval: "Harval"
- CORELLIAN_CHR_fynn: "Fynn"
- CORELLIAN_CHR_hugo: "Hugo"
- CORELLIAN_CHR_tam: "Tam"
- CORELLIAN_CHR_denetrius: "Denetrius"
- CORELLIAN_CHR_vinro: "Vinro"
- CORELLIAN_CHR_wex: "Wex"
- CORELLIAN_CHR_jos: "Jos"
- CORELLIAN_CHR_fliry: "Fliry"
- CORELLIAN_CHR_halden: "Halden"
- CORELLIAN_CHR_emmin: "Emmin"
- CORELLIAN_CHR_attico: "Attico"
- CORELLIAN_CHR_edbr: "Edbr"
- CORELLIAN_CHR_brimon: "Brimon"
- CORELLIAN_CHR_genna: "Genna"
- CORELLIAN_CHR_fyric: "Fyric"
- CORELLIAN_CHR_iella: "Iella"
- CORELLIAN_CHR_sena: "Sena"
- CORELLIAN_CHR_irenez: "Irenez"
- CORELLIAN_CHR_dani: "Dani"
- CORELLIAN_CHR_jaina: "Jaina"
- CORELLIAN_CHR_danielle: "Danielle"
- CORELLIAN_CHR_tiion: "Tiion"
- CORELLIAN_CHR_allana: "Allana"
- CORELLIAN_CHR_ania: "Ania"
- CORELLIAN_CHR_dalla: "Dalla"
- CORELLIAN_CHR_mirax: "Mirax"
- CORELLIAN_CHR_wynssa: "Wynssa"
- CORELLIAN_CHR_tira: "Tira"
- CORELLIAN_CHR_corinna: "Corinna"
- CORELLIAN_CHR_kandria: "Kandria"
- CORELLIAN_CHR_tess: "Tess"
- CORELLIAN_CHR_vora: "Vora"
- CORELLIAN_CHR_annissya: "Annissya"
- CORELLIAN_CHR_myri: "Myri"
- CORELLIAN_CHR_syal: "Syal"
- CORELLIAN_CHR_zena: "Zena"
- CORELLIAN_CHR_elga: "Elga"
- CORELLIAN_CHR_frei: "Frei"
- CORELLIAN_CHR_camelle: "Camelle"
- CORELLIAN_CHR_deli: "Deli"
- CORELLIAN_CHR_roxi: "Roxi"
- CORELLIAN_CHR_elsen: "Elsen"
- CORELLIAN_CHR_deena: "Deena"
- CORELLIAN_CHR_areta: "Areta"
- CORELLIAN_CHR_sulen: "Sulen"
- CORELLIAN_CHR_bey: "Bey"
- CORELLIAN_CHR_annali: "Annali"
- CORELLIAN_CHR_dova: "Dova"
- CORELLIAN_CHR_brusela: "Brusela"
- CORELLIAN_CHR_anni: "Anni"
- CORELLIAN_CHR_chai: "Chai"
- CORELLIAN_CHR_kimmi: "Kimmi"
- CORELLIAN_CHR_cora: "Cora"
- CORELLIAN_CHR_vella: "Vella"
- CORELLIAN_CHR_josta: "Josta"
- CORELLIAN_CHR_viera: "Viera"
- CORELLIAN_CHR_zindra: "Zindra"
- CORELLIAN_CHR_coril: "Coril"
- CORELLIAN_CHR_dayana: "Dayana"
- CORELLIAN_CHR_destha: "Destha"
- CORELLIAN_CHR_yama: "Yama"
- CORELLIAN_CHR_atlanna: "Atlanna"
- CORELLIAN_CHR_coraline: "Coraline"
- CORELLIAN_CHR_trins: "Trins"
- CORELLIAN_CHR_shandy: "Shandy"
- CORELLIAN_CHR_karin: "Karin"
- CORELLIAN_CHR_ajai: "Ajai"
- CORELLIAN_CHR_naz: "Naz"
- CORELLIAN_CHR_maris: "Maris"
- CORELLIAN_CHR_bant_ena: "Bant'ena"
- CORELLIAN_CHR_fianna: "Fianna"
- CORELLIAN_CHR_teraeza: "Teraeza"
- CORELLIAN_CHR_cilyn: "Cilyn"
- CORELLIAN_CHR_jes: "Jes"
- CORELLIAN_CHR_gixsa: "Gixsa"
- CORELLIAN_CHR_ta_mara: "Ta-mara"
- CORELLIAN_CHR_mara: "Mara"
- CORELLIAN_CHR_tag: "Tag"
- CORELLIAN_CHR_gallura: "Gallura"
- CORELLIAN_CHR_bleys: "Bleys"
- CORELLIAN_CHR_kylaena: "Kylaena"
- CORELLIAN_CHR_hethra: "Hethra"
- CORELLIAN_CHR_hirka: "Hirka"
- CORELLIAN_CHR_sola: "Sola"
- CORELLIAN_CHR_nola: "Nola"
- CORELLIAN_CHR_iris: "Iris"
- CORELLIAN_CHR_brali: "Brali"
- CORELLIAN_CHR_relva: "Relva"
- CORELLIAN_CHR_jasha: "Jasha"
- CORELLIAN_CHR_jenna: "Jenna"
- CORELLIAN_CHR_renga: "Renga"
- CORELLIAN_CHR_nyche: "Nyche"
- CORELLIAN_CHR_waria: "Waria"
- CORELLIAN_CHR_erin: "Erin"
- CORELLIAN_CHR_kalifa: "Kalifa"
- CORELLIAN_CHR_vara: "Vara"
- CORELLIAN_CHR_karena: "Karena"
- CORELLIAN_CHR_kess: "Kess"
- CORELLIAN_CHR_ala: "Ala"
- CORELLIAN_CHR_kiza: "Kiza"
- CORELLIAN_CHR_adele: "Adele"
- CORELLIAN_CHR_vani: "Vani"
- CORELLIAN_CHR_kym: "Kym"
- CORELLIAN_CHR_shandria: "Shandria"
- CORELLIAN_CHR_laudica: "Laudica"
- CORELLIAN_CHR_lilith: "Lilith"
- CORELLIAN_CHR_brandy: "Brandy"
- CORELLIAN_CHR_veega: "Veega"
- CORELLIAN_CHR_lanah: "Lanah"
- CORELLIAN_CHR_vinya: "Vinya"
- CORELLIAN_CHR_meloria: "Meloria"
- CORELLIAN_CHR_shyla: "Shyla"
- CORELLIAN_CHR_navah: "Navah"
- CORELLIAN_CHR_nevhra: "Nevhra"
- CORELLIAN_CHR_ballia: "Ballia"
- CORELLIAN_CHR_lilea: "Lilea"
- CORELLIAN_CHR_sia: "Sia"
- CORELLIAN_CHR_mindra: "Mindra"
- CORELLIAN_CHR_kryss: "Kryss"
- CORELLIAN_CHR_esa: "Esa"
- CORELLIAN_CHR_faye: "Faye"
- CORELLIAN_CHR_rhea: "Rhea"
- CORELLIAN_CHR_rica: "Rica"
- CORELLIAN_CHR_adea: "Adea"
- CORELLIAN_CHR_chertyl: "Chertyl"
- CORELLIAN_CHR_sapra: "Sapra"
- CORELLIAN_CHR_vega: "Vega"
- CORELLIAN_CHR_seyda: "Seyda"
- CORELLIAN_CHR_falthina: "Falthina"
- CORELLIAN_CHR_sheelya: "Sheelya"
- CORELLIAN_CHR_nifera: "Nifera"
- CORELLIAN_CHR_syrin: "Syrin"
- CORELLIAN_CHR_bria: "Bria"
- CORELLIAN_CHR_sera: "Sera"
- CORELLIAN_CHR_siolle: "Siolle"
- CORELLIAN_CHR_syla: "Syla"
- CORELLIAN_CHR_zayna: "Zayna"
- CORELLIAN_CHR_brindy: "Brindy"
- CORELLIAN_CHR_arada: "Arada"
- CORELLIAN_CHR_saza: "Saza"
- CORELLIAN_CHR_milinae: "Milinae"
- CORELLIAN_CHR_trilinae: "Trilinae"
- CORELLIAN_CHR_shaedra: "Shaedra"
- CORELLIAN_CHR_ecile: "Ecile"
- CORELLIAN_CHR_orpa: "Orpa"
- CORELLIAN_CHR_vralla: "Vralla"
- CORELLIAN_CHR_vye: "Vye"
- CORELLIAN_CHR_alana: "Alana"
- CORELLIAN_CHR_teniel: "Teniel"
- CORELLIAN_CHR_demmi: "Demmi"
- CORELLIAN_CHR_erris: "Erris"
- CORELLIAN_CHR_jannitha: "Jannitha"
- CORELLIAN_CHR_hoclaw: "Hoclaw"
- CORELLIAN_CHR_saxan: "Saxan"
- CORELLIAN_CHR_antilles: "Antilles"
- CORELLIAN_CHR_gejjen: "Gejjen"
- CORELLIAN_CHR_delpin: "Delpin"
- CORELLIAN_CHR_bedoch: "Bedoch"
- CORELLIAN_CHR_halcyon: "Halcyon"
- CORELLIAN_CHR_horn: "Horn"
- CORELLIAN_CHR_fordox: "Fordox"
- CORELLIAN_CHR_merricope: "Merricope"
- CORELLIAN_CHR_thomree: "Thomree"
- CORELLIAN_CHR_thyne: "Thyne"
- CORELLIAN_CHR_gallamby: "Gallamby"
- CORELLIAN_CHR_madine: "Madine"
- CORELLIAN_CHR_fel: "Fel"
- CORELLIAN_CHR_starflare: "Starflare"
- CORELLIAN_CHR_loor: "Loor"
- CORELLIAN_CHR_bastra: "Bastra"
- CORELLIAN_CHR_wessiri: "Wessiri"
- CORELLIAN_CHR_beruss: "Beruss"
- CORELLIAN_CHR_micamberlecto: "Micamberlecto"
- CORELLIAN_CHR_terrik: "Terrik"
- CORELLIAN_CHR_leikvold: "Leikvold"
- CORELLIAN_CHR_midanyl: "Midanyl"
- CORELLIAN_CHR_tyrson: "Tyrson"
- CORELLIAN_CHR_faytonni: "Faytonni"
- CORELLIAN_CHR_horm: "Horm"
- CORELLIAN_CHR_kieran: "Kieran"
- CORELLIAN_CHR_sal_solo: "Sal-Solo"
- CORELLIAN_CHR_solo: "Solo"
- CORELLIAN_CHR_a_daasha: "A'Daasha"
- CORELLIAN_CHR_alder: "Alder"
- CORELLIAN_CHR_ancher: "Ancher"
- CORELLIAN_CHR_anjek: "Anjek"
- CORELLIAN_CHR_anker: "Anker"
- CORELLIAN_CHR_anyell: "Anyell"
- CORELLIAN_CHR_arbo: "Arbo"
- CORELLIAN_CHR_archan: "Archan"
- CORELLIAN_CHR_ardellian: "Ardellian"
- CORELLIAN_CHR_arkos: "Arkos"
- CORELLIAN_CHR_arned: "Arned"
- CORELLIAN_CHR_arrant: "Arrant"
- CORELLIAN_CHR_aycen: "Aycen"
- CORELLIAN_CHR_bakarn: "Bakarn"
- CORELLIAN_CHR_barad: "Barad"
- CORELLIAN_CHR_barje: "Barje"
- CORELLIAN_CHR_barl: "Barl"
- CORELLIAN_CHR_barthis: "Barthis"
- CORELLIAN_CHR_bata: "Bata"
- CORELLIAN_CHR_beech: "Beech"
- CORELLIAN_CHR_beetilles: "Beetilles"
- CORELLIAN_CHR_behar: "Behar"
- CORELLIAN_CHR_bel_iblis: "Bel Iblis"
- CORELLIAN_CHR_bel_opis: "Bel-Opis"
- CORELLIAN_CHR_bell: "Bell"
- CORELLIAN_CHR_belos: "Belos"
- CORELLIAN_CHR_bender: "Bender"
- CORELLIAN_CHR_bilure: "Bilure"
- CORELLIAN_CHR_bish: "Bish"
- CORELLIAN_CHR_bissa: "Bissa"
- CORELLIAN_CHR_blancken: "Blancken"
- CORELLIAN_CHR_bombassa: "Bombassa"
- CORELLIAN_CHR_bordo: "Bordo"
- CORELLIAN_CHR_boshek: "BoShek"
- CORELLIAN_CHR_bounder: "Bounder"
- CORELLIAN_CHR_bratt: "Bratt"
- CORELLIAN_CHR_breeger: "Breeger"
- CORELLIAN_CHR_bricker: "Bricker"
- CORELLIAN_CHR_brigger: "Brigger"
- CORELLIAN_CHR_bruckman: "Bruckman"
- CORELLIAN_CHR_buroy: "Buroy"
- CORELLIAN_CHR_burr_naxis: "Burr Naxis"
- CORELLIAN_CHR_byrnloo: "Byrnloo"
- CORELLIAN_CHR_cadmir: "Cadmir"
- CORELLIAN_CHR_calay: "Calay"
- CORELLIAN_CHR_cantarus: "Cantarus"
- CORELLIAN_CHR_capstan: "Capstan"
- CORELLIAN_CHR_car_das: "Car'das"
- CORELLIAN_CHR_carr: "Carr"
- CORELLIAN_CHR_carter: "Carter"
- CORELLIAN_CHR_chyler: "Chyler"
- CORELLIAN_CHR_convorr: "Convorr"
- CORELLIAN_CHR_cope: "Cope"
- CORELLIAN_CHR_corse: "Corse"
- CORELLIAN_CHR_cracken: "Cracken"
- CORELLIAN_CHR_craddok: "Craddok"
- CORELLIAN_CHR_creel: "Creel"
- CORELLIAN_CHR_crisk: "Crisk"
- CORELLIAN_CHR_cynthisa: "Cynthisa"
- CORELLIAN_CHR_daine: "Daine"
- CORELLIAN_CHR_dak: "Dak"
- CORELLIAN_CHR_dakron: "Dakron"
- CORELLIAN_CHR_das: "Das"
- CORELLIAN_CHR_daskmin: "Daskmin"
- CORELLIAN_CHR_dekker: "Dekker"
- CORELLIAN_CHR_deng: "Deng"
- CORELLIAN_CHR_devlin: "Devlin"
- CORELLIAN_CHR_donos: "Donos"
- CORELLIAN_CHR_dotyk: "Dotyk"
- CORELLIAN_CHR_draav: "Draav"
- CORELLIAN_CHR_drass: "Drass"
- CORELLIAN_CHR_dravvad: "Dravvad"
- CORELLIAN_CHR_dreezian: "Dreezian"
- CORELLIAN_CHR_driscull: "Driscull"
- CORELLIAN_CHR_dubreas: "Dubreas"
- CORELLIAN_CHR_duey: "Duey"
- CORELLIAN_CHR_durron: "Durron"
- CORELLIAN_CHR_dustrunner: "Dustrunner"
- CORELLIAN_CHR_dynes: "Dynes"
- CORELLIAN_CHR_eldon: "Eldon"
- CORELLIAN_CHR_evnar: "Evnar"
- CORELLIAN_CHR_faldrin: "Faldrin"
- CORELLIAN_CHR_fanaso: "Fanaso"
- CORELLIAN_CHR_fane: "Fane"
- CORELLIAN_CHR_fash: "Fash"
- CORELLIAN_CHR_featherlight: "Featherlight"
- CORELLIAN_CHR_feleema: "Feleema"
- CORELLIAN_CHR_felyood: "Felyood"
- CORELLIAN_CHR_ferasi: "Ferasi"
- CORELLIAN_CHR_varangi: "Varangi"
- CORELLIAN_CHR_ferd: "Ferd"
- CORELLIAN_CHR_fhernan: "Fhernan"
- CORELLIAN_CHR_fische: "Fische"
- CORELLIAN_CHR_flenn: "Flenn"
- CORELLIAN_CHR_forno: "Forno"
- CORELLIAN_CHR_forte: "Forte"
- CORELLIAN_CHR_furloti: "Furloti"
- CORELLIAN_CHR_gadren: "Gadren"
- CORELLIAN_CHR_gara: "Gara"
- CORELLIAN_CHR_garamin: "Garamin"
- CORELLIAN_CHR_geissler: "Geissler"
- CORELLIAN_CHR_hun: "Hun"
- CORELLIAN_CHR_glider: "Glider"
- CORELLIAN_CHR_gistang: "Gistang"
- CORELLIAN_CHR_gleasry: "Gleasry"
- CORELLIAN_CHR_gorlin: "Gorlin"
- CORELLIAN_CHR_grath: "Grath"
- CORELLIAN_CHR_greenley: "Greenley"
- CORELLIAN_CHR_fulfel: "Fulfel"
- CORELLIAN_CHR_gurah: "Gurah"
- CORELLIAN_CHR_halbert: "Halbert"
- CORELLIAN_CHR_hamber: "Hamber"
- CORELLIAN_CHR_hamner: "Hamner"
- CORELLIAN_CHR_handerin: "Handerin"
- CORELLIAN_CHR_harand: "Harand"
- CORELLIAN_CHR_haley: "Haley"
- CORELLIAN_CHR_hel: "Hel"
- CORELLIAN_CHR_helot: "Helot"
- CORELLIAN_CHR_hieks: "Hieks"
- CORELLIAN_CHR_higron: "Higron"
- CORELLIAN_CHR_holkin: "Holkin"
- CORELLIAN_CHR_hooge: "Hooge"
- CORELLIAN_CHR_hus: "Hus"
- CORELLIAN_CHR_huutar: "Huutar"
- CORELLIAN_CHR_idanian: "Idanian"
- CORELLIAN_CHR_inacc: "Inacc"
- CORELLIAN_CHR_indervin: "Indervin"
- CORELLIAN_CHR_iniro: "Iniro"
- CORELLIAN_CHR_innik: "Innik"
- CORELLIAN_CHR_isken: "Isken"
- CORELLIAN_CHR_jiklip: "Jiklip"
- CORELLIAN_CHR_jinsin: "Jinsin"
- CORELLIAN_CHR_jixton: "Jixton"
- CORELLIAN_CHR_joben: "Joben"
- CORELLIAN_CHR_jodhul: "Jodhul"
- CORELLIAN_CHR_jofer: "Jofer"
- CORELLIAN_CHR_johnair: "Johnair"
- CORELLIAN_CHR_jorek: "Jorek"
- CORELLIAN_CHR_junus: "Junus"
- CORELLIAN_CHR_k_reye: "K'Reye"
- CORELLIAN_CHR_kahob: "Kahob"
- CORELLIAN_CHR_kantt: "Kantt"
- CORELLIAN_CHR_kanu: "Kanu"
- CORELLIAN_CHR_karath: "Karath"
- CORELLIAN_CHR_karathas: "Karathas"
- CORELLIAN_CHR_katrane: "Katrane"
- CORELLIAN_CHR_keer: "Keer"
- CORELLIAN_CHR_kel_vannon: "Kel'Vannon"
- CORELLIAN_CHR_van_kellen: "Van Kellen"
- CORELLIAN_CHR_kener: "Kener"
- CORELLIAN_CHR_kersos: "Kersos"
- CORELLIAN_CHR_kilian: "Kilian"
- CORELLIAN_CHR_kimbo: "Kimbo"
- CORELLIAN_CHR_kirin: "Kirin"
- CORELLIAN_CHR_kitt: "Kitt"
- CORELLIAN_CHR_konya: "Konya"
- CORELLIAN_CHR_korr: "Korr"
- CORELLIAN_CHR_krast: "Krast"
- CORELLIAN_CHR_kwerve: "Kwerve"
- CORELLIAN_CHR_kwinn: "Kwinn"
- CORELLIAN_CHR_l_hnnar: "L'hnnar"
- CORELLIAN_CHR_lerann: "Lerann"
- CORELLIAN_CHR_levare: "Levare"
- CORELLIAN_CHR_locke: "Locke"
- CORELLIAN_CHR_loren: "Loren"
- CORELLIAN_CHR_loroan: "Loroan"
- CORELLIAN_CHR_m_rak: "M'rak"
- CORELLIAN_CHR_madish: "Madish"
- CORELLIAN_CHR_malo: "Malo"
- CORELLIAN_CHR_mar_shayal: "Mar-Shayal"
- CORELLIAN_CHR_maysor: "Maysor"
- CORELLIAN_CHR_mccallok: "McCallok"
- CORELLIAN_CHR_king: "King"
- CORELLIAN_CHR_melikan: "Melikan"
- CORELLIAN_CHR_millano: "Millano"
- CORELLIAN_CHR_moeda: "Moeda"
- CORELLIAN_CHR_montis: "Montis"
- CORELLIAN_CHR_mor: "Mor"
- CORELLIAN_CHR_mullawny: "Mullawny"
- CORELLIAN_CHR_nabon: "Nabon"
- CORELLIAN_CHR_nataal: "Nataal"
- CORELLIAN_CHR_navander: "Navander"
- CORELLIAN_CHR_naytaan: "Naytaan"
- CORELLIAN_CHR_nedmak: "Nedmak"
- CORELLIAN_CHR_nimbi: "Nimbi"
- CORELLIAN_CHR_noaddo: "Noaddo"
- CORELLIAN_CHR_noorg: "Noorg"
- CORELLIAN_CHR_norrin: "Norrin"
- CORELLIAN_CHR_okanor: "Okanor"
- CORELLIAN_CHR_p_teska: "P'teska"
- CORELLIAN_CHR_paol: "Paol"
- CORELLIAN_CHR_parna: "Parna"
- CORELLIAN_CHR_patrell: "Patrell"
- CORELLIAN_CHR_pavan: "Pavan"
- CORELLIAN_CHR_pax: "Pax"
- CORELLIAN_CHR_pellaeon: "Pellaeon"
- CORELLIAN_CHR_pendre: "Pendre"
- CORELLIAN_CHR_pendron: "Pendron"
- CORELLIAN_CHR_pon: "Pon"
- CORELLIAN_CHR_post: "Post"
- CORELLIAN_CHR_qennto: "Qennto"
- CORELLIAN_CHR_rai: "Rai"
- CORELLIAN_CHR_ramak: "Ramak"
- CORELLIAN_CHR_reendorr: "Reendorr"
- CORELLIAN_CHR_rendar: "Rendar"
- CORELLIAN_CHR_reshad: "Reshad"
- CORELLIAN_CHR_rez: "Rez"
- CORELLIAN_CHR_rite: "Rite"
- CORELLIAN_CHR_rojo: "Rojo"
- CORELLIAN_CHR_ross: "Ross"
- CORELLIAN_CHR_rydel: "Rydel"
- CORELLIAN_CHR_saiy: "Saiy"
- CORELLIAN_CHR_salpivo: "SalPivo"
- CORELLIAN_CHR_sarkee: "Sarkee"
- CORELLIAN_CHR_sassich: "Sassich"
- CORELLIAN_CHR_sau: "Sau"
- CORELLIAN_CHR_savas: "Savas"
- CORELLIAN_CHR_seedel: "Seedel"
- CORELLIAN_CHR_seki: "Seki"
- CORELLIAN_CHR_seldin: "Seldin"
- CORELLIAN_CHR_sepen: "Sepen"
- CORELLIAN_CHR_shae: "Shae"
- CORELLIAN_CHR_shallo: "Shallo"
- CORELLIAN_CHR_sharest: "Sharest"
- CORELLIAN_CHR_shelby: "Shelby"
- CORELLIAN_CHR_shu: "Shu"
- CORELLIAN_CHR_sionaro: "Sionaro"
- CORELLIAN_CHR_sirrah: "Sirrah"
- CORELLIAN_CHR_sistek: "Sistek"
- CORELLIAN_CHR_spart: "Spart"
- CORELLIAN_CHR_stasheff: "Stasheff"
- CORELLIAN_CHR_stokk: "Stokk"
- CORELLIAN_CHR_suul: "Suul"
- CORELLIAN_CHR_swan: "Swan"
- CORELLIAN_CHR_swift: "Swift"
- CORELLIAN_CHR_tal_oldra: "Tal-Oldra"
- CORELLIAN_CHR_tark: "Tark"
- CORELLIAN_CHR_teppler: "Teppler"
- CORELLIAN_CHR_tharen: "Tharen"
- CORELLIAN_CHR_thrakus: "Thrakus"
- CORELLIAN_CHR_timmer: "Timmer"
- CORELLIAN_CHR_tinta: "Tinta"
- CORELLIAN_CHR_tipper: "Tipper"
- CORELLIAN_CHR_tomas: "Tomas"
- CORELLIAN_CHR_tommick: "Tommick"
- CORELLIAN_CHR_torbul: "Torbul"
- CORELLIAN_CHR_tors: "Tors"
- CORELLIAN_CHR_torve: "Torve"
- CORELLIAN_CHR_tredahl: "Tredahl"
- CORELLIAN_CHR_treece: "Treece"
- CORELLIAN_CHR_truchong: "Truchong"
- CORELLIAN_CHR_tumu: "Tumu"
- CORELLIAN_CHR_turhaya: "Turhaya"
- CORELLIAN_CHR_uliss: "Uliss"
- CORELLIAN_CHR_ulbert: "Ulbert"
- CORELLIAN_CHR_undea: "Undea"
- CORELLIAN_CHR_untaire: "Untaire"
- CORELLIAN_CHR_valouri: "Valouri"
- CORELLIAN_CHR_verenar: "Verenar"
- CORELLIAN_CHR_vergesso: "Vergesso"
- CORELLIAN_CHR_vidian: "Vidian"
- CORELLIAN_CHR_vinram: "Vinram"
- CORELLIAN_CHR_vio: "Vio"
- CORELLIAN_CHR_vitale: "Vitale"
- CORELLIAN_CHR_vondar: "Vondar"
- CORELLIAN_CHR_vorr: "Vorr"
- CORELLIAN_CHR_vorru: "Vorru"
- CORELLIAN_CHR_walden: "Walden"
- CORELLIAN_CHR_waray: "Waray"
- CORELLIAN_CHR_wes: "Wes"
- CORELLIAN_CHR_wred: "Wred"
- CORELLIAN_CHR_wyum: "Wyum"
- CORELLIAN_CHR_xoczuko: "Xoczuko"
- CORELLIAN_CHR_yamagh: "Yamagh"
- CORELLIAN_CHR_yarar: "Yarar"
- CORELLIAN_CHR_berethron: "Berethron"
- CORELLIAN_CHR_threkim: "Threkim"
- CORELLIAN_CHR_hal: "Hal"
- CORELLIAN_CHR_rostek: "Rostek"
- CORELLIAN_CHR_hundi: "Hundi"
- CORELLIAN_CHR_scerra: "Scerra"
- CORELLIAN_CHR_jax: "Jax"
- CORELLIAN_CHR_darriovof_iii: "Darriovof III"
- CORELLIAN_CHR_darriovof_iv: "Darriovof IV"
+  CORELLIAN_peregrine: "Сапсан" #NT!
+  CORELLIAN_spirit_of_coron: "Дух Коронета" #NT!
+  CORELLIAN_independence: "Независимость" #NT!
+  CORELLIAN_sovereign: "Суверен" #NT!
+  CORELLIAN_bel_ibis: "Бел Ибис" #NT!
+  CORELLIAN_kolene: "Колен" #NT!
+  CORELLIAN_tyrena: "Тирена" #NT!
+  CORELLIAN_valorum: "Валорум" #NT!
+  CORELLIAN_cutlass: "Кортик" #NT!
+  CORELLIAN_vigilant: "Бдительный" #NT!
+  CORELLIAN_sentry: "Часовой" #NT!
+  CORELLIAN_custode: "Кустоде" #NT!
+  CORELLIAN_monitor: "Монитор" #NT!
+  CORELLIAN_defender: "Защитник" #NT!
+  CORELLIAN_lillibanca: "Лиллибанка" #NT!
+  CORELLIAN_bloodstripe: "Кровавый след" #NT!
+  CORELLIAN_determination: "Решимость" #NT!
+  CORELLIAN_gus_talon: "Гас Тэлон" #NT!
+  CORELLIAN_gus_treta: "Гус Трета" #NT!
+  CORELLIAN_fire_of_drall: "Огонь Дролла" #NT!
+  CORELLIAN_bond_of_talus: "Связь Талуса" #NT!
+  CORELLIAN_tralus_resplend: "Тралус Блистательный" #NT!
+  CORELLIAN_selonian_queen: "Королева Селонии" #NT!
+  CORELLIAN_glory_corellia: "Слава Кореллии" #NT!
+  CORELLIAN_crollia: "Кроллия" #NT!
+  CORELLIAN_soronia: "Сорония" #NT!
+  CORELLIAN_rayless: "Беспросветный" #NT!
+  CORELLIAN_lantern: "Фонарь" #NT!
+  CORELLIAN_razorcat: "Бритвокот" #NT!
+  CORELLIAN_trifecta: "Трифекта" #NT!
+  CORELLIAN_corell: "Корелл" #NT!
+  CORELLIAN_brotherhood: "Братство" #NT!
+  CORELLIAN_kith: "Кит" #NT!
+  CORELLIAN_kin: "Родство" #NT!
+  CORELLIAN_elder_brother: "Старший брат" #NT!
+  CORELLIAN_middle_child: "Среднее дитя" #NT!
+  CORELLIAN_grass_snake: "Травяная змея" #NT!
+  CORELLIAN_sand_panther: "Песчаная пантера" #NT!
+  CORELLIAN_kor_vella: "Кор Велла" #NT!
+  CORELLIAN_doaba_guerfel: "Доаба-Гуэрфел" #NT!
+  CORELLIAN_bela_vistal: "Бела Вистал" #NT!
+  CORELLIAN_founder: "Основатель" #NT!
+  CORELLIAN_rabaan: "Рабаан" #NT!
+  CORELLIAN_socorro: "Сокорро" #NT!
+  CORELLIAN_trulalis: "Трулалис" #NT!
+  CORELLIAN_trigalis: "Тригалис" #NT!
+  CORELLIAN_meridian: "Меридиан" #NT!
+  CORELLIAN_contemplanys: "Контемпланис" #NT!
+  CORELLIAN_hermi: "Херми" #NT!
+  CORELLIAN_nomad: "Кочевник" #NT!
+  CORELLIAN_king_berethron: "Король Беретрон" #NT!
+  CORELLIAN_diktat: "Диктат" #NT!
+  CORELLIAN_senator_fordox: "Сенатор Фордокс" #NT!
+  CORELLIAN_merricope: "Меррикоп" #NT!
+  CORELLIAN_thomree: "Томри" #NT!
+  CORELLIAN_gallamby: "Галламби" #NT!
+  CORELLIAN_beruss: "Берусс" #NT!
+  CORELLIAN_sanctuary: "Убежище" #NT!
+  CORELLIAN_governor_marcha: "Губернатор Марча" #NT!
+  CORELLIAN_vreni: "Врени" #NT!
+  CORELLIAN_hunchuzuc: "Хунчузук" #NT!
+  CORELLIAN_agrilat: "Агрилат" #NT!
+  CORELLIAN_denendre: "Денендре" #NT!
+  CORELLIAN_dregan: "Дреган" #NT!
+  CORELLIAN_bindreg: "Биндрег" #NT!
+  CORELLIAN_kenalpa: "Кеналпа" #NT!
+  CORELLIAN_blackfish: "Чёрная рыба" #NT!
+  CORELLIAN_bageraset: "Багерасет" #NT!
+  CORELLIAN_blethyline: "Блетилин" #NT!
+  CORELLIAN_canoid: "Каноид" #NT!
+  CORELLIAN_carrion_spat: "Тухлоклюй" #NT!
+  CORELLIAN_banshee: "Банши" #NT!
+  CORELLIAN_sea_ray: "Морской скат" #NT!
+  CORELLIAN_slice_hound: "Саблезубая гончая" #NT!
+  CORELLIAN_dire_cat: "Лютокот" #NT!
+  CORELLIAN_durni: "Дурни" #NT!
+  CORELLIAN_gronda: "Гронда" #NT!
+  CORELLIAN_gubbur: "Губбур" #NT!
+  CORELLIAN_gulginaw: "Гулгинау" #NT!
+  CORELLIAN_gurrcat: "Гарр-кот" #NT!
+  CORELLIAN_krevol: "Кревол" #NT!
+  CORELLIAN_jaggalor: "Джаггалор" #NT!
+  CORELLIAN_krahbu: "Крахбу" #NT!
+  CORELLIAN_murra: "Мурра" #NT!
+  CORELLIAN_paledor: "Паледор" #NT!
+  CORELLIAN_pulsar_skate: "Скат-пульсар" #NT!
+  CORELLIAN_raptor: "Раптор" #NT!
+  CORELLIAN_razor_cat: "Бритвокот" #NT!
+  CORELLIAN_sharnaff: "Шарнафф" #NT!
+  CORELLIAN_slopewing: "Скошкрыл" #NT!
+  CORELLIAN_tabage: "Табага" #NT!
+  CORELLIAN_tarkaline: "Таркалин" #NT!
+  CORELLIAN_vrelt: "Врелт" #NT!
+  CORELLIAN_wonat: "Вонат" #NT!
+  CORELLIAN_gallant: "Галантный" #NT!
+  CORELLIAN_recluse: "Отшельник" #NT!
+  CORELLIAN_liberty: "Свобода" #NT!
+  CORELLIAN_righteous: "Праведный" #NT!
+  CORELLIAN_universal: "Универсальный" #NT!
+  CORELLIAN_beneficence: "Благодеяние" #NT!
+  CORELLIAN_autark: "Автарк" #NT!
+  CORELLIAN_autonomy: "Автономность" #NT!
+  CORELLIAN_autonomous: "Автономный" #NT!
+  CORELLIAN_home_rule: "Правило Дома" #NT!
+  CORELLIAN_daring: "Удалой" #NT!
+  CORELLIAN_valorant: "Доблестный" #NT!
+  CORELLIAN_void_sister: "Сестра Пустоты" #NT!
+  CORELLIAN_center_bound: "Центральный элемент" #NT!
+  CORELLIAN_fire_of_the_free: "Огонь Свободы" #NT!
+  CORELLIAN_agency: "Агентство" #NT!
+  CORELLIAN_free_will: "Свободная воля" #NT!
+  CORELLIAN_settler: "Поселенец" #NT!
+  CORELLIAN_trekker: "Треккер" #NT!
+  CORELLIAN_pioneer: "Первооткрыватель" #NT!
+  CORELLIAN_expedition: "Экспедиция" #NT!
+  CORELLIAN_firebolt: "Огненная стрела" #NT!
+  CORELLIAN_ardent: "Пылкий" #NT!
+  CORELLIAN_chief: "Вождь" #NT!
+  CORELLIAN_constitution: "Конституция" #NT!
+  CORELLIAN_dextrous: "Проворный" #NT!
+  CORELLIAN_freedom: "Свобода воли" #NT!
+  CORELLIAN_gladiator: "Гладиатор" #NT!
+  CORELLIAN_monsoon: "Пробуждение" #NT!
+  CORELLIAN_zimitz: "Зимиц" #NT!
+  CORELLIAN_patriot: "Патриот" #NT!
+  CORELLIAN_port_royal: "Порт-Роял" #NT!
+  CORELLIAN_providence: "Провидение" #NT!
+  CORELLIAN_starwolf: "Звёздный волк" #NT!
+  CORELLIAN_squall: "Шквал" #NT!
+  CORELLIAN_stockade: "Частокол" #NT!
+  CORELLIAN_rampart: "Вал" #NT!
+  CORELLIAN_loyal: "Верный" #NT!
+  CORELLIAN_invincible: "Неукротимый" #NT!
+  CORELLIAN_spearhead: "Острие" #NT!
+  CORELLIAN_impeccable: "Безупречный" #NT!
+  CORELLIAN_pathfinder: "Следопыт" #NT!
+  CORELLIAN_red_cloud: "Красное облако" #NT!
+  CORELLIAN_victorious: "Победоносный" #NT!
+  CORELLIAN_arko: "Арко" #NT!
+  CORELLIAN_defiant: "Дерзновенный" #NT!
+  CORELLIAN_valiant: "Xрабрец" #NT!
+  CORELLIAN_antares: "Антарес" #NT!
+  CORELLIAN_resolute: "Решительный" #NT!
+  CORELLIAN_beckoner: "Манящий" #NT!
+  CORELLIAN_steadfast: "Твердокаменный" #NT!
+  CORELLIAN_stardust: "Звёздная пыль" #NT!
+  CORELLIAN_insurrection: "Восстание" #NT!
+  CORELLIAN_freedom_fighter: "Борец за свободу" #NT!
+  CORELLIAN_neebray: "Нибрай" #NT!
+  CORELLIAN_supernova: "Сверхновая" #NT!
+  CORELLIAN_golden_age: "Золотой век" #NT!
+  CORELLIAN_jonash: "Джонаш" #NT!
+  CORELLIAN_prince_admiral: "Принц-адмирал" #NT!
+  CORELLIAN_cape_alsaka: "Мыс Альсака" #NT!
+  CORELLIAN_korol: "Корол" #NT!
+  CORELLIAN_star_stallion: "Звёздный жеребец" #NT!
+  CORELLIAN_buccaneer: "Буканьер" #NT!
+  CORELLIAN_freehold: "Фригольд" #NT!
+  CORELLIAN_equality: "Равенство" #NT!
+  CORELLIAN_frontier: "Фронтир" #NT!
+  CORELLIAN_homestead: "Усадьба" #NT!
+  CORELLIAN_newcomer: "Новичок" #NT!
+  CORELLIAN_trailblazer: "Первопроходец" #NT!
+  CORELLIAN_halcyon: "Безмятежный" #NT!
+  CORELLIAN_longspur: "Подорожник" #NT!
+  CORELLIAN_itinerant: "Кочующий" #NT!
+  CORELLIAN_wayfarer: "Путник" #NT!
+  CORELLIAN_wanderer: "Скиталец" #NT!
+  CORELLIAN_roamer: "Бродяга" #NT!
+  CORELLIAN_farstrike: "Дальний удар" #NT!
+  CORELLIAN_brawler: "Буян" #NT!
+  CORELLIAN_brazen: "Наглый" #NT!
+  CORELLIAN_representative: "Делегат" #NT!
+  CORELLIAN_threkin: "Трекин" #NT!
+  CORELLIAN_jaina_the_elder: "Джейна Старейшина" #NT!
+  CORELLIAN_jaina_t_younger: "Джайна Юная" #NT!
+  CORELLIAN_free_reign: "Свободное правление" #NT!
+  CORELLIAN_free_hand: "Свободная рука" #NT!
+  CORELLIAN_liberality: "Либеральность" #NT!
+  CORELLIAN_corell_first: "Корелл-1" #NT!
+  CORELLIAN_lawbringer: "Законодатель" #NT!
+  CORELLIAN_demos: "Демос" #NT!
+  CORELLIAN_tolerance: "Терпимость" #NT!
+  CORELLIAN_prudence: "Благоразумие" #NT!
+  CORELLIAN_prudential: "Благоразумный" #NT!
+  CORELLIAN_forbearance: "Снисходительность" #NT!
+  CORELLIAN_magnanimity: "Великодушие" #NT!
+  CORELLIAN_permissive: "Дозволяющий" #NT!
+  CORELLIAN_fortitude: "Стойкость" #NT!
+  CORELLIAN_perseverance: "Настойчивость" #NT!
+  CORELLIAN_torrent: "Поток" #NT!
+  CORELLIAN_freebird: "Вольная птица" #NT!
+  CORELLIAN_novaflame: "Пламя звезды" #NT!
+  CORELLIAN_starhawk: "Звёздный ястреб" #NT!
+  CORELLIAN_starbird: "Звёздная птица" #NT!
+  CORELLIAN_ramos: "Рамос" #NT!
+  CORELLIAN_bedoch: "Бедок" #NT!
+  CORELLIAN_redick: "Редик" #NT!
+  CORELLIAN_green_council: "Зелёный совет" #NT!
+  CORELLIAN_berethon: "Беретон" #NT!
+  CORELLIAN_cerulian: "Церулиан" #NT!
+  CORELLIAN_korin: "Корин" #NT!
+  CORELLIAN_redris: "Редрис" #NT!
+  CORELLIAN_krahnn: "Крахнн" #NT!
+  CORELLIAN_qella_tak: "Келла'так" #NT!
+  CORELLIAN_thunder_dragon: "Штормовой дракон" #NT!
+  CORELLIAN_seldin: "Селдин" #NT!
+  CORELLIAN_taradon: "Тарадон" #NT!
+  CORELLIAN_saving_grace: "Спасительная благодать" #NT!
+  CORELLIAN_diligent: "Прилежный" #NT!
+  CORELLIAN_emerald_lance: "Изумрудное копьё" #NT!
+  CORELLIAN_nova_whisper: "Шёпот новы" #NT!
+  CORELLIAN_saxan_s_pride: "Гордость Саксана" #NT!
+  CORELLIAN_silaban: "Силабан" #NT!
+  CORELLIAN_deliverance: "Избавление" #NT!
+  CORELLIAN_pride_of_the_rim: "Гордость Кольца" #NT!
+  CORELLIAN_retribution: "Возмездие" #NT!
+  CORELLIAN_sundered_heart: "Разбитое сердце" #NT!
+  CORELLIAN_farstar: "Далёкая звезда" #NT!
+  CORELLIAN_liberator: "Освободитель" #NT!
+  CORELLIAN_agara: "Агара" #NT!
+  CORELLIAN_amber_star: "Янтарная звезда" #NT!
+  CORELLIAN_ast_ria: "Аст'рия" #NT!
+  CORELLIAN_stin: "Стин" #NT!
+  CORELLIAN_athega: "Атега" #NT!
+  CORELLIAN_aurora: "Аврора" #NT!
+  CORELLIAN_badlands: "Пустошь" #NT!
+  CORELLIAN_beacon: "Маяк" #NT!
+  CORELLIAN_bilbringi: "Билбринджи" #NT!
+  CORELLIAN_birkby: "Биркби" #NT!
+  CORELLIAN_bixby: "Биксби" #NT!
+  CORELLIAN_blackmist: "Чёрный туман" #NT!
+  CORELLIAN_blazen: "Блаженный" #NT!
+  CORELLIAN_borealis: "Бореалис" #NT!
+  CORELLIAN_burke: "Бёрк" #NT!
+  CORELLIAN_candor: "Искренность" #NT!
+  CORELLIAN_charger: "Заряжающий" #NT!
+  CORELLIAN_clavier: "Клавир" #NT!
+  CORELLIAN_claw: "Коготь" #NT!
+  CORELLIAN_coen: "Коэн" #NT!
+  CORELLIAN_constrictor: "Констриктор" #NT!
+  CORELLIAN_controller: "Контроллер" #NT!
+  CORELLIAN_crescent: "Полумесяц" #NT!
+  CORELLIAN_cularin: "Куларин" #NT!
+  CORELLIAN_dar_es: "Дар Эс" #NT!
+  CORELLIAN_dinko: "Динко" #NT!
+  CORELLIAN_emancipator: "Эмансипатор" #NT!
+  CORELLIAN_eridain: "Эридайн" #NT!
+  CORELLIAN_ession_strike: "Удар Эссиона" #NT!
+  CORELLIAN_ethar: "Этар" #NT!
+  CORELLIAN_fa_loh_sui: "Фа-Лох-Суи" #NT!
+  CORELLIAN_falcon: "Сокол" #NT!
+  CORELLIAN_fang: "Клык" #NT!
+  CORELLIAN_farrelly: "Фаррелли" #NT!
+  CORELLIAN_filve: "Фильве" #NT!
+  CORELLIAN_firestorm: "Огненная буря" #NT!
+  CORELLIAN_gaaltura_v: "Гаалтура V" #NT!
+  CORELLIAN_galaxy_chance: "Шанс галактики" #NT!
+  CORELLIAN_geedon: "Гидон" #NT!
+  CORELLIAN_glaser: "Стекольщик" #NT!
+  CORELLIAN_glazer: "Глейзер" #NT!
+  CORELLIAN_godar: "Годар" #NT!
+  CORELLIAN_grappler: "Борец" #NT!
+  CORELLIAN_habatok: "Хабаток" #NT!
+  CORELLIAN_halifax: "Галифакс" #NT!
+  CORELLIAN_howlrunner: "Тоннельщик" #NT!
+  CORELLIAN_hyko: "Хайко" #NT!
+  CORELLIAN_intrepid: "Бестрепетный" #NT!
+  CORELLIAN_indefatigable: "Неутомимый" #NT!
+  CORELLIAN_jaina_s_light: "Свет Джейны" #NT!
+  CORELLIAN_janson: "Дженсон" #NT!
+  CORELLIAN_javelin: "Дротик" #NT!
+  CORELLIAN_judicator: "Вершитель" #NT!
+  CORELLIAN_keeper: "Хранитель" #NT!
+  CORELLIAN_kern_s_pride: "Гордость Керна" #NT!
+  CORELLIAN_korolev: "Королёв" #NT!
+  CORELLIAN_lance: "Пика" #NT!
+  CORELLIAN_last_hope: "Последняя надежда" #NT!
+  CORELLIAN_lauhu: "Лауху" #NT!
+  CORELLIAN_lialic_ii: "Лиалик II" #NT!
+  CORELLIAN_libra: "Либра" #NT!
+  CORELLIAN_magua: "Магуа" #NT!
+  CORELLIAN_mahan: "Махан" #NT!
+  CORELLIAN_manx: "Манкс" #NT!
+  CORELLIAN_mar_duun: "Мар Дуун" #NT!
+  CORELLIAN_masanya: "Масания" #NT!
+  CORELLIAN_neelian: "Нилиан" #NT!
+  CORELLIAN_novaflare: "Вспышка новы" #NT!
+  CORELLIAN_olrac_etnom: "Олрак Этном" #NT!
+  CORELLIAN_oramac: "Орамак" #NT!
+  CORELLIAN_petor: "Петор" #NT!
+  CORELLIAN_phazer_one: "Фазер-1" #NT!
+  CORELLIAN_phazer_two: "Фазер-2" #NT!
+  CORELLIAN_pushti: "Пушти" #NT!
+  CORELLIAN_qiluiy: "Килуй" #NT!
+  CORELLIAN_ram_s_head: "Баранья голова" #NT!
+  CORELLIAN_rancor_s_tooth: "Зубы ранкора" #NT!
+  CORELLIAN_ranger: "Рейнджер" #NT!
+  CORELLIAN_ranolfo: "Ранольфо" #NT!
+  CORELLIAN_razor: "Бритва" #NT!
+  CORELLIAN_old_red: "Старый красный" #NT!
+  CORELLIAN_red_tooth: "Красный зуб" #NT!
+  CORELLIAN_renthal_s_fist: "Кулак Рентала" #NT!
+  CORELLIAN_ritam: "Ритам" #NT!
+  CORELLIAN_sable_three: "Сабля-3" #NT!
+  CORELLIAN_safonne_s_sword: "Меч Сафонна" #NT!
+  CORELLIAN_saki: "Саки" #NT!
+  CORELLIAN_scarlet_thranta: "Алая транта" #NT!
+  CORELLIAN_shredder: "Измельчитель" #NT!
+  CORELLIAN_shurik: "Шурик" #NT!
+  CORELLIAN_smokeswimmer: "Дымильщик-плавунец" #NT!
+  CORELLIAN_sonnel: "Соннель" #NT!
+  CORELLIAN_spartzen: "Спартцен" #NT!
+  CORELLIAN_stallion: "Жеребец" #NT!
+  CORELLIAN_starfall: "Звездопад" #NT!
+  CORELLIAN_starlight_wander: "Звёздный странник" #NT!
+  CORELLIAN_stellar_damsel: "Звёздная дева" #NT!
+  CORELLIAN_storm: "Шторм" #NT!
+  CORELLIAN_stormstrike: "Удар бури" #NT!
+  CORELLIAN_striker: "Ударный" #NT!
+  CORELLIAN_sundog: "Ложное солнце" #NT!
+  CORELLIAN_talon: "Коготь" #NT!
+  CORELLIAN_tarnta_s_fang: "Клык Тарнты" #NT!
+  CORELLIAN_thaere_runner: "Бегун Таэре" #NT!
+  CORELLIAN_thrasher: "Молотильщик" #NT!
+  CORELLIAN_thunder: "Гром" #NT!
+  CORELLIAN_thunderstrike: "Раскат грома" #NT!
+  CORELLIAN_tiger_one: "Тигр-1" #NT!
+  CORELLIAN_triumph: "Триумф" #NT!
+  CORELLIAN_typhoon: "Тайфун" #NT!
+  CORELLIAN_ullet: "Уллет" #NT!
+  CORELLIAN_viper: "Гадюка" #NT!
+  CORELLIAN_vop_hui: "Воп Хуэй" #NT!
+  CORELLIAN_vorknkx: "Воркнккс" #NT!
+  CORELLIAN_warrior: "Воитель" #NT!
+  CORELLIAN_windswept: "Ветреный" #NT!
+  CORELLIAN_wolf_pack: "Волчья стая" #NT!
+  CORELLIAN_zahtjav: "Захтджяв" #NT!
+  CORELLIAN_andronikos: "Андроникос" #NT!
+  CORELLIAN_memory: "Память" #NT!
+  CORELLIAN_memento: "Памятная вещица" #NT!
+  CORELLIAN_trade_wind: "Пассат" #NT!
+  CORELLIAN_wanderlust: "Жажда странствий" #NT!
+  CORELLIAN_seeker: "Искатель" #NT!
+  CORELLIAN_skyrunner: "Высотобежец" #NT!
+  CORELLIAN_boundless: "Безграничный" #NT!
+  CORELLIAN_curiosity: "Любопытство" #NT!
+  CORELLIAN_far_reach: "Дальний предел" #NT!
+  CORELLIAN_vagabond: "Шатун" #NT!
+  CORELLIAN_visitor: "Посетитель" #NT!
+  CORELLIAN_correl_torch: "Факел Коррела" #NT!
+  CORELLIAN_corsuca_light: "Свет коруса" #NT!
+  CORELLIAN_wagoneer: "Возница" #NT!
+  CORELLIAN_corellian_trail: "Кореллианская тропа" #NT!
+  CORELLIAN_forder: "Фордер" #NT!
+  CORELLIAN_cortrekker: "КорТреккер" #NT!
+  CORELLIAN_nova_coronet: "Нова Коронет" #NT!
+  CORELLIAN_golden_roamer: "Золотой скиталец" #NT!
+  CORELLIAN_fresh_start: "Бодрый старт" #NT!
+  CORELLIAN_new_hope: "Новая надежда" #NT!
+  CORELLIAN_prosperity: "Процветание" #NT!
+  CORELLIAN_settler_three: "Поселенец-3" #NT!
+  CORELLIAN_bushwacker: "Партизан" #NT!
+  CORELLIAN_const_aurek: "Конструктор «Аурек»" #NT!
+  CORELLIAN_const_besh: "Конструктор «Беш»" #NT!
+  CORELLIAN_const_cresh: "Конструктор «Креш»" #NT!
+  CORELLIAN_const_dorn: "Конструктор «Дорн»" #NT!
+  CORELLIAN_const_forn: "Конструктор «Форн»" #NT!
+  CORELLIAN_const_grek: "Конструктор «Грек»" #NT!
+  CORELLIAN_const_herf: "Конструктор «Херф»" #NT!
+  CORELLIAN_const_isk: "Конструктор «Иск»" #NT!
+  CORELLIAN_const_jenth: "Конструктор «Джент»" #NT!
+  CORELLIAN_const_krill: "Конструктор «Крилл»" #NT!
+  CORELLIAN_const_leth: "Конструктор «Лет»" #NT!
+  CORELLIAN_const_mern: "Конструктор «Мерн»" #NT!
+  CORELLIAN_const_nern: "Конструктор «Нерн»" #NT!
+  CORELLIAN_const_osk: "Конструктор «Оск»" #NT!
+  CORELLIAN_const_peth: "Конструктор «Пент»" #NT!
+  CORELLIAN_const_senth: "Конструктор «Сент»" #NT!
+  CORELLIAN_const_trill: "Конструктор «Трилл»" #NT!
+  CORELLIAN_const_usk: "Конструктор «Уск»" #NT!
+  CORELLIAN_const_vev: "Конструктор «Вев»" #NT!
+  CORELLIAN_const_wesk: "Конструктор «Уэск»" #NT!
+  CORELLIAN_const_xesh: "Конструктор «Зеш»" #NT!
+  CORELLIAN_const_yirt: "Конструктор «Йирт»" #NT!
+  CORELLIAN_const_zerek: "Конструктор «Зерек»" #NT!
+  CORELLIAN_const_cherek: "Конструктор «Черек»" #NT!
+  CORELLIAN_const_qek: "Конструктор «Кек»" #NT!
+  CORELLIAN_const_resh: "Конструктор «Реш»" #NT!
+  CORELLIAN_const_enth: "Конструктор «Энт»" #NT!
+  CORELLIAN_const_onith: "Конструктор «Онит»" #NT!
+  CORELLIAN_const_krenth: "Конструктор «Крент»" #NT!
+  CORELLIAN_const_nen: "Конструктор «Нен»" #NT!
+  CORELLIAN_const_orenth: "Конструктор «Орент»" #NT!
+  CORELLIAN_const_shen: "Конструктор «Шен»" #NT!
+  CORELLIAN_const_thesh: "Конструктор «Теш»" #NT!
+  CORELLIAN_ground_transport: "Наземный транспорт" #NT!
+  CORELLIAN_citadel: "Цитадель" #NT!
+  CORELLIAN_gateway: "Шлюз" #NT!
+  CORELLIAN_riverland: "Речные земли" #NT!
+  CORELLIAN_thaos: "Таос" #NT!
+  CORELLIAN_gold_beach: "Золотой пляж" #NT!
+  CORELLIAN_dregin_s_pike: "Пик Дрегана" #NT!
+  CORELLIAN_suntir: "Сунтир" #NT!
+  CORELLIAN_coronet: "Коронет" #NT!
+  CORELLIAN_rhaler_s_bastion: "Бастион Ралера" #NT!
+  CORELLIAN_doaba: "Доаба" #NT!
+  CORELLIAN_guerfel: "Гуэрфел" #NT!
+  CORELLIAN_mount_malal: "Гора Малал" #NT!
+  CORELLIAN_blastfield: "Бластфилд" #NT!
+  CORELLIAN_axial_park: "Осевой парк" #NT!
+  CORELLIAN_labor_valley: "Промышленная долина" #NT!
+  CORELLIAN_inc_islands: "Корпоративные острова" #NT!
+  CORELLIAN_centerpoint: "Балансир" #NT!
+  CORELLIAN_goldoa: "Голдоа" #NT!
+  CORELLIAN_faramar: "Фарамар" #NT!
+  CORELLIAN_kankaura: "Канкаура" #NT!
+  CORELLIAN_dreamland: "Страна грёз" #NT!
+  CORELLIAN_bombard: "Бомбарда" #NT!
+  CORELLIAN_ballista: "Баллиста" #NT!
+  CORELLIAN_catapult: "Катапульта" #NT!
+  CORELLIAN_harpoon: "Гарпун" #NT!
+  CORELLIAN_polybolos: "Полибол" #NT!
+  CORELLIAN_culverin: "Кулеврина" #NT!
+  CORELLIAN_CLASS_foray: "Набег" #NT!
+  CORELLIAN_CLASS_praetorian: "Преторианец" #NT!
+  CORELLIAN_CLASS_hammerhead: "Молотоглав" #NT!
+  CORELLIAN_CLASS_valorant: "Доблестный" #NT!
+  CORELLIAN_CLASS_invincible: "Неукротимый" #NT!
+  CORELLIAN_CLASS_inexpungable: "Неприступный" #NT!
+  CORELLIAN_CLASS_dynamic: "Динамичный" #NT!
+  CORELLIAN_CLASS_starscape: "Звёздный пейзаж" #NT!
+  CORELLIAN_FLEET_battle_group_corellia: "Боевая группа «Кореллия»" #NT!
+  CORELLIAN_FLEET_battle_group_talus: "Боевая группа «Талус»" #NT!
+  CORELLIAN_FLEET_battle_group_tralus: "Боевая группа «Тралус»" #NT!
+  CORELLIAN_FLEET_battle_group_drall: "Боевая группа «Дролл»" #NT!
+  CORELLIAN_FLEET_battle_group_selonia: "Боевая группа «Селония»" #NT!
+  CORELLIAN_FLEET_SEQUENTIAL_corsec_squadron: "$ORD$ Эскадрилья КорБеза" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_corsec_detachment: "$ORD$ Отряд КорБеза" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_volunteer_expeditionary_force: "$ORD$ Добровольческий экспедиционный корпус" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Наёмные стрелки" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Армия клонов" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Группа охотников-убийц" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Матрица наземной обороны" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Пси-коммандос" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  CORELLIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+  CORELLIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+  CORELLIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+  CORELLIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+  CORELLIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+  CORELLIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+  CORELLIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+  CORELLIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+  CORELLIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+  CORELLIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Биоинженерный эскадрон" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Гарнизонные силы" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Механизированный гарнизон" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  CORELLIAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  CORELLIAN_CHR_thrackan: "Thrackan" #NT!
+  CORELLIAN_CHR_aiden: "Aiden" #NT!
+  CORELLIAN_CHR_wedge: "Wedge" #NT!
+  CORELLIAN_CHR_dur: "Dur" #NT!
+  CORELLIAN_CHR_keiran: "Keiran" #NT!
+  CORELLIAN_CHR_com: "Com" #NT!
+  CORELLIAN_CHR_shor: "Shor" #NT!
+  CORELLIAN_CHR_dupas: "Dupas" #NT!
+  CORELLIAN_CHR_zekka: "Zekka" #NT!
+  CORELLIAN_CHR_daclif: "Daclif" #NT!
+  CORELLIAN_CHR_crix: "Crix" #NT!
+  CORELLIAN_CHR_kirtan: "Kirtan" #NT!
+  CORELLIAN_CHR_corran: "Corran" #NT!
+  CORELLIAN_CHR_gil: "Джил" #NT!
+  CORELLIAN_CHR_diric: "Дирик" #NT!
+  CORELLIAN_CHR_doman: "Доман" #NT!
+  CORELLIAN_CHR_aidel: "Айдел" #NT!
+  CORELLIAN_CHR_saz: "Саз" #NT!
+  CORELLIAN_CHR_jonash: "Jonash" #NT!
+  CORELLIAN_CHR_threkin: "Threkin" #NT!
+  CORELLIAN_CHR_randil: "Randil" #NT!
+  CORELLIAN_CHR_den: "Den" #NT!
+  CORELLIAN_CHR_han: "Han" #NT!
+  CORELLIAN_CHR_korol: "Korol" #NT!
+  CORELLIAN_CHR_jacen: "Jacen" #NT!
+  CORELLIAN_CHR_karl: "Карл" #NT!
+  CORELLIAN_CHR_mathieu: "Mathieu" #NT!
+  CORELLIAN_CHR_tettsel: "Tettsel" #NT!
+  CORELLIAN_CHR_jagged: "Jagged" #NT!
+  CORELLIAN_CHR_bayle: "Bayle" #NT!
+  CORELLIAN_CHR_tormax: "Tormax" #NT!
+  CORELLIAN_CHR_seb: "Себ" #NT!
+  CORELLIAN_CHR_jareck: "Jareck" #NT!
+  CORELLIAN_CHR_jurnel: "Jurnel" #NT!
+  CORELLIAN_CHR_vol: "Vol" #NT!
+  CORELLIAN_CHR_conil: "Conil" #NT!
+  CORELLIAN_CHR_tekil: "Tekil" #NT!
+  CORELLIAN_CHR_shi: "Shi" #NT!
+  CORELLIAN_CHR_myron: "Myron" #NT!
+  CORELLIAN_CHR_jab: "Jab" #NT!
+  CORELLIAN_CHR_garm: "Garm" #NT!
+  CORELLIAN_CHR_odair: "Odair" #NT!
+  CORELLIAN_CHR_draykken: "Draykken" #NT!
+  CORELLIAN_CHR_hraykken: "Hraykken" #NT!
+  CORELLIAN_CHR_hiram: "Hiram" #NT!
+  CORELLIAN_CHR_anson: "Anson" #NT!
+  CORELLIAN_CHR_crev: "Crev" #NT!
+  CORELLIAN_CHR_natt: "Natt" #NT!
+  CORELLIAN_CHR_sunny: "Sunny" #NT!
+  CORELLIAN_CHR_dev: "Dev" #NT!
+  CORELLIAN_CHR_grov: "Grov" #NT!
+  CORELLIAN_CHR_ezra: "Ezra" #NT!
+  CORELLIAN_CHR_ront: "Ront" #NT!
+  CORELLIAN_CHR_jerem: "Jerem" #NT!
+  CORELLIAN_CHR_monti: "Monti" #NT!
+  CORELLIAN_CHR_cole: "Cole" #NT!
+  CORELLIAN_CHR_jorj: "Jorj" #NT!
+  CORELLIAN_CHR_lanius: "Lanius" #NT!
+  CORELLIAN_CHR_jonah: "Jonah" #NT!
+  CORELLIAN_CHR_jesseb: "Jesseb" #NT!
+  CORELLIAN_CHR_lon: "Lon" #NT!
+  CORELLIAN_CHR_banyon: "Banyon" #NT!
+  CORELLIAN_CHR_abagga: "Abagga" #NT!
+  CORELLIAN_CHR_bobor: "Bobor" #NT!
+  CORELLIAN_CHR_macz: "Macz" #NT!
+  CORELLIAN_CHR_cubber: "Cubber" #NT!
+  CORELLIAN_CHR_waroon: "Waroon" #NT!
+  CORELLIAN_CHR_sal: "Sal" #NT!
+  CORELLIAN_CHR_darvis: "Darvis" #NT!
+  CORELLIAN_CHR_skerrick: "Skerrick" #NT!
+  CORELLIAN_CHR_davrin: "Davrin" #NT!
+  CORELLIAN_CHR_deegan: "Deegan" #NT!
+  CORELLIAN_CHR_deflaros: "Deflaros" #NT!
+  CORELLIAN_CHR_sann: "Sann" #NT!
+  CORELLIAN_CHR_rothgar: "Rothgar" #NT!
+  CORELLIAN_CHR_dex: "Dex" #NT!
+  CORELLIAN_CHR_didjoa: "Didjoa" #NT!
+  CORELLIAN_CHR_myn: "Myn" #NT!
+  CORELLIAN_CHR_valon: "Valon" #NT!
+  CORELLIAN_CHR_chelch: "Chelch" #NT!
+  CORELLIAN_CHR_yustavan: "Yustavan" #NT!
+  CORELLIAN_CHR_tev: "Tev" #NT!
+  CORELLIAN_CHR_ivr: "Ivr" #NT!
+  CORELLIAN_CHR_atlan: "Atlan" #NT!
+  CORELLIAN_CHR_rik: "Rik" #NT!
+  CORELLIAN_CHR_voba: "Voba" #NT!
+  CORELLIAN_CHR_shol: "Shol" #NT!
+  CORELLIAN_CHR_thale: "Thale" #NT!
+  CORELLIAN_CHR_darv: "Darv" #NT!
+  CORELLIAN_CHR_erno: "Erno" #NT!
+  CORELLIAN_CHR_falco: "Falco" #NT!
+  CORELLIAN_CHR_barr: "Barr" #NT!
+  CORELLIAN_CHR_harlon: "Harlon" #NT!
+  CORELLIAN_CHR_annor: "Annor" #NT!
+  CORELLIAN_CHR_dannl: "Dannl" #NT!
+  CORELLIAN_CHR_chak: "Chak" #NT!
+  CORELLIAN_CHR_davin: "Davin" #NT!
+  CORELLIAN_CHR_soontir: "Soontir" #NT!
+  CORELLIAN_CHR_todr: "Todr" #NT!
+  CORELLIAN_CHR_almark: "Almark" #NT!
+  CORELLIAN_CHR_ilim: "Ilim" #NT!
+  CORELLIAN_CHR_ecclessis: "Ecclessis" #NT!
+  CORELLIAN_CHR_salovan: "Salovan" #NT!
+  CORELLIAN_CHR_mich: "Mich" #NT!
+  CORELLIAN_CHR_jace: "Jace" #NT!
+  CORELLIAN_CHR_crale: "Crale" #NT!
+  CORELLIAN_CHR_zorajas: "Zorajas" #NT!
+  CORELLIAN_CHR_jaylon: "Jaylon" #NT!
+  CORELLIAN_CHR_nov: "Nov" #NT!
+  CORELLIAN_CHR_gerrol: "Gerrol" #NT!
+  CORELLIAN_CHR_markus: "Markus" #NT!
+  CORELLIAN_CHR_pharnis: "Pharnis" #NT!
+  CORELLIAN_CHR_ellias: "Ellias" #NT!
+  CORELLIAN_CHR_scolex: "Scolex" #NT!
+  CORELLIAN_CHR_de_hoff: "De'hoff" #NT!
+  CORELLIAN_CHR_mramo: "Mramo" #NT!
+  CORELLIAN_CHR_elias: "Elias" #NT!
+  CORELLIAN_CHR_neeja: "Neeja" #NT!
+  CORELLIAN_CHR_kenth: "Kenth" #NT!
+  CORELLIAN_CHR_pol: "Pol" #NT!
+  CORELLIAN_CHR_viktor: "Viktor" #NT!
+  CORELLIAN_CHR_janzel: "Janzel" #NT!
+  CORELLIAN_CHR_hendrick: "Hendrick" #NT!
+  CORELLIAN_CHR_rodin: "Rodin" #NT!
+  CORELLIAN_CHR_enneth: "Enneth" #NT!
+  CORELLIAN_CHR_braganti: "Braganti" #NT!
+  CORELLIAN_CHR_helfin: "Helfin" #NT!
+  CORELLIAN_CHR_jenos: "Jenos" #NT!
+  CORELLIAN_CHR_ilyamo: "Ilyamo" #NT!
+  CORELLIAN_CHR_gol: "Gol" #NT!
+  CORELLIAN_CHR_falan: "Falan" #NT!
+  CORELLIAN_CHR_dinnik: "Dinnik" #NT!
+  CORELLIAN_CHR_irek: "Irek" #NT!
+  CORELLIAN_CHR_bran: "Bran" #NT!
+  CORELLIAN_CHR_jabi: "Jabi" #NT!
+  CORELLIAN_CHR_jakir: "Jakir" #NT!
+  CORELLIAN_CHR_mack: "Mack" #NT!
+  CORELLIAN_CHR_wildis: "Wildis" #NT!
+  CORELLIAN_CHR_tomi: "Tomi" #NT!
+  CORELLIAN_CHR_talan: "Talan" #NT!
+  CORELLIAN_CHR_joz: "Joz" #NT!
+  CORELLIAN_CHR_heff: "Heff" #NT!
+  CORELLIAN_CHR_kal: "Kal" #NT!
+  CORELLIAN_CHR_jori: "Jori" #NT!
+  CORELLIAN_CHR_joth: "Joth" #NT!
+  CORELLIAN_CHR_cohden: "Cohden" #NT!
+  CORELLIAN_CHR_ben: "Ben" #NT!
+  CORELLIAN_CHR_dorvin: "Dorvin" #NT!
+  CORELLIAN_CHR_craddock: "Craddock" #NT!
+  CORELLIAN_CHR_saul: "Saul" #NT!
+  CORELLIAN_CHR_denell: "Denell" #NT!
+  CORELLIAN_CHR_van: "Van" #NT!
+  CORELLIAN_CHR_lex: "Lex" #NT!
+  CORELLIAN_CHR_erel: "Erel" #NT!
+  CORELLIAN_CHR_kett: "Kett" #NT!
+  CORELLIAN_CHR_shoan: "Shoan" #NT!
+  CORELLIAN_CHR_tan: "Tan" #NT!
+  CORELLIAN_CHR_nevis: "Nevis" #NT!
+  CORELLIAN_CHR_bidlo: "Bidlo" #NT!
+  CORELLIAN_CHR_pel: "Pel" #NT!
+  CORELLIAN_CHR_dael: "Dael" #NT!
+  CORELLIAN_CHR_aram: "Aram" #NT!
+  CORELLIAN_CHR_yade: "Yade" #NT!
+  CORELLIAN_CHR_zuld: "Zuld" #NT!
+  CORELLIAN_CHR_yanus: "Yanus" #NT!
+  CORELLIAN_CHR_barid: "Barid" #NT!
+  CORELLIAN_CHR_dayvid: "Dayvid" #NT!
+  CORELLIAN_CHR_tosk: "Tosk" #NT!
+  CORELLIAN_CHR_hurn: "Hurn" #NT!
+  CORELLIAN_CHR_derremd: "Derremd" #NT!
+  CORELLIAN_CHR_janqual: "Janqual" #NT!
+  CORELLIAN_CHR_stax: "Stax" #NT!
+  CORELLIAN_CHR_fenig: "Fenig" #NT!
+  CORELLIAN_CHR_bek: "Bek" #NT!
+  CORELLIAN_CHR_romas: "Romas" #NT!
+  CORELLIAN_CHR_nozzo: "Nozzo" #NT!
+  CORELLIAN_CHR_kaj: "Kaj" #NT!
+  CORELLIAN_CHR_jasper: "Jasper" #NT!
+  CORELLIAN_CHR_aalos: "Aalos" #NT!
+  CORELLIAN_CHR_galidon: "Galidon" #NT!
+  CORELLIAN_CHR_jav: "Jav" #NT!
+  CORELLIAN_CHR_lorn: "Lorn" #NT!
+  CORELLIAN_CHR_gilad: "Gilad" #NT!
+  CORELLIAN_CHR_kazic: "Kazic" #NT!
+  CORELLIAN_CHR_malik: "Malik" #NT!
+  CORELLIAN_CHR_petro: "Petro" #NT!
+  CORELLIAN_CHR_phaeris: "Phaeris" #NT!
+  CORELLIAN_CHR_keekrim: "Keekrim" #NT!
+  CORELLIAN_CHR_ilir: "Ilir" #NT!
+  CORELLIAN_CHR_dubrank: "Dubrank" #NT!
+  CORELLIAN_CHR_mat: "Mat" #NT!
+  CORELLIAN_CHR_rallo: "Rallo" #NT!
+  CORELLIAN_CHR_custo: "Custo" #NT!
+  CORELLIAN_CHR_tait: "Tait" #NT!
+  CORELLIAN_CHR_ubis: "Ubis" #NT!
+  CORELLIAN_CHR_dash: "Dash" #NT!
+  CORELLIAN_CHR_rosh: "Rosh" #NT!
+  CORELLIAN_CHR_palejo: "Palejo" #NT!
+  CORELLIAN_CHR_andronikos: "Andronikos" #NT!
+  CORELLIAN_CHR_jerris: "Jerris" #NT!
+  CORELLIAN_CHR_rion: "Rion" #NT!
+  CORELLIAN_CHR_thaddeus: "Thaddeus" #NT!
+  CORELLIAN_CHR_barit: "Barit" #NT!
+  CORELLIAN_CHR_cyru: "Cyru" #NT!
+  CORELLIAN_CHR_jornel: "Jornel" #NT!
+  CORELLIAN_CHR_newin: "Newin" #NT!
+  CORELLIAN_CHR_pech: "Pech" #NT!
+  CORELLIAN_CHR_sevik: "Sevik" #NT!
+  CORELLIAN_CHR_finn: "Finn" #NT!
+  CORELLIAN_CHR_hershel: "Hershel" #NT!
+  CORELLIAN_CHR_hasadar: "Hasadar" #NT!
+  CORELLIAN_CHR_sherro: "Sherro" #NT!
+  CORELLIAN_CHR_silas: "Silas" #NT!
+  CORELLIAN_CHR_tennet: "Tennet" #NT!
+  CORELLIAN_CHR_jarred: "Jarred" #NT!
+  CORELLIAN_CHR_chun: "Chun" #NT!
+  CORELLIAN_CHR_keevy: "Keevy" #NT!
+  CORELLIAN_CHR_raan: "Raan" #NT!
+  CORELLIAN_CHR_jord: "Jord" #NT!
+  CORELLIAN_CHR_sarvel: "Sarvel" #NT!
+  CORELLIAN_CHR_galvain: "Galvain" #NT!
+  CORELLIAN_CHR_denjax: "Denjax" #NT!
+  CORELLIAN_CHR_booster: "Booster" #NT!
+  CORELLIAN_CHR_probus: "Probus" #NT!
+  CORELLIAN_CHR_pavik: "Pavik" #NT!
+  CORELLIAN_CHR_renn: "Renn" #NT!
+  CORELLIAN_CHR_mill: "Mill" #NT!
+  CORELLIAN_CHR_garv: "Garv" #NT!
+  CORELLIAN_CHR_harval: "Harval" #NT!
+  CORELLIAN_CHR_fynn: "Fynn" #NT!
+  CORELLIAN_CHR_hugo: "Hugo" #NT!
+  CORELLIAN_CHR_tam: "Tam" #NT!
+  CORELLIAN_CHR_denetrius: "Denetrius" #NT!
+  CORELLIAN_CHR_vinro: "Vinro" #NT!
+  CORELLIAN_CHR_wex: "Wex" #NT!
+  CORELLIAN_CHR_jos: "Jos" #NT!
+  CORELLIAN_CHR_fliry: "Fliry" #NT!
+  CORELLIAN_CHR_halden: "Halden" #NT!
+  CORELLIAN_CHR_emmin: "Emmin" #NT!
+  CORELLIAN_CHR_attico: "Attico" #NT!
+  CORELLIAN_CHR_edbr: "Edbr" #NT!
+  CORELLIAN_CHR_brimon: "Brimon" #NT!
+  CORELLIAN_CHR_genna: "Genna" #NT!
+  CORELLIAN_CHR_fyric: "Fyric" #NT!
+  CORELLIAN_CHR_iella: "Iella" #NT!
+  CORELLIAN_CHR_sena: "Sena" #NT!
+  CORELLIAN_CHR_irenez: "Irenez" #NT!
+  CORELLIAN_CHR_dani: "Dani" #NT!
+  CORELLIAN_CHR_jaina: "Jaina" #NT!
+  CORELLIAN_CHR_danielle: "Danielle" #NT!
+  CORELLIAN_CHR_tiion: "Tiion" #NT!
+  CORELLIAN_CHR_allana: "Allana" #NT!
+  CORELLIAN_CHR_ania: "Ania" #NT!
+  CORELLIAN_CHR_dalla: "Dalla" #NT!
+  CORELLIAN_CHR_mirax: "Mirax" #NT!
+  CORELLIAN_CHR_wynssa: "Wynssa" #NT!
+  CORELLIAN_CHR_tira: "Tira" #NT!
+  CORELLIAN_CHR_corinna: "Corinna" #NT!
+  CORELLIAN_CHR_kandria: "Kandria" #NT!
+  CORELLIAN_CHR_tess: "Tess" #NT!
+  CORELLIAN_CHR_vora: "Vora" #NT!
+  CORELLIAN_CHR_annissya: "Annissya" #NT!
+  CORELLIAN_CHR_myri: "Myri" #NT!
+  CORELLIAN_CHR_syal: "Syal" #NT!
+  CORELLIAN_CHR_zena: "Zena" #NT!
+  CORELLIAN_CHR_elga: "Elga" #NT!
+  CORELLIAN_CHR_frei: "Frei" #NT!
+  CORELLIAN_CHR_camelle: "Camelle" #NT!
+  CORELLIAN_CHR_deli: "Deli" #NT!
+  CORELLIAN_CHR_roxi: "Roxi" #NT!
+  CORELLIAN_CHR_elsen: "Elsen" #NT!
+  CORELLIAN_CHR_deena: "Deena" #NT!
+  CORELLIAN_CHR_areta: "Areta" #NT!
+  CORELLIAN_CHR_sulen: "Sulen" #NT!
+  CORELLIAN_CHR_bey: "Bey" #NT!
+  CORELLIAN_CHR_annali: "Annali" #NT!
+  CORELLIAN_CHR_dova: "Dova" #NT!
+  CORELLIAN_CHR_brusela: "Brusela" #NT!
+  CORELLIAN_CHR_anni: "Anni" #NT!
+  CORELLIAN_CHR_chai: "Chai" #NT!
+  CORELLIAN_CHR_kimmi: "Kimmi" #NT!
+  CORELLIAN_CHR_cora: "Cora" #NT!
+  CORELLIAN_CHR_vella: "Vella" #NT!
+  CORELLIAN_CHR_josta: "Josta" #NT!
+  CORELLIAN_CHR_viera: "Viera" #NT!
+  CORELLIAN_CHR_zindra: "Zindra" #NT!
+  CORELLIAN_CHR_coril: "Coril" #NT!
+  CORELLIAN_CHR_dayana: "Dayana" #NT!
+  CORELLIAN_CHR_destha: "Destha" #NT!
+  CORELLIAN_CHR_yama: "Yama" #NT!
+  CORELLIAN_CHR_atlanna: "Atlanna" #NT!
+  CORELLIAN_CHR_coraline: "Coraline" #NT!
+  CORELLIAN_CHR_trins: "Trins" #NT!
+  CORELLIAN_CHR_shandy: "Shandy" #NT!
+  CORELLIAN_CHR_karin: "Karin" #NT!
+  CORELLIAN_CHR_ajai: "Ajai" #NT!
+  CORELLIAN_CHR_naz: "Naz" #NT!
+  CORELLIAN_CHR_maris: "Maris" #NT!
+  CORELLIAN_CHR_bant_ena: "Bant'ena" #NT!
+  CORELLIAN_CHR_fianna: "Fianna" #NT!
+  CORELLIAN_CHR_teraeza: "Teraeza" #NT!
+  CORELLIAN_CHR_cilyn: "Cilyn" #NT!
+  CORELLIAN_CHR_jes: "Jes" #NT!
+  CORELLIAN_CHR_gixsa: "Gixsa" #NT!
+  CORELLIAN_CHR_ta_mara: "Ta-mara" #NT!
+  CORELLIAN_CHR_mara: "Mara" #NT!
+  CORELLIAN_CHR_tag: "Tag" #NT!
+  CORELLIAN_CHR_gallura: "Gallura" #NT!
+  CORELLIAN_CHR_bleys: "Bleys" #NT!
+  CORELLIAN_CHR_kylaena: "Kylaena" #NT!
+  CORELLIAN_CHR_hethra: "Hethra" #NT!
+  CORELLIAN_CHR_hirka: "Hirka" #NT!
+  CORELLIAN_CHR_sola: "Sola" #NT!
+  CORELLIAN_CHR_nola: "Nola" #NT!
+  CORELLIAN_CHR_iris: "Iris" #NT!
+  CORELLIAN_CHR_brali: "Brali" #NT!
+  CORELLIAN_CHR_relva: "Relva" #NT!
+  CORELLIAN_CHR_jasha: "Jasha" #NT!
+  CORELLIAN_CHR_jenna: "Jenna" #NT!
+  CORELLIAN_CHR_renga: "Renga" #NT!
+  CORELLIAN_CHR_nyche: "Nyche" #NT!
+  CORELLIAN_CHR_waria: "Waria" #NT!
+  CORELLIAN_CHR_erin: "Erin" #NT!
+  CORELLIAN_CHR_kalifa: "Kalifa" #NT!
+  CORELLIAN_CHR_vara: "Vara" #NT!
+  CORELLIAN_CHR_karena: "Karena" #NT!
+  CORELLIAN_CHR_kess: "Kess" #NT!
+  CORELLIAN_CHR_ala: "Ala" #NT!
+  CORELLIAN_CHR_kiza: "Kiza" #NT!
+  CORELLIAN_CHR_adele: "Adele" #NT!
+  CORELLIAN_CHR_vani: "Vani" #NT!
+  CORELLIAN_CHR_kym: "Kym" #NT!
+  CORELLIAN_CHR_shandria: "Shandria" #NT!
+  CORELLIAN_CHR_laudica: "Laudica" #NT!
+  CORELLIAN_CHR_lilith: "Lilith" #NT!
+  CORELLIAN_CHR_brandy: "Brandy" #NT!
+  CORELLIAN_CHR_veega: "Veega" #NT!
+  CORELLIAN_CHR_lanah: "Lanah" #NT!
+  CORELLIAN_CHR_vinya: "Vinya" #NT!
+  CORELLIAN_CHR_meloria: "Meloria" #NT!
+  CORELLIAN_CHR_shyla: "Shyla" #NT!
+  CORELLIAN_CHR_navah: "Navah" #NT!
+  CORELLIAN_CHR_nevhra: "Nevhra" #NT!
+  CORELLIAN_CHR_ballia: "Ballia" #NT!
+  CORELLIAN_CHR_lilea: "Lilea" #NT!
+  CORELLIAN_CHR_sia: "Sia" #NT!
+  CORELLIAN_CHR_mindra: "Mindra" #NT!
+  CORELLIAN_CHR_kryss: "Kryss" #NT!
+  CORELLIAN_CHR_esa: "Esa" #NT!
+  CORELLIAN_CHR_faye: "Faye" #NT!
+  CORELLIAN_CHR_rhea: "Rhea" #NT!
+  CORELLIAN_CHR_rica: "Rica" #NT!
+  CORELLIAN_CHR_adea: "Adea" #NT!
+  CORELLIAN_CHR_chertyl: "Chertyl" #NT!
+  CORELLIAN_CHR_sapra: "Sapra" #NT!
+  CORELLIAN_CHR_vega: "Vega" #NT!
+  CORELLIAN_CHR_seyda: "Seyda" #NT!
+  CORELLIAN_CHR_falthina: "Falthina" #NT!
+  CORELLIAN_CHR_sheelya: "Sheelya" #NT!
+  CORELLIAN_CHR_nifera: "Nifera" #NT!
+  CORELLIAN_CHR_syrin: "Syrin" #NT!
+  CORELLIAN_CHR_bria: "Bria" #NT!
+  CORELLIAN_CHR_sera: "Sera" #NT!
+  CORELLIAN_CHR_siolle: "Siolle" #NT!
+  CORELLIAN_CHR_syla: "Syla" #NT!
+  CORELLIAN_CHR_zayna: "Zayna" #NT!
+  CORELLIAN_CHR_brindy: "Brindy" #NT!
+  CORELLIAN_CHR_arada: "Arada" #NT!
+  CORELLIAN_CHR_saza: "Saza" #NT!
+  CORELLIAN_CHR_milinae: "Milinae" #NT!
+  CORELLIAN_CHR_trilinae: "Trilinae" #NT!
+  CORELLIAN_CHR_shaedra: "Shaedra" #NT!
+  CORELLIAN_CHR_ecile: "Ecile" #NT!
+  CORELLIAN_CHR_orpa: "Orpa" #NT!
+  CORELLIAN_CHR_vralla: "Vralla" #NT!
+  CORELLIAN_CHR_vye: "Vye" #NT!
+  CORELLIAN_CHR_alana: "Alana" #NT!
+  CORELLIAN_CHR_teniel: "Teniel" #NT!
+  CORELLIAN_CHR_demmi: "Demmi" #NT!
+  CORELLIAN_CHR_erris: "Erris" #NT!
+  CORELLIAN_CHR_jannitha: "Jannitha" #NT!
+  CORELLIAN_CHR_hoclaw: "Hoclaw" #NT!
+  CORELLIAN_CHR_saxan: "Saxan" #NT!
+  CORELLIAN_CHR_antilles: "Antilles" #NT!
+  CORELLIAN_CHR_gejjen: "Gejjen" #NT!
+  CORELLIAN_CHR_delpin: "Delpin" #NT!
+  CORELLIAN_CHR_bedoch: "Bedoch" #NT!
+  CORELLIAN_CHR_halcyon: "Halcyon" #NT!
+  CORELLIAN_CHR_horn: "Horn" #NT!
+  CORELLIAN_CHR_fordox: "Fordox" #NT!
+  CORELLIAN_CHR_merricope: "Merricope" #NT!
+  CORELLIAN_CHR_thomree: "Thomree" #NT!
+  CORELLIAN_CHR_thyne: "Thyne" #NT!
+  CORELLIAN_CHR_gallamby: "Gallamby" #NT!
+  CORELLIAN_CHR_madine: "Madine" #NT!
+  CORELLIAN_CHR_fel: "Fel" #NT!
+  CORELLIAN_CHR_starflare: "Starflare" #NT!
+  CORELLIAN_CHR_loor: "Loor" #NT!
+  CORELLIAN_CHR_bastra: "Bastra" #NT!
+  CORELLIAN_CHR_wessiri: "Wessiri" #NT!
+  CORELLIAN_CHR_beruss: "Beruss" #NT!
+  CORELLIAN_CHR_micamberlecto: "Micamberlecto" #NT!
+  CORELLIAN_CHR_terrik: "Terrik" #NT!
+  CORELLIAN_CHR_leikvold: "Leikvold" #NT!
+  CORELLIAN_CHR_midanyl: "Midanyl" #NT!
+  CORELLIAN_CHR_tyrson: "Tyrson" #NT!
+  CORELLIAN_CHR_faytonni: "Faytonni" #NT!
+  CORELLIAN_CHR_horm: "Horm" #NT!
+  CORELLIAN_CHR_kieran: "Kieran" #NT!
+  CORELLIAN_CHR_sal_solo: "Sal-Solo" #NT!
+  CORELLIAN_CHR_solo: "Solo" #NT!
+  CORELLIAN_CHR_a_daasha: "A'Daasha" #NT!
+  CORELLIAN_CHR_alder: "Alder" #NT!
+  CORELLIAN_CHR_ancher: "Ancher" #NT!
+  CORELLIAN_CHR_anjek: "Anjek" #NT!
+  CORELLIAN_CHR_anker: "Anker" #NT!
+  CORELLIAN_CHR_anyell: "Anyell" #NT!
+  CORELLIAN_CHR_arbo: "Arbo" #NT!
+  CORELLIAN_CHR_archan: "Archan" #NT!
+  CORELLIAN_CHR_ardellian: "Ardellian" #NT!
+  CORELLIAN_CHR_arkos: "Arkos" #NT!
+  CORELLIAN_CHR_arned: "Arned" #NT!
+  CORELLIAN_CHR_arrant: "Arrant" #NT!
+  CORELLIAN_CHR_aycen: "Aycen" #NT!
+  CORELLIAN_CHR_bakarn: "Bakarn" #NT!
+  CORELLIAN_CHR_barad: "Barad" #NT!
+  CORELLIAN_CHR_barje: "Barje" #NT!
+  CORELLIAN_CHR_barl: "Barl" #NT!
+  CORELLIAN_CHR_barthis: "Barthis" #NT!
+  CORELLIAN_CHR_bata: "Bata" #NT!
+  CORELLIAN_CHR_beech: "Beech" #NT!
+  CORELLIAN_CHR_beetilles: "Beetilles" #NT!
+  CORELLIAN_CHR_behar: "Behar" #NT!
+  CORELLIAN_CHR_bel_iblis: "Bel Iblis" #NT!
+  CORELLIAN_CHR_bel_opis: "Bel-Opis" #NT!
+  CORELLIAN_CHR_bell: "Bell" #NT!
+  CORELLIAN_CHR_belos: "Belos" #NT!
+  CORELLIAN_CHR_bender: "Bender" #NT!
+  CORELLIAN_CHR_bilure: "Bilure" #NT!
+  CORELLIAN_CHR_bish: "Bish" #NT!
+  CORELLIAN_CHR_bissa: "Bissa" #NT!
+  CORELLIAN_CHR_blancken: "Blancken" #NT!
+  CORELLIAN_CHR_bombassa: "Bombassa" #NT!
+  CORELLIAN_CHR_bordo: "Bordo" #NT!
+  CORELLIAN_CHR_boshek: "BoShek" #NT!
+  CORELLIAN_CHR_bounder: "Bounder" #NT!
+  CORELLIAN_CHR_bratt: "Bratt" #NT!
+  CORELLIAN_CHR_breeger: "Breeger" #NT!
+  CORELLIAN_CHR_bricker: "Bricker" #NT!
+  CORELLIAN_CHR_brigger: "Brigger" #NT!
+  CORELLIAN_CHR_bruckman: "Bruckman" #NT!
+  CORELLIAN_CHR_buroy: "Buroy" #NT!
+  CORELLIAN_CHR_burr_naxis: "Burr Naxis" #NT!
+  CORELLIAN_CHR_byrnloo: "Byrnloo" #NT!
+  CORELLIAN_CHR_cadmir: "Cadmir" #NT!
+  CORELLIAN_CHR_calay: "Calay" #NT!
+  CORELLIAN_CHR_cantarus: "Cantarus" #NT!
+  CORELLIAN_CHR_capstan: "Capstan" #NT!
+  CORELLIAN_CHR_car_das: "Car'das" #NT!
+  CORELLIAN_CHR_carr: "Carr" #NT!
+  CORELLIAN_CHR_carter: "Carter" #NT!
+  CORELLIAN_CHR_chyler: "Chyler" #NT!
+  CORELLIAN_CHR_convorr: "Convorr" #NT!
+  CORELLIAN_CHR_cope: "Cope" #NT!
+  CORELLIAN_CHR_corse: "Corse" #NT!
+  CORELLIAN_CHR_cracken: "Cracken" #NT!
+  CORELLIAN_CHR_craddok: "Craddok" #NT!
+  CORELLIAN_CHR_creel: "Creel" #NT!
+  CORELLIAN_CHR_crisk: "Crisk" #NT!
+  CORELLIAN_CHR_cynthisa: "Cynthisa" #NT!
+  CORELLIAN_CHR_daine: "Daine" #NT!
+  CORELLIAN_CHR_dak: "Dak" #NT!
+  CORELLIAN_CHR_dakron: "Dakron" #NT!
+  CORELLIAN_CHR_das: "Das" #NT!
+  CORELLIAN_CHR_daskmin: "Daskmin" #NT!
+  CORELLIAN_CHR_dekker: "Dekker" #NT!
+  CORELLIAN_CHR_deng: "Deng" #NT!
+  CORELLIAN_CHR_devlin: "Devlin" #NT!
+  CORELLIAN_CHR_donos: "Donos" #NT!
+  CORELLIAN_CHR_dotyk: "Dotyk" #NT!
+  CORELLIAN_CHR_draav: "Draav" #NT!
+  CORELLIAN_CHR_drass: "Drass" #NT!
+  CORELLIAN_CHR_dravvad: "Dravvad" #NT!
+  CORELLIAN_CHR_dreezian: "Dreezian" #NT!
+  CORELLIAN_CHR_driscull: "Driscull" #NT!
+  CORELLIAN_CHR_dubreas: "Dubreas" #NT!
+  CORELLIAN_CHR_duey: "Duey" #NT!
+  CORELLIAN_CHR_durron: "Durron" #NT!
+  CORELLIAN_CHR_dustrunner: "Dustrunner" #NT!
+  CORELLIAN_CHR_dynes: "Dynes" #NT!
+  CORELLIAN_CHR_eldon: "Eldon" #NT!
+  CORELLIAN_CHR_evnar: "Evnar" #NT!
+  CORELLIAN_CHR_faldrin: "Faldrin" #NT!
+  CORELLIAN_CHR_fanaso: "Fanaso" #NT!
+  CORELLIAN_CHR_fane: "Fane" #NT!
+  CORELLIAN_CHR_fash: "Fash" #NT!
+  CORELLIAN_CHR_featherlight: "Featherlight" #NT!
+  CORELLIAN_CHR_feleema: "Feleema" #NT!
+  CORELLIAN_CHR_felyood: "Felyood" #NT!
+  CORELLIAN_CHR_ferasi: "Ferasi" #NT!
+  CORELLIAN_CHR_varangi: "Varangi" #NT!
+  CORELLIAN_CHR_ferd: "Ferd" #NT!
+  CORELLIAN_CHR_fhernan: "Fhernan" #NT!
+  CORELLIAN_CHR_fische: "Fische" #NT!
+  CORELLIAN_CHR_flenn: "Flenn" #NT!
+  CORELLIAN_CHR_forno: "Forno" #NT!
+  CORELLIAN_CHR_forte: "Forte" #NT!
+  CORELLIAN_CHR_furloti: "Furloti" #NT!
+  CORELLIAN_CHR_gadren: "Gadren" #NT!
+  CORELLIAN_CHR_gara: "Gara" #NT!
+  CORELLIAN_CHR_garamin: "Garamin" #NT!
+  CORELLIAN_CHR_geissler: "Geissler" #NT!
+  CORELLIAN_CHR_hun: "Hun" #NT!
+  CORELLIAN_CHR_glider: "Glider" #NT!
+  CORELLIAN_CHR_gistang: "Gistang" #NT!
+  CORELLIAN_CHR_gleasry: "Gleasry" #NT!
+  CORELLIAN_CHR_gorlin: "Gorlin" #NT!
+  CORELLIAN_CHR_grath: "Grath" #NT!
+  CORELLIAN_CHR_greenley: "Greenley" #NT!
+  CORELLIAN_CHR_fulfel: "Fulfel" #NT!
+  CORELLIAN_CHR_gurah: "Gurah" #NT!
+  CORELLIAN_CHR_halbert: "Halbert" #NT!
+  CORELLIAN_CHR_hamber: "Hamber" #NT!
+  CORELLIAN_CHR_hamner: "Hamner" #NT!
+  CORELLIAN_CHR_handerin: "Handerin" #NT!
+  CORELLIAN_CHR_harand: "Harand" #NT!
+  CORELLIAN_CHR_haley: "Haley" #NT!
+  CORELLIAN_CHR_hel: "Hel" #NT!
+  CORELLIAN_CHR_helot: "Helot" #NT!
+  CORELLIAN_CHR_hieks: "Hieks" #NT!
+  CORELLIAN_CHR_higron: "Higron" #NT!
+  CORELLIAN_CHR_holkin: "Holkin" #NT!
+  CORELLIAN_CHR_hooge: "Hooge" #NT!
+  CORELLIAN_CHR_hus: "Hus" #NT!
+  CORELLIAN_CHR_huutar: "Huutar" #NT!
+  CORELLIAN_CHR_idanian: "Idanian" #NT!
+  CORELLIAN_CHR_inacc: "Inacc" #NT!
+  CORELLIAN_CHR_indervin: "Indervin" #NT!
+  CORELLIAN_CHR_iniro: "Iniro" #NT!
+  CORELLIAN_CHR_innik: "Innik" #NT!
+  CORELLIAN_CHR_isken: "Isken" #NT!
+  CORELLIAN_CHR_jiklip: "Jiklip" #NT!
+  CORELLIAN_CHR_jinsin: "Jinsin" #NT!
+  CORELLIAN_CHR_jixton: "Jixton" #NT!
+  CORELLIAN_CHR_joben: "Joben" #NT!
+  CORELLIAN_CHR_jodhul: "Jodhul" #NT!
+  CORELLIAN_CHR_jofer: "Jofer" #NT!
+  CORELLIAN_CHR_johnair: "Johnair" #NT!
+  CORELLIAN_CHR_jorek: "Jorek" #NT!
+  CORELLIAN_CHR_junus: "Junus" #NT!
+  CORELLIAN_CHR_k_reye: "K'Reye" #NT!
+  CORELLIAN_CHR_kahob: "Kahob" #NT!
+  CORELLIAN_CHR_kantt: "Kantt" #NT!
+  CORELLIAN_CHR_kanu: "Kanu" #NT!
+  CORELLIAN_CHR_karath: "Karath" #NT!
+  CORELLIAN_CHR_karathas: "Karathas" #NT!
+  CORELLIAN_CHR_katrane: "Katrane" #NT!
+  CORELLIAN_CHR_keer: "Keer" #NT!
+  CORELLIAN_CHR_kel_vannon: "Kel'Vannon" #NT!
+  CORELLIAN_CHR_van_kellen: "Van Kellen" #NT!
+  CORELLIAN_CHR_kener: "Kener" #NT!
+  CORELLIAN_CHR_kersos: "Kersos" #NT!
+  CORELLIAN_CHR_kilian: "Kilian" #NT!
+  CORELLIAN_CHR_kimbo: "Kimbo" #NT!
+  CORELLIAN_CHR_kirin: "Kirin" #NT!
+  CORELLIAN_CHR_kitt: "Kitt" #NT!
+  CORELLIAN_CHR_konya: "Konya" #NT!
+  CORELLIAN_CHR_korr: "Korr" #NT!
+  CORELLIAN_CHR_krast: "Krast" #NT!
+  CORELLIAN_CHR_kwerve: "Kwerve" #NT!
+  CORELLIAN_CHR_kwinn: "Kwinn" #NT!
+  CORELLIAN_CHR_l_hnnar: "L'hnnar" #NT!
+  CORELLIAN_CHR_lerann: "Lerann" #NT!
+  CORELLIAN_CHR_levare: "Levare" #NT!
+  CORELLIAN_CHR_locke: "Locke" #NT!
+  CORELLIAN_CHR_loren: "Loren" #NT!
+  CORELLIAN_CHR_loroan: "Loroan" #NT!
+  CORELLIAN_CHR_m_rak: "M'rak" #NT!
+  CORELLIAN_CHR_madish: "Madish" #NT!
+  CORELLIAN_CHR_malo: "Malo" #NT!
+  CORELLIAN_CHR_mar_shayal: "Mar-Shayal" #NT!
+  CORELLIAN_CHR_maysor: "Maysor" #NT!
+  CORELLIAN_CHR_mccallok: "McCallok" #NT!
+  CORELLIAN_CHR_king: "King" #NT!
+  CORELLIAN_CHR_melikan: "Melikan" #NT!
+  CORELLIAN_CHR_millano: "Millano" #NT!
+  CORELLIAN_CHR_moeda: "Moeda" #NT!
+  CORELLIAN_CHR_montis: "Montis" #NT!
+  CORELLIAN_CHR_mor: "Mor" #NT!
+  CORELLIAN_CHR_mullawny: "Mullawny" #NT!
+  CORELLIAN_CHR_nabon: "Nabon" #NT!
+  CORELLIAN_CHR_nataal: "Nataal" #NT!
+  CORELLIAN_CHR_navander: "Navander" #NT!
+  CORELLIAN_CHR_naytaan: "Naytaan" #NT!
+  CORELLIAN_CHR_nedmak: "Nedmak" #NT!
+  CORELLIAN_CHR_nimbi: "Nimbi" #NT!
+  CORELLIAN_CHR_noaddo: "Noaddo" #NT!
+  CORELLIAN_CHR_noorg: "Noorg" #NT!
+  CORELLIAN_CHR_norrin: "Norrin" #NT!
+  CORELLIAN_CHR_okanor: "Okanor" #NT!
+  CORELLIAN_CHR_p_teska: "P'teska" #NT!
+  CORELLIAN_CHR_paol: "Paol" #NT!
+  CORELLIAN_CHR_parna: "Parna" #NT!
+  CORELLIAN_CHR_patrell: "Patrell" #NT!
+  CORELLIAN_CHR_pavan: "Pavan" #NT!
+  CORELLIAN_CHR_pax: "Pax" #NT!
+  CORELLIAN_CHR_pellaeon: "Pellaeon" #NT!
+  CORELLIAN_CHR_pendre: "Pendre" #NT!
+  CORELLIAN_CHR_pendron: "Pendron" #NT!
+  CORELLIAN_CHR_pon: "Pon" #NT!
+  CORELLIAN_CHR_post: "Post" #NT!
+  CORELLIAN_CHR_qennto: "Qennto" #NT!
+  CORELLIAN_CHR_rai: "Rai" #NT!
+  CORELLIAN_CHR_ramak: "Ramak" #NT!
+  CORELLIAN_CHR_reendorr: "Reendorr" #NT!
+  CORELLIAN_CHR_rendar: "Rendar" #NT!
+  CORELLIAN_CHR_reshad: "Reshad" #NT!
+  CORELLIAN_CHR_rez: "Rez" #NT!
+  CORELLIAN_CHR_rite: "Rite" #NT!
+  CORELLIAN_CHR_rojo: "Rojo" #NT!
+  CORELLIAN_CHR_ross: "Ross" #NT!
+  CORELLIAN_CHR_rydel: "Rydel" #NT!
+  CORELLIAN_CHR_saiy: "Saiy" #NT!
+  CORELLIAN_CHR_salpivo: "SalPivo" #NT!
+  CORELLIAN_CHR_sarkee: "Sarkee" #NT!
+  CORELLIAN_CHR_sassich: "Sassich" #NT!
+  CORELLIAN_CHR_sau: "Sau" #NT!
+  CORELLIAN_CHR_savas: "Savas" #NT!
+  CORELLIAN_CHR_seedel: "Seedel" #NT!
+  CORELLIAN_CHR_seki: "Seki" #NT!
+  CORELLIAN_CHR_seldin: "Seldin" #NT!
+  CORELLIAN_CHR_sepen: "Sepen" #NT!
+  CORELLIAN_CHR_shae: "Shae" #NT!
+  CORELLIAN_CHR_shallo: "Shallo" #NT!
+  CORELLIAN_CHR_sharest: "Sharest" #NT!
+  CORELLIAN_CHR_shelby: "Shelby" #NT!
+  CORELLIAN_CHR_shu: "Shu" #NT!
+  CORELLIAN_CHR_sionaro: "Sionaro" #NT!
+  CORELLIAN_CHR_sirrah: "Sirrah" #NT!
+  CORELLIAN_CHR_sistek: "Sistek" #NT!
+  CORELLIAN_CHR_spart: "Spart" #NT!
+  CORELLIAN_CHR_stasheff: "Stasheff" #NT!
+  CORELLIAN_CHR_stokk: "Stokk" #NT!
+  CORELLIAN_CHR_suul: "Suul" #NT!
+  CORELLIAN_CHR_swan: "Swan" #NT!
+  CORELLIAN_CHR_swift: "Swift" #NT!
+  CORELLIAN_CHR_tal_oldra: "Tal-Oldra" #NT!
+  CORELLIAN_CHR_tark: "Tark" #NT!
+  CORELLIAN_CHR_teppler: "Teppler" #NT!
+  CORELLIAN_CHR_tharen: "Tharen" #NT!
+  CORELLIAN_CHR_thrakus: "Thrakus" #NT!
+  CORELLIAN_CHR_timmer: "Timmer" #NT!
+  CORELLIAN_CHR_tinta: "Tinta" #NT!
+  CORELLIAN_CHR_tipper: "Tipper" #NT!
+  CORELLIAN_CHR_tomas: "Tomas" #NT!
+  CORELLIAN_CHR_tommick: "Tommick" #NT!
+  CORELLIAN_CHR_torbul: "Torbul" #NT!
+  CORELLIAN_CHR_tors: "Tors" #NT!
+  CORELLIAN_CHR_torve: "Torve" #NT!
+  CORELLIAN_CHR_tredahl: "Tredahl" #NT!
+  CORELLIAN_CHR_treece: "Treece" #NT!
+  CORELLIAN_CHR_truchong: "Truchong" #NT!
+  CORELLIAN_CHR_tumu: "Tumu" #NT!
+  CORELLIAN_CHR_turhaya: "Turhaya" #NT!
+  CORELLIAN_CHR_uliss: "Uliss" #NT!
+  CORELLIAN_CHR_ulbert: "Ulbert" #NT!
+  CORELLIAN_CHR_undea: "Undea" #NT!
+  CORELLIAN_CHR_untaire: "Untaire" #NT!
+  CORELLIAN_CHR_valouri: "Valouri" #NT!
+  CORELLIAN_CHR_verenar: "Verenar" #NT!
+  CORELLIAN_CHR_vergesso: "Vergesso" #NT!
+  CORELLIAN_CHR_vidian: "Vidian" #NT!
+  CORELLIAN_CHR_vinram: "Vinram" #NT!
+  CORELLIAN_CHR_vio: "Vio" #NT!
+  CORELLIAN_CHR_vitale: "Vitale" #NT!
+  CORELLIAN_CHR_vondar: "Vondar" #NT!
+  CORELLIAN_CHR_vorr: "Vorr" #NT!
+  CORELLIAN_CHR_vorru: "Vorru" #NT!
+  CORELLIAN_CHR_walden: "Walden" #NT!
+  CORELLIAN_CHR_waray: "Waray" #NT!
+  CORELLIAN_CHR_wes: "Wes" #NT!
+  CORELLIAN_CHR_wred: "Wred" #NT!
+  CORELLIAN_CHR_wyum: "Wyum" #NT!
+  CORELLIAN_CHR_xoczuko: "Xoczuko" #NT!
+  CORELLIAN_CHR_yamagh: "Yamagh" #NT!
+  CORELLIAN_CHR_yarar: "Yarar" #NT!
+  CORELLIAN_CHR_berethron: "Berethron" #NT!
+  CORELLIAN_CHR_threkim: "Threkim" #NT!
+  CORELLIAN_CHR_hal: "Hal" #NT!
+  CORELLIAN_CHR_rostek: "Rostek" #NT!
+  CORELLIAN_CHR_hundi: "Hundi" #NT!
+  CORELLIAN_CHR_scerra: "Scerra" #NT!
+  CORELLIAN_CHR_jax: "Jax" #NT!
+  CORELLIAN_CHR_darriovof_iii: "Darriovof III" #NT!
+  CORELLIAN_CHR_darriovof_iv: "Darriovof IV" #NT!

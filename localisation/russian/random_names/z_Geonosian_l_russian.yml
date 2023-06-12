@@ -1,69 +1,69 @@
 ﻿l_russian:
- GEONOSIAN_FLEET_SEQUENTIAL_defense_fleet: "$ORD$ Defense Fleet"
- GEONOSIAN_ARMY_SEQUENTIAL_hive_guard: "$ORD$ Hive Guard"
- GEONOSIAN_ARMY_SEQUENTIAL_brood_warriors: "$ORD$ Brood Warriors"
- GEONOSIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- GEONOSIAN_ARMY_SEQUENTIAL_drone_battalion: "$ORD$ Drone Battalion"
- GEONOSIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- GEONOSIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- GEONOSIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- GEONOSIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- GEONOSIAN_CHR_acklay: "Acklay"
- GEONOSIAN_CHR_bogg: "Bogg"
- GEONOSIAN_CHR_brachtor: "Brachtor"
- GEONOSIAN_CHR_brenak: "Brenak"
- GEONOSIAN_CHR_buzz: "Buzz"
- GEONOSIAN_CHR_chopper: "Chopper"
- GEONOSIAN_CHR_deshor: "Deshor"
- GEONOSIAN_CHR_dimmock: "Dimmock"
- GEONOSIAN_CHR_gizor: "Gizor"
- GEONOSIAN_CHR_gorgol: "Gorgol"
- GEONOSIAN_CHR_hadiss: "Hadiss"
- GEONOSIAN_CHR_ikvizi: "Ikvizi"
- GEONOSIAN_CHR_kyvax: "Kyvax"
- GEONOSIAN_CHR_nekra: "Nekra"
- GEONOSIAN_CHR_picador: "Picador"
- GEONOSIAN_CHR_piddock: "Piddock"
- GEONOSIAN_CHR_poggle: "Poggle"
- GEONOSIAN_CHR_polarin: "Polarin"
- GEONOSIAN_CHR_sivor: "Sivor"
- GEONOSIAN_CHR_sun: "Sun"
- GEONOSIAN_CHR_tookra: "Tookra"
- GEONOSIAN_CHR_typtus: "Typtus"
- GEONOSIAN_CHR_boggtus: "Boggtus"
- GEONOSIAN_CHR_bungax: "Bungax"
- GEONOSIAN_CHR_dellsi: "Dellsi"
- GEONOSIAN_CHR_gol: "Gol"
- GEONOSIAN_CHR_go: "Go"
- GEONOSIAN_CHR_holgac: "Holgac"
- GEONOSIAN_CHR_kekzo: "Kekzo"
- GEONOSIAN_CHR_korlag: "Korlag"
- GEONOSIAN_CHR_lorko: "Lorko"
- GEONOSIAN_CHR_muzz: "Muzz"
- GEONOSIAN_CHR_oggfas: "Oggfas"
- GEONOSIAN_CHR_pellsor: "Pellsor"
- GEONOSIAN_CHR_porrock: "Porrock"
- GEONOSIAN_CHR_sazac: "Sazac"
- GEONOSIAN_CHR_sazrivax: "Sazrivax"
- GEONOSIAN_CHR_seegor: "Seegor"
- GEONOSIAN_CHR_siklator: "Siklator"
- GEONOSIAN_CHR_siridus: "Siridus"
- GEONOSIAN_CHR_siviral: "Siviral"
- GEONOSIAN_CHR_syss: "Syss"
- GEONOSIAN_CHR_tunzas: "Tunzas"
- GEONOSIAN_CHR_tysstle: "Tysstle"
- GEONOSIAN_CHR_veorlafor: "Veorlafor"
- GEONOSIAN_CHR_karina: "Karina"
- GEONOSIAN_CHR_dali: "Dali"
- GEONOSIAN_CHR_kryssdol: "Kryssdol"
- GEONOSIAN_CHR_leen: "Leen"
- GEONOSIAN_CHR_lyplal: "Lyplal"
- GEONOSIAN_CHR_tunka: "Tunka"
- GEONOSIAN_CHR_dellso: "Dellso"
- GEONOSIAN_CHR_fac: "Fac"
- GEONOSIAN_CHR_galard: "Galard"
- GEONOSIAN_CHR_gehenbar: "Gehenbar"
- GEONOSIAN_CHR_gogum: "Gogum"
- GEONOSIAN_CHR_golbah: "Golbah"
- GEONOSIAN_CHR_stalgasin: "Stalgasin"
- GEONOSIAN_CHR_trellik: "Trellik"
+  GEONOSIAN_FLEET_SEQUENTIAL_defense_fleet: "$ORD$ Флот обороны" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_hive_guard: "$ORD$ Стража улья" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_brood_warriors: "$ORD$ Выводок воинов" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Рабы" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_drone_battalion: "$ORD$ Батальон трутней" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Взвод боевых дроидов" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Воины Силы" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  GEONOSIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Евгенический авангард" #NT!
+  GEONOSIAN_CHR_acklay: "Аклай" #NT!
+  GEONOSIAN_CHR_bogg: "Богг" #NT!
+  GEONOSIAN_CHR_brachtor: "Брахтор" #NT!
+  GEONOSIAN_CHR_brenak: "Бренак" #NT!
+  GEONOSIAN_CHR_buzz: "Базз" #NT!
+  GEONOSIAN_CHR_chopper: "Чоппер" #NT!
+  GEONOSIAN_CHR_deshor: "Дешор" #NT!
+  GEONOSIAN_CHR_dimmock: "Диммок" #NT!
+  GEONOSIAN_CHR_gizor: "Гизор" #NT!
+  GEONOSIAN_CHR_gorgol: "Горгол" #NT!
+  GEONOSIAN_CHR_hadiss: "Хадисс" #NT!
+  GEONOSIAN_CHR_ikvizi: "Иквизи" #NT!
+  GEONOSIAN_CHR_kyvax: "Кивакс" #NT!
+  GEONOSIAN_CHR_nekra: "Некра" #NT!
+  GEONOSIAN_CHR_picador: "Пикадор" #NT!
+  GEONOSIAN_CHR_piddock: "Пиддок" #NT!
+  GEONOSIAN_CHR_poggle: "Поггль" #NT!
+  GEONOSIAN_CHR_polarin: "Поларин" #NT!
+  GEONOSIAN_CHR_sivor: "Сивор" #NT!
+  GEONOSIAN_CHR_sun: "Сан" #NT!
+  GEONOSIAN_CHR_tookra: "Тукра" #NT!
+  GEONOSIAN_CHR_typtus: "Типтус" #NT!
+  GEONOSIAN_CHR_boggtus: "Боггтус" #NT!
+  GEONOSIAN_CHR_bungax: "Бунгакс" #NT!
+  GEONOSIAN_CHR_dellsi: "Деллси" #NT!
+  GEONOSIAN_CHR_gol: "Голь" #NT!
+  GEONOSIAN_CHR_go: "Го" #NT!
+  GEONOSIAN_CHR_holgac: "Холгак" #NT!
+  GEONOSIAN_CHR_kekzo: "Кекзо" #NT!
+  GEONOSIAN_CHR_korlag: "Корлаг" #NT!
+  GEONOSIAN_CHR_lorko: "Лорко" #NT!
+  GEONOSIAN_CHR_muzz: "Мазз" #NT!
+  GEONOSIAN_CHR_oggfas: "Оггфас" #NT!
+  GEONOSIAN_CHR_pellsor: "Пеллсор" #NT!
+  GEONOSIAN_CHR_porrock: "Поррок" #NT!
+  GEONOSIAN_CHR_sazac: "Сазак" #NT!
+  GEONOSIAN_CHR_sazrivax: "Сазривакс" #NT!
+  GEONOSIAN_CHR_seegor: "Зигор" #NT!
+  GEONOSIAN_CHR_siklator: "Сиклатор" #NT!
+  GEONOSIAN_CHR_siridus: "Зиридус" #NT!
+  GEONOSIAN_CHR_siviral: "Сивирал" #NT!
+  GEONOSIAN_CHR_syss: "Сисс" #NT!
+  GEONOSIAN_CHR_tunzas: "Тунзас" #NT!
+  GEONOSIAN_CHR_tysstle: "Тасстль" #NT!
+  GEONOSIAN_CHR_veorlafor: "Веорлафор" #NT!
+  GEONOSIAN_CHR_karina: "Карина" #NT!
+  GEONOSIAN_CHR_dali: "Дали" #NT!
+  GEONOSIAN_CHR_kryssdol: "Криссдоль" #NT!
+  GEONOSIAN_CHR_leen: "Лин" #NT!
+  GEONOSIAN_CHR_lyplal: "Липлал" #NT!
+  GEONOSIAN_CHR_tunka: "Тунка" #NT!
+  GEONOSIAN_CHR_dellso: "Деллсо" #NT!
+  GEONOSIAN_CHR_fac: "Фак" #NT!
+  GEONOSIAN_CHR_galard: "Галард" #NT!
+  GEONOSIAN_CHR_gehenbar: "Гехенбар" #NT!
+  GEONOSIAN_CHR_gogum: "Гогум" #NT!
+  GEONOSIAN_CHR_golbah: "Голбах" #NT!
+  GEONOSIAN_CHR_stalgasin: "Сталгасин" #NT!
+  GEONOSIAN_CHR_trellik: "Треллик" #NT!

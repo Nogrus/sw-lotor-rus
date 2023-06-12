@@ -1,357 +1,357 @@
 ﻿l_russian:
- CZERKA_rotworm: "Rotworm"
- CZERKA_frogdog: "Frogdog"
- CZERKA_footpad: "Footpad"
- CZERKA_assassin: "Assassin"
- CZERKA_executioner: "Executioner"
- CZERKA_butcher: "Butcher"
- CZERKA_hired_gun: "Hired Gun"
- CZERKA_exterminator: "Exterminator"
- CZERKA_liquidator: "Liquidator"
- CZERKA_thuggee: "Thuggee"
- CZERKA_swindler: "Swindler"
- CZERKA_deceiver: "Deceiver"
- CZERKA_viper: "Viper"
- CZERKA_serpent: "Serpent"
- CZERKA_adder: "Adder"
- CZERKA_molder: "Molder"
- CZERKA_robber_barron: "Robber Barron"
- CZERKA_burglar: "Burglar"
- CZERKA_mugger: "Mugger"
- CZERKA_raider: "Raider"
- CZERKA_looter: "Looter"
- CZERKA_pillager: "Pillager"
- CZERKA_pilferer: "Pilferer"
- CZERKA_solar_thief: "Solar Thief"
- CZERKA_bandit: "Bandit"
- CZERKA_brigand: "Brigand"
- CZERKA_highwayman: "Highwayman"
- CZERKA_dacoit: "Dacoit"
- CZERKA_marauder: "Marauder"
- CZERKA_poison: "Poison"
- CZERKA_stiletto: "Stiletto"
- CZERKA_bodkin: "Bodkin"
- CZERKA_cutlass: "Cutlass"
- CZERKA_dirk: "Dirk"
- CZERKA_poniard: "Poniard"
- CZERKA_scalpel: "Scalpel"
- CZERKA_sickle: "Sickle"
- CZERKA_sabre: "Sabre"
- CZERKA_scimitar: "Scimitar"
- CZERKA_scythe: "Scythe"
- CZERKA_shank: "Shank"
- CZERKA_shiv: "Shiv"
- CZERKA_switchblade: "Switchblade"
- CZERKA_tickler: "Tickler"
- CZERKA_skiver: "Skiver"
- CZERKA_strongarm: "Strongarm"
- CZERKA_bully_boy: "Bully-boy"
- CZERKA_coercer: "Coercer"
- CZERKA_intimidator: "Intimidator"
- CZERKA_cheap_shot: "Cheap Shot"
- CZERKA_black_eye: "Black Eye"
- CZERKA_invective_rex: "Invective Rex"
- CZERKA_opprobrium: "Opprobrium"
- CZERKA_impertinence: "Impertinence"
- CZERKA_impudence: "Impudence"
- CZERKA_ignominy: "Ignominy"
- CZERKA_slanderer: "Slanderer"
- CZERKA_whisperer: "Whisperer"
- CZERKA_maven: "Maven"
- CZERKA_vitriol: "Vitriol"
- CZERKA_shipcracker: "Shipcracker"
- CZERKA_implication: "Implication"
- CZERKA_right_hand: "Right Hand"
- CZERKA_left_hand: "Left Hand"
- CZERKA_godfather: "Godfather"
- CZERKA_godmother: "Godmother"
- CZERKA_made_man: "Made Man"
- CZERKA_wook_s_charm: "Wook's Charm"
- CZERKA_silent_goodbye: "Silent Goodbye"
- CZERKA_goodnight: "Goodnight"
- CZERKA_kneecapper: "Kneecapper"
- CZERKA_tail_snapper: "Tail Snapper"
- CZERKA_protection_money: "Protection Money"
- CZERKA_payoff: "Payoff"
- CZERKA_payback: "Payback"
- CZERKA_waste_manager: "Waste Manager"
- CZERKA_ill_omen: "Ill Omen"
- CZERKA_heavy_hitter: "Heavy Hitter"
- CZERKA_dame: "Dame"
- CZERKA_fait_accompli: "Fait Accompli"
- CZERKA_irreversible: "Irreversible"
- CZERKA_indebted: "Indebted"
- CZERKA_quiet_knife: "Quiet Knife"
- CZERKA_racket: "Racket"
- CZERKA_rizzuti_s_end: "Rizzuti's End"
- CZERKA_blood_water: "Blood Water"
- CZERKA_associate: "Associate"
- CZERKA_duracrete_shoe: "Duracrete Shoe"
- CZERKA_clipper: "Clipper"
- CZERKA_code_of_silence: "Code of Silence"
- CZERKA_consigliere: "Consigliere"
- CZERKA_cugine: "Cugine"
- CZERKA_earner: "Earner"
- CZERKA_initiator: "Initiator"
- CZERKA_message_job: "Message Job"
- CZERKA_oathbound: "Oathbound"
- CZERKA_temporary_reprieve: "Temporary Reprieve"
- CZERKA_shy_prince: "Shy Prince"
- CZERKA_underboss: "Underboss"
- CZERKA_vigorish: "Vigorish"
- CZERKA_second_nephew: "Second Nephew"
- CZERKA_anzat_one: "Anzat One"
- CZERKA_arc_razor: "Arc Razor"
- CZERKA_azure_queen: "Azure Queen"
- CZERKA_yanov: "Yanov"
- CZERKA_lupus_maroo: "Lupus Maroo"
- CZERKA_virago: "Virago"
- CZERKA_venomator: "Venomator"
- CZERKA_vendetta: "Vendetta"
- CZERKA_stinger: "Stinger"
- CZERKA_raptor: "Raptor"
- CZERKA_rude_awakening: "Rude Awakening"
- CZERKA_racketeer: "Racketeer"
- CZERKA_hooligan: "Hooligan"
- CZERKA_bedlam: "Bedlam"
- CZERKA_desperado: "Desperado"
- CZERKA_ruthless: "Ruthless"
- CZERKA_pitiless: "Pitiless"
- CZERKA_merciless: "Merciless"
- CZERKA_libertine: "Libertine"
- CZERKA_visible_hand: "Visible Hand"
- CZERKA_high_jack: "High Jack"
- CZERKA_low_blow: "Low Blow"
- CZERKA_lackey: "Lackey"
- CZERKA_rough_hand: "Rough Hand"
- CZERKA_delinquent: "Delinquent"
- CZERKA_derelict: "Derelict"
- CZERKA_dereliction: "Dereliction"
- CZERKA_razor_walk: "Razor Walk"
- CZERKA_hamstringer: "Hamstringer"
- CZERKA_degenerate: "Degenerate"
- CZERKA_profligate: "Profligate"
- CZERKA_shakedown: "Shakedown"
- CZERKA_ruffian: "Ruffian"
- CZERKA_heist: "Heist"
- CZERKA_last_caper: "Last Caper"
- CZERKA_stickup: "Stickup"
- CZERKA_breakout: "Breakout"
- CZERKA_impulsive: "Impulsive"
- CZERKA_concierge: "Concierge"
- CZERKA_liecentious: "Liecentious"
- CZERKA_salacious: "Salacious"
- CZERKA_fluid_meaning: "Fluid Meaning"
- CZERKA_recumbent_end: "Recumbent End"
- CZERKA_dirt_nap: "Dirt Nap"
- CZERKA_spoiler: "Spoiler"
- CZERKA_recalcitrant: "Recalcitrant"
- CZERKA_strumpet: "Strumpet"
- CZERKA_brazen: "Brazen"
- CZERKA_charlatan: "Charlatan"
- CZERKA_punishing_one: "Punishing One"
- CZERKA_troublemaker: "Troublemaker"
- CZERKA_assailant: "Assailant"
- CZERKA_disturber: "Disturber"
- CZERKA_extortioner: "Extortioner"
- CZERKA_blackmail: "Blackmail"
- CZERKA_outlaw: "Outlaw"
- CZERKA_stigma: "Stigma"
- CZERKA_innuendo: "Innuendo"
- CZERKA_insinuator: "Insinuator"
- CZERKA_double_tap: "Double Tap"
- CZERKA_gambit: "Gambit"
- CZERKA_ransom: "Ransom"
- CZERKA_malcontent: "Malcontent"
- CZERKA_mischevous: "Mischevous"
- CZERKA_broken_pyke: "Broken Pyke"
- CZERKA_acrimony: "Acrimony"
- CZERKA_instigator: "Instigator"
- CZERKA_wanton: "Wanton"
- CZERKA_meritocrat: "Meritocrat"
- CZERKA_mortal_tax: "Mortal Tax"
- CZERKA_discounter: "Discounter"
- CZERKA_supervisory: "Supervisory"
- CZERKA_custodian: "Custodian"
- CZERKA_keeper: "Keeper"
- CZERKA_gatekeepr: "Gatekeepr"
- CZERKA_leading_indicator: "Leading Indicator"
- CZERKA_bellwether: "Bellwether"
- CZERKA_limitless: "Limitless"
- CZERKA_boundless: "Boundless"
- CZERKA_bad_faith: "Bad Faith"
- CZERKA_bad_influence: "Bad Influence"
- CZERKA_underhand: "Underhand"
- CZERKA_infidel: "Infidel"
- CZERKA_artful_dodger: "Artful Dodger"
- CZERKA_sucker_punch: "Sucker Punch"
- CZERKA_shade: "Shade"
- CZERKA_silence: "Silence"
- CZERKA_hoaxer: "Hoaxer"
- CZERKA_flurry_of_bolts: "Flurry of Bolts"
- CZERKA_dirty_kick: "Dirty Kick"
- CZERKA_vital_shot: "Vital Shot"
- CZERKA_quick_shot: "Quick Shot"
- CZERKA_all_in: "All In"
- CZERKA_eagle_5: "Eagle 5"
- CZERKA_lucky_dodge: "Lucky Dodge"
- CZERKA_shoot_first: "Shoot First"
- CZERKA_nice_try: "Nice Try"
- CZERKA_open_wound: "Open Wound"
- CZERKA_mortal_wound: "Mortal Wound"
- CZERKA_dirty_trickster: "Dirty Trickster"
- CZERKA_feelin__woozy: "Feelin' Woozy"
- CZERKA_sneaky: "Sneaky"
- CZERKA_scrappy: "Scrappy"
- CZERKA_shifty_eyed: "Shifty-Eyed"
- CZERKA_fight_or_flight: "Fight or Flight"
- CZERKA_slippery_devil: "Slippery Devil"
- CZERKA_rolling_punches: "Rolling Punches"
- CZERKA_surprise_come: "Surprise Comeback"
- CZERKA_round_two: "Round Two"
- CZERKA_stopping_power: "Stopping Power"
- CZERKA_brawler_s_gift: "Brawler's Gift"
- CZERKA_survivor_s_scars: "Survivor's Scars"
- CZERKA_element_of_surprise: "Element of Surprise"
- CZERKA_browbeat: "Browbeat"
- CZERKA_keep_cool: "Keep Cool"
- CZERKA_scramble: "Scramble"
- CZERKA_hunter_s_boon: "Hunter's Boon"
- CZERKA_rocket_punch: "Rocket Punch"
- CZERKA_rail_shot: "Rail Shot"
- CZERKA_death_from_above: "Death From Above"
- CZERKA_determination: "Determination"
- CZERKA_on_the_trail: "On The Trail"
- CZERKA_intimidation: "Intimidation"
- CZERKA_constr_aurek: "Constructor Aurek"
- CZERKA_constr_besh: "Constructor Besh"
- CZERKA_constr_cresh: "Constructor Cresh"
- CZERKA_constr_dorn: "Constructor Dorn"
- CZERKA_constr_forn: "Constructor Forn"
- CZERKA_constr_grek: "Constructor Grek"
- CZERKA_constr_herf: "Constructor Herf"
- CZERKA_constr_isk: "Constructor Isk"
- CZERKA_constr_jenth: "Constructor Jenth"
- CZERKA_constr_krill: "Constructor Krill"
- CZERKA_constr_leth: "Constructor Leth"
- CZERKA_constr_mern: "Constructor Mern"
- CZERKA_constr_nern: "Constructor Nern"
- CZERKA_constr_osk: "Constructor Osk"
- CZERKA_constr_peth: "Constructor Peth"
- CZERKA_constr_senth: "Constructor Senth"
- CZERKA_constr_trill: "Constructor Trill"
- CZERKA_constr_usk: "Constructor Usk"
- CZERKA_constr_vev: "Constructor Vev"
- CZERKA_constr_wesk: "Constructor Wesk"
- CZERKA_constr_xesh: "Constructor Xesh"
- CZERKA_constr_yirt: "Constructor Yirt"
- CZERKA_constr_zerek: "Constructor Zerek"
- CZERKA_constr_cherek: "Constructor Cherek"
- CZERKA_constr_qek: "Constructor Qek"
- CZERKA_constr_resh: "Constructor Resh"
- CZERKA_constr_enth: "Constructor Enth"
- CZERKA_constr_onith: "Constructor Onith"
- CZERKA_constr_krenth: "Constructor Krenth"
- CZERKA_constr_nen: "Constructor Nen"
- CZERKA_constr_orenth: "Constructor Orenth"
- CZERKA_constr_shen: "Constructor Shen"
- CZERKA_constr_thesh: "Constructor Thesh"
- CZERKA_ground_transport: "Ground Transport"
- CZERKA_FLEET_acquisitions_fleet: "Acquisitions Fleet"
- CZERKA_FLEET_czerka_claims_fleet: "Czerka Claims Fleet"
- CZERKA_FLEET_czerka_interstellar_response_fleet: "Czerka Interstellar Response Fleet"
- CZERKA_FLEET_czerka_arms_strike_fleet: "Czerka Arms Strike Fleet"
- CZERKA_FLEET_telos_defense_fleet: "Telos Defense Fleet"
- CZERKA_FLEET_SEQUENTIAL_czerka_arms_fleet: "$ORD$ Czerka Arms Fleet"
- CZERKA_ARMY_SEQUENTIAL_droid_watch: "$ORD$ Droid Watch"
- CZERKA_ARMY_SEQUENTIAL_battle_droid_group: "$ORD$ Battle Droid Group"
- CZERKA_ARMY_SEQUENTIAL_czerka_security_force: "$ORD$ Czerka Security Force"
- CZERKA_ARMY_SEQUENTIAL_czerka_arms_task_force: "$ORD$ Czerka Arms Task Force"
- CZERKA_ARMY_SEQUENTIAL_penal_corps: "$ORD$ Penal Corps"
- CZERKA_ARMY_SEQUENTIAL_tankbred_regulars: "$ORD$ Tankbred Regulars"
- CZERKA_ARMY_SEQUENTIAL_dread_corps: "$ORD$ Dread Corps"
- CZERKA_ARMY_SEQUENTIAL_battle_drone_wing: "$ORD$ Battle Drone Wing"
- CZERKA_ARMY_SEQUENTIAL_battle_drone_emplacements: "$ORD$ Battle Drone Emplacements"
- CZERKA_ARMY_SEQUENTIAL_psi_ops_command: "$ORD$ Psi-Ops Command"
- CZERKA_ARMY_SEQUENTIAL_shock_swarm: "$ORD$ Shock Swarm"
- CZERKA_ARMY_SEQUENTIAL_purebloods: "$ORD$ Purebloods"
- CZERKA_ARMY_SEQUENTIAL_occupation_watch: "$ORD$ Occupation Watch"
- CZERKA_ARMY_SEQUENTIAL_occupation_drones: "$ORD$ Occupation Drones"
- CZERKA_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- CZERKA_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- CZERKA_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- CZERKA_CHR_antayen: "Antayen"
- CZERKA_CHR_armin: "Armin"
- CZERKA_CHR_batono: "Batono"
- CZERKA_CHR_billan: "Billan"
- CZERKA_CHR_brall: "Brall"
- CZERKA_CHR_brendan: "Brendan"
- CZERKA_CHR_coro: "Coro"
- CZERKA_CHR_corrun: "Corrun"
- CZERKA_CHR_dehno: "Dehno"
- CZERKA_CHR_dern: "Dern"
- CZERKA_CHR_diirn: "Diirn"
- CZERKA_CHR_di_go: "Di-go"
- CZERKA_CHR_enok: "Enok"
- CZERKA_CHR_fodo: "Fodo"
- CZERKA_CHR_gayem: "Gayem"
- CZERKA_CHR_gragov: "Gragov"
- CZERKA_CHR_greeta: "Greeta"
- CZERKA_CHR_griff: "Griff"
- CZERKA_CHR_grommik: "Grommik"
- CZERKA_CHR_harra: "Harra"
- CZERKA_CHR_hawek: "Hawek"
- CZERKA_CHR_horell: "Horell"
- CZERKA_CHR_janos: "Janos"
- CZERKA_CHR_kamus: "Kamus"
- CZERKA_CHR_mex: "Mex"
- CZERKA_CHR_rasmus: "Rasmus"
- CZERKA_CHR_samovan: "Samovan"
- CZERKA_CHR_tarin: "Tarin"
- CZERKA_CHR_teak: "Teak"
- CZERKA_CHR_thon: "Thon"
- CZERKA_CHR_torkel: "Torkel"
- CZERKA_CHR_trey: "Trey"
- CZERKA_CHR_ward: "Ward"
- CZERKA_CHR_wren: "Wren"
- CZERKA_CHR_xarval: "Xarval"
- CZERKA_CHR_yem: "Yem"
- CZERKA_CHR_zokar: "Zokar"
- CZERKA_CHR_eva: "Eva"
- CZERKA_CHR_faye: "Faye"
- CZERKA_CHR_galir: "Galir"
- CZERKA_CHR_jana: "Jana"
- CZERKA_CHR_joni: "Joni"
- CZERKA_CHR_kaya: "Kaya"
- CZERKA_CHR_merrit: "Merrit"
- CZERKA_CHR_nara: "Nara"
- CZERKA_CHR_soprin: "Soprin"
- CZERKA_CHR_vipp: "Vipp"
- CZERKA_CHR_adelair: "Adelair"
- CZERKA_CHR_bann: "Bann"
- CZERKA_CHR_blys: "Blys"
- CZERKA_CHR_briggam: "Briggam"
- CZERKA_CHR_col: "Col"
- CZERKA_CHR_denovan: "Denovan"
- CZERKA_CHR_falt: "Falt"
- CZERKA_CHR_fizark: "Fizark"
- CZERKA_CHR_hillin: "Hillin"
- CZERKA_CHR_holda: "Holda"
- CZERKA_CHR_kaayz: "Kaayz"
- CZERKA_CHR_kurthson: "Kurthson"
- CZERKA_CHR_laphmer: "Laphmer"
- CZERKA_CHR_lanra: "Lanra"
- CZERKA_CHR_leksende: "Leksende"
- CZERKA_CHR_lorso: "Lorso"
- CZERKA_CHR_medoo: "Medoo"
- CZERKA_CHR_natari: "Natari"
- CZERKA_CHR_orden: "Orden"
- CZERKA_CHR_radler: "Radler"
- CZERKA_CHR_ree: "Ree"
- CZERKA_CHR_reemus: "Reemus"
- CZERKA_CHR_safalla: "Safalla"
- CZERKA_CHR_seario: "Seario"
- CZERKA_CHR_tavar: "Tavar"
- CZERKA_CHR_wertka: "Wertka"
- CZERKA_CHR_yellip: "Yellip"
- CZERKA_CHR_pollard: "Pollard"
+  CZERKA_rotworm: "Гнилочервь" #NT!
+  CZERKA_frogdog: "Жабопёс" #NT!
+  CZERKA_footpad: "Лиходей" #NT!
+  CZERKA_assassin: "Ассасин" #NT!
+  CZERKA_executioner: "Палач" #NT!
+  CZERKA_butcher: "Мясник" #NT!
+  CZERKA_hired_gun: "Наёмник" #NT!
+  CZERKA_exterminator: "Истребитель" #NT!
+  CZERKA_liquidator: "Ликвидатор" #NT!
+  CZERKA_thuggee: "Тхаги" #NT!
+  CZERKA_swindler: "Аферист" #NT!
+  CZERKA_deceiver: "Мошенник" #NT!
+  CZERKA_viper: "Гадюка" #NT!
+  CZERKA_serpent: "Змий" #NT!
+  CZERKA_adder: "Уж" #NT!
+  CZERKA_molder: "Формовщик" #NT!
+  CZERKA_robber_barron: "Барон-разбойник" #NT!
+  CZERKA_burglar: "Взломщик" #NT!
+  CZERKA_mugger: "Негодяй" #NT!
+  CZERKA_raider: "Налетчик" #NT!
+  CZERKA_looter: "Лутер" #NT!
+  CZERKA_pillager: "Жулик" #NT!
+  CZERKA_pilferer: "Воришка" #NT!
+  CZERKA_solar_thief: "Солнечный вор" #NT!
+  CZERKA_bandit: "Бандит" #NT!
+  CZERKA_brigand: "Разбойник" #NT!
+  CZERKA_highwayman: "Бандит с большой дороги" #NT!
+  CZERKA_dacoit: "Дакойт" #NT!
+  CZERKA_marauder: "Мародёр" #NT!
+  CZERKA_poison: "Отрава" #NT!
+  CZERKA_stiletto: "Стилет" #NT!
+  CZERKA_bodkin: "Шило" #NT!
+  CZERKA_cutlass: "Кортик" #NT!
+  CZERKA_dirk: "Дирк" #NT!
+  CZERKA_poniard: "Поигнард" #NT!
+  CZERKA_scalpel: "Скальпель" #NT!
+  CZERKA_sickle: "Серп" #NT!
+  CZERKA_sabre: "Шашка" #NT!
+  CZERKA_scimitar: "Скимитар" #NT!
+  CZERKA_scythe: "Коса" #NT!
+  CZERKA_shank: "Хвостовик" #NT!
+  CZERKA_shiv: "Шив" #NT!
+  CZERKA_switchblade: "Выкидной нож" #NT!
+  CZERKA_tickler: "Щекотун" #NT!
+  CZERKA_skiver: "Нож" #NT!
+  CZERKA_strongarm: "Cильная рука" #NT!
+  CZERKA_bully_boy: "Драчун" #NT!
+  CZERKA_coercer: "Принуждающий" #NT!
+  CZERKA_intimidator: "Пугач" #NT!
+  CZERKA_cheap_shot: "Больное место" #NT!
+  CZERKA_black_eye: "Чёрный глаз" #NT!
+  CZERKA_invective_rex: "Оскорбительный король" #NT!
+  CZERKA_opprobrium: "Посрамление" #NT!
+  CZERKA_impertinence: "Нахальство" #NT!
+  CZERKA_impudence: "Беззастенчивость" #NT!
+  CZERKA_ignominy: "Бесславие" #NT!
+  CZERKA_slanderer: "Клеветник" #NT!
+  CZERKA_whisperer: "Шептун" #NT!
+  CZERKA_maven: "Знаток" #NT!
+  CZERKA_vitriol: "Сарказм" #NT!
+  CZERKA_shipcracker: "Взломщик" #NT!
+  CZERKA_implication: "Причастность" #NT!
+  CZERKA_right_hand: "Правая рука" #NT!
+  CZERKA_left_hand: "Левая рука" #NT!
+  CZERKA_godfather: "Крёстный отец" #NT!
+  CZERKA_godmother: "Крёстная мать" #NT!
+  CZERKA_made_man: "Бывалый" #NT!
+  CZERKA_wook_s_charm: "Очарование вуки" #NT!
+  CZERKA_silent_goodbye: "Тихое прощание" #NT!
+  CZERKA_goodnight: "Добрая ночь" #NT!
+  CZERKA_kneecapper: "Коленопреклоненный" #NT!
+  CZERKA_tail_snapper: "Кусачий хвост" #NT!
+  CZERKA_protection_money: "Плата за крышу" #NT!
+  CZERKA_payoff: "Выплата" #NT!
+  CZERKA_payback: "Окупаемость" #NT!
+  CZERKA_waste_manager: "Главный мусорщик" #NT!
+  CZERKA_ill_omen: "Дурное знамение" #NT!
+  CZERKA_heavy_hitter: "Крупная шишка" #NT!
+  CZERKA_dame: "Дама" #NT!
+  CZERKA_fait_accompli: "Свершившийся факт" #NT!
+  CZERKA_irreversible: "Необратимый" #NT!
+  CZERKA_indebted: "Задолжавший" #NT!
+  CZERKA_quiet_knife: "Тихий нож" #NT!
+  CZERKA_racket: "Рэкет" #NT!
+  CZERKA_rizzuti_s_end: "Конец Риззути" #NT!
+  CZERKA_blood_water: "Кровавая вода" #NT!
+  CZERKA_associate: "Связанный" #NT!
+  CZERKA_duracrete_shoe: "Дюракритовый башмак" #NT!
+  CZERKA_clipper: "Клипер" #NT!
+  CZERKA_code_of_silence: "Кодекс молчания" #NT!
+  CZERKA_consigliere: "Консильери" #NT!
+  CZERKA_cugine: "Двоюродная сестра" #NT!
+  CZERKA_earner: "Добытчик" #NT!
+  CZERKA_initiator: "Инициатор" #NT!
+  CZERKA_message_job: "Чёрная метка" #NT!
+  CZERKA_oathbound: "Связанный клятвой" #NT!
+  CZERKA_temporary_reprieve: "Временная передышка" #NT!
+  CZERKA_shy_prince: "Стеснительный принц" #NT!
+  CZERKA_underboss: "Заместитель" #NT!
+  CZERKA_vigorish: "Бодрящий" #NT!
+  CZERKA_second_nephew: "Второй племянник" #NT!
+  CZERKA_anzat_one: "Анзат-1" #NT!
+  CZERKA_arc_razor: "Дуговая бритва" #NT!
+  CZERKA_azure_queen: "Лазурная королева" #NT!
+  CZERKA_yanov: "Янов" #NT!
+  CZERKA_lupus_maroo: "Люпус Мару" #NT!
+  CZERKA_virago: "Мегера" #NT!
+  CZERKA_venomator: "Веноматор" #NT!
+  CZERKA_vendetta: "Вендетта" #NT!
+  CZERKA_stinger: "Жало" #NT!
+  CZERKA_raptor: "Раптор" #NT!
+  CZERKA_rude_awakening: "Горькое разочарование" #NT!
+  CZERKA_racketeer: "Рэкетир" #NT!
+  CZERKA_hooligan: "Хулиган" #NT!
+  CZERKA_bedlam: "Бедлам" #NT!
+  CZERKA_desperado: "Отчаянный" #NT!
+  CZERKA_ruthless: "Беспощадный" #NT!
+  CZERKA_pitiless: "Безжалостный" #NT!
+  CZERKA_merciless: "Нещадный" #NT!
+  CZERKA_libertine: "Распутник" #NT!
+  CZERKA_visible_hand: "Видимая рука" #NT!
+  CZERKA_high_jack: "Высокий Джек" #NT!
+  CZERKA_low_blow: "Подстава" #NT!
+  CZERKA_lackey: "Прихвостень" #NT!
+  CZERKA_rough_hand: "Грубая рука" #NT!
+  CZERKA_delinquent: "Правонарушитель" #NT!
+  CZERKA_derelict: "Покинутый" #NT!
+  CZERKA_dereliction: "Пренебрежение" #NT!
+  CZERKA_razor_walk: "Прогулка по лезвию бритвы" #NT!
+  CZERKA_hamstringer: "Тиски" #NT!
+  CZERKA_degenerate: "Дегенерат" #NT!
+  CZERKA_profligate: "Распутник" #NT!
+  CZERKA_shakedown: "Разбой" #NT!
+  CZERKA_ruffian: "Головорез" #NT!
+  CZERKA_heist: "Ограбление" #NT!
+  CZERKA_last_caper: "Последний каприз" #NT!
+  CZERKA_stickup: "Налёт" #NT!
+  CZERKA_breakout: "Прорыв" #NT!
+  CZERKA_impulsive: "Резкий" #NT!
+  CZERKA_concierge: "Консьерж" #NT!
+  CZERKA_liecentious: "Распущенный" #NT!
+  CZERKA_salacious: "Непристойный" #NT!
+  CZERKA_fluid_meaning: "Жидкое значение" #NT!
+  CZERKA_recumbent_end: "Лежачий конец" #NT!
+  CZERKA_dirt_nap: "Грязный сон" #NT!
+  CZERKA_spoiler: "Спойлер" #NT!
+  CZERKA_recalcitrant: "Непокорный" #NT!
+  CZERKA_strumpet: "Гулящая девка" #NT!
+  CZERKA_brazen: "Наглый" #NT!
+  CZERKA_charlatan: "Шарлатан" #NT!
+  CZERKA_punishing_one: "Наказующий" #NT!
+  CZERKA_troublemaker: "Смутьян" #NT!
+  CZERKA_assailant: "Зачинщик" #NT!
+  CZERKA_disturber: "Помеха" #NT!
+  CZERKA_extortioner: "Паразит" #NT!
+  CZERKA_blackmail: "Шантаж" #NT!
+  CZERKA_outlaw: "Преступник" #NT!
+  CZERKA_stigma: "Клеймо" #NT!
+  CZERKA_innuendo: "Намёк" #NT!
+  CZERKA_insinuator: "Инсинуатор" #NT!
+  CZERKA_double_tap: "Двойное нажатие" #NT!
+  CZERKA_gambit: "Гамбит" #NT!
+  CZERKA_ransom: "Выкуп" #NT!
+  CZERKA_malcontent: "Недовольство" #NT!
+  CZERKA_mischevous: "Озорной" #NT!
+  CZERKA_broken_pyke: "Разломанный пайк" #NT!
+  CZERKA_acrimony: "Язвительность" #NT!
+  CZERKA_instigator: "Подстрекатель" #NT!
+  CZERKA_wanton: "Блудливый" #NT!
+  CZERKA_meritocrat: "Меритократ" #NT!
+  CZERKA_mortal_tax: "Налог на смерть" #NT!
+  CZERKA_discounter: "Скидка" #NT!
+  CZERKA_supervisory: "Контролирующий" #NT!
+  CZERKA_custodian: "Хранитель" #NT!
+  CZERKA_keeper: "Хранитель" #NT!
+  CZERKA_gatekeepr: "Вратарь" #NT!
+  CZERKA_leading_indicator: "Опережающий индикатор" #NT!
+  CZERKA_bellwether: "Вожак" #NT!
+  CZERKA_limitless: "Беспредельный" #NT!
+  CZERKA_boundless: "Безграничный" #NT!
+  CZERKA_bad_faith: "Недобросовестность" #NT!
+  CZERKA_bad_influence: "Плохое влияние" #NT!
+  CZERKA_underhand: "Закулисье" #NT!
+  CZERKA_infidel: "Неверность" #NT!
+  CZERKA_artful_dodger: "Искусный ловкач" #NT!
+  CZERKA_sucker_punch: "Запрещённый приём" #NT!
+  CZERKA_shade: "Полумрак" #NT!
+  CZERKA_silence: "Немота" #NT!
+  CZERKA_hoaxer: "Мистификатор" #NT!
+  CZERKA_flurry_of_bolts: "Шквал молний" #NT!
+  CZERKA_dirty_kick: "Подлый удар" #NT!
+  CZERKA_vital_shot: "Смертельный выстрел" #NT!
+  CZERKA_quick_shot: "Быстрый выстрел" #NT!
+  CZERKA_all_in: "Всё включено" #NT!
+  CZERKA_eagle_5: "Орёл 5" #NT!
+  CZERKA_lucky_dodge: "Удачный уворот" #NT!
+  CZERKA_shoot_first: "Стреляй первым" #NT!
+  CZERKA_nice_try: "Хорошая попытка" #NT!
+  CZERKA_open_wound: "Рваная рана" #NT!
+  CZERKA_mortal_wound: "Смертельная рана" #NT!
+  CZERKA_dirty_trickster: "Подлый трюкач" #NT!
+  CZERKA_feelin__woozy: "Одурманивание" #NT!
+  CZERKA_sneaky: "Скрытный" #NT!
+  CZERKA_scrappy: "Задиристый" #NT!
+  CZERKA_shifty_eyed: "Косой взгляд" #NT!
+  CZERKA_fight_or_flight: "Бей или беги" #NT!
+  CZERKA_slippery_devil: "Скользкий дьявол" #NT!
+  CZERKA_rolling_punches: "Избегающий ударов" #NT!
+  CZERKA_surprise_come: "Неожиданное возвращение" #NT!
+  CZERKA_round_two: "Второй раунд" #NT!
+  CZERKA_stopping_power: "Сдерживающая сила" #NT!
+  CZERKA_brawler_s_gift: "Подарок бойца" #NT!
+  CZERKA_survivor_s_scars: "Шрамы выжившего" #NT!
+  CZERKA_element_of_surprise: "Элемент неожиданности" #NT!
+  CZERKA_browbeat: "Запугивание" #NT!
+  CZERKA_keep_cool: "Сохраняющий хладнокровие" #NT!
+  CZERKA_scramble: "Схватка" #NT!
+  CZERKA_hunter_s_boon: "Дар охотника" #NT!
+  CZERKA_rocket_punch: "Ракетный удар" #NT!
+  CZERKA_rail_shot: "Дуплет" #NT!
+  CZERKA_death_from_above: "Смерть с небес" #NT!
+  CZERKA_determination: "Решимость" #NT!
+  CZERKA_on_the_trail: "По следу" #NT!
+  CZERKA_intimidation: "Устрашение" #NT!
+  CZERKA_constr_aurek: "Конструктор «Аурек»" #NT!
+  CZERKA_constr_besh: "Конструктор «Беш»" #NT!
+  CZERKA_constr_cresh: "Конструктор «Креш»" #NT!
+  CZERKA_constr_dorn: "Конструктор «Дорн»" #NT!
+  CZERKA_constr_forn: "Конструктор «Форн»" #NT!
+  CZERKA_constr_grek: "Конструктор «Грек»" #NT!
+  CZERKA_constr_herf: "Конструктор «Херф»" #NT!
+  CZERKA_constr_isk: "Конструктор «Иск»" #NT!
+  CZERKA_constr_jenth: "Конструктор «Джент»" #NT!
+  CZERKA_constr_krill: "Конструктор «Крилл»" #NT!
+  CZERKA_constr_leth: "Конструктор «Лет»" #NT!
+  CZERKA_constr_mern: "Конструктор «Мерн»" #NT!
+  CZERKA_constr_nern: "Конструктор «Нерн»" #NT!
+  CZERKA_constr_osk: "Конструктор «Оск»" #NT!
+  CZERKA_constr_peth: "Конструктор «Пет»" #NT!
+  CZERKA_constr_senth: "Конструктор «Сент»" #NT!
+  CZERKA_constr_trill: "Конструктор «Трилл»" #NT!
+  CZERKA_constr_usk: "Конструктор «Уск»" #NT!
+  CZERKA_constr_vev: "Конструктор «Вев»" #NT!
+  CZERKA_constr_wesk: "Конструктор «Уэск»" #NT!
+  CZERKA_constr_xesh: "Конструктор «Зеш»" #NT!
+  CZERKA_constr_yirt: "Конструктор «Йирт»" #NT!
+  CZERKA_constr_zerek: "Конструктор «Зерек»" #NT!
+  CZERKA_constr_cherek: "Конструктор «Черек»" #NT!
+  CZERKA_constr_qek: "Конструктор «Кек»" #NT!
+  CZERKA_constr_resh: "Конструктор «Реш»" #NT!
+  CZERKA_constr_enth: "Конструктор «Энт»" #NT!
+  CZERKA_constr_onith: "Конструктор «Онит»" #NT!
+  CZERKA_constr_krenth: "Конструктор «Крент»" #NT!
+  CZERKA_constr_nen: "Конструктор «Нен»" #NT!
+  CZERKA_constr_orenth: "Конструктор «Орент»" #NT!
+  CZERKA_constr_shen: "Конструктор «Шен»" #NT!
+  CZERKA_constr_thesh: "Конструктор «Теш»" #NT!
+  CZERKA_ground_transport: "Наземный транспорт" #NT!
+  CZERKA_FLEET_acquisitions_fleet: "Сборочный флот" #NT!
+  CZERKA_FLEET_czerka_claims_fleet: "Претензионный флот «Цзерки»" #NT!
+  CZERKA_FLEET_czerka_interstellar_response_fleet: "Межзвёздный флот реагирования «Цзерки»" #NT!
+  CZERKA_FLEET_czerka_arms_strike_fleet: "Ударный флот «Оружия Цзерки»" #NT!
+  CZERKA_FLEET_telos_defense_fleet: "Флот обороны Телоса" #NT!
+  CZERKA_FLEET_SEQUENTIAL_czerka_arms_fleet: "$ORD$ Флот «Оружия Цзерки»" #NT!
+  CZERKA_ARMY_SEQUENTIAL_droid_watch: "$ORD$ Дозор дроидов" #NT!
+  CZERKA_ARMY_SEQUENTIAL_battle_droid_group: "$ORD$ Группа боевых дроидов" #NT!
+  CZERKA_ARMY_SEQUENTIAL_czerka_security_force: "$ORD$ Силы безопасности «Цзерки»" #NT!
+  CZERKA_ARMY_SEQUENTIAL_czerka_arms_task_force: "$ORD$ Опергруппа «Оружия Цзерки»" #NT!
+  CZERKA_ARMY_SEQUENTIAL_penal_corps: "$ORD$ Штрафной корпус" #NT!
+  CZERKA_ARMY_SEQUENTIAL_tankbred_regulars: "$ORD$ Солдаты-клоны" #NT!
+  CZERKA_ARMY_SEQUENTIAL_dread_corps: "$ORD$ Корпус ужаса" #NT!
+  CZERKA_ARMY_SEQUENTIAL_battle_drone_wing: "$ORD$ Крыло боевых дроидов" #NT!
+  CZERKA_ARMY_SEQUENTIAL_battle_drone_emplacements: "$ORD$ Комплекс боевых дронов" #NT!
+  CZERKA_ARMY_SEQUENTIAL_psi_ops_command: "$ORD$ Командование пси-операций" #NT!
+  CZERKA_ARMY_SEQUENTIAL_shock_swarm: "$ORD$ Ударный рой" #NT!
+  CZERKA_ARMY_SEQUENTIAL_purebloods: "$ORD$ Чистокровные" #NT!
+  CZERKA_ARMY_SEQUENTIAL_occupation_watch: "$ORD$ Оккупационный дозор" #NT!
+  CZERKA_ARMY_SEQUENTIAL_occupation_drones: "$ORD$ Оккупационные дроны" #NT!
+  CZERKA_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  CZERKA_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  CZERKA_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  CZERKA_CHR_antayen: "Антайен" #NT!
+  CZERKA_CHR_armin: "Армин" #NT!
+  CZERKA_CHR_batono: "Батоно" #NT!
+  CZERKA_CHR_billan: "Биллан" #NT!
+  CZERKA_CHR_brall: "Бралл" #NT!
+  CZERKA_CHR_brendan: "Брендан" #NT!
+  CZERKA_CHR_coro: "Коро" #NT!
+  CZERKA_CHR_corrun: "Коррун" #NT!
+  CZERKA_CHR_dehno: "Дэно" #NT!
+  CZERKA_CHR_dern: "Дэрн" #NT!
+  CZERKA_CHR_diirn: "Диирн" #NT!
+  CZERKA_CHR_di_go: "Ди-го" #NT!
+  CZERKA_CHR_enok: "Энок" #NT!
+  CZERKA_CHR_fodo: "Фодо" #NT!
+  CZERKA_CHR_gayem: "Гайем" #NT!
+  CZERKA_CHR_gragov: "Грагов" #NT!
+  CZERKA_CHR_greeta: "Грита" #NT!
+  CZERKA_CHR_griff: "Грифф" #NT!
+  CZERKA_CHR_grommik: "Громмик" #NT!
+  CZERKA_CHR_harra: "Харра" #NT!
+  CZERKA_CHR_hawek: "Хавек" #NT!
+  CZERKA_CHR_horell: "Хорелл" #NT!
+  CZERKA_CHR_janos: "Янос" #NT!
+  CZERKA_CHR_kamus: "Камус" #NT!
+  CZERKA_CHR_mex: "Мекс" #NT!
+  CZERKA_CHR_rasmus: "Расмус" #NT!
+  CZERKA_CHR_samovan: "Самован" #NT!
+  CZERKA_CHR_tarin: "Тарин" #NT!
+  CZERKA_CHR_teak: "Тик" #NT!
+  CZERKA_CHR_thon: "Тхон" #NT!
+  CZERKA_CHR_torkel: "Торкел" #NT!
+  CZERKA_CHR_trey: "Трэй" #NT!
+  CZERKA_CHR_ward: "Вард" #NT!
+  CZERKA_CHR_wren: "Врэн" #NT!
+  CZERKA_CHR_xarval: "Ксарвал" #NT!
+  CZERKA_CHR_yem: "Йем" #NT!
+  CZERKA_CHR_zokar: "Зокар" #NT!
+  CZERKA_CHR_eva: "Ева" #NT!
+  CZERKA_CHR_faye: "Фэйе" #NT!
+  CZERKA_CHR_galir: "Галир" #NT!
+  CZERKA_CHR_jana: "Яна" #NT!
+  CZERKA_CHR_joni: "Йони" #NT!
+  CZERKA_CHR_kaya: "Кайя" #NT!
+  CZERKA_CHR_merrit: "Меррит" #NT!
+  CZERKA_CHR_nara: "Нара" #NT!
+  CZERKA_CHR_soprin: "Соприн" #NT!
+  CZERKA_CHR_vipp: "Випп" #NT!
+  CZERKA_CHR_adelair: "Аделайр" #NT!
+  CZERKA_CHR_bann: "Банн" #NT!
+  CZERKA_CHR_blys: "Блайс" #NT!
+  CZERKA_CHR_briggam: "Бриггам" #NT!
+  CZERKA_CHR_col: "Кол" #NT!
+  CZERKA_CHR_denovan: "Денован" #NT!
+  CZERKA_CHR_falt: "Фалт" #NT!
+  CZERKA_CHR_fizark: "Физарк" #NT!
+  CZERKA_CHR_hillin: "Хиллин" #NT!
+  CZERKA_CHR_holda: "Холда" #NT!
+  CZERKA_CHR_kaayz: "Кэйз" #NT!
+  CZERKA_CHR_kurthson: "Куртсон" #NT!
+  CZERKA_CHR_laphmer: "Лафмер" #NT!
+  CZERKA_CHR_lanra: "Ланра" #NT!
+  CZERKA_CHR_leksende: "Лексенде" #NT!
+  CZERKA_CHR_lorso: "Лорсо" #NT!
+  CZERKA_CHR_medoo: "Миду" #NT!
+  CZERKA_CHR_natari: "Натари" #NT!
+  CZERKA_CHR_orden: "Орден" #NT!
+  CZERKA_CHR_radler: "Радлер" #NT!
+  CZERKA_CHR_ree: "Ри" #NT!
+  CZERKA_CHR_reemus: "Римус" #NT!
+  CZERKA_CHR_safalla: "Сафалла" #NT!
+  CZERKA_CHR_seario: "Сирио" #NT!
+  CZERKA_CHR_tavar: "Тавар" #NT!
+  CZERKA_CHR_wertka: "Вертка" #NT!
+  CZERKA_CHR_yellip: "Еллип" #NT!
+  CZERKA_CHR_pollard: "Поллард" #NT!

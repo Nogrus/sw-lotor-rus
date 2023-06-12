@@ -1,221 +1,221 @@
 ﻿l_russian:
- VERPINE_cleaner: "Cleaner"
- VERPINE_sentry: "Sentry"
- VERPINE_raider: "Raider"
- VERPINE_sapper: "Sapper"
- VERPINE_stalker: "Stalker"
- VERPINE_ambusher: "Ambusher"
- VERPINE_scavenger: "Scavenger"
- VERPINE_cutter: "Cutter"
- VERPINE_brute: "Brute"
- VERPINE_scout: "Scout"
- VERPINE_troweler: "Troweler"
- VERPINE_tracker: "Tracker"
- VERPINE_guard: "Guard"
- VERPINE_sentinel: "Sentinel"
- VERPINE_spawn: "Spawn"
- VERPINE_drone: "Drone"
- VERPINE_grub: "Grub"
- VERPINE_larvae: "Larvae"
- VERPINE_broodlord: "Broodlord"
- VERPINE_hive_queen: "Hive Queen"
- VERPINE_hive_lord: "Hive Lord"
- VERPINE_nest_scrounger: "Nest Scrounger"
- VERPINE_hive_charger: "Hive Charger"
- VERPINE_invader: "Invader"
- VERPINE_tyrant: "Tyrant"
- VERPINE_patroller: "Patroller"
- VERPINE_warseeker: "Warseeker"
- VERPINE_protector: "Protector"
- VERPINE_siege_screecher: "Siege Screecher"
- VERPINE_siege_ravager: "Siege Ravager"
- VERPINE_siege_berserker: "Siege Berserker"
- VERPINE_burrow_commando: "Burrow Commando"
- VERPINE_siege_commander: "Siege Commander"
- VERPINE_nest_brawler: "Nest Brawler"
- VERPINE_siege_patriarch: "Siege Patriarch"
- VERPINE_tanker: "Tanker"
- VERPINE_dredger: "Dredger"
- VERPINE_burrow_veteran: "Burrow Veteran"
- VERPINE_hive_grounder: "Hive Grounder"
- VERPINE_nest_sentry: "Nest Sentry"
- VERPINE_waylayer: "Waylayer"
- VERPINE_nest_reaver: "Nest Reaver"
- VERPINE_magenge: "Magenge"
- VERPINE_ootheca: "Ootheca"
- VERPINE_summa_verminoth: "Summa-verminoth"
- VERPINE_exogorth: "Exogorth"
- VERPINE_purrgil: "Purrgil"
- VERPINE_neebray: "Neebray"
- VERPINE_mynock: "Mynock"
- VERPINE_barri: "Barri"
- VERPINE_gralloc: "Gralloc"
- VERPINE_grutchin: "Grutchin"
- VERPINE_oswaft: "Oswaft"
- VERPINE_ridadi: "Ridadi"
- VERPINE_scree: "Scree"
- VERPINE_space_grazer: "Space Grazer"
- VERPINE_stillsail: "Stillsail"
- VERPINE_spawner: "Spawner"
- VERPINE_egg_carrier: "Egg Carrier"
- VERPINE_laborer: "Laborer"
- VERPINE_drone_aurek: "Worker Drone Aurek"
- VERPINE_drone_besh: "Worker Drone Besh"
- VERPINE_drone_cresh: "Worker Drone Cresh"
- VERPINE_drone_dorn: "Worker Drone Dorn"
- VERPINE_drone_forn: "Worker Drone Forn"
- VERPINE_drone_grek: "Worker Drone Grek"
- VERPINE_drone_herf: "Worker Drone Herf"
- VERPINE_drone_isk: "Worker Drone Isk"
- VERPINE_drone_jenth: "Worker Drone Jenth"
- VERPINE_drone_krill: "Worker Drone Krill"
- VERPINE_drone_leth: "Worker Drone Leth"
- VERPINE_drone_mern: "Worker Drone Mern"
- VERPINE_drone_nern: "Worker Drone Nern"
- VERPINE_drone_osk: "Worker Drone Osk"
- VERPINE_drone_peth: "Worker Drone Peth"
- VERPINE_drone_senth: "Worker Drone Senth"
- VERPINE_drone_trill: "Worker Drone Trill"
- VERPINE_drone_usk: "Worker Drone Usk"
- VERPINE_drone_vev: "Worker Drone Vev"
- VERPINE_drone_wesk: "Worker Drone Wesk"
- VERPINE_drone_xesh: "Worker Drone Xesh"
- VERPINE_drone_yirt: "Worker Drone Yirt"
- VERPINE_drone_zerek: "Worker Drone Zerek"
- VERPINE_drone_cherek: "Worker Drone Cherek"
- VERPINE_drone_qek: "Worker Drone Qek"
- VERPINE_drone_resh: "Worker Drone Resh"
- VERPINE_drone_enth: "Worker Drone Enth"
- VERPINE_drone_onith: "Worker Drone Onith"
- VERPINE_drone_krenth: "Worker Drone Krenth"
- VERPINE_drone_nen: "Worker Drone Nen"
- VERPINE_drone_orenth: "Worker Drone Orenth"
- VERPINE_drone_shen: "Worker Drone Shen"
- VERPINE_drone_thesh: "Worker Drone Thesh"
- VERPINE_carrier: "Carrier"
- VERPINE_FLEET_males_who_die_for_the_hive_mother: "Males-Who-Die-For-The-Hive-Mother"
- VERPINE_FLEET_hive_mother_s_wrath: "Hive Mother's Wrath"
- VERPINE_FLEET_legacy_of_roche: "Legacy of Roche"
- VERPINE_FLEET_roche_hive_defense_swarm: "Roche Hive Defense Swarm"
- VERPINE_FLEET_slaynroche_defense_swarm: "SlaynRoche Defense Swarm"
- VERPINE_FLEET_slayn___korpil_defense_swarm: "Slayn & Korpil Defense Swarm"
- VERPINE_FLEET_strength_of_the_hive: "Strength of the Hive"
- VERPINE_FLEET_pride_of_roche: "Pride of Roche"
- VERPINE_FLEET_SEQUENTIAL_hive_fleet: "$ORD$ Hive Fleet"
- VERPINE_ARMY_SEQUENTIAL_defense_force: "$ORD$ Defense Force"
- VERPINE_ARMY_SEQUENTIAL_strike_force: "$ORD$ Strike Force"
- VERPINE_ARMY_SEQUENTIAL_defense_drones: "$ORD$ Defense Drones"
- VERPINE_ARMY_SEQUENTIAL_strike_drones: "$ORD$ Strike Drones"
- VERPINE_ARMY_SEQUENTIAL_slave_drones: "$ORD$ Slave Drones"
- VERPINE_ARMY_SEQUENTIAL_clone_division: "$ORD$ Clone Division"
- VERPINE_ARMY_SEQUENTIAL_dread_husks: "$ORD$ Dread Husks"
- VERPINE_ARMY_SEQUENTIAL_ix_6_heavy_combat_droid: "$ORD$ IX-6 Heavy Combat Droid"
- VERPINE_ARMY_SEQUENTIAL_droid_defense_force: "$ORD$ Droid Defense Force"
- VERPINE_ARMY_SEQUENTIAL_r_psi_force_ROM: "$R$ Psi-Force"
- VERPINE_ARMY_SEQUENTIAL_xenomorph_force: "$ORD$ Xenomorph Force"
- VERPINE_ARMY_SEQUENTIAL_biomorph_force: "$ORD$ Biomorph Force"
- VERPINE_ARMY_SEQUENTIAL_occupation_force: "$ORD$ Occupation Force"
- VERPINE_ARMY_SEQUENTIAL_droid_occupiers: "$ORD$ Droid Occupiers"
- VERPINE_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- VERPINE_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- VERPINE_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- VERPINE_CHR_ark_ik: "Ark'ik"
- VERPINE_CHR_bascko: "Bascko"
- VERPINE_CHR_clik: "Clik"
- VERPINE_CHR_effor: "Effor"
- VERPINE_CHR_garginoolaara: "Garginoolaara"
- VERPINE_CHR_jurfel: "Jurfel"
- VERPINE_CHR_luufkin: "Luufkin"
- VERPINE_CHR_moegid: "Moegid"
- VERPINE_CHR_kyli_ned_ix: "Kyli Ned'Ix"
- VERPINE_CHR_osos: "Osos"
- VERPINE_CHR_niskooen: "Niskooen"
- VERPINE_CHR_pera: "Pera"
- VERPINE_CHR_pg_lax: "Pg'lax"
- VERPINE_CHR_ra_tre: "Ra'tre"
- VERPINE_CHR_beyghor: "Beyghor"
- VERPINE_CHR_sahdett: "Sahdett"
- VERPINE_CHR_sass: "Sass"
- VERPINE_CHR_sikili: "Sikili"
- VERPINE_CHR_lyns: "Lyns"
- VERPINE_CHR_skutroo: "Skutroo"
- VERPINE_CHR_ss_ess: "Ss'ess"
- VERPINE_CHR_suskafoo: "Suskafoo"
- VERPINE_CHR_vaxan: "Vaxan"
- VERPINE_CHR_zraii: "Zraii"
- VERPINE_CHR_nonfisi: "Nonfisi"
- VERPINE_CHR_zral: "Zral"
- VERPINE_CHR_a_tre: "A'tre"
- VERPINE_CHR_lux: "Lux"
- VERPINE_CHR_suuskyn: "Suuskyn"
- VERPINE_CHR_nar: "Nar"
- VERPINE_CHR_nurd_il: "Nurd'il"
- VERPINE_CHR_kir: "Kir"
- VERPINE_CHR_ansix: "Ansix"
- VERPINE_CHR_fxz_et: "Fxz'et"
- VERPINE_CHR_zix: "Zix"
- VERPINE_CHR_ss_s: "Ss's"
- VERPINE_CHR_sixor_akan: "Sixor Akan"
- VERPINE_CHR_malandis: "Malandis"
- VERPINE_CHR_losin: "Losin"
- VERPINE_CHR_ek_in: "Ek'in"
- VERPINE_CHR_schelor: "Schelor"
- VERPINE_CHR_asiroo: "Asiroo"
- VERPINE_CHR_seland_ir: "Seland'Ir"
- VERPINE_CHR_ginor: "Ginor"
- VERPINE_CHR_muusnyn: "Muusnyn"
- VERPINE_CHR_sur_iki: "Sur'iki"
- VERPINE_CHR_jigkan: "Jigkan"
- VERPINE_CHR_gaxin: "Gaxin"
- VERPINE_CHR_moerginasck: "Moerginasck"
- VERPINE_CHR_nicless: "Nicless"
- VERPINE_CHR_fdux: "Fdux"
- VERPINE_CHR_ss_ed: "Ss'ed"
- VERPINE_CHR_naxon: "Naxon"
- VERPINE_CHR_liglol: "Liglol"
- VERPINE_CHR_bedkesse: "Bedkesse"
- VERPINE_CHR_askelaara: "Askelaara"
- VERPINE_CHR_veflir: "Veflir"
- VERPINE_CHR_minalm: "Minalm"
- VERPINE_CHR_oenk_unoo: "Oenk'unoo"
- VERPINE_CHR_clak: "Clak"
- VERPINE_CHR_klak: "Klak"
- VERPINE_CHR_klik: "Klik"
- VERPINE_CHR_thabit: "Thabit"
- VERPINE_CHR_theemin: "Theemin"
- VERPINE_CHR_unukalhai: "Unukalhai"
- VERPINE_CHR_vega: "Vega"
- VERPINE_CHR_vindemiatrix: "Vindemiatrix"
- VERPINE_CHR_wasat: "Wasat"
- VERPINE_CHR_ned_ir_sass: "Ned'Ir Sass"
- VERPINE_CHR_promethone: "Promethone"
- VERPINE_CHR_franca: "Franca"
- VERPINE_CHR_margarginoolaara: "Margarginoolaara"
- VERPINE_CHR_chalatea: "Chalatea"
- VERPINE_CHR_tritonoe: "Tritonoe"
- VERPINE_CHR_skooen: "Skooen"
- VERPINE_CHR_himalind: "Himalind"
- VERPINE_CHR_corax: "Corax"
- VERPINE_CHR_porix: "Porix"
- VERPINE_CHR_frandorax: "Frandorax"
- VERPINE_CHR_elariel: "Elariel"
- VERPINE_CHR_koral: "Koral"
- VERPINE_CHR_kor: "Kor"
- VERPINE_CHR_t_vis: "T'vis"
- VERPINE_CHR_divok: "Divok"
- VERPINE_CHR_drex: "Drex"
- VERPINE_CHR_kurn: "Kurn"
- VERPINE_CHR_zegov: "Zegov"
- VERPINE_CHR_torg: "Torg"
- VERPINE_CHR_fzx: "Fzx"
- VERPINE_CHR_l_del: "L'del"
- VERPINE_CHR_krump: "Krump"
- VERPINE_CHR_blik: "Blik"
- VERPINE_CHR_martok: "Martok"
- VERPINE_CHR_ch_rega: "Ch'Rega"
- VERPINE_CHR_korris: "Korris"
- VERPINE_CHR_skafoo: "Skafoo"
- VERPINE_CHR_eladus: "Eladus"
- VERPINE_CHR_hyperis: "Hyperis"
- VERPINE_CHR_slayn: "Slayn"
- VERPINE_CHR_korpil: "Korpil"
+  VERPINE_cleaner: "Чистильщик" #NT!
+  VERPINE_sentry: "Часовой" #NT!
+  VERPINE_raider: "Налетчик" #NT!
+  VERPINE_sapper: "Сапёр" #NT!
+  VERPINE_stalker: "Сталкер" #NT!
+  VERPINE_ambusher: "Засадник" #NT!
+  VERPINE_scavenger: "Мусорщик" #NT!
+  VERPINE_cutter: "Резчик" #NT!
+  VERPINE_brute: "Дикарь" #NT!
+  VERPINE_scout: "Скаут" #NT!
+  VERPINE_troweler: "Затирщик" #NT!
+  VERPINE_tracker: "Ищейка" #NT!
+  VERPINE_guard: "Стражник" #NT!
+  VERPINE_sentinel: "Дозорный" #NT!
+  VERPINE_spawn: "Порождение" #NT!
+  VERPINE_drone: "Трутень" #NT!
+  VERPINE_grub: "Харч" #NT!
+  VERPINE_larvae: "Личинка" #NT!
+  VERPINE_broodlord: "Повелитель выводка" #NT!
+  VERPINE_hive_queen: "Королева улья" #NT!
+  VERPINE_hive_lord: "Лорд улья" #NT!
+  VERPINE_nest_scrounger: "Гнездовой воришка" #NT!
+  VERPINE_hive_charger: "Боевик улья" #NT!
+  VERPINE_invader: "Вторженец" #NT!
+  VERPINE_tyrant: "Тиран" #NT!
+  VERPINE_patroller: "Патрульный" #NT!
+  VERPINE_warseeker: "Искатель войны" #NT!
+  VERPINE_protector: "Покровитель" #NT!
+  VERPINE_siege_screecher: "Осадный визжак" #NT!
+  VERPINE_siege_ravager: "Осадный разоритель" #NT!
+  VERPINE_siege_berserker: "Осадный берсерк" #NT!
+  VERPINE_burrow_commando: "Роющий коммандо" #NT!
+  VERPINE_siege_commander: "Осадный коммандер" #NT!
+  VERPINE_nest_brawler: "Гнездовой скандалист" #NT!
+  VERPINE_siege_patriarch: "Осадный патриарх" #NT!
+  VERPINE_tanker: "Танкер" #NT!
+  VERPINE_dredger: "Землекоп" #NT!
+  VERPINE_burrow_veteran: "Роющий ветеран" #NT!
+  VERPINE_hive_grounder: "Землерой улья" #NT!
+  VERPINE_nest_sentry: "Гнездовой дозорный" #NT!
+  VERPINE_waylayer: "Путник" #NT!
+  VERPINE_nest_reaver: "Гнездовой разбойник" #NT!
+  VERPINE_magenge: "Магенж" #NT!
+  VERPINE_ootheca: "Оотека" #NT!
+  VERPINE_summa_verminoth: "Самма-верминот" #NT!
+  VERPINE_exogorth: "Экзогорт" #NT!
+  VERPINE_purrgil: "Пёрргил" #NT!
+  VERPINE_neebray: "Нибрай" #NT!
+  VERPINE_mynock: "Майнок" #NT!
+  VERPINE_barri: "Барри" #NT!
+  VERPINE_gralloc: "Граллок" #NT!
+  VERPINE_grutchin: "Гратчин" #NT!
+  VERPINE_oswaft: "Освафт" #NT!
+  VERPINE_ridadi: "Ридади" #NT!
+  VERPINE_scree: "Скри" #NT!
+  VERPINE_space_grazer: "Космический пожиратель" #NT!
+  VERPINE_stillsail: "Плавучий парус" #NT!
+  VERPINE_spawner: "Породитель" #NT!
+  VERPINE_egg_carrier: "Перевозчик яиц" #NT!
+  VERPINE_laborer: "Трудовик" #NT!
+  VERPINE_drone_aurek: "Рабочий трутень «Аурек»" #NT!
+  VERPINE_drone_besh: "Рабочий трутень «Беш»" #NT!
+  VERPINE_drone_cresh: "Рабочий трутень «Креш»" #NT!
+  VERPINE_drone_dorn: "Рабочий трутень «Дорн»" #NT!
+  VERPINE_drone_forn: "Рабочий трутень «Форн»" #NT!
+  VERPINE_drone_grek: "Рабочий трутень «Грек»" #NT!
+  VERPINE_drone_herf: "Рабочий трутень «Херф»" #NT!
+  VERPINE_drone_isk: "Рабочий трутень «Иск»" #NT!
+  VERPINE_drone_jenth: "Рабочий трутень «Джент»" #NT!
+  VERPINE_drone_krill: "Рабочий трутень «Крилл»" #NT!
+  VERPINE_drone_leth: "Рабочий трутень «Лет»" #NT!
+  VERPINE_drone_mern: "Рабочий трутень «Мерн»" #NT!
+  VERPINE_drone_nern: "Рабочий трутень «Нерн»" #NT!
+  VERPINE_drone_osk: "Рабочий трутень «Оск»" #NT!
+  VERPINE_drone_peth: "Рабочий трутень «Пет»" #NT!
+  VERPINE_drone_senth: "Рабочий трутень «Сент»" #NT!
+  VERPINE_drone_trill: "Рабочий трутень «Трилл»" #NT!
+  VERPINE_drone_usk: "Рабочий трутень «Уск»" #NT!
+  VERPINE_drone_vev: "Рабочий трутень «Вев»" #NT!
+  VERPINE_drone_wesk: "Рабочий трутень «Уэск»" #NT!
+  VERPINE_drone_xesh: "Рабочий трутень «Зеш»" #NT!
+  VERPINE_drone_yirt: "Рабочий трутень «Йирт»" #NT!
+  VERPINE_drone_zerek: "Рабочий трутень «Зерек»" #NT!
+  VERPINE_drone_cherek: "Рабочий трутень «Черек»" #NT!
+  VERPINE_drone_qek: "Рабочий трутень «Кек»" #NT!
+  VERPINE_drone_resh: "Рабочий трутень «Реш»" #NT!
+  VERPINE_drone_enth: "Рабочий трутень «Энт»" #NT!
+  VERPINE_drone_onith: "Рабочий трутень «Онит»" #NT!
+  VERPINE_drone_krenth: "Рабочий трутень «Крент»" #NT!
+  VERPINE_drone_nen: "Рабочий трутень «Нен»" #NT!
+  VERPINE_drone_orenth: "Рабочий трутень «Орент»" #NT!
+  VERPINE_drone_shen: "Рабочий трутень «Шен»" #NT!
+  VERPINE_drone_thesh: "Рабочий трутень «Теш»" #NT!
+  VERPINE_carrier: "Носильщик" #NT!
+  VERPINE_FLEET_males_who_die_for_the_hive_mother: "Самцы-которые-умрут-за-мать-улья" #NT!
+  VERPINE_FLEET_hive_mother_s_wrath: "Гнев матки улья" #NT!
+  VERPINE_FLEET_legacy_of_roche: "Наследие Роше" #NT!
+  VERPINE_FLEET_roche_hive_defense_swarm: "Оборонительный рой улья Роше" #NT!
+  VERPINE_FLEET_slaynroche_defense_swarm: "Оборонительный рой компании «СлайнРоше»" #NT!
+  VERPINE_FLEET_slayn___korpil_defense_swarm: "Оборонительный рой компании «Слайн и Корпил»" #NT!
+  VERPINE_FLEET_strength_of_the_hive: "Сила улья" #NT!
+  VERPINE_FLEET_pride_of_roche: "Гордость Роше" #NT!
+  VERPINE_FLEET_SEQUENTIAL_hive_fleet: "$ORD$ Hive Fleet" #NT!
+  VERPINE_ARMY_SEQUENTIAL_defense_force: "$ORD$ Defense Force" #NT!
+  VERPINE_ARMY_SEQUENTIAL_strike_force: "$ORD$ Strike Force" #NT!
+  VERPINE_ARMY_SEQUENTIAL_defense_drones: "$ORD$ Defense Drones" #NT!
+  VERPINE_ARMY_SEQUENTIAL_strike_drones: "$ORD$ Strike Drones" #NT!
+  VERPINE_ARMY_SEQUENTIAL_slave_drones: "$ORD$ Slave Drones" #NT!
+  VERPINE_ARMY_SEQUENTIAL_clone_division: "$ORD$ Clone Division" #NT!
+  VERPINE_ARMY_SEQUENTIAL_dread_husks: "$ORD$ Dread Husks" #NT!
+  VERPINE_ARMY_SEQUENTIAL_ix_6_heavy_combat_droid: "$ORD$ IX-6 Heavy Combat Droid" #NT!
+  VERPINE_ARMY_SEQUENTIAL_droid_defense_force: "$ORD$ Droid Defense Force" #NT!
+  VERPINE_ARMY_SEQUENTIAL_r_psi_force_ROM: "$R$ Пси-сила" #NT!
+  VERPINE_ARMY_SEQUENTIAL_xenomorph_force: "$ORD$ Xenomorph Force" #NT!
+  VERPINE_ARMY_SEQUENTIAL_biomorph_force: "$ORD$ Biomorph Force" #NT!
+  VERPINE_ARMY_SEQUENTIAL_occupation_force: "$ORD$ Occupation Force" #NT!
+  VERPINE_ARMY_SEQUENTIAL_droid_occupiers: "$ORD$ Droid Occupiers" #NT!
+  VERPINE_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  VERPINE_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  VERPINE_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  VERPINE_CHR_ark_ik: "Ark'ik" #NT!
+  VERPINE_CHR_bascko: "Bascko" #NT!
+  VERPINE_CHR_clik: "Clik" #NT!
+  VERPINE_CHR_effor: "Effor" #NT!
+  VERPINE_CHR_garginoolaara: "Garginoolaara" #NT!
+  VERPINE_CHR_jurfel: "Jurfel" #NT!
+  VERPINE_CHR_luufkin: "Luufkin" #NT!
+  VERPINE_CHR_moegid: "Moegid" #NT!
+  VERPINE_CHR_kyli_ned_ix: "Kyli Ned'Ix" #NT!
+  VERPINE_CHR_osos: "Osos" #NT!
+  VERPINE_CHR_niskooen: "Niskooen" #NT!
+  VERPINE_CHR_pera: "Pera" #NT!
+  VERPINE_CHR_pg_lax: "Pg'lax" #NT!
+  VERPINE_CHR_ra_tre: "Ra'tre" #NT!
+  VERPINE_CHR_beyghor: "Beyghor" #NT!
+  VERPINE_CHR_sahdett: "Sahdett" #NT!
+  VERPINE_CHR_sass: "Sass" #NT!
+  VERPINE_CHR_sikili: "Sikili" #NT!
+  VERPINE_CHR_lyns: "Lyns" #NT!
+  VERPINE_CHR_skutroo: "Skutroo" #NT!
+  VERPINE_CHR_ss_ess: "Ss'ess" #NT!
+  VERPINE_CHR_suskafoo: "Suskafoo" #NT!
+  VERPINE_CHR_vaxan: "Vaxan" #NT!
+  VERPINE_CHR_zraii: "Zraii" #NT!
+  VERPINE_CHR_nonfisi: "Nonfisi" #NT!
+  VERPINE_CHR_zral: "Zral" #NT!
+  VERPINE_CHR_a_tre: "A'tre" #NT!
+  VERPINE_CHR_lux: "Lux" #NT!
+  VERPINE_CHR_suuskyn: "Suuskyn" #NT!
+  VERPINE_CHR_nar: "Nar" #NT!
+  VERPINE_CHR_nurd_il: "Nurd'il" #NT!
+  VERPINE_CHR_kir: "Kir" #NT!
+  VERPINE_CHR_ansix: "Ansix" #NT!
+  VERPINE_CHR_fxz_et: "Fxz'et" #NT!
+  VERPINE_CHR_zix: "Zix" #NT!
+  VERPINE_CHR_ss_s: "Ss's" #NT!
+  VERPINE_CHR_sixor_akan: "Sixor Akan" #NT!
+  VERPINE_CHR_malandis: "Malandis" #NT!
+  VERPINE_CHR_losin: "Losin" #NT!
+  VERPINE_CHR_ek_in: "Ek'in" #NT!
+  VERPINE_CHR_schelor: "Schelor" #NT!
+  VERPINE_CHR_asiroo: "Asiroo" #NT!
+  VERPINE_CHR_seland_ir: "Seland'Ir" #NT!
+  VERPINE_CHR_ginor: "Ginor" #NT!
+  VERPINE_CHR_muusnyn: "Muusnyn" #NT!
+  VERPINE_CHR_sur_iki: "Sur'iki" #NT!
+  VERPINE_CHR_jigkan: "Jigkan" #NT!
+  VERPINE_CHR_gaxin: "Gaxin" #NT!
+  VERPINE_CHR_moerginasck: "Moerginasck" #NT!
+  VERPINE_CHR_nicless: "Nicless" #NT!
+  VERPINE_CHR_fdux: "Fdux" #NT!
+  VERPINE_CHR_ss_ed: "Ss'ed" #NT!
+  VERPINE_CHR_naxon: "Naxon" #NT!
+  VERPINE_CHR_liglol: "Liglol" #NT!
+  VERPINE_CHR_bedkesse: "Bedkesse" #NT!
+  VERPINE_CHR_askelaara: "Askelaara" #NT!
+  VERPINE_CHR_veflir: "Veflir" #NT!
+  VERPINE_CHR_minalm: "Minalm" #NT!
+  VERPINE_CHR_oenk_unoo: "Oenk'unoo" #NT!
+  VERPINE_CHR_clak: "Clak" #NT!
+  VERPINE_CHR_klak: "Klak" #NT!
+  VERPINE_CHR_klik: "Klik" #NT!
+  VERPINE_CHR_thabit: "Thabit" #NT!
+  VERPINE_CHR_theemin: "Theemin" #NT!
+  VERPINE_CHR_unukalhai: "Unukalhai" #NT!
+  VERPINE_CHR_vega: "Vega" #NT!
+  VERPINE_CHR_vindemiatrix: "Vindemiatrix" #NT!
+  VERPINE_CHR_wasat: "Wasat" #NT!
+  VERPINE_CHR_ned_ir_sass: "Ned'Ir Sass" #NT!
+  VERPINE_CHR_promethone: "Promethone" #NT!
+  VERPINE_CHR_franca: "Franca" #NT!
+  VERPINE_CHR_margarginoolaara: "Margarginoolaara" #NT!
+  VERPINE_CHR_chalatea: "Chalatea" #NT!
+  VERPINE_CHR_tritonoe: "Tritonoe" #NT!
+  VERPINE_CHR_skooen: "Skooen" #NT!
+  VERPINE_CHR_himalind: "Himalind" #NT!
+  VERPINE_CHR_corax: "Corax" #NT!
+  VERPINE_CHR_porix: "Porix" #NT!
+  VERPINE_CHR_frandorax: "Frandorax" #NT!
+  VERPINE_CHR_elariel: "Elariel" #NT!
+  VERPINE_CHR_koral: "Koral" #NT!
+  VERPINE_CHR_kor: "Kor" #NT!
+  VERPINE_CHR_t_vis: "T'vis" #NT!
+  VERPINE_CHR_divok: "Divok" #NT!
+  VERPINE_CHR_drex: "Drex" #NT!
+  VERPINE_CHR_kurn: "Kurn" #NT!
+  VERPINE_CHR_zegov: "Zegov" #NT!
+  VERPINE_CHR_torg: "Torg" #NT!
+  VERPINE_CHR_fzx: "Fzx" #NT!
+  VERPINE_CHR_l_del: "L'del" #NT!
+  VERPINE_CHR_krump: "Krump" #NT!
+  VERPINE_CHR_blik: "Blik" #NT!
+  VERPINE_CHR_martok: "Martok" #NT!
+  VERPINE_CHR_ch_rega: "Ch'Rega" #NT!
+  VERPINE_CHR_korris: "Korris" #NT!
+  VERPINE_CHR_skafoo: "Skafoo" #NT!
+  VERPINE_CHR_eladus: "Eladus" #NT!
+  VERPINE_CHR_hyperis: "Hyperis" #NT!
+  VERPINE_CHR_slayn: "Slayn" #NT!
+  VERPINE_CHR_korpil: "Korpil" #NT!

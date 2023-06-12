@@ -1,851 +1,851 @@
 ﻿l_russian:
- RODIAN_atiang: "Atiang"
- RODIAN_navik_the_red: "Navik the Red"
- RODIAN_day_of_the_hunter: "Day of the Hunter"
- RODIAN_feudal_glory: "Feudal Glory"
- RODIAN_ghestslayer: "Ghestslayer"
- RODIAN_great_protector: "Great Protector"
- RODIAN_gladiator: "Gladiator"
- RODIAN_kinzic: "Kinzic"
- RODIAN_rodian_kiss: "Rodian Kiss"
- RODIAN_vosida_nooma: "Vosdia Nooma"
- RODIAN_zahtjav: "Zahtjav"
- RODIAN_catharsis: "Catharsis"
- RODIAN_harido_s_gift: "Harido's Gift"
- RODIAN_harido_kavila: "Harido Kavila"
- RODIAN_glory_of_chattza: "Glory of Chattza"
- RODIAN_pride_of_tetsu: "Pride of Tetsu"
- RODIAN_bomu_honor: "Bomu Honor"
- RODIAN_adebsu: "Adebsu"
- RODIAN_an_yettu_blade: "An'yettu Blade"
- RODIAN_fate_of_anyyon: "Fate of Anyyon"
- RODIAN_cadevon_mark: "Cadevon Mark"
- RODIAN_cairn: "Cairn"
- RODIAN_chekkoo_dragon: "Chekkoo Dragon"
- RODIAN_valor_of_intamm: "Valor of Intamm"
- RODIAN_kemu_blood: "Kemu Blood"
- RODIAN_kenu_ascendant: "Kenu Ascendant"
- RODIAN_eye_of_neetakka: "Eye of Neetakka"
- RODIAN_reeven: "Reeven"
- RODIAN_bounty_of_roolek: "Bounty of Roolek"
- RODIAN_scythe_of_soammei: "Scythe of Soammei"
- RODIAN_crouching_tan: "Crouching Tan"
- RODIAN_revenant_of_tanwa: "Revenant of Tanwa"
- RODIAN_tonera_reaper: "Tonena Reaper"
- RODIAN_yiyar_s_revenge: "Yiyar's Revenge"
- RODIAN_inta_si_rin_na: "Inta'si'rin'na"
- RODIAN_equator: "Equator"
- RODIAN_goa_ato: "Goa-Ato"
- RODIAN_lost_hunt: "Lost Hunt"
- RODIAN_n_gant: "N'Gant"
- RODIAN_rheshalva: "Rheshalva"
- RODIAN_council_of_justice: "Council of Justice"
- RODIAN_ripper: "Ripper"
- RODIAN_sancretti: "Sancretti"
- RODIAN_salus: "Salus"
- RODIAN_tonena: "Tonena"
- RODIAN_verifier: "Verifier"
- RODIAN_zarvel: "Zarvel"
- RODIAN_harlequin: "Harlequin"
- RODIAN_running_black: "Running Black"
- RODIAN_final_act: "Final Act"
- RODIAN_final_curtain: "Final Curtain"
- RODIAN_arena: "Arena"
- RODIAN_crimson_audition: "Crimson Audition"
- RODIAN_blackout: "Blackout"
- RODIAN_curtain_call: "Curtain Call"
- RODIAN_colour_call: "Colour Call"
- RODIAN_callback: "Callback"
- RODIAN_caster: "Caster"
- RODIAN_centre_line: "Centre Line"
- RODIAN_clearance: "Clearance"
- RODIAN_cyclorama: "Cyclorama"
- RODIAN_downstage: "Downstage"
- RODIAN_matinee: "Matinee"
- RODIAN_verdant_war: "Verdant War"
- RODIAN_offstage: "Offstage"
- RODIAN_parodos: "Parodos"
- RODIAN_playwright: "Playwright"
- RODIAN_professional: "Professional"
- RODIAN_proscenium: "Proscenium"
- RODIAN_bozzascena: "Bozzascena"
- RODIAN_blooded_stage: "Blooded Stage"
- RODIAN_tableaux: "Tableaux"
- RODIAN_rideax: "Rideax"
- RODIAN_sipazzio: "Sipazzio"
- RODIAN_pendrizzion: "Pendrizzion"
- RODIAN_wet_tech: "Wet Tech"
- RODIAN_fear_to_tread: "Fear to Tread"
- RODIAN_skene: "Skene"
- RODIAN_dizyramb: "Dizyramb"
- RODIAN_deuteragonist: "Deuteragonist"
- RODIAN_theatron: "Theatron"
- RODIAN_tritagonist: "Tritagonist"
- RODIAN_thymele: "Thymele"
- RODIAN_proskenion: "Proskenion"
- RODIAN_centricity: "Centricity"
- RODIAN_koizon: "Koizon"
- RODIAN_diazoma: "Diazoma"
- RODIAN_greeiactoi: "Greeiactoi"
- RODIAN_ekkoclema: "Ekkoclema"
- RODIAN_aeorema: "Aeorema"
- RODIAN_suppliant: "Suppliant"
- RODIAN_adituz: "Adituz"
- RODIAN_anazemma: "Anazemma"
- RODIAN_arkkitrave: "Arkkitrave"
- RODIAN_kataclyema: "Kataclyema"
- RODIAN_baldakkin: "Baldakkin"
- RODIAN_kaeroni: "Kaeroni"
- RODIAN_klimake: "Klimake"
- RODIAN_koregos: "Koregos"
- RODIAN_koryphyus: "Koryphyus"
- RODIAN_ziazoma: "Ziazoma"
- RODIAN_zohedria: "Zohedria"
- RODIAN_ima_gavea: "Ima Gavea"
- RODIAN_ozeion: "Ozeion"
- RODIAN_ogreeum: "Ogreeum"
- RODIAN_gonkos: "Gonkos"
- RODIAN_avaro: "Avaro"
- RODIAN_boiny: "Boiny"
- RODIAN_capo: "Capo"
- RODIAN_cevva: "Cevva"
- RODIAN_clezo: "Clezo"
- RODIAN_dardo: "Dardo"
- RODIAN_doda: "Doda"
- RODIAN_farr: "Farr"
- RODIAN_geelo: "Geelo"
- RODIAN_grappa: "Grappa"
- RODIAN_harido: "Harido"
- RODIAN_honka: "Honka"
- RODIAN_jannik: "Jannik"
- RODIAN_kavilo: "Kavilo"
- RODIAN_kelbis: "Kelbis"
- RODIAN_kelko: "Kelko"
- RODIAN_koobis: "Koobis"
- RODIAN_leenik: "Leenik"
- RODIAN_lido: "Lido"
- RODIAN_maris: "Maris"
- RODIAN_mufrenes: "Mufrenes"
- RODIAN_nardi: "Nardi"
- RODIAN_narik: "Narik"
- RODIAN_onaconda: "Onaconda"
- RODIAN_prevaro: "Prevaro"
- RODIAN_rohan: "Rohan"
- RODIAN_ropal: "Ropal"
- RODIAN_shodu: "Shodu"
- RODIAN_skee_skee: "Skee Skee"
- RODIAN_sookcool: "Sookcool"
- RODIAN_standro: "Standro"
- RODIAN_teeku: "Teeku"
- RODIAN_teerik: "Teerik"
- RODIAN_thuku: "Thuku"
- RODIAN_tox: "Tox"
- RODIAN_vinto: "Vinto"
- RODIAN_vuko: "Vuko"
- RODIAN_wald_xuz: "Wald Xuz"
- RODIAN_greeata: "Greeata"
- RODIAN_hreeda: "Hreeda"
- RODIAN_jacta: "Jacta"
- RODIAN_kras_ka: "Kras Ka"
- RODIAN_vorskl_ta: "Vorskl Ta"
- RODIAN_spulta: "Spulta"
- RODIAN_si_rin_ha: "Si'rin'ha"
- RODIAN_tujllaki: "Tujllaki"
- RODIAN_chakuy: "Chakuy"
- RODIAN_qulluy: "Qulluy"
- RODIAN_wakachina: "Wakachina"
- RODIAN_trophytaker: "Trophytaker"
- RODIAN_iron_pelt: "Iron Pelt"
- RODIAN_qara: "Qara"
- RODIAN_suyk_u: "Suyk'u"
- RODIAN_chuki_suni: "Chuki Suni"
- RODIAN_longspear: "Longspear"
- RODIAN_antagonist: "Antagonist"
- RODIAN_protagonist: "Protagonist"
- RODIAN_aycha: "Aycha"
- RODIAN_uturunku: "Uturunku"
- RODIAN_wilancha: "Wilancha"
- RODIAN_upalla: "Upalla"
- RODIAN_dancing_knife: "Dancing Knife"
- RODIAN_upallay: "Upallay"
- RODIAN_tuta: "Tuta"
- RODIAN_yaykuy: "Yaykuy"
- RODIAN_can_cell: "Can-cell"
- RODIAN_ghest: "Ghest"
- RODIAN_kwazel_maw: "Kwazel Maw"
- RODIAN_blood_fly: "Blood Fly"
- RODIAN_khardax: "Khardax"
- RODIAN_newoongall: "Newoongall"
- RODIAN_karstag: "Karstag"
- RODIAN_roth: "Roth"
- RODIAN_svaper: "Svaper"
- RODIAN_iskaayuma: "Iskaayuma"
- RODIAN_encheeko: "Encheeko"
- RODIAN_betu: "Betu"
- RODIAN_mareesh: "Mareesh"
- RODIAN_onaconda_farr: "Onaconda Farr"
- RODIAN_green_hell: "Green Hell"
- RODIAN_ambusher: "Ambusher"
- RODIAN_stalker: "Stalker"
- RODIAN_emarald_shadow: "Emerald Shadow"
- RODIAN_murk_hunter: "Murk Hunter"
- RODIAN_wild_hunt: "Wild Hunt"
- RODIAN_dree_vandap: "Dree Vandap"
- RODIAN_bolla_ropal: "Bolla Ropal"
- RODIAN_suvam_tan: "Suvam Tan"
- RODIAN_suz_tanwa: "Suz Tanwa"
- RODIAN_menndo: "Menndo"
- RODIAN_hako_armado: "Hako Armado"
- RODIAN_slyder: "Slyder"
- RODIAN_poacher: "Poacher"
- RODIAN_gamewarden: "Gamewarden"
- RODIAN_fenn_stalker: "Fenn Stalker"
- RODIAN_skaena: "Skaena"
- RODIAN_skalae: "Skalae"
- RODIAN_rodiamai: "Rodiamai"
- RODIAN_rodimelici: "Rodimelici"
- RODIAN_venaziones: "Venaziones"
- RODIAN_veeatorium: "Veeatorium"
- RODIAN_treasure_of_rodia: "Treasure of Rodia"
- RODIAN_stalking_mount: "Stalking Mount"
- RODIAN_trapjaw: "Trapjaw"
- RODIAN_headsman: "Headsman"
- RODIAN_first_protector: "First Protector"
- RODIAN_intermission: "Intermission"
- RODIAN_h_rinnrada: "H'rinnrada"
- RODIAN_jannik_the_white: "Jannik the White"
- RODIAN_honor_war: "Honor War"
- RODIAN_general_minst: "General Minst"
- RODIAN_sawtooth: "Sawtooth"
- RODIAN_general_ropal: "General Ropal"
- RODIAN_tracker: "Tracker"
- RODIAN_sniffer: "Sniffer"
- RODIAN_navigator: "Navigator"
- RODIAN_wayfinder: "Wayfinder"
- RODIAN_orienteer: "Orienteer"
- RODIAN_true_north: "True North"
- RODIAN_tracer: "Tracer"
- RODIAN_hunter_three: "Hunter Three"
- RODIAN_verdant_shadow: "Verdant Shadow"
- RODIAN_detector: "Detector"
- RODIAN_tailer: "Tailer"
- RODIAN_trailblazer: "Trailblazer"
- RODIAN_pathfinder: "Pathfinder"
- RODIAN_wayfarer: "Wayfarer"
- RODIAN_ambassador: "Ambassador"
- RODIAN_emissary: "Emissary"
- RODIAN_nomad: "Nomad"
- RODIAN_wanderer: "Wanderer"
- RODIAN_traveler: "Traveler"
- RODIAN_itinerant_rex: "Itinerant Rex"
- RODIAN_homeward_bound: "Homeward Bound"
- RODIAN_placefinder: "Placefinder"
- RODIAN_claimant: "Claimant"
- RODIAN_coreward_bound: "Coreward Bound"
- RODIAN_bushranger: "Bushranger"
- RODIAN_green_seed: "Green Seed"
- RODIAN_verdant_sprout: "Verdant Sprout"
- RODIAN_virescent: "Virescent"
- RODIAN_stripling: "Stripling"
- RODIAN_hatchery: "Hatchery"
- RODIAN_prayer_of_pioneer: "Prayer of the Pioneer"
- RODIAN_memory_of_rodia: "Memory of Rodia"
- RODIAN_errand: "Errand"
- RODIAN_eiska: "Eiska"
- RODIAN_enak: "Enak"
- RODIAN_soomana: "Soomana"
- RODIAN_yasooska: "Yasooska"
- RODIAN_an_yettu_vision: "An'yettu Vision"
- RODIAN_encheekos: "Encheekos"
- RODIAN_kay_tap: "Kay-Tap"
- RODIAN_next_chance: "Next Chance"
- RODIAN_nova_iskaayuma: "Nova Iskaayuma"
- RODIAN_chekkoo_promise: "Chekkoo Promise"
- RODIAN_matza: "Matza"
- RODIAN_samana: "Samana"
- RODIAN_yusk: "Yusk"
- RODIAN_chattza: "Chattza"
- RODIAN_tetsu: "Tetsu"
- RODIAN_bomu: "Bomu"
- RODIAN_an_yettu: "An'yettu"
- RODIAN_anyyon: "Anyyon"
- RODIAN_cadevon: "Cadevon"
- RODIAN_chekkoo: "Chekkoo"
- RODIAN_intamm: "Intamm"
- RODIAN_kemu: "Kemu"
- RODIAN_kenu: "Kenu"
- RODIAN_neetakka: "Neetakka"
- RODIAN_roolek: "Roolek"
- RODIAN_soammei: "Soammei"
- RODIAN_tan_tanwa: "Tan Tanwa"
- RODIAN_tonera: "Tonena"
- RODIAN_yiyar: "Yiyar"
- RODIAN_constr_aurek: "Constructor Aurek"
- RODIAN_constr_besh: "Constructor Besh"
- RODIAN_constr_cresh: "Constructor Cresh"
- RODIAN_constr_dorn: "Constructor Dorn"
- RODIAN_constr_forn: "Constructor Forn"
- RODIAN_constr_grek: "Constructor Grek"
- RODIAN_constr_herf: "Constructor Herf"
- RODIAN_constr_isk: "Constructor Isk"
- RODIAN_constr_jenth: "Constructor Jenth"
- RODIAN_constr_krill: "Constructor Krill"
- RODIAN_constr_leth: "Constructor Leth"
- RODIAN_constr_mern: "Constructor Mern"
- RODIAN_constr_nern: "Constructor Nern"
- RODIAN_constr_osk: "Constructor Osk"
- RODIAN_constr_peth: "Constructor Peth"
- RODIAN_constr_senth: "Constructor Senth"
- RODIAN_constr_trill: "Constructor Trill"
- RODIAN_constr_usk: "Constructor Usk"
- RODIAN_constr_vev: "Constructor Vev"
- RODIAN_constr_wesk: "Constructor Wesk"
- RODIAN_constr_xesh: "Constructor Xesh"
- RODIAN_constr_yirt: "Constructor Yirt"
- RODIAN_constr_zerek: "Constructor Zerek"
- RODIAN_constr_cherek: "Constructor Cherek"
- RODIAN_constr_qek: "Constructor Qek"
- RODIAN_constr_resh: "Constructor Resh"
- RODIAN_constr_enth: "Constructor Enth"
- RODIAN_constr_onith: "Constructor Onith"
- RODIAN_constr_krenth: "Constructor Krenth"
- RODIAN_constr_nen: "Constructor Nen"
- RODIAN_constr_orenth: "Constructor Orenth"
- RODIAN_constr_shen: "Constructor Shen"
- RODIAN_constr_thesh: "Constructor Thesh"
- RODIAN_ground_transport: "Ground Transport"
- RODIAN_navik: "Navik"
- RODIAN_citadel: "Citadel"
- RODIAN_gateway: "Gateway"
- RODIAN_tan: "Tan"
- RODIAN_tanwa: "Tanwa"
- RODIAN_bombard: "Bombard"
- RODIAN_ballista: "Ballista"
- RODIAN_catapult: "Catapult"
- RODIAN_harpoon: "Harpoon"
- RODIAN_polybolos: "Polybolos"
- RODIAN_culverin: "Culverin"
- RODIAN_FLEET_jade_fleet: "Jade Fleet"
- RODIAN_FLEET_rodian_home_guard: "Rodian Home Guard"
- RODIAN_FLEET_verdant_armada: "Verdant Armada"
- RODIAN_FLEET_battle_group_green: "Battle Group Green"
- RODIAN_FLEET_SEQUENTIAL_rodian_task_force: "$ORD$ Rodian Task Force"
- RODIAN_ARMY_SEQUENTIAL_hunter_guard: "$ORD$ Hunter Guard"
- RODIAN_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force"
- RODIAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- RODIAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- RODIAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- RODIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- RODIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- RODIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- RODIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- RODIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- RODIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- RODIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- RODIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- RODIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- RODIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- RODIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- RODIAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- RODIAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- RODIAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- RODIAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- RODIAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- RODIAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- RODIAN_CHR_navik: "Navik"
- RODIAN_CHR_nok: "Nok"
- RODIAN_CHR_teeku: "Teeku"
- RODIAN_CHR_greedo: "Greedo"
- RODIAN_CHR_pqweeduk: "Pqweeduk"
- RODIAN_CHR_avaro: "Avaro"
- RODIAN_CHR_boiny: "Boiny"
- RODIAN_CHR_capo: "Capo"
- RODIAN_CHR_cevva: "Cevva"
- RODIAN_CHR_clezo: "Clezo"
- RODIAN_CHR_dardo: "Dardo"
- RODIAN_CHR_doda: "Doda"
- RODIAN_CHR_farr: "Farr"
- RODIAN_CHR_geelo: "Geelo"
- RODIAN_CHR_grappa: "Grappa"
- RODIAN_CHR_harido: "Harido"
- RODIAN_CHR_honka: "Honka"
- RODIAN_CHR_jannik: "Jannik"
- RODIAN_CHR_kavilo: "Kavilo"
- RODIAN_CHR_kelbis: "Kelbis"
- RODIAN_CHR_kelko: "Kelko"
- RODIAN_CHR_koobis: "Koobis"
- RODIAN_CHR_leenik: "Leenik"
- RODIAN_CHR_lido: "Lido"
- RODIAN_CHR_maris: "Maris"
- RODIAN_CHR_mufrenes: "Mufrenes"
- RODIAN_CHR_nardi: "Nardi"
- RODIAN_CHR_narik: "Narik"
- RODIAN_CHR_onaconda: "Onaconda"
- RODIAN_CHR_prevaro: "Prevaro"
- RODIAN_CHR_rohan: "Rohan"
- RODIAN_CHR_ropal: "Ropal"
- RODIAN_CHR_shodu: "Shodu"
- RODIAN_CHR_skee_skee: "Skee Skee"
- RODIAN_CHR_sookcool: "Sookcool"
- RODIAN_CHR_standro: "Standro"
- RODIAN_CHR_teerik: "Teerik"
- RODIAN_CHR_thuku: "Thuku"
- RODIAN_CHR_tox: "Tox"
- RODIAN_CHR_vinto: "Vinto"
- RODIAN_CHR_vuko: "Vuko"
- RODIAN_CHR_wald_xuz: "Wald Xuz"
- RODIAN_CHR_kyra: "Kyra"
- RODIAN_CHR_aald: "Aald"
- RODIAN_CHR_althin: "Althin"
- RODIAN_CHR_tok: "Tok"
- RODIAN_CHR_zef: "Zef"
- RODIAN_CHR_angaar: "Angaar"
- RODIAN_CHR_toll: "Toll"
- RODIAN_CHR_apoto: "Apoto"
- RODIAN_CHR_hako: "Hako"
- RODIAN_CHR_b_ree: "B'ree"
- RODIAN_CHR_civian: "Civian"
- RODIAN_CHR_civius: "Civius"
- RODIAN_CHR_reelo: "Reelo"
- RODIAN_CHR_lekk: "Lekk"
- RODIAN_CHR_beebo: "Beebo"
- RODIAN_CHR_beedo: "Beedo"
- RODIAN_CHR_beena: "Beena"
- RODIAN_CHR_beidlo: "Beidlo"
- RODIAN_CHR_biko: "Biko"
- RODIAN_CHR_toleen: "Toleen"
- RODIAN_CHR_boorm: "Boorm"
- RODIAN_CHR_voydd: "Voydd"
- RODIAN_CHR_condoo: "Condoo"
- RODIAN_CHR_lidan: "Lidan"
- RODIAN_CHR_bludlow: "Bludlow"
- RODIAN_CHR_bohmer: "Bohmer"
- RODIAN_CHR_bolto: "Bolto"
- RODIAN_CHR_gespo: "Gespo"
- RODIAN_CHR_heedron: "Heedron"
- RODIAN_CHR_ormann: "Ormann"
- RODIAN_CHR_pax: "Pax"
- RODIAN_CHR_trax: "Trax"
- RODIAN_CHR_narnee: "Narnee"
- RODIAN_CHR_seedar: "Seedar"
- RODIAN_CHR_bonda: "Bonda"
- RODIAN_CHR_hishinu: "Hishinu"
- RODIAN_CHR_breedo: "Breedo"
- RODIAN_CHR_brelshen: "Brelshen"
- RODIAN_CHR_siega: "Siega"
- RODIAN_CHR_wac_bur: "Wac Bur"
- RODIAN_CHR_boorgo: "Boorgo"
- RODIAN_CHR_duurgo: "Duurgo"
- RODIAN_CHR_deebo: "Deebo"
- RODIAN_CHR_toluz: "Toluz"
- RODIAN_CHR_chiiv: "Chiiv"
- RODIAN_CHR_chigo: "Chigo"
- RODIAN_CHR_chihdo: "Chihdo"
- RODIAN_CHR_chordak: "Chordak"
- RODIAN_CHR_chorh_dha: "Chorh-dha"
- RODIAN_CHR_creeska: "Creeska"
- RODIAN_CHR_flestic: "Flestic"
- RODIAN_CHR_coorsha: "Coorsha"
- RODIAN_CHR_lernik: "Lernik"
- RODIAN_CHR_deedoh: "Deedoh"
- RODIAN_CHR_deelguh: "Deelguh"
- RODIAN_CHR_dejarro: "Dejarro"
- RODIAN_CHR_chooru: "Chooru"
- RODIAN_CHR_dellko: "Dellko"
- RODIAN_CHR_delo: "Delo"
- RODIAN_CHR_denma: "Denma"
- RODIAN_CHR_dheendo: "Dheendo"
- RODIAN_CHR_dindoo: "Dindoo"
- RODIAN_CHR_doba: "Doba"
- RODIAN_CHR_tox_don: "Tox Don"
- RODIAN_CHR_doogo: "Doogo"
- RODIAN_CHR_dorzo: "Dorzo"
- RODIAN_CHR_jovan: "Jovan"
- RODIAN_CHR_fosin: "Fosin"
- RODIAN_CHR_drokka: "Drokka"
- RODIAN_CHR_dwesso: "Dwesso"
- RODIAN_CHR_esdo: "Esdo"
- RODIAN_CHR_eshon: "Eshon"
- RODIAN_CHR_evo: "Evo"
- RODIAN_CHR_faddo: "Faddo"
- RODIAN_CHR_falloon: "Falloon"
- RODIAN_CHR_needo: "Needo"
- RODIAN_CHR_zeelo: "Zeelo"
- RODIAN_CHR_traa: "Traa"
- RODIAN_CHR_feeven: "Feeven"
- RODIAN_CHR_corkash: "Corkash"
- RODIAN_CHR_slerog: "Slerog"
- RODIAN_CHR_fondo: "Fondo"
- RODIAN_CHR_frandu: "Frandu"
- RODIAN_CHR_igbi: "Igbi"
- RODIAN_CHR_frelka: "Frelka"
- RODIAN_CHR_fretch: "Fretch"
- RODIAN_CHR_har: "Har"
- RODIAN_CHR_gadaf: "Gadaf"
- RODIAN_CHR_fizz: "Fizz"
- RODIAN_CHR_vreebo: "Vreebo"
- RODIAN_CHR_kood: "Kood"
- RODIAN_CHR_vistis: "Vistis"
- RODIAN_CHR_garoush: "Garoush"
- RODIAN_CHR_jabdo: "Jabdo"
- RODIAN_CHR_geffa: "Geffa"
- RODIAN_CHR_geri: "Geri"
- RODIAN_CHR_geska: "Geska"
- RODIAN_CHR_glarret: "Glarret"
- RODIAN_CHR_glem: "Glem"
- RODIAN_CHR_gluupor: "Gluupor"
- RODIAN_CHR_sordu: "Sordu"
- RODIAN_CHR_gomalo: "Gomalo"
- RODIAN_CHR_pall: "Pall"
- RODIAN_CHR_gorro: "Gorro"
- RODIAN_CHR_govenni: "Govenni"
- RODIAN_CHR_gredori: "Gredori"
- RODIAN_CHR_grenzo: "Grenzo"
- RODIAN_CHR_greer: "Greer"
- RODIAN_CHR_grudo: "Grudo"
- RODIAN_CHR_malva: "Malva"
- RODIAN_CHR_greepo: "Greepo"
- RODIAN_CHR_gurun: "Gurun"
- RODIAN_CHR_gweeska: "Gweeska"
- RODIAN_CHR_jopari: "Jopari"
- RODIAN_CHR_harno: "Harno"
- RODIAN_CHR_hatabbas: "Hatabbas"
- RODIAN_CHR_hirrtu: "Hirrtu"
- RODIAN_CHR_greeta: "Greeta"
- RODIAN_CHR_honwoo: "Honwoo"
- RODIAN_CHR_hoonta: "Hoonta"
- RODIAN_CHR_hulas: "Hulas"
- RODIAN_CHR_huruni: "Huruni"
- RODIAN_CHR_huulik: "Huulik"
- RODIAN_CHR_inntak: "Inntak"
- RODIAN_CHR_jakoli: "Jakoli"
- RODIAN_CHR_soobu: "Soobu"
- RODIAN_CHR_javeezo: "Javeezo"
- RODIAN_CHR_jhian: "Jhian"
- RODIAN_CHR_jiree: "Jiree"
- RODIAN_CHR_hiksri: "Hiksri"
- RODIAN_CHR_jombo: "Jombo"
- RODIAN_CHR_jora: "Jora"
- RODIAN_CHR_jurithus: "Jurithus"
- RODIAN_CHR_kaddit: "Kaddit"
- RODIAN_CHR_kappo: "Kappo"
- RODIAN_CHR_keevo: "Keevo"
- RODIAN_CHR_kelsek: "Kelsek"
- RODIAN_CHR_lurze: "Lurze"
- RODIAN_CHR_rel: "Rel"
- RODIAN_CHR_gorak: "Gorak"
- RODIAN_CHR_kletoo: "Kletoo"
- RODIAN_CHR_kweeta: "Kweeta"
- RODIAN_CHR_ortha: "Ortha"
- RODIAN_CHR_lotas: "Lotas"
- RODIAN_CHR_luco: "Luco"
- RODIAN_CHR_veeboo: "Veeboo"
- RODIAN_CHR_luugro: "Luugro"
- RODIAN_CHR_malkoi: "Malkoi"
- RODIAN_CHR_wuuden: "Wuuden"
- RODIAN_CHR_swaja: "Swaja"
- RODIAN_CHR_maseloo: "Maseloo"
- RODIAN_CHR_critolus: "Critolus"
- RODIAN_CHR_matu: "Matu"
- RODIAN_CHR_meebo: "Meebo"
- RODIAN_CHR_menndo: "Menndo"
- RODIAN_CHR_morgoto: "Morgoto"
- RODIAN_CHR_jeepfal: "Jeepfal"
- RODIAN_CHR_neelda: "Neelda"
- RODIAN_CHR_neesh: "Neesh"
- RODIAN_CHR_vees: "Vees"
- RODIAN_CHR_nikolo: "Nikolo"
- RODIAN_CHR_nio: "Nio"
- RODIAN_CHR_nodobo: "Nodobo"
- RODIAN_CHR_opato: "Opato"
- RODIAN_CHR_opdoa: "Opdoa"
- RODIAN_CHR_pardo: "Pardo"
- RODIAN_CHR_pellko: "Pellko"
- RODIAN_CHR_safonni: "Safonni"
- RODIAN_CHR_phindo: "Phindo"
- RODIAN_CHR_puchek: "Puchek"
- RODIAN_CHR_quano: "Quano"
- RODIAN_CHR_quakkee: "Quakkee"
- RODIAN_CHR_jaaxine: "Jaaxine"
- RODIAN_CHR_gwad: "Gwad"
- RODIAN_CHR_jaardu: "Jaardu"
- RODIAN_CHR_valry: "Valry"
- RODIAN_CHR_ubis: "Ubis"
- RODIAN_CHR_beata: "Beata"
- RODIAN_CHR_reeveid: "Reeveid"
- RODIAN_CHR_reezo: "Reezo"
- RODIAN_CHR_revidjasa: "Revidjasa"
- RODIAN_CHR_roovo: "Roovo"
- RODIAN_CHR_bolla: "Bolla"
- RODIAN_CHR_noota: "Noota"
- RODIAN_CHR_rulo: "Rulo"
- RODIAN_CHR_sando: "Sando"
- RODIAN_CHR_chillo: "Chillo"
- RODIAN_CHR_sasso: "Sasso"
- RODIAN_CHR_seego: "Seego"
- RODIAN_CHR_toile: "Toile"
- RODIAN_CHR_veem: "Veem"
- RODIAN_CHR_shafu: "Shafu"
- RODIAN_CHR_teeko: "Teeko"
- RODIAN_CHR_yau: "Yau"
- RODIAN_CHR_auaro: "Auaro"
- RODIAN_CHR_slotho: "Slotho"
- RODIAN_CHR_skodo: "Skodo"
- RODIAN_CHR_silood: "Silood"
- RODIAN_CHR_shinqo: "Shinqo"
- RODIAN_CHR_treemo: "Treemo"
- RODIAN_CHR_tseebo: "Tseebo"
- RODIAN_CHR_tsoklo: "Tsoklo"
- RODIAN_CHR_tulagn: "Tulagn"
- RODIAN_CHR_twoolo: "Twoolo"
- RODIAN_CHR_gabo: "Gabo"
- RODIAN_CHR_suvam: "Suvam"
- RODIAN_CHR_tazzik: "Tazzik"
- RODIAN_CHR_teekwo: "Teekwo"
- RODIAN_CHR_teeloo: "Teeloo"
- RODIAN_CHR_teeso: "Teeso"
- RODIAN_CHR_teezyk: "Teezyk"
- RODIAN_CHR_thugo: "Thugo"
- RODIAN_CHR_tolga: "Tolga"
- RODIAN_CHR_skoo: "Skoo"
- RODIAN_CHR_krezo: "Krezo"
- RODIAN_CHR_dar: "Dar"
- RODIAN_CHR_vreego: "Vreego"
- RODIAN_CHR_vosso: "Vosso"
- RODIAN_CHR_yat_de: "Yat-De"
- RODIAN_CHR_tsuulo: "Tsuulo"
- RODIAN_CHR_tyss: "Tyss"
- RODIAN_CHR_tyxx: "Tyxx"
- RODIAN_CHR_moogo: "Moogo"
- RODIAN_CHR_vatoono: "Vatoono"
- RODIAN_CHR_veerdo: "Veerdo"
- RODIAN_CHR_veedo: "Veedo"
- RODIAN_CHR_vealo: "Vealo"
- RODIAN_CHR_neela: "Neela"
- RODIAN_CHR_greeata: "Greeata"
- RODIAN_CHR_hreeda: "Hreeda"
- RODIAN_CHR_lolo: "Lolo"
- RODIAN_CHR_steya: "Steya"
- RODIAN_CHR_cyll: "Cyll"
- RODIAN_CHR_beisa: "Beisa"
- RODIAN_CHR_besha: "Besha"
- RODIAN_CHR_laneet: "Laneet"
- RODIAN_CHR_chussido: "Chussido"
- RODIAN_CHR_pa_dua: "Pa Dua"
- RODIAN_CHR_mahtee: "Mahtee"
- RODIAN_CHR_fask_eelak: "Fask Eelak"
- RODIAN_CHR_eesmu: "Eesmu"
- RODIAN_CHR_barma: "Barma"
- RODIAN_CHR_onna: "Onna"
- RODIAN_CHR_ganodi: "Ganodi"
- RODIAN_CHR_geeda: "Geeda"
- RODIAN_CHR_feena: "Feena"
- RODIAN_CHR_beekly: "Beekly"
- RODIAN_CHR_mikdanyell: "Mikdanyell"
- RODIAN_CHR_h_rinnrada: "H'rinnrada"
- RODIAN_CHR_hedu: "Hedu"
- RODIAN_CHR_hopeata: "Hopeata"
- RODIAN_CHR_andoorni: "Andoorni"
- RODIAN_CHR_jeeta: "Jeeta"
- RODIAN_CHR_keesha: "Keesha"
- RODIAN_CHR_kiimo: "Kiimo"
- RODIAN_CHR_ruku: "Ruku"
- RODIAN_CHR_saras: "Saras"
- RODIAN_CHR_torani: "Torani"
- RODIAN_CHR_luunti: "Luunti"
- RODIAN_CHR_demaia: "Demaia"
- RODIAN_CHR_meeba: "Meeba"
- RODIAN_CHR_meelo: "Meelo"
- RODIAN_CHR_otol: "Otol"
- RODIAN_CHR_nesha: "Nesha"
- RODIAN_CHR_jaylla: "Jaylla"
- RODIAN_CHR_vosdia: "Vosdia"
- RODIAN_CHR_norta: "Norta"
- RODIAN_CHR_otee: "Otee"
- RODIAN_CHR_tezli: "Tezli"
- RODIAN_CHR_liinu: "Liinu"
- RODIAN_CHR_yan: "Yan"
- RODIAN_CHR_yalka: "Yalka"
- RODIAN_CHR_pon: "Pon"
- RODIAN_CHR_renna: "Renna"
- RODIAN_CHR_ralia: "Ralia"
- RODIAN_CHR_roweedu: "Roweedu"
- RODIAN_CHR_borra: "Borra"
- RODIAN_CHR_shinba: "Shinba"
- RODIAN_CHR_suz: "Suz"
- RODIAN_CHR_terya: "Terya"
- RODIAN_CHR_theenu: "Theenu"
- RODIAN_CHR_chokoo: "Chokoo"
- RODIAN_CHR_threnda: "Threnda"
- RODIAN_CHR_loa: "Loa"
- RODIAN_CHR_tweeta: "Tweeta"
- RODIAN_CHR_neeka: "Neeka"
- RODIAN_CHR_zayda: "Zayda"
- RODIAN_CHR_zeeba: "Zeeba"
- RODIAN_CHR_dree: "Dree"
- RODIAN_CHR_tradu: "Tradu"
- RODIAN_CHR_vralla: "Vralla"
- RODIAN_CHR_xeelksido: "Xeelksido"
- RODIAN_CHR_chattza: "Chattza"
- RODIAN_CHR_tetsu: "Tetsu"
- RODIAN_CHR_bomu: "Bomu"
- RODIAN_CHR_adebsu: "Adebsu"
- RODIAN_CHR_an_yettu: "An'yettu"
- RODIAN_CHR_anyyon: "Anyyon"
- RODIAN_CHR_cadevon: "Cadevon"
- RODIAN_CHR_cairn: "Cairn"
- RODIAN_CHR_chekkoo: "Chekkoo"
- RODIAN_CHR_intamm: "Intamm"
- RODIAN_CHR_kemu: "Kemu"
- RODIAN_CHR_kenu: "Kenu"
- RODIAN_CHR_neetakka: "Neetakka"
- RODIAN_CHR_reeven: "Reeven"
- RODIAN_CHR_roolek: "Roolek"
- RODIAN_CHR_soammei: "Soammei"
- RODIAN_CHR_tan: "Tan"
- RODIAN_CHR_tanwa: "Tanwa"
- RODIAN_CHR_tonera: "Tonera"
- RODIAN_CHR_yiyar: "Yiyar"
- RODIAN_CHR__naa: "'Naa"
- RODIAN_CHR_ando: "Ando"
- RODIAN_CHR_annora: "Annora"
- RODIAN_CHR_apkar: "Apkar"
- RODIAN_CHR_armado: "Armado"
- RODIAN_CHR_bain: "Bain"
- RODIAN_CHR_baruk: "Baruk"
- RODIAN_CHR_vano: "Vano"
- RODIAN_CHR_bazak: "Bazak"
- RODIAN_CHR_bisma: "Bisma"
- RODIAN_CHR_biveedo: "Biveedo"
- RODIAN_CHR_blancken: "Blancken"
- RODIAN_CHR_blathos: "Blathos"
- RODIAN_CHR_bleeker: "Bleeker"
- RODIAN_CHR_bodonawieedo: "Bodonawieedo"
- RODIAN_CHR_bonu: "Bonu"
- RODIAN_CHR_booj: "Booj"
- RODIAN_CHR_broos: "Broos"
- RODIAN_CHR_cheq: "Cheq"
- RODIAN_CHR_crupp: "Crupp"
- RODIAN_CHR_dazhda: "Dazhda"
- RODIAN_CHR_de_yago: "De'Yago"
- RODIAN_CHR_delb: "Delb"
- RODIAN_CHR_drark: "Drark"
- RODIAN_CHR_dreed: "Dreed"
- RODIAN_CHR_dunn: "Dunn"
- RODIAN_CHR_fas: "Fas"
- RODIAN_CHR_fazon: "Fazon"
- RODIAN_CHR_feaan: "Feaan"
- RODIAN_CHR_fel_lona: "Fel'Lona"
- RODIAN_CHR_fenc: "Fenc"
- RODIAN_CHR_fenn: "Fenn"
- RODIAN_CHR_ferran: "Ferran"
- RODIAN_CHR_freemo: "Freemo"
- RODIAN_CHR_fuggaw: "Fuggaw"
- RODIAN_CHR_galko: "Galko"
- RODIAN_CHR_gango: "Gango"
- RODIAN_CHR_gareeda: "Gareeda"
- RODIAN_CHR_garn: "Garn"
- RODIAN_CHR_garrink: "Garrink"
- RODIAN_CHR_gelens: "Gelens"
- RODIAN_CHR_gen: "Gen"
- RODIAN_CHR_gesse: "Gesse"
- RODIAN_CHR_ghel: "Ghel"
- RODIAN_CHR_gogg: "Gogg"
- RODIAN_CHR_gopal: "Gopal"
- RODIAN_CHR_groth: "Groth"
- RODIAN_CHR_the_elder: "the Elder"
- RODIAN_CHR_the_younger: "the Younger"
- RODIAN_CHR_gue: "Gue"
- RODIAN_CHR_greeku: "Greeku"
- RODIAN_CHR_haines: "Haines"
- RODIAN_CHR_holda: "Holda"
- RODIAN_CHR_horvat: "Horvat"
- RODIAN_CHR_hul: "Hul"
- RODIAN_CHR_hune: "Hune"
- RODIAN_CHR_hydan: "Hydan"
- RODIAN_CHR_javeedo: "Javeedo"
- RODIAN_CHR_jcir: "Jcir"
- RODIAN_CHR_jith: "Jith"
- RODIAN_CHR_kavila: "Kavila"
- RODIAN_CHR_kebbo: "Kebbo"
- RODIAN_CHR_keedo: "Keedo"
- RODIAN_CHR_keemos: "Keemos"
- RODIAN_CHR_kesh: "Kesh"
- RODIAN_CHR_keteris: "Keteris"
- RODIAN_CHR_khzam: "Khzam"
- RODIAN_CHR_klimo: "Klimo"
- RODIAN_CHR_kooff: "Kooff"
- RODIAN_CHR_kreezo: "Kreezo"
- RODIAN_CHR_krenin: "Krenin"
- RODIAN_CHR_kulda: "Kulda"
- RODIAN_CHR_leebo: "Leebo"
- RODIAN_CHR_lenitor: "Lenitor"
- RODIAN_CHR_leuro_khian: "Leuro-Khian"
- RODIAN_CHR_lang: "Lang"
- RODIAN_CHR_lunx: "Lunx"
- RODIAN_CHR_malnic: "Malnic"
- RODIAN_CHR_malon: "Malon"
- RODIAN_CHR_maru: "Maru"
- RODIAN_CHR_masse: "Masse"
- RODIAN_CHR_minst: "Minst"
- RODIAN_CHR_nereno: "Nereno"
- RODIAN_CHR_nal: "Nal"
- RODIAN_CHR_nareedo: "Nareedo"
- RODIAN_CHR_neihero: "Neihero"
- RODIAN_CHR_nerich: "Nerich"
- RODIAN_CHR_netakka: "Netakka"
- RODIAN_CHR_noh: "Noh"
- RODIAN_CHR_nooma: "Nooma"
- RODIAN_CHR_nu: "Nu"
- RODIAN_CHR_nom: "Nom"
- RODIAN_CHR_odo: "Odo"
- RODIAN_CHR_oran: "Oran"
- RODIAN_CHR_paemos: "Paemos"
- RODIAN_CHR_pajiic: "Pajiic"
- RODIAN_CHR_pendon: "Pendon"
- RODIAN_CHR_pengu: "Pengu"
- RODIAN_CHR_purs: "Purs"
- RODIAN_CHR_r_nar: "R'nar"
- RODIAN_CHR_raatu: "Raatu"
- RODIAN_CHR_raxx: "Raxx"
- RODIAN_CHR_ralos_vok: "Ralos-Vok"
- RODIAN_CHR_reendorr: "Reendorr"
- RODIAN_CHR_reesh: "Reesh"
- RODIAN_CHR_savroon: "Savroon"
- RODIAN_CHR_setas: "Setas"
- RODIAN_CHR_sweevas: "Sweevas"
- RODIAN_CHR_sanpoa: "Sanpoa"
- RODIAN_CHR_senn: "Senn"
- RODIAN_CHR_swanno: "Swanno"
- RODIAN_CHR_soonca: "Soonca"
- RODIAN_CHR_totryl: "Totryl"
- RODIAN_CHR_tychee: "Tychee"
- RODIAN_CHR_thool: "Thool"
- RODIAN_CHR_tibeeme: "Tibeeme"
- RODIAN_CHR_ulur_weebe: "Ulur Weebe"
- RODIAN_CHR_skez: "Skez"
- RODIAN_CHR_veerone: "Veerone"
- RODIAN_CHR_weeyo: "Weeyo"
- RODIAN_CHR_wieedo: "Wieedo"
- RODIAN_CHR_yesosko: "Yesosko"
- RODIAN_CHR_yipour: "Yipour"
- RODIAN_CHR_yutsen: "Yutsen"
- RODIAN_CHR_z_all: "Z'all"
- RODIAN_CHR_zeelesi: "Zeelesi"
- RODIAN_CHR_vandap: "Vandap"
- RODIAN_CHR_vaocan: "Vaocan"
- RODIAN_CHR_chuko: "Chuko"
- RODIAN_CHR_vletho: "Vletho"
- RODIAN_CHR_vola: "Vola"
- RODIAN_CHR_wac: "Wac"
- RODIAN_CHR_wasanti: "Wasanti"
- RODIAN_CHR_weebe: "Weebe"
- RODIAN_CHR_hishnu: "Hishnu"
- RODIAN_CHR_burbu: "Burbu"
- RODIAN_CHR_jendowanian: "Jendowanian"
- RODIAN_CHR_kleeto: "Kleeto"
- RODIAN_CHR_veemo: "Veemo"
- RODIAN_CHR_toran: "Toran"
- RODIAN_CHR_soonta: "Soonta"
- RODIAN_CHR_ulur: "Ulur"
- RODIAN_CHR_chak: "Chak"
+  RODIAN_atiang: "Атианг" #NT!
+  RODIAN_navik_the_red: "Навик Красный" #NT!
+  RODIAN_day_of_the_hunter: "День охотника" #NT!
+  RODIAN_feudal_glory: "Почесть феодала" #NT!
+  RODIAN_ghestslayer: "Убийца гестов" #NT!
+  RODIAN_great_protector: "Великий защитник" #NT!
+  RODIAN_gladiator: "Гладиатор" #NT!
+  RODIAN_kinzic: "Кинзик" #NT!
+  RODIAN_rodian_kiss: "Родианский поцелуй" #NT!
+  RODIAN_vosida_nooma: "Восдия Нума" #NT!
+  RODIAN_zahtjav: "Захтджяв" #NT!
+  RODIAN_catharsis: "Катарсис" #NT!
+  RODIAN_harido_s_gift: "Подарок Харидо" #NT!
+  RODIAN_harido_kavila: "Харидо Кавила" #NT!
+  RODIAN_glory_of_chattza: "Слава Чаттза" #NT!
+  RODIAN_pride_of_tetsu: "Гордость Тетсу" #NT!
+  RODIAN_bomu_honor: "Честь Бому" #NT!
+  RODIAN_adebsu: "Адебсу" #NT!
+  RODIAN_an_yettu_blade: "Клинок Ан'йетту" #NT!
+  RODIAN_fate_of_anyyon: "Судьба аниийон" #NT!
+  RODIAN_cadevon_mark: "Знак Кадевона" #NT!
+  RODIAN_cairn: "Каирн" #NT!
+  RODIAN_chekkoo_dragon: "Дракон Чеккоо" #NT!
+  RODIAN_valor_of_intamm: "Достоинство Интамм" #NT!
+  RODIAN_kemu_blood: "Кровь Кему" #NT!
+  RODIAN_kenu_ascendant: "Вознесение Кену" #NT!
+  RODIAN_eye_of_neetakka: "Око Нитакка" #NT!
+  RODIAN_reeven: "Ривен" #NT!
+  RODIAN_bounty_of_roolek: "Благодарность Рулек" #NT!
+  RODIAN_scythe_of_soammei: "Коса Соаммея" #NT!
+  RODIAN_crouching_tan: "Крадущийся Тан" #NT!
+  RODIAN_revenant_of_tanwa: "Призрак Танва" #NT!
+  RODIAN_tonera_reaper: "Жнец Тонена" #NT!
+  RODIAN_yiyar_s_revenge: "Месть Йияр" #NT!
+  RODIAN_inta_si_rin_na: "Инта’си’рин’на" #NT!
+  RODIAN_equator: "Экватор-Сити" #NT!
+  RODIAN_goa_ato: "Гоа-Ато" #NT!
+  RODIAN_lost_hunt: "Потерянная охота" #NT!
+  RODIAN_n_gant: "Н'Гант" #NT!
+  RODIAN_rheshalva: "Решалва" #NT!
+  RODIAN_council_of_justice: "Совет правосудия" #NT!
+  RODIAN_ripper: "Потрошитель" #NT!
+  RODIAN_sancretti: "Санкретти" #NT!
+  RODIAN_salus: "Салус" #NT!
+  RODIAN_tonena: "Тонена" #NT!
+  RODIAN_verifier: "Проверяющий" #NT!
+  RODIAN_zarvel: "Зарвел" #NT!
+  RODIAN_harlequin: "Арлекин" #NT!
+  RODIAN_running_black: "Бегущий чёрный" #NT!
+  RODIAN_final_act: "Заключительный акт" #NT!
+  RODIAN_final_curtain: "Занавес" #NT!
+  RODIAN_arena: "Арена" #NT!
+  RODIAN_crimson_audition: "Багровое прослушивание" #NT!
+  RODIAN_blackout: "Затемнение" #NT!
+  RODIAN_curtain_call: "Бис" #NT!
+  RODIAN_colour_call: "Цветовой вызов" #NT!
+  RODIAN_callback: "Обратный вызов" #NT!
+  RODIAN_caster: "Заклинатель" #NT!
+  RODIAN_centre_line: "Центровой" #NT!
+  RODIAN_clearance: "Клиренс" #NT!
+  RODIAN_cyclorama: "Циклорама" #NT!
+  RODIAN_downstage: "Авансцена" #NT!
+  RODIAN_matinee: "Утренник" #NT!
+  RODIAN_verdant_war: "Зелёная война" #NT!
+  RODIAN_offstage: "Закулисный" #NT!
+  RODIAN_parodos: "Пародос" #NT!
+  RODIAN_playwright: "Драматург" #NT!
+  RODIAN_professional: "Профессионал" #NT!
+  RODIAN_proscenium: "Просцениум" #NT!
+  RODIAN_bozzascena: "Боззасцена" #NT!
+  RODIAN_blooded_stage: "Кровавая сцена" #NT!
+  RODIAN_tableaux: "Живописная картина" #NT!
+  RODIAN_rideax: "Занавески" #NT!
+  RODIAN_sipazzio: "Сипаззио" #NT!
+  RODIAN_pendrizzion: "Пендриззион" #NT!
+  RODIAN_wet_tech: "Грим" #NT!
+  RODIAN_fear_to_tread: "Где-не-ступала-нога" #NT!
+  RODIAN_skene: "Скене" #NT!
+  RODIAN_dizyramb: "Дизирамба" #NT!
+  RODIAN_deuteragonist: "Дейтерагонист" #NT!
+  RODIAN_theatron: "Театрон" #NT!
+  RODIAN_tritagonist: "Тритагонист" #NT!
+  RODIAN_thymele: "Тимеле" #NT!
+  RODIAN_proskenion: "Проскенион" #NT!
+  RODIAN_centricity: "Центричность" #NT!
+  RODIAN_koizon: "Койзон" #NT!
+  RODIAN_diazoma: "Диазома" #NT!
+  RODIAN_greeiactoi: "Грейактой" #NT!
+  RODIAN_ekkoclema: "Эккоклема" #NT!
+  RODIAN_aeorema: "Аэорема" #NT!
+  RODIAN_suppliant: "Заказчик" #NT!
+  RODIAN_adituz: "Адитуз" #NT!
+  RODIAN_anazemma: "Аназемма" #NT!
+  RODIAN_arkkitrave: "Арккитрав" #NT!
+  RODIAN_kataclyema: "Катаклиема" #NT!
+  RODIAN_baldakkin: "Балдаккин" #NT!
+  RODIAN_kaeroni: "Каэрони" #NT!
+  RODIAN_klimake: "Климаке" #NT!
+  RODIAN_koregos: "Корегос" #NT!
+  RODIAN_koryphyus: "Корифиус" #NT!
+  RODIAN_ziazoma: "Зиазома" #NT!
+  RODIAN_zohedria: "Зохедрия" #NT!
+  RODIAN_ima_gavea: "Има Гавеа" #NT!
+  RODIAN_ozeion: "Озейон" #NT!
+  RODIAN_ogreeum: "Огриум" #NT!
+  RODIAN_gonkos: "Гонкос" #NT!
+  RODIAN_avaro: "Аваро" #NT!
+  RODIAN_boiny: "Бойни" #NT!
+  RODIAN_capo: "Капо" #NT!
+  RODIAN_cevva: "Чевва" #NT!
+  RODIAN_clezo: "Клезо" #NT!
+  RODIAN_dardo: "Дардо" #NT!
+  RODIAN_doda: "Дода" #NT!
+  RODIAN_farr: "Фарр" #NT!
+  RODIAN_geelo: "Гило" #NT!
+  RODIAN_grappa: "Граппа" #NT!
+  RODIAN_harido: "Харидо" #NT!
+  RODIAN_honka: "Хонка" #NT!
+  RODIAN_jannik: "Джанник" #NT!
+  RODIAN_kavilo: "Кавило" #NT!
+  RODIAN_kelbis: "Келбис" #NT!
+  RODIAN_kelko: "Келко" #NT!
+  RODIAN_koobis: "Кубис" #NT!
+  RODIAN_leenik: "Линик" #NT!
+  RODIAN_lido: "Лидо" #NT!
+  RODIAN_maris: "Марис" #NT!
+  RODIAN_mufrenes: "Муфренес" #NT!
+  RODIAN_nardi: "Нарди" #NT!
+  RODIAN_narik: "Нарик" #NT!
+  RODIAN_onaconda: "Онаконда" #NT!
+  RODIAN_prevaro: "Преваро" #NT!
+  RODIAN_rohan: "Рохан" #NT!
+  RODIAN_ropal: "Ропал" #NT!
+  RODIAN_shodu: "Шоду" #NT!
+  RODIAN_skee_skee: "Ски Ски" #NT!
+  RODIAN_sookcool: "Суккул" #NT!
+  RODIAN_standro: "Стандро" #NT!
+  RODIAN_teeku: "Тику" #NT!
+  RODIAN_teerik: "Тирик" #NT!
+  RODIAN_thuku: "Тхуку" #NT!
+  RODIAN_tox: "Токс" #NT!
+  RODIAN_vinto: "Винто" #NT!
+  RODIAN_vuko: "Вуко" #NT!
+  RODIAN_wald_xuz: "Вальд Ксиз" #NT!
+  RODIAN_greeata: "Гриата" #NT!
+  RODIAN_hreeda: "Хрида" #NT!
+  RODIAN_jacta: "Джакта" #NT!
+  RODIAN_kras_ka: "Крас Ка" #NT!
+  RODIAN_vorskl_ta: "Ворскл Та" #NT!
+  RODIAN_spulta: "Спулта" #NT!
+  RODIAN_si_rin_ha: "Си'рин'ха" #NT!
+  RODIAN_tujllaki: "Туджллаки" #NT!
+  RODIAN_chakuy: "Чакуй" #NT!
+  RODIAN_qulluy: "Куллуй" #NT!
+  RODIAN_wakachina: "Вакачина" #NT!
+  RODIAN_trophytaker: "Трофейщик" #NT!
+  RODIAN_iron_pelt: "Железная шкура" #NT!
+  RODIAN_qara: "Кара" #NT!
+  RODIAN_suyk_u: "Суюк'у" #NT!
+  RODIAN_chuki_suni: "Чуки Суни" #NT!
+  RODIAN_longspear: "Длинное копьё" #NT!
+  RODIAN_antagonist: "Антагонист" #NT!
+  RODIAN_protagonist: "Протагонист" #NT!
+  RODIAN_aycha: "Айча" #NT!
+  RODIAN_uturunku: "Утурунку" #NT!
+  RODIAN_wilancha: "Виланча" #NT!
+  RODIAN_upalla: "Упалла" #NT!
+  RODIAN_dancing_knife: "Танцующий нож" #NT!
+  RODIAN_upallay: "Упаллай" #NT!
+  RODIAN_tuta: "Тута" #NT!
+  RODIAN_yaykuy: "Йайкуй" #NT!
+  RODIAN_can_cell: "Кан-келл" #NT!
+  RODIAN_ghest: "Гест" #NT!
+  RODIAN_kwazel_maw: "Квазел Мо" #NT!
+  RODIAN_blood_fly: "Кровавая муха" #NT!
+  RODIAN_khardax: "Кхардакс" #NT!
+  RODIAN_newoongall: "Ньюунгалл" #NT!
+  RODIAN_karstag: "Карстаг" #NT!
+  RODIAN_roth: "Рот" #NT!
+  RODIAN_svaper: "Свапер" #NT!
+  RODIAN_iskaayuma: "Искаайума" #NT!
+  RODIAN_encheeko: "Энчико" #NT!
+  RODIAN_betu: "Бету" #NT!
+  RODIAN_mareesh: "Мариш" #NT!
+  RODIAN_onaconda_farr: "Онаконда Фарр" #NT!
+  RODIAN_green_hell: "Зелёный ад" #NT!
+  RODIAN_ambusher: "Засадник" #NT!
+  RODIAN_stalker: "Сталкер" #NT!
+  RODIAN_emarald_shadow: "Изумрудная тень" #NT!
+  RODIAN_murk_hunter: "Охотник Мурка" #NT!
+  RODIAN_wild_hunt: "Дикая охата" #NT!
+  RODIAN_dree_vandap: "Дри Вандап" #NT!
+  RODIAN_bolla_ropal: "Болла Ропал" #NT!
+  RODIAN_suvam_tan: "Сувам Тан" #NT!
+  RODIAN_suz_tanwa: "Суз Танва" #NT!
+  RODIAN_menndo: "Менндо" #NT!
+  RODIAN_hako_armado: "Хако Армадо" #NT!
+  RODIAN_slyder: "Слайдер" #NT!
+  RODIAN_poacher: "Браконьер" #NT!
+  RODIAN_gamewarden: "Егерь" #NT!
+  RODIAN_fenn_stalker: "Фенн Сталкер" #NT!
+  RODIAN_skaena: "Скаэна" #NT!
+  RODIAN_skalae: "Скалаэ" #NT!
+  RODIAN_rodiamai: "Родиамай" #NT!
+  RODIAN_rodimelici: "Родимеличи" #NT!
+  RODIAN_venaziones: "Венационес" #NT!
+  RODIAN_veeatorium: "Виаториум" #NT!
+  RODIAN_treasure_of_rodia: "Сокровище Родии" #NT!
+  RODIAN_stalking_mount: "Преследующая гора" #NT!
+  RODIAN_trapjaw: "Челюсть-ловушка" #NT!
+  RODIAN_headsman: "Обезглавливатель" #NT!
+  RODIAN_first_protector: "Первый Защитник" #NT!
+  RODIAN_intermission: "Антракт" #NT!
+  RODIAN_h_rinnrada: "Х'риннрада" #NT!
+  RODIAN_jannik_the_white: "Джанник Белый" #NT!
+  RODIAN_honor_war: "Война чести" #NT!
+  RODIAN_general_minst: "Генерал Минст" #NT!
+  RODIAN_sawtooth: "Пилозуб" #NT!
+  RODIAN_general_ropal: "Генерал Ропал" #NT!
+  RODIAN_tracker: "Ищейка" #NT!
+  RODIAN_sniffer: "Нюхач" #NT!
+  RODIAN_navigator: "Навигатор" #NT!
+  RODIAN_wayfinder: "Мореплаватель" #NT!
+  RODIAN_orienteer: "Ориентер" #NT!
+  RODIAN_true_north: "Истина севера" #NT!
+  RODIAN_tracer: "Трассировщик" #NT!
+  RODIAN_hunter_three: "Охотник-3" #NT!
+  RODIAN_verdant_shadow: "Зеленеющая тень" #NT!
+  RODIAN_detector: "Детектор" #NT!
+  RODIAN_tailer: "Тайлер" #NT!
+  RODIAN_trailblazer: "Первопроходец" #NT!
+  RODIAN_pathfinder: "Следопыт" #NT!
+  RODIAN_wayfarer: "Путник" #NT!
+  RODIAN_ambassador: "Амбассадор" #NT!
+  RODIAN_emissary: "Эмиссар" #NT!
+  RODIAN_nomad: "Кочевник" #NT!
+  RODIAN_wanderer: "Скиталец" #NT!
+  RODIAN_traveler: "Путешественник" #NT!
+  RODIAN_itinerant_rex: "Странствующий царь" #NT!
+  RODIAN_homeward_bound: "Ищущий дом" #NT!
+  RODIAN_placefinder: "Космопроходец" #NT!
+  RODIAN_claimant: "Заявитель" #NT!
+  RODIAN_coreward_bound: "Граница опеки Ядра" #NT!
+  RODIAN_bushranger: "Бушрейнджер" #NT!
+  RODIAN_green_seed: "Зелёное семя" #NT!
+  RODIAN_verdant_sprout: "Зелёный росток" #NT!
+  RODIAN_virescent: "Зеленоватый" #NT!
+  RODIAN_stripling: "Юнец" #NT!
+  RODIAN_hatchery: "Инкубаторий" #NT!
+  RODIAN_prayer_of_pioneer: "Молитва первооткрывателя" #NT!
+  RODIAN_memory_of_rodia: "Память Родии" #NT!
+  RODIAN_errand: "Эрранд" #NT!
+  RODIAN_eiska: "Эйска" #NT!
+  RODIAN_enak: "Энак" #NT!
+  RODIAN_soomana: "Сумана" #NT!
+  RODIAN_yasooska: "Йасуска" #NT!
+  RODIAN_an_yettu_vision: "Видение Ан'йетту" #NT!
+  RODIAN_encheekos: "Энчико" #NT!
+  RODIAN_kay_tap: "Кей-Тап" #NT!
+  RODIAN_next_chance: "Следующий шанс" #NT!
+  RODIAN_nova_iskaayuma: "Новая Искаайума" #NT!
+  RODIAN_chekkoo_promise: "Обещание Чеккоо" #NT!
+  RODIAN_matza: "Матза" #NT!
+  RODIAN_samana: "Самана" #NT!
+  RODIAN_yusk: "Йуск" #NT!
+  RODIAN_chattza: "Чаттза" #NT!
+  RODIAN_tetsu: "Тетсу" #NT!
+  RODIAN_bomu: "Бому" #NT!
+  RODIAN_an_yettu: "Ан'йетту" #NT!
+  RODIAN_anyyon: "Аниийон" #NT!
+  RODIAN_cadevon: "Кадевон" #NT!
+  RODIAN_chekkoo: "Чеккоо" #NT!
+  RODIAN_intamm: "Интамм" #NT!
+  RODIAN_kemu: "Кему" #NT!
+  RODIAN_kenu: "Кену" #NT!
+  RODIAN_neetakka: "Нитакка" #NT!
+  RODIAN_roolek: "Рулек" #NT!
+  RODIAN_soammei: "Соаммей" #NT!
+  RODIAN_tan_tanwa: "Тан Танва" #NT!
+  RODIAN_tonera: "Тонена" #NT!
+  RODIAN_yiyar: "Йияр" #NT!
+  RODIAN_constr_aurek: "Конструктор «Аурек»" #NT!
+  RODIAN_constr_besh: "Конструктор «Беш»" #NT!
+  RODIAN_constr_cresh: "Конструктор «Креш»" #NT!
+  RODIAN_constr_dorn: "Конструктор «Дорн»" #NT!
+  RODIAN_constr_forn: "Конструктор «Форн»" #NT!
+  RODIAN_constr_grek: "Конструктор «Грек»" #NT!
+  RODIAN_constr_herf: "Конструктор «Херф»" #NT!
+  RODIAN_constr_isk: "Конструктор «Иск»" #NT!
+  RODIAN_constr_jenth: "Конструктор «Джент»" #NT!
+  RODIAN_constr_krill: "Конструктор «Крилл»" #NT!
+  RODIAN_constr_leth: "Конструктор «Лет»" #NT!
+  RODIAN_constr_mern: "Конструктор «Мерн»" #NT!
+  RODIAN_constr_nern: "Конструктор «Нерн»" #NT!
+  RODIAN_constr_osk: "Конструктор «Оск»" #NT!
+  RODIAN_constr_peth: "Конструктор «Пет»" #NT!
+  RODIAN_constr_senth: "Конструктор «Сент»" #NT!
+  RODIAN_constr_trill: "Конструктор «Трилл»" #NT!
+  RODIAN_constr_usk: "Конструктор «Уск»" #NT!
+  RODIAN_constr_vev: "Конструктор «Вев»" #NT!
+  RODIAN_constr_wesk: "Конструктор «Уэск»" #NT!
+  RODIAN_constr_xesh: "Конструктор «Зеш»" #NT!
+  RODIAN_constr_yirt: "Конструктор «Йирт»" #NT!
+  RODIAN_constr_zerek: "Конструктор «Зерек»" #NT!
+  RODIAN_constr_cherek: "Конструктор «Черек»" #NT!
+  RODIAN_constr_qek: "Конструктор «Кек»" #NT!
+  RODIAN_constr_resh: "Конструктор «Реш»" #NT!
+  RODIAN_constr_enth: "Конструктор «Энт»" #NT!
+  RODIAN_constr_onith: "Конструктор «Онит»" #NT!
+  RODIAN_constr_krenth: "Конструктор «Крент»" #NT!
+  RODIAN_constr_nen: "Конструктор «Нен»" #NT!
+  RODIAN_constr_orenth: "Конструктор «Орент»" #NT!
+  RODIAN_constr_shen: "Конструктор «Шен»" #NT!
+  RODIAN_constr_thesh: "Конструктор «Теш»" #NT!
+  RODIAN_ground_transport: "Наземный транспорт" #NT!
+  RODIAN_navik: "Навик" #NT!
+  RODIAN_citadel: "Цитадель" #NT!
+  RODIAN_gateway: "Шлюз" #NT!
+  RODIAN_tan: "Тан" #NT!
+  RODIAN_tanwa: "Танва" #NT!
+  RODIAN_bombard: "Бомбарда" #NT!
+  RODIAN_ballista: "Баллиста" #NT!
+  RODIAN_catapult: "Катапульта" #NT!
+  RODIAN_harpoon: "Гарпун" #NT!
+  RODIAN_polybolos: "Полибол" #NT!
+  RODIAN_culverin: "Кулеврина" #NT!
+  RODIAN_FLEET_jade_fleet: "Нефритовый флот" #NT!
+  RODIAN_FLEET_rodian_home_guard: "Родианская Домашняя гвардия" #NT!
+  RODIAN_FLEET_verdant_armada: "Зеленеющая армада" #NT!
+  RODIAN_FLEET_battle_group_green: "Боевая группа «Зелёный»" #NT!
+  RODIAN_FLEET_SEQUENTIAL_rodian_task_force: "$ORD$ Rodian Task Force" #NT!
+  RODIAN_ARMY_SEQUENTIAL_hunter_guard: "$ORD$ Hunter Guard" #NT!
+  RODIAN_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force" #NT!
+  RODIAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles" #NT!
+  RODIAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army" #NT!
+  RODIAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando" #NT!
+  RODIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  RODIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+  RODIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+  RODIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+  RODIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+  RODIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+  RODIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+  RODIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+  RODIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+  RODIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+  RODIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+  RODIAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron" #NT!
+  RODIAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force" #NT!
+  RODIAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison" #NT!
+  RODIAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  RODIAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  RODIAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  RODIAN_CHR_navik: "Navik" #NT!
+  RODIAN_CHR_nok: "Nok" #NT!
+  RODIAN_CHR_teeku: "Teeku" #NT!
+  RODIAN_CHR_greedo: "Greedo" #NT!
+  RODIAN_CHR_pqweeduk: "Pqweeduk" #NT!
+  RODIAN_CHR_avaro: "Avaro" #NT!
+  RODIAN_CHR_boiny: "Boiny" #NT!
+  RODIAN_CHR_capo: "Capo" #NT!
+  RODIAN_CHR_cevva: "Cevva" #NT!
+  RODIAN_CHR_clezo: "Clezo" #NT!
+  RODIAN_CHR_dardo: "Dardo" #NT!
+  RODIAN_CHR_doda: "Doda" #NT!
+  RODIAN_CHR_farr: "Farr" #NT!
+  RODIAN_CHR_geelo: "Geelo" #NT!
+  RODIAN_CHR_grappa: "Grappa" #NT!
+  RODIAN_CHR_harido: "Harido" #NT!
+  RODIAN_CHR_honka: "Honka" #NT!
+  RODIAN_CHR_jannik: "Jannik" #NT!
+  RODIAN_CHR_kavilo: "Kavilo" #NT!
+  RODIAN_CHR_kelbis: "Kelbis" #NT!
+  RODIAN_CHR_kelko: "Kelko" #NT!
+  RODIAN_CHR_koobis: "Koobis" #NT!
+  RODIAN_CHR_leenik: "Leenik" #NT!
+  RODIAN_CHR_lido: "Lido" #NT!
+  RODIAN_CHR_maris: "Maris" #NT!
+  RODIAN_CHR_mufrenes: "Mufrenes" #NT!
+  RODIAN_CHR_nardi: "Nardi" #NT!
+  RODIAN_CHR_narik: "Narik" #NT!
+  RODIAN_CHR_onaconda: "Onaconda" #NT!
+  RODIAN_CHR_prevaro: "Prevaro" #NT!
+  RODIAN_CHR_rohan: "Rohan" #NT!
+  RODIAN_CHR_ropal: "Ropal" #NT!
+  RODIAN_CHR_shodu: "Shodu" #NT!
+  RODIAN_CHR_skee_skee: "Skee Skee" #NT!
+  RODIAN_CHR_sookcool: "Sookcool" #NT!
+  RODIAN_CHR_standro: "Standro" #NT!
+  RODIAN_CHR_teerik: "Teerik" #NT!
+  RODIAN_CHR_thuku: "Thuku" #NT!
+  RODIAN_CHR_tox: "Tox" #NT!
+  RODIAN_CHR_vinto: "Vinto" #NT!
+  RODIAN_CHR_vuko: "Vuko" #NT!
+  RODIAN_CHR_wald_xuz: "Wald Xuz" #NT!
+  RODIAN_CHR_kyra: "Kyra" #NT!
+  RODIAN_CHR_aald: "Aald" #NT!
+  RODIAN_CHR_althin: "Althin" #NT!
+  RODIAN_CHR_tok: "Tok" #NT!
+  RODIAN_CHR_zef: "Zef" #NT!
+  RODIAN_CHR_angaar: "Angaar" #NT!
+  RODIAN_CHR_toll: "Toll" #NT!
+  RODIAN_CHR_apoto: "Apoto" #NT!
+  RODIAN_CHR_hako: "Hako" #NT!
+  RODIAN_CHR_b_ree: "B'ree" #NT!
+  RODIAN_CHR_civian: "Civian" #NT!
+  RODIAN_CHR_civius: "Civius" #NT!
+  RODIAN_CHR_reelo: "Reelo" #NT!
+  RODIAN_CHR_lekk: "Lekk" #NT!
+  RODIAN_CHR_beebo: "Beebo" #NT!
+  RODIAN_CHR_beedo: "Beedo" #NT!
+  RODIAN_CHR_beena: "Beena" #NT!
+  RODIAN_CHR_beidlo: "Beidlo" #NT!
+  RODIAN_CHR_biko: "Biko" #NT!
+  RODIAN_CHR_toleen: "Toleen" #NT!
+  RODIAN_CHR_boorm: "Boorm" #NT!
+  RODIAN_CHR_voydd: "Voydd" #NT!
+  RODIAN_CHR_condoo: "Condoo" #NT!
+  RODIAN_CHR_lidan: "Lidan" #NT!
+  RODIAN_CHR_bludlow: "Bludlow" #NT!
+  RODIAN_CHR_bohmer: "Bohmer" #NT!
+  RODIAN_CHR_bolto: "Bolto" #NT!
+  RODIAN_CHR_gespo: "Gespo" #NT!
+  RODIAN_CHR_heedron: "Heedron" #NT!
+  RODIAN_CHR_ormann: "Ormann" #NT!
+  RODIAN_CHR_pax: "Pax" #NT!
+  RODIAN_CHR_trax: "Trax" #NT!
+  RODIAN_CHR_narnee: "Narnee" #NT!
+  RODIAN_CHR_seedar: "Seedar" #NT!
+  RODIAN_CHR_bonda: "Bonda" #NT!
+  RODIAN_CHR_hishinu: "Hishinu" #NT!
+  RODIAN_CHR_breedo: "Breedo" #NT!
+  RODIAN_CHR_brelshen: "Brelshen" #NT!
+  RODIAN_CHR_siega: "Siega" #NT!
+  RODIAN_CHR_wac_bur: "Wac Bur" #NT!
+  RODIAN_CHR_boorgo: "Boorgo" #NT!
+  RODIAN_CHR_duurgo: "Duurgo" #NT!
+  RODIAN_CHR_deebo: "Deebo" #NT!
+  RODIAN_CHR_toluz: "Toluz" #NT!
+  RODIAN_CHR_chiiv: "Chiiv" #NT!
+  RODIAN_CHR_chigo: "Chigo" #NT!
+  RODIAN_CHR_chihdo: "Chihdo" #NT!
+  RODIAN_CHR_chordak: "Chordak" #NT!
+  RODIAN_CHR_chorh_dha: "Chorh-dha" #NT!
+  RODIAN_CHR_creeska: "Creeska" #NT!
+  RODIAN_CHR_flestic: "Flestic" #NT!
+  RODIAN_CHR_coorsha: "Coorsha" #NT!
+  RODIAN_CHR_lernik: "Lernik" #NT!
+  RODIAN_CHR_deedoh: "Deedoh" #NT!
+  RODIAN_CHR_deelguh: "Deelguh" #NT!
+  RODIAN_CHR_dejarro: "Dejarro" #NT!
+  RODIAN_CHR_chooru: "Chooru" #NT!
+  RODIAN_CHR_dellko: "Dellko" #NT!
+  RODIAN_CHR_delo: "Delo" #NT!
+  RODIAN_CHR_denma: "Denma" #NT!
+  RODIAN_CHR_dheendo: "Dheendo" #NT!
+  RODIAN_CHR_dindoo: "Dindoo" #NT!
+  RODIAN_CHR_doba: "Doba" #NT!
+  RODIAN_CHR_tox_don: "Tox Don" #NT!
+  RODIAN_CHR_doogo: "Doogo" #NT!
+  RODIAN_CHR_dorzo: "Dorzo" #NT!
+  RODIAN_CHR_jovan: "Jovan" #NT!
+  RODIAN_CHR_fosin: "Fosin" #NT!
+  RODIAN_CHR_drokka: "Drokka" #NT!
+  RODIAN_CHR_dwesso: "Dwesso" #NT!
+  RODIAN_CHR_esdo: "Esdo" #NT!
+  RODIAN_CHR_eshon: "Eshon" #NT!
+  RODIAN_CHR_evo: "Evo" #NT!
+  RODIAN_CHR_faddo: "Faddo" #NT!
+  RODIAN_CHR_falloon: "Falloon" #NT!
+  RODIAN_CHR_needo: "Needo" #NT!
+  RODIAN_CHR_zeelo: "Zeelo" #NT!
+  RODIAN_CHR_traa: "Traa" #NT!
+  RODIAN_CHR_feeven: "Feeven" #NT!
+  RODIAN_CHR_corkash: "Corkash" #NT!
+  RODIAN_CHR_slerog: "Slerog" #NT!
+  RODIAN_CHR_fondo: "Fondo" #NT!
+  RODIAN_CHR_frandu: "Frandu" #NT!
+  RODIAN_CHR_igbi: "Igbi" #NT!
+  RODIAN_CHR_frelka: "Frelka" #NT!
+  RODIAN_CHR_fretch: "Fretch" #NT!
+  RODIAN_CHR_har: "Har" #NT!
+  RODIAN_CHR_gadaf: "Gadaf" #NT!
+  RODIAN_CHR_fizz: "Fizz" #NT!
+  RODIAN_CHR_vreebo: "Vreebo" #NT!
+  RODIAN_CHR_kood: "Kood" #NT!
+  RODIAN_CHR_vistis: "Vistis" #NT!
+  RODIAN_CHR_garoush: "Garoush" #NT!
+  RODIAN_CHR_jabdo: "Jabdo" #NT!
+  RODIAN_CHR_geffa: "Geffa" #NT!
+  RODIAN_CHR_geri: "Geri" #NT!
+  RODIAN_CHR_geska: "Geska" #NT!
+  RODIAN_CHR_glarret: "Glarret" #NT!
+  RODIAN_CHR_glem: "Glem" #NT!
+  RODIAN_CHR_gluupor: "Gluupor" #NT!
+  RODIAN_CHR_sordu: "Sordu" #NT!
+  RODIAN_CHR_gomalo: "Gomalo" #NT!
+  RODIAN_CHR_pall: "Pall" #NT!
+  RODIAN_CHR_gorro: "Gorro" #NT!
+  RODIAN_CHR_govenni: "Govenni" #NT!
+  RODIAN_CHR_gredori: "Gredori" #NT!
+  RODIAN_CHR_grenzo: "Grenzo" #NT!
+  RODIAN_CHR_greer: "Greer" #NT!
+  RODIAN_CHR_grudo: "Grudo" #NT!
+  RODIAN_CHR_malva: "Malva" #NT!
+  RODIAN_CHR_greepo: "Greepo" #NT!
+  RODIAN_CHR_gurun: "Gurun" #NT!
+  RODIAN_CHR_gweeska: "Gweeska" #NT!
+  RODIAN_CHR_jopari: "Jopari" #NT!
+  RODIAN_CHR_harno: "Harno" #NT!
+  RODIAN_CHR_hatabbas: "Hatabbas" #NT!
+  RODIAN_CHR_hirrtu: "Hirrtu" #NT!
+  RODIAN_CHR_greeta: "Greeta" #NT!
+  RODIAN_CHR_honwoo: "Honwoo" #NT!
+  RODIAN_CHR_hoonta: "Hoonta" #NT!
+  RODIAN_CHR_hulas: "Hulas" #NT!
+  RODIAN_CHR_huruni: "Huruni" #NT!
+  RODIAN_CHR_huulik: "Huulik" #NT!
+  RODIAN_CHR_inntak: "Inntak" #NT!
+  RODIAN_CHR_jakoli: "Jakoli" #NT!
+  RODIAN_CHR_soobu: "Soobu" #NT!
+  RODIAN_CHR_javeezo: "Javeezo" #NT!
+  RODIAN_CHR_jhian: "Jhian" #NT!
+  RODIAN_CHR_jiree: "Jiree" #NT!
+  RODIAN_CHR_hiksri: "Hiksri" #NT!
+  RODIAN_CHR_jombo: "Jombo" #NT!
+  RODIAN_CHR_jora: "Jora" #NT!
+  RODIAN_CHR_jurithus: "Jurithus" #NT!
+  RODIAN_CHR_kaddit: "Kaddit" #NT!
+  RODIAN_CHR_kappo: "Kappo" #NT!
+  RODIAN_CHR_keevo: "Keevo" #NT!
+  RODIAN_CHR_kelsek: "Kelsek" #NT!
+  RODIAN_CHR_lurze: "Lurze" #NT!
+  RODIAN_CHR_rel: "Rel" #NT!
+  RODIAN_CHR_gorak: "Gorak" #NT!
+  RODIAN_CHR_kletoo: "Kletoo" #NT!
+  RODIAN_CHR_kweeta: "Kweeta" #NT!
+  RODIAN_CHR_ortha: "Ortha" #NT!
+  RODIAN_CHR_lotas: "Lotas" #NT!
+  RODIAN_CHR_luco: "Luco" #NT!
+  RODIAN_CHR_veeboo: "Veeboo" #NT!
+  RODIAN_CHR_luugro: "Luugro" #NT!
+  RODIAN_CHR_malkoi: "Malkoi" #NT!
+  RODIAN_CHR_wuuden: "Wuuden" #NT!
+  RODIAN_CHR_swaja: "Swaja" #NT!
+  RODIAN_CHR_maseloo: "Maseloo" #NT!
+  RODIAN_CHR_critolus: "Critolus" #NT!
+  RODIAN_CHR_matu: "Matu" #NT!
+  RODIAN_CHR_meebo: "Meebo" #NT!
+  RODIAN_CHR_menndo: "Menndo" #NT!
+  RODIAN_CHR_morgoto: "Morgoto" #NT!
+  RODIAN_CHR_jeepfal: "Jeepfal" #NT!
+  RODIAN_CHR_neelda: "Neelda" #NT!
+  RODIAN_CHR_neesh: "Neesh" #NT!
+  RODIAN_CHR_vees: "Vees" #NT!
+  RODIAN_CHR_nikolo: "Nikolo" #NT!
+  RODIAN_CHR_nio: "Nio" #NT!
+  RODIAN_CHR_nodobo: "Nodobo" #NT!
+  RODIAN_CHR_opato: "Opato" #NT!
+  RODIAN_CHR_opdoa: "Opdoa" #NT!
+  RODIAN_CHR_pardo: "Pardo" #NT!
+  RODIAN_CHR_pellko: "Pellko" #NT!
+  RODIAN_CHR_safonni: "Safonni" #NT!
+  RODIAN_CHR_phindo: "Phindo" #NT!
+  RODIAN_CHR_puchek: "Puchek" #NT!
+  RODIAN_CHR_quano: "Quano" #NT!
+  RODIAN_CHR_quakkee: "Quakkee" #NT!
+  RODIAN_CHR_jaaxine: "Jaaxine" #NT!
+  RODIAN_CHR_gwad: "Gwad" #NT!
+  RODIAN_CHR_jaardu: "Jaardu" #NT!
+  RODIAN_CHR_valry: "Valry" #NT!
+  RODIAN_CHR_ubis: "Ubis" #NT!
+  RODIAN_CHR_beata: "Beata" #NT!
+  RODIAN_CHR_reeveid: "Reeveid" #NT!
+  RODIAN_CHR_reezo: "Reezo" #NT!
+  RODIAN_CHR_revidjasa: "Revidjasa" #NT!
+  RODIAN_CHR_roovo: "Roovo" #NT!
+  RODIAN_CHR_bolla: "Bolla" #NT!
+  RODIAN_CHR_noota: "Noota" #NT!
+  RODIAN_CHR_rulo: "Rulo" #NT!
+  RODIAN_CHR_sando: "Sando" #NT!
+  RODIAN_CHR_chillo: "Chillo" #NT!
+  RODIAN_CHR_sasso: "Sasso" #NT!
+  RODIAN_CHR_seego: "Seego" #NT!
+  RODIAN_CHR_toile: "Toile" #NT!
+  RODIAN_CHR_veem: "Veem" #NT!
+  RODIAN_CHR_shafu: "Shafu" #NT!
+  RODIAN_CHR_teeko: "Teeko" #NT!
+  RODIAN_CHR_yau: "Yau" #NT!
+  RODIAN_CHR_auaro: "Auaro" #NT!
+  RODIAN_CHR_slotho: "Slotho" #NT!
+  RODIAN_CHR_skodo: "Skodo" #NT!
+  RODIAN_CHR_silood: "Silood" #NT!
+  RODIAN_CHR_shinqo: "Shinqo" #NT!
+  RODIAN_CHR_treemo: "Treemo" #NT!
+  RODIAN_CHR_tseebo: "Tseebo" #NT!
+  RODIAN_CHR_tsoklo: "Tsoklo" #NT!
+  RODIAN_CHR_tulagn: "Tulagn" #NT!
+  RODIAN_CHR_twoolo: "Twoolo" #NT!
+  RODIAN_CHR_gabo: "Gabo" #NT!
+  RODIAN_CHR_suvam: "Suvam" #NT!
+  RODIAN_CHR_tazzik: "Tazzik" #NT!
+  RODIAN_CHR_teekwo: "Teekwo" #NT!
+  RODIAN_CHR_teeloo: "Teeloo" #NT!
+  RODIAN_CHR_teeso: "Teeso" #NT!
+  RODIAN_CHR_teezyk: "Teezyk" #NT!
+  RODIAN_CHR_thugo: "Thugo" #NT!
+  RODIAN_CHR_tolga: "Tolga" #NT!
+  RODIAN_CHR_skoo: "Skoo" #NT!
+  RODIAN_CHR_krezo: "Krezo" #NT!
+  RODIAN_CHR_dar: "Dar" #NT!
+  RODIAN_CHR_vreego: "Vreego" #NT!
+  RODIAN_CHR_vosso: "Vosso" #NT!
+  RODIAN_CHR_yat_de: "Yat-De" #NT!
+  RODIAN_CHR_tsuulo: "Tsuulo" #NT!
+  RODIAN_CHR_tyss: "Tyss" #NT!
+  RODIAN_CHR_tyxx: "Tyxx" #NT!
+  RODIAN_CHR_moogo: "Moogo" #NT!
+  RODIAN_CHR_vatoono: "Vatoono" #NT!
+  RODIAN_CHR_veerdo: "Veerdo" #NT!
+  RODIAN_CHR_veedo: "Veedo" #NT!
+  RODIAN_CHR_vealo: "Vealo" #NT!
+  RODIAN_CHR_neela: "Neela" #NT!
+  RODIAN_CHR_greeata: "Greeata" #NT!
+  RODIAN_CHR_hreeda: "Hreeda" #NT!
+  RODIAN_CHR_lolo: "Lolo" #NT!
+  RODIAN_CHR_steya: "Steya" #NT!
+  RODIAN_CHR_cyll: "Cyll" #NT!
+  RODIAN_CHR_beisa: "Beisa" #NT!
+  RODIAN_CHR_besha: "Besha" #NT!
+  RODIAN_CHR_laneet: "Laneet" #NT!
+  RODIAN_CHR_chussido: "Chussido" #NT!
+  RODIAN_CHR_pa_dua: "Pa Dua" #NT!
+  RODIAN_CHR_mahtee: "Mahtee" #NT!
+  RODIAN_CHR_fask_eelak: "Fask Eelak" #NT!
+  RODIAN_CHR_eesmu: "Eesmu" #NT!
+  RODIAN_CHR_barma: "Barma" #NT!
+  RODIAN_CHR_onna: "Onna" #NT!
+  RODIAN_CHR_ganodi: "Ganodi" #NT!
+  RODIAN_CHR_geeda: "Geeda" #NT!
+  RODIAN_CHR_feena: "Feena" #NT!
+  RODIAN_CHR_beekly: "Beekly" #NT!
+  RODIAN_CHR_mikdanyell: "Mikdanyell" #NT!
+  RODIAN_CHR_h_rinnrada: "H'rinnrada" #NT!
+  RODIAN_CHR_hedu: "Hedu" #NT!
+  RODIAN_CHR_hopeata: "Hopeata" #NT!
+  RODIAN_CHR_andoorni: "Andoorni" #NT!
+  RODIAN_CHR_jeeta: "Jeeta" #NT!
+  RODIAN_CHR_keesha: "Keesha" #NT!
+  RODIAN_CHR_kiimo: "Kiimo" #NT!
+  RODIAN_CHR_ruku: "Ruku" #NT!
+  RODIAN_CHR_saras: "Saras" #NT!
+  RODIAN_CHR_torani: "Torani" #NT!
+  RODIAN_CHR_luunti: "Luunti" #NT!
+  RODIAN_CHR_demaia: "Demaia" #NT!
+  RODIAN_CHR_meeba: "Meeba" #NT!
+  RODIAN_CHR_meelo: "Meelo" #NT!
+  RODIAN_CHR_otol: "Otol" #NT!
+  RODIAN_CHR_nesha: "Nesha" #NT!
+  RODIAN_CHR_jaylla: "Jaylla" #NT!
+  RODIAN_CHR_vosdia: "Vosdia" #NT!
+  RODIAN_CHR_norta: "Norta" #NT!
+  RODIAN_CHR_otee: "Otee" #NT!
+  RODIAN_CHR_tezli: "Tezli" #NT!
+  RODIAN_CHR_liinu: "Liinu" #NT!
+  RODIAN_CHR_yan: "Yan" #NT!
+  RODIAN_CHR_yalka: "Yalka" #NT!
+  RODIAN_CHR_pon: "Pon" #NT!
+  RODIAN_CHR_renna: "Renna" #NT!
+  RODIAN_CHR_ralia: "Ralia" #NT!
+  RODIAN_CHR_roweedu: "Roweedu" #NT!
+  RODIAN_CHR_borra: "Borra" #NT!
+  RODIAN_CHR_shinba: "Shinba" #NT!
+  RODIAN_CHR_suz: "Suz" #NT!
+  RODIAN_CHR_terya: "Terya" #NT!
+  RODIAN_CHR_theenu: "Theenu" #NT!
+  RODIAN_CHR_chokoo: "Chokoo" #NT!
+  RODIAN_CHR_threnda: "Threnda" #NT!
+  RODIAN_CHR_loa: "Loa" #NT!
+  RODIAN_CHR_tweeta: "Tweeta" #NT!
+  RODIAN_CHR_neeka: "Neeka" #NT!
+  RODIAN_CHR_zayda: "Zayda" #NT!
+  RODIAN_CHR_zeeba: "Zeeba" #NT!
+  RODIAN_CHR_dree: "Dree" #NT!
+  RODIAN_CHR_tradu: "Tradu" #NT!
+  RODIAN_CHR_vralla: "Vralla" #NT!
+  RODIAN_CHR_xeelksido: "Xeelksido" #NT!
+  RODIAN_CHR_chattza: "Chattza" #NT!
+  RODIAN_CHR_tetsu: "Tetsu" #NT!
+  RODIAN_CHR_bomu: "Bomu" #NT!
+  RODIAN_CHR_adebsu: "Adebsu" #NT!
+  RODIAN_CHR_an_yettu: "An'yettu" #NT!
+  RODIAN_CHR_anyyon: "Anyyon" #NT!
+  RODIAN_CHR_cadevon: "Cadevon" #NT!
+  RODIAN_CHR_cairn: "Cairn" #NT!
+  RODIAN_CHR_chekkoo: "Chekkoo" #NT!
+  RODIAN_CHR_intamm: "Intamm" #NT!
+  RODIAN_CHR_kemu: "Kemu" #NT!
+  RODIAN_CHR_kenu: "Kenu" #NT!
+  RODIAN_CHR_neetakka: "Neetakka" #NT!
+  RODIAN_CHR_reeven: "Reeven" #NT!
+  RODIAN_CHR_roolek: "Roolek" #NT!
+  RODIAN_CHR_soammei: "Soammei" #NT!
+  RODIAN_CHR_tan: "Tan" #NT!
+  RODIAN_CHR_tanwa: "Tanwa" #NT!
+  RODIAN_CHR_tonera: "Tonera" #NT!
+  RODIAN_CHR_yiyar: "Yiyar" #NT!
+  RODIAN_CHR__naa: "'Naa" #NT!
+  RODIAN_CHR_ando: "Ando" #NT!
+  RODIAN_CHR_annora: "Annora" #NT!
+  RODIAN_CHR_apkar: "Apkar" #NT!
+  RODIAN_CHR_armado: "Armado" #NT!
+  RODIAN_CHR_bain: "Bain" #NT!
+  RODIAN_CHR_baruk: "Baruk" #NT!
+  RODIAN_CHR_vano: "Vano" #NT!
+  RODIAN_CHR_bazak: "Bazak" #NT!
+  RODIAN_CHR_bisma: "Bisma" #NT!
+  RODIAN_CHR_biveedo: "Biveedo" #NT!
+  RODIAN_CHR_blancken: "Blancken" #NT!
+  RODIAN_CHR_blathos: "Blathos" #NT!
+  RODIAN_CHR_bleeker: "Bleeker" #NT!
+  RODIAN_CHR_bodonawieedo: "Bodonawieedo" #NT!
+  RODIAN_CHR_bonu: "Bonu" #NT!
+  RODIAN_CHR_booj: "Booj" #NT!
+  RODIAN_CHR_broos: "Broos" #NT!
+  RODIAN_CHR_cheq: "Cheq" #NT!
+  RODIAN_CHR_crupp: "Crupp" #NT!
+  RODIAN_CHR_dazhda: "Dazhda" #NT!
+  RODIAN_CHR_de_yago: "De'Yago" #NT!
+  RODIAN_CHR_delb: "Delb" #NT!
+  RODIAN_CHR_drark: "Drark" #NT!
+  RODIAN_CHR_dreed: "Dreed" #NT!
+  RODIAN_CHR_dunn: "Dunn" #NT!
+  RODIAN_CHR_fas: "Fas" #NT!
+  RODIAN_CHR_fazon: "Fazon" #NT!
+  RODIAN_CHR_feaan: "Feaan" #NT!
+  RODIAN_CHR_fel_lona: "Fel'Lona" #NT!
+  RODIAN_CHR_fenc: "Fenc" #NT!
+  RODIAN_CHR_fenn: "Fenn" #NT!
+  RODIAN_CHR_ferran: "Ferran" #NT!
+  RODIAN_CHR_freemo: "Freemo" #NT!
+  RODIAN_CHR_fuggaw: "Fuggaw" #NT!
+  RODIAN_CHR_galko: "Galko" #NT!
+  RODIAN_CHR_gango: "Gango" #NT!
+  RODIAN_CHR_gareeda: "Gareeda" #NT!
+  RODIAN_CHR_garn: "Garn" #NT!
+  RODIAN_CHR_garrink: "Garrink" #NT!
+  RODIAN_CHR_gelens: "Gelens" #NT!
+  RODIAN_CHR_gen: "Gen" #NT!
+  RODIAN_CHR_gesse: "Gesse" #NT!
+  RODIAN_CHR_ghel: "Ghel" #NT!
+  RODIAN_CHR_gogg: "Gogg" #NT!
+  RODIAN_CHR_gopal: "Gopal" #NT!
+  RODIAN_CHR_groth: "Groth" #NT!
+  RODIAN_CHR_the_elder: "the Elder" #NT!
+  RODIAN_CHR_the_younger: "the Younger" #NT!
+  RODIAN_CHR_gue: "Gue" #NT!
+  RODIAN_CHR_greeku: "Greeku" #NT!
+  RODIAN_CHR_haines: "Haines" #NT!
+  RODIAN_CHR_holda: "Holda" #NT!
+  RODIAN_CHR_horvat: "Horvat" #NT!
+  RODIAN_CHR_hul: "Hul" #NT!
+  RODIAN_CHR_hune: "Hune" #NT!
+  RODIAN_CHR_hydan: "Hydan" #NT!
+  RODIAN_CHR_javeedo: "Javeedo" #NT!
+  RODIAN_CHR_jcir: "Jcir" #NT!
+  RODIAN_CHR_jith: "Jith" #NT!
+  RODIAN_CHR_kavila: "Kavila" #NT!
+  RODIAN_CHR_kebbo: "Kebbo" #NT!
+  RODIAN_CHR_keedo: "Keedo" #NT!
+  RODIAN_CHR_keemos: "Keemos" #NT!
+  RODIAN_CHR_kesh: "Kesh" #NT!
+  RODIAN_CHR_keteris: "Keteris" #NT!
+  RODIAN_CHR_khzam: "Khzam" #NT!
+  RODIAN_CHR_klimo: "Klimo" #NT!
+  RODIAN_CHR_kooff: "Kooff" #NT!
+  RODIAN_CHR_kreezo: "Kreezo" #NT!
+  RODIAN_CHR_krenin: "Krenin" #NT!
+  RODIAN_CHR_kulda: "Kulda" #NT!
+  RODIAN_CHR_leebo: "Leebo" #NT!
+  RODIAN_CHR_lenitor: "Lenitor" #NT!
+  RODIAN_CHR_leuro_khian: "Leuro-Khian" #NT!
+  RODIAN_CHR_lang: "Lang" #NT!
+  RODIAN_CHR_lunx: "Lunx" #NT!
+  RODIAN_CHR_malnic: "Malnic" #NT!
+  RODIAN_CHR_malon: "Malon" #NT!
+  RODIAN_CHR_maru: "Maru" #NT!
+  RODIAN_CHR_masse: "Masse" #NT!
+  RODIAN_CHR_minst: "Minst" #NT!
+  RODIAN_CHR_nereno: "Nereno" #NT!
+  RODIAN_CHR_nal: "Nal" #NT!
+  RODIAN_CHR_nareedo: "Nareedo" #NT!
+  RODIAN_CHR_neihero: "Neihero" #NT!
+  RODIAN_CHR_nerich: "Nerich" #NT!
+  RODIAN_CHR_netakka: "Netakka" #NT!
+  RODIAN_CHR_noh: "Noh" #NT!
+  RODIAN_CHR_nooma: "Nooma" #NT!
+  RODIAN_CHR_nu: "Nu" #NT!
+  RODIAN_CHR_nom: "Nom" #NT!
+  RODIAN_CHR_odo: "Odo" #NT!
+  RODIAN_CHR_oran: "Oran" #NT!
+  RODIAN_CHR_paemos: "Paemos" #NT!
+  RODIAN_CHR_pajiic: "Pajiic" #NT!
+  RODIAN_CHR_pendon: "Pendon" #NT!
+  RODIAN_CHR_pengu: "Pengu" #NT!
+  RODIAN_CHR_purs: "Purs" #NT!
+  RODIAN_CHR_r_nar: "R'nar" #NT!
+  RODIAN_CHR_raatu: "Raatu" #NT!
+  RODIAN_CHR_raxx: "Raxx" #NT!
+  RODIAN_CHR_ralos_vok: "Ralos-Vok" #NT!
+  RODIAN_CHR_reendorr: "Reendorr" #NT!
+  RODIAN_CHR_reesh: "Reesh" #NT!
+  RODIAN_CHR_savroon: "Savroon" #NT!
+  RODIAN_CHR_setas: "Setas" #NT!
+  RODIAN_CHR_sweevas: "Sweevas" #NT!
+  RODIAN_CHR_sanpoa: "Sanpoa" #NT!
+  RODIAN_CHR_senn: "Senn" #NT!
+  RODIAN_CHR_swanno: "Swanno" #NT!
+  RODIAN_CHR_soonca: "Soonca" #NT!
+  RODIAN_CHR_totryl: "Totryl" #NT!
+  RODIAN_CHR_tychee: "Tychee" #NT!
+  RODIAN_CHR_thool: "Thool" #NT!
+  RODIAN_CHR_tibeeme: "Tibeeme" #NT!
+  RODIAN_CHR_ulur_weebe: "Ulur Weebe" #NT!
+  RODIAN_CHR_skez: "Skez" #NT!
+  RODIAN_CHR_veerone: "Veerone" #NT!
+  RODIAN_CHR_weeyo: "Weeyo" #NT!
+  RODIAN_CHR_wieedo: "Wieedo" #NT!
+  RODIAN_CHR_yesosko: "Yesosko" #NT!
+  RODIAN_CHR_yipour: "Yipour" #NT!
+  RODIAN_CHR_yutsen: "Yutsen" #NT!
+  RODIAN_CHR_z_all: "Z'all" #NT!
+  RODIAN_CHR_zeelesi: "Zeelesi" #NT!
+  RODIAN_CHR_vandap: "Vandap" #NT!
+  RODIAN_CHR_vaocan: "Vaocan" #NT!
+  RODIAN_CHR_chuko: "Chuko" #NT!
+  RODIAN_CHR_vletho: "Vletho" #NT!
+  RODIAN_CHR_vola: "Vola" #NT!
+  RODIAN_CHR_wac: "Wac" #NT!
+  RODIAN_CHR_wasanti: "Wasanti" #NT!
+  RODIAN_CHR_weebe: "Weebe" #NT!
+  RODIAN_CHR_hishnu: "Hishnu" #NT!
+  RODIAN_CHR_burbu: "Burbu" #NT!
+  RODIAN_CHR_jendowanian: "Jendowanian" #NT!
+  RODIAN_CHR_kleeto: "Kleeto" #NT!
+  RODIAN_CHR_veemo: "Veemo" #NT!
+  RODIAN_CHR_toran: "Toran" #NT!
+  RODIAN_CHR_soonta: "Soonta" #NT!
+  RODIAN_CHR_ulur: "Ulur" #NT!
+  RODIAN_CHR_chak: "Chak" #NT!

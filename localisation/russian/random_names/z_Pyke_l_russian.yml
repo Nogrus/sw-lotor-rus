@@ -1,348 +1,348 @@
 ﻿l_russian:
- PYKE_rotworm: "Rotworm"
- PYKE_frogdog: "Frogdog"
- PYKE_footpad: "Footpad"
- PYKE_assassin: "Assassin"
- PYKE_executioner: "Executioner"
- PYKE_butcher: "Butcher"
- PYKE_hired_gun: "Hired Gun"
- PYKE_exterminator: "Exterminator"
- PYKE_liquidator: "Liquidator"
- PYKE_thuggee: "Thuggee"
- PYKE_swindler: "Swindler"
- PYKE_deceiver: "Deceiver"
- PYKE_viper: "Viper"
- PYKE_serpent: "Serpent"
- PYKE_adder: "Adder"
- PYKE_molder: "Molder"
- PYKE_robber_barron: "Robber Barron"
- PYKE_burglar: "Burglar"
- PYKE_mugger: "Mugger"
- PYKE_raider: "Raider"
- PYKE_looter: "Looter"
- PYKE_pillager: "Pillager"
- PYKE_pilferer: "Pilferer"
- PYKE_solar_thief: "Solar Thief"
- PYKE_bandit: "Bandit"
- PYKE_brigand: "Brigand"
- PYKE_highwayman: "Highwayman"
- PYKE_dacoit: "Dacoit"
- PYKE_marauder: "Marauder"
- PYKE_poison: "Poison"
- PYKE_stiletto: "Stiletto"
- PYKE_bodkin: "Bodkin"
- PYKE_cutlass: "Cutlass"
- PYKE_dirk: "Dirk"
- PYKE_poniard: "Poniard"
- PYKE_scalpel: "Scalpel"
- PYKE_sickle: "Sickle"
- PYKE_sabre: "Sabre"
- PYKE_scimitar: "Scimitar"
- PYKE_scythe: "Scythe"
- PYKE_shank: "Shank"
- PYKE_shiv: "Shiv"
- PYKE_switchblade: "Switchblade"
- PYKE_tickler: "Tickler"
- PYKE_skiver: "Skiver"
- PYKE_strongarm: "Strongarm"
- PYKE_bully_boy: "Bully-boy"
- PYKE_coercer: "Coercer"
- PYKE_intimidator: "Intimidator"
- PYKE_cheap_shot: "Cheap Shot"
- PYKE_black_eye: "Black Eye"
- PYKE_invective_rex: "Invective Rex"
- PYKE_opprobrium: "Opprobrium"
- PYKE_impertinence: "Impertinence"
- PYKE_impudence: "Impudence"
- PYKE_ignominy: "Ignominy"
- PYKE_slanderer: "Slanderer"
- PYKE_whisperer: "Whisperer"
- PYKE_maven: "Maven"
- PYKE_vitriol: "Vitriol"
- PYKE_shipcracker: "Shipcracker"
- PYKE_implication: "Implication"
- PYKE_right_hand: "Right Hand"
- PYKE_left_hand: "Left Hand"
- PYKE_made_man: "Made Man"
- PYKE_daimyo: "Daimyo"
- PYKE_wook_s_charm: "Wook's Charm"
- PYKE_silent_goodbye: "Silent Goodbye"
- PYKE_goodnight: "Goodnight"
- PYKE_kneecapper: "Kneecapper"
- PYKE_tail_snapper: "Tail Snapper"
- PYKE_protection_money: "Protection Money"
- PYKE_payoff: "Payoff"
- PYKE_payback: "Payback"
- PYKE_waste_manager: "Waste Manager"
- PYKE_ill_omen: "Ill Omen"
- PYKE_heavy_hitter: "Heavy Hitter"
- PYKE_dame: "Dame"
- PYKE_fait_accompli: "Fait Accompli"
- PYKE_irreversible: "Irreversible"
- PYKE_indebted: "Indebted"
- PYKE_quiet_knife: "Quiet Knife"
- PYKE_racket: "Racket"
- PYKE_blood_water: "Blood Water"
- PYKE_don_of_civilization: "Don of Civilization"
- PYKE_gotra_bond: "Gotra Bond"
- PYKE_bad_faith: "Bad Faith"
- PYKE_bad_influence: "Bad Influence"
- PYKE_underhand: "Underhand"
- PYKE_infidel: "Infidel"
- PYKE_artful_dodger: "Artful Dodger"
- PYKE_heartbreak_kid: "Heartbreak Kid"
- PYKE_associate: "Associate"
- PYKE_duracrete_shoe: "Duracrete Shoe"
- PYKE_clipper: "Clipper"
- PYKE_code_of_silence: "Code of Silence"
- PYKE_consigliere: "Consigliere"
- PYKE_cugine: "Cugine"
- PYKE_earner: "Earner"
- PYKE_initiator: "Initiator"
- PYKE_message_job: "Message Job"
- PYKE_oathbound: "Oathbound"
- PYKE_temporary_reprieve: "Temporary Reprieve"
- PYKE_shy_prince: "Shy Prince"
- PYKE_underboss: "Underboss"
- PYKE_vigorish: "Vigorish"
- PYKE_second_nephew: "Second Nephew"
- PYKE_anzat_one: "Anzat One"
- PYKE_arc_razor: "Arc Razor"
- PYKE_azure_queen: "Azure Queen"
- PYKE_yanov: "Yanov"
- PYKE_lupus_maroo: "Lupus Maroo"
- PYKE_virago: "Virago"
- PYKE_venomator: "Venomator"
- PYKE_vendetta: "Vendetta"
- PYKE_stinger: "Stinger"
- PYKE_scarlet_vertha: "Scarlet Vertha"
- PYKE_tragic_flaw: "Tragic Flaw"
- PYKE_raptor: "Raptor"
- PYKE_rude_awakening: "Rude Awakening"
- PYKE_racketeer: "Racketeer"
- PYKE_hooligan: "Hooligan"
- PYKE_bedlam: "Bedlam"
- PYKE_desperado: "Desperado"
- PYKE_ruthless: "Ruthless"
- PYKE_pitiless: "Pitiless"
- PYKE_merciless: "Merciless"
- PYKE_libertine: "Libertine"
- PYKE_visible_hand: "Visible Hand"
- PYKE_high_jack: "High Jack"
- PYKE_low_blow: "Low Blow"
- PYKE_lackey: "Lackey"
- PYKE_rough_hand: "Rough Hand"
- PYKE_delinquent: "Delinquent"
- PYKE_derelict: "Derelict"
- PYKE_dereliction: "Dereliction"
- PYKE_razor_walk: "Razor Walk"
- PYKE_hamstringer: "Hamstringer"
- PYKE_degenerate: "Degenerate"
- PYKE_profligate: "Profligate"
- PYKE_shakedown: "Shakedown"
- PYKE_ruffian: "Ruffian"
- PYKE_heist: "Heist"
- PYKE_last_caper: "Last Caper"
- PYKE_stickup: "Stickup"
- PYKE_breakout: "Breakout"
- PYKE_impulsive: "Impulsive"
- PYKE_concierge: "Concierge"
- PYKE_liecentious: "Liecentious"
- PYKE_salacious: "Salacious"
- PYKE_fluid_meaning: "Fluid Meaning"
- PYKE_recumbent_end: "Recumbent End"
- PYKE_dirt_nap: "Dirt Nap"
- PYKE_spoiler: "Spoiler"
- PYKE_recalcitrant: "Recalcitrant"
- PYKE_strumpet: "Strumpet"
- PYKE_brazen: "Brazen"
- PYKE_charlatan: "Charlatan"
- PYKE_punishing_one: "Punishing One"
- PYKE_troublemaker: "Troublemaker"
- PYKE_assailant: "Assailant"
- PYKE_disturber: "Disturber"
- PYKE_extortioner: "Extortioner"
- PYKE_blackmail: "Blackmail"
- PYKE_outlaw: "Outlaw"
- PYKE_stigma: "Stigma"
- PYKE_innuendo: "Innuendo"
- PYKE_insinuator: "Insinuator"
- PYKE_double_tap: "Double Tap"
- PYKE_gambit: "Gambit"
- PYKE_ransom: "Ransom"
- PYKE_malcontent: "Malcontent"
- PYKE_mischevous: "Mischevous"
- PYKE_acrimony: "Acrimony"
- PYKE_instigator: "Instigator"
- PYKE_wanton: "Wanton"
- PYKE_line_s_end: "Line's End"
- PYKE_kissed_ring: "Kissed Ring"
- PYKE_ill_repute: "Ill Repute"
- PYKE_crossed_line: "Crossed Line"
- PYKE_misery_s_end: "Misery's End"
- PYKE_true_grift: "True Grift"
- PYKE_sleight_of_hand: "Sleight of Hand"
- PYKE_double_dealer: "Double Dealer"
- PYKE_backstab: "Backstab"
- PYKE_two_timer: "Two-Timer"
- PYKE_sucker_punch: "Sucker Punch"
- PYKE_shade: "Shade"
- PYKE_silence: "Silence"
- PYKE_hoaxer: "Hoaxer"
- PYKE_harlequin: "Harlequin"
- PYKE_dellarte: "Dellarte"
- PYKE_lazi: "Lazi"
- PYKE_flurry_of_bolts: "Flurry of Bolts"
- PYKE_dirty_kick: "Dirty Kick"
- PYKE_vital_shot: "Vital Shot"
- PYKE_quick_shot: "Quick Shot"
- PYKE_all_in: "All In"
- PYKE_eagle_5: "Eagle 5"
- PYKE_lucky_dodge: "Lucky Dodge"
- PYKE_shoot_first: "Shoot First"
- PYKE_nice_try: "Nice Try"
- PYKE_open_wound: "Open Wound"
- PYKE_mortal_wound: "Mortal Wound"
- PYKE_dirty_trickster: "Dirty Trickster"
- PYKE_feelin_woozy: "Feelin' Woozy"
- PYKE_sneaky: "Sneaky"
- PYKE_scrappy: "Scrappy"
- PYKE_shifty_eyed: "Shifty-Eyed"
- PYKE_fight_or_flight: "Fight or Flight"
- PYKE_slippery_devil: "Slippery Devil"
- PYKE_rolling_punches: "Rolling Punches"
- PYKE_surprise_come: "Surprise Comeback"
- PYKE_round_two: "Round Two"
- PYKE_stopping_power: "Stopping Power"
- PYKE_brawler_s_gift: "Brawler's Gift"
- PYKE_survivor_s_scars: "Survivor's Scars"
- PYKE_element_of_surprise: "Element of Surprise"
- PYKE_browbeat: "Browbeat"
- PYKE_keep_cool: "Keep Cool"
- PYKE_scramble: "Scramble"
- PYKE_hunter_s_boon: "Hunter's Boon"
- PYKE_rocket_punch: "Rocket Punch"
- PYKE_rail_shot: "Rail Shot"
- PYKE_death_from_above: "Death From Above"
- PYKE_determination: "Determination"
- PYKE_on_the_trail: "On The Trail"
- PYKE_intimidation: "Intimidation"
- PYKE_corona: "Corona"
- PYKE_glittersim: "Glittersim"
- PYKE_majordomo: "Majordomo"
- PYKE_constr_aurek: "Constructor Aurek"
- PYKE_constr_besh: "Constructor Besh"
- PYKE_constr_cresh: "Constructor Cresh"
- PYKE_constr_dorn: "Constructor Dorn"
- PYKE_constr_forn: "Constructor Forn"
- PYKE_constr_grek: "Constructor Grek"
- PYKE_constr_herf: "Constructor Herf"
- PYKE_constr_isk: "Constructor Isk"
- PYKE_constr_jenth: "Constructor Jenth"
- PYKE_constr_krill: "Constructor Krill"
- PYKE_constr_leth: "Constructor Leth"
- PYKE_constr_mern: "Constructor Mern"
- PYKE_constr_nern: "Constructor Nern"
- PYKE_constr_osk: "Constructor Osk"
- PYKE_constr_peth: "Constructor Peth"
- PYKE_constr_senth: "Constructor Senth"
- PYKE_constr_trill: "Constructor Trill"
- PYKE_constr_usk: "Constructor Usk"
- PYKE_constr_vev: "Constructor Vev"
- PYKE_constr_wesk: "Constructor Wesk"
- PYKE_constr_xesh: "Constructor Xesh"
- PYKE_constr_yirt: "Constructor Yirt"
- PYKE_constr_zerek: "Constructor Zerek"
- PYKE_constr_cherek: "Constructor Cherek"
- PYKE_constr_qek: "Constructor Qek"
- PYKE_constr_resh: "Constructor Resh"
- PYKE_constr_enth: "Constructor Enth"
- PYKE_constr_onith: "Constructor Onith"
- PYKE_constr_krenth: "Constructor Krenth"
- PYKE_constr_nen: "Constructor Nen"
- PYKE_constr_orenth: "Constructor Orenth"
- PYKE_constr_shen: "Constructor Shen"
- PYKE_constr_thesh: "Constructor Thesh"
- PYKE_transport: "Transport"
- PYKE_defense_screen: "Defense Screen"
- PYKE_scrapper: "Scrapper"
- PYKE_meat_grinder: "Meat Grinder"
- PYKE_dirty_fighting: "Dirty Fighting"
- PYKE_back_blast: "Back Blast"
- PYKE_upper_hand: "Upper Hand"
- PYKE_holdout_defense: "Holdout Defense"
- PYKE_hotwired_defenses: "Hotwired Defenses"
- PYKE_rapid_shots: "Rapid Shots"
- PYKE_missle_blast: "Missle Blast"
- PYKE_steely_resolve: "Steely Resolve"
- PYKE_no_escape: "No Escape"
- PYKE_FLEET_joint_expeditionary_fleet: "Joint Expeditionary Fleet"
- PYKE_FLEET_strategic_readiness_fleet: "Strategic Readiness Fleet"
- PYKE_FLEET_tactical_response_fleet: "Tactical Response Fleet"
- PYKE_FLEET_rapid_strike_fleet: "Rapid Strike Fleet"
- PYKE_FLEET_forward_defense_fleet: "Forward Defense Fleet"
- PYKE_FLEET_pride_of_oba_diah: "Pride of Oba Diah"
- PYKE_FLEET_SEQUENTIAL_syndicate_strike_force: "$ORD$ Syndicate Strike Force"
- PYKE_ARMY_SEQUENTIAL_quermian_planetary_guard: "$ORD$ Quermian Planetary Guard"
- PYKE_ARMY_SEQUENTIAL_quermian_infantry_company: "$ORD$ Quermian Infantry Company"
- PYKE_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- PYKE_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- PYKE_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- PYKE_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- PYKE_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- PYKE_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- PYKE_CHR_fife: "Fife"
- PYKE_CHR_marg: "Marg"
- PYKE_CHR_tezzka: "Tezzka"
- PYKE_CHR_laalee: "Laalee"
- PYKE_CHR_lom: "Lom"
- PYKE_CHR_quay: "Quay"
- PYKE_CHR_vram: "Vram"
- PYKE_CHR_pyke: "Pyke"
- PYKE_CHR_krim: "Krim"
- PYKE_CHR_tolsite: "Tolsite"
- PYKE_CHR_barrow: "Barrow"
- PYKE_CHR_bodya: "Bodya"
- PYKE_CHR_cruor: "Cruor"
- PYKE_CHR_freem: "Freem"
- PYKE_CHR_fregner: "Fregner"
- PYKE_CHR_jaarn: "Jaarn"
- PYKE_CHR_kang: "Kang"
- PYKE_CHR_korr: "Korr"
- PYKE_CHR_othar: "Othar"
- PYKE_CHR_reed: "Reed"
- PYKE_CHR_rem: "Rem"
- PYKE_CHR_rix: "Rix"
- PYKE_CHR_talosa: "Talosa"
- PYKE_CHR_tagge: "Tagge"
- PYKE_CHR_tasao: "Tasao"
- PYKE_CHR_varta: "Varta"
- PYKE_CHR_zahor: "Zahor"
- PYKE_CHR_karga: "Karga"
- PYKE_CHR_adelair: "Adelair"
- PYKE_CHR_bann: "Bann"
- PYKE_CHR_blys: "Blys"
- PYKE_CHR_briggam: "Briggam"
- PYKE_CHR_col: "Col"
- PYKE_CHR_denovan: "Denovan"
- PYKE_CHR_falt: "Falt"
- PYKE_CHR_fizark: "Fizark"
- PYKE_CHR_hillin: "Hillin"
- PYKE_CHR_holda: "Holda"
- PYKE_CHR_kaayz: "Kaayz"
- PYKE_CHR_kurthson: "Kurthson"
- PYKE_CHR_laphmer: "Laphmer"
- PYKE_CHR_lanra: "Lanra"
- PYKE_CHR_leksende: "Leksende"
- PYKE_CHR_lorso: "Lorso"
- PYKE_CHR_medoo: "Medoo"
- PYKE_CHR_natari: "Natari"
- PYKE_CHR_orden: "Orden"
- PYKE_CHR_radler: "Radler"
- PYKE_CHR_ree: "Ree"
- PYKE_CHR_reemus: "Reemus"
- PYKE_CHR_safalla: "Safalla"
- PYKE_CHR_seario: "Seario"
- PYKE_CHR_tavar: "Tavar"
- PYKE_CHR_wertka: "Wertka"
- PYKE_CHR_yellip: "Yellip"
+  PYKE_rotworm: "Гнилочервь" #NT!
+  PYKE_frogdog: "Жабопёс" #NT!
+  PYKE_footpad: "Лиходей" #NT!
+  PYKE_assassin: "Ассасин" #NT!
+  PYKE_executioner: "Палач" #NT!
+  PYKE_butcher: "Мясник" #NT!
+  PYKE_hired_gun: "Наёмник" #NT!
+  PYKE_exterminator: "Истребитель" #NT!
+  PYKE_liquidator: "Ликвидатор" #NT!
+  PYKE_thuggee: "Тхаги" #NT!
+  PYKE_swindler: "Аферист" #NT!
+  PYKE_deceiver: "Мошенник" #NT!
+  PYKE_viper: "Гадюка" #NT!
+  PYKE_serpent: "Змий" #NT!
+  PYKE_adder: "Уж" #NT!
+  PYKE_molder: "Формовщик" #NT!
+  PYKE_robber_barron: "Барон-разбойник" #NT!
+  PYKE_burglar: "Взломщик" #NT!
+  PYKE_mugger: "Негодяй" #NT!
+  PYKE_raider: "Налетчик" #NT!
+  PYKE_looter: "Лутер" #NT!
+  PYKE_pillager: "Жулик" #NT!
+  PYKE_pilferer: "Воришка" #NT!
+  PYKE_solar_thief: "Солнечный вор" #NT!
+  PYKE_bandit: "Бандит" #NT!
+  PYKE_brigand: "Разбойник" #NT!
+  PYKE_highwayman: "Бандит с большой дороги" #NT!
+  PYKE_dacoit: "Дакойт" #NT!
+  PYKE_marauder: "Мародёр" #NT!
+  PYKE_poison: "Отрава" #NT!
+  PYKE_stiletto: "Стилет" #NT!
+  PYKE_bodkin: "Шило" #NT!
+  PYKE_cutlass: "Кортик" #NT!
+  PYKE_dirk: "Дирк" #NT!
+  PYKE_poniard: "Поигнард" #NT!
+  PYKE_scalpel: "Скальпель" #NT!
+  PYKE_sickle: "Серп" #NT!
+  PYKE_sabre: "Шашка" #NT!
+  PYKE_scimitar: "Скимитар" #NT!
+  PYKE_scythe: "Коса" #NT!
+  PYKE_shank: "Хвостовик" #NT!
+  PYKE_shiv: "Шив" #NT!
+  PYKE_switchblade: "Выкидной нож" #NT!
+  PYKE_tickler: "Щекотун" #NT!
+  PYKE_skiver: "Нож" #NT!
+  PYKE_strongarm: "Cильная рука" #NT!
+  PYKE_bully_boy: "Драчун" #NT!
+  PYKE_coercer: "Принуждающий" #NT!
+  PYKE_intimidator: "Пугач" #NT!
+  PYKE_cheap_shot: "Больное место" #NT!
+  PYKE_black_eye: "Чёрный глаз" #NT!
+  PYKE_invective_rex: "Оскорбительный король" #NT!
+  PYKE_opprobrium: "Посрамление" #NT!
+  PYKE_impertinence: "Нахальство" #NT!
+  PYKE_impudence: "Беззастенчивость" #NT!
+  PYKE_ignominy: "Бесславие" #NT!
+  PYKE_slanderer: "Клеветник" #NT!
+  PYKE_whisperer: "Шептун" #NT!
+  PYKE_maven: "Знаток" #NT!
+  PYKE_vitriol: "Сарказм" #NT!
+  PYKE_shipcracker: "Взломщик" #NT!
+  PYKE_implication: "Причастность" #NT!
+  PYKE_right_hand: "Правая рука" #NT!
+  PYKE_left_hand: "Левая рука" #NT!
+  PYKE_made_man: "Бывалый" #NT!
+  PYKE_daimyo: "Даймё" #NT!
+  PYKE_wook_s_charm: "Очарование вуки" #NT!
+  PYKE_silent_goodbye: "Тихое прощание" #NT!
+  PYKE_goodnight: "Добрая ночь" #NT!
+  PYKE_kneecapper: "Коленопреклоненный" #NT!
+  PYKE_tail_snapper: "Кусачий хвост" #NT!
+  PYKE_protection_money: "Плата за крышу" #NT!
+  PYKE_payoff: "Выплата" #NT!
+  PYKE_payback: "Окупаемость" #NT!
+  PYKE_waste_manager: "Главный мусорщик" #NT!
+  PYKE_ill_omen: "Дурное знамение" #NT!
+  PYKE_heavy_hitter: "Крупная шишка" #NT!
+  PYKE_dame: "Дама" #NT!
+  PYKE_fait_accompli: "Свершившийся факт" #NT!
+  PYKE_irreversible: "Необратимый" #NT!
+  PYKE_indebted: "Задолжавший" #NT!
+  PYKE_quiet_knife: "Тихий нож" #NT!
+  PYKE_racket: "Рэкет" #NT!
+  PYKE_blood_water: "Кровавая вода" #NT!
+  PYKE_don_of_civilization: "Дон цивилизации" #NT!
+  PYKE_gotra_bond: "Готра Бонд" #NT!
+  PYKE_bad_faith: "Недобросовестность" #NT!
+  PYKE_bad_influence: "Плохое влияние" #NT!
+  PYKE_underhand: "Закулисье" #NT!
+  PYKE_infidel: "Неверность" #NT!
+  PYKE_artful_dodger: "Искусный ловкач" #NT!
+  PYKE_heartbreak_kid: "Малыш с разбитым сердцем" #NT!
+  PYKE_associate: "Связанный" #NT!
+  PYKE_duracrete_shoe: "Дюракритовый башмак" #NT!
+  PYKE_clipper: "Клипер" #NT!
+  PYKE_code_of_silence: "Кодекс молчания" #NT!
+  PYKE_consigliere: "Консильери" #NT!
+  PYKE_cugine: "Двоюродная сестра" #NT!
+  PYKE_earner: "Добытчик" #NT!
+  PYKE_initiator: "Инициатор" #NT!
+  PYKE_message_job: "Чёрная метка" #NT!
+  PYKE_oathbound: "Связанный клятвой" #NT!
+  PYKE_temporary_reprieve: "Временная передышка" #NT!
+  PYKE_shy_prince: "Стеснительный принц" #NT!
+  PYKE_underboss: "Заместитель" #NT!
+  PYKE_vigorish: "Бодрящий" #NT!
+  PYKE_second_nephew: "Второй племянник" #NT!
+  PYKE_anzat_one: "Анзат-1" #NT!
+  PYKE_arc_razor: "Дуговая бритва" #NT!
+  PYKE_azure_queen: "Лазурная королева" #NT!
+  PYKE_yanov: "Янов" #NT!
+  PYKE_lupus_maroo: "Люпус Мару" #NT!
+  PYKE_virago: "Мегера" #NT!
+  PYKE_venomator: "Веноматор" #NT!
+  PYKE_vendetta: "Вендетта" #NT!
+  PYKE_stinger: "Жало" #NT!
+  PYKE_scarlet_vertha: "Алая верта" #NT!
+  PYKE_tragic_flaw: "Роковая ошибка" #NT!
+  PYKE_raptor: "Раптор" #NT!
+  PYKE_rude_awakening: "Горькое разочарование" #NT!
+  PYKE_racketeer: "Рэкетир" #NT!
+  PYKE_hooligan: "Хулиган" #NT!
+  PYKE_bedlam: "Бедлам" #NT!
+  PYKE_desperado: "Отчаянный" #NT!
+  PYKE_ruthless: "Беспощадный" #NT!
+  PYKE_pitiless: "Безжалостный" #NT!
+  PYKE_merciless: "Нещадный" #NT!
+  PYKE_libertine: "Распутник" #NT!
+  PYKE_visible_hand: "Видимая рука" #NT!
+  PYKE_high_jack: "Высокий Джек" #NT!
+  PYKE_low_blow: "Подстава" #NT!
+  PYKE_lackey: "Прихвостень" #NT!
+  PYKE_rough_hand: "Грубая рука" #NT!
+  PYKE_delinquent: "Правонарушитель" #NT!
+  PYKE_derelict: "Покинутый" #NT!
+  PYKE_dereliction: "Пренебрежение" #NT!
+  PYKE_razor_walk: "Прогулка по лезвию бритвы" #NT!
+  PYKE_hamstringer: "Тиски" #NT!
+  PYKE_degenerate: "Дегенерат" #NT!
+  PYKE_profligate: "Распутник" #NT!
+  PYKE_shakedown: "Разбой" #NT!
+  PYKE_ruffian: "Головорез" #NT!
+  PYKE_heist: "Ограбление" #NT!
+  PYKE_last_caper: "Последний каприз" #NT!
+  PYKE_stickup: "Налёт" #NT!
+  PYKE_breakout: "Прорыв" #NT!
+  PYKE_impulsive: "Резкий" #NT!
+  PYKE_concierge: "Консьерж" #NT!
+  PYKE_liecentious: "Распущенный" #NT!
+  PYKE_salacious: "Непристойный" #NT!
+  PYKE_fluid_meaning: "Жидкое значение" #NT!
+  PYKE_recumbent_end: "Лежачий конец" #NT!
+  PYKE_dirt_nap: "Грязный сон" #NT!
+  PYKE_spoiler: "Спойлер" #NT!
+  PYKE_recalcitrant: "Непокорный" #NT!
+  PYKE_strumpet: "Гулящая девка" #NT!
+  PYKE_brazen: "Наглый" #NT!
+  PYKE_charlatan: "Шарлатан" #NT!
+  PYKE_punishing_one: "Наказующий" #NT!
+  PYKE_troublemaker: "Смутьян" #NT!
+  PYKE_assailant: "Зачинщик" #NT!
+  PYKE_disturber: "Помеха" #NT!
+  PYKE_extortioner: "Паразит" #NT!
+  PYKE_blackmail: "Шантаж" #NT!
+  PYKE_outlaw: "Преступник" #NT!
+  PYKE_stigma: "Клеймо" #NT!
+  PYKE_innuendo: "Намёк" #NT!
+  PYKE_insinuator: "Инсинуатор" #NT!
+  PYKE_double_tap: "Двойное нажатие" #NT!
+  PYKE_gambit: "Гамбит" #NT!
+  PYKE_ransom: "Выкуп" #NT!
+  PYKE_malcontent: "Недовольство" #NT!
+  PYKE_mischevous: "Озорной" #NT!
+  PYKE_acrimony: "Язвительность" #NT!
+  PYKE_instigator: "Подстрекатель" #NT!
+  PYKE_wanton: "Блудливый" #NT!
+  PYKE_line_s_end: "Конец жизни" #NT!
+  PYKE_kissed_ring: "Поцелованное кольцо" #NT!
+  PYKE_ill_repute: "Плохая репутация" #NT!
+  PYKE_crossed_line: "Скрещённая линия" #NT!
+  PYKE_misery_s_end: "Конец страданий" #NT!
+  PYKE_true_grift: "Истинный мошенник" #NT!
+  PYKE_sleight_of_hand: "Ловкость рук" #NT!
+  PYKE_double_dealer: "Двурушник" #NT!
+  PYKE_backstab: "Удар в спину" #NT!
+  PYKE_two_timer: "Двуликий" #NT!
+  PYKE_sucker_punch: "Запрещённый приём" #NT!
+  PYKE_shade: "Полумрак" #NT!
+  PYKE_silence: "Немота" #NT!
+  PYKE_hoaxer: "Мистификатор" #NT!
+  PYKE_harlequin: "Арлекин" #NT!
+  PYKE_dellarte: "Делларте" #NT!
+  PYKE_lazi: "Лази" #NT!
+  PYKE_flurry_of_bolts: "Шквал молний" #NT!
+  PYKE_dirty_kick: "Подлый удар" #NT!
+  PYKE_vital_shot: "Смертельный выстрел" #NT!
+  PYKE_quick_shot: "Быстрый выстрел" #NT!
+  PYKE_all_in: "Всё включено" #NT!
+  PYKE_eagle_5: "Орёл 5" #NT!
+  PYKE_lucky_dodge: "Удачный уворот" #NT!
+  PYKE_shoot_first: "Стреляй первым" #NT!
+  PYKE_nice_try: "Хорошая попытка" #NT!
+  PYKE_open_wound: "Рваная рана" #NT!
+  PYKE_mortal_wound: "Смертельная рана" #NT!
+  PYKE_dirty_trickster: "Подлый трюкач" #NT!
+  PYKE_feelin_woozy: "Feelin' Woozy" #NT!
+  PYKE_sneaky: "Скрытный" #NT!
+  PYKE_scrappy: "Задиристый" #NT!
+  PYKE_shifty_eyed: "Косой взгляд" #NT!
+  PYKE_fight_or_flight: "Бей или беги" #NT!
+  PYKE_slippery_devil: "Скользкий дьявол" #NT!
+  PYKE_rolling_punches: "Избегающий ударов" #NT!
+  PYKE_surprise_come: "Неожиданное возвращение" #NT!
+  PYKE_round_two: "Второй раунд" #NT!
+  PYKE_stopping_power: "Сдерживающая сила" #NT!
+  PYKE_brawler_s_gift: "Подарок бойца" #NT!
+  PYKE_survivor_s_scars: "Шрамы выжившего" #NT!
+  PYKE_element_of_surprise: "Элемент неожиданности" #NT!
+  PYKE_browbeat: "Запугивание" #NT!
+  PYKE_keep_cool: "Сохраняющий хладнокровие" #NT!
+  PYKE_scramble: "Схватка" #NT!
+  PYKE_hunter_s_boon: "Дар охотника" #NT!
+  PYKE_rocket_punch: "Ракетный удар" #NT!
+  PYKE_rail_shot: "Дуплет" #NT!
+  PYKE_death_from_above: "Смерть с небес" #NT!
+  PYKE_determination: "Решимость" #NT!
+  PYKE_on_the_trail: "По следу" #NT!
+  PYKE_intimidation: "Устрашение" #NT!
+  PYKE_corona: "Корона" #NT!
+  PYKE_glittersim: "Глиттерсим" #NT!
+  PYKE_majordomo: "Майордомо" #NT!
+  PYKE_constr_aurek: "Конструктор «Аурек»" #NT!
+  PYKE_constr_besh: "Конструктор «Беш»" #NT!
+  PYKE_constr_cresh: "Конструктор «Креш»" #NT!
+  PYKE_constr_dorn: "Конструктор «Дорн»" #NT!
+  PYKE_constr_forn: "Конструктор «Форн»" #NT!
+  PYKE_constr_grek: "Конструктор «Грек»" #NT!
+  PYKE_constr_herf: "Конструктор «Херф»" #NT!
+  PYKE_constr_isk: "Конструктор «Иск»" #NT!
+  PYKE_constr_jenth: "Конструктор «Джент»" #NT!
+  PYKE_constr_krill: "Конструктор «Крилл»" #NT!
+  PYKE_constr_leth: "Конструктор «Лет»" #NT!
+  PYKE_constr_mern: "Конструктор «Мерн»" #NT!
+  PYKE_constr_nern: "Конструктор «Нерн»" #NT!
+  PYKE_constr_osk: "Конструктор «Оск»" #NT!
+  PYKE_constr_peth: "Конструктор «Пет»" #NT!
+  PYKE_constr_senth: "Конструктор «Сент»" #NT!
+  PYKE_constr_trill: "Конструктор «Трилл»" #NT!
+  PYKE_constr_usk: "Конструктор «Уск»" #NT!
+  PYKE_constr_vev: "Конструктор «Вев»" #NT!
+  PYKE_constr_wesk: "Конструктор «Уэск»" #NT!
+  PYKE_constr_xesh: "Конструктор «Зеш»" #NT!
+  PYKE_constr_yirt: "Конструктор «Йирт»" #NT!
+  PYKE_constr_zerek: "Конструктор «Зерек»" #NT!
+  PYKE_constr_cherek: "Конструктор «Черек»" #NT!
+  PYKE_constr_qek: "Конструктор «Кек»" #NT!
+  PYKE_constr_resh: "Конструктор «Реш»" #NT!
+  PYKE_constr_enth: "Конструктор «Энт»" #NT!
+  PYKE_constr_onith: "Конструктор «Онит»" #NT!
+  PYKE_constr_krenth: "Конструктор «Крент»" #NT!
+  PYKE_constr_nen: "Конструктор «Нен»" #NT!
+  PYKE_constr_orenth: "Конструктор «Орент»" #NT!
+  PYKE_constr_shen: "Конструктор «Шен»" #NT!
+  PYKE_constr_thesh: "Конструктор «Теш»" #NT!
+  PYKE_transport: "Транспорт" #NT!
+  PYKE_defense_screen: "Экран защиты" #NT!
+  PYKE_scrapper: "Забияка" #NT!
+  PYKE_meat_grinder: "Мясорубка" #NT!
+  PYKE_dirty_fighting: "Грязная борьба" #NT!
+  PYKE_back_blast: "Обратное пламя" #NT!
+  PYKE_upper_hand: "Верх" #NT!
+  PYKE_holdout_defense: "Упорная защита" #NT!
+  PYKE_hotwired_defenses: "Горячая защита" #NT!
+  PYKE_rapid_shots: "Скорострел" #NT!
+  PYKE_missle_blast: "Ракетный факел" #NT!
+  PYKE_steely_resolve: "Стальная решимость" #NT!
+  PYKE_no_escape: "Побег невозможен" #NT!
+  PYKE_FLEET_joint_expeditionary_fleet: "Объединённый экспедиционный флот" #NT!
+  PYKE_FLEET_strategic_readiness_fleet: "Флот стратегической готовности" #NT!
+  PYKE_FLEET_tactical_response_fleet: "Флот тактического реагирования" #NT!
+  PYKE_FLEET_rapid_strike_fleet: "Флот быстрого реагирования" #NT!
+  PYKE_FLEET_forward_defense_fleet: "Флот передовой обороны" #NT!
+  PYKE_FLEET_pride_of_oba_diah: "Гордость Оба-Диа" #NT!
+  PYKE_FLEET_SEQUENTIAL_syndicate_strike_force: "$ORD$ Syndicate Strike Force" #NT!
+  PYKE_ARMY_SEQUENTIAL_quermian_planetary_guard: "$ORD$ Quermian Planetary Guard" #NT!
+  PYKE_ARMY_SEQUENTIAL_quermian_infantry_company: "$ORD$ Quermian Infantry Company" #NT!
+  PYKE_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  PYKE_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  PYKE_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon" #NT!
+  PYKE_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors" #NT!
+  PYKE_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  PYKE_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard" #NT!
+  PYKE_CHR_fife: "Fife" #NT!
+  PYKE_CHR_marg: "Marg" #NT!
+  PYKE_CHR_tezzka: "Tezzka" #NT!
+  PYKE_CHR_laalee: "Laalee" #NT!
+  PYKE_CHR_lom: "Lom" #NT!
+  PYKE_CHR_quay: "Quay" #NT!
+  PYKE_CHR_vram: "Vram" #NT!
+  PYKE_CHR_pyke: "Pyke" #NT!
+  PYKE_CHR_krim: "Krim" #NT!
+  PYKE_CHR_tolsite: "Tolsite" #NT!
+  PYKE_CHR_barrow: "Barrow" #NT!
+  PYKE_CHR_bodya: "Bodya" #NT!
+  PYKE_CHR_cruor: "Cruor" #NT!
+  PYKE_CHR_freem: "Freem" #NT!
+  PYKE_CHR_fregner: "Fregner" #NT!
+  PYKE_CHR_jaarn: "Jaarn" #NT!
+  PYKE_CHR_kang: "Kang" #NT!
+  PYKE_CHR_korr: "Korr" #NT!
+  PYKE_CHR_othar: "Othar" #NT!
+  PYKE_CHR_reed: "Reed" #NT!
+  PYKE_CHR_rem: "Rem" #NT!
+  PYKE_CHR_rix: "Rix" #NT!
+  PYKE_CHR_talosa: "Talosa" #NT!
+  PYKE_CHR_tagge: "Tagge" #NT!
+  PYKE_CHR_tasao: "Tasao" #NT!
+  PYKE_CHR_varta: "Varta" #NT!
+  PYKE_CHR_zahor: "Zahor" #NT!
+  PYKE_CHR_karga: "Karga" #NT!
+  PYKE_CHR_adelair: "Adelair" #NT!
+  PYKE_CHR_bann: "Bann" #NT!
+  PYKE_CHR_blys: "Blys" #NT!
+  PYKE_CHR_briggam: "Briggam" #NT!
+  PYKE_CHR_col: "Col" #NT!
+  PYKE_CHR_denovan: "Denovan" #NT!
+  PYKE_CHR_falt: "Falt" #NT!
+  PYKE_CHR_fizark: "Fizark" #NT!
+  PYKE_CHR_hillin: "Hillin" #NT!
+  PYKE_CHR_holda: "Holda" #NT!
+  PYKE_CHR_kaayz: "Kaayz" #NT!
+  PYKE_CHR_kurthson: "Kurthson" #NT!
+  PYKE_CHR_laphmer: "Laphmer" #NT!
+  PYKE_CHR_lanra: "Lanra" #NT!
+  PYKE_CHR_leksende: "Leksende" #NT!
+  PYKE_CHR_lorso: "Lorso" #NT!
+  PYKE_CHR_medoo: "Medoo" #NT!
+  PYKE_CHR_natari: "Natari" #NT!
+  PYKE_CHR_orden: "Orden" #NT!
+  PYKE_CHR_radler: "Radler" #NT!
+  PYKE_CHR_ree: "Ree" #NT!
+  PYKE_CHR_reemus: "Reemus" #NT!
+  PYKE_CHR_safalla: "Safalla" #NT!
+  PYKE_CHR_seario: "Seario" #NT!
+  PYKE_CHR_tavar: "Tavar" #NT!
+  PYKE_CHR_wertka: "Wertka" #NT!
+  PYKE_CHR_yellip: "Yellip" #NT!

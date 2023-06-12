@@ -1,707 +1,707 @@
 ﻿l_russian:
- JEDI_axehead: "Axehead"
- JEDI_reciprocity: "Reciprocity"
- JEDI_cal: "Cal"
- JEDI_centurion: "Centurion"
- JEDI_consular: "Consular"
- JEDI_core_systems: "Core Galaxy Systems"
- JEDI_defender: "Defender"
- JEDI_vanguard: "Vanguard"
- JEDI_dreadnought: "Dreadnought"
- JEDI_elite: "Elite"
- JEDI_emissary: "Emissary"
- JEDI_foray: "Foray"
- JEDI_harbinger: "Harbinger"
- JEDI_hammerhead: "Hammerhead"
- JEDI_valiant: "Valiant"
- JEDI_champion_of_iridonia: "Champion of Iridonia"
- JEDI_sojurn: "Sojurn"
- JEDI_tanthior: "Tanthior"
- JEDI_testament: "Testament"
- JEDI_veltraa: "Veltraa"
- JEDI_heraklon: "Heraklon"
- JEDI_inexpugnable: "Inexpugnable"
- JEDI_courageous: "Courageous"
- JEDI_swiftsure: "Swiftsure"
- JEDI_diligence: "Diligence"
- JEDI_indefatigable: "Indefatigable"
- JEDI_tremendous: "Tremendous"
- JEDI_interdictor: "Interdictor"
- JEDI_invincible: "Invincible"
- JEDI_longbeam: "Longbeam"
- JEDI_aurora_iii: "Aurora III"
- JEDI_aurora_ix: "Aurora IX"
- JEDI_karvoss_dawn: "Karvoss Dawn"
- JEDI_praetorian: "Praetorian"
- JEDI_thranta: "Thranta"
- JEDI_daybreaker: "Daybreaker"
- JEDI_dorin_s_sky: "Dorin's Sky"
- JEDI_grace_of_champalan: "Grace of Champalan Tides"
- JEDI_outrider: "Outrider"
- JEDI_vanguard_s_blade: "Vanguard's Blade"
- JEDI_valor: "Valor"
- JEDI_founder: "Founder"
- JEDI_telos: "Telos"
- JEDI_gav_daragon: "Gav Daragon"
- JEDI_allusis: "Allusis"
- JEDI_valliant: "Valliant"
- JEDI_conraddas_vindicator: "Conraddas Vindicator"
- JEDI_delaya: "Delaya"
- JEDI_sungem: "SunGem"
- JEDI_cay_s_dream: "Cay's Dream"
- JEDI_the_father: "The Father"
- JEDI_the_daughter: "The Daughter"
- JEDI_the_brother: "The Brother"
- JEDI_morai: "Morai"
- JEDI_peacemaker: "Peacemaker"
- JEDI_je_daiii: "Je'daiii"
- JEDI_enclave: "Enclave"
- JEDI_wingmaw: "Wingmaw"
- JEDI_uneti: "Uneti"
- JEDI_kyber: "Kyber"
- JEDI_martyrium: "Martyrium"
- JEDI_shii_cho: "Shii-Cho"
- JEDI_makashi: "Makashi"
- JEDI_soresu: "Soresu"
- JEDI_ataru: "Ataru"
- JEDI_shien: "Shien"
- JEDI_djem_so: "Djem So"
- JEDI_niman: "Niman"
- JEDI_juyo: "Juyo"
- JEDI_vaapad: "Vaapad"
- JEDI_jar_kai: "Jar'Kai"
- JEDI_shoto: "Shoto"
- JEDI_crossguard: "Crossguard"
- JEDI_adegan: "Adegan"
- JEDI_mephite: "Mephite"
- JEDI_ghostfire: "Ghostfire"
- JEDI_nishalorite: "Nishalorite"
- JEDI_introspection: "Introspection"
- JEDI_strike: "Strike"
- JEDI_slash: "Slash"
- JEDI_blade_storm: "Blade Storm"
- JEDI_saber_ward: "Saber Ward"
- JEDI_resolute: "Resolute"
- JEDI_riposte: "Riposte"
- JEDI_master_strike: "Master Strike"
- JEDI_rebuke: "Rebuke"
- JEDI_zealous_strike: "Zealous Strike"
- JEDI_transcendence: "Transcendence"
- JEDI_valorous_call: "Valorous Call"
- JEDI_sentinel: "Sentinel"
- JEDI_guardian: "Guardian"
- JEDI_sundering_strike: "Sundering Strike"
- JEDI_visonary: "Visonary"
- JEDI_challenging_call: "Challenging Call"
- JEDI_sage: "Sage"
- JEDI_shadow: "Shadow"
- JEDI_seer: "Seer"
- JEDI_benevolence: "Benevolence"
- JEDI_adept: "Adept"
- JEDI_whirling_blow: "Whirling Blow"
- JEDI_resilience: "Resilience"
- JEDI_wellspring: "Wellspring"
- JEDI_meditation: "Meditation"
- JEDI_constr_aurek: "Constructor Aurek"
- JEDI_constr_besh: "Constructor Besh"
- JEDI_constr_cresh: "Constructor Cresh"
- JEDI_constr_dorn: "Constructor Dorn"
- JEDI_constr_forn: "Constructor Forn"
- JEDI_constr_grek: "Constructor Grek"
- JEDI_constr_herf: "Constructor Herf"
- JEDI_constr_isk: "Constructor Isk"
- JEDI_constr_jenth: "Constructor Jenth"
- JEDI_constr_krill: "Constructor Krill"
- JEDI_constr_leth: "Constructor Leth"
- JEDI_constr_mern: "Constructor Mern"
- JEDI_constr_nern: "Constructor Nern"
- JEDI_constr_osk: "Constructor Osk"
- JEDI_constr_peth: "Constructor Peth"
- JEDI_constr_senth: "Constructor Senth"
- JEDI_constr_trill: "Constructor Trill"
- JEDI_constr_usk: "Constructor Usk"
- JEDI_constr_vev: "Constructor Vev"
- JEDI_constr_wesk: "Constructor Wesk"
- JEDI_constr_xesh: "Constructor Xesh"
- JEDI_constr_yirt: "Constructor Yirt"
- JEDI_constr_zerek: "Constructor Zerek"
- JEDI_constr_cherek: "Constructor Cherek"
- JEDI_constr_qek: "Constructor Qek"
- JEDI_constr_resh: "Constructor Resh"
- JEDI_constr_enth: "Constructor Enth"
- JEDI_constr_onith: "Constructor Onith"
- JEDI_constr_krenth: "Constructor Krenth"
- JEDI_constr_nen: "Constructor Nen"
- JEDI_constr_orenth: "Constructor Orenth"
- JEDI_constr_shen: "Constructor Shen"
- JEDI_constr_thesh: "Constructor Thesh"
- JEDI_FLEET_SEQUENTIAL_jedi_peacekeeping_fleet: "$ORD$ Jedi Peacekeeping Fleet"
- JEDI_ARMY_SEQUENTIAL_jedi_temple_guard: "$ORD$ Jedi Temple Guard"
- JEDI_ARMY_SEQUENTIAL_jedi_peacekeepers: "$ORD$ Jedi Peacekeepers"
- JEDI_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- JEDI_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- JEDI_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- JEDI_ARMY_SEQUENTIAL_jedi_warriors: "$ORD$ Jedi Warriors"
- JEDI_ARMY_wingmaw_flock: "Wingmaw Flock"
- JEDI_ARMY_manka_cat_swarm: "Manka Cat Swarm"
- JEDI_ARMY_acklay_swarm: "Acklay Swarm"
- JEDI_ARMY_SEQUENTIAL_flesh_raiders: "$ORD$ Flesh Raiders"
- JEDI_CHR_master: "Master"
- JEDI_CHR_coven: "Coven"
- JEDI_CHR_ductavis: "Ductavis"
- JEDI_CHR_lahru: "Lahru"
- JEDI_CHR_pina: "Pina"
- JEDI_CHR_ki_sakka: "Ki Sakka"
- JEDI_CHR_sunrider: "Sunrider"
- JEDI_CHR_veter: "Veter"
- JEDI_CHR_zym: "Zym"
- JEDI_CHR_actrion: "Actrion"
- JEDI_CHR_adega: "Adega"
- JEDI_CHR_adelade: "Adelade"
- JEDI_CHR_agorn: "Agorn"
- JEDI_CHR_aharo: "Aharo"
- JEDI_CHR_alde: "Alde"
- JEDI_CHR_alekam: "Alekam"
- JEDI_CHR_altax: "Altax"
- JEDI_CHR_ancia: "Ancia"
- JEDI_CHR_andria: "Andria"
- JEDI_CHR_anstak: "Anstak"
- JEDI_CHR_antana: "Antana"
- JEDI_CHR_ardray: "Ardray"
- JEDI_CHR_arias: "Arias"
- JEDI_CHR_arjur: "Arjur"
- JEDI_CHR_arkoff: "Arkoff"
- JEDI_CHR_aryzah: "Aryzah"
- JEDI_CHR_ath_morath: "Ath'Morath"
- JEDI_CHR_averon: "Averon"
- JEDI_CHR_baas: "Baas"
- JEDI_CHR_bastra: "Bastra"
- JEDI_CHR_bedoch: "Bedoch"
- JEDI_CHR_benn: "Benn"
- JEDI_CHR_berethon: "Berethon"
- JEDI_CHR_berluk: "Berluk"
- JEDI_CHR_bnar: "Bnar"
- JEDI_CHR_boffrey: "Boffrey"
- JEDI_CHR_bolook: "Bolook"
- JEDI_CHR_bota: "Bota"
- JEDI_CHR_boudyn: "Boudyn"
- JEDI_CHR_braylon: "Braylon"
- JEDI_CHR_brohmer: "Brohmer"
- JEDI_CHR_loo_bross: "Loo Bross"
- JEDI_CHR_bross: "Bross"
- JEDI_CHR_buck: "Buck"
- JEDI_CHR_cabaril: "Cabaril"
- JEDI_CHR_cale: "Cale"
- JEDI_CHR_caphtor: "Caphtor"
- JEDI_CHR_cerik: "Cerik"
- JEDI_CHR_ceryss: "Ceryss"
- JEDI_CHR_chamma: "Chamma"
- JEDI_CHR_cheryen: "Cheryen"
- JEDI_CHR_ch_gally: "Ch'gally"
- JEDI_CHR_chonu: "Chonu"
- JEDI_CHR_chuang: "Chuang"
- JEDI_CHR_cibaba: "Cibaba"
- JEDI_CHR_crucitorn: "Crucitorn"
- JEDI_CHR_dannuz: "Dannuz"
- JEDI_CHR_dar_nala: "Dar'Nala"
- JEDI_CHR_darach: "Darach"
- JEDI_CHR_delsa: "Delsa"
- JEDI_CHR_denfa: "Denfa"
- JEDI_CHR_denitri: "Denitri"
- JEDI_CHR_diath: "Diath"
- JEDI_CHR_do_nair: "Do'nair"
- JEDI_CHR_dominus: "Dominus"
- JEDI_CHR_dolso: "Dolso"
- JEDI_CHR_dorak: "Dorak"
- JEDI_CHR_dowmat: "Dowmat"
- JEDI_CHR_draay: "Draay"
- JEDI_CHR_druur: "Druur"
- JEDI_CHR_duumas: "Duumas"
- JEDI_CHR_dynaroth: "Dynaroth"
- JEDI_CHR_eadon: "Eadon"
- JEDI_CHR_ebebdian: "Ebebdian"
- JEDI_CHR_ell: "Ell"
- JEDI_CHR_engle: "Engle"
- JEDI_CHR_ehmyr: "Ehmyr"
- JEDI_CHR_el_josten: "El'Josten"
- JEDI_CHR_elmel: "Elmel"
- JEDI_CHR_enok: "Enok"
- JEDI_CHR_qwisp: "Qwisp"
- JEDI_CHR_fain: "Fain"
- JEDI_CHR_fambola: "Fambola"
- JEDI_CHR_farfalla: "Farfalla"
- JEDI_CHR_farlonn: "Farlonn"
- JEDI_CHR_fellil: "Fellil"
- JEDI_CHR_feln: "Feln"
- JEDI_CHR_forrth: "Forrth"
- JEDI_CHR_fraal: "Fraal"
- JEDI_CHR_frann: "Frann"
- JEDI_CHR_futrad: "Futrad"
- JEDI_CHR_garault: "Garault"
- JEDI_CHR_garnoo: "Garnoo"
- JEDI_CHR_garen: "Garen"
- JEDI_CHR_garragor: "Garragor"
- JEDI_CHR_gehnso: "Gehnso"
- JEDI_CHR_gerata: "Gerata"
- JEDI_CHR_greatstorm: "Greatstorm"
- JEDI_CHR_gidameen: "Gidameen"
- JEDI_CHR_glii: "Glii"
- JEDI_CHR_grennen: "Grennen"
- JEDI_CHR_grey: "Grey"
- JEDI_CHR_griswal: "Griswal"
- JEDI_CHR_groj: "Groj"
- JEDI_CHR_h_broozin: "H'broozin"
- JEDI_CHR_halacia: "Halacia"
- JEDI_CHR_halcyon: "Halcyon"
- JEDI_CHR_hallis: "Hallis"
- JEDI_CHR_halsey: "Halsey"
- JEDI_CHR_halykus: "Halykus"
- JEDI_CHR_hanada: "Hanada"
- JEDI_CHR_hasslo: "Hasslo"
- JEDI_CHR_helarin: "Helarin"
- JEDI_CHR_heljus: "Heljus"
- JEDI_CHR_hortath: "Hortath"
- JEDI_CHR_hoth: "Hoth"
- JEDI_CHR_hesh: "Hesh"
- JEDI_CHR_hulis: "Hulis"
- JEDI_CHR_hun: "Hun"
- JEDI_CHR_huols: "Huols"
- JEDI_CHR_hyss: "Hyss"
- JEDI_CHR_idyth: "Idyth"
- JEDI_CHR_illaga: "Illaga"
- JEDI_CHR_illares: "Illares"
- JEDI_CHR_injaye: "Injaye"
- JEDI_CHR_irichmin: "Irichmin"
- JEDI_CHR_jaretto: "Jaretto"
- JEDI_CHR_jarro: "Jarro"
- JEDI_CHR_jessel: "Jessel"
- JEDI_CHR_jeth: "Jeth"
- JEDI_CHR_joce: "Joce"
- JEDI_CHR_jormin: "Jormin"
- JEDI_CHR_jorol: "Jorol"
- JEDI_CHR_kaan: "Kaan"
- JEDI_CHR_kace: "Kace"
- JEDI_CHR_kae: "Kae"
- JEDI_CHR_kam: "Kam"
- JEDI_CHR_kaldona: "Kaldona"
- JEDI_CHR_kal_don: "Kal-Don"
- JEDI_CHR_kagoro: "Kagoro"
- JEDI_CHR_kanda: "Kanda"
- JEDI_CHR_karr: "Karr"
- JEDI_CHR_karu: "Karu"
- JEDI_CHR_kras_dohk: "Kras'dohk"
- JEDI_CHR_keln: "Keln"
- JEDI_CHR_kelthan: "Kelthan"
- JEDI_CHR_kenpa: "Kenpa"
- JEDI_CHR_khoris: "Khoris"
- JEDI_CHR_khoveri: "Khoveri"
- JEDI_CHR_kirbi: "Kirbi"
- JEDI_CHR_klydeker: "Klydeker"
- JEDI_CHR_kriss: "Kriss"
- JEDI_CHR_krimsan: "Krimsan"
- JEDI_CHR_lamar: "Lamar"
- JEDI_CHR_landai: "Landai"
- JEDI_CHR_lestin: "Lestin"
- JEDI_CHR_liv_trai: "Liv'trai"
- JEDI_CHR_loposa: "Loposa"
- JEDI_CHR_lorik: "Lorik"
- JEDI_CHR_lyoon: "Lyoon"
- JEDI_CHR_farseeker: "Farseeker"
- JEDI_CHR_lywin: "Lywin"
- JEDI_CHR_malag_n: "Malagán"
- JEDI_CHR_mann: "Mann"
- JEDI_CHR_maota: "Maota"
- JEDI_CHR_markos: "Markos"
- JEDI_CHR_maru: "Maru"
- JEDI_CHR_medeen: "Medeen"
- JEDI_CHR_mi: "Mi"
- JEDI_CHR_miduis: "Miduis"
- JEDI_CHR_mirabel: "Mirabel"
- JEDI_CHR_moran: "Moran"
- JEDI_CHR_morm: "Morm"
- JEDI_CHR_muheeda: "Muheeda"
- JEDI_CHR_murrtaggh: "Murrtaggh"
- JEDI_CHR_nadill: "Nadill"
- JEDI_CHR_nagarreken: "Nagarreken"
- JEDI_CHR_narezz: "Narezz"
- JEDI_CHR_nelmo: "Nelmo"
- JEDI_CHR_nimi: "Nimi"
- JEDI_CHR_nisi: "Nisi"
- JEDI_CHR_notka: "Notka"
- JEDI_CHR_a: "O'a"
- JEDI_CHR_obba: "Obba"
- JEDI_CHR_obai: "Obai"
- JEDI_CHR_obip: "Obip"
- JEDI_CHR_ocera: "Ocera"
- JEDI_CHR_odan_urr: "Odan-Urr"
- JEDI_CHR_odu: "Odu"
- JEDI_CHR_ogan_dei: "Ogan-dei"
- JEDI_CHR_oh_dvek: "Oh'dvek"
- JEDI_CHR_onok: "Onok"
- JEDI_CHR_ooroo: "Ooroo"
- JEDI_CHR_organa: "Organa"
- JEDI_CHR_orne: "Orne"
- JEDI_CHR_opin: "Opin"
- JEDI_CHR_orr: "Orr"
- JEDI_CHR_ostar_gal: "Ostar-Gal"
- JEDI_CHR_oslord: "Oslord"
- JEDI_CHR_ovair: "Ovair"
- JEDI_CHR_pak: "Pak"
- JEDI_CHR_par: "Par"
- JEDI_CHR_paria: "Paria"
- JEDI_CHR_pernicar: "Pernicar"
- JEDI_CHR_phrayan: "Phrayan"
- JEDI_CHR_pradoc: "Pradoc"
- JEDI_CHR_q_anilia: "Q'Anilia"
- JEDI_CHR_qalsneek: "Qalsneek"
- JEDI_CHR_qan: "Qan"
- JEDI_CHR_qel_droma: "Qel-Droma"
- JEDI_CHR_qella_tak: "Qella'tak"
- JEDI_CHR_qual: "Qual"
- JEDI_CHR_quanera: "Quanera"
- JEDI_CHR_quarry: "Quarry"
- JEDI_CHR_quilb: "Quilb"
- JEDI_CHR_quilljayk: "Quilljayk"
- JEDI_CHR_quinn: "Quinn"
- JEDI_CHR_quintis: "Quintis"
- JEDI_CHR_quist: "Quist"
- JEDI_CHR_qwen: "Qwen"
- JEDI_CHR_raimu: "Raimu"
- JEDI_CHR_ramos: "Ramos"
- JEDI_CHR_ranos: "Ranos"
- JEDI_CHR_hanuther: "Hanuther"
- JEDI_CHR_relnex: "Relnex"
- JEDI_CHR_ren: "Ren"
- JEDI_CHR_reyes: "Reyes"
- JEDI_CHR_rosso: "Rosso"
- JEDI_CHR_rubatin: "Rubatin"
- JEDI_CHR_ruus: "Ruus"
- JEDI_CHR_phanius: "Phanius"
- JEDI_CHR_ryen: "Ryen"
- JEDI_CHR_sal_deron: "Sal-Deron"
- JEDI_CHR_sarala: "Sarala"
- JEDI_CHR_saryta: "Saryta"
- JEDI_CHR_sashana: "Sashana"
- JEDI_CHR_seffi: "Seffi"
- JEDI_CHR_sek_shele: "Sek-Shele"
- JEDI_CHR_seros: "Seros"
- JEDI_CHR_shanji_vru: "Shanji-vru"
- JEDI_CHR_shan: "Shan"
- JEDI_CHR_shayoto: "Shayoto"
- JEDI_CHR_shian: "Shian"
- JEDI_CHR_shiden: "Shiden"
- JEDI_CHR_shim: "Shim"
- JEDI_CHR_shohn_lowt: "Shohn-Lowt"
- JEDI_CHR_silvarte: "Silvarte"
- JEDI_CHR_simmix: "Simmix"
- JEDI_CHR_skwelli: "Skwelli"
- JEDI_CHR_snapit: "Snapit"
- JEDI_CHR_snee: "Snee"
- JEDI_CHR_solania: "Solania"
- JEDI_CHR_sonam_ha_ar: "Sonam-Ha'ar"
- JEDI_CHR_sorolis: "Sorolis"
- JEDI_CHR_sskeer: "Sskeer"
- JEDI_CHR_strayen: "Strayen"
- JEDI_CHR_stusea: "Stusea"
- JEDI_CHR_sulan: "Sulan"
- JEDI_CHR_sumalee: "Sumalee"
- JEDI_CHR_sunburris: "Sunburris"
- JEDI_CHR_surro: "Surro"
- JEDI_CHR_suutrar: "Suutrar"
- JEDI_CHR_sy: "Sy"
- JEDI_CHR_talagian: "Talagian"
- JEDI_CHR_t_alla: "T'alla"
- JEDI_CHR_talus: "Talus"
- JEDI_CHR_tannis: "Tannis"
- JEDI_CHR_tantari: "Tantari"
- JEDI_CHR_tenbrai: "Tenbrai"
- JEDI_CHR_tera_su: "Tera-Su"
- JEDI_CHR_tey: "Tey"
- JEDI_CHR_theenu: "Theenu"
- JEDI_CHR_tho_natu: "Tho'natu"
- JEDI_CHR_thon: "Thon"
- JEDI_CHR_till_in: "Till'in"
- JEDI_CHR_timmns: "Timmns"
- JEDI_CHR_toreggen: "Toreggen"
- JEDI_CHR_travin: "Travin"
- JEDI_CHR_tremayne: "Tremayne"
- JEDI_CHR_tuknatan: "Tuknatan"
- JEDI_CHR_tykan: "Tykan"
- JEDI_CHR_tyria: "Tyria"
- JEDI_CHR_uru: "Uru"
- JEDI_CHR_vahn: "Vahn"
- JEDI_CHR_vanukar: "Vanukar"
- JEDI_CHR_vari: "Vari"
- JEDI_CHR_vaunk: "Vaunk"
- JEDI_CHR_ven: "Ven"
- JEDI_CHR_vikto: "Vikto"
- JEDI_CHR_tesh: "Tesh"
- JEDI_CHR_vitus: "Vitus"
- JEDI_CHR_vossan: "Vossan"
- JEDI_CHR_wesk: "Wesk"
- JEDI_CHR_wettle: "Wettle"
- JEDI_CHR_wishan: "Wishan"
- JEDI_CHR_wix: "Wix"
- JEDI_CHR_wyellett: "Wyellett"
- JEDI_CHR_wytho: "Wytho"
- JEDI_CHR_xandyk: "Xandyk"
- JEDI_CHR_xamar: "Xamar"
- JEDI_CHR_yalla: "Yalla"
- JEDI_CHR_yan_de: "Yan-De"
- JEDI_CHR_yollo: "Yollo"
- JEDI_CHR_yonlach: "Yonlach"
- JEDI_CHR_yul_li: "Yul-Li"
- JEDI_CHR_zai_uram: "Zai-Uram"
- JEDI_CHR_zallow: "Zallow"
- JEDI_CHR_zarius: "Zarius"
- JEDI_CHR_zavros: "Zavros"
- JEDI_CHR_zhin: "Zhin"
- JEDI_CHR_zho: "Zho"
- JEDI_CHR_zua: "Zua"
- JEDI_CHR_zunor: "Zunor"
- JEDI_CHR_zylvarstar: "Zylvarstar"
- JEDI_CHR_knight: "Knight"
- JEDI_CHR_consular: "Consular"
- JEDI_CHR_algrunar: "Algrunar"
- JEDI_CHR_anyara: "Anyara"
- JEDI_CHR_aru_wen: "Aru-Wen"
- JEDI_CHR_assek: "Assek"
- JEDI_CHR_aurilan: "Aurilan"
- JEDI_CHR_ayesho: "Ayesho"
- JEDI_CHR_barocci: "Barocci"
- JEDI_CHR_berkona: "Berkona"
- JEDI_CHR_bindalin: "Bindalin"
- JEDI_CHR_blendri: "Blendri"
- JEDI_CHR_briqui: "Briqui"
- JEDI_CHR_bynin: "Bynin"
- JEDI_CHR_carsen: "Carsen"
- JEDI_CHR_ceras: "Ceras"
- JEDI_CHR_ceret: "Ceret"
- JEDI_CHR_charny: "Charny"
- JEDI_CHR_chul: "Chul"
- JEDI_CHR_coll: "Coll"
- JEDI_CHR_culu: "Culu"
- JEDI_CHR_dar: "Dar"
- JEDI_CHR_darkstar: "Darkstar"
- JEDI_CHR_dass: "Dass"
- JEDI_CHR_dayos: "Dayos"
- JEDI_CHR_dem: "Dem"
- JEDI_CHR_doaba: "Doaba"
- JEDI_CHR_domi: "Domi"
- JEDI_CHR_doneeta: "Doneeta"
- JEDI_CHR_draerd: "Draerd"
- JEDI_CHR_exteen: "Exteen"
- JEDI_CHR_ezeraline: "Ezeraline"
- JEDI_CHR_ferroh: "Ferroh"
- JEDI_CHR_finn: "Finn"
- JEDI_CHR_gale: "Gale"
- JEDI_CHR_gall: "Gall"
- JEDI_CHR_gonwa: "Gonwa"
- JEDI_CHR_grahrk: "Grahrk"
- JEDI_CHR_grell: "Grell"
- JEDI_CHR_halbret: "Halbret"
- JEDI_CHR_holt: "Holt"
- JEDI_CHR_idair: "Idair"
- JEDI_CHR_luur_jada: "Luur Jada"
- JEDI_CHR_luur: "Luur"
- JEDI_CHR_jada: "Jada"
- JEDI_CHR_jareni: "Jareni"
- JEDI_CHR_jarik: "Jarik"
- JEDI_CHR_jaska: "Jaska"
- JEDI_CHR_jor: "Jor"
- JEDI_CHR_kalla: "Kalla"
- JEDI_CHR_karena: "Karena"
- JEDI_CHR_kark: "Kark"
- JEDI_CHR_kli_qiy: "Kli'qiy"
- JEDI_CHR_kothe: "Kothe"
- JEDI_CHR_kursil: "Kursil"
- JEDI_CHR_laotah: "Laotah"
- JEDI_CHR_leneer: "Leneer"
- JEDI_CHR_lirondo: "Lirondo"
- JEDI_CHR_luka: "Luka"
- JEDI_CHR_ma_ya: "Ma'ya"
- JEDI_CHR_marrian: "Marrian"
- JEDI_CHR_mashallon: "Mashallon"
- JEDI_CHR_mira: "Mira"
- JEDI_CHR_misken: "Misken"
- JEDI_CHR_mogra: "Mogra"
- JEDI_CHR_nil: "Nil"
- JEDI_CHR_nreem: "Nreem"
- JEDI_CHR_nuur: "Nuur"
- JEDI_CHR_nuuv: "Nuuv"
- JEDI_CHR_nys: "Nys"
- JEDI_CHR_ordalien: "Ordalien"
- JEDI_CHR_orez: "Orez"
- JEDI_CHR_orus: "Orus"
- JEDI_CHR_othone: "Othone"
- JEDI_CHR_paro: "Paro"
- JEDI_CHR_pawaro: "Pawaro"
- JEDI_CHR_pendo: "Pendo"
- JEDI_CHR_petja: "Petja"
- JEDI_CHR_praji: "Praji"
- JEDI_CHR_pridence: "Pridence"
- JEDI_CHR_qort: "Qort"
- JEDI_CHR_raabat: "Raabat"
- JEDI_CHR_raffaan: "Raffaan"
- JEDI_CHR_rajan: "Rajan"
- JEDI_CHR_ramunee: "Ramunee"
- JEDI_CHR_rwoh: "Rwoh"
- JEDI_CHR_rydan: "Rydan"
- JEDI_CHR_han_saresh: "Han Saresh"
- JEDI_CHR_han: "Han"
- JEDI_CHR_saresh: "Saresh"
- JEDI_CHR_sedoru: "Sedoru"
- JEDI_CHR_senn: "Senn"
- JEDI_CHR_sevintran: "Sevintran"
- JEDI_CHR_shalavaa: "Shalavaa"
- JEDI_CHR_silas: "Silas"
- JEDI_CHR_sor: "Sor"
- JEDI_CHR_sparkburn: "Sparkburn"
- JEDI_CHR_stokes: "Stokes"
- JEDI_CHR_subartuk: "Subartuk"
- JEDI_CHR_sun_zee: "Sun'Zee"
- JEDI_CHR_sutmani: "Sutmani"
- JEDI_CHR_svag: "Svag"
- JEDI_CHR_sylvar: "Sylvar"
- JEDI_CHR_tarabal: "Tarabal"
- JEDI_CHR_taradon: "Taradon"
- JEDI_CHR_vor: "Vor"
- JEDI_CHR_te_ami: "Te'Ami"
- JEDI_CHR_tephan: "Tephan"
- JEDI_CHR_terec: "Terec"
- JEDI_CHR_tetsu: "Tetsu"
- JEDI_CHR_thello: "Thello"
- JEDI_CHR_toq: "Toq"
- JEDI_CHR_tora_asi: "Tora-Asi"
- JEDI_CHR_trace: "Trace"
- JEDI_CHR_trennis: "Trennis"
- JEDI_CHR_trill: "Trill"
- JEDI_CHR_ulldin: "Ulldin"
- JEDI_CHR_ur_naght: "Ur'naght"
- JEDI_CHR_valn: "Valn"
- JEDI_CHR_vannor: "Vannor"
- JEDI_CHR_volryder: "Volryder"
- JEDI_CHR_votz: "Votz"
- JEDI_CHR_weller: "Weller"
- JEDI_CHR_wen: "Wen"
- JEDI_CHR_wilum: "Wilum"
- JEDI_CHR_willsaam: "Willsaam"
- JEDI_CHR_winnoa: "Winnoa"
- JEDI_CHR_xaj: "Xaj"
- JEDI_CHR_xendor: "Xendor"
- JEDI_CHR_xerender: "Xerender"
- JEDI_CHR_zeel: "Zeel"
- JEDI_CHR_zonn: "Zonn"
- JEDI_CHR_zylixx: "Zylixx"
- JEDI_CHR_padawan: "Padawan"
- JEDI_CHR_initiate: "Initiate"
- JEDI_CHR_adasca: "Adasca"
- JEDI_CHR_adollu: "Adollu"
- JEDI_CHR_agaburry: "Agaburry"
- JEDI_CHR_aven: "Aven"
- JEDI_CHR_avitla: "Avitla"
- JEDI_CHR_ban: "Ban"
- JEDI_CHR_belaya: "Belaya"
- JEDI_CHR_bao_dur: "Bao-Dur"
- JEDI_CHR_bibs: "Bibs"
- JEDI_CHR_bindo: "Bindo"
- JEDI_CHR_brianna: "Brianna"
- JEDI_CHR_cantaros: "Cantaros"
- JEDI_CHR_carrick: "Carrick"
- JEDI_CHR_cassius: "Cassius"
- JEDI_CHR_cora: "Cora"
- JEDI_CHR_crado: "Crado"
- JEDI_CHR_cuthallox: "Cuthallox"
- JEDI_CHR_dal: "Dal"
- JEDI_CHR_damek_ol: "Damek-Ol"
- JEDI_CHR_darovit: "Darovit"
- JEDI_CHR_eli: "Eli"
- JEDI_CHR_elsor: "Elsor"
- JEDI_CHR_fashk: "Fashk"
- JEDI_CHR_fia: "Fia"
- JEDI_CHR_fionn: "Fionn"
- JEDI_CHR_flingeld: "Flingeld"
- JEDI_CHR_freedan: "Freedan"
- JEDI_CHR_garrum: "Garrum"
- JEDI_CHR_geana: "Geana"
- JEDI_CHR_gharn: "Gharn"
- JEDI_CHR_ginger: "Ginger"
- JEDI_CHR_ginorra: "Ginorra"
- JEDI_CHR_githany: "Githany"
- JEDI_CHR_gynt: "Gynt"
- JEDI_CHR_haazen: "Haazen"
- JEDI_CHR_hadu: "Hadu"
- JEDI_CHR_hallen: "Hallen"
- JEDI_CHR_hardin: "Hardin"
- JEDI_CHR_hassin: "Hassin"
- JEDI_CHR_imina: "Imina"
- JEDI_CHR_jelavan: "Jelavan"
- JEDI_CHR_jerridan: "Jerridan"
- JEDI_CHR_jomaram: "Jomaram"
- JEDI_CHR_juhani: "Juhani"
- JEDI_CHR_kaevee: "Kaevee"
- JEDI_CHR_kamlin: "Kamlin"
- JEDI_CHR_keevo: "Keevo"
- JEDI_CHR_kiri: "Kiri"
- JEDI_CHR_konshi: "Konshi"
- JEDI_CHR_kosh: "Kosh"
- JEDI_CHR_kym: "Kym"
- JEDI_CHR_lartan: "Lartan"
- JEDI_CHR_lascol: "Lascol"
- JEDI_CHR_lyla: "Lyla"
- JEDI_CHR_marr: "Marr"
- JEDI_CHR_maruk: "Maruk"
- JEDI_CHR_matare: "Matare"
- JEDI_CHR_mennaus: "Mennaus"
- JEDI_CHR_moracen: "Moracen"
- JEDI_CHR_morn: "Morn"
- JEDI_CHR_morr: "Morr"
- JEDI_CHR_mortull: "Mortull"
- JEDI_CHR_nayama: "Nayama"
- JEDI_CHR_nemok_ta: "Nemok-Ta"
- JEDI_CHR_nima: "Nima"
- JEDI_CHR_nooa: "Nooa"
- JEDI_CHR_noori: "Noori"
- JEDI_CHR_ohtok: "Ohtok"
- JEDI_CHR_oojoh: "Oojoh"
- JEDI_CHR_peralun: "Peralun"
- JEDI_CHR_potts: "Potts"
- JEDI_CHR_praven: "Praven"
- JEDI_CHR_preeti: "Preeti"
- JEDI_CHR_qualie: "Qualie"
- JEDI_CHR_quane: "Quane"
- JEDI_CHR_race: "Race"
- JEDI_CHR_rako: "Rako"
- JEDI_CHR_raloch: "Raloch"
- JEDI_CHR_rand: "Rand"
- JEDI_CHR_jaq: "Jaq"
- JEDI_CHR_kateen: "Kateen"
- JEDI_CHR_sajar: "Sajar"
- JEDI_CHR_sakku: "Sakku"
- JEDI_CHR_sean: "Sean"
- JEDI_CHR_sewlor: "Sewlor"
- JEDI_CHR_shykrill: "Shykrill"
- JEDI_CHR_sladak: "Sladak"
- JEDI_CHR_slatka: "Slatka"
- JEDI_CHR_spanios: "Spanios"
- JEDI_CHR_syl: "Syl"
- JEDI_CHR_talisola: "Talisola"
- JEDI_CHR_tallion: "Tallion"
- JEDI_CHR_ter_idi: "Ter-Idi"
- JEDI_CHR_teradine: "Teradine"
- JEDI_CHR_thoma: "Thoma"
- JEDI_CHR_tourath: "Tourath"
- JEDI_CHR_trad: "Trad"
- JEDI_CHR_trick: "Trick"
- JEDI_CHR_tse: "Tse"
- JEDI_CHR_tuno: "Tuno"
- JEDI_CHR_vandap: "Vandap"
- JEDI_CHR_varek: "Varek"
- JEDI_CHR_vauranelle: "Vauranelle"
- JEDI_CHR_vesser: "Vesser"
- JEDI_CHR_viv_nia: "Viv'nia"
- JEDI_CHR_yashu_vo: "Yashu-Vo"
- JEDI_CHR_ydnen: "Ydnen"
- JEDI_CHR_yorrick: "Yorrick"
- JEDI_CHR_zettifar: "Zettifar"
- JEDI_CHR_zint: "Zint"
+  JEDI_axehead: "Топороглав" #NT!
+  JEDI_reciprocity: "Взаимность" #NT!
+  JEDI_cal: "Кэл" #NT!
+  JEDI_centurion: "Центурион" #NT!
+  JEDI_consular: "Консульский" #NT!
+  JEDI_core_systems: "Основные галактические системы" #NT!
+  JEDI_defender: "Защитник" #NT!
+  JEDI_vanguard: "Авангард" #NT!
+  JEDI_dreadnought: "Дредноут" #NT!
+  JEDI_elite: "Элитный" #NT!
+  JEDI_emissary: "Эмиссар" #NT!
+  JEDI_foray: "Набег" #NT!
+  JEDI_harbinger: "Предвестник" #NT!
+  JEDI_hammerhead: "Молотоглав" #NT!
+  JEDI_valiant: "Xрабрец" #NT!
+  JEDI_champion_of_iridonia: "Чемпион Иридонии" #NT!
+  JEDI_sojurn: "Тайник" #NT!
+  JEDI_tanthior: "Тантиор" #NT!
+  JEDI_testament: "Завещание" #NT!
+  JEDI_veltraa: "Велтраа" #NT!
+  JEDI_heraklon: "Ираклион" #NT!
+  JEDI_inexpugnable: "Неприступный" #NT!
+  JEDI_courageous: "Мужественный" #NT!
+  JEDI_swiftsure: "Стремительный" #NT!
+  JEDI_diligence: "Усердие" #NT!
+  JEDI_indefatigable: "Неутомимый" #NT!
+  JEDI_tremendous: "Гигантский" #NT!
+  JEDI_interdictor: "Воспрещающий" #NT!
+  JEDI_invincible: "Неукротимый" #NT!
+  JEDI_longbeam: "Длинный луч" #NT!
+  JEDI_aurora_iii: "Аврора III" #NT!
+  JEDI_aurora_ix: "Аврора IX" #NT!
+  JEDI_karvoss_dawn: "Заря Карвосса" #NT!
+  JEDI_praetorian: "Преторианец" #NT!
+  JEDI_thranta: "Транта" #NT!
+  JEDI_daybreaker: "Зареносный" #NT!
+  JEDI_dorin_s_sky: "Небеса Дорина" #NT!
+  JEDI_grace_of_champalan: "Милость приливов Чампалана" #NT!
+  JEDI_outrider: "Верховой" #NT!
+  JEDI_vanguard_s_blade: "Клинок авангарда" #NT!
+  JEDI_valor: "Доблесть" #NT!
+  JEDI_founder: "Основатель" #NT!
+  JEDI_telos: "Телос" #NT!
+  JEDI_gav_daragon: "Гэв Дарагон" #NT!
+  JEDI_allusis: "Аллусис" #NT!
+  JEDI_valliant: "Отважный" #NT!
+  JEDI_conraddas_vindicator: "Конраддас Воздаятель" #NT!
+  JEDI_delaya: "Делайя" #NT!
+  JEDI_sungem: "Солнечный самоцвет" #NT!
+  JEDI_cay_s_dream: "Мечта Кая" #NT!
+  JEDI_the_father: "Отец" #NT!
+  JEDI_the_daughter: "Дочь" #NT!
+  JEDI_the_brother: "Брат" #NT!
+  JEDI_morai: "Морай" #NT!
+  JEDI_peacemaker: "Миротворец" #NT!
+  JEDI_je_daiii: "Дже'дайи" #NT!
+  JEDI_enclave: "Анклав" #NT!
+  JEDI_wingmaw: "Крыльепасть" #NT!
+  JEDI_uneti: "Юнети" #NT!
+  JEDI_kyber: "Кайбер" #NT!
+  JEDI_martyrium: "Мартириум" #NT!
+  JEDI_shii_cho: "Шии-Чо" #NT!
+  JEDI_makashi: "Макаши" #NT!
+  JEDI_soresu: "Соресу" #NT!
+  JEDI_ataru: "Атару" #NT!
+  JEDI_shien: "Шиен" #NT!
+  JEDI_djem_so: "Джем Со" #NT!
+  JEDI_niman: "Ниман" #NT!
+  JEDI_juyo: "Джуйо" #NT!
+  JEDI_vaapad: "Ваапад" #NT!
+  JEDI_jar_kai: "Джар'Кай" #NT!
+  JEDI_shoto: "Шото" #NT!
+  JEDI_crossguard: "Крестовая гарда" #NT!
+  JEDI_adegan: "Адеган" #NT!
+  JEDI_mephite: "Мефит" #NT!
+  JEDI_ghostfire: "Призрачный огонь" #NT!
+  JEDI_nishalorite: "Нишалорит" #NT!
+  JEDI_introspection: "Интроспекция" #NT!
+  JEDI_strike: "Удар" #NT!
+  JEDI_slash: "Рубящий удар" #NT!
+  JEDI_blade_storm: "Буря клинков" #NT!
+  JEDI_saber_ward: "Вострая сабля" #NT!
+  JEDI_resolute: "Решительный" #NT!
+  JEDI_riposte: "Ответный удар" #NT!
+  JEDI_master_strike: "Мастерский удар" #NT!
+  JEDI_rebuke: "Выговор" #NT!
+  JEDI_zealous_strike: "Фанатичный удар" #NT!
+  JEDI_transcendence: "Восхождение" #NT!
+  JEDI_valorous_call: "Доблестный призыв" #NT!
+  JEDI_sentinel: "Дозорный" #NT!
+  JEDI_guardian: "Страж" #NT!
+  JEDI_sundering_strike: "Раскалывающий удар" #NT!
+  JEDI_visonary: "Видение" #NT!
+  JEDI_challenging_call: "Сложный вызов" #NT!
+  JEDI_sage: "Шалфей" #NT!
+  JEDI_shadow: "Тень" #NT!
+  JEDI_seer: "Провидец" #NT!
+  JEDI_benevolence: "Доброжелательность" #NT!
+  JEDI_adept: "Адепт" #NT!
+  JEDI_whirling_blow: "Вихревой удар" #NT!
+  JEDI_resilience: "Устойчивость" #NT!
+  JEDI_wellspring: "Родник" #NT!
+  JEDI_meditation: "Медитация" #NT!
+  JEDI_constr_aurek: "Конструктор «Аурек»" #NT!
+  JEDI_constr_besh: "Конструктор «Беш»" #NT!
+  JEDI_constr_cresh: "Конструктор «Креш»" #NT!
+  JEDI_constr_dorn: "Конструктор «Дорн»" #NT!
+  JEDI_constr_forn: "Конструктор «Форн»" #NT!
+  JEDI_constr_grek: "Конструктор «Грек»" #NT!
+  JEDI_constr_herf: "Конструктор «Херф»" #NT!
+  JEDI_constr_isk: "Конструктор «Иск»" #NT!
+  JEDI_constr_jenth: "Конструктор «Джент»" #NT!
+  JEDI_constr_krill: "Конструктор «Крилл»" #NT!
+  JEDI_constr_leth: "Конструктор «Лет»" #NT!
+  JEDI_constr_mern: "Конструктор «Мерн»" #NT!
+  JEDI_constr_nern: "Конструктор «Нерн»" #NT!
+  JEDI_constr_osk: "Конструктор «Оск»" #NT!
+  JEDI_constr_peth: "Конструктор «Пет»" #NT!
+  JEDI_constr_senth: "Конструктор «Сент»" #NT!
+  JEDI_constr_trill: "Конструктор «Трилл»" #NT!
+  JEDI_constr_usk: "Конструктор «Уск»" #NT!
+  JEDI_constr_vev: "Конструктор «Вев»" #NT!
+  JEDI_constr_wesk: "Конструктор «Уэск»" #NT!
+  JEDI_constr_xesh: "Конструктор «Зеш»" #NT!
+  JEDI_constr_yirt: "Конструктор «Йирт»" #NT!
+  JEDI_constr_zerek: "Конструктор «Зерек»" #NT!
+  JEDI_constr_cherek: "Конструктор «Черек»" #NT!
+  JEDI_constr_qek: "Конструктор «Кек»" #NT!
+  JEDI_constr_resh: "Конструктор «Реш»" #NT!
+  JEDI_constr_enth: "Конструктор «Энт»" #NT!
+  JEDI_constr_onith: "Конструктор «Онит»" #NT!
+  JEDI_constr_krenth: "Конструктор «Крент»" #NT!
+  JEDI_constr_nen: "Конструктор «Нен»" #NT!
+  JEDI_constr_orenth: "Конструктор «Орент»" #NT!
+  JEDI_constr_shen: "Конструктор «Шен»" #NT!
+  JEDI_constr_thesh: "Конструктор «Теш»" #NT!
+  JEDI_FLEET_SEQUENTIAL_jedi_peacekeeping_fleet: "$ORD$ Jedi Peacekeeping Fleet" #NT!
+  JEDI_ARMY_SEQUENTIAL_jedi_temple_guard: "$ORD$ Jedi Temple Guard" #NT!
+  JEDI_ARMY_SEQUENTIAL_jedi_peacekeepers: "$ORD$ Jedi Peacekeepers" #NT!
+  JEDI_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  JEDI_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  JEDI_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon" #NT!
+  JEDI_ARMY_SEQUENTIAL_jedi_warriors: "$ORD$ Jedi Warriors" #NT!
+  JEDI_ARMY_wingmaw_flock: "Стая крыльепастей" #NT!
+  JEDI_ARMY_manka_cat_swarm: "Полчище манка-котов" #NT!
+  JEDI_ARMY_acklay_swarm: "Рой аклаев" #NT!
+  JEDI_ARMY_SEQUENTIAL_flesh_raiders: "$ORD$ Flesh Raiders" #NT!
+  JEDI_CHR_master: "Мастер" #NT!
+  JEDI_CHR_coven: "Coven" #NT!
+  JEDI_CHR_ductavis: "Ductavis" #NT!
+  JEDI_CHR_lahru: "Lahru" #NT!
+  JEDI_CHR_pina: "Pina" #NT!
+  JEDI_CHR_ki_sakka: "Ki Sakka" #NT!
+  JEDI_CHR_sunrider: "Sunrider" #NT!
+  JEDI_CHR_veter: "Veter" #NT!
+  JEDI_CHR_zym: "Zym" #NT!
+  JEDI_CHR_actrion: "Actrion" #NT!
+  JEDI_CHR_adega: "Adega" #NT!
+  JEDI_CHR_adelade: "Adelade" #NT!
+  JEDI_CHR_agorn: "Agorn" #NT!
+  JEDI_CHR_aharo: "Aharo" #NT!
+  JEDI_CHR_alde: "Alde" #NT!
+  JEDI_CHR_alekam: "Alekam" #NT!
+  JEDI_CHR_altax: "Altax" #NT!
+  JEDI_CHR_ancia: "Ancia" #NT!
+  JEDI_CHR_andria: "Andria" #NT!
+  JEDI_CHR_anstak: "Anstak" #NT!
+  JEDI_CHR_antana: "Antana" #NT!
+  JEDI_CHR_ardray: "Ardray" #NT!
+  JEDI_CHR_arias: "Arias" #NT!
+  JEDI_CHR_arjur: "Arjur" #NT!
+  JEDI_CHR_arkoff: "Arkoff" #NT!
+  JEDI_CHR_aryzah: "Aryzah" #NT!
+  JEDI_CHR_ath_morath: "Ath'Morath" #NT!
+  JEDI_CHR_averon: "Averon" #NT!
+  JEDI_CHR_baas: "Baas" #NT!
+  JEDI_CHR_bastra: "Bastra" #NT!
+  JEDI_CHR_bedoch: "Bedoch" #NT!
+  JEDI_CHR_benn: "Benn" #NT!
+  JEDI_CHR_berethon: "Berethon" #NT!
+  JEDI_CHR_berluk: "Berluk" #NT!
+  JEDI_CHR_bnar: "Bnar" #NT!
+  JEDI_CHR_boffrey: "Boffrey" #NT!
+  JEDI_CHR_bolook: "Bolook" #NT!
+  JEDI_CHR_bota: "Bota" #NT!
+  JEDI_CHR_boudyn: "Boudyn" #NT!
+  JEDI_CHR_braylon: "Braylon" #NT!
+  JEDI_CHR_brohmer: "Brohmer" #NT!
+  JEDI_CHR_loo_bross: "Loo Bross" #NT!
+  JEDI_CHR_bross: "Bross" #NT!
+  JEDI_CHR_buck: "Buck" #NT!
+  JEDI_CHR_cabaril: "Cabaril" #NT!
+  JEDI_CHR_cale: "Cale" #NT!
+  JEDI_CHR_caphtor: "Caphtor" #NT!
+  JEDI_CHR_cerik: "Cerik" #NT!
+  JEDI_CHR_ceryss: "Ceryss" #NT!
+  JEDI_CHR_chamma: "Чамма" #NT!
+  JEDI_CHR_cheryen: "Cheryen" #NT!
+  JEDI_CHR_ch_gally: "Ch'gally" #NT!
+  JEDI_CHR_chonu: "Chonu" #NT!
+  JEDI_CHR_chuang: "Chuang" #NT!
+  JEDI_CHR_cibaba: "Cibaba" #NT!
+  JEDI_CHR_crucitorn: "Crucitorn" #NT!
+  JEDI_CHR_dannuz: "Dannuz" #NT!
+  JEDI_CHR_dar_nala: "Dar'Nala" #NT!
+  JEDI_CHR_darach: "Darach" #NT!
+  JEDI_CHR_delsa: "Delsa" #NT!
+  JEDI_CHR_denfa: "Denfa" #NT!
+  JEDI_CHR_denitri: "Denitri" #NT!
+  JEDI_CHR_diath: "Diath" #NT!
+  JEDI_CHR_do_nair: "До'нэйр" #NT!
+  JEDI_CHR_dominus: "Доминус" #NT!
+  JEDI_CHR_dolso: "Dolso" #NT!
+  JEDI_CHR_dorak: "Dorak" #NT!
+  JEDI_CHR_dowmat: "Dowmat" #NT!
+  JEDI_CHR_draay: "Draay" #NT!
+  JEDI_CHR_druur: "Druur" #NT!
+  JEDI_CHR_duumas: "Duumas" #NT!
+  JEDI_CHR_dynaroth: "Dynaroth" #NT!
+  JEDI_CHR_eadon: "Eadon" #NT!
+  JEDI_CHR_ebebdian: "Ebebdian" #NT!
+  JEDI_CHR_ell: "Ell" #NT!
+  JEDI_CHR_engle: "Engle" #NT!
+  JEDI_CHR_ehmyr: "Ehmyr" #NT!
+  JEDI_CHR_el_josten: "El'Josten" #NT!
+  JEDI_CHR_elmel: "Elmel" #NT!
+  JEDI_CHR_enok: "Enok" #NT!
+  JEDI_CHR_qwisp: "Qwisp" #NT!
+  JEDI_CHR_fain: "Fain" #NT!
+  JEDI_CHR_fambola: "Fambola" #NT!
+  JEDI_CHR_farfalla: "Farfalla" #NT!
+  JEDI_CHR_farlonn: "Farlonn" #NT!
+  JEDI_CHR_fellil: "Fellil" #NT!
+  JEDI_CHR_feln: "Feln" #NT!
+  JEDI_CHR_forrth: "Forrth" #NT!
+  JEDI_CHR_fraal: "Fraal" #NT!
+  JEDI_CHR_frann: "Frann" #NT!
+  JEDI_CHR_futrad: "Futrad" #NT!
+  JEDI_CHR_garault: "Garault" #NT!
+  JEDI_CHR_garnoo: "Garnoo" #NT!
+  JEDI_CHR_garen: "Garen" #NT!
+  JEDI_CHR_garragor: "Garragor" #NT!
+  JEDI_CHR_gehnso: "Gehnso" #NT!
+  JEDI_CHR_gerata: "Gerata" #NT!
+  JEDI_CHR_greatstorm: "Greatstorm" #NT!
+  JEDI_CHR_gidameen: "Gidameen" #NT!
+  JEDI_CHR_glii: "Glii" #NT!
+  JEDI_CHR_grennen: "Grennen" #NT!
+  JEDI_CHR_grey: "Grey" #NT!
+  JEDI_CHR_griswal: "Griswal" #NT!
+  JEDI_CHR_groj: "Groj" #NT!
+  JEDI_CHR_h_broozin: "H'broozin" #NT!
+  JEDI_CHR_halacia: "Halacia" #NT!
+  JEDI_CHR_halcyon: "Halcyon" #NT!
+  JEDI_CHR_hallis: "Hallis" #NT!
+  JEDI_CHR_halsey: "Halsey" #NT!
+  JEDI_CHR_halykus: "Halykus" #NT!
+  JEDI_CHR_hanada: "Hanada" #NT!
+  JEDI_CHR_hasslo: "Hasslo" #NT!
+  JEDI_CHR_helarin: "Helarin" #NT!
+  JEDI_CHR_heljus: "Heljus" #NT!
+  JEDI_CHR_hortath: "Hortath" #NT!
+  JEDI_CHR_hoth: "Hoth" #NT!
+  JEDI_CHR_hesh: "Hesh" #NT!
+  JEDI_CHR_hulis: "Hulis" #NT!
+  JEDI_CHR_hun: "Hun" #NT!
+  JEDI_CHR_huols: "Huols" #NT!
+  JEDI_CHR_hyss: "Hyss" #NT!
+  JEDI_CHR_idyth: "Idyth" #NT!
+  JEDI_CHR_illaga: "Illaga" #NT!
+  JEDI_CHR_illares: "Illares" #NT!
+  JEDI_CHR_injaye: "Injaye" #NT!
+  JEDI_CHR_irichmin: "Irichmin" #NT!
+  JEDI_CHR_jaretto: "Jaretto" #NT!
+  JEDI_CHR_jarro: "Jarro" #NT!
+  JEDI_CHR_jessel: "Jessel" #NT!
+  JEDI_CHR_jeth: "Jeth" #NT!
+  JEDI_CHR_joce: "Joce" #NT!
+  JEDI_CHR_jormin: "Jormin" #NT!
+  JEDI_CHR_jorol: "Jorol" #NT!
+  JEDI_CHR_kaan: "Kaan" #NT!
+  JEDI_CHR_kace: "Kace" #NT!
+  JEDI_CHR_kae: "Kae" #NT!
+  JEDI_CHR_kam: "Kam" #NT!
+  JEDI_CHR_kaldona: "Kaldona" #NT!
+  JEDI_CHR_kal_don: "Kal-Don" #NT!
+  JEDI_CHR_kagoro: "Kagoro" #NT!
+  JEDI_CHR_kanda: "Kanda" #NT!
+  JEDI_CHR_karr: "Karr" #NT!
+  JEDI_CHR_karu: "Karu" #NT!
+  JEDI_CHR_kras_dohk: "Kras'dohk" #NT!
+  JEDI_CHR_keln: "Keln" #NT!
+  JEDI_CHR_kelthan: "Kelthan" #NT!
+  JEDI_CHR_kenpa: "Kenpa" #NT!
+  JEDI_CHR_khoris: "Khoris" #NT!
+  JEDI_CHR_khoveri: "Khoveri" #NT!
+  JEDI_CHR_kirbi: "Kirbi" #NT!
+  JEDI_CHR_klydeker: "Klydeker" #NT!
+  JEDI_CHR_kriss: "Kriss" #NT!
+  JEDI_CHR_krimsan: "Krimsan" #NT!
+  JEDI_CHR_lamar: "Lamar" #NT!
+  JEDI_CHR_landai: "Landai" #NT!
+  JEDI_CHR_lestin: "Lestin" #NT!
+  JEDI_CHR_liv_trai: "Liv'trai" #NT!
+  JEDI_CHR_loposa: "Loposa" #NT!
+  JEDI_CHR_lorik: "Lorik" #NT!
+  JEDI_CHR_lyoon: "Lyoon" #NT!
+  JEDI_CHR_farseeker: "Farseeker" #NT!
+  JEDI_CHR_lywin: "Lywin" #NT!
+  JEDI_CHR_malag_n: "Malagán" #NT!
+  JEDI_CHR_mann: "Mann" #NT!
+  JEDI_CHR_maota: "Maota" #NT!
+  JEDI_CHR_markos: "Markos" #NT!
+  JEDI_CHR_maru: "Maru" #NT!
+  JEDI_CHR_medeen: "Medeen" #NT!
+  JEDI_CHR_mi: "Mi" #NT!
+  JEDI_CHR_miduis: "Miduis" #NT!
+  JEDI_CHR_mirabel: "Mirabel" #NT!
+  JEDI_CHR_moran: "Moran" #NT!
+  JEDI_CHR_morm: "Morm" #NT!
+  JEDI_CHR_muheeda: "Muheeda" #NT!
+  JEDI_CHR_murrtaggh: "Murrtaggh" #NT!
+  JEDI_CHR_nadill: "Nadill" #NT!
+  JEDI_CHR_nagarreken: "Nagarreken" #NT!
+  JEDI_CHR_narezz: "Narezz" #NT!
+  JEDI_CHR_nelmo: "Nelmo" #NT!
+  JEDI_CHR_nimi: "Nimi" #NT!
+  JEDI_CHR_nisi: "Nisi" #NT!
+  JEDI_CHR_notka: "Notka" #NT!
+  JEDI_CHR_a: "O'a" #NT!
+  JEDI_CHR_obba: "Obba" #NT!
+  JEDI_CHR_obai: "Obai" #NT!
+  JEDI_CHR_obip: "Obip" #NT!
+  JEDI_CHR_ocera: "Ocera" #NT!
+  JEDI_CHR_odan_urr: "Odan-Urr" #NT!
+  JEDI_CHR_odu: "Odu" #NT!
+  JEDI_CHR_ogan_dei: "Ogan-dei" #NT!
+  JEDI_CHR_oh_dvek: "Oh'dvek" #NT!
+  JEDI_CHR_onok: "Onok" #NT!
+  JEDI_CHR_ooroo: "Ooroo" #NT!
+  JEDI_CHR_organa: "Organa" #NT!
+  JEDI_CHR_orne: "Orne" #NT!
+  JEDI_CHR_opin: "Opin" #NT!
+  JEDI_CHR_orr: "Orr" #NT!
+  JEDI_CHR_ostar_gal: "Ostar-Gal" #NT!
+  JEDI_CHR_oslord: "Oslord" #NT!
+  JEDI_CHR_ovair: "Ovair" #NT!
+  JEDI_CHR_pak: "Pak" #NT!
+  JEDI_CHR_par: "Par" #NT!
+  JEDI_CHR_paria: "Paria" #NT!
+  JEDI_CHR_pernicar: "Pernicar" #NT!
+  JEDI_CHR_phrayan: "Phrayan" #NT!
+  JEDI_CHR_pradoc: "Pradoc" #NT!
+  JEDI_CHR_q_anilia: "Q'Anilia" #NT!
+  JEDI_CHR_qalsneek: "Qalsneek" #NT!
+  JEDI_CHR_qan: "Qan" #NT!
+  JEDI_CHR_qel_droma: "Qel-Droma" #NT!
+  JEDI_CHR_qella_tak: "Qella'tak" #NT!
+  JEDI_CHR_qual: "Qual" #NT!
+  JEDI_CHR_quanera: "Quanera" #NT!
+  JEDI_CHR_quarry: "Quarry" #NT!
+  JEDI_CHR_quilb: "Quilb" #NT!
+  JEDI_CHR_quilljayk: "Quilljayk" #NT!
+  JEDI_CHR_quinn: "Quinn" #NT!
+  JEDI_CHR_quintis: "Quintis" #NT!
+  JEDI_CHR_quist: "Quist" #NT!
+  JEDI_CHR_qwen: "Qwen" #NT!
+  JEDI_CHR_raimu: "Raimu" #NT!
+  JEDI_CHR_ramos: "Ramos" #NT!
+  JEDI_CHR_ranos: "Ranos" #NT!
+  JEDI_CHR_hanuther: "Hanuther" #NT!
+  JEDI_CHR_relnex: "Relnex" #NT!
+  JEDI_CHR_ren: "Ren" #NT!
+  JEDI_CHR_reyes: "Reyes" #NT!
+  JEDI_CHR_rosso: "Rosso" #NT!
+  JEDI_CHR_rubatin: "Rubatin" #NT!
+  JEDI_CHR_ruus: "Ruus" #NT!
+  JEDI_CHR_phanius: "Phanius" #NT!
+  JEDI_CHR_ryen: "Ryen" #NT!
+  JEDI_CHR_sal_deron: "Sal-Deron" #NT!
+  JEDI_CHR_sarala: "Sarala" #NT!
+  JEDI_CHR_saryta: "Saryta" #NT!
+  JEDI_CHR_sashana: "Sashana" #NT!
+  JEDI_CHR_seffi: "Seffi" #NT!
+  JEDI_CHR_sek_shele: "Sek-Shele" #NT!
+  JEDI_CHR_seros: "Seros" #NT!
+  JEDI_CHR_shanji_vru: "Shanji-vru" #NT!
+  JEDI_CHR_shan: "Shan" #NT!
+  JEDI_CHR_shayoto: "Shayoto" #NT!
+  JEDI_CHR_shian: "Shian" #NT!
+  JEDI_CHR_shiden: "Shiden" #NT!
+  JEDI_CHR_shim: "Shim" #NT!
+  JEDI_CHR_shohn_lowt: "Shohn-Lowt" #NT!
+  JEDI_CHR_silvarte: "Silvarte" #NT!
+  JEDI_CHR_simmix: "Simmix" #NT!
+  JEDI_CHR_skwelli: "Skwelli" #NT!
+  JEDI_CHR_snapit: "Snapit" #NT!
+  JEDI_CHR_snee: "Snee" #NT!
+  JEDI_CHR_solania: "Solania" #NT!
+  JEDI_CHR_sonam_ha_ar: "Sonam-Ha'ar" #NT!
+  JEDI_CHR_sorolis: "Sorolis" #NT!
+  JEDI_CHR_sskeer: "Sskeer" #NT!
+  JEDI_CHR_strayen: "Strayen" #NT!
+  JEDI_CHR_stusea: "Stusea" #NT!
+  JEDI_CHR_sulan: "Sulan" #NT!
+  JEDI_CHR_sumalee: "Sumalee" #NT!
+  JEDI_CHR_sunburris: "Sunburris" #NT!
+  JEDI_CHR_surro: "Surro" #NT!
+  JEDI_CHR_suutrar: "Suutrar" #NT!
+  JEDI_CHR_sy: "Sy" #NT!
+  JEDI_CHR_talagian: "Talagian" #NT!
+  JEDI_CHR_t_alla: "T'alla" #NT!
+  JEDI_CHR_talus: "Talus" #NT!
+  JEDI_CHR_tannis: "Tannis" #NT!
+  JEDI_CHR_tantari: "Tantari" #NT!
+  JEDI_CHR_tenbrai: "Tenbrai" #NT!
+  JEDI_CHR_tera_su: "Tera-Su" #NT!
+  JEDI_CHR_tey: "Tey" #NT!
+  JEDI_CHR_theenu: "Theenu" #NT!
+  JEDI_CHR_tho_natu: "Tho'natu" #NT!
+  JEDI_CHR_thon: "Thon" #NT!
+  JEDI_CHR_till_in: "Till'in" #NT!
+  JEDI_CHR_timmns: "Timmns" #NT!
+  JEDI_CHR_toreggen: "Toreggen" #NT!
+  JEDI_CHR_travin: "Travin" #NT!
+  JEDI_CHR_tremayne: "Tremayne" #NT!
+  JEDI_CHR_tuknatan: "Tuknatan" #NT!
+  JEDI_CHR_tykan: "Tykan" #NT!
+  JEDI_CHR_tyria: "Tyria" #NT!
+  JEDI_CHR_uru: "Uru" #NT!
+  JEDI_CHR_vahn: "Vahn" #NT!
+  JEDI_CHR_vanukar: "Vanukar" #NT!
+  JEDI_CHR_vari: "Vari" #NT!
+  JEDI_CHR_vaunk: "Vaunk" #NT!
+  JEDI_CHR_ven: "Ven" #NT!
+  JEDI_CHR_vikto: "Vikto" #NT!
+  JEDI_CHR_tesh: "Tesh" #NT!
+  JEDI_CHR_vitus: "Vitus" #NT!
+  JEDI_CHR_vossan: "Vossan" #NT!
+  JEDI_CHR_wesk: "Wesk" #NT!
+  JEDI_CHR_wettle: "Wettle" #NT!
+  JEDI_CHR_wishan: "Wishan" #NT!
+  JEDI_CHR_wix: "Wix" #NT!
+  JEDI_CHR_wyellett: "Wyellett" #NT!
+  JEDI_CHR_wytho: "Wytho" #NT!
+  JEDI_CHR_xandyk: "Xandyk" #NT!
+  JEDI_CHR_xamar: "Xamar" #NT!
+  JEDI_CHR_yalla: "Yalla" #NT!
+  JEDI_CHR_yan_de: "Yan-De" #NT!
+  JEDI_CHR_yollo: "Yollo" #NT!
+  JEDI_CHR_yonlach: "Yonlach" #NT!
+  JEDI_CHR_yul_li: "Yul-Li" #NT!
+  JEDI_CHR_zai_uram: "Zai-Uram" #NT!
+  JEDI_CHR_zallow: "Zallow" #NT!
+  JEDI_CHR_zarius: "Zarius" #NT!
+  JEDI_CHR_zavros: "Zavros" #NT!
+  JEDI_CHR_zhin: "Zhin" #NT!
+  JEDI_CHR_zho: "Zho" #NT!
+  JEDI_CHR_zua: "Zua" #NT!
+  JEDI_CHR_zunor: "Zunor" #NT!
+  JEDI_CHR_zylvarstar: "Zylvarstar" #NT!
+  JEDI_CHR_knight: "Knight" #NT!
+  JEDI_CHR_consular: "Consular" #NT!
+  JEDI_CHR_algrunar: "Algrunar" #NT!
+  JEDI_CHR_anyara: "Anyara" #NT!
+  JEDI_CHR_aru_wen: "Aru-Wen" #NT!
+  JEDI_CHR_assek: "Assek" #NT!
+  JEDI_CHR_aurilan: "Aurilan" #NT!
+  JEDI_CHR_ayesho: "Ayesho" #NT!
+  JEDI_CHR_barocci: "Barocci" #NT!
+  JEDI_CHR_berkona: "Berkona" #NT!
+  JEDI_CHR_bindalin: "Bindalin" #NT!
+  JEDI_CHR_blendri: "Blendri" #NT!
+  JEDI_CHR_briqui: "Briqui" #NT!
+  JEDI_CHR_bynin: "Bynin" #NT!
+  JEDI_CHR_carsen: "Carsen" #NT!
+  JEDI_CHR_ceras: "Ceras" #NT!
+  JEDI_CHR_ceret: "Ceret" #NT!
+  JEDI_CHR_charny: "Charny" #NT!
+  JEDI_CHR_chul: "Chul" #NT!
+  JEDI_CHR_coll: "Coll" #NT!
+  JEDI_CHR_culu: "Culu" #NT!
+  JEDI_CHR_dar: "Dar" #NT!
+  JEDI_CHR_darkstar: "Darkstar" #NT!
+  JEDI_CHR_dass: "Dass" #NT!
+  JEDI_CHR_dayos: "Dayos" #NT!
+  JEDI_CHR_dem: "Dem" #NT!
+  JEDI_CHR_doaba: "Doaba" #NT!
+  JEDI_CHR_domi: "Domi" #NT!
+  JEDI_CHR_doneeta: "Doneeta" #NT!
+  JEDI_CHR_draerd: "Draerd" #NT!
+  JEDI_CHR_exteen: "Exteen" #NT!
+  JEDI_CHR_ezeraline: "Ezeraline" #NT!
+  JEDI_CHR_ferroh: "Ferroh" #NT!
+  JEDI_CHR_finn: "Finn" #NT!
+  JEDI_CHR_gale: "Gale" #NT!
+  JEDI_CHR_gall: "Gall" #NT!
+  JEDI_CHR_gonwa: "Gonwa" #NT!
+  JEDI_CHR_grahrk: "Grahrk" #NT!
+  JEDI_CHR_grell: "Grell" #NT!
+  JEDI_CHR_halbret: "Halbret" #NT!
+  JEDI_CHR_holt: "Holt" #NT!
+  JEDI_CHR_idair: "Idair" #NT!
+  JEDI_CHR_luur_jada: "Luur Jada" #NT!
+  JEDI_CHR_luur: "Luur" #NT!
+  JEDI_CHR_jada: "Jada" #NT!
+  JEDI_CHR_jareni: "Jareni" #NT!
+  JEDI_CHR_jarik: "Jarik" #NT!
+  JEDI_CHR_jaska: "Jaska" #NT!
+  JEDI_CHR_jor: "Jor" #NT!
+  JEDI_CHR_kalla: "Kalla" #NT!
+  JEDI_CHR_karena: "Karena" #NT!
+  JEDI_CHR_kark: "Kark" #NT!
+  JEDI_CHR_kli_qiy: "Kli'qiy" #NT!
+  JEDI_CHR_kothe: "Kothe" #NT!
+  JEDI_CHR_kursil: "Kursil" #NT!
+  JEDI_CHR_laotah: "Laotah" #NT!
+  JEDI_CHR_leneer: "Leneer" #NT!
+  JEDI_CHR_lirondo: "Lirondo" #NT!
+  JEDI_CHR_luka: "Luka" #NT!
+  JEDI_CHR_ma_ya: "Ma'ya" #NT!
+  JEDI_CHR_marrian: "Marrian" #NT!
+  JEDI_CHR_mashallon: "Mashallon" #NT!
+  JEDI_CHR_mira: "Mira" #NT!
+  JEDI_CHR_misken: "Misken" #NT!
+  JEDI_CHR_mogra: "Mogra" #NT!
+  JEDI_CHR_nil: "Nil" #NT!
+  JEDI_CHR_nreem: "Nreem" #NT!
+  JEDI_CHR_nuur: "Nuur" #NT!
+  JEDI_CHR_nuuv: "Nuuv" #NT!
+  JEDI_CHR_nys: "Nys" #NT!
+  JEDI_CHR_ordalien: "Ordalien" #NT!
+  JEDI_CHR_orez: "Orez" #NT!
+  JEDI_CHR_orus: "Orus" #NT!
+  JEDI_CHR_othone: "Othone" #NT!
+  JEDI_CHR_paro: "Paro" #NT!
+  JEDI_CHR_pawaro: "Pawaro" #NT!
+  JEDI_CHR_pendo: "Pendo" #NT!
+  JEDI_CHR_petja: "Petja" #NT!
+  JEDI_CHR_praji: "Praji" #NT!
+  JEDI_CHR_pridence: "Pridence" #NT!
+  JEDI_CHR_qort: "Qort" #NT!
+  JEDI_CHR_raabat: "Raabat" #NT!
+  JEDI_CHR_raffaan: "Raffaan" #NT!
+  JEDI_CHR_rajan: "Rajan" #NT!
+  JEDI_CHR_ramunee: "Ramunee" #NT!
+  JEDI_CHR_rwoh: "Rwoh" #NT!
+  JEDI_CHR_rydan: "Rydan" #NT!
+  JEDI_CHR_han_saresh: "Han Saresh" #NT!
+  JEDI_CHR_han: "Han" #NT!
+  JEDI_CHR_saresh: "Saresh" #NT!
+  JEDI_CHR_sedoru: "Sedoru" #NT!
+  JEDI_CHR_senn: "Senn" #NT!
+  JEDI_CHR_sevintran: "Sevintran" #NT!
+  JEDI_CHR_shalavaa: "Shalavaa" #NT!
+  JEDI_CHR_silas: "Silas" #NT!
+  JEDI_CHR_sor: "Sor" #NT!
+  JEDI_CHR_sparkburn: "Sparkburn" #NT!
+  JEDI_CHR_stokes: "Stokes" #NT!
+  JEDI_CHR_subartuk: "Subartuk" #NT!
+  JEDI_CHR_sun_zee: "Sun'Zee" #NT!
+  JEDI_CHR_sutmani: "Sutmani" #NT!
+  JEDI_CHR_svag: "Svag" #NT!
+  JEDI_CHR_sylvar: "Sylvar" #NT!
+  JEDI_CHR_tarabal: "Tarabal" #NT!
+  JEDI_CHR_taradon: "Taradon" #NT!
+  JEDI_CHR_vor: "Vor" #NT!
+  JEDI_CHR_te_ami: "Te'Ami" #NT!
+  JEDI_CHR_tephan: "Tephan" #NT!
+  JEDI_CHR_terec: "Terec" #NT!
+  JEDI_CHR_tetsu: "Tetsu" #NT!
+  JEDI_CHR_thello: "Thello" #NT!
+  JEDI_CHR_toq: "Toq" #NT!
+  JEDI_CHR_tora_asi: "Tora-Asi" #NT!
+  JEDI_CHR_trace: "Trace" #NT!
+  JEDI_CHR_trennis: "Trennis" #NT!
+  JEDI_CHR_trill: "Trill" #NT!
+  JEDI_CHR_ulldin: "Ulldin" #NT!
+  JEDI_CHR_ur_naght: "Ur'naght" #NT!
+  JEDI_CHR_valn: "Valn" #NT!
+  JEDI_CHR_vannor: "Vannor" #NT!
+  JEDI_CHR_volryder: "Volryder" #NT!
+  JEDI_CHR_votz: "Votz" #NT!
+  JEDI_CHR_weller: "Weller" #NT!
+  JEDI_CHR_wen: "Wen" #NT!
+  JEDI_CHR_wilum: "Wilum" #NT!
+  JEDI_CHR_willsaam: "Willsaam" #NT!
+  JEDI_CHR_winnoa: "Winnoa" #NT!
+  JEDI_CHR_xaj: "Xaj" #NT!
+  JEDI_CHR_xendor: "Xendor" #NT!
+  JEDI_CHR_xerender: "Xerender" #NT!
+  JEDI_CHR_zeel: "Zeel" #NT!
+  JEDI_CHR_zonn: "Zonn" #NT!
+  JEDI_CHR_zylixx: "Zylixx" #NT!
+  JEDI_CHR_padawan: "Padawan" #NT!
+  JEDI_CHR_initiate: "Initiate" #NT!
+  JEDI_CHR_adasca: "Adasca" #NT!
+  JEDI_CHR_adollu: "Adollu" #NT!
+  JEDI_CHR_agaburry: "Agaburry" #NT!
+  JEDI_CHR_aven: "Aven" #NT!
+  JEDI_CHR_avitla: "Avitla" #NT!
+  JEDI_CHR_ban: "Ban" #NT!
+  JEDI_CHR_belaya: "Belaya" #NT!
+  JEDI_CHR_bao_dur: "Bao-Dur" #NT!
+  JEDI_CHR_bibs: "Bibs" #NT!
+  JEDI_CHR_bindo: "Bindo" #NT!
+  JEDI_CHR_brianna: "Brianna" #NT!
+  JEDI_CHR_cantaros: "Cantaros" #NT!
+  JEDI_CHR_carrick: "Carrick" #NT!
+  JEDI_CHR_cassius: "Cassius" #NT!
+  JEDI_CHR_cora: "Cora" #NT!
+  JEDI_CHR_crado: "Crado" #NT!
+  JEDI_CHR_cuthallox: "Cuthallox" #NT!
+  JEDI_CHR_dal: "Dal" #NT!
+  JEDI_CHR_damek_ol: "Damek-Ol" #NT!
+  JEDI_CHR_darovit: "Darovit" #NT!
+  JEDI_CHR_eli: "Eli" #NT!
+  JEDI_CHR_elsor: "Elsor" #NT!
+  JEDI_CHR_fashk: "Fashk" #NT!
+  JEDI_CHR_fia: "Fia" #NT!
+  JEDI_CHR_fionn: "Fionn" #NT!
+  JEDI_CHR_flingeld: "Flingeld" #NT!
+  JEDI_CHR_freedan: "Freedan" #NT!
+  JEDI_CHR_garrum: "Garrum" #NT!
+  JEDI_CHR_geana: "Geana" #NT!
+  JEDI_CHR_gharn: "Gharn" #NT!
+  JEDI_CHR_ginger: "Ginger" #NT!
+  JEDI_CHR_ginorra: "Ginorra" #NT!
+  JEDI_CHR_githany: "Githany" #NT!
+  JEDI_CHR_gynt: "Gynt" #NT!
+  JEDI_CHR_haazen: "Haazen" #NT!
+  JEDI_CHR_hadu: "Hadu" #NT!
+  JEDI_CHR_hallen: "Hallen" #NT!
+  JEDI_CHR_hardin: "Hardin" #NT!
+  JEDI_CHR_hassin: "Hassin" #NT!
+  JEDI_CHR_imina: "Imina" #NT!
+  JEDI_CHR_jelavan: "Jelavan" #NT!
+  JEDI_CHR_jerridan: "Jerridan" #NT!
+  JEDI_CHR_jomaram: "Jomaram" #NT!
+  JEDI_CHR_juhani: "Juhani" #NT!
+  JEDI_CHR_kaevee: "Kaevee" #NT!
+  JEDI_CHR_kamlin: "Kamlin" #NT!
+  JEDI_CHR_keevo: "Keevo" #NT!
+  JEDI_CHR_kiri: "Kiri" #NT!
+  JEDI_CHR_konshi: "Konshi" #NT!
+  JEDI_CHR_kosh: "Kosh" #NT!
+  JEDI_CHR_kym: "Kym" #NT!
+  JEDI_CHR_lartan: "Lartan" #NT!
+  JEDI_CHR_lascol: "Lascol" #NT!
+  JEDI_CHR_lyla: "Lyla" #NT!
+  JEDI_CHR_marr: "Marr" #NT!
+  JEDI_CHR_maruk: "Maruk" #NT!
+  JEDI_CHR_matare: "Matare" #NT!
+  JEDI_CHR_mennaus: "Mennaus" #NT!
+  JEDI_CHR_moracen: "Moracen" #NT!
+  JEDI_CHR_morn: "Morn" #NT!
+  JEDI_CHR_morr: "Morr" #NT!
+  JEDI_CHR_mortull: "Mortull" #NT!
+  JEDI_CHR_nayama: "Nayama" #NT!
+  JEDI_CHR_nemok_ta: "Nemok-Ta" #NT!
+  JEDI_CHR_nima: "Nima" #NT!
+  JEDI_CHR_nooa: "Nooa" #NT!
+  JEDI_CHR_noori: "Noori" #NT!
+  JEDI_CHR_ohtok: "Ohtok" #NT!
+  JEDI_CHR_oojoh: "Oojoh" #NT!
+  JEDI_CHR_peralun: "Peralun" #NT!
+  JEDI_CHR_potts: "Potts" #NT!
+  JEDI_CHR_praven: "Praven" #NT!
+  JEDI_CHR_preeti: "Preeti" #NT!
+  JEDI_CHR_qualie: "Qualie" #NT!
+  JEDI_CHR_quane: "Quane" #NT!
+  JEDI_CHR_race: "Race" #NT!
+  JEDI_CHR_rako: "Rako" #NT!
+  JEDI_CHR_raloch: "Raloch" #NT!
+  JEDI_CHR_rand: "Rand" #NT!
+  JEDI_CHR_jaq: "Jaq" #NT!
+  JEDI_CHR_kateen: "Kateen" #NT!
+  JEDI_CHR_sajar: "Sajar" #NT!
+  JEDI_CHR_sakku: "Sakku" #NT!
+  JEDI_CHR_sean: "Sean" #NT!
+  JEDI_CHR_sewlor: "Sewlor" #NT!
+  JEDI_CHR_shykrill: "Shykrill" #NT!
+  JEDI_CHR_sladak: "Sladak" #NT!
+  JEDI_CHR_slatka: "Slatka" #NT!
+  JEDI_CHR_spanios: "Spanios" #NT!
+  JEDI_CHR_syl: "Syl" #NT!
+  JEDI_CHR_talisola: "Talisola" #NT!
+  JEDI_CHR_tallion: "Tallion" #NT!
+  JEDI_CHR_ter_idi: "Ter-Idi" #NT!
+  JEDI_CHR_teradine: "Teradine" #NT!
+  JEDI_CHR_thoma: "Thoma" #NT!
+  JEDI_CHR_tourath: "Tourath" #NT!
+  JEDI_CHR_trad: "Trad" #NT!
+  JEDI_CHR_trick: "Trick" #NT!
+  JEDI_CHR_tse: "Tse" #NT!
+  JEDI_CHR_tuno: "Tuno" #NT!
+  JEDI_CHR_vandap: "Vandap" #NT!
+  JEDI_CHR_varek: "Varek" #NT!
+  JEDI_CHR_vauranelle: "Vauranelle" #NT!
+  JEDI_CHR_vesser: "Vesser" #NT!
+  JEDI_CHR_viv_nia: "Viv'nia" #NT!
+  JEDI_CHR_yashu_vo: "Yashu-Vo" #NT!
+  JEDI_CHR_ydnen: "Ydnen" #NT!
+  JEDI_CHR_yorrick: "Yorrick" #NT!
+  JEDI_CHR_zettifar: "Zettifar" #NT!
+  JEDI_CHR_zint: "Zint" #NT!

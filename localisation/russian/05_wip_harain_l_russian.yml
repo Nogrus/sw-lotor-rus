@@ -1,25 +1,25 @@
 ﻿l_russian:
 
- jedi_army_maxed: "£trigger_no£ No more available Jedi"
- sith_army_maxed: "£trigger_no£ No more available Sith"
+  jedi_army_maxed: "£trigger_no£ Больше нет доступных джедаев"
+  sith_army_maxed: "£trigger_no£ Больше нет доступных ситхов"
 
- aura_combat_speed: "Combat Speed Aura"
- lotor_aura_combat_slowdown: "Combat Slowdown Aura"
- lotor_aura_combat_slowdown_DESC: "Combat Slowdown Aura"
- aura_combat_slowdown: "Combat Slowdown Aura"
- SLOW_AURA_COMPONENT_GENERIC_1: "Combat Slowdown Aura"
- combat_slowdown: "Combat Slowdown"
+  aura_combat_speed: "Аура боевой скорости"
+  lotor_aura_combat_slowdown: "Аура боевого замедления"
+  lotor_aura_combat_slowdown_DESC: "Аура боевого замедления"
+  aura_combat_slowdown: "Аура боевого замедления"
+  SLOW_AURA_COMPONENT_GENERIC_1: "Аура боевого замедления"
+  combat_slowdown: "Боевое замедление"
 
- TRIGGER_must_be_chiss: "Must be the §YChiss Ascendancy§!"
- TRIGGER_must_be_criminal: "Must be some sort of §YCriminal Empire§!"
- TRIGGER_must_be_mando: "Must be the §YMandalorians§!"
- TRIGGER_must_be_sith: "Must be the §YSith§!"
- TRIGGER_FAIL_must_be_hsskor: "$TRIGGER_FAIL$Must be the §YHsskor Dominion§!"
- TRIGGER_FAIL_must_not_be_hsskor: "$TRIGGER_FAIL$Must NOT be the §YHsskor Dominion§!"
- TRIGGER_FAIL_must_be_duro: "$TRIGGER_FAIL$Must be the §YCommonality of Duro§!"
+  TRIGGER_must_be_chiss: "Должно быть §YДоминацией чиссов§!"
+  TRIGGER_must_be_criminal: "Must be some sort of §YCriminal Empire§!"
+  TRIGGER_must_be_mando: "Должно быть §YМандалорцы§!"
+  TRIGGER_must_be_sith: "Должно быть §YСитхи§!"
+  TRIGGER_FAIL_must_be_hsskor: "$TRIGGER_FAIL$Должно быть §YХсскорский Доминион§!"
+  TRIGGER_FAIL_must_not_be_hsskor: "$TRIGGER_FAIL$Не должно быть §YХсскорский Доминион§!"
+  TRIGGER_FAIL_must_be_duro: "$TRIGGER_FAIL$Должно быть §YОбщность Дуро§!"
 
- RESOURCE_GROUP_STORED: "§W$STORED|*0$"
+  RESOURCE_GROUP_STORED: "§W$STORED|*0$"
 
- NAME_capital_sector: "[This.capital_scope.GetName] Sector"
-# missing vanilla locs in 3.7 - delete when they fix
- anomaly.144.desc: ""
+  NAME_capital_sector: "[This.capital_scope.GetName] Sector"
+# missing vanilla locs in 3.7 - delete when they fix #NT!
+  anomaly.144.desc: ""

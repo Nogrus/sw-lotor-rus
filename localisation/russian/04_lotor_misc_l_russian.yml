@@ -1,11 +1,11 @@
 ﻿l_russian:
 
- #lotor_campaign_map: "SW Campaign Map"
- lotor_campaign_map: "§GLarge Star Wars Galaxy§!\n§GLore-Rich Static Galaxy:§! £system£ 1350 Systems\n\nThe entire Star Wars galaxy in one lightly populated map. \nEmpire positions are pre-set and most empires begin with a single colony."
+ #lotor_map_large: "SW Campaign Map"
+ lotor_map_large: "§GLarge Star Wars Galaxy§!\n§GLore-Rich Static Galaxy:§! £system£ 1320 Systems\n\nThe entire Star Wars galaxy in one lightly populated map. \nEmpire positions are pre-set and most empires begin with a single colony."
 
- lotor_campaign_map_focused: "§GFocused Star Wars Galaxy§!\n§GLore-Rich Static Galaxy:§! £system£ 1200 Systems\n\nA more focused version of the entire Star Wars galaxy in one lightly populated map.\nEmpire positions are pre-set and most empires begin with a single colony."
+ lotor_map_focused: "§GFocused Star Wars Galaxy§!\n§GLore-Rich Static Galaxy:§! £system£ 1150 Systems\n\nA more focused version of the entire Star Wars galaxy in one lightly populated map.\nEmpire positions are pre-set and most empires begin with a single colony."
 
- lotor_campaign_map_small_focused: "§GSmall Star Wars Galaxy§!\n§GLore-Rich Static Galaxy:§! £system£ 900 Systems\n\nA more focused version of the Star Wars galaxy without the unknown regions.\nEmpire positions are pre-set and most empires begin with a single colony."
+ lotor_map_small: "§GSmall Star Wars Galaxy§!\n§GLore-Rich Static Galaxy:§! £system£ 950 Systems\n\nA more focused version of the Star Wars galaxy without the Unknown Regions.\nEmpire positions are pre-set and most empires begin with a single colony."
 
  ESTABLISH_COMMS_TOOLTIP: "Establish Communications with §H$TARGET$§!."
  # Others
@@ -13,9 +13,8 @@
  CREATE_POPS_TOOLTIP: "Creates §Y$AMOUNT|*0$ [$SPECIES$.GetName]§! on §Y[$PLANET$.GetName]§!."
  opinion_neutral_faction: "Neutral Faction"
 
-
  ##UI
- LOTOR_VERSION: "Legacy of the Old Republic: v1.2.2"
+ LOTOR_VERSION: "Legacy of the Old Republic: v1.2.5 Paragon"
  TOOLTIP_MEGASTRUCTURE_DEMOLISH_BUTTON: "Demolish Megastructure"
  AGREE: "Agree"
  DECLINE: "Decline"
@@ -31,7 +30,7 @@
 # Vanilla Empires - Lotor Ships
  lotor_on_start_custom_empire.10.name: "Setup: Use unique Lotor Ships?"
  lotor_on_start_custom_empire.10.desc: "Choosing lotor Shipsets will overwrite your currently picked ships."
- lotor_on_start_custom_empire.10.a: "No, I would like to keep the choosen Shipset"
+ lotor_on_start_custom_empire.10.a: "No, I would like to keep the chosen Shipset"
  lotor_on_start_custom_empire.10.b: "Yes, I would like to pick one of the unique lotor Shipsets"
  lotor_on_start_custom_empire.11.name: "Setup: Which Shipset?"
  lotor_on_start_custom_empire.11.desc: "Pick, which shipset you want to choose."
@@ -51,3 +50,7 @@
  lotor_on_start.8.desc.beta: "§BBeta Testers§!: Akenno, Blue Moff, Codeviper828, Cooper, Cullrat, hellspawn, NickTheNick, Odibey, Razzle Dazzle, Shax, smitty, The RMG Stealer Price, Thinkblu3, Úlfhéðnar, Uluvyen, Richard, BLiTzKrIeG, auphoniC, r4ncr, Khaan, Aapep, Hypothermia, caboosecorsair, Nelliel"
  lotor_on_start.8.desc.donators: "§GDonators§!: Blue Moff, Geekster, Nathan"
  lotor_on_start.8.continue: "CONTINUE"
+
+# Miscellaneous
+ loc_is_custom_empire: "$TRIGGER_FAIL$Is a Custom Empire"
+ 

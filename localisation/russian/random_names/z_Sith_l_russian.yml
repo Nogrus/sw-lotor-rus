@@ -1,836 +1,836 @@
 ﻿l_russian:
- SITH_red_engine: "Red Engine"
- SITH_shyrak: "Shyrak"
- SITH_tukata: "Tukata"
- SITH_vix_tra: "Vix'tra"
- SITH_hereditary: "Hereditary"
- SITH_inquisitor: "Inquisitor"
- SITH_juggernaut: "Juggernaut"
- SITH_assassin: "Assassin"
- SITH_caltrop: "Caltrop"
- SITH_reaver: "Reaver"
- SITH_reaper: "Reaper"
- SITH_blood_eagle: "Blood Eagle"
- SITH_lord_of_hate: "Lord of Hate"
- SITH_gathering_dark: "Gathering Dark"
- SITH_dor_galran: "Dor Galran"
- SITH_supremacy: "Supremacy"
- SITH_conflagration: "Conflagration"
- SITH_enchantress: "Enchantress"
- SITH_sarcophagus: "Sarcophagus"
- SITH_occultant: "Occultant"
- SITH_immolator: "Immolator"
- SITH_pestilence: "Pestilence"
- SITH_pureblood: "Pureblood"
- SITH_purifier: "Purifier"
- SITH_defiler: "Defiler"
- SITH_mortis: "Mortis"
- SITH_leper: "Leper"
- SITH_first_heretic: "First Heretic"
- SITH_apotheisis: "Apotheisis"
- SITH_neophyte: "Neophyte"
- SITH_hexid: "Hexid"
- SITH_kancras: "Kancras"
- SITH_mellichae: "Mellichae"
- SITH_shadow: "Shadow"
- SITH_raxxus: "Raxxus"
- SITH_simi: "Simi"
- SITH_val: "Val"
- SITH_gen_dai_reward: "Gen'Dai Reward"
- SITH_eradicator: "Eradicator"
- SITH_nathema: "Nathema"
- SITH_ovai: "Ovai"
- SITH_ziroxin: "Ziroxin"
- SITH_ambria_s_fury: "Ambria's Fury"
- SITH_ascendant_spear: "Ascendant Spear"
- SITH_black_talon: "Black Talon"
- SITH_carnage: "Carnage"
- SITH_darkness: "Darkness"
- SITH_deference: "Deference"
- SITH_dominator: "Dominator"
- SITH_doombringer: "Doombringer"
- SITH_harrower: "Harrower"
- SITH_dread_master: "Dread Master"
- SITH_dromo: "Dromo"
- SITH_eclipse: "Eclipse"
- SITH_enforcer: "Enforcer"
- SITH_euphony: "Euphony"
- SITH_exemplar: "Exemplar"
- SITH_extempus: "Extempus"
- SITH_fatality: "Fatality"
- SITH_firelance: "Firelance"
- SITH_fortress: "Fortress"
- SITH_fuliginous: "Fuliginous"
- SITH_immeren: "Immeren"
- SITH_indignation: "Indignation"
- SITH_javelin: "Javelin"
- SITH_khyphe: "Khyphe"
- SITH_king_s_ransom: "King's Ransom"
- SITH_lindworm: "Lindworm"
- SITH_malgus: "Malgus"
- SITH_marr: "Marr"
- SITH_oppressor: "Oppressor"
- SITH_overlord: "Overlord"
- SITH_terminus: "Terminus"
- SITH_paramount: "Paramount"
- SITH_red_reaper: "Red Reaper"
- SITH_red_shrike: "Red Shrike"
- SITH_regnant: "Regnant"
- SITH_scream_of_ragnos: "Scream of Ragnos"
- SITH_steadfast: "Steadfast"
- SITH_sting: "Sting"
- SITH_storm_fire: "Storm Fire"
- SITH_tears_of_taris: "Tears of Taris"
- SITH_tenebrous: "Tenebrous"
- SITH_tyrant: "Tyrant"
- SITH_undying: "Undying"
- SITH_valor: "Valor"
- SITH_valor_prevails: "Valor Prevails"
- SITH_vengean: "Vengean"
- SITH_vigilance: "Vigilance"
- SITH_vivicar: "Vivicar"
- SITH_voidstar: "Voidstar"
- SITH_warhammer: "Warhammer"
- SITH_white_nova: "White Nova"
- SITH_ziost_shadow: "Ziost Shadow"
- SITH_overseer: "Overseer"
- SITH_executioner: "Executioner"
- SITH_subjugator: "Subjugator"
- SITH_fury: "Fury"
- SITH_rage: "Rage"
- SITH_nightfall: "Nightfall"
- SITH_eye_of_horak: "Eye of Horak"
- SITH_dathka_graush: "Dathka Graush"
- SITH_seed_of_rage: "Seed of Rage"
- SITH_shadow_crown: "Shadow Crown"
- SITH_sword_of_khashyun: "Sword of Khashyun"
- SITH_muur: "Muur"
- SITH_new_omen: "New Omen"
- SITH_yaru_korsin: "Yaru Korsin"
- SITH_varner_hilts: "Varner Hilts"
- SITH_king_adas: "King Adas"
- SITH_spectre_of_korriban: "Spectre of Korriban"
- SITH_locphet: "Locphet"
- SITH_mindran: "Mindran"
- SITH_felkor: "Felkor"
- SITH_sissiri: "Sissiri"
- SITH_sithspawn: "Sithspawn"
- SITH_chrysalide: "Chrysalide"
- SITH_coloi: "Coloi"
- SITH_veergundark: "Veergundark"
- SITH_derriphan: "Derriphan"
- SITH_devourer: "Devourer"
- SITH_k_kayeh: "K'kayeh"
- SITH_metanecrons: "Metanecrons"
- SITH_nekghoul: "Nekghoul"
- SITH_rhak_skuri: "Rhak-skuri"
- SITH_war_rhino: "War Rhino"
- SITH_shambler: "Shambler"
- SITH_tuk_ata: "Tuk'ata"
- SITH_vizier: "Vizier"
- SITH_alchemist: "Alchemist"
- SITH_sorcerer: "Sorcerer"
- SITH_magi: "Magi"
- SITH_prophet: "Prophet"
- SITH_emperor_s_hand: "Emperor's Hand"
- SITH_hand_of_the_empress: "Hand of the Empress"
- SITH_forbidden: "Forbidden"
- SITH_craver: "Craver"
- SITH_dark_art: "Dark Art"
- SITH_night_sparrow: "Night Sparrow"
- SITH_seeker: "Seeker"
- SITH_untiring: "Untiring"
- SITH_sable_engine: "Sable Engine"
- SITH_acolyte: "Acolyte"
- SITH_damnation: "Damnation"
- SITH_seed_of_anger: "Seed of Anger"
- SITH_seed_of_hatred: "Seed of Hatred"
- SITH_seed_of_fear: "Seed of Fear"
- SITH_seed_of_doubt: "Seed of Doubt"
- SITH_seed_of_power: "Seed of Power"
- SITH_seed_of_destiny: "Seed of Destiny"
- SITH_seed_of_fury: "Seed of Fury"
- SITH_seed_of_odium: "Seed of Odium"
- SITH_seed_of_acrimony: "Seed of Acrimony"
- SITH_seed_of_frenzy: "Seed of Frenzy"
- SITH_seed_of_woe: "Seed of Woe"
- SITH_servant: "Servant"
- SITH_servant_three: "Servant Three"
- SITH_helot: "Helot"
- SITH_subjugated: "Subjugated"
- SITH_useful: "Useful"
- SITH_factorial: "Factorial"
- SITH_beast_within: "Beast Within"
- SITH_slow_boil: "Slow Boil"
- SITH_eternal_service: "Eternal Service"
- SITH_attendant: "Attendant"
- SITH_steward: "Steward"
- SITH_menial: "Menial"
- SITH_auxiliary: "Auxiliary"
- SITH_keeper: "Keeper"
- SITH_silooth: "Silooth"
- SITH_constr_aurek: "Constructor Aurek"
- SITH_constr_besh: "Constructor Besh"
- SITH_constr_cresh: "Constructor Cresh"
- SITH_constr_dorn: "Constructor Dorn"
- SITH_constr_forn: "Constructor Forn"
- SITH_constr_grek: "Constructor Grek"
- SITH_constr_herf: "Constructor Herf"
- SITH_constr_isk: "Constructor Isk"
- SITH_constr_jenth: "Constructor Jenth"
- SITH_constr_krill: "Constructor Krill"
- SITH_constr_leth: "Constructor Leth"
- SITH_constr_mern: "Constructor Mern"
- SITH_constr_nern: "Constructor Nern"
- SITH_constr_osk: "Constructor Osk"
- SITH_constr_peth: "Constructor Peth"
- SITH_constr_senth: "Constructor Senth"
- SITH_constr_trill: "Constructor Trill"
- SITH_constr_usk: "Constructor Usk"
- SITH_constr_vev: "Constructor Vev"
- SITH_constr_wesk: "Constructor Wesk"
- SITH_constr_xesh: "Constructor Xesh"
- SITH_constr_yirt: "Constructor Yirt"
- SITH_constr_zerek: "Constructor Zerek"
- SITH_constr_cherek: "Constructor Cherek"
- SITH_constr_qek: "Constructor Qek"
- SITH_constr_resh: "Constructor Resh"
- SITH_constr_enth: "Constructor Enth"
- SITH_constr_onith: "Constructor Onith"
- SITH_constr_krenth: "Constructor Krenth"
- SITH_constr_nen: "Constructor Nen"
- SITH_constr_orenth: "Constructor Orenth"
- SITH_constr_shen: "Constructor Shen"
- SITH_constr_thesh: "Constructor Thesh"
- SITH_ground_transport: "Ground Transport"
- SITH_keshtah: "Keshtah"
- SITH_korriban: "Korriban"
- SITH_dromund: "Dromund"
- SITH_ziost: "Ziost"
- SITH_athiss: "Athiss"
- SITH_malachor: "Malachor"
- SITH_ixigul: "Ixigul"
- SITH_lehon: "Lehon"
- SITH_asog: "Asog"
- SITH_sadow_s_folly: "Sadow's Folly"
- SITH_vaiken_s_command: "Vaiken's Command"
- SITH_kaggath: "Kaggath"
- SITH_vanahame: "Vanahame"
- SITH_dromund_kaas: "Dromund Kaas"
- SITH_dxun: "Dxun"
- SITH_ashas_ree: "Ashas Ree"
- SITH_begeren: "Begeren"
- SITH_bosthirda: "Bosthirda"
- SITH_ch_hodos: "Ch'hodos"
- SITH_drezzi: "Drezzi"
- SITH_droumnd_fels: "Droumnd Fels"
- SITH_dromund_ixin: "Dromund Ixin"
- SITH_dromund_tyne: "Dromund Tyne"
- SITH_dromund_kalakar: "Dromund Kalakar"
- SITH_hallion: "Hallion"
- SITH_jaguada: "Jaguada"
- SITH_kalakar: "Kalakar"
- SITH_kalsunor: "Kalsunor"
- SITH_khar_delba: "Khar Delba"
- SITH_korriz: "Korriz"
- SITH_nfolgai: "Nfolgai"
- SITH_nicht_ka: "Nicht Ka"
- SITH_rhelg: "Rhelg"
- SITH_upekzar: "Upekzar"
- SITH_abregado_rae: "Abregado-rae"
- SITH_aefao: "Aefao"
- SITH_almania: "Almania"
- SITH_almas: "Almas"
- SITH_alpheridies: "Alpheridies"
- SITH_altarrn: "Altarrn"
- SITH_alvorine: "Alvorine"
- SITH_alzar: "Alzar"
- SITH_amarin: "Amarin"
- SITH_ambria: "Ambria"
- SITH_anantapar: "Anantapar"
- SITH_anarak: "Anarak"
- SITH_anaxes: "Anaxes"
- SITH_ando: "Ando"
- SITH_byss: "Byss"
- SITH_daalang: "Daalang"
- SITH_darkknell: "Darkknell"
- SITH_dathomir: "Dathomir"
- SITH_empress_teta: "Empress Teta"
- SITH_gentes: "Gentes"
- SITH_herdessa: "Herdessa"
- SITH_kesh: "Kesh"
- SITH_kril_dor: "Kril'Dor"
- SITH_phaseera: "Phaseera"
- SITH_puloorn: "Puloorn"
- SITH_quermia: "Quermia"
- SITH_randon: "Randon"
- SITH_rekkiad: "Rekkiad"
- SITH_roon: "Roon"
- SITH_ruusan: "Ruusan"
- SITH_sanrafsix: "Sanrafsix"
- SITH_sarrassia: "Sarrassia"
- SITH_skarpos: "Skarpos"
- SITH_vjun: "Vjun"
- SITH_volik: "Volik"
- SITH_orreg: "Orreg"
- SITH_ryav: "Ryav"
- SITH_purple_dunes: "Purple Dunes"
- SITH_elvaarnos: "Elvaarnos"
- SITH_roston: "Roston"
- SITH_kithar: "Kithar"
- SITH_telmath: "Telmath"
- SITH_cham: "Cham"
- SITH_glorim: "Glorim"
- SITH_eorm: "Eorm"
- SITH_sessal_spire: "Sessal Spire"
- SITH_wyldar: "Wyldar"
- SITH_rees: "Rees"
- SITH_tahv: "Tahv"
- SITH_sharv: "Sharv"
- SITH_zandi: "Zandi"
- SITH_berav: "Berav"
- SITH_takara: "Takara"
- SITH_vit: "Vit"
- SITH_bombard: "Bombard"
- SITH_ballista: "Ballista"
- SITH_catapult: "Catapult"
- SITH_harpoon: "Harpoon"
- SITH_polybolos: "Polybolos"
- SITH_culverin: "Culverin"
- SITH_CLASS_reaver: "Reaver"
- SITH_CLASS_terminus: "Terminus"
- SITH_CLASS_deference: "Deference"
- SITH_CLASS_harrower: "Harrower"
- SITH_CLASS_doombringer: "Doombringer"
- SITH_CLASS_shadow_crown: "Shadow Crown"
- SITH_CLASS_x_70b_phantom: "X-70B Phantom"
- SITH_CLASS_starscape: "Starscape"
- SITH_FLEET_first_defense_fleet: "First Defense Fleet"
- SITH_FLEET_first_imperial_mobile_fleet: "First Imperial Mobile Fleet"
- SITH_FLEET_task_force_vengeance: "Task Force Vengeance"
- SITH_FLEET_vanguard_of_horuset: "Vanguard of Horuset"
- SITH_FLEET_imperial_forward_command: "Imperial Forward Command"
- SITH_FLEET_imperial_expeditionary_fleet: "Imperial Expeditionary Fleet"
- SITH_FLEET_third_imperial_assault_fleet: "Third Imperial Assault Fleet"
- SITH_FLEET_imperial_fifth_fleet: "Imperial Fifth Fleet"
- SITH_FLEET_imperial_seventh_fleet: "Imperial Seventh Fleet"
- SITH_FLEET_imperial_ninth_fleet: "Imperial Ninth Fleet"
- SITH_FLEET_kaas_twenty_third: "Kaas Twenty Third"
- SITH_FLEET_dread_wing: "Dread Wing"
- SITH_FLEET_SEQUENTIAL_imperial_fleet: "$ORD$ Imperial Fleet"
- SITH_ARMY_SEQUENTIAL_sithsworn_guard: "$ORD$ Sithsworn Guard"
- SITH_ARMY_SEQUENTIAL_devastator_battalion: "$ORD$ Devastator Battalion"
- SITH_ARMY_SEQUENTIAL_branded_rifles: "$ORD$ Branded Rifles"
- SITH_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- SITH_ARMY_SEQUENTIAL_wardroid_group: "$ORD$ Wardroid Group"
- SITH_ARMY_SEQUENTIAL_wardroid_matrix: "$ORD$ Wardroid Matrix"
- SITH_ARMY_SEQUENTIAL_juggernauts: "$ORD$ Juggernauts"
- SITH_ARMY_SEQUENTIAL_sithspawn_detachment: "$ORD$ Sithspawn Detachment"
- SITH_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- SITH_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- SITH_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- SITH_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- SITH_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- SITH_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- SITH_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- SITH_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- SITH_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- SITH_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- SITH_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- SITH_ARMY_SEQUENTIAL_sith_garrison_force: "$ORD$ Sith Garrison Force"
- SITH_ARMY_SEQUENTIAL_wardroid_garrison: "$ORD$ Wardroid Garrison"
- SITH_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- SITH_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- SITH_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- SITH_CHR_lord: "Lord"
- SITH_CHR_dread_lord: "Dread Lord"
- SITH_CHR_inquisitor: "Inquisitor"
- SITH_CHR_battlelord: "Battlelord"
- SITH_CHR_master: "Master"
- SITH_CHR_alchemist: "Alchemist"
- SITH_CHR_dark_lord: "Dark Lord"
- SITH_CHR_darth: "Darth"
- SITH_CHR_grand_consort: "Grand Consort"
- SITH_CHR_high_lord: "High Lord"
- SITH_CHR_prophet: "Prophet"
- SITH_CHR_seer: "Seer"
- SITH_CHR_overlord: "Overlord"
- SITH_CHR_overseer: "Overseer"
- SITH_CHR_apprentice: "Apprentice"
- SITH_CHR_acolyte: "Acolyte"
- SITH_CHR_neophyte: "Neophyte"
- SITH_CHR_lady: "Lady"
- SITH_CHR_dread_lady: "Dread Lady"
- SITH_CHR_mistress: "Mistress"
- SITH_CHR_dark_lady: "Dark Lady"
- SITH_CHR_high_lady: "High Lady"
- SITH_CHR_prophetess: "Prophetess"
- SITH_CHR_abaron: "Abaron"
- SITH_CHR_adas: "Adas"
- SITH_CHR_alarii: "Alarii"
- SITH_CHR_althe: "Althe"
- SITH_CHR_arkous: "Arkous"
- SITH_CHR_arosh: "Arosh"
- SITH_CHR_avarok: "Avarok"
- SITH_CHR_avorr: "Avorr"
- SITH_CHR_bensyn: "Bensyn"
- SITH_CHR_breesh: "Breesh"
- SITH_CHR_carnus: "Carnus"
- SITH_CHR_carnor: "Carnor"
- SITH_CHR_chane: "Chane"
- SITH_CHR_chaskar: "Chaskar"
- SITH_CHR_cherkolotar: "Cherkolotar"
- SITH_CHR_cyrsip: "Cyrsip"
- SITH_CHR_cytharat: "Cytharat"
- SITH_CHR_dakhan: "Dakhan"
- SITH_CHR_shar: "Shar"
- SITH_CHR_davorak: "Davorak"
- SITH_CHR_desora: "Desora"
- SITH_CHR_xynso: "Xynso"
- SITH_CHR_doruk: "Doruk"
- SITH_CHR_dramath: "Dramath"
- SITH_CHR_taliav: "Taliav"
- SITH_CHR_engdo: "Engdo"
- SITH_CHR_fa_ann: "Fa'ann"
- SITH_CHR_fentis: "Fentis"
- SITH_CHR_brach: "Brach"
- SITH_CHR_gal_ram: "Gal-ram"
- SITH_CHR_galall: "Galall"
- SITH_CHR_baous: "Baous"
- SITH_CHR_gapuois: "Gapuois"
- SITH_CHR_graush: "Graush"
- SITH_CHR_dathka: "Dathka"
- SITH_CHR_hakagram: "Hakagram"
- SITH_CHR_hestus: "Hestus"
- SITH_CHR_horak_muli: "Horak-muli"
- SITH_CHR_igrol: "Igrol"
- SITH_CHR_ikoral: "Ikoral"
- SITH_CHR_ishla: "Ishla"
- SITH_CHR_izar: "Izar"
- SITH_CHR_jhael: "Jhael"
- SITH_CHR_fahren: "Fahren"
- SITH_CHR_jaj: "Jaj"
- SITH_CHR_jekhop: "Jekhop"
- SITH_CHR_jinatte: "Jinatte"
- SITH_CHR_yshaar: "Yshaar"
- SITH_CHR_kael: "Kael"
- SITH_CHR_kaur: "Kaur"
- SITH_CHR_za_heen: "Za'heen"
- SITH_CHR_kahesh: "Kahesh"
- SITH_CHR_kantale: "Kantale"
- SITH_CHR_sylen: "Sylen"
- SITH_CHR_kempar: "Kempar"
- SITH_CHR_keryha: "Keryha"
- SITH_CHR_valik: "Valik"
- SITH_CHR_kodank: "Kodank"
- SITH_CHR_komok: "Komok"
- SITH_CHR_kressh: "Kressh"
- SITH_CHR_exal: "Exal"
- SITH_CHR_elcho: "Elcho"
- SITH_CHR_ludo: "Ludo"
- SITH_CHR_vodal: "Vodal"
- SITH_CHR_domoru: "Domoru"
- SITH_CHR_krev: "Krev"
- SITH_CHR_krovos: "Krovos"
- SITH_CHR_kurse: "Kurse"
- SITH_CHR_kyyrah: "Kyyrah"
- SITH_CHR_ladra: "Ladra"
- SITH_CHR_garahe: "Garahe"
- SITH_CHR_lesi: "Lesi"
- SITH_CHR_lorus: "Lorus"
- SITH_CHR_loun: "Loun"
- SITH_CHR_luthro: "Luthro"
- SITH_CHR_majzon: "Majzon"
- SITH_CHR_maraad: "Maraad"
- SITH_CHR_materrus: "Materrus"
- SITH_CHR_mathieren: "Mathieren"
- SITH_CHR_myrox: "Myrox"
- SITH_CHR_minax: "Minax"
- SITH_CHR_nyriss: "Nyriss"
- SITH_CHR_ogun: "Ogun"
- SITH_CHR_orazio: "Orazio"
- SITH_CHR_auux: "Auux"
- SITH_CHR_paladius: "Paladius"
- SITH_CHR_paolen: "Paolen"
- SITH_CHR_praven: "Praven"
- SITH_CHR_r_hoteb: "R'hoteb"
- SITH_CHR_marka: "Marka"
- SITH_CHR_rasche: "Rasche"
- SITH_CHR_raspir: "Raspir"
- SITH_CHR_rath: "Rath"
- SITH_CHR_sek_nos: "Sek'nos"
- SITH_CHR_thok: "Thok"
- SITH_CHR_rhexa: "Rhexa"
- SITH_CHR_naga: "Naga"
- SITH_CHR_sathel: "Sathel"
- SITH_CHR_saviel: "Saviel"
- SITH_CHR_scourge: "Scourge"
- SITH_CHR_seake: "Seake"
- SITH_CHR_miarta: "Miarta"
- SITH_CHR_serevin: "Serevin"
- SITH_CHR_serrod: "Serrod"
- SITH_CHR_shaar: "Shaar"
- SITH_CHR_simus: "Simus"
- SITH_CHR_soverus: "Soverus"
- SITH_CHR_synar: "Synar"
- SITH_CHR_tanzu: "Tanzu"
- SITH_CHR_tetsu: "Tetsu"
- SITH_CHR_karnak: "Karnak"
- SITH_CHR_andreaus: "Andreaus"
- SITH_CHR_thos: "Thos"
- SITH_CHR_torius: "Torius"
- SITH_CHR_tormen: "Tormen"
- SITH_CHR_trok: "Trok"
- SITH_CHR_twintan: "Twintan"
- SITH_CHR_vex: "Vex"
- SITH_CHR_dantos: "Dantos"
- SITH_CHR_vincine: "Vincine"
- SITH_CHR_vindican: "Vindican"
- SITH_CHR_vindis: "Vindis"
- SITH_CHR_vodd: "Vodd"
- SITH_CHR_vowrawn: "Vowrawn"
- SITH_CHR_ravilan: "Ravilan"
- SITH_CHR_wroth: "Wroth"
- SITH_CHR_xiang: "Xiang"
- SITH_CHR_saveel: "Saveel"
- SITH_CHR_yacommsa: "Yacommsa"
- SITH_CHR_yarri: "Yarri"
- SITH_CHR_silas: "Silas"
- SITH_CHR_yun_weah: "Yun'weah"
- SITH_CHR_zavrasha: "Zavrasha"
- SITH_CHR_desolous: "Desolous"
- SITH_CHR_zavakon: "Zavakon"
- SITH_CHR_lokess: "Lokess"
- SITH_CHR_qalar: "Qalar"
- SITH_CHR_victun: "Victun"
- SITH_CHR_tainor: "Tainor"
- SITH_CHR_sadow: "Sadow"
- SITH_CHR_ben_hade: "Ben'hade"
- SITH_CHR_acina: "Acina"
- SITH_CHR_xheoch: "Xheoch"
- SITH_CHR_djanistak: "Djanistak"
- SITH_CHR_charnus: "Charnus"
- SITH_CHR_sandor: "Sandor"
- SITH_CHR_decimus: "Decimus"
- SITH_CHR_kun: "Kun"
- SITH_CHR_ragnos: "Ragnos"
- SITH_CHR_kel: "Kel"
- SITH_CHR_kallous: "Kallous"
- SITH_CHR_skar: "Skar"
- SITH_CHR_rolan: "Rolan"
- SITH_CHR_zash: "Zash"
- SITH_CHR_kallig: "Kallig"
- SITH_CHR_sajar: "Sajar"
- SITH_CHR_arctis: "Arctis"
- SITH_CHR_thanaton: "Thanaton"
- SITH_CHR_acharon: "Acharon"
- SITH_CHR_marr: "Marr"
- SITH_CHR_calypho: "Calypho"
- SITH_CHR_jadus: "Jadus"
- SITH_CHR_zhorrid: "Zhorrid"
- SITH_CHR_beniko: "Beniko"
- SITH_CHR_baras: "Baras"
- SITH_CHR_angral: "Angral"
- SITH_CHR_arho: "Arho"
- SITH_CHR_malgus: "Malgus"
- SITH_CHR_momin: "Momin"
- SITH_CHR_azamin: "Azamin"
- SITH_CHR_rictus: "Rictus"
- SITH_CHR_aruk: "Aruk"
- SITH_CHR_hadra: "Hadra"
- SITH_CHR_mekhis: "Mekhis"
- SITH_CHR_karrid: "Karrid"
- SITH_CHR_arrid: "Arrid"
- SITH_CHR_ekkage: "Ekkage"
- SITH_CHR_gorgos: "Gorgos"
- SITH_CHR_howl: "Howl"
- SITH_CHR_vax: "Vax"
- SITH_CHR_xedrix: "Xedrix"
- SITH_CHR_anathel: "Anathel"
- SITH_CHR_malora: "Malora"
- SITH_CHR_xarion: "Xarion"
- SITH_CHR_vix: "Vix"
- SITH_CHR_xerxian: "Xerxian"
- SITH_CHR_athelis: "Athelis"
- SITH_CHR_nadd: "Nadd"
- SITH_CHR_null: "Null"
- SITH_CHR_synn: "Synn"
- SITH_CHR_hargev: "Hargev"
- SITH_CHR_grathan: "Grathan"
- SITH_CHR_fraabaal: "Fraabaal"
- SITH_CHR_ralesk: "Ralesk"
- SITH_CHR_andeddu: "Andeddu"
- SITH_CHR_dreypa: "Dreypa"
- SITH_CHR_hoard: "Hoard"
- SITH_CHR_pall: "Pall"
- SITH_CHR_morn: "Morn"
- SITH_CHR_quellus: "Quellus"
- SITH_CHR_banso: "Banso"
- SITH_CHR_deagua: "Deagua"
- SITH_CHR_dinn: "Dinn"
- SITH_CHR_ferav: "Ferav"
- SITH_CHR_jorael: "Jorael"
- SITH_CHR_jun_yon: "Jun'yon"
- SITH_CHR_kyral: "Kyral"
- SITH_CHR_moren: "Moren"
- SITH_CHR_reevas: "Reevas"
- SITH_CHR_rotham: "Rotham"
- SITH_CHR_siegtreg: "Siegtreg"
- SITH_CHR_yald: "Yald"
- SITH_CHR_zare: "Zare"
- SITH_CHR_belos: "Belos"
- SITH_CHR_koriss: "Koriss"
- SITH_CHR_muur: "Muur"
- SITH_CHR_nal: "Nal"
- SITH_CHR_syn: "Syn"
- SITH_CHR_vanda: "Vanda"
- SITH_CHR_vannor: "Vannor"
- SITH_CHR_krall: "Krall"
- SITH_CHR_horak_mul: "Horak-mul"
- SITH_CHR_kaan: "Kaan"
- SITH_CHR_phobos: "Phobos"
- SITH_CHR_sissiri: "Sissiri"
- SITH_CHR_locphet: "Locphet"
- SITH_CHR_mindran: "Mindran"
- SITH_CHR_felkor: "Felkor"
- SITH_CHR_glovoc: "Glovoc"
- SITH_CHR_bandon: "Bandon"
- SITH_CHR_bactra: "Bactra"
- SITH_CHR_calician: "Calician"
- SITH_CHR_calimondra: "Calimondra"
- SITH_CHR_chagras: "Chagras"
- SITH_CHR_daiman: "Daiman"
- SITH_CHR_darzu: "Darzu"
- SITH_CHR_dromika: "Dromika"
- SITH_CHR_eradicus: "Eradicus"
- SITH_CHR_lioko: "Lioko"
- SITH_CHR_malakite: "Malakite"
- SITH_CHR_mandragall: "Mandragall"
- SITH_CHR_na_daz: "Na'daz"
- SITH_CHR_odion: "Odion"
- SITH_CHR_quillan: "Quillan"
- SITH_CHR_xelian: "Xelian"
- SITH_CHR_borthis: "Borthis"
- SITH_CHR_daanat: "Daanat"
- SITH_CHR_githany: "Githany"
- SITH_CHR_hezzoran: "Hezzoran"
- SITH_CHR_kas_im: "Kas'im"
- SITH_CHR_kopecz: "Kopecz"
- SITH_CHR_krul: "Krul"
- SITH_CHR_lator: "LaTor"
- SITH_CHR_llokay: "Llokay"
- SITH_CHR_mortull: "Mortull"
- SITH_CHR_orilltha: "Orilltha"
- SITH_CHR_qordis: "Qordis"
- SITH_CHR_shenayag: "Shenayag"
- SITH_CHR_sirak: "Sirak"
- SITH_CHR_vaa: "Vaa"
- SITH_CHR_yevra: "Yevra"
- SITH_CHR_broodica: "Broodica"
- SITH_CHR_rrogon: "Rrogon"
- SITH_CHR_shuuir: "Shuuir"
- SITH_CHR_tanmoul: "Tanmoul"
- SITH_CHR_venerous: "Venerous"
- SITH_CHR_caldoth: "Caldoth"
- SITH_CHR_aayu: "Aayu"
- SITH_CHR_abryl: "Abryl"
- SITH_CHR_adacin: "Adacin"
- SITH_CHR_adraas: "Adraas"
- SITH_CHR_alaric: "Alaric"
- SITH_CHR_anathemos: "Anathemos"
- SITH_CHR_anec: "Anec"
- SITH_CHR_anok: "Anok"
- SITH_CHR_anril: "Anril"
- SITH_CHR_argos: "Argos"
- SITH_CHR_atren: "Atren"
- SITH_CHR_bannos: "Bannos"
- SITH_CHR_bay_lor: "Bay'lor"
- SITH_CHR_beldiss: "Beldiss"
- SITH_CHR_beraxil: "Beraxil"
- SITH_CHR_berow: "Berow"
- SITH_CHR_borm: "Borm"
- SITH_CHR_brakar: "Brakar"
- SITH_CHR_brutann: "Brutann"
- SITH_CHR_calaverous: "Calaverous"
- SITH_CHR_caliqu: "Caliqu"
- SITH_CHR_cendence: "Cendence"
- SITH_CHR_cestus: "Cestus"
- SITH_CHR_chanigresh: "Chanigresh"
- SITH_CHR_charnoq: "Charnoq"
- SITH_CHR_chayloss: "Chayloss"
- SITH_CHR_chiann: "Chiann"
- SITH_CHR_cineratus: "Cineratus"
- SITH_CHR_dakron: "Dakron"
- SITH_CHR_darkspanner: "Darkspanner"
- SITH_CHR_darrok: "Darrok"
- SITH_CHR_dashar: "Dashar"
- SITH_CHR_den: "Den"
- SITH_CHR_drahg: "Drahg"
- SITH_CHR_drowl: "Drowl"
- SITH_CHR_duen: "Duen"
- SITH_CHR_eddon: "Eddon"
- SITH_CHR_emmoridg: "Emmoridg"
- SITH_CHR_erindax: "Erindax"
- SITH_CHR_esdras: "Esdras"
- SITH_CHR_estus: "Estus"
- SITH_CHR_faliden: "Faliden"
- SITH_CHR_feng: "Feng"
- SITH_CHR_feras: "Feras"
- SITH_CHR_ferrid: "Ferrid"
- SITH_CHR_fulminiss: "Fulminiss"
- SITH_CHR_fural: "Fural"
- SITH_CHR_ganarog: "Ganarog"
- SITH_CHR_goh: "Goh"
- SITH_CHR_goss: "Goss"
- SITH_CHR_grenthean: "Grenthean"
- SITH_CHR_grigor: "Grigor"
- SITH_CHR_hanaal: "Hanaal"
- SITH_CHR_haresh: "Haresh"
- SITH_CHR_hasper: "Hasper"
- SITH_CHR_hedrow: "Hedrow"
- SITH_CHR_hold: "Hold"
- SITH_CHR_hracken: "Hracken"
- SITH_CHR_idriono: "Idriono"
- SITH_CHR_ilikith: "Ilikith"
- SITH_CHR_inath: "Inath"
- SITH_CHR_ivress: "Ivress"
- SITH_CHR_jerren: "Jerren"
- SITH_CHR_jormani: "Jormani"
- SITH_CHR_kaius: "Kaius"
- SITH_CHR_kancen: "Kancen"
- SITH_CHR_kanno: "Kanno"
- SITH_CHR_kar: "Kar"
- SITH_CHR_karvus: "Karvus"
- SITH_CHR_kasra: "Kasra"
- SITH_CHR_kassien: "Kassien"
- SITH_CHR_kavaros: "Kavaros"
- SITH_CHR_kavos: "Kavos"
- SITH_CHR_keldroth: "Keldroth"
- SITH_CHR_khandrex: "Khandrex"
- SITH_CHR_kherus: "Kherus"
- SITH_CHR_khreusis: "Khreusis"
- SITH_CHR_kirnon: "Kirnon"
- SITH_CHR_koldor: "Koldor"
- SITH_CHR_komo: "Komo"
- SITH_CHR_korek: "Korek"
- SITH_CHR_koryst: "Koryst"
- SITH_CHR_kras: "Kras"
- SITH_CHR_krillis: "Krillis"
- SITH_CHR_krimyn: "Krimyn"
- SITH_CHR_kyrus: "Kyrus"
- SITH_CHR_larith: "Larith"
- SITH_CHR_lokar: "Lokar"
- SITH_CHR_loyat: "Loyat"
- SITH_CHR_m_rfee: "M'rfee"
- SITH_CHR_madreeg: "Madreeg"
- SITH_CHR_margas: "Margas"
- SITH_CHR_mahish: "Mahish"
- SITH_CHR_malichose: "Malichose"
- SITH_CHR_mathiren: "Mathiren"
- SITH_CHR_medechas: "Medechas"
- SITH_CHR_melana: "Melana"
- SITH_CHR_melicoste: "Melicoste"
- SITH_CHR_mnesus: "Mnesus"
- SITH_CHR_modo: "Modo"
- SITH_CHR_mohgren: "Mohgren"
- SITH_CHR_morrhage: "Morrhage"
- SITH_CHR_nankrang: "Nankrang"
- SITH_CHR_ne_gyan: "Ne'gyan"
- SITH_CHR_necus: "Necus"
- SITH_CHR_nefarid: "Nefarid"
- SITH_CHR_nerrethel: "Nerrethel"
- SITH_CHR_ogathu: "Ogathu"
- SITH_CHR_ondorru: "Ondorru"
- SITH_CHR_ordez: "Ordez"
- SITH_CHR_otal: "Otal"
- SITH_CHR_ovakar: "Ovakar"
- SITH_CHR_pallas: "Pallas"
- SITH_CHR_parnax: "Parnax"
- SITH_CHR_phaaral: "Phaaral"
- SITH_CHR_prejad: "Prejad"
- SITH_CHR_qet: "Qet"
- SITH_CHR_quux: "Quux"
- SITH_CHR_ra_vek: "Ra'vek"
- SITH_CHR_ranath: "Ranath"
- SITH_CHR_rance: "Rance"
- SITH_CHR_ranor: "Ranor"
- SITH_CHR_rashal: "Rashal"
- SITH_CHR_rathari: "Rathari"
- SITH_CHR_ray_en: "Ray'en"
- SITH_CHR_raze: "Raze"
- SITH_CHR_razer: "Razer"
- SITH_CHR_razik: "Razik"
- SITH_CHR_renge: "Renge"
- SITH_CHR_renik: "Renik"
- SITH_CHR_renning: "Renning"
- SITH_CHR_reyzek: "Reyzek"
- SITH_CHR_rone: "Rone"
- SITH_CHR_ryvus: "Ryvus"
- SITH_CHR_sadic: "Sadic"
- SITH_CHR_samus: "Samus"
- SITH_CHR_sangus: "Sangus"
- SITH_CHR_sanorn: "Sanorn"
- SITH_CHR_senu: "Senu"
- SITH_CHR_serrok: "Serrok"
- SITH_CHR_shados: "Shados"
- SITH_CHR_shak_weth: "Shak'Weth"
- SITH_CHR_shalath: "Shalath"
- SITH_CHR_sharoleigh: "Sharoleigh"
- SITH_CHR_shaythin: "Shaythin"
- SITH_CHR_shendan: "Shendan"
- SITH_CHR_skatheris: "Skatheris"
- SITH_CHR_solence: "Solence"
- SITH_CHR_solusar: "Solusar"
- SITH_CHR_spindrall: "Spindrall"
- SITH_CHR_sundar: "Sundar"
- SITH_CHR_synnoran: "Synnoran"
- SITH_CHR_tagriss: "Tagriss"
- SITH_CHR_tahm: "Tahm"
- SITH_CHR_tark: "Tark"
- SITH_CHR_tarnis: "Tarnis"
- SITH_CHR_tarnux: "Tarnux"
- SITH_CHR_teraah: "Teraah"
- SITH_CHR_tharsis: "Tharsis"
- SITH_CHR_thaval: "Thaval"
- SITH_CHR_thrain: "Thrain"
- SITH_CHR_thul: "Thul"
- SITH_CHR_tibris: "Tibris"
- SITH_CHR_tovar: "Tovar"
- SITH_CHR_towe: "Towe"
- SITH_CHR_tumul: "Tumul"
- SITH_CHR_turbis: "Turbis"
- SITH_CHR_tytonus: "Tytonus"
- SITH_CHR_ulios: "Ulios"
- SITH_CHR_umbriss: "Umbriss"
- SITH_CHR_undaara: "Undaara"
- SITH_CHR_ur: "Ur"
- SITH_CHR_urduun: "Urduun"
- SITH_CHR_vadus: "Vadus"
- SITH_CHR_vael: "Vael"
- SITH_CHR_vago: "Vago"
- SITH_CHR_vajar: "Vajar"
- SITH_CHR_vainthrast: "Vainthrast"
- SITH_CHR_varacen: "Varacen"
- SITH_CHR_vardax: "Vardax"
- SITH_CHR_varos: "Varos"
- SITH_CHR_vassanar: "Vassanar"
- SITH_CHR_vayl: "Vayl"
- SITH_CHR_veijel: "Veijel"
- SITH_CHR_velash: "Velash"
- SITH_CHR_velnine: "Velnine"
- SITH_CHR_virena: "Virena"
- SITH_CHR_vora: "Vora"
- SITH_CHR_vul: "Vul"
- SITH_CHR_wenom: "Wenom"
- SITH_CHR_wrad: "Wrad"
- SITH_CHR_wratchen: "Wratchen"
- SITH_CHR_xach: "Xach"
- SITH_CHR_xaq: "Xaq"
- SITH_CHR_xivhkalrainik: "Xivhkalrainik"
- SITH_CHR_xalek: "Xalek"
- SITH_CHR_xoc_dal: "Xoc'dal"
- SITH_CHR_yavorus: "Yavorus"
- SITH_CHR_zanisk: "Zanisk"
- SITH_CHR_zaron: "Zaron"
- SITH_CHR_zetha: "Zetha"
- SITH_CHR_ziliss: "Ziliss"
+ SITH_red_engine: "Red Engine" #NT!
+ SITH_shyrak: "Shyrak" #NT!
+ SITH_tukata: "Tukata" #NT!
+ SITH_vix_tra: "Vix'tra" #NT!
+ SITH_hereditary: "Hereditary" #NT!
+ SITH_inquisitor: "Inquisitor" #NT!
+ SITH_juggernaut: "Juggernaut" #NT!
+ SITH_assassin: "Assassin" #NT!
+ SITH_caltrop: "Caltrop" #NT!
+ SITH_reaver: "Reaver" #NT!
+ SITH_reaper: "Reaper" #NT!
+ SITH_blood_eagle: "Blood Eagle" #NT!
+ SITH_lord_of_hate: "Lord of Hate" #NT!
+ SITH_gathering_dark: "Gathering Dark" #NT!
+ SITH_dor_galran: "Dor Galran" #NT!
+ SITH_supremacy: "Supremacy" #NT!
+ SITH_conflagration: "Conflagration" #NT!
+ SITH_enchantress: "Enchantress" #NT!
+ SITH_sarcophagus: "Sarcophagus" #NT!
+ SITH_occultant: "Occultant" #NT!
+ SITH_immolator: "Immolator" #NT!
+ SITH_pestilence: "Pestilence" #NT!
+ SITH_pureblood: "Pureblood" #NT!
+ SITH_purifier: "Purifier" #NT!
+ SITH_defiler: "Defiler" #NT!
+ SITH_mortis: "Mortis" #NT!
+ SITH_leper: "Leper" #NT!
+ SITH_first_heretic: "First Heretic" #NT!
+ SITH_apotheisis: "Apotheisis" #NT!
+ SITH_neophyte: "Neophyte" #NT!
+ SITH_hexid: "Hexid" #NT!
+ SITH_kancras: "Kancras" #NT!
+ SITH_mellichae: "Mellichae" #NT!
+ SITH_shadow: "Shadow" #NT!
+ SITH_raxxus: "Raxxus" #NT!
+ SITH_simi: "Simi" #NT!
+ SITH_val: "Val" #NT!
+ SITH_gen_dai_reward: "Gen'Dai Reward" #NT!
+ SITH_eradicator: "Eradicator" #NT!
+ SITH_nathema: "Nathema" #NT!
+ SITH_ovai: "Ovai" #NT!
+ SITH_ziroxin: "Ziroxin" #NT!
+ SITH_ambria_s_fury: "Ambria's Fury" #NT!
+ SITH_ascendant_spear: "Ascendant Spear" #NT!
+ SITH_black_talon: "Black Talon" #NT!
+ SITH_carnage: "Carnage" #NT!
+ SITH_darkness: "Darkness" #NT!
+ SITH_deference: "Deference" #NT!
+ SITH_dominator: "Dominator" #NT!
+ SITH_doombringer: "Doombringer" #NT!
+ SITH_harrower: "Harrower" #NT!
+ SITH_dread_master: "Dread Master" #NT!
+ SITH_dromo: "Dromo" #NT!
+ SITH_eclipse: "Eclipse" #NT!
+ SITH_enforcer: "Enforcer" #NT!
+ SITH_euphony: "Euphony" #NT!
+ SITH_exemplar: "Exemplar" #NT!
+ SITH_extempus: "Extempus" #NT!
+ SITH_fatality: "Fatality" #NT!
+ SITH_firelance: "Firelance" #NT!
+ SITH_fortress: "Fortress" #NT!
+ SITH_fuliginous: "Fuliginous" #NT!
+ SITH_immeren: "Immeren" #NT!
+ SITH_indignation: "Indignation" #NT!
+ SITH_javelin: "Javelin" #NT!
+ SITH_khyphe: "Khyphe" #NT!
+ SITH_king_s_ransom: "King's Ransom" #NT!
+ SITH_lindworm: "Lindworm" #NT!
+ SITH_malgus: "Malgus" #NT!
+ SITH_marr: "Marr" #NT!
+ SITH_oppressor: "Oppressor" #NT!
+ SITH_overlord: "Overlord" #NT!
+ SITH_terminus: "Terminus" #NT!
+ SITH_paramount: "Paramount" #NT!
+ SITH_red_reaper: "Red Reaper" #NT!
+ SITH_red_shrike: "Red Shrike" #NT!
+ SITH_regnant: "Regnant" #NT!
+ SITH_scream_of_ragnos: "Scream of Ragnos" #NT!
+ SITH_steadfast: "Steadfast" #NT!
+ SITH_sting: "Sting" #NT!
+ SITH_storm_fire: "Storm Fire" #NT!
+ SITH_tears_of_taris: "Tears of Taris" #NT!
+ SITH_tenebrous: "Tenebrous" #NT!
+ SITH_tyrant: "Tyrant" #NT!
+ SITH_undying: "Undying" #NT!
+ SITH_valor: "Valor" #NT!
+ SITH_valor_prevails: "Valor Prevails" #NT!
+ SITH_vengean: "Vengean" #NT!
+ SITH_vigilance: "Vigilance" #NT!
+ SITH_vivicar: "Vivicar" #NT!
+ SITH_voidstar: "Voidstar" #NT!
+ SITH_warhammer: "Warhammer" #NT!
+ SITH_white_nova: "White Nova" #NT!
+ SITH_ziost_shadow: "Ziost Shadow" #NT!
+ SITH_overseer: "Overseer" #NT!
+ SITH_executioner: "Executioner" #NT!
+ SITH_subjugator: "Subjugator" #NT!
+ SITH_fury: "Fury" #NT!
+ SITH_rage: "Rage" #NT!
+ SITH_nightfall: "Nightfall" #NT!
+ SITH_eye_of_horak: "Eye of Horak" #NT!
+ SITH_dathka_graush: "Dathka Graush" #NT!
+ SITH_seed_of_rage: "Seed of Rage" #NT!
+ SITH_shadow_crown: "Shadow Crown" #NT!
+ SITH_sword_of_khashyun: "Sword of Khashyun" #NT!
+ SITH_muur: "Muur" #NT!
+ SITH_new_omen: "New Omen" #NT!
+ SITH_yaru_korsin: "Yaru Korsin" #NT!
+ SITH_varner_hilts: "Varner Hilts" #NT!
+ SITH_king_adas: "King Adas" #NT!
+ SITH_spectre_of_korriban: "Spectre of Korriban" #NT!
+ SITH_locphet: "Locphet" #NT!
+ SITH_mindran: "Mindran" #NT!
+ SITH_felkor: "Felkor" #NT!
+ SITH_sissiri: "Sissiri" #NT!
+ SITH_sithspawn: "Sithspawn" #NT!
+ SITH_chrysalide: "Chrysalide" #NT!
+ SITH_coloi: "Coloi" #NT!
+ SITH_veergundark: "Veergundark" #NT!
+ SITH_derriphan: "Derriphan" #NT!
+ SITH_devourer: "Devourer" #NT!
+ SITH_k_kayeh: "K'kayeh" #NT!
+ SITH_metanecrons: "Metanecrons" #NT!
+ SITH_nekghoul: "Nekghoul" #NT!
+ SITH_rhak_skuri: "Rhak-skuri" #NT!
+ SITH_war_rhino: "War Rhino" #NT!
+ SITH_shambler: "Shambler" #NT!
+ SITH_tuk_ata: "Tuk'ata" #NT!
+ SITH_vizier: "Vizier" #NT!
+ SITH_alchemist: "Alchemist" #NT!
+ SITH_sorcerer: "Sorcerer" #NT!
+ SITH_magi: "Magi" #NT!
+ SITH_prophet: "Prophet" #NT!
+ SITH_emperor_s_hand: "Emperor's Hand" #NT!
+ SITH_hand_of_the_empress: "Hand of the Empress" #NT!
+ SITH_forbidden: "Forbidden" #NT!
+ SITH_craver: "Craver" #NT!
+ SITH_dark_art: "Dark Art" #NT!
+ SITH_night_sparrow: "Night Sparrow" #NT!
+ SITH_seeker: "Seeker" #NT!
+ SITH_untiring: "Untiring" #NT!
+ SITH_sable_engine: "Sable Engine" #NT!
+ SITH_acolyte: "Acolyte" #NT!
+ SITH_damnation: "Damnation" #NT!
+ SITH_seed_of_anger: "Seed of Anger" #NT!
+ SITH_seed_of_hatred: "Seed of Hatred" #NT!
+ SITH_seed_of_fear: "Seed of Fear" #NT!
+ SITH_seed_of_doubt: "Seed of Doubt" #NT!
+ SITH_seed_of_power: "Seed of Power" #NT!
+ SITH_seed_of_destiny: "Seed of Destiny" #NT!
+ SITH_seed_of_fury: "Seed of Fury" #NT!
+ SITH_seed_of_odium: "Seed of Odium" #NT!
+ SITH_seed_of_acrimony: "Seed of Acrimony" #NT!
+ SITH_seed_of_frenzy: "Seed of Frenzy" #NT!
+ SITH_seed_of_woe: "Seed of Woe" #NT!
+ SITH_servant: "Servant" #NT!
+ SITH_servant_three: "Servant Three" #NT!
+ SITH_helot: "Helot" #NT!
+ SITH_subjugated: "Subjugated" #NT!
+ SITH_useful: "Useful" #NT!
+ SITH_factorial: "Factorial" #NT!
+ SITH_beast_within: "Beast Within" #NT!
+ SITH_slow_boil: "Slow Boil" #NT!
+ SITH_eternal_service: "Eternal Service" #NT!
+ SITH_attendant: "Attendant" #NT!
+ SITH_steward: "Steward" #NT!
+ SITH_menial: "Menial" #NT!
+ SITH_auxiliary: "Auxiliary" #NT!
+ SITH_keeper: "Keeper" #NT!
+ SITH_silooth: "Silooth" #NT!
+ SITH_constr_aurek: "Constructor Aurek" #NT!
+ SITH_constr_besh: "Constructor Besh" #NT!
+ SITH_constr_cresh: "Constructor Cresh" #NT!
+ SITH_constr_dorn: "Constructor Dorn" #NT!
+ SITH_constr_forn: "Constructor Forn" #NT!
+ SITH_constr_grek: "Constructor Grek" #NT!
+ SITH_constr_herf: "Constructor Herf" #NT!
+ SITH_constr_isk: "Constructor Isk" #NT!
+ SITH_constr_jenth: "Constructor Jenth" #NT!
+ SITH_constr_krill: "Constructor Krill" #NT!
+ SITH_constr_leth: "Constructor Leth" #NT!
+ SITH_constr_mern: "Constructor Mern" #NT!
+ SITH_constr_nern: "Constructor Nern" #NT!
+ SITH_constr_osk: "Constructor Osk" #NT!
+ SITH_constr_peth: "Constructor Peth" #NT!
+ SITH_constr_senth: "Constructor Senth" #NT!
+ SITH_constr_trill: "Constructor Trill" #NT!
+ SITH_constr_usk: "Constructor Usk" #NT!
+ SITH_constr_vev: "Constructor Vev" #NT!
+ SITH_constr_wesk: "Constructor Wesk" #NT!
+ SITH_constr_xesh: "Constructor Xesh" #NT!
+ SITH_constr_yirt: "Constructor Yirt" #NT!
+ SITH_constr_zerek: "Constructor Zerek" #NT!
+ SITH_constr_cherek: "Constructor Cherek" #NT!
+ SITH_constr_qek: "Constructor Qek" #NT!
+ SITH_constr_resh: "Constructor Resh" #NT!
+ SITH_constr_enth: "Constructor Enth" #NT!
+ SITH_constr_onith: "Constructor Onith" #NT!
+ SITH_constr_krenth: "Constructor Krenth" #NT!
+ SITH_constr_nen: "Constructor Nen" #NT!
+ SITH_constr_orenth: "Constructor Orenth" #NT!
+ SITH_constr_shen: "Constructor Shen" #NT!
+ SITH_constr_thesh: "Constructor Thesh" #NT!
+ SITH_ground_transport: "Ground Transport" #NT!
+ SITH_keshtah: "Keshtah" #NT!
+ SITH_korriban: "Korriban" #NT!
+ SITH_dromund: "Dromund" #NT!
+ SITH_ziost: "Ziost" #NT!
+ SITH_athiss: "Athiss" #NT!
+ SITH_malachor: "Malachor" #NT!
+ SITH_ixigul: "Ixigul" #NT!
+ SITH_lehon: "Lehon" #NT!
+ SITH_asog: "Asog" #NT!
+ SITH_sadow_s_folly: "Sadow's Folly" #NT!
+ SITH_vaiken_s_command: "Vaiken's Command" #NT!
+ SITH_kaggath: "Kaggath" #NT!
+ SITH_vanahame: "Vanahame" #NT!
+ SITH_dromund_kaas: "Dromund Kaas" #NT!
+ SITH_dxun: "Dxun" #NT!
+ SITH_ashas_ree: "Ashas Ree" #NT!
+ SITH_begeren: "Begeren" #NT!
+ SITH_bosthirda: "Bosthirda" #NT!
+ SITH_ch_hodos: "Ch'hodos" #NT!
+ SITH_drezzi: "Drezzi" #NT!
+ SITH_droumnd_fels: "Droumnd Fels" #NT!
+ SITH_dromund_ixin: "Dromund Ixin" #NT!
+ SITH_dromund_tyne: "Dromund Tyne" #NT!
+ SITH_dromund_kalakar: "Dromund Kalakar" #NT!
+ SITH_hallion: "Hallion" #NT!
+ SITH_jaguada: "Jaguada" #NT!
+ SITH_kalakar: "Kalakar" #NT!
+ SITH_kalsunor: "Kalsunor" #NT!
+ SITH_khar_delba: "Khar Delba" #NT!
+ SITH_korriz: "Korriz" #NT!
+ SITH_nfolgai: "Nfolgai" #NT!
+ SITH_nicht_ka: "Nicht Ka" #NT!
+ SITH_rhelg: "Rhelg" #NT!
+ SITH_upekzar: "Upekzar" #NT!
+ SITH_abregado_rae: "Abregado-rae" #NT!
+ SITH_aefao: "Aefao" #NT!
+ SITH_almania: "Almania" #NT!
+ SITH_almas: "Almas" #NT!
+ SITH_alpheridies: "Alpheridies" #NT!
+ SITH_altarrn: "Altarrn" #NT!
+ SITH_alvorine: "Alvorine" #NT!
+ SITH_alzar: "Alzar" #NT!
+ SITH_amarin: "Amarin" #NT!
+ SITH_ambria: "Ambria" #NT!
+ SITH_anantapar: "Anantapar" #NT!
+ SITH_anarak: "Anarak" #NT!
+ SITH_anaxes: "Anaxes" #NT!
+ SITH_ando: "Ando" #NT!
+ SITH_byss: "Byss" #NT!
+ SITH_daalang: "Daalang" #NT!
+ SITH_darkknell: "Darkknell" #NT!
+ SITH_dathomir: "Dathomir" #NT!
+ SITH_empress_teta: "Empress Teta" #NT!
+ SITH_gentes: "Gentes" #NT!
+ SITH_herdessa: "Herdessa" #NT!
+ SITH_kesh: "Kesh" #NT!
+ SITH_kril_dor: "Kril'Dor" #NT!
+ SITH_phaseera: "Phaseera" #NT!
+ SITH_puloorn: "Puloorn" #NT!
+ SITH_quermia: "Quermia" #NT!
+ SITH_randon: "Randon" #NT!
+ SITH_rekkiad: "Rekkiad" #NT!
+ SITH_roon: "Roon" #NT!
+ SITH_ruusan: "Ruusan" #NT!
+ SITH_sanrafsix: "Sanrafsix" #NT!
+ SITH_sarrassia: "Sarrassia" #NT!
+ SITH_skarpos: "Skarpos" #NT!
+ SITH_vjun: "Vjun" #NT!
+ SITH_volik: "Volik" #NT!
+ SITH_orreg: "Orreg" #NT!
+ SITH_ryav: "Ryav" #NT!
+ SITH_purple_dunes: "Purple Dunes" #NT!
+ SITH_elvaarnos: "Elvaarnos" #NT!
+ SITH_roston: "Roston" #NT!
+ SITH_kithar: "Kithar" #NT!
+ SITH_telmath: "Telmath" #NT!
+ SITH_cham: "Cham" #NT!
+ SITH_glorim: "Glorim" #NT!
+ SITH_eorm: "Eorm" #NT!
+ SITH_sessal_spire: "Sessal Spire" #NT!
+ SITH_wyldar: "Wyldar" #NT!
+ SITH_rees: "Rees" #NT!
+ SITH_tahv: "Tahv" #NT!
+ SITH_sharv: "Sharv" #NT!
+ SITH_zandi: "Zandi" #NT!
+ SITH_berav: "Berav" #NT!
+ SITH_takara: "Takara" #NT!
+ SITH_vit: "Vit" #NT!
+ SITH_bombard: "Bombard" #NT!
+ SITH_ballista: "Ballista" #NT!
+ SITH_catapult: "Catapult" #NT!
+ SITH_harpoon: "Harpoon" #NT!
+ SITH_polybolos: "Polybolos" #NT!
+ SITH_culverin: "Culverin" #NT!
+ SITH_CLASS_reaver: "Reaver" #NT!
+ SITH_CLASS_terminus: "Terminus" #NT!
+ SITH_CLASS_deference: "Deference" #NT!
+ SITH_CLASS_harrower: "Harrower" #NT!
+ SITH_CLASS_doombringer: "Doombringer" #NT!
+ SITH_CLASS_shadow_crown: "Shadow Crown" #NT!
+ SITH_CLASS_x_70b_phantom: "X-70B Phantom" #NT!
+ SITH_CLASS_starscape: "Starscape" #NT!
+ SITH_FLEET_first_defense_fleet: "First Defense Fleet" #NT!
+ SITH_FLEET_first_imperial_mobile_fleet: "First Imperial Mobile Fleet" #NT!
+ SITH_FLEET_task_force_vengeance: "Task Force Vengeance" #NT!
+ SITH_FLEET_vanguard_of_horuset: "Vanguard of Horuset" #NT!
+ SITH_FLEET_imperial_forward_command: "Imperial Forward Command" #NT!
+ SITH_FLEET_imperial_expeditionary_fleet: "Imperial Expeditionary Fleet" #NT!
+ SITH_FLEET_third_imperial_assault_fleet: "Third Imperial Assault Fleet" #NT!
+ SITH_FLEET_imperial_fifth_fleet: "Imperial Fifth Fleet" #NT!
+ SITH_FLEET_imperial_seventh_fleet: "Imperial Seventh Fleet" #NT!
+ SITH_FLEET_imperial_ninth_fleet: "Imperial Ninth Fleet" #NT!
+ SITH_FLEET_kaas_twenty_third: "Kaas Twenty Third" #NT!
+ SITH_FLEET_dread_wing: "Dread Wing" #NT!
+ SITH_FLEET_SEQUENTIAL_imperial_fleet: "$ORD$ Imperial Fleet" #NT!
+ SITH_ARMY_SEQUENTIAL_sithsworn_guard: "$ORD$ Sithsworn Guard" #NT!
+ SITH_ARMY_SEQUENTIAL_devastator_battalion: "$ORD$ Devastator Battalion" #NT!
+ SITH_ARMY_SEQUENTIAL_branded_rifles: "$ORD$ Branded Rifles" #NT!
+ SITH_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army" #NT!
+ SITH_ARMY_SEQUENTIAL_wardroid_group: "$ORD$ Wardroid Group" #NT!
+ SITH_ARMY_SEQUENTIAL_wardroid_matrix: "$ORD$ Wardroid Matrix" #NT!
+ SITH_ARMY_SEQUENTIAL_juggernauts: "$ORD$ Juggernauts" #NT!
+ SITH_ARMY_SEQUENTIAL_sithspawn_detachment: "$ORD$ Sithspawn Detachment" #NT!
+ SITH_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+ SITH_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+ SITH_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+ SITH_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+ SITH_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+ SITH_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+ SITH_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+ SITH_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+ SITH_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+ SITH_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+ SITH_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron" #NT!
+ SITH_ARMY_SEQUENTIAL_sith_garrison_force: "$ORD$ Sith Garrison Force" #NT!
+ SITH_ARMY_SEQUENTIAL_wardroid_garrison: "$ORD$ Wardroid Garrison" #NT!
+ SITH_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$" #NT!
+ SITH_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$" #NT!
+ SITH_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$" #NT!
+ SITH_CHR_lord: "Lord" #NT!
+ SITH_CHR_dread_lord: "Dread Lord" #NT!
+ SITH_CHR_inquisitor: "Inquisitor" #NT!
+ SITH_CHR_battlelord: "Battlelord" #NT!
+ SITH_CHR_master: "Master" #NT!
+ SITH_CHR_alchemist: "Alchemist" #NT!
+ SITH_CHR_dark_lord: "Dark Lord" #NT!
+ SITH_CHR_darth: "Darth" #NT!
+ SITH_CHR_grand_consort: "Grand Consort" #NT!
+ SITH_CHR_high_lord: "High Lord" #NT!
+ SITH_CHR_prophet: "Prophet" #NT!
+ SITH_CHR_seer: "Seer" #NT!
+ SITH_CHR_overlord: "Overlord" #NT!
+ SITH_CHR_overseer: "Overseer" #NT!
+ SITH_CHR_apprentice: "Apprentice" #NT!
+ SITH_CHR_acolyte: "Acolyte" #NT!
+ SITH_CHR_neophyte: "Neophyte" #NT!
+ SITH_CHR_lady: "Lady" #NT!
+ SITH_CHR_dread_lady: "Dread Lady" #NT!
+ SITH_CHR_mistress: "Mistress" #NT!
+ SITH_CHR_dark_lady: "Dark Lady" #NT!
+ SITH_CHR_high_lady: "High Lady" #NT!
+ SITH_CHR_prophetess: "Prophetess" #NT!
+ SITH_CHR_abaron: "Abaron" #NT!
+ SITH_CHR_adas: "Adas" #NT!
+ SITH_CHR_alarii: "Alarii" #NT!
+ SITH_CHR_althe: "Althe" #NT!
+ SITH_CHR_arkous: "Arkous" #NT!
+ SITH_CHR_arosh: "Arosh" #NT!
+ SITH_CHR_avarok: "Avarok" #NT!
+ SITH_CHR_avorr: "Avorr" #NT!
+ SITH_CHR_bensyn: "Bensyn" #NT!
+ SITH_CHR_breesh: "Breesh" #NT!
+ SITH_CHR_carnus: "Carnus" #NT!
+ SITH_CHR_carnor: "Carnor" #NT!
+ SITH_CHR_chane: "Chane" #NT!
+ SITH_CHR_chaskar: "Chaskar" #NT!
+ SITH_CHR_cherkolotar: "Cherkolotar" #NT!
+ SITH_CHR_cyrsip: "Cyrsip" #NT!
+ SITH_CHR_cytharat: "Cytharat" #NT!
+ SITH_CHR_dakhan: "Dakhan" #NT!
+ SITH_CHR_shar: "Shar" #NT!
+ SITH_CHR_davorak: "Davorak" #NT!
+ SITH_CHR_desora: "Desora" #NT!
+ SITH_CHR_xynso: "Xynso" #NT!
+ SITH_CHR_doruk: "Doruk" #NT!
+ SITH_CHR_dramath: "Dramath" #NT!
+ SITH_CHR_taliav: "Taliav" #NT!
+ SITH_CHR_engdo: "Engdo" #NT!
+ SITH_CHR_fa_ann: "Fa'ann" #NT!
+ SITH_CHR_fentis: "Fentis" #NT!
+ SITH_CHR_brach: "Brach" #NT!
+ SITH_CHR_gal_ram: "Gal-ram" #NT!
+ SITH_CHR_galall: "Galall" #NT!
+ SITH_CHR_baous: "Baous" #NT!
+ SITH_CHR_gapuois: "Gapuois" #NT!
+ SITH_CHR_graush: "Graush" #NT!
+ SITH_CHR_dathka: "Dathka" #NT!
+ SITH_CHR_hakagram: "Hakagram" #NT!
+ SITH_CHR_hestus: "Hestus" #NT!
+ SITH_CHR_horak_muli: "Horak-muli" #NT!
+ SITH_CHR_igrol: "Igrol" #NT!
+ SITH_CHR_ikoral: "Ikoral" #NT!
+ SITH_CHR_ishla: "Ishla" #NT!
+ SITH_CHR_izar: "Izar" #NT!
+ SITH_CHR_jhael: "Jhael" #NT!
+ SITH_CHR_fahren: "Fahren" #NT!
+ SITH_CHR_jaj: "Jaj" #NT!
+ SITH_CHR_jekhop: "Jekhop" #NT!
+ SITH_CHR_jinatte: "Jinatte" #NT!
+ SITH_CHR_yshaar: "Yshaar" #NT!
+ SITH_CHR_kael: "Kael" #NT!
+ SITH_CHR_kaur: "Kaur" #NT!
+ SITH_CHR_za_heen: "Za'heen" #NT!
+ SITH_CHR_kahesh: "Kahesh" #NT!
+ SITH_CHR_kantale: "Kantale" #NT!
+ SITH_CHR_sylen: "Sylen" #NT!
+ SITH_CHR_kempar: "Kempar" #NT!
+ SITH_CHR_keryha: "Keryha" #NT!
+ SITH_CHR_valik: "Valik" #NT!
+ SITH_CHR_kodank: "Kodank" #NT!
+ SITH_CHR_komok: "Komok" #NT!
+ SITH_CHR_kressh: "Kressh" #NT!
+ SITH_CHR_exal: "Exal" #NT!
+ SITH_CHR_elcho: "Elcho" #NT!
+ SITH_CHR_ludo: "Ludo" #NT!
+ SITH_CHR_vodal: "Vodal" #NT!
+ SITH_CHR_domoru: "Domoru" #NT!
+ SITH_CHR_krev: "Krev" #NT!
+ SITH_CHR_krovos: "Krovos" #NT!
+ SITH_CHR_kurse: "Kurse" #NT!
+ SITH_CHR_kyyrah: "Kyyrah" #NT!
+ SITH_CHR_ladra: "Ladra" #NT!
+ SITH_CHR_garahe: "Garahe" #NT!
+ SITH_CHR_lesi: "Lesi" #NT!
+ SITH_CHR_lorus: "Lorus" #NT!
+ SITH_CHR_loun: "Loun" #NT!
+ SITH_CHR_luthro: "Luthro" #NT!
+ SITH_CHR_majzon: "Majzon" #NT!
+ SITH_CHR_maraad: "Maraad" #NT!
+ SITH_CHR_materrus: "Materrus" #NT!
+ SITH_CHR_mathieren: "Mathieren" #NT!
+ SITH_CHR_myrox: "Myrox" #NT!
+ SITH_CHR_minax: "Minax" #NT!
+ SITH_CHR_nyriss: "Nyriss" #NT!
+ SITH_CHR_ogun: "Ogun" #NT!
+ SITH_CHR_orazio: "Orazio" #NT!
+ SITH_CHR_auux: "Auux" #NT!
+ SITH_CHR_paladius: "Paladius" #NT!
+ SITH_CHR_paolen: "Paolen" #NT!
+ SITH_CHR_praven: "Praven" #NT!
+ SITH_CHR_r_hoteb: "R'hoteb" #NT!
+ SITH_CHR_marka: "Marka" #NT!
+ SITH_CHR_rasche: "Rasche" #NT!
+ SITH_CHR_raspir: "Raspir" #NT!
+ SITH_CHR_rath: "Rath" #NT!
+ SITH_CHR_sek_nos: "Sek'nos" #NT!
+ SITH_CHR_thok: "Thok" #NT!
+ SITH_CHR_rhexa: "Rhexa" #NT!
+ SITH_CHR_naga: "Naga" #NT!
+ SITH_CHR_sathel: "Sathel" #NT!
+ SITH_CHR_saviel: "Saviel" #NT!
+ SITH_CHR_scourge: "Scourge" #NT!
+ SITH_CHR_seake: "Seake" #NT!
+ SITH_CHR_miarta: "Miarta" #NT!
+ SITH_CHR_serevin: "Serevin" #NT!
+ SITH_CHR_serrod: "Serrod" #NT!
+ SITH_CHR_shaar: "Shaar" #NT!
+ SITH_CHR_simus: "Simus" #NT!
+ SITH_CHR_soverus: "Soverus" #NT!
+ SITH_CHR_synar: "Synar" #NT!
+ SITH_CHR_tanzu: "Tanzu" #NT!
+ SITH_CHR_tetsu: "Tetsu" #NT!
+ SITH_CHR_karnak: "Karnak" #NT!
+ SITH_CHR_andreaus: "Andreaus" #NT!
+ SITH_CHR_thos: "Thos" #NT!
+ SITH_CHR_torius: "Torius" #NT!
+ SITH_CHR_tormen: "Tormen" #NT!
+ SITH_CHR_trok: "Trok" #NT!
+ SITH_CHR_twintan: "Twintan" #NT!
+ SITH_CHR_vex: "Vex" #NT!
+ SITH_CHR_dantos: "Dantos" #NT!
+ SITH_CHR_vincine: "Vincine" #NT!
+ SITH_CHR_vindican: "Vindican" #NT!
+ SITH_CHR_vindis: "Vindis" #NT!
+ SITH_CHR_vodd: "Vodd" #NT!
+ SITH_CHR_vowrawn: "Vowrawn" #NT!
+ SITH_CHR_ravilan: "Ravilan" #NT!
+ SITH_CHR_wroth: "Wroth" #NT!
+ SITH_CHR_xiang: "Xiang" #NT!
+ SITH_CHR_saveel: "Saveel" #NT!
+ SITH_CHR_yacommsa: "Yacommsa" #NT!
+ SITH_CHR_yarri: "Yarri" #NT!
+ SITH_CHR_silas: "Silas" #NT!
+ SITH_CHR_yun_weah: "Yun'weah" #NT!
+ SITH_CHR_zavrasha: "Zavrasha" #NT!
+ SITH_CHR_desolous: "Desolous" #NT!
+ SITH_CHR_zavakon: "Zavakon" #NT!
+ SITH_CHR_lokess: "Lokess" #NT!
+ SITH_CHR_qalar: "Qalar" #NT!
+ SITH_CHR_victun: "Victun" #NT!
+ SITH_CHR_tainor: "Tainor" #NT!
+ SITH_CHR_sadow: "Sadow" #NT!
+ SITH_CHR_ben_hade: "Ben'hade" #NT!
+ SITH_CHR_acina: "Acina" #NT!
+ SITH_CHR_xheoch: "Xheoch" #NT!
+ SITH_CHR_djanistak: "Djanistak" #NT!
+ SITH_CHR_charnus: "Charnus" #NT!
+ SITH_CHR_sandor: "Sandor" #NT!
+ SITH_CHR_decimus: "Decimus" #NT!
+ SITH_CHR_kun: "Kun" #NT!
+ SITH_CHR_ragnos: "Ragnos" #NT!
+ SITH_CHR_kel: "Kel" #NT!
+ SITH_CHR_kallous: "Kallous" #NT!
+ SITH_CHR_skar: "Skar" #NT!
+ SITH_CHR_rolan: "Rolan" #NT!
+ SITH_CHR_zash: "Zash" #NT!
+ SITH_CHR_kallig: "Kallig" #NT!
+ SITH_CHR_sajar: "Sajar" #NT!
+ SITH_CHR_arctis: "Arctis" #NT!
+ SITH_CHR_thanaton: "Thanaton" #NT!
+ SITH_CHR_acharon: "Acharon" #NT!
+ SITH_CHR_marr: "Marr" #NT!
+ SITH_CHR_calypho: "Calypho" #NT!
+ SITH_CHR_jadus: "Jadus" #NT!
+ SITH_CHR_zhorrid: "Zhorrid" #NT!
+ SITH_CHR_beniko: "Beniko" #NT!
+ SITH_CHR_baras: "Baras" #NT!
+ SITH_CHR_angral: "Angral" #NT!
+ SITH_CHR_arho: "Arho" #NT!
+ SITH_CHR_malgus: "Malgus" #NT!
+ SITH_CHR_momin: "Momin" #NT!
+ SITH_CHR_azamin: "Azamin" #NT!
+ SITH_CHR_rictus: "Rictus" #NT!
+ SITH_CHR_aruk: "Aruk" #NT!
+ SITH_CHR_hadra: "Hadra" #NT!
+ SITH_CHR_mekhis: "Mekhis" #NT!
+ SITH_CHR_karrid: "Karrid" #NT!
+ SITH_CHR_arrid: "Arrid" #NT!
+ SITH_CHR_ekkage: "Ekkage" #NT!
+ SITH_CHR_gorgos: "Gorgos" #NT!
+ SITH_CHR_howl: "Howl" #NT!
+ SITH_CHR_vax: "Vax" #NT!
+ SITH_CHR_xedrix: "Xedrix" #NT!
+ SITH_CHR_anathel: "Anathel" #NT!
+ SITH_CHR_malora: "Malora" #NT!
+ SITH_CHR_xarion: "Xarion" #NT!
+ SITH_CHR_vix: "Vix" #NT!
+ SITH_CHR_xerxian: "Xerxian" #NT!
+ SITH_CHR_athelis: "Athelis" #NT!
+ SITH_CHR_nadd: "Nadd" #NT!
+ SITH_CHR_null: "Null" #NT!
+ SITH_CHR_synn: "Synn" #NT!
+ SITH_CHR_hargev: "Hargev" #NT!
+ SITH_CHR_grathan: "Grathan" #NT!
+ SITH_CHR_fraabaal: "Fraabaal" #NT!
+ SITH_CHR_ralesk: "Ralesk" #NT!
+ SITH_CHR_andeddu: "Andeddu" #NT!
+ SITH_CHR_dreypa: "Dreypa" #NT!
+ SITH_CHR_hoard: "Hoard" #NT!
+ SITH_CHR_pall: "Pall" #NT!
+ SITH_CHR_morn: "Morn" #NT!
+ SITH_CHR_quellus: "Quellus" #NT!
+ SITH_CHR_banso: "Banso" #NT!
+ SITH_CHR_deagua: "Deagua" #NT!
+ SITH_CHR_dinn: "Dinn" #NT!
+ SITH_CHR_ferav: "Ferav" #NT!
+ SITH_CHR_jorael: "Jorael" #NT!
+ SITH_CHR_jun_yon: "Jun'yon" #NT!
+ SITH_CHR_kyral: "Kyral" #NT!
+ SITH_CHR_moren: "Moren" #NT!
+ SITH_CHR_reevas: "Reevas" #NT!
+ SITH_CHR_rotham: "Rotham" #NT!
+ SITH_CHR_siegtreg: "Siegtreg" #NT!
+ SITH_CHR_yald: "Yald" #NT!
+ SITH_CHR_zare: "Zare" #NT!
+ SITH_CHR_belos: "Belos" #NT!
+ SITH_CHR_koriss: "Koriss" #NT!
+ SITH_CHR_muur: "Muur" #NT!
+ SITH_CHR_nal: "Nal" #NT!
+ SITH_CHR_syn: "Syn" #NT!
+ SITH_CHR_vanda: "Vanda" #NT!
+ SITH_CHR_vannor: "Vannor" #NT!
+ SITH_CHR_krall: "Krall" #NT!
+ SITH_CHR_horak_mul: "Horak-mul" #NT!
+ SITH_CHR_kaan: "Kaan" #NT!
+ SITH_CHR_phobos: "Phobos" #NT!
+ SITH_CHR_sissiri: "Sissiri" #NT!
+ SITH_CHR_locphet: "Locphet" #NT!
+ SITH_CHR_mindran: "Mindran" #NT!
+ SITH_CHR_felkor: "Felkor" #NT!
+ SITH_CHR_glovoc: "Glovoc" #NT!
+ SITH_CHR_bandon: "Bandon" #NT!
+ SITH_CHR_bactra: "Bactra" #NT!
+ SITH_CHR_calician: "Calician" #NT!
+ SITH_CHR_calimondra: "Calimondra" #NT!
+ SITH_CHR_chagras: "Chagras" #NT!
+ SITH_CHR_daiman: "Daiman" #NT!
+ SITH_CHR_darzu: "Darzu" #NT!
+ SITH_CHR_dromika: "Dromika" #NT!
+ SITH_CHR_eradicus: "Eradicus" #NT!
+ SITH_CHR_lioko: "Lioko" #NT!
+ SITH_CHR_malakite: "Malakite" #NT!
+ SITH_CHR_mandragall: "Mandragall" #NT!
+ SITH_CHR_na_daz: "Na'daz" #NT!
+ SITH_CHR_odion: "Odion" #NT!
+ SITH_CHR_quillan: "Quillan" #NT!
+ SITH_CHR_xelian: "Xelian" #NT!
+ SITH_CHR_borthis: "Borthis" #NT!
+ SITH_CHR_daanat: "Daanat" #NT!
+ SITH_CHR_githany: "Githany" #NT!
+ SITH_CHR_hezzoran: "Hezzoran" #NT!
+ SITH_CHR_kas_im: "Kas'im" #NT!
+ SITH_CHR_kopecz: "Kopecz" #NT!
+ SITH_CHR_krul: "Krul" #NT!
+ SITH_CHR_lator: "LaTor" #NT!
+ SITH_CHR_llokay: "Llokay" #NT!
+ SITH_CHR_mortull: "Mortull" #NT!
+ SITH_CHR_orilltha: "Orilltha" #NT!
+ SITH_CHR_qordis: "Qordis" #NT!
+ SITH_CHR_shenayag: "Shenayag" #NT!
+ SITH_CHR_sirak: "Sirak" #NT!
+ SITH_CHR_vaa: "Vaa" #NT!
+ SITH_CHR_yevra: "Yevra" #NT!
+ SITH_CHR_broodica: "Broodica" #NT!
+ SITH_CHR_rrogon: "Rrogon" #NT!
+ SITH_CHR_shuuir: "Shuuir" #NT!
+ SITH_CHR_tanmoul: "Tanmoul" #NT!
+ SITH_CHR_venerous: "Venerous" #NT!
+ SITH_CHR_caldoth: "Caldoth" #NT!
+ SITH_CHR_aayu: "Aayu" #NT!
+ SITH_CHR_abryl: "Abryl" #NT!
+ SITH_CHR_adacin: "Adacin" #NT!
+ SITH_CHR_adraas: "Adraas" #NT!
+ SITH_CHR_alaric: "Alaric" #NT!
+ SITH_CHR_anathemos: "Anathemos" #NT!
+ SITH_CHR_anec: "Anec" #NT!
+ SITH_CHR_anok: "Anok" #NT!
+ SITH_CHR_anril: "Anril" #NT!
+ SITH_CHR_argos: "Argos" #NT!
+ SITH_CHR_atren: "Atren" #NT!
+ SITH_CHR_bannos: "Bannos" #NT!
+ SITH_CHR_bay_lor: "Bay'lor" #NT!
+ SITH_CHR_beldiss: "Beldiss" #NT!
+ SITH_CHR_beraxil: "Beraxil" #NT!
+ SITH_CHR_berow: "Berow" #NT!
+ SITH_CHR_borm: "Borm" #NT!
+ SITH_CHR_brakar: "Brakar" #NT!
+ SITH_CHR_brutann: "Brutann" #NT!
+ SITH_CHR_calaverous: "Calaverous" #NT!
+ SITH_CHR_caliqu: "Caliqu" #NT!
+ SITH_CHR_cendence: "Cendence" #NT!
+ SITH_CHR_cestus: "Cestus" #NT!
+ SITH_CHR_chanigresh: "Chanigresh" #NT!
+ SITH_CHR_charnoq: "Charnoq" #NT!
+ SITH_CHR_chayloss: "Chayloss" #NT!
+ SITH_CHR_chiann: "Chiann" #NT!
+ SITH_CHR_cineratus: "Cineratus" #NT!
+ SITH_CHR_dakron: "Dakron" #NT!
+ SITH_CHR_darkspanner: "Darkspanner" #NT!
+ SITH_CHR_darrok: "Darrok" #NT!
+ SITH_CHR_dashar: "Dashar" #NT!
+ SITH_CHR_den: "Den" #NT!
+ SITH_CHR_drahg: "Drahg" #NT!
+ SITH_CHR_drowl: "Drowl" #NT!
+ SITH_CHR_duen: "Duen" #NT!
+ SITH_CHR_eddon: "Eddon" #NT!
+ SITH_CHR_emmoridg: "Emmoridg" #NT!
+ SITH_CHR_erindax: "Erindax" #NT!
+ SITH_CHR_esdras: "Esdras" #NT!
+ SITH_CHR_estus: "Estus" #NT!
+ SITH_CHR_faliden: "Faliden" #NT!
+ SITH_CHR_feng: "Feng" #NT!
+ SITH_CHR_feras: "Feras" #NT!
+ SITH_CHR_ferrid: "Ferrid" #NT!
+ SITH_CHR_fulminiss: "Fulminiss" #NT!
+ SITH_CHR_fural: "Fural" #NT!
+ SITH_CHR_ganarog: "Ganarog" #NT!
+ SITH_CHR_goh: "Goh" #NT!
+ SITH_CHR_goss: "Goss" #NT!
+ SITH_CHR_grenthean: "Grenthean" #NT!
+ SITH_CHR_grigor: "Grigor" #NT!
+ SITH_CHR_hanaal: "Hanaal" #NT!
+ SITH_CHR_haresh: "Haresh" #NT!
+ SITH_CHR_hasper: "Hasper" #NT!
+ SITH_CHR_hedrow: "Hedrow" #NT!
+ SITH_CHR_hold: "Hold" #NT!
+ SITH_CHR_hracken: "Hracken" #NT!
+ SITH_CHR_idriono: "Idriono" #NT!
+ SITH_CHR_ilikith: "Ilikith" #NT!
+ SITH_CHR_inath: "Inath" #NT!
+ SITH_CHR_ivress: "Ivress" #NT!
+ SITH_CHR_jerren: "Jerren" #NT!
+ SITH_CHR_jormani: "Jormani" #NT!
+ SITH_CHR_kaius: "Kaius" #NT!
+ SITH_CHR_kancen: "Kancen" #NT!
+ SITH_CHR_kanno: "Kanno" #NT!
+ SITH_CHR_kar: "Kar" #NT!
+ SITH_CHR_karvus: "Karvus" #NT!
+ SITH_CHR_kasra: "Kasra" #NT!
+ SITH_CHR_kassien: "Kassien" #NT!
+ SITH_CHR_kavaros: "Kavaros" #NT!
+ SITH_CHR_kavos: "Kavos" #NT!
+ SITH_CHR_keldroth: "Keldroth" #NT!
+ SITH_CHR_khandrex: "Khandrex" #NT!
+ SITH_CHR_kherus: "Kherus" #NT!
+ SITH_CHR_khreusis: "Khreusis" #NT!
+ SITH_CHR_kirnon: "Kirnon" #NT!
+ SITH_CHR_koldor: "Koldor" #NT!
+ SITH_CHR_komo: "Komo" #NT!
+ SITH_CHR_korek: "Korek" #NT!
+ SITH_CHR_koryst: "Koryst" #NT!
+ SITH_CHR_kras: "Kras" #NT!
+ SITH_CHR_krillis: "Krillis" #NT!
+ SITH_CHR_krimyn: "Krimyn" #NT!
+ SITH_CHR_kyrus: "Kyrus" #NT!
+ SITH_CHR_larith: "Larith" #NT!
+ SITH_CHR_lokar: "Lokar" #NT!
+ SITH_CHR_loyat: "Loyat" #NT!
+ SITH_CHR_m_rfee: "M'rfee" #NT!
+ SITH_CHR_madreeg: "Madreeg" #NT!
+ SITH_CHR_margas: "Margas" #NT!
+ SITH_CHR_mahish: "Mahish" #NT!
+ SITH_CHR_malichose: "Malichose" #NT!
+ SITH_CHR_mathiren: "Mathiren" #NT!
+ SITH_CHR_medechas: "Medechas" #NT!
+ SITH_CHR_melana: "Melana" #NT!
+ SITH_CHR_melicoste: "Melicoste" #NT!
+ SITH_CHR_mnesus: "Mnesus" #NT!
+ SITH_CHR_modo: "Modo" #NT!
+ SITH_CHR_mohgren: "Mohgren" #NT!
+ SITH_CHR_morrhage: "Morrhage" #NT!
+ SITH_CHR_nankrang: "Nankrang" #NT!
+ SITH_CHR_ne_gyan: "Ne'gyan" #NT!
+ SITH_CHR_necus: "Necus" #NT!
+ SITH_CHR_nefarid: "Nefarid" #NT!
+ SITH_CHR_nerrethel: "Nerrethel" #NT!
+ SITH_CHR_ogathu: "Ogathu" #NT!
+ SITH_CHR_ondorru: "Ondorru" #NT!
+ SITH_CHR_ordez: "Ordez" #NT!
+ SITH_CHR_otal: "Otal" #NT!
+ SITH_CHR_ovakar: "Ovakar" #NT!
+ SITH_CHR_pallas: "Pallas" #NT!
+ SITH_CHR_parnax: "Parnax" #NT!
+ SITH_CHR_phaaral: "Phaaral" #NT!
+ SITH_CHR_prejad: "Prejad" #NT!
+ SITH_CHR_qet: "Qet" #NT!
+ SITH_CHR_quux: "Quux" #NT!
+ SITH_CHR_ra_vek: "Ra'vek" #NT!
+ SITH_CHR_ranath: "Ranath" #NT!
+ SITH_CHR_rance: "Rance" #NT!
+ SITH_CHR_ranor: "Ranor" #NT!
+ SITH_CHR_rashal: "Rashal" #NT!
+ SITH_CHR_rathari: "Rathari" #NT!
+ SITH_CHR_ray_en: "Ray'en" #NT!
+ SITH_CHR_raze: "Raze" #NT!
+ SITH_CHR_razer: "Razer" #NT!
+ SITH_CHR_razik: "Razik" #NT!
+ SITH_CHR_renge: "Renge" #NT!
+ SITH_CHR_renik: "Renik" #NT!
+ SITH_CHR_renning: "Renning" #NT!
+ SITH_CHR_reyzek: "Reyzek" #NT!
+ SITH_CHR_rone: "Rone" #NT!
+ SITH_CHR_ryvus: "Ryvus" #NT!
+ SITH_CHR_sadic: "Sadic" #NT!
+ SITH_CHR_samus: "Samus" #NT!
+ SITH_CHR_sangus: "Sangus" #NT!
+ SITH_CHR_sanorn: "Sanorn" #NT!
+ SITH_CHR_senu: "Senu" #NT!
+ SITH_CHR_serrok: "Serrok" #NT!
+ SITH_CHR_shados: "Shados" #NT!
+ SITH_CHR_shak_weth: "Shak'Weth" #NT!
+ SITH_CHR_shalath: "Shalath" #NT!
+ SITH_CHR_sharoleigh: "Sharoleigh" #NT!
+ SITH_CHR_shaythin: "Shaythin" #NT!
+ SITH_CHR_shendan: "Shendan" #NT!
+ SITH_CHR_skatheris: "Skatheris" #NT!
+ SITH_CHR_solence: "Solence" #NT!
+ SITH_CHR_solusar: "Solusar" #NT!
+ SITH_CHR_spindrall: "Spindrall" #NT!
+ SITH_CHR_sundar: "Sundar" #NT!
+ SITH_CHR_synnoran: "Synnoran" #NT!
+ SITH_CHR_tagriss: "Tagriss" #NT!
+ SITH_CHR_tahm: "Tahm" #NT!
+ SITH_CHR_tark: "Tark" #NT!
+ SITH_CHR_tarnis: "Tarnis" #NT!
+ SITH_CHR_tarnux: "Tarnux" #NT!
+ SITH_CHR_teraah: "Teraah" #NT!
+ SITH_CHR_tharsis: "Tharsis" #NT!
+ SITH_CHR_thaval: "Thaval" #NT!
+ SITH_CHR_thrain: "Thrain" #NT!
+ SITH_CHR_thul: "Thul" #NT!
+ SITH_CHR_tibris: "Tibris" #NT!
+ SITH_CHR_tovar: "Tovar" #NT!
+ SITH_CHR_towe: "Towe" #NT!
+ SITH_CHR_tumul: "Tumul" #NT!
+ SITH_CHR_turbis: "Turbis" #NT!
+ SITH_CHR_tytonus: "Tytonus" #NT!
+ SITH_CHR_ulios: "Ulios" #NT!
+ SITH_CHR_umbriss: "Umbriss" #NT!
+ SITH_CHR_undaara: "Undaara" #NT!
+ SITH_CHR_ur: "Ur" #NT!
+ SITH_CHR_urduun: "Urduun" #NT!
+ SITH_CHR_vadus: "Vadus" #NT!
+ SITH_CHR_vael: "Vael" #NT!
+ SITH_CHR_vago: "Vago" #NT!
+ SITH_CHR_vajar: "Vajar" #NT!
+ SITH_CHR_vainthrast: "Vainthrast" #NT!
+ SITH_CHR_varacen: "Varacen" #NT!
+ SITH_CHR_vardax: "Vardax" #NT!
+ SITH_CHR_varos: "Varos" #NT!
+ SITH_CHR_vassanar: "Vassanar" #NT!
+ SITH_CHR_vayl: "Vayl" #NT!
+ SITH_CHR_veijel: "Veijel" #NT!
+ SITH_CHR_velash: "Velash" #NT!
+ SITH_CHR_velnine: "Velnine" #NT!
+ SITH_CHR_virena: "Virena" #NT!
+ SITH_CHR_vora: "Vora" #NT!
+ SITH_CHR_vul: "Vul" #NT!
+ SITH_CHR_wenom: "Wenom" #NT!
+ SITH_CHR_wrad: "Wrad" #NT!
+ SITH_CHR_wratchen: "Wratchen" #NT!
+ SITH_CHR_xach: "Xach" #NT!
+ SITH_CHR_xaq: "Xaq" #NT!
+ SITH_CHR_xivhkalrainik: "Xivhkalrainik" #NT!
+ SITH_CHR_xalek: "Xalek" #NT!
+ SITH_CHR_xoc_dal: "Xoc'dal" #NT!
+ SITH_CHR_yavorus: "Yavorus" #NT!
+ SITH_CHR_zanisk: "Zanisk" #NT!
+ SITH_CHR_zaron: "Zaron" #NT!
+ SITH_CHR_zetha: "Zetha" #NT!
+ SITH_CHR_ziliss: "Ziliss" #NT!

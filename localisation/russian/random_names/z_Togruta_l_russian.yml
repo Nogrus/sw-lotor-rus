@@ -1,232 +1,232 @@
 ﻿l_russian:
- TOGRUTA_halcyon: "Halcyon"
- TOGRUTA_longspur: "Longspur"
- TOGRUTA_itinerant: "Itinerant"
- TOGRUTA_wayfarer: "Wayfarer"
- TOGRUTA_wanderer: "Wanderer"
- TOGRUTA_roamer: "Roamer"
- TOGRUTA_farstrike: "Farstrike"
- TOGRUTA_brawler: "Brawler"
- TOGRUTA_brazen: "Brazen"
- TOGRUTA_representative: "Representative"
- TOGRUTA_threkin: "Threkin"
- TOGRUTA_geedon: "Geedon"
- TOGRUTA_glaser: "Glaser"
- TOGRUTA_glazer: "Glazer"
- TOGRUTA_godar: "Godar"
- TOGRUTA_grappler: "Grappler"
- TOGRUTA_habatok: "Habatok"
- TOGRUTA_halifax: "Halifax"
- TOGRUTA_howlrunner: "Howlrunner"
- TOGRUTA_hyko: "Hyko"
- TOGRUTA_intrepid: "Intrepid"
- TOGRUTA_indefatigable: "Indefatigable"
- TOGRUTA_vindicator: "Vindicator"
- TOGRUTA_blethyline: "Blethyline"
- TOGRUTA_canoid: "Canoid"
- TOGRUTA_banshee: "Banshee"
- TOGRUTA_victory: "Victory"
- TOGRUTA_success: "Success"
- TOGRUTA_triumph: "Triumph"
- TOGRUTA_titan: "Titan"
- TOGRUTA_harrower: "Harrower"
- TOGRUTA_raider: "Raider"
- TOGRUTA_nebula: "Nebula"
- TOGRUTA_dauntless: "Dauntless"
- TOGRUTA_providence: "Providence"
- TOGRUTA_subjugator: "Subjugator"
- TOGRUTA_conqueror: "Conqueror"
- TOGRUTA_crusader: "Crusader"
- TOGRUTA_glory: "Glory"
- TOGRUTA_immortal: "Immortal"
- TOGRUTA_judicator: "Judicator"
- TOGRUTA_vanguard: "Vanguard"
- TOGRUTA_renown: "Renown"
- TOGRUTA_demolisher: "Demolisher"
- TOGRUTA_storm: "Storm"
- TOGRUTA_stormstrike: "Stormstrike"
- TOGRUTA_striker: "Striker"
- TOGRUTA_sundog: "Sundog"
- TOGRUTA_talon: "Talon"
- TOGRUTA_thrasher: "Thrasher"
- TOGRUTA_thunder: "Thunder"
- TOGRUTA_thunderstrike: "Thunderstrike"
- TOGRUTA_purrgil: "Purrgil"
- TOGRUTA_axehead: "Axehead"
- TOGRUTA_barloz: "Barloz"
- TOGRUTA_centurion: "Centurion"
- TOGRUTA_pelta: "Pelta"
- TOGRUTA_longbeam: "Longbeam"
- TOGRUTA_bulk: "Bulk"
- TOGRUTA_bursa: "Bursa"
- TOGRUTA_bulwark: "Bulwark"
- TOGRUTA_invincible: "Invincible"
- TOGRUTA_valor: "Valor"
- TOGRUTA_hammer: "Hammer"
- TOGRUTA_sword: "Sword"
- TOGRUTA_shield: "Shield"
- TOGRUTA_brigand: "Brigand"
- TOGRUTA_praetorian: "Praetorian"
- TOGRUTA_lictor: "Lictor"
- TOGRUTA_starlight: "Starlight"
- TOGRUTA_dreadnaught: "Dreadnaught"
- TOGRUTA_vainglorious: "Vainglorious"
- TOGRUTA_tarvix: "Tarvix"
- TOGRUTA_drexl: "Drexl"
- TOGRUTA_rothana: "Rothana"
- TOGRUTA_balmorra: "Balmorra"
- TOGRUTA_lormar: "Lormar"
- TOGRUTA_lupus: "Lupus"
- TOGRUTA_onager: "Onager"
- TOGRUTA_pursuit: "Pursuit"
- TOGRUTA_bavos: "Bavos"
- TOGRUTA_munifex: "Munifex"
- TOGRUTA_mudhorn: "Mudhorn"
- TOGRUTA_gundark: "Gundark"
- TOGRUTA_servant: "Servant"
- TOGRUTA_servant_three: "Servant Three"
- TOGRUTA_helot: "Helot"
- TOGRUTA_subjugated: "Subjugated"
- TOGRUTA_useful: "Useful"
- TOGRUTA_alchemist: "Alchemist"
- TOGRUTA_factorial: "Factorial"
- TOGRUTA_beast_within: "Beast Within"
- TOGRUTA_slow_boil: "Slow Boil"
- TOGRUTA_eternal_service: "Eternal Service"
- TOGRUTA_attendant: "Attendant"
- TOGRUTA_steward: "Steward"
- TOGRUTA_menial: "Menial"
- TOGRUTA_auxiliary: "Auxiliary"
- TOGRUTA_keeper: "Keeper"
- TOGRUTA_constr_aurek: "Constructor Aurek"
- TOGRUTA_constr_besh: "Constructor Besh"
- TOGRUTA_constr_cresh: "Constructor Cresh"
- TOGRUTA_constr_dorn: "Constructor Dorn"
- TOGRUTA_constr_forn: "Constructor Forn"
- TOGRUTA_constr_grek: "Constructor Grek"
- TOGRUTA_constr_herf: "Constructor Herf"
- TOGRUTA_constr_isk: "Constructor Isk"
- TOGRUTA_constr_jenth: "Constructor Jenth"
- TOGRUTA_constr_krill: "Constructor Krill"
- TOGRUTA_constr_leth: "Constructor Leth"
- TOGRUTA_constr_mern: "Constructor Mern"
- TOGRUTA_constr_nern: "Constructor Nern"
- TOGRUTA_constr_osk: "Constructor Osk"
- TOGRUTA_constr_peth: "Constructor Peth"
- TOGRUTA_constr_senth: "Constructor Senth"
- TOGRUTA_constr_trill: "Constructor Trill"
- TOGRUTA_constr_usk: "Constructor Usk"
- TOGRUTA_constr_vev: "Constructor Vev"
- TOGRUTA_constr_wesk: "Constructor Wesk"
- TOGRUTA_constr_xesh: "Constructor Xesh"
- TOGRUTA_constr_yirt: "Constructor Yirt"
- TOGRUTA_constr_zerek: "Constructor Zerek"
- TOGRUTA_constr_cherek: "Constructor Cherek"
- TOGRUTA_constr_qek: "Constructor Qek"
- TOGRUTA_constr_resh: "Constructor Resh"
- TOGRUTA_constr_enth: "Constructor Enth"
- TOGRUTA_constr_onith: "Constructor Onith"
- TOGRUTA_constr_krenth: "Constructor Krenth"
- TOGRUTA_constr_nen: "Constructor Nen"
- TOGRUTA_constr_orenth: "Constructor Orenth"
- TOGRUTA_constr_shen: "Constructor Shen"
- TOGRUTA_constr_thesh: "Constructor Thesh"
- TOGRUTA_FLEET_SEQUENTIAL_togruta_defense_fleet: "$ORD$ Togruta Defense Fleet"
- TOGRUTA_ARMY_SEQUENTIAL_togruta_planetary_guard: "$ORD$ Togruta Planetary Guard"
- TOGRUTA_ARMY_SEQUENTIAL_togruta_infantry_company: "$ORD$ Togruta Infantry Company"
- TOGRUTA_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- TOGRUTA_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- TOGRUTA_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- TOGRUTA_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- TOGRUTA_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- TOGRUTA_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- TOGRUTA_CHR_asher: "Asher"
- TOGRUTA_CHR_asaak: "Asaak"
- TOGRUTA_CHR_buryn: "Buryn"
- TOGRUTA_CHR_codi: "Codi"
- TOGRUTA_CHR_dejan: "Dejan"
- TOGRUTA_CHR_dynaroth: "Dynaroth"
- TOGRUTA_CHR_galway: "Galway"
- TOGRUTA_CHR_garon: "Garon"
- TOGRUTA_CHR_gupat: "Gupat"
- TOGRUTA_CHR_jari: "Jari"
- TOGRUTA_CHR_jordan: "Jordan"
- TOGRUTA_CHR_juran: "Juran"
- TOGRUTA_CHR_kalatosh: "Kalatosh"
- TOGRUTA_CHR_koru: "Koru"
- TOGRUTA_CHR_lodish: "Lodish"
- TOGRUTA_CHR_meldo: "Meldo"
- TOGRUTA_CHR_moebin: "Moebin"
- TOGRUTA_CHR_ralon: "Ralon"
- TOGRUTA_CHR_rolend: "Rolend"
- TOGRUTA_CHR_roshti: "Roshti"
- TOGRUTA_CHR_sarmuk: "Sarmuk"
- TOGRUTA_CHR_selda: "Selda"
- TOGRUTA_CHR_skohani: "Skohani"
- TOGRUTA_CHR_torhaa: "Torhaa"
- TOGRUTA_CHR_tuktee: "Tuktee"
- TOGRUTA_CHR_neelo: "Neelo"
- TOGRUTA_CHR_skahvi: "Skahvi"
- TOGRUTA_CHR_achitan: "Achitan"
- TOGRUTA_CHR_alie: "Alie"
- TOGRUTA_CHR_ashara: "Ashara"
- TOGRUTA_CHR_ashla: "Ashla"
- TOGRUTA_CHR_audila: "Audila"
- TOGRUTA_CHR_auxi: "Auxi"
- TOGRUTA_CHR_bela: "Bela"
- TOGRUTA_CHR_carshotta: "Carshotta"
- TOGRUTA_CHR_dar_nala: "Dar'Nala"
- TOGRUTA_CHR_deran: "Deran"
- TOGRUTA_CHR_ellin: "Ellin"
- TOGRUTA_CHR_hellena: "Hellena"
- TOGRUTA_CHR_kalda: "Kalda"
- TOGRUTA_CHR_kaveri: "Kaveri"
- TOGRUTA_CHR_kasuni: "Kasuni"
- TOGRUTA_CHR_niriian: "Niriian"
- TOGRUTA_CHR_palla: "Palla"
- TOGRUTA_CHR_raana: "Raana"
- TOGRUTA_CHR_ryssa: "Ryssa"
- TOGRUTA_CHR_shaak: "Shaak"
- TOGRUTA_CHR_sheel: "Sheel"
- TOGRUTA_CHR_shi_fara: "Shi-Fara"
- TOGRUTA_CHR_sumalee: "Sumalee"
- TOGRUTA_CHR_synoda: "Synoda"
- TOGRUTA_CHR_vaash: "Vaash"
- TOGRUTA_CHR_yanila: "Yanila"
- TOGRUTA_CHR_yelto: "Yelto"
- TOGRUTA_CHR_zaa: "Zaa"
- TOGRUTA_CHR_viv_nia: "Viv'nia"
- TOGRUTA_CHR_elarec: "Elarec"
- TOGRUTA_CHR_rawlson: "Rawlson"
- TOGRUTA_CHR_jora: "Jora"
- TOGRUTA_CHR_biss: "Biss"
- TOGRUTA_CHR_borm: "Borm"
- TOGRUTA_CHR_bourke: "Bourke"
- TOGRUTA_CHR_dan: "Dan"
- TOGRUTA_CHR_faltus: "Faltus"
- TOGRUTA_CHR_karls: "Karls"
- TOGRUTA_CHR_kiwiiks: "Kiwiiks"
- TOGRUTA_CHR_korbin: "Korbin"
- TOGRUTA_CHR_kray: "Kray"
- TOGRUTA_CHR_lah: "Lah"
- TOGRUTA_CHR_mafeen: "Mafeen"
- TOGRUTA_CHR_mazlin: "Mazlin"
- TOGRUTA_CHR_nalual: "Nalual"
- TOGRUTA_CHR_nys: "Nys"
- TOGRUTA_CHR_phaa: "Phaa"
- TOGRUTA_CHR_ra: "Ra"
- TOGRUTA_CHR_reb: "Reb"
- TOGRUTA_CHR_ren: "Ren"
- TOGRUTA_CHR_tano: "Tano"
- TOGRUTA_CHR_tama: "Tama"
- TOGRUTA_CHR_tamm: "Tamm"
- TOGRUTA_CHR_tey: "Tey"
- TOGRUTA_CHR_ti: "Ti"
- TOGRUTA_CHR_ty: "Ty"
- TOGRUTA_CHR_vashee: "Vashee"
- TOGRUTA_CHR_zavros: "Zavros"
- TOGRUTA_CHR_yovet: "Yovet"
- TOGRUTA_CHR_yun: "Yun"
- TOGRUTA_CHR_jadeonar: "Jadeonar"
- TOGRUTA_CHR_malli: "Malli"
- TOGRUTA_CHR_renlow: "Renlow"
+  TOGRUTA_halcyon: "Безмятежный" #NT!
+  TOGRUTA_longspur: "Подорожник" #NT!
+  TOGRUTA_itinerant: "Кочующий" #NT!
+  TOGRUTA_wayfarer: "Путник" #NT!
+  TOGRUTA_wanderer: "Скиталец" #NT!
+  TOGRUTA_roamer: "Бродяга" #NT!
+  TOGRUTA_farstrike: "Дальний удар" #NT!
+  TOGRUTA_brawler: "Буян" #NT!
+  TOGRUTA_brazen: "Наглый" #NT!
+  TOGRUTA_representative: "Делегат" #NT!
+  TOGRUTA_threkin: "Трекин" #NT!
+  TOGRUTA_geedon: "Гидон" #NT!
+  TOGRUTA_glaser: "Стекольщик" #NT!
+  TOGRUTA_glazer: "Глейзер" #NT!
+  TOGRUTA_godar: "Годар" #NT!
+  TOGRUTA_grappler: "Борец" #NT!
+  TOGRUTA_habatok: "Хабаток" #NT!
+  TOGRUTA_halifax: "Галифакс" #NT!
+  TOGRUTA_howlrunner: "Тоннельщик" #NT!
+  TOGRUTA_hyko: "Хайко" #NT!
+  TOGRUTA_intrepid: "Бестрепетный" #NT!
+  TOGRUTA_indefatigable: "Неутомимый" #NT!
+  TOGRUTA_vindicator: "Виндикатор" #NT!
+  TOGRUTA_blethyline: "Блетилин" #NT!
+  TOGRUTA_canoid: "Каноид" #NT!
+  TOGRUTA_banshee: "Банши" #NT!
+  TOGRUTA_victory: "Победа" #NT!
+  TOGRUTA_success: "Успех" #NT!
+  TOGRUTA_triumph: "Триумф" #NT!
+  TOGRUTA_titan: "Титан" #NT!
+  TOGRUTA_harrower: "Рассекатель" #NT!
+  TOGRUTA_raider: "Налетчик" #NT!
+  TOGRUTA_nebula: "Туманность" #NT!
+  TOGRUTA_dauntless: "Бесстрашный" #NT!
+  TOGRUTA_providence: "Провидение" #NT!
+  TOGRUTA_subjugator: "Покоритель" #NT!
+  TOGRUTA_conqueror: "Завоеватель" #NT!
+  TOGRUTA_crusader: "Крестоносец" #NT!
+  TOGRUTA_glory: "Слава" #NT!
+  TOGRUTA_immortal: "Бессмертный" #NT!
+  TOGRUTA_judicator: "Вершитель" #NT!
+  TOGRUTA_vanguard: "Авангард" #NT!
+  TOGRUTA_renown: "Признание" #NT!
+  TOGRUTA_demolisher: "Уничтожитель" #NT!
+  TOGRUTA_storm: "Шторм" #NT!
+  TOGRUTA_stormstrike: "Удар бури" #NT!
+  TOGRUTA_striker: "Ударный" #NT!
+  TOGRUTA_sundog: "Ложное солнце" #NT!
+  TOGRUTA_talon: "Коготь" #NT!
+  TOGRUTA_thrasher: "Молотильщик" #NT!
+  TOGRUTA_thunder: "Гром" #NT!
+  TOGRUTA_thunderstrike: "Раскат грома" #NT!
+  TOGRUTA_purrgil: "Пёрргил" #NT!
+  TOGRUTA_axehead: "Топороглав" #NT!
+  TOGRUTA_barloz: "Барлоз" #NT!
+  TOGRUTA_centurion: "Центурион" #NT!
+  TOGRUTA_pelta: "Пельта" #NT!
+  TOGRUTA_longbeam: "Длинный луч" #NT!
+  TOGRUTA_bulk: "Объёмный" #NT!
+  TOGRUTA_bursa: "Бурса" #NT!
+  TOGRUTA_bulwark: "Оплот" #NT!
+  TOGRUTA_invincible: "Неукротимый" #NT!
+  TOGRUTA_valor: "Доблесть" #NT!
+  TOGRUTA_hammer: "Молот" #NT!
+  TOGRUTA_sword: "Меч" #NT!
+  TOGRUTA_shield: "Щит" #NT!
+  TOGRUTA_brigand: "Разбойник" #NT!
+  TOGRUTA_praetorian: "Преторианец" #NT!
+  TOGRUTA_lictor: "Ликтор" #NT!
+  TOGRUTA_starlight: "Звёздный свет" #NT!
+  TOGRUTA_dreadnaught: "Дредноут" #NT!
+  TOGRUTA_vainglorious: "Тщеславный" #NT!
+  TOGRUTA_tarvix: "Тарвикс" #NT!
+  TOGRUTA_drexl: "Дрексл" #NT!
+  TOGRUTA_rothana: "Ротана" #NT!
+  TOGRUTA_balmorra: "Балморра" #NT!
+  TOGRUTA_lormar: "Лормар" #NT!
+  TOGRUTA_lupus: "Люпус" #NT!
+  TOGRUTA_onager: "Онагр" #NT!
+  TOGRUTA_pursuit: "Погоня" #NT!
+  TOGRUTA_bavos: "Бавос" #NT!
+  TOGRUTA_munifex: "Мунифекс" #NT!
+  TOGRUTA_mudhorn: "Грязерог" #NT!
+  TOGRUTA_gundark: "Гандарк" #NT!
+  TOGRUTA_servant: "Слуга" #NT!
+  TOGRUTA_servant_three: "Слуга-3" #NT!
+  TOGRUTA_helot: "Илот" #NT!
+  TOGRUTA_subjugated: "Покорённый" #NT!
+  TOGRUTA_useful: "Действенный" #NT!
+  TOGRUTA_alchemist: "Алхимик" #NT!
+  TOGRUTA_factorial: "Факториал" #NT!
+  TOGRUTA_beast_within: "Тихий омут" #NT!
+  TOGRUTA_slow_boil: "Вскипающий" #NT!
+  TOGRUTA_eternal_service: "Вечная служба" #NT!
+  TOGRUTA_attendant: "Сопровождающий" #NT!
+  TOGRUTA_steward: "Управляющий" #NT!
+  TOGRUTA_menial: "Лакей" #NT!
+  TOGRUTA_auxiliary: "Ауксиларий" #NT!
+  TOGRUTA_keeper: "Хранитель" #NT!
+  TOGRUTA_constr_aurek: "Конструктор «Аурек»" #NT!
+  TOGRUTA_constr_besh: "Конструктор «Беш»" #NT!
+  TOGRUTA_constr_cresh: "Конструктор «Креш»" #NT!
+  TOGRUTA_constr_dorn: "Конструктор «Дорн»" #NT!
+  TOGRUTA_constr_forn: "Конструктор «Форн»" #NT!
+  TOGRUTA_constr_grek: "Конструктор «Грек»" #NT!
+  TOGRUTA_constr_herf: "Конструктор «Херф»" #NT!
+  TOGRUTA_constr_isk: "Конструктор «Иск»" #NT!
+  TOGRUTA_constr_jenth: "Конструктор «Джент»" #NT!
+  TOGRUTA_constr_krill: "Конструктор «Крилл»" #NT!
+  TOGRUTA_constr_leth: "Конструктор «Лет»" #NT!
+  TOGRUTA_constr_mern: "Конструктор «Мерн»" #NT!
+  TOGRUTA_constr_nern: "Конструктор «Нерн»" #NT!
+  TOGRUTA_constr_osk: "Конструктор «Оск»" #NT!
+  TOGRUTA_constr_peth: "Конструктор «Пет»" #NT!
+  TOGRUTA_constr_senth: "Конструктор «Сент»" #NT!
+  TOGRUTA_constr_trill: "Конструктор «Трилл»" #NT!
+  TOGRUTA_constr_usk: "Конструктор «Уск»" #NT!
+  TOGRUTA_constr_vev: "Конструктор «Вев»" #NT!
+  TOGRUTA_constr_wesk: "Конструктор «Уэск»" #NT!
+  TOGRUTA_constr_xesh: "Конструктор «Зеш»" #NT!
+  TOGRUTA_constr_yirt: "Конструктор «Йирт»" #NT!
+  TOGRUTA_constr_zerek: "Конструктор «Зерек»" #NT!
+  TOGRUTA_constr_cherek: "Конструктор «Черек»" #NT!
+  TOGRUTA_constr_qek: "Конструктор «Кек»" #NT!
+  TOGRUTA_constr_resh: "Конструктор «Реш»" #NT!
+  TOGRUTA_constr_enth: "Конструктор «Энт»" #NT!
+  TOGRUTA_constr_onith: "Конструктор «Онит»" #NT!
+  TOGRUTA_constr_krenth: "Конструктор «Крент»" #NT!
+  TOGRUTA_constr_nen: "Конструктор «Нен»" #NT!
+  TOGRUTA_constr_orenth: "Конструктор «Орент»" #NT!
+  TOGRUTA_constr_shen: "Конструктор «Шен»" #NT!
+  TOGRUTA_constr_thesh: "Конструктор «Теш»" #NT!
+  TOGRUTA_FLEET_SEQUENTIAL_togruta_defense_fleet: "$ORD$ Togruta Defense Fleet" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_togruta_planetary_guard: "$ORD$ Togruta Planetary Guard" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_togruta_infantry_company: "$ORD$ Togruta Infantry Company" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  TOGRUTA_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard" #NT!
+  TOGRUTA_CHR_asher: "Asher" #NT!
+  TOGRUTA_CHR_asaak: "Asaak" #NT!
+  TOGRUTA_CHR_buryn: "Buryn" #NT!
+  TOGRUTA_CHR_codi: "Codi" #NT!
+  TOGRUTA_CHR_dejan: "Dejan" #NT!
+  TOGRUTA_CHR_dynaroth: "Dynaroth" #NT!
+  TOGRUTA_CHR_galway: "Galway" #NT!
+  TOGRUTA_CHR_garon: "Garon" #NT!
+  TOGRUTA_CHR_gupat: "Gupat" #NT!
+  TOGRUTA_CHR_jari: "Jari" #NT!
+  TOGRUTA_CHR_jordan: "Jordan" #NT!
+  TOGRUTA_CHR_juran: "Juran" #NT!
+  TOGRUTA_CHR_kalatosh: "Kalatosh" #NT!
+  TOGRUTA_CHR_koru: "Koru" #NT!
+  TOGRUTA_CHR_lodish: "Lodish" #NT!
+  TOGRUTA_CHR_meldo: "Meldo" #NT!
+  TOGRUTA_CHR_moebin: "Moebin" #NT!
+  TOGRUTA_CHR_ralon: "Ralon" #NT!
+  TOGRUTA_CHR_rolend: "Rolend" #NT!
+  TOGRUTA_CHR_roshti: "Roshti" #NT!
+  TOGRUTA_CHR_sarmuk: "Sarmuk" #NT!
+  TOGRUTA_CHR_selda: "Selda" #NT!
+  TOGRUTA_CHR_skohani: "Skohani" #NT!
+  TOGRUTA_CHR_torhaa: "Torhaa" #NT!
+  TOGRUTA_CHR_tuktee: "Tuktee" #NT!
+  TOGRUTA_CHR_neelo: "Neelo" #NT!
+  TOGRUTA_CHR_skahvi: "Skahvi" #NT!
+  TOGRUTA_CHR_achitan: "Achitan" #NT!
+  TOGRUTA_CHR_alie: "Alie" #NT!
+  TOGRUTA_CHR_ashara: "Ashara" #NT!
+  TOGRUTA_CHR_ashla: "Ashla" #NT!
+  TOGRUTA_CHR_audila: "Audila" #NT!
+  TOGRUTA_CHR_auxi: "Auxi" #NT!
+  TOGRUTA_CHR_bela: "Bela" #NT!
+  TOGRUTA_CHR_carshotta: "Carshotta" #NT!
+  TOGRUTA_CHR_dar_nala: "Dar'Nala" #NT!
+  TOGRUTA_CHR_deran: "Deran" #NT!
+  TOGRUTA_CHR_ellin: "Ellin" #NT!
+  TOGRUTA_CHR_hellena: "Hellena" #NT!
+  TOGRUTA_CHR_kalda: "Kalda" #NT!
+  TOGRUTA_CHR_kaveri: "Kaveri" #NT!
+  TOGRUTA_CHR_kasuni: "Kasuni" #NT!
+  TOGRUTA_CHR_niriian: "Niriian" #NT!
+  TOGRUTA_CHR_palla: "Palla" #NT!
+  TOGRUTA_CHR_raana: "Raana" #NT!
+  TOGRUTA_CHR_ryssa: "Ryssa" #NT!
+  TOGRUTA_CHR_shaak: "Shaak" #NT!
+  TOGRUTA_CHR_sheel: "Sheel" #NT!
+  TOGRUTA_CHR_shi_fara: "Shi-Fara" #NT!
+  TOGRUTA_CHR_sumalee: "Sumalee" #NT!
+  TOGRUTA_CHR_synoda: "Synoda" #NT!
+  TOGRUTA_CHR_vaash: "Vaash" #NT!
+  TOGRUTA_CHR_yanila: "Yanila" #NT!
+  TOGRUTA_CHR_yelto: "Yelto" #NT!
+  TOGRUTA_CHR_zaa: "Zaa" #NT!
+  TOGRUTA_CHR_viv_nia: "Viv'nia" #NT!
+  TOGRUTA_CHR_elarec: "Elarec" #NT!
+  TOGRUTA_CHR_rawlson: "Rawlson" #NT!
+  TOGRUTA_CHR_jora: "Jora" #NT!
+  TOGRUTA_CHR_biss: "Biss" #NT!
+  TOGRUTA_CHR_borm: "Borm" #NT!
+  TOGRUTA_CHR_bourke: "Bourke" #NT!
+  TOGRUTA_CHR_dan: "Dan" #NT!
+  TOGRUTA_CHR_faltus: "Faltus" #NT!
+  TOGRUTA_CHR_karls: "Karls" #NT!
+  TOGRUTA_CHR_kiwiiks: "Kiwiiks" #NT!
+  TOGRUTA_CHR_korbin: "Korbin" #NT!
+  TOGRUTA_CHR_kray: "Kray" #NT!
+  TOGRUTA_CHR_lah: "Lah" #NT!
+  TOGRUTA_CHR_mafeen: "Mafeen" #NT!
+  TOGRUTA_CHR_mazlin: "Mazlin" #NT!
+  TOGRUTA_CHR_nalual: "Nalual" #NT!
+  TOGRUTA_CHR_nys: "Nys" #NT!
+  TOGRUTA_CHR_phaa: "Phaa" #NT!
+  TOGRUTA_CHR_ra: "Ra" #NT!
+  TOGRUTA_CHR_reb: "Reb" #NT!
+  TOGRUTA_CHR_ren: "Ren" #NT!
+  TOGRUTA_CHR_tano: "Tano" #NT!
+  TOGRUTA_CHR_tama: "Tama" #NT!
+  TOGRUTA_CHR_tamm: "Tamm" #NT!
+  TOGRUTA_CHR_tey: "Tey" #NT!
+  TOGRUTA_CHR_ti: "Ti" #NT!
+  TOGRUTA_CHR_ty: "Ty" #NT!
+  TOGRUTA_CHR_vashee: "Vashee" #NT!
+  TOGRUTA_CHR_zavros: "Zavros" #NT!
+  TOGRUTA_CHR_yovet: "Yovet" #NT!
+  TOGRUTA_CHR_yun: "Yun" #NT!
+  TOGRUTA_CHR_jadeonar: "Jadeonar" #NT!
+  TOGRUTA_CHR_malli: "Malli" #NT!
+  TOGRUTA_CHR_renlow: "Renlow" #NT!

@@ -1,203 +1,203 @@
 ﻿l_russian:
- UNKNOWN_unbroken: "Unbroken"
- UNKNOWN_scavenger: "Scavenger"
- UNKNOWN_sarcophagus: "Sarcophagus"
- UNKNOWN_marauder: "Marauder"
- UNKNOWN_rat_grub: "Rat-grub"
- UNKNOWN_ixigul: "Ixigul"
- UNKNOWN_immortal: "Immortal"
- UNKNOWN_summa_verminoth: "Summa-verminoth"
- UNKNOWN_exogorth: "Exogorth"
- UNKNOWN_purrgil: "Purrgil"
- UNKNOWN_neebray: "Neebray"
- UNKNOWN_mynock: "Mynock"
- UNKNOWN_barri: "Barri"
- UNKNOWN_gralloc: "Gralloc"
- UNKNOWN_grutchin: "Grutchin"
- UNKNOWN_oswaft: "Oswaft"
- UNKNOWN_ridadi: "Ridadi"
- UNKNOWN_scree: "Scree"
- UNKNOWN_space_grazer: "Space Grazer"
- UNKNOWN_stillsail: "Stillsail"
- UNKNOWN_p_w_eck: "P'w'eck"
- UNKNOWN_frondtrailer: "Frondtrailer"
- UNKNOWN_wharlithan: "Wharlithan"
- UNKNOWN_thala_siren: "Thala-siren"
- UNKNOWN_gizka: "Gizka"
- UNKNOWN_rancor: "Rancor"
- UNKNOWN_squeep: "Squeep"
- UNKNOWN_skinwolf: "Skinwolf"
- UNKNOWN_claw: "Claw"
- UNKNOWN_scyre: "Scyre"
- UNKNOWN_nautilus: "Nautilus"
- UNKNOWN_dead_lands: "Dead Lands"
- UNKNOWN_reen: "O'reen"
- UNKNOWN_croke: "Croke"
- UNKNOWN_crakull: "Crakull"
- UNKNOWN_mulita: "Mulita"
- UNKNOWN_mawvorr: "Mawvorr"
- UNKNOWN_wingmaws: "Wingmaws"
- UNKNOWN_iknayid: "Iknayid"
- UNKNOWN_sleen: "Sleen"
- UNKNOWN_jurgoran: "Jurgoran"
- UNKNOWN_cratsch: "Cratsch"
- UNKNOWN_chaos: "Chaos"
- UNKNOWN_constr_aurek: "Constructor Aurek"
- UNKNOWN_constr_besh: "Constructor Besh"
- UNKNOWN_constr_cresh: "Constructor Cresh"
- UNKNOWN_constr_dorn: "Constructor Dorn"
- UNKNOWN_constr_forn: "Constructor Forn"
- UNKNOWN_constr_grek: "Constructor Grek"
- UNKNOWN_constr_herf: "Constructor Herf"
- UNKNOWN_constr_isk: "Constructor Isk"
- UNKNOWN_constr_jenth: "Constructor Jenth"
- UNKNOWN_constr_krill: "Constructor Krill"
- UNKNOWN_constr_leth: "Constructor Leth"
- UNKNOWN_constr_mern: "Constructor Mern"
- UNKNOWN_constr_nern: "Constructor Nern"
- UNKNOWN_constr_osk: "Constructor Osk"
- UNKNOWN_constr_peth: "Constructor Peth"
- UNKNOWN_constr_senth: "Constructor Senth"
- UNKNOWN_constr_trill: "Constructor Trill"
- UNKNOWN_constr_usk: "Constructor Usk"
- UNKNOWN_constr_vev: "Constructor Vev"
- UNKNOWN_constr_wesk: "Constructor Wesk"
- UNKNOWN_constr_xesh: "Constructor Xesh"
- UNKNOWN_constr_yirt: "Constructor Yirt"
- UNKNOWN_constr_zerek: "Constructor Zerek"
- UNKNOWN_constr_cherek: "Constructor Cherek"
- UNKNOWN_constr_qek: "Constructor Qek"
- UNKNOWN_constr_resh: "Constructor Resh"
- UNKNOWN_constr_enth: "Constructor Enth"
- UNKNOWN_constr_onith: "Constructor Onith"
- UNKNOWN_constr_krenth: "Constructor Krenth"
- UNKNOWN_constr_nen: "Constructor Nen"
- UNKNOWN_constr_orenth: "Constructor Orenth"
- UNKNOWN_constr_shen: "Constructor Shen"
- UNKNOWN_constr_thesh: "Constructor Thesh"
- UNKNOWN_FLEET_strike_force_aurek: "Strike Force Aurek"
- UNKNOWN_FLEET_strike_force_besh: "Strike Force Besh"
- UNKNOWN_FLEET_strike_force_cresh: "Strike Force Cresh"
- UNKNOWN_FLEET_strike_force_dorn: "Strike Force Dorn"
- UNKNOWN_FLEET_strike_force_forn: "Strike Force Forn"
- UNKNOWN_FLEET_strike_force_grek: "Strike Force Grek"
- UNKNOWN_FLEET_strike_force_herf: "Strike Force Herf"
- UNKNOWN_FLEET_strike_force_isk: "Strike Force Isk"
- UNKNOWN_FLEET_strike_force_jenth: "Strike Force Jenth"
- UNKNOWN_FLEET_strike_force_krill: "Strike Force Krill"
- UNKNOWN_FLEET_strike_force_leth: "Strike Force Leth"
- UNKNOWN_FLEET_strike_force_mern: "Strike Force Mern"
- UNKNOWN_FLEET_strike_force_nern: "Strike Force Nern"
- UNKNOWN_FLEET_strike_force_osk: "Strike Force Osk"
- UNKNOWN_FLEET_strike_force_peth: "Strike Force Peth"
- UNKNOWN_FLEET_strike_force_senth: "Strike Force Senth"
- UNKNOWN_FLEET_strike_force_trill: "Strike Force Trill"
- UNKNOWN_FLEET_strike_force_usk: "Strike Force Usk"
- UNKNOWN_FLEET_strike_force_vev: "Strike Force Vev"
- UNKNOWN_FLEET_strike_force_wesk: "Strike Force Wesk"
- UNKNOWN_FLEET_strike_force_xesh: "Strike Force Xesh"
- UNKNOWN_FLEET_strike_force_yirt: "Strike Force Yirt"
- UNKNOWN_FLEET_strike_force_zerek: "Strike Force Zerek"
- UNKNOWN_FLEET_strike_force_cherek: "Strike Force Cherek"
- UNKNOWN_FLEET_strike_force_qek: "Strike Force Qek"
- UNKNOWN_FLEET_strike_force_resh: "Strike Force Resh"
- UNKNOWN_FLEET_strike_force_enth: "Strike Force Enth"
- UNKNOWN_FLEET_strike_force_onith: "Strike Force Onith"
- UNKNOWN_FLEET_strike_force_krenth: "Strike Force Krenth"
- UNKNOWN_FLEET_strike_force_nen: "Strike Force Nen"
- UNKNOWN_FLEET_strike_force_orenth: "Strike Force Orenth"
- UNKNOWN_FLEET_strike_force_shen: "Strike Force Shen"
- UNKNOWN_FLEET_strike_force_thesh: "Strike Force Thesh"
- UNKNOWN_FLEET_SEQUENTIAL_defense_fleet: "$ORD$ Defense Fleet"
- UNKNOWN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard"
- UNKNOWN_ARMY_SEQUENTIAL_infantry_company: "$ORD$ Infantry Company"
- UNKNOWN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- UNKNOWN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- UNKNOWN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- UNKNOWN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- UNKNOWN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- UNKNOWN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- UNKNOWN_CHR_elshuu: "Elshuu"
- UNKNOWN_CHR_failsafe: "Failsafe"
- UNKNOWN_CHR_garn: "Garn"
- UNKNOWN_CHR_gjarshi: "Gjarshi"
- UNKNOWN_CHR_gorshaa: "Gorshaa"
- UNKNOWN_CHR_lhunu: "Lhunu"
- UNKNOWN_CHR_ll_awa: "Ll'awa"
- UNKNOWN_CHR_luo: "Luo"
- UNKNOWN_CHR_rehkta: "Rehkta"
- UNKNOWN_CHR_skal_nas: "Skal'nas"
- UNKNOWN_CHR_soa: "Soa"
- UNKNOWN_CHR_tul_kar: "Tul'kar"
- UNKNOWN_CHR_ceh_let: "Ceh'let"
- UNKNOWN_CHR_ore_mun: "Ore'mun"
- UNKNOWN_CHR_tulpaa: "Tulpaa"
- UNKNOWN_CHR_bukesek: "Bukesek"
- UNKNOWN_CHR_droot: "Droot"
- UNKNOWN_CHR_ikalik: "Ikalik"
- UNKNOWN_CHR_bearsh: "Bearsh"
- UNKNOWN_CHR_estosh: "Estosh"
- UNKNOWN_CHR_purpsh: "Purpsh"
- UNKNOWN_CHR_taikotelai: "Taikotelai"
- UNKNOWN_CHR_ton: "Ton"
- UNKNOWN_CHR_hol: "Hol"
- UNKNOWN_CHR_kor: "Kor"
- UNKNOWN_CHR_vor: "Vor"
- UNKNOWN_CHR_gharn: "Gharn"
- UNKNOWN_CHR_mendo: "Mendo"
- UNKNOWN_CHR_ozrei: "Ozrei"
- UNKNOWN_CHR_rei: "Rei"
- UNKNOWN_CHR_harmon: "Harmon"
- UNKNOWN_CHR_den: "Den"
- UNKNOWN_CHR_lusubrin: "Lusubrin"
- UNKNOWN_CHR_brin: "Brin"
- UNKNOWN_CHR_taru: "Taru"
- UNKNOWN_CHR_kruskob: "Kruskob"
- UNKNOWN_CHR_dal: "Dal"
- UNKNOWN_CHR_bargthron: "Bargthron"
- UNKNOWN_CHR_sereno: "Sereno"
- UNKNOWN_CHR_miskara: "Miskara"
- UNKNOWN_CHR_krai: "Krai"
- UNKNOWN_CHR_cyn: "Cyn"
- UNKNOWN_CHR_akikoma: "Akikoma"
- UNKNOWN_CHR_arashai: "Arashai"
- UNKNOWN_CHR_b_shaki: "B'shaki"
- UNKNOWN_CHR_essen: "Essen"
- UNKNOWN_CHR_h_voc: "H'voc"
- UNKNOWN_CHR_jodu: "Jodu"
- UNKNOWN_CHR_n_takkilomandrife: "N'takkilomandrife"
- UNKNOWN_CHR_sho: "Sho"
- UNKNOWN_CHR_siva: "Siva"
- UNKNOWN_CHR_t_shkali: "T'shkali"
- UNKNOWN_CHR_tiltanka: "Tiltanka"
- UNKNOWN_CHR_zorfenn: "Zorfenn"
- UNKNOWN_CHR_firwirrung: "Firwirrung"
- UNKNOWN_CHR_ivpikkis: "Ivpikkis"
- UNKNOWN_CHR_ptellung: "Ptellung"
- UNKNOWN_CHR_sh_tk_ith: "Sh'tk'ith"
- UNKNOWN_CHR_skar_lak: "Skar'lak"
- UNKNOWN_CHR_yifaii: "Yifaii"
- UNKNOWN_CHR_th_twirirl: "Th'twirirl"
- UNKNOWN_CHR_ss_laath: "Ss'laath"
- UNKNOWN_CHR_yiv: "Yiv"
- UNKNOWN_CHR_nuso: "Nuso"
- UNKNOWN_CHR_jixtus: "Jixtus"
- UNKNOWN_CHR_uingali: "Uingali"
- UNKNOWN_CHR_haplif: "Haplif"
- UNKNOWN_CHR_frosif: "Frosif"
- UNKNOWN_CHR_shimkif: "Shimkif"
- UNKNOWN_CHR_foar_marocsaa: "foar Marocsaa"
- UNKNOWN_CHR_esva: "Esva"
- UNKNOWN_CHR_auk: "Auk"
- UNKNOWN_CHR_corm: "Corm"
- UNKNOWN_CHR_grebe: "Grebe"
- UNKNOWN_CHR_hesper: "Hesper"
- UNKNOWN_CHR_alcida: "Alcida"
- UNKNOWN_CHR_terna: "Terna"
- UNKNOWN_CHR_u_rum: "U'rum"
- UNKNOWN_CHR_auka: "Auka"
- UNKNOWN_CHR_waimanu: "Waimanu"
- UNKNOWN_CHR_kairuku: "Kairuku"
- UNKNOWN_CHR_korora: "Korora"
- UNKNOWN_CHR_inguza: "Inguza"
- UNKNOWN_CHR_gentu: "Gentu"
+  UNKNOWN_unbroken: "Несломленный" #NT!
+  UNKNOWN_scavenger: "Мусорщик" #NT!
+  UNKNOWN_sarcophagus: "Саркофаг" #NT!
+  UNKNOWN_marauder: "Мародёр" #NT!
+  UNKNOWN_rat_grub: "Рат-хват" #NT!
+  UNKNOWN_ixigul: "Икзигул" #NT!
+  UNKNOWN_immortal: "Бессмертный" #NT!
+  UNKNOWN_summa_verminoth: "Самма-верминот" #NT!
+  UNKNOWN_exogorth: "Экзогорт" #NT!
+  UNKNOWN_purrgil: "Пёрргил" #NT!
+  UNKNOWN_neebray: "Нибрай" #NT!
+  UNKNOWN_mynock: "Майнок" #NT!
+  UNKNOWN_barri: "Барри" #NT!
+  UNKNOWN_gralloc: "Граллок" #NT!
+  UNKNOWN_grutchin: "Гратчин" #NT!
+  UNKNOWN_oswaft: "Освафт" #NT!
+  UNKNOWN_ridadi: "Ридади" #NT!
+  UNKNOWN_scree: "Скри" #NT!
+  UNKNOWN_space_grazer: "Космический пожиратель" #NT!
+  UNKNOWN_stillsail: "Плавучий парус" #NT!
+  UNKNOWN_p_w_eck: "П'в'ек" #NT!
+  UNKNOWN_frondtrailer: "Frondtrailer" #NT!
+  UNKNOWN_wharlithan: "Wharlithan" #NT!
+  UNKNOWN_thala_siren: "Thala-siren" #NT!
+  UNKNOWN_gizka: "Гизка" #NT!
+  UNKNOWN_rancor: "Ранкор" #NT!
+  UNKNOWN_squeep: "Squeep" #NT!
+  UNKNOWN_skinwolf: "Skinwolf" #NT!
+  UNKNOWN_claw: "Коготь" #NT!
+  UNKNOWN_scyre: "Scyre" #NT!
+  UNKNOWN_nautilus: "Наутилус" #NT!
+  UNKNOWN_dead_lands: "Мёртвые Земли" #NT!
+  UNKNOWN_reen: "О'рин" #NT!
+  UNKNOWN_croke: "Кроук" #NT!
+  UNKNOWN_crakull: "Гарн" #NT!
+  UNKNOWN_mulita: "Мулита" #NT!
+  UNKNOWN_mawvorr: "Пастеворр" #NT!
+  UNKNOWN_wingmaws: "Крыльепасти" #NT!
+  UNKNOWN_iknayid: "Икнаид" #NT!
+  UNKNOWN_sleen: "Слин" #NT!
+  UNKNOWN_jurgoran: "Джаргоран" #NT!
+  UNKNOWN_cratsch: "Кратсч" #NT!
+  UNKNOWN_chaos: "Хаос" #NT!
+  UNKNOWN_constr_aurek: "Конструктор «Аурек»" #NT!
+  UNKNOWN_constr_besh: "Конструктор «Беш»" #NT!
+  UNKNOWN_constr_cresh: "Конструктор «Креш»" #NT!
+  UNKNOWN_constr_dorn: "Конструктор «Дорн»" #NT!
+  UNKNOWN_constr_forn: "Конструктор «Форн»" #NT!
+  UNKNOWN_constr_grek: "Конструктор «Грек»" #NT!
+  UNKNOWN_constr_herf: "Конструктор «Херф»" #NT!
+  UNKNOWN_constr_isk: "Конструктор «Иск»" #NT!
+  UNKNOWN_constr_jenth: "Конструктор «Джент»" #NT!
+  UNKNOWN_constr_krill: "Конструктор «Крилл»" #NT!
+  UNKNOWN_constr_leth: "Конструктор «Лет»" #NT!
+  UNKNOWN_constr_mern: "Конструктор «Мерн»" #NT!
+  UNKNOWN_constr_nern: "Конструктор «Нерн»" #NT!
+  UNKNOWN_constr_osk: "Конструктор «Оск»" #NT!
+  UNKNOWN_constr_peth: "Конструктор «Пет»" #NT!
+  UNKNOWN_constr_senth: "Конструктор «Сент»" #NT!
+  UNKNOWN_constr_trill: "Конструктор «Трилл»" #NT!
+  UNKNOWN_constr_usk: "Конструктор «Уск»" #NT!
+  UNKNOWN_constr_vev: "Конструктор «Вев»" #NT!
+  UNKNOWN_constr_wesk: "Конструктор «Уэск»" #NT!
+  UNKNOWN_constr_xesh: "Конструктор «Зеш»" #NT!
+  UNKNOWN_constr_yirt: "Конструктор «Йирт»" #NT!
+  UNKNOWN_constr_zerek: "Конструктор «Зерек»" #NT!
+  UNKNOWN_constr_cherek: "Конструктор «Черек»" #NT!
+  UNKNOWN_constr_qek: "Конструктор «Кек»" #NT!
+  UNKNOWN_constr_resh: "Конструктор «Реш»" #NT!
+  UNKNOWN_constr_enth: "Конструктор «Энт»" #NT!
+  UNKNOWN_constr_onith: "Конструктор «Онит»" #NT!
+  UNKNOWN_constr_krenth: "Конструктор «Крент»" #NT!
+  UNKNOWN_constr_nen: "Конструктор «Нен»" #NT!
+  UNKNOWN_constr_orenth: "Конструктор «Орент»" #NT!
+  UNKNOWN_constr_shen: "Конструктор «Шен»" #NT!
+  UNKNOWN_constr_thesh: "Конструктор «Теш»" #NT!
+  UNKNOWN_FLEET_strike_force_aurek: "Ударная группа «Аурек»" #NT!
+  UNKNOWN_FLEET_strike_force_besh: "Ударная группа «Беш»" #NT!
+  UNKNOWN_FLEET_strike_force_cresh: "Ударная группа «Креш»" #NT!
+  UNKNOWN_FLEET_strike_force_dorn: "Ударная группа «Дорн»" #NT!
+  UNKNOWN_FLEET_strike_force_forn: "Ударная группа «Форн»" #NT!
+  UNKNOWN_FLEET_strike_force_grek: "Ударная группа «Грек»" #NT!
+  UNKNOWN_FLEET_strike_force_herf: "Ударная группа «Херф»" #NT!
+  UNKNOWN_FLEET_strike_force_isk: "Ударная группа «Иск»" #NT!
+  UNKNOWN_FLEET_strike_force_jenth: "Ударная группа «Джент»" #NT!
+  UNKNOWN_FLEET_strike_force_krill: "Ударная группа «Крилл»" #NT!
+  UNKNOWN_FLEET_strike_force_leth: "Ударная группа «Лет»" #NT!
+  UNKNOWN_FLEET_strike_force_mern: "Ударная группа «Мерн»" #NT!
+  UNKNOWN_FLEET_strike_force_nern: "Ударная группа «Нерн»" #NT!
+  UNKNOWN_FLEET_strike_force_osk: "Ударная группа «Оск»" #NT!
+  UNKNOWN_FLEET_strike_force_peth: "Ударная группа «Пет»" #NT!
+  UNKNOWN_FLEET_strike_force_senth: "Ударная группа «Сент»" #NT!
+  UNKNOWN_FLEET_strike_force_trill: "Ударная группа «Трилл»" #NT!
+  UNKNOWN_FLEET_strike_force_usk: "Ударная группа «Уск»" #NT!
+  UNKNOWN_FLEET_strike_force_vev: "Ударная группа «Вев»" #NT!
+  UNKNOWN_FLEET_strike_force_wesk: "Ударная группа «Уэск»" #NT!
+  UNKNOWN_FLEET_strike_force_xesh: "Ударная группа «Зеш»" #NT!
+  UNKNOWN_FLEET_strike_force_yirt: "Ударная группа «Йирт»" #NT!
+  UNKNOWN_FLEET_strike_force_zerek: "Ударная группа «Зерек»" #NT!
+  UNKNOWN_FLEET_strike_force_cherek: "Ударная группа «Черек»" #NT!
+  UNKNOWN_FLEET_strike_force_qek: "Ударная группа «Кек»" #NT!
+  UNKNOWN_FLEET_strike_force_resh: "Ударная группа «Реш»" #NT!
+  UNKNOWN_FLEET_strike_force_enth: "Ударная группа «Энт»" #NT!
+  UNKNOWN_FLEET_strike_force_onith: "Ударная группа «Онит»" #NT!
+  UNKNOWN_FLEET_strike_force_krenth: "Ударная группа «Крент»" #NT!
+  UNKNOWN_FLEET_strike_force_nen: "Ударная группа «Нен»" #NT!
+  UNKNOWN_FLEET_strike_force_orenth: "Ударная группа «Орент»" #NT!
+  UNKNOWN_FLEET_strike_force_shen: "Ударная группа «Шен»" #NT!
+  UNKNOWN_FLEET_strike_force_thesh: "Ударная группа «Теш»" #NT!
+  UNKNOWN_FLEET_SEQUENTIAL_defense_fleet: "$ORD$ Defense Fleet" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_infantry_company: "$ORD$ Infantry Company" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  UNKNOWN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard" #NT!
+  UNKNOWN_CHR_elshuu: "Elshuu" #NT!
+  UNKNOWN_CHR_failsafe: "Failsafe" #NT!
+  UNKNOWN_CHR_garn: "Garn" #NT!
+  UNKNOWN_CHR_gjarshi: "Gjarshi" #NT!
+  UNKNOWN_CHR_gorshaa: "Gorshaa" #NT!
+  UNKNOWN_CHR_lhunu: "Lhunu" #NT!
+  UNKNOWN_CHR_ll_awa: "Ll'awa" #NT!
+  UNKNOWN_CHR_luo: "Luo" #NT!
+  UNKNOWN_CHR_rehkta: "Rehkta" #NT!
+  UNKNOWN_CHR_skal_nas: "Skal'nas" #NT!
+  UNKNOWN_CHR_soa: "Soa" #NT!
+  UNKNOWN_CHR_tul_kar: "Tul'kar" #NT!
+  UNKNOWN_CHR_ceh_let: "Ceh'let" #NT!
+  UNKNOWN_CHR_ore_mun: "Ore'mun" #NT!
+  UNKNOWN_CHR_tulpaa: "Tulpaa" #NT!
+  UNKNOWN_CHR_bukesek: "Bukesek" #NT!
+  UNKNOWN_CHR_droot: "Droot" #NT!
+  UNKNOWN_CHR_ikalik: "Ikalik" #NT!
+  UNKNOWN_CHR_bearsh: "Bearsh" #NT!
+  UNKNOWN_CHR_estosh: "Estosh" #NT!
+  UNKNOWN_CHR_purpsh: "Purpsh" #NT!
+  UNKNOWN_CHR_taikotelai: "Taikotelai" #NT!
+  UNKNOWN_CHR_ton: "Ton" #NT!
+  UNKNOWN_CHR_hol: "Hol" #NT!
+  UNKNOWN_CHR_kor: "Kor" #NT!
+  UNKNOWN_CHR_vor: "Vor" #NT!
+  UNKNOWN_CHR_gharn: "Gharn" #NT!
+  UNKNOWN_CHR_mendo: "Mendo" #NT!
+  UNKNOWN_CHR_ozrei: "Ozrei" #NT!
+  UNKNOWN_CHR_rei: "Рей" #NT!
+  UNKNOWN_CHR_harmon: "Хармон" #NT!
+  UNKNOWN_CHR_den: "Дэн" #NT!
+  UNKNOWN_CHR_lusubrin: "Лусубрин" #NT!
+  UNKNOWN_CHR_brin: "Брин" #NT!
+  UNKNOWN_CHR_taru: "Taru" #NT!
+  UNKNOWN_CHR_kruskob: "Kruskob" #NT!
+  UNKNOWN_CHR_dal: "Dal" #NT!
+  UNKNOWN_CHR_bargthron: "Bargthron" #NT!
+  UNKNOWN_CHR_sereno: "Sereno" #NT!
+  UNKNOWN_CHR_miskara: "Miskara" #NT!
+  UNKNOWN_CHR_krai: "Krai" #NT!
+  UNKNOWN_CHR_cyn: "Cyn" #NT!
+  UNKNOWN_CHR_akikoma: "Akikoma" #NT!
+  UNKNOWN_CHR_arashai: "Arashai" #NT!
+  UNKNOWN_CHR_b_shaki: "B'shaki" #NT!
+  UNKNOWN_CHR_essen: "Essen" #NT!
+  UNKNOWN_CHR_h_voc: "H'voc" #NT!
+  UNKNOWN_CHR_jodu: "Jodu" #NT!
+  UNKNOWN_CHR_n_takkilomandrife: "N'takkilomandrife" #NT!
+  UNKNOWN_CHR_sho: "Sho" #NT!
+  UNKNOWN_CHR_siva: "Siva" #NT!
+  UNKNOWN_CHR_t_shkali: "T'shkali" #NT!
+  UNKNOWN_CHR_tiltanka: "Tiltanka" #NT!
+  UNKNOWN_CHR_zorfenn: "Zorfenn" #NT!
+  UNKNOWN_CHR_firwirrung: "Firwirrung" #NT!
+  UNKNOWN_CHR_ivpikkis: "Ivpikkis" #NT!
+  UNKNOWN_CHR_ptellung: "Ptellung" #NT!
+  UNKNOWN_CHR_sh_tk_ith: "Sh'tk'ith" #NT!
+  UNKNOWN_CHR_skar_lak: "Skar'lak" #NT!
+  UNKNOWN_CHR_yifaii: "Yifaii" #NT!
+  UNKNOWN_CHR_th_twirirl: "Th'twirirl" #NT!
+  UNKNOWN_CHR_ss_laath: "Ss'laath" #NT!
+  UNKNOWN_CHR_yiv: "Yiv" #NT!
+  UNKNOWN_CHR_nuso: "Nuso" #NT!
+  UNKNOWN_CHR_jixtus: "Jixtus" #NT!
+  UNKNOWN_CHR_uingali: "Uingali" #NT!
+  UNKNOWN_CHR_haplif: "Haplif" #NT!
+  UNKNOWN_CHR_frosif: "Frosif" #NT!
+  UNKNOWN_CHR_shimkif: "Shimkif" #NT!
+  UNKNOWN_CHR_foar_marocsaa: "foar Marocsaa" #NT!
+  UNKNOWN_CHR_esva: "Esva" #NT!
+  UNKNOWN_CHR_auk: "Auk" #NT!
+  UNKNOWN_CHR_corm: "Corm" #NT!
+  UNKNOWN_CHR_grebe: "Grebe" #NT!
+  UNKNOWN_CHR_hesper: "Hesper" #NT!
+  UNKNOWN_CHR_alcida: "Alcida" #NT!
+  UNKNOWN_CHR_terna: "Terna" #NT!
+  UNKNOWN_CHR_u_rum: "U'rum" #NT!
+  UNKNOWN_CHR_auka: "Auka" #NT!
+  UNKNOWN_CHR_waimanu: "Waimanu" #NT!
+  UNKNOWN_CHR_kairuku: "Kairuku" #NT!
+  UNKNOWN_CHR_korora: "Korora" #NT!
+  UNKNOWN_CHR_inguza: "Inguza" #NT!
+  UNKNOWN_CHR_gentu: "Gentu" #NT!

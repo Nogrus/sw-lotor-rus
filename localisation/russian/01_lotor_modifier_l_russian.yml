@@ -1,372 +1,372 @@
 ﻿l_russian:
 
-### ONLY MODIFIERS
+### ONLY MODIFIERS #NT!
 
- mod_leaders_unity_cost_mult: "Leaders £unity£ §YUnity§! Cost: $VALUE|=2%-$"
- mod_leaders_unity_upkeep_mult: "Leaders £unity£ §YUnity§! Upkeep: $VALUE|=2%-$"
+ mod_leaders_unity_cost_mult: "Leaders £unity£ §YUnity§! Cost: $VALUE|=2%-$" #NT!
+ mod_leaders_unity_upkeep_mult: "Leaders £unity£ §YUnity§! Upkeep: $VALUE|=2%-$" #NT!
 
- mod_pop_ethic_fanatic_militarist_attraction_mult: "Fanatic Militarist Ethics Attraction"
+ mod_pop_ethic_fanatic_militarist_attraction_mult: "Fanatic Militarist Ethics Attraction" #NT!
 
-# Job Modifier
- mod_planet_soldiers_produces_mult: "£job_soldier£ $job_soldier_plural$ Output"
- mod_planet_branch_offices_influence_cost_mult: "$BRANCH_OFFICE$ £influence£ $influence$ cost"
+# Job Modifier #NT!
+ mod_planet_soldiers_produces_mult: "£job_soldier£ $job_soldier_plural$ Output" #NT!
+ mod_planet_branch_offices_influence_cost_mult: "$BRANCH_OFFICE$ £influence£ $influence$ cost" #NT!
 
- mod_planet_jobs_crew_produces_mult: "£crew£ $crew$ from £job£ Jobs"
- mod_planet_jobs_sr_heavy_alloys_produces_mult: "£sr_heavy_alloys£ $sr_heavy_alloys$ from £job£ Jobs"
- mod_planet_jobs_fuel_produces_mult: "£fuel£ $fuel$ from £job£ Jobs"
- mod_planet_jobs_sr_spice_produces_mult: "£sr_spice£ $sr_spice$ from £job£ Jobs"
- mod_planet_jobs_sr_meds_produces_mult: "£sr_meds£ $sr_meds$ from £job£ Jobs"
- mod_planet_jobs_simple_drone_food_produces_mult: "£food£ $food$ from £job£ Jobs"
+ mod_planet_jobs_crew_produces_mult: "£crew£ $crew$ from £job£ Jobs" #NT!
+ mod_planet_jobs_sr_heavy_alloys_produces_mult: "£sr_heavy_alloys£ $sr_heavy_alloys$ from £job£ Jobs" #NT!
+ mod_planet_jobs_fuel_produces_mult: "£fuel£ $fuel$ from £job£ Jobs" #NT!
+ mod_planet_jobs_sr_spice_produces_mult: "£sr_spice£ $sr_spice$ from £job£ Jobs" #NT!
+ mod_planet_jobs_sr_meds_produces_mult: "£sr_meds£ $sr_meds$ from £job£ Jobs" #NT!
+ mod_planet_jobs_simple_drone_food_produces_mult: "£food£ $food$ from £job£ Jobs" #NT!
 
- mod_planet_culture_workers_unity_produces_mult: "£unity£ $unity$ from £job_culture_worker£ $job_culture_worker_plural$"
- mod_planet_buildings_energy_upkeep_mult: "Building $energy$ Upkeep"
- mod_planet_enforcers_upkeep_mult: "£job_enforcer£ $job_enforcer_plural$ Upkeep"
- mod_planet_pops_crew_produces_mult: "£crew£ $crew$ from Pops"
- mod_planet_pops_food_upkeep_mult: "$mod_planet_pops_organics_food_upkeep_mult$"
- mod_planet_patrol_drones_unity_produces_add: "£unity£ $unity$ from $job_patrol_drone$"
- mod_planet_patrol_drones_upkeep_mult: "£job_patrol_drone£ $job_patrol_drone$ Upkeep"
- mod_planet_entertainers_unity_produces_add: "£unity£ Unity from £job_entertainer£ Entertainers"
- mod_planet_soldiers_crew_produces_mult: "£crew£ $crew$ from £job_soldier£ $job_soldier_plural$"
- mod_planet_soldiers_crew_produces_add: "£crew£ $crew$ from £job_soldier£ $job_soldier_plural$"
- mod_planet_miners_sr_spice_produces_add: "£spice£ $sr_spice$ from £job_miner£ [GetMinerPlural]"
+ mod_planet_culture_workers_unity_produces_mult: "£unity£ $unity$ from £job_culture_worker£ $job_culture_worker_plural$" #NT!
+ mod_planet_buildings_energy_upkeep_mult: "Building $energy$ Upkeep" #NT!
+ mod_planet_enforcers_upkeep_mult: "£job_enforcer£ $job_enforcer_plural$ Upkeep" #NT!
+ mod_planet_pops_crew_produces_mult: "£crew£ $crew$ from Pops" #NT!
+ mod_planet_pops_food_upkeep_mult: "$mod_planet_pops_organics_food_upkeep_mult$" #NT!
+ mod_planet_patrol_drones_unity_produces_add: "£unity£ $unity$ from $job_patrol_drone$" #NT!
+ mod_planet_patrol_drones_upkeep_mult: "£job_patrol_drone£ $job_patrol_drone$ Upkeep" #NT!
+ mod_planet_entertainers_unity_produces_add: "£unity£ Unity from £job_entertainer£ Entertainers" #NT!
+ mod_planet_soldiers_crew_produces_mult: "£crew£ $crew$ from £job_soldier£ $job_soldier_plural$" #NT!
+ mod_planet_soldiers_crew_produces_add: "£crew£ $crew$ from £job_soldier£ $job_soldier_plural$" #NT!
+ mod_planet_miners_sr_spice_produces_add: "£spice£ $sr_spice$ from £job_miner£ [GetMinerPlural]" #NT!
 
- mod_planet_jobs_robotic_energy_produces_mult: "£energy£ $energy$ from $robot_workers$"
- mod_planet_jobs_robotic_minerals_produces_mult: "£minerals£ $minerals$ from $robot_workers$"
- mod_planet_jobs_robotic_food_produces_mult: "£food£ $food$ from $robot_workers$"
+ mod_planet_jobs_robotic_energy_produces_mult: "£energy£ $energy$ from $robot_workers$" #NT!
+ mod_planet_jobs_robotic_minerals_produces_mult: "£minerals£ $minerals$ from $robot_workers$" #NT!
+ mod_planet_jobs_robotic_food_produces_mult: "£food£ $food$ from $robot_workers$" #NT!
 
-# Ship Cost/Mult Modifier
- mod_ship_sections_alloys_cost_mult: "£alloys£ $alloys$ Ship Section Cost"
- mod_ship_sections_sr_heavy_alloys_cost_mult: "£heavy_alloys£ $sr_heavy_alloys$ Ship Section Cost"
- mod_ship_science_alloys_cost_mult: "Science Ship £alloys£ $alloys$ Cost"
- mod_ship_colonizer_alloys_cost_mult: "Colony Ship £alloys£ $alloys$ Cost"
- mod_shipsize_science_build_speed_mult: "Science Ship Build Speed"
+# Ship Cost/Mult Modifier #NT!
+ mod_ship_sections_alloys_cost_mult: "£alloys£ $alloys$ Ship Section Cost" #NT!
+ mod_ship_sections_sr_heavy_alloys_cost_mult: "£heavy_alloys£ $sr_heavy_alloys$ Ship Section Cost" #NT!
+ mod_ship_science_alloys_cost_mult: "Science Ship £alloys£ $alloys$ Cost" #NT!
+ mod_ship_colonizer_alloys_cost_mult: "Colony Ship £alloys£ $alloys$ Cost" #NT!
+ mod_shipsize_science_build_speed_mult: "Science Ship Build Speed" #NT!
 
-# Ship Upkeep Modifier
- mod_ships_energy_upkeep_mult: "Ship £energy£ $energy$ Upkeep"
- mod_ships_crew_upkeep_mult: "Ship £crew£ $crew$ Upkeep"
- mod_ships_fuel_upkeep_mult: "Ship £fuel£ $fuel$ Upkeep"
- mod_starbases_crew_upkeep_mult: "Starbase £crew£ $crew$ Upkeep"
+# Ship Upkeep Modifier #NT!
+ mod_ships_energy_upkeep_mult: "Ship £energy£ $energy$ Upkeep" #NT!
+ mod_ships_crew_upkeep_mult: "Ship £crew£ $crew$ Upkeep" #NT!
+ mod_ships_fuel_upkeep_mult: "Ship £fuel£ $fuel$ Upkeep" #NT!
+ mod_starbases_crew_upkeep_mult: "Starbase £crew£ $crew$ Upkeep" #NT!
 
-# Building Max Modififer
- mod_building_heavy_alloys_extractor_max: "Max $building_heavy_alloys_extractor_plural$"
- mod_building_meds_production_max: "Max $building_meds_production_plural$"
+# Building Max Modififer #NT!
+ mod_building_heavy_alloys_extractor_max: "Max $building_heavy_alloys_extractor_plural$" #NT!
+ mod_building_meds_production_max: "Max $building_meds_production_plural$" #NT!
 
-# Station Modifier
- mod_starbase_constructions_minerals_produces_mult: "£minerals£ $minerals$ from Starbase Constructions"
- mod_starbase_constructions_crew_produces_mult: "£crew£ $crew$ from Starbase Constructions"
- mod_starbase_constructions_fuel_produces_mult: "£fuel£ $fuel$ from Starbase Constructions"
- mod_starbase_outpost_influence_cost_mult: "Starbase Outpost Influence Cost Mult"
+# Station Modifier #NT!
+ mod_starbase_constructions_minerals_produces_mult: "£minerals£ $minerals$ from Starbase Constructions" #NT!
+ mod_starbase_constructions_crew_produces_mult: "£crew£ $crew$ from Starbase Constructions" #NT!
+ mod_starbase_constructions_fuel_produces_mult: "£fuel£ $fuel$ from Starbase Constructions" #NT!
+ mod_starbase_outpost_influence_cost_mult: "Starbase Outpost Influence Cost Mult" #NT!
 
-# Job Modifier
- mod_job_republic_senator_add: "$job_republic_senator$ Jobs"
- mod_job_mando_apprentice_add: "$job_mando_apprentice$ Jobs"
- mod_job_fuel_refiner_add: "$job_fuel_refiner$ Jobs"
- mod_job_fuel_refiner_drone_add: "$job_fuel_refiner$ Drones"
- mod_job_meds_technician_add: "$job_meds_technician$ Jobs"
- mod_job_meds_technician_drone_add: "$job_meds_technician_drone$ Jobs"
- mod_job_heavy_alloy_extracter_drone_add: "$job_heavy_alloy_extracter_drone$ Jobs"
- mod_job_heavy_alloy_extracter_add: "$job_heavy_alloy_extracter$ Jobs"
- mod_job_sith_acolyte_add: "$job_sith_acolyte$ Jobs"
- mod_job_jedi_monk_add: "$job_jedi_monk$ Jobs"
- mod_job_heavy_alloy_maker_add: "$job_heavy_alloy_maker$ Jobs"
- mod_job_queen_drone_add: "$job_queen_drone$ Jobs"
- mod_job_heavy_alloy_drone_add: "$job_heavy_alloy_maker$ Drones"
- mod_job_racer_add: "$job_racer$ Jobs"
- mod_job_criminal_racer_add: "$job_criminal_racer$ Jobs"
+# Job Modifier #NT!
+ mod_job_republic_senator_add: "$job_republic_senator$ Jobs" #NT!
+ mod_job_mando_apprentice_add: "$job_mando_apprentice$ Jobs" #NT!
+ mod_job_fuel_refiner_add: "$job_fuel_refiner$ Jobs" #NT!
+ mod_job_fuel_refiner_drone_add: "$job_fuel_refiner$ Drones" #NT!
+ mod_job_meds_technician_add: "$job_meds_technician$ Jobs" #NT!
+ mod_job_meds_technician_drone_add: "$job_meds_technician_drone$ Jobs" #NT!
+ mod_job_heavy_alloy_extracter_drone_add: "$job_heavy_alloy_extracter_drone$ Jobs" #NT!
+ mod_job_heavy_alloy_extracter_add: "$job_heavy_alloy_extracter$ Jobs" #NT!
+ mod_job_sith_acolyte_add: "$job_sith_acolyte$ Jobs" #NT!
+ mod_job_jedi_monk_add: "$job_jedi_monk$ Jobs" #NT!
+ mod_job_heavy_alloy_maker_add: "$job_heavy_alloy_maker$ Jobs" #NT!
+ mod_job_queen_drone_add: "$job_queen_drone$ Jobs" #NT!
+ mod_job_heavy_alloy_drone_add: "$job_heavy_alloy_maker$ Drones" #NT!
+ mod_job_racer_add: "$job_racer$ Jobs" #NT!
+ mod_job_criminal_racer_add: "$job_criminal_racer$ Jobs" #NT!
 
-# Resource Max Modifier
- mod_country_resource_max_minerals_add: "$minerals$ Storage Capacity"
- mod_country_resource_max_energy_add: "$energy$ Storage Capacity"
- mod_country_resource_max_food_add: "$food$ Storage Capacity"
- mod_country_resource_max_alloys_add: "$alloys$ Storage Capacity"
- mod_country_resource_max_consumer_goods_add: "$CONSUMER_GOODS$ Storage Capacity"
- mod_country_resource_max_volatile_motes_add: "$volatile_motes$ Storage Capacity"
- mod_country_resource_max_exotic_gases_add: "$exotic_gases$ Storage Capacity"
- mod_country_resource_max_rare_crystals_add: "$rare_crystals$ Storage Capacity"
- mod_country_resource_max_sr_heavy_alloys_add: "$sr_heavy_alloys$ Storage Capacity"
- mod_country_resource_max_sr_isotope5_add: "$sr_isotope5$ Storage Capacity"
- mod_country_resource_max_sr_spice_add: "$sr_spice$ Storage Capacity"
- mod_country_resource_max_sr_meds_add: "$sr_meds$ Storage Capacity"
- mod_country_resource_max_crew_add: "$crew$ Capacity"
- mod_country_resource_max_fuel_add: "$fuel$ Storage Capacity"
- lotor_em_resources_special_1000: "resource max special" #these will never show up
- lotor_em_resources_normal_1000: "resource max normal" #these will never show up
- lotor_add_max_resources: "Major Resources: §G+20000§!\nMinor Resources: §G+10000§!"
+# Resource Max Modifier #NT!
+ mod_country_resource_max_minerals_add: "$minerals$ Storage Capacity" #NT!
+ mod_country_resource_max_energy_add: "$energy$ Storage Capacity" #NT!
+ mod_country_resource_max_food_add: "$food$ Storage Capacity" #NT!
+ mod_country_resource_max_alloys_add: "$alloys$ Storage Capacity" #NT!
+ mod_country_resource_max_consumer_goods_add: "$CONSUMER_GOODS$ Storage Capacity" #NT!
+ mod_country_resource_max_volatile_motes_add: "$volatile_motes$ Storage Capacity" #NT!
+ mod_country_resource_max_exotic_gases_add: "$exotic_gases$ Storage Capacity" #NT!
+ mod_country_resource_max_rare_crystals_add: "$rare_crystals$ Storage Capacity" #NT!
+ mod_country_resource_max_sr_heavy_alloys_add: "$sr_heavy_alloys$ Storage Capacity" #NT!
+ mod_country_resource_max_sr_isotope5_add: "$sr_isotope5$ Storage Capacity" #NT!
+ mod_country_resource_max_sr_spice_add: "$sr_spice$ Storage Capacity" #NT!
+ mod_country_resource_max_sr_meds_add: "$sr_meds$ Storage Capacity" #NT!
+ mod_country_resource_max_crew_add: "$crew$ Capacity" #NT!
+ mod_country_resource_max_fuel_add: "$fuel$ Storage Capacity" #NT!
+ lotor_em_resources_special_1000: "resource max special" #these will never show up #NT!
+ lotor_em_resources_normal_1000: "resource max normal" #these will never show up #NT!
+ lotor_add_max_resources: "Major Resources: §G+20000§!\nMinor Resources: §G+10000§!" #NT!
 
-# Resource Add modifier
- mod_country_base_sr_heavy_alloys_produces_add: "Monthly £heavy_alloys£ $sr_heavy_alloys$"
- mod_country_base_sr_isotope5_produces_add: "Monthly £isotope5£ $sr_isotope5$"
- mod_country_base_sr_spice_produces_add: "Monthly £spice£ $sr_spice$"
- mod_country_base_sr_meds_produces_add: "Monthly £sr_meds£ $sr_meds$"
- mod_country_base_alloys_produces_add: "Monthly £alloys£ $alloys$"
- mod_country_base_crew_produces_add: "Monthly £crew£ $crew$"
- mod_country_base_fuel_produces_add: "Monthly £fuel£ $fuel$"
- mod_country_base_physics_research_produces_add: "Monthly £physics£ $physics_research$"
- mod_country_base_society_research_produces_add: "Monthly £society£ $society_research$"
- mod_country_base_engineering_research_produces_add: "Monthly £engineering£ $engineering_research$"
+# Resource Add modifier #NT!
+ mod_country_base_sr_heavy_alloys_produces_add: "Monthly £heavy_alloys£ $sr_heavy_alloys$" #NT!
+ mod_country_base_sr_isotope5_produces_add: "Monthly £isotope5£ $sr_isotope5$" #NT!
+ mod_country_base_sr_spice_produces_add: "Monthly £spice£ $sr_spice$" #NT!
+ mod_country_base_sr_meds_produces_add: "Monthly £sr_meds£ $sr_meds$" #NT!
+ mod_country_base_alloys_produces_add: "Monthly £alloys£ $alloys$" #NT!
+ mod_country_base_crew_produces_add: "Monthly £crew£ $crew$" #NT!
+ mod_country_base_fuel_produces_add: "Monthly £fuel£ $fuel$" #NT!
+ mod_country_base_physics_research_produces_add: "Monthly £physics£ $physics_research$" #NT!
+ mod_country_base_society_research_produces_add: "Monthly £society£ $society_research$" #NT!
+ mod_country_base_engineering_research_produces_add: "Monthly £engineering£ $engineering_research$" #NT!
 
-# Resource Mult modifier
- mod_country_sr_heavy_alloys_produces_mult: "$mod_country_base_sr_heavy_alloys_produces_add$"
- mod_country_sr_isotope5_produces_mult: "$mod_country_base_sr_isotope5_produces_add$"
- mod_country_sr_spice_produces_mult: "$mod_country_base_sr_spice_produces_add$"
- mod_country_sr_meds_produces_mult: "$mod_country_base_sr_meds_produces_add$"
- mod_country_crew_produces_mult: "$mod_country_base_crew_produces_add$"
- mod_country_fuel_produces_mult: "$mod_country_base_fuel_produces_add$"
+# Resource Mult modifier #NT!
+ mod_country_sr_heavy_alloys_produces_mult: "$mod_country_base_sr_heavy_alloys_produces_add$" #NT!
+ mod_country_sr_isotope5_produces_mult: "$mod_country_base_sr_isotope5_produces_add$" #NT!
+ mod_country_sr_spice_produces_mult: "$mod_country_base_sr_spice_produces_add$" #NT!
+ mod_country_sr_meds_produces_mult: "$mod_country_base_sr_meds_produces_add$" #NT!
+ mod_country_crew_produces_mult: "$mod_country_base_crew_produces_add$" #NT!
+ mod_country_fuel_produces_mult: "$mod_country_base_fuel_produces_add$" #NT!
 
- mod_planet_districts_volatile_motes_upkeep_mult: "District $volatile_motes$ Upkeep"
- mod_planet_districts_exotic_gases_upkeep_mult: "District $exotic_gases$ Upkeep"
- mod_planet_districts_rare_crystals_upkeep_mult: "District $rare_crystals$ Upkeep"
+ mod_planet_districts_volatile_motes_upkeep_mult: "District $volatile_motes$ Upkeep" #NT!
+ mod_planet_districts_exotic_gases_upkeep_mult: "District $exotic_gases$ Upkeep" #NT!
+ mod_planet_districts_rare_crystals_upkeep_mult: "District $rare_crystals$ Upkeep" #NT!
 
-# Weapon Modifier
- mod_weapon_type_laser_weapon_fire_rate_mult: "£weapon_type_laser£ Laser Weapon Attack Speed"
- mod_weapon_type_laser_weapon_damage_mult: "£weapon_type_laser£ Laser Weapon Damage"
- mod_weapon_type_ion_weapon_fire_rate_mult: "£weapon_type_ion£ Ion Weapon Attack Speed"
- mod_weapon_type_ion_weapon_damage_mult: "£weapon_type_ion£ Ion Weapon Damage"
- mod_weapon_type_acid_weapon_fire_rate_mult: "£weapon_type_acid£ Corrosive Weapon Attack Speed"
- mod_weapon_type_acid_weapon_damage_mult: "£weapon_type_acid£ Corrosive Weapon Damage"
- mod_weapon_type_radiation_weapon_fire_rate_mult: "£weapon_type_radiation£ Radiation Weapon Attack Speed"
- mod_weapon_type_radiation_weapon_damage_mult: "£weapon_type_radiation£ Radiation Weapon Damage"
- mod_weapon_type_force_weapon_fire_rate_mult: "£weapon_type_force£ Force Weapon Attack Speed"
- mod_weapon_type_force_weapon_damage_mult: "£weapon_type_force£ Force Weapon Damage"
- mod_weapon_type_sonic_weapon_fire_rate_mult: "£weapon_type_sonic£ Sonic Weapon Attack Speed"
- mod_weapon_type_sonic_weapon_damage_mult: "£weapon_type_sonic£ Sonic Weapon Damage"
+# Weapon Modifier #NT!
+ mod_weapon_type_laser_weapon_fire_rate_mult: "£weapon_type_laser£ Laser Weapon Attack Speed" #NT!
+ mod_weapon_type_laser_weapon_damage_mult: "£weapon_type_laser£ Laser Weapon Damage" #NT!
+ mod_weapon_type_ion_weapon_fire_rate_mult: "£weapon_type_ion£ Ion Weapon Attack Speed" #NT!
+ mod_weapon_type_ion_weapon_damage_mult: "£weapon_type_ion£ Ion Weapon Damage" #NT!
+ mod_weapon_type_acid_weapon_fire_rate_mult: "£weapon_type_acid£ Corrosive Weapon Attack Speed" #NT!
+ mod_weapon_type_acid_weapon_damage_mult: "£weapon_type_acid£ Corrosive Weapon Damage" #NT!
+ mod_weapon_type_radiation_weapon_fire_rate_mult: "£weapon_type_radiation£ Radiation Weapon Attack Speed" #NT!
+ mod_weapon_type_radiation_weapon_damage_mult: "£weapon_type_radiation£ Radiation Weapon Damage" #NT!
+ mod_weapon_type_force_weapon_fire_rate_mult: "£weapon_type_force£ Force Weapon Attack Speed" #NT!
+ mod_weapon_type_force_weapon_damage_mult: "£weapon_type_force£ Force Weapon Damage" #NT!
+ mod_weapon_type_sonic_weapon_fire_rate_mult: "£weapon_type_sonic£ Sonic Weapon Attack Speed" #NT!
+ mod_weapon_type_sonic_weapon_damage_mult: "£weapon_type_sonic£ Sonic Weapon Damage" #NT!
 
-# Scripted Modifiers
- mod_country_orbital_ring_capacity: "Orbital Ring Capacity"
- too_many_orbital_rings_in_system: "$TRIGGER_FAIL$ Insufficient $mod_country_orbital_ring_capacity$"
+# Scripted Modifiers #NT!
+ mod_country_orbital_ring_capacity: "Orbital Ring Capacity" #NT!
+ too_many_orbital_rings_in_system: "$TRIGGER_FAIL$ Insufficient $mod_country_orbital_ring_capacity$" #NT!
 
- mod_country_habitat_capacity: "Habitat Capacity"
- too_many_habitats: "$TRIGGER_FAIL$ Insufficient empire wide $mod_country_habitat_capacity$"
+ mod_country_habitat_capacity: "Habitat Capacity" #NT!
+ too_many_habitats: "$TRIGGER_FAIL$ Insufficient empire wide $mod_country_habitat_capacity$" #NT!
 
- mod_country_comm_station_capacity: "Communication Relays Capacity"
- too_many_comm_stations: "$TRIGGER_FAIL$ Insufficient empire wide $mod_country_comm_station_capacity$"
+ mod_country_comm_station_capacity: "Communication Relays Capacity" #NT!
+ too_many_comm_stations: "$TRIGGER_FAIL$ Insufficient empire wide $mod_country_comm_station_capacity$" #NT!
 
- mod_country_fuel_depot_capacity: "$lotor_fuel_depot_1$ Capacity"
- too_many_fuel_depots: "$TRIGGER_FAIL$ Insufficient empire wide $mod_country_fuel_depot_capacity$"
+ mod_country_fuel_depot_capacity: "$lotor_fuel_depot_1$ Capacity" #NT!
+ too_many_fuel_depots: "$TRIGGER_FAIL$ Insufficient empire wide $mod_country_fuel_depot_capacity$" #NT!
 
- requires_colonized_planet_20_pops: "$TRIGGER_FAIL$ Requires an owned planet with at least 20 pops in the system."
+ requires_colonized_planet_20_pops: "$TRIGGER_FAIL$ Requires an owned planet with at least 20 pops in the system." #NT!
 
-### Ship Modifiers
- lotor_corvette_2_modifier: "$tech_lotor_corvettes_2$"
- lotor_corvette_3_modifier: "$tech_lotor_corvettes_3$"
- lotor_frigate_2_modifier: "$tech_lotor_destroyers_2$"
- lotor_frigate_3_modifier: "$tech_lotor_destroyers_3$"
- lotor_cruiser_2_modifier: "$tech_lotor_cruisers_2$"
- lotor_cruiser_3_modifier: "$tech_lotor_cruisers_3$"
- lotor_heavy_cruiser_2_modifier: "$tech_lotor_heavy_cruisers_2$"
- lotor_heavy_cruiser_3_modifier: "$tech_lotor_heavy_cruisers_3$"
- lotor_battleship_2_modifier: "$tech_lotor_battleships_2$"
- lotor_battleship_3_modifier: "$tech_lotor_battleships_3$"
- lotor_battlecruiser_2_modifier: "$tech_lotor_battlecruisers_2$"
- lotor_battlecruiser_3_modifier: "$tech_lotor_battlecruisers_3$"
- lotor_dreadnought_2_modifier: "$tech_lotor_dreadnought_2$"
- lotor_dreadnought_3_modifier: "$tech_lotor_dreadnought_3$"
+### Ship Modifiers #NT!
+ lotor_corvette_2_modifier: "$tech_lotor_corvettes_2$" #NT!
+ lotor_corvette_3_modifier: "$tech_lotor_corvettes_3$" #NT!
+ lotor_frigate_2_modifier: "$tech_lotor_destroyers_2$" #NT!
+ lotor_frigate_3_modifier: "$tech_lotor_destroyers_3$" #NT!
+ lotor_cruiser_2_modifier: "$tech_lotor_cruisers_2$" #NT!
+ lotor_cruiser_3_modifier: "$tech_lotor_cruisers_3$" #NT!
+ lotor_heavy_cruiser_2_modifier: "$tech_lotor_heavy_cruisers_2$" #NT!
+ lotor_heavy_cruiser_3_modifier: "$tech_lotor_heavy_cruisers_3$" #NT!
+ lotor_battleship_2_modifier: "$tech_lotor_battleships_2$" #NT!
+ lotor_battleship_3_modifier: "$tech_lotor_battleships_3$" #NT!
+ lotor_battlecruiser_2_modifier: "$tech_lotor_battlecruisers_2$" #NT!
+ lotor_battlecruiser_3_modifier: "$tech_lotor_battlecruisers_3$" #NT!
+ lotor_dreadnought_2_modifier: "$tech_lotor_dreadnought_2$" #NT!
+ lotor_dreadnought_3_modifier: "$tech_lotor_dreadnought_3$" #NT!
 
-# Corvette
-  mod_shipsize_corvette_foray_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_legion_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_jehaveyir_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_copa_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_kuuro_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_orbalisk_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_gladius_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_guardian_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_fusillade_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_ranger_build_speed_mult: "Corvette Build Speed"
-	mod_shipsize_corvette_spv_build_speed_mult: "Corvette Build Speed"
+# Corvette #NT!
+  mod_shipsize_corvette_foray_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_legion_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_jehaveyir_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_copa_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_kuuro_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_orbalisk_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_gladius_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_guardian_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_fusillade_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_ranger_build_speed_mult: "Corvette Build Speed" #NT!
+	mod_shipsize_corvette_spv_build_speed_mult: "Corvette Build Speed" #NT!
 
-	mod_shipsize_corvette_foray_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_legion_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_jehaveyir_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_copa_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_kuuro_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_orbalisk_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_gladius_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_guardian_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_fusillade_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_ranger_hull_mult: "Corvette Hull Points"
-	mod_shipsize_corvette_spv_hull_mult: "Corvette Hull Points"
+	mod_shipsize_corvette_foray_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_legion_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_jehaveyir_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_copa_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_kuuro_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_orbalisk_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_gladius_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_guardian_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_fusillade_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_ranger_hull_mult: "Corvette Hull Points" #NT!
+	mod_shipsize_corvette_spv_hull_mult: "Corvette Hull Points" #NT!
 
-# Frigate
-	mod_shipsize_frigate_praetorian_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_raider_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_kiltirin_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_skadi_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_warlord_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_zakkeg_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_trimere_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_heraklon_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_interceptoriv_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_strikei_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_scourge_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_mansk_build_speed_mult: "Frigate Build Speed"
-	mod_shipsize_frigate_fantail_build_speed_mult: "Frigate Build Speed"
+# Frigate #NT!
+	mod_shipsize_frigate_praetorian_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_raider_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_kiltirin_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_skadi_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_warlord_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_zakkeg_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_trimere_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_heraklon_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_interceptoriv_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_strikei_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_scourge_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_mansk_build_speed_mult: "Frigate Build Speed" #NT!
+	mod_shipsize_frigate_fantail_build_speed_mult: "Frigate Build Speed" #NT!
 
-	mod_shipsize_frigate_praetorian_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_raider_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_kiltirin_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_skadi_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_warlord_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_zakkeg_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_trimere_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_heraklon_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_interceptoriv_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_strikei_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_scourge_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_mansk_hull_mult: "Frigate Hull Points"
-	mod_shipsize_frigate_fantail_hull_mult: "Frigate Hull Points"
+	mod_shipsize_frigate_praetorian_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_raider_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_kiltirin_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_skadi_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_warlord_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_zakkeg_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_trimere_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_heraklon_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_interceptoriv_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_strikei_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_scourge_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_mansk_hull_mult: "Frigate Hull Points" #NT!
+	mod_shipsize_frigate_fantail_hull_mult: "Frigate Hull Points" #NT!
 
-# Cruiser
-	mod_shipsize_cruiser_hammerhead_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_terminus_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_protector_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_kadijic_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_frouro_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_tamara_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_longhorn_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_mere_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_strike2_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_rupture_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_trotter_build_speed_mult: "Cruiser Build Speed"
-	mod_shipsize_cruiser_vainglorious_build_speed_mult: "Cruiser Build Speed"
+# Cruiser #NT!
+	mod_shipsize_cruiser_hammerhead_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_terminus_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_protector_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_kadijic_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_frouro_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_tamara_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_longhorn_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_mere_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_strike2_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_rupture_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_trotter_build_speed_mult: "Cruiser Build Speed" #NT!
+	mod_shipsize_cruiser_vainglorious_build_speed_mult: "Cruiser Build Speed" #NT!
 
-	mod_shipsize_cruiser_hammerhead_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_terminus_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_protector_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_kadijic_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_frouro_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_tamara_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_longhorn_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_mere_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_strike2_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_rupture_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_trotter_hull_mult: "Cruiser Hull Points"
-	mod_shipsize_cruiser_vainglorious_hull_mult: "Cruiser Hull Points"
+	mod_shipsize_cruiser_hammerhead_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_terminus_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_protector_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_kadijic_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_frouro_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_tamara_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_longhorn_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_mere_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_strike2_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_rupture_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_trotter_hull_mult: "Cruiser Hull Points" #NT!
+	mod_shipsize_cruiser_vainglorious_hull_mult: "Cruiser Hull Points" #NT!
 
-# Heavy Cruiser
-	mod_shipsize_heavy_cruiser_hull_mult: "Heavy Cruiser Hull Points"
-	mod_ship_heavy_cruiser_cost_mult: "Heavy Cruiser Cost"
-	mod_shipsize_heavy_cruiser_build_speed_mult: "Heavy Cruiser Build Speed"
+# Heavy Cruiser #NT!
+	mod_shipsize_heavy_cruiser_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_ship_heavy_cruiser_cost_mult: "Heavy Cruiser Cost" #NT!
+	mod_shipsize_heavy_cruiser_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
 
-	mod_shipsize_heavy_cruiser_paladin_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_reaper_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_kyramud_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_terrada_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_prosvoli_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_lannis_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_phalanx_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_neutron_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_bulwark_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_galleon_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_tapani_build_speed_mult: "Heavy Cruiser Build Speed"
-	mod_shipsize_heavy_cruiser_hornet_build_speed_mult: "Heavy Cruiser Build Speed"
+	mod_shipsize_heavy_cruiser_paladin_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_reaper_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_kyramud_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_terrada_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_prosvoli_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_lannis_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_phalanx_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_neutron_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_bulwark_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_galleon_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_tapani_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
+	mod_shipsize_heavy_cruiser_hornet_build_speed_mult: "Heavy Cruiser Build Speed" #NT!
 
-	mod_shipsize_heavy_cruiser_paladin_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_reaper_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_kyramud_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_terrada_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_prosvoli_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_lannis_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_phalanx_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_neutron_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_bulwark_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_galleon_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_tapani_hull_mult: "Heavy Cruiser Hull Points"
-	mod_shipsize_heavy_cruiser_hornet_hull_mult: "Heavy Cruiser Hull Points"
+	mod_shipsize_heavy_cruiser_paladin_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_reaper_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_kyramud_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_terrada_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_prosvoli_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_lannis_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_phalanx_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_neutron_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_bulwark_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_galleon_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_tapani_hull_mult: "Heavy Cruiser Hull Points" #NT!
+	mod_shipsize_heavy_cruiser_hornet_hull_mult: "Heavy Cruiser Hull Points" #NT!
 
-# Battleship
-	mod_shipsize_battleship_leviathan_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_bsx5_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_lictor_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_dralshya_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_porunga_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_ormos_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_maalraas_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_kuat_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battleship_bloodstar_build_speed_mult: "Battleship Build Speed"
+# Battleship #NT!
+	mod_shipsize_battleship_leviathan_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_bsx5_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_lictor_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_dralshya_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_porunga_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_ormos_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_maalraas_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_kuat_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battleship_bloodstar_build_speed_mult: "Battleship Build Speed" #NT!
 
-	mod_shipsize_battleship_leviathan_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_bsx5_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_lictor_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_dralshya_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_porunga_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_ormos_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_maalraas_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_kuat_hull_mult: "Battleship Hull Points"
-	mod_shipsize_battleship_bloodstar_hull_mult: "Battleship Hull Points"
+	mod_shipsize_battleship_leviathan_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_bsx5_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_lictor_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_dralshya_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_porunga_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_ormos_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_maalraas_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_kuat_hull_mult: "Battleship Hull Points" #NT!
+	mod_shipsize_battleship_bloodstar_hull_mult: "Battleship Hull Points" #NT!
 
-# Battlecruiser
-	mod_shipsize_battlecruiser_hull_mult: "Battlecruiser Hull"
-	mod_ship_battlecruiser_cost_mult: "Battlecruiser Cost"
-	mod_shipsize_battlecruiser_build_speed_mult: "Battlecruiser Build Speed"
+# Battlecruiser #NT!
+	mod_shipsize_battlecruiser_hull_mult: "Battlecruiser Hull" #NT!
+	mod_ship_battlecruiser_cost_mult: "Battlecruiser Cost" #NT!
+	mod_shipsize_battlecruiser_build_speed_mult: "Battlecruiser Build Speed" #NT!
 
-	mod_shipsize_battlecruiser_centurion_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_harrower_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_kandosii_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_dorbulla_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_syndic_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_boma_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_procurator_mki_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_procurator_mkii_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_belarus_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_goliath_build_speed_mult: "Battleship Build Speed"
-	mod_shipsize_battlecruiser_alpha_build_speed_mult: "Battleship Build Speed"
+	mod_shipsize_battlecruiser_centurion_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_harrower_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_kandosii_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_dorbulla_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_syndic_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_boma_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_procurator_mki_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_procurator_mkii_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_belarus_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_goliath_build_speed_mult: "Battleship Build Speed" #NT!
+	mod_shipsize_battlecruiser_alpha_build_speed_mult: "Battleship Build Speed" #NT!
 
-	mod_shipsize_battlecruiser_centurion_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_harrower_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_kandosii_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_dorbulla_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_syndic_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_boma_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_procurator_mki_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_procurator_mkii_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_belarus_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_goliath_hull_mult: "Battlecruiser Hull Points"
-	mod_shipsize_battlecruiser_alpha_hull_mult: "Battlecruiser Hull Points"
+	mod_shipsize_battlecruiser_centurion_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_harrower_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_kandosii_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_dorbulla_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_syndic_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_boma_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_procurator_mki_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_procurator_mkii_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_belarus_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_goliath_hull_mult: "Battlecruiser Hull Points" #NT!
+	mod_shipsize_battlecruiser_alpha_hull_mult: "Battlecruiser Hull Points" #NT!
 
-# Dreadnought
-	mod_ship_dreadnought_cost_mult: "Dreadnought Cost"
+# Dreadnought #NT!
+	mod_ship_dreadnought_cost_mult: "Dreadnought Cost" #NT!
 
-	mod_shipsize_dreadnought_invincible_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_inexpugnable_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_emperor_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_aggressor_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_azalus_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_phalanx_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_narduk_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_mandatori_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_magnetar_build_speed_mult: "Dreadnought Build Speed"
-	mod_shipsize_dreadnought_rampart_build_speed_mult: "Dreadnought Build Speed"
+	mod_shipsize_dreadnought_invincible_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_inexpugnable_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_emperor_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_aggressor_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_azalus_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_phalanx_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_narduk_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_mandatori_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_magnetar_build_speed_mult: "Dreadnought Build Speed" #NT!
+	mod_shipsize_dreadnought_rampart_build_speed_mult: "Dreadnought Build Speed" #NT!
 
-	mod_shipsize_dreadnought_invincible_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_inexpugnable_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_emperor_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_aggressor_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_azalus_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_phalanx_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_narduk_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_mandatori_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_magnetar_hull_mult: "Dreadnought Hull Points"
-	mod_shipsize_dreadnought_rampart_hull_mult: "Dreadnought Hull Points"
+	mod_shipsize_dreadnought_invincible_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_inexpugnable_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_emperor_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_aggressor_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_azalus_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_phalanx_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_narduk_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_mandatori_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_magnetar_hull_mult: "Dreadnought Hull Points" #NT!
+	mod_shipsize_dreadnought_rampart_hull_mult: "Dreadnought Hull Points" #NT!
 
- lotor_unique_ship_light: "Light"
- lotor_unique_ship_heavy: "Heavy"
- lotor_unique_ship_strike: "Strike"
- lotor_unique_ship_escort: "Escort"
- lotor_unique_ship_patrol: "Patrol"
- lotor_unique_ship_automated: "Automated"
- lotor_unique_ship_armored_modifier: "Armored"
- lotor_unique_ship_armored_shipmodifier: "Armored"
- lotor_unique_ship_heavily_armored_modifier: "Heavily Armored"
- lotor_unique_ship_heavily_armored_shipmodifier: "Heavily Armored"
- lotor_unique_ship_defensive_modifier: "Defensive"
- lotor_unique_ship_defensive_shipmodifier: "Defensive"
- lotor_unique_ship_assault_modifier: "Assault"
- lotor_unique_ship_assault_shipmodifier: "Assault"
- lotor_dreadnought_mk: "Dreadnought Upgrade"
- lotor_battlecruiser_mk: "Battlecruiser Upgrade"
- lotor_battleship_mk: "Battleship Upgrade"
- lotor_heavy_cruiser_mk: "Heavy Cruiser Upgrade"
- lotor_cruiser_mk: "Cruiser Upgrade"
- lotor_frigate_mk: "Frigate Upgrade"
- lotor_corvette_mk: "Corvette Upgrade"
+ lotor_unique_ship_light: "Light" #NT!
+ lotor_unique_ship_heavy: "Heavy" #NT!
+ lotor_unique_ship_strike: "Strike" #NT!
+ lotor_unique_ship_escort: "Escort" #NT!
+ lotor_unique_ship_patrol: "Patrol" #NT!
+ lotor_unique_ship_automated: "Automated" #NT!
+ lotor_unique_ship_armored_modifier: "Armored" #NT!
+ lotor_unique_ship_armored_shipmodifier: "Armored" #NT!
+ lotor_unique_ship_heavily_armored_modifier: "Heavily Armored" #NT!
+ lotor_unique_ship_heavily_armored_shipmodifier: "Heavily Armored" #NT!
+ lotor_unique_ship_defensive_modifier: "Defensive" #NT!
+ lotor_unique_ship_defensive_shipmodifier: "Defensive" #NT!
+ lotor_unique_ship_assault_modifier: "Assault" #NT!
+ lotor_unique_ship_assault_shipmodifier: "Assault" #NT!
+ lotor_dreadnought_mk: "Dreadnought Upgrade" #NT!
+ lotor_battlecruiser_mk: "Battlecruiser Upgrade" #NT!
+ lotor_battleship_mk: "Battleship Upgrade" #NT!
+ lotor_heavy_cruiser_mk: "Heavy Cruiser Upgrade" #NT!
+ lotor_cruiser_mk: "Cruiser Upgrade" #NT!
+ lotor_frigate_mk: "Frigate Upgrade" #NT!
+ lotor_corvette_mk: "Corvette Upgrade" #NT!

@@ -36,7 +36,7 @@
  ship_aura_components_titan: "Корабельная аура ($titan$)"
  ship_aura_components_titan_DESC: "Корабли класса $titan$ могут быть оснащены полевыми излучателями, которые излучают и поддерживают локализованные поля, вызывающие различные эффекты у вражеских или дружественных кораблей."
 
- ship_aura_components_juggernaut: "Корабельная аура (Juggernaut)"
+ ship_aura_components_juggernaut: "Корабельная аура (Джагернаут)"
  ship_aura_components_juggernaut_DESC: "Корабли класса Джаггернаут могут быть оснащены полевыми излучателями, которые проецируют и поддерживают локализованные поля, вызывающие различные эффекты на вражеских или дружественных кораблях."
 
 # Thruster
@@ -183,7 +183,7 @@
  SMALL_SHIP_SHIELD_7: "Малый генератор щита SH-7EGDM"
  MEDIUM_SHIP_SHIELD_7: "Средний генератор щита SH-7EGDM"
  LARGE_SHIP_SHIELD_7: "Большой генератор щита SH-7EGDM"
-
+ 
 # Shield Capacitors - AUX
  SHIELD_CAPACITOR_I: "Дополнительный накопитель щита SC-1EG" # Needs exotic gases
  SHIELD_CAPACITOR_1: "Накопитель щита SC-1EG"
@@ -276,16 +276,16 @@
  ELECTROSTATIC_BARRIER_SHIELD_TYPE_5: "Электростатический барьер SHEB-5"
  ELECTROSTATIC_BARRIER_SHIELD_TYPE_5_DESC: "Эти усиленные электростатические барьеры обеспечивают большую защиту при меньших затратах энергии."
 
-# Electrostatic Barrier - Component Categroy
- ELECTROSTATIC_BARRIER_1: "SHEB-1 Electrostatic Barrier"
+# Electrostatic Barrier - Component Category
+ ELECTROSTATIC_BARRIER_1: "Электростатический барьер SHEB-1"
  ELECTROSTATIC_BARRIER_1_DESC: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_1_DESC$"
- ELECTROSTATIC_BARRIER_2: "SHEB-2 Electrostatic Barrier"
+ ELECTROSTATIC_BARRIER_2: "Электростатический барьер SHEB-2"
  ELECTROSTATIC_BARRIER_2_DESC: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_2_DESC$"
- ELECTROSTATIC_BARRIER_3: "SHEB-3 Electrostatic Barrier"
+ ELECTROSTATIC_BARRIER_3: "Электростатический барьер SHEB-3"
  ELECTROSTATIC_BARRIER_3_DESC: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_3_DESC$"
- ELECTROSTATIC_BARRIER_4: "SHEB-4 Electrostatic Barrier"
+ ELECTROSTATIC_BARRIER_4: "Электростатический барьер SHEB-4"
  ELECTROSTATIC_BARRIER_4_DESC: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_4_DESC$"
- ELECTROSTATIC_BARRIER_5: "SHEB-5 Electrostatic Barrier"
+ ELECTROSTATIC_BARRIER_5: "Электростатический барьер SHEB-5"
  ELECTROSTATIC_BARRIER_5_DESC: "$ELECTROSTATIC_BARRIER_SHIELD_TYPE_5_DESC$"
 
 ###################################
@@ -485,7 +485,7 @@
  SMALL_ORIDIUM_SHIP_ARMOR_3: "Малая оридиумная броня"
  MEDIUM_ORIDIUM_SHIP_ARMOR_3: "Средняя оридиумная броня"
  LARGE_ORIDIUM_SHIP_ARMOR_3: "Большая оридиумная броня"
-
+ 
 ## Mass Drivers
  SHIP_MASS_DRIVER_1: "Масс-драйверы MST-5"
  SHIP_MASS_DRIVER_1_DESC: "Масс-драйверы, продукт раннего эксперимента по космическим боям, используют электромагнитные ускорители для запуска снарядов к цели."
@@ -725,19 +725,19 @@
 
 # Ion Blast
  LARGE_AGGRESSOR_ION_BLAST_I: "Ионная взрывная пушка C106-F"
- LARGE_AGGRESSOR_ION_BLAST_I_DESC: "Сильно модифицированная ионная пушка C-136 от \"Вооружения Спейзок\", установленная вдоль оси корабля."
+ LARGE_AGGRESSOR_ION_BLAST_I_DESC: "Сильно модифицированная ионная пушка C-136 от Вооружения Спейзок, установленная вдоль оси корабля."
  LARGE_AGGRESSOR_ION_BLAST_1: "Ионная взрывная пушка C106-F"
 
  LARGE_AGGRESSOR_ION_BLAST_II: "Ионная взрывная пушка C116-FEG"
- LARGE_AGGRESSOR_ION_BLAST_II_DESC: "Сильно модифицированная ионная пушка C-136 от \"Вооружения Спейзок\", установленная вдоль оси корабля."
+ LARGE_AGGRESSOR_ION_BLAST_II_DESC: "Сильно модифицированная ионная пушка C-136 от Вооружения Спейзок, установленная вдоль оси корабля."
  LARGE_AGGRESSOR_ION_BLAST_2: "Ионная взрывная пушка C116-F"
 
  LARGE_AGGRESSOR_ION_BLAST_III: "Ионная взрывная пушка C126-FEG"
- LARGE_AGGRESSOR_ION_BLAST_III_DESC: "Сильно модифицированная ионная пушка C-136 от \"Вооружения Спейзок\", установленная вдоль оси корабля."
+ LARGE_AGGRESSOR_ION_BLAST_III_DESC: "Сильно модифицированная ионная пушка C-136 от Вооружения Спейзок, установленная вдоль оси корабля."
  LARGE_AGGRESSOR_ION_BLAST_3: "Ионная взрывная пушка C126-F"
 
  LARGE_AGGRESSOR_ION_BLAST_IV: "Ионная взрывная пушка C136-FEG"
- LARGE_AGGRESSOR_ION_BLAST_IV_DESC: "Сильно модифицированная ионная пушка C-136 от \"Вооружения Спейзок\", установленная вдоль оси корабля."
+ LARGE_AGGRESSOR_ION_BLAST_IV_DESC: "Сильно модифицированная ионная пушка C-136 от Вооружения Спейзок, установленная вдоль оси корабля."
  LARGE_AGGRESSOR_ION_BLAST_4: "Ионная взрывная пушка C136-F"
 
 # Ion Cannons
@@ -840,6 +840,10 @@
  SHIP_RAPID_LASER_CANNON_3: "Скорострельные лазерные пушки MK 4/ER"
  SHIP_RAPID_LASER_CANNON_3_DESC: "Скорострельные лазерные пушки теперь имеют несколько дополнительных стволов, чтобы пушка не перегревалась."
  SMALL_RAPID_LASER_CANNON_3: "Скорострельные лазерные пушки MK 4/ER"
+ 
+ SHIP_RAPID_LASER_CANNON_4: "Скорострельные лазерные пушки MK 5/ER"
+ SHIP_RAPID_LASER_CANNON_4_DESC: "Скорострельные лазерные пушки теперь имеют несколько дополнительных стволов, чтобы пушка не перегревалась."
+ SMALL_RAPID_LASER_CANNON_4: "Скорострельные лазерные пушки MK 5/ER"
 
 # Ship Sensor
  SHIP_SENSOR_JAMMER_1: "4b1 - подавитель сенсоров"
@@ -1032,7 +1036,7 @@
  SHIP_ION_TORPEDO_5_DESC: "Двигатели ионных торпед улучшены. Вражеское ПРО даже не успеет их сбить!"
  SHIP_ION_TORPEDO_6: "Ионная торпеда MG-16EG"
  SHIP_ION_TORPEDO_6_DESC: "Ионные торпеды начинены специальным составом. Вся электроника будет отключена при попадании."
-
+ 
  # Seismic Charge Launcher
  SHIP_SEISMIC_CHARGE_1: "Сейсмические заряды Void-1"
  SHIP_SEISMIC_CHARGE_1_DESC: "Экспериментальные звуковые заряды вызывают волну, уничтожающую большое количество лёгкой авиации."
@@ -1129,7 +1133,7 @@
  LIGHTNING_GUN_3: "Молниевая пушка HWEG-3"
  LIGHTNING_GUN_3_DESC: "Повышение напряжения заряда молниевой пушки увеличивает наносимый урон."
  LARGE_LIGHTNING_GUN_3: "Тяжёлая молниевая пушка HWEG-3"
-
+ 
 # Toxic Waste
  TOXIC_WASTE_1: "Система доставки отходов WCPD/1"
  TOXIC_WASTE_1_DESC: "Остатки и отходы от оружия и компонентов других кораблей могут быть превращены в оружие и использованы для коррозии корпуса вражеских кораблей."
@@ -1226,14 +1230,14 @@
  INTERNAL_ASTROMECH_DROIDS_IV_4_DESC: "$ASTROMECH_DROIDS_3_DESC$"
 
 # Nav Computers
- NAV_COMPUTER_1: "Standard Navigation Computer"
- NAV_COMPUTER_1_DESC: "A special computer which uses advanced logarithms to calculate precise paths through the galaxy."
+ NAV_COMPUTER_1: "Стандартный навигационный компьютер"
+ NAV_COMPUTER_1_DESC: "Специальный компьютер, который использует продвинутые логарифмы для вычисления точного пути через галактику"
 
- NAV_COMPUTER_2: "Modernized Navigation Computer"
- NAV_COMPUTER_2_DESC: "New up to date Powerpacks allow us to divert more energy towards the navigational systems."
+ NAV_COMPUTER_2: "Модернезированный навигационный компьютер"
+ NAV_COMPUTER_2_DESC: "Новые современные силовые агрегаты позволяют нам направлять больше энергии на навигационные системы."
 
- NAV_COMPUTER_3: "Overhault Navigation Computer"
- NAV_COMPUTER_3_DESC: "Reworking the design behind Navigational Computers allowed us to create a new and improved version which allows almost limitless coordinates for nearly any foreseeable destination."
+ NAV_COMPUTER_3: "Перестроенный навигационный компьютер"
+ NAV_COMPUTER_3_DESC: "Переработка дизайна навигационных компьютеров позволила нам создать новую и улучшенную версию, которая позволяет получать практически неограниченное количество координат практически для любого предполагаемого пункта назначения."
 
  INTERNAL_NAV_COMPUTER_I_1: "$NAV_COMPUTER_1$"
  INTERNAL_NAV_COMPUTER_I_1_DESC: "$NAV_COMPUTER_1_DESC$"
@@ -1267,41 +1271,41 @@
 # Force Weapons
  SITH_ALCHEMIE_LIGHTNING_1: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1$"
  SITH_ALCHEMIE_LIGHTNING_1_DESC: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1_DESC$"
- LARGE_SITH_ALCHEMIE_LIGHTNING_1: "§RSith Alchemy§! - Lightning Catalyst"
- LARGE_SITH_ALCHEMIE_LIGHTNING_1_DESC: "A single Sith sorcerer can generate a large amount of energy and channel it towards enemy vessels in the form of electrical bolts."
+ LARGE_SITH_ALCHEMIE_LIGHTNING_1: "§RАлхимия Ситхов§! - Катализатор молний"
+ LARGE_SITH_ALCHEMIE_LIGHTNING_1_DESC: "Один ситх-чародей может генерировать большое количество энергии и направлять ее на вражеские корабли в виде электрических разрядов."
 
  SITH_ALCHEMIE_LIGHTNING_2: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1$"
  SITH_ALCHEMIE_LIGHTNING_2_DESC: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1_DESC$"
- LARGE_SITH_ALCHEMIE_LIGHTNING_2: "§RSith Alchemy§! - Energized Lightning Catalyst"
- LARGE_SITH_ALCHEMIE_LIGHTNING_2_DESC: "A single Sith sorcerer with raw hatred can generate a larger amount of energy and channel it towards enemy vessels in the form of electrical bolts."
+ LARGE_SITH_ALCHEMIE_LIGHTNING_2: "§RАлхимия Ситхов§! - Катализатор усиленных молний"
+ LARGE_SITH_ALCHEMIE_LIGHTNING_2_DESC: "Один-единственный ситх-чародей с неприкрытой ненавистью может генерировать большее количество энергии и направлять ее на вражеские корабли в виде электрических разрядов."
 
  SITH_ALCHEMIE_LIGHTNING_3: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1$"
  SITH_ALCHEMIE_LIGHTNING_3_DESC: "$LARGE_SITH_ALCHEMIE_LIGHTNING_1_DESC$"
- LARGE_SITH_ALCHEMIE_LIGHTNING_3: "§RSith Alchemy§! - Supercharged Lightning Catalyst"
- LARGE_SITH_ALCHEMIE_LIGHTNING_3_DESC: "Internal ship systems can be better prepared to deal with the energy unleashed by a Sith sorcerer. As a result their damage will be increased due to being able to concentrate more effectively."
+ LARGE_SITH_ALCHEMIE_LIGHTNING_3: "§RАлхимия Ситхов§! - Предельная Молния Силы"
+ LARGE_SITH_ALCHEMIE_LIGHTNING_3_DESC: "Внутренние системы корабля могут быть лучше подготовлены к тому, чтобы справиться с энергией, высвобождаемой ситхским колдуном. В результате урон будет увеличен из-за возможности её более эффективной концентрации."
 
- FORCE_STORM: "Conjuring a Force Storm"
- FORCE_STORM_DESC: "Force Sensitives with specific training can unleash a powerful lightning storm that causes havoc to ship systems."
+ FORCE_STORM: "Вызвать Шторм Силы"
+ FORCE_STORM_DESC: "Специалисты, чувствительные к силе, прошедшие специальную подготовку, могут вызвать мощный шторм, которая наносит ущерб корабельным системам."
  XL_FORCE_STORM: "Conjuring a Force Storm"
 
- DARK_BEAM: "Beam of Pure Darkside Energy"
- DARK_BEAM_DESC: "Members of the Dark Council can reach into the dark side to unleash raw terror and destruction on their enemies. No conventional weaponry can match this firepower."
- XL_DARK_BEAM: "Beam of Pure Darkside Energy"
+ DARK_BEAM: "Луч чистой энергии Тёмной стороны"
+ DARK_BEAM_DESC: "Члены Темного совета могут обратиться к темной стороне, чтобы обрушить неприкрытый ужас и разрушение на своих врагов. Никакое обычное вооружение не может сравниться с этой огневой мощью."
+ XL_DARK_BEAM: "Луч чистой энергии Тёмной стороны"
 
- LIGHT_BEAM: "Beam of Pure Lightside Energy"
- LIGHT_BEAM_DESC: "Members of the Jedi Council can tap into the light side of the Force itself to unleash destruction on their enemies. No conventional weaponry can match this firepower."
- XL_LIGHT_BEAM: "Beam of Pure Lightside Energy"
+ LIGHT_BEAM: "Луч чистой энергии Светлой стороны"
+ LIGHT_BEAM_DESC: "Члены Совета джедаев могут использовать Светлую сторону Силы, чтобы обрушить разрушение на своих врагов. Никакое обычное вооружение не может сравниться с этой огневой мощью."
+ XL_LIGHT_BEAM: "Луч чистой энергии Светлой стороны"
 
 
- ASTROMECH_DROIDS_1_DESC: "Astromech droids, also referred to as astro droids or mechs, are a type of repair droid that serve as an automated mechanic on starships. These compact droids use tool-tipped appendages stored in recessed compartments."
- ASTROMECH_DROIDS_2_DESC: "New manufacturers have produced more efficient astromechs for both public and private use. These will certainly help with maintaining our ships."
- ASTROMECH_DROIDS_3_DESC: "The newest and most advanced astromechs are capable of tasks that previous models could never do. And these improved models come with a higher cost."
- SHIP_QUANTUM_CRYSTAL_ARMOR_1_DESC: "By stacking a few layers of atoms as densely as the laws of physics could permit, and laminating them above another thin film that was as strong and phase shifted, it is possible to have an armor that is close to impenetrable."
- SHIP_QUANTUM_CRYSTAL_ARMOR_2_DESC: "The quantum-crystalline armor was reputed for being the toughest, most durable material in the entire galaxy, capable of surviving blaster-shots, collisions with starships and extreme planetary pressure."
+ ASTROMECH_DROIDS_1_DESC: "Дроиды-астромеханики, также называемые астродроидами или мехами, представляют собой тип ремонтных дроидов, которые служат в качестве автоматизированных механиков на космических кораблях. Эти компактные дроиды используют приспособления с наконечниками для инструментов, хранящиеся во встроенных отсеках."
+ ASTROMECH_DROIDS_2_DESC: "Новые производители выпустили более эффективных астромехаников как для общего, так и для частного использования. Это, безусловно, поможет в обслуживании наших кораблей."
+ ASTROMECH_DROIDS_3_DESC: "Новейшие и наиболее совершенные астромеханики способны выполнять задачи, с которыми предыдущие модели никогда не справлялись. И эти улучшенные модели имеют более высокую стоимость."
+ SHIP_QUANTUM_CRYSTAL_ARMOR_1_DESC: "Укладывая несколько слоев атомов настолько плотно, насколько позволяют законы физики, и наслаивая их поверх другой тонкой пленки, которая была бы такой же прочной и сдвинутой по фазе, можно получить броню, близкую к непробиваемой."
+ SHIP_QUANTUM_CRYSTAL_ARMOR_2_DESC: "Квантово-кристаллическая броня считалась самым прочным материалом во всей галактике, способным выдерживать выстрелы из бластеров, столкновения со звездолетами и экстремальное планетарное давление."
 
- FORCE_STORM_DESC: "Unlimited Power!"
- DARK_BEAM_DESC: "The power of the Dark side of the Force can be incredibly devastating."
- LIGHT_BEAM_DESC: "The power of the Light side of the Force can heal through extreme methods, reuniting sentients with the Force."
+ FORCE_STORM_DESC: "Безграничная Власть!"
+ DARK_BEAM_DESC: "Мощь Темной стороны Силы может быть невероятно разрушительной."
+ LIGHT_BEAM_DESC: "Мощь Светлой стороны Силы может исцелять с помощью экстремальных методов, воссоединяя разумных существ с Силой."
 
 # Artillery
  ARTILLERY_MISSILE_1: "Long Range Missile Battery"
@@ -1341,20 +1345,25 @@
  NO_INTERNAL_SIZE_IV_DESC: "No Dreadnought Internal Component equipped."
 
 # Beam Dish Lasers
- DISH_LASER_1: "KB-10a Beam Cannons"
+ DISH_LASER_1: "KB-10VMa Beam Cannons"
  DISH_LASER_1_DESC: "A prototype offshoot of the turbolaser technology, these lasers are capable of generating devastating energy beams with rather low range, mostly used for head on charges or close quarter fights with larger enemies."
- SMALL_DISH_LASER_1: "KB-10a Beam Cannon"
- MEDIUM_DISH_LASER_1: "Compostite-KB-10a Beam Cannon"
+ SMALL_DISH_LASER_1: "KB-10VMa Beam Cannon"
+ MEDIUM_DISH_LASER_1: "Compostite-KB-10VMa Beam Cannon"
 
- DISH_LASER_2: "KB-20a Beam Cannon"
+ DISH_LASER_2: "KB-20VM Beam Cannon"
  DISH_LASER_2_DESC: "Improved beyond the prototype status, these lasers are capable of generating devastating energy beams with rather low range, mostly used for head on charges or close quarter fights with larger enemies."
- SMALL_DISH_LASER_2: "KB-20a Beam Cannon"
- MEDIUM_DISH_LASER_2: "Compostite-KB-20a Beam Cannon"
+ SMALL_DISH_LASER_2: "KB-20VM Beam Cannon"
+ MEDIUM_DISH_LASER_2: "Compostite-KB-20VM Beam Cannon"
 
- DISH_LASER_3: "KB-30a Beam Cannon"
+ DISH_LASER_3: "KB-30VM Beam Cannon"
  DISH_LASER_3_DESC: "Modernized with state of the art technology, these lasers are capable of generating devastating energy beams with rather low range, mostly used for head on charges or close quarter fights with larger enemies."
- SMALL_DISH_LASER_3: "KB-30a Beam Cannon"
- MEDIUM_DISH_LASER_3: "Compostite-KB-30a Beam Cannon"
+ SMALL_DISH_LASER_3: "KB-30VM Beam Cannon"
+ MEDIUM_DISH_LASER_3: "Compostite-KB-30VM Beam Cannon"
+
+ DISH_LASER_4: "KB-40VM Beam Cannon"
+ DISH_LASER_4_DESC: "Modernized with state of the art technology, these lasers are capable of generating devastating energy beams with rather low range, mostly used for head on charges or close quarter fights with larger enemies."
+ SMALL_DISH_LASER_4: "KB-40VM Beam Cannon"
+ MEDIUM_DISH_LASER_4: "Compostite-KB-40VM Beam Cannon"
 
 ### Strike Craft
  LOTOR_LARGE_SCOUT_HANGAR_F: "Scout Fighter Hangar"
@@ -2141,8 +2150,8 @@
  SHIP_CHISS_CREW_SKYWALKER_BC_DESC: "$SHIP_CHISS_CREW_SKYWALKER_CO_DESC$"
  SHIP_CHISS_CREW_SKYWALKER_T: "Standard Size Crew with a Sky-Walker Navigator"
  SHIP_CHISS_CREW_SKYWALKER_T_DESC: "$SHIP_CHISS_CREW_SKYWALKER_CO_DESC$"
- SHIP_CHISS_CREW_SKYWALKER_J:  "Standard Size Crew with a Sky-Walker Navigator"
- SHIP_CHISS_CREW_SKYWALKER_J_DESC:  "$SHIP_CHISS_CREW_SKYWALKER_CO_DESC$"
+ SHIP_CHISS_CREW_SKYWALKER_J: "Standard Size Crew with a Sky-Walker Navigator"
+ SHIP_CHISS_CREW_SKYWALKER_J_DESC: "$SHIP_CHISS_CREW_SKYWALKER_CO_DESC$"
 
 ### Cloaking Generator
  CLOAKING_GENERATOR_1: "Stygium Cloaking Generator MKI"
@@ -2153,6 +2162,11 @@
  CLOAKING_GENERATOR_3_DESC: "Breakthroughs in the stygium refining process have made for a powerful and effective cloaking field capable of concealing most vessels comfortably and reliably."
  CLOAKING_GENERATOR_4: "Stygium Cloaking Generator MKIV"
  CLOAKING_GENERATOR_4_DESC: "The apex of cloaking generator technology, the Mark IV Cloak utilizes strains of adegan to bolster the stygium, producing a cloaking field powerful enough of concealing even the largest vessels within our fleet."
+
+ LOTOR_CLOAKING_1_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n$CLOAKING_GENERATOR_1$ can be installed on:\n§HCorvettes - Frigates§!"
+ LOTOR_CLOAKING_2_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n$CLOAKING_GENERATOR_2$ can be installed on:\n§HCorvettes - Heavy Cruisers§!"
+ LOTOR_CLOAKING_3_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n$CLOAKING_GENERATOR_3$ can be installed on:\n§HCorvettes - Battlecruisers§!"
+ LOTOR_CLOAKING_4_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n$CLOAKING_GENERATOR_4$ can be installed on:\n§HCorvettes - Dreadnoughts§!"
 
  INTERNAL_CLOAKING_GENERATOR_I_1: "$CLOAKING_GENERATOR_1$"
  INTERNAL_CLOAKING_GENERATOR_I_1_DESC: "$CLOAKING_GENERATOR_1_DESC$"

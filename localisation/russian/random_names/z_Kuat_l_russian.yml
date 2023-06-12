@@ -1,1464 +1,1464 @@
 ﻿l_russian:
- KUAT_halcyon: "Halcyon"
- KUAT_longspur: "Longspur"
- KUAT_itinerant: "Itinerant"
- KUAT_wayfarer: "Wayfarer"
- KUAT_wanderer: "Wanderer"
- KUAT_roamer: "Roamer"
- KUAT_farstrike: "Farstrike"
- KUAT_brawler: "Brawler"
- KUAT_brazen: "Brazen"
- KUAT_representative: "Representative"
- KUAT_threkin: "Threkin"
- KUAT_geedon: "Geedon"
- KUAT_glaser: "Glaser"
- KUAT_glazer: "Glazer"
- KUAT_godar: "Godar"
- KUAT_grappler: "Grappler"
- KUAT_habatok: "Habatok"
- KUAT_halifax: "Halifax"
- KUAT_howlrunner: "Howlrunner"
- KUAT_hyko: "Hyko"
- KUAT_intrepid: "Intrepid"
- KUAT_indefatigable: "Indefatigable"
- KUAT_vindicator: "Vindicator"
- KUAT_blethyline: "Blethyline"
- KUAT_canoid: "Canoid"
- KUAT_banshee: "Banshee"
- KUAT_victory: "Victory"
- KUAT_success: "Success"
- KUAT_triumph: "Triumph"
- KUAT_titan: "Titan"
- KUAT_harrower: "Harrower"
- KUAT_raider: "Raider"
- KUAT_nebula: "Nebula"
- KUAT_dauntless: "Dauntless"
- KUAT_providence: "Providence"
- KUAT_subjugator: "Subjugator"
- KUAT_conqueror: "Conqueror"
- KUAT_crusader: "Crusader"
- KUAT_glory: "Glory"
- KUAT_immortal: "Immortal"
- KUAT_judicator: "Judicator"
- KUAT_vanguard: "Vanguard"
- KUAT_renown: "Renown"
- KUAT_demolisher: "Demolisher"
- KUAT_storm: "Storm"
- KUAT_stormstrike: "Stormstrike"
- KUAT_striker: "Striker"
- KUAT_sundog: "Sundog"
- KUAT_talon: "Talon"
- KUAT_thrasher: "Thrasher"
- KUAT_thunder: "Thunder"
- KUAT_thunderstrike: "Thunderstrike"
- KUAT_purrgil: "Purrgil"
- KUAT_barloz: "Barloz"
- KUAT_bulk: "Bulk"
- KUAT_bursa: "Bursa"
- KUAT_bulwark: "Bulwark"
- KUAT_invincible: "Invincible"
- KUAT_valor: "Valor"
- KUAT_hammer: "Hammer"
- KUAT_sword: "Sword"
- KUAT_shield: "Shield"
- KUAT_brigand: "Brigand"
- KUAT_praetorian: "Praetorian"
- KUAT_lictor: "Lictor"
- KUAT_starlight: "Starlight"
- KUAT_dreadnaught: "Dreadnaught"
- KUAT_vainglorious: "Vainglorious"
- KUAT_tarvix: "Tarvix"
- KUAT_drexl: "Drexl"
- KUAT_rothana: "Rothana"
- KUAT_balmorra: "Balmorra"
- KUAT_lormar: "Lormar"
- KUAT_lupus: "Lupus"
- KUAT_onager: "Onager"
- KUAT_pursuit: "Pursuit"
- KUAT_bavos: "Bavos"
- KUAT_munifex: "Munifex"
- KUAT_mudhorn: "Mudhorn"
- KUAT_gundark: "Gundark"
- KUAT_vaya: "Vaya"
- KUAT_heraklon: "Heraklon"
- KUAT_core_systems: "Core Galaxy Systems"
- KUAT_atgeir: "Atgeir"
- KUAT_loth_wolf: "Loth Wolf"
- KUAT_demon_moon: "Demon Moon"
- KUAT_spice_runner: "Spice Runner"
- KUAT_class_1000: "Class 1000"
- KUAT_eagle_5: "Eagle 5"
- KUAT_neutron_star: "Neutron Star"
- KUAT_constr_aurek: "Constructor Aurek"
- KUAT_constr_besh: "Constructor Besh"
- KUAT_constr_cresh: "Constructor Cresh"
- KUAT_constr_dorn: "Constructor Dorn"
- KUAT_constr_forn: "Constructor Forn"
- KUAT_constr_grek: "Constructor Grek"
- KUAT_constr_herf: "Constructor Herf"
- KUAT_constr_isk: "Constructor Isk"
- KUAT_constr_jenth: "Constructor Jenth"
- KUAT_constr_krill: "Constructor Krill"
- KUAT_constr_leth: "Constructor Leth"
- KUAT_constr_mern: "Constructor Mern"
- KUAT_constr_nern: "Constructor Nern"
- KUAT_constr_osk: "Constructor Osk"
- KUAT_constr_peth: "Constructor Peth"
- KUAT_constr_senth: "Constructor Senth"
- KUAT_constr_trill: "Constructor Trill"
- KUAT_constr_usk: "Constructor Usk"
- KUAT_constr_vev: "Constructor Vev"
- KUAT_constr_wesk: "Constructor Wesk"
- KUAT_constr_xesh: "Constructor Xesh"
- KUAT_constr_yirt: "Constructor Yirt"
- KUAT_constr_zerek: "Constructor Zerek"
- KUAT_constr_cherek: "Constructor Cherek"
- KUAT_constr_qek: "Constructor Qek"
- KUAT_constr_resh: "Constructor Resh"
- KUAT_constr_enth: "Constructor Enth"
- KUAT_constr_onith: "Constructor Onith"
- KUAT_constr_krenth: "Constructor Krenth"
- KUAT_constr_nen: "Constructor Nen"
- KUAT_constr_orenth: "Constructor Orenth"
- KUAT_constr_shen: "Constructor Shen"
- KUAT_constr_thesh: "Constructor Thesh"
- KUAT_courier: "Courier"
- KUAT_ground_transport: "Ground Transport"
- KUAT_CLASS_guardian: "Guardian"
- KUAT_CLASS_trireme: "Trireme"
- KUAT_CLASS_longhorn: "Longhorn"
- KUAT_CLASS_kuat: "Kuat"
- KUAT_CLASS_mandator: "Mandator"
- KUAT_CLASS_goliath: "Goliath"
- KUAT_CLASS_xs_light_freighter: "XS Light Freighter"
- KUAT_CLASS_y_8: "Y-8"
- KUAT_FLEET_planetary_defense_force: "Planetary Defense Force"
- KUAT_FLEET_planetary_task_force: "Planetary Task Force"
- KUAT_FLEET_grand_armada: "Grand Armada"
- KUAT_FLEET_grand_fleet: "Grand Fleet"
- KUAT_FLEET_sector_defense_force: "Sector Defense Force"
- KUAT_FLEET_sector_command_fleet: "Sector Command Fleet"
- KUAT_FLEET_SEQUENTIAL_fleet: "$ORD$ Fleet"
- KUAT_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard"
- KUAT_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force"
- KUAT_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- KUAT_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- KUAT_ARMY_SEQUENTIAL_dread_commando: "$ORD$ Dread Commando"
- KUAT_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- KUAT_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- KUAT_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- KUAT_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- KUAT_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- KUAT_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- KUAT_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- KUAT_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- KUAT_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- KUAT_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- KUAT_CHR_dorian: "Dorian"
- KUAT_CHR_trondor: "Trondor"
- KUAT_CHR_khoss: "Khoss"
- KUAT_CHR_jonash: "Jonash"
- KUAT_CHR_carth: "Carth"
- KUAT_CHR_aric: "Aric"
- KUAT_CHR_tanno: "Tanno"
- KUAT_CHR_corso: "Corso"
- KUAT_CHR_languss: "Languss"
- KUAT_CHR_fideltin: "Fideltin"
- KUAT_CHR_tharan: "Tharan"
- KUAT_CHR_arrisan: "Arrisan"
- KUAT_CHR_meck: "Meck"
- KUAT_CHR_ved: "Ved"
- KUAT_CHR_luran: "Luran"
- KUAT_CHR_deringon: "Deringon"
- KUAT_CHR_parr: "Parr"
- KUAT_CHR_gellar: "Gellar"
- KUAT_CHR_gault: "Gault"
- KUAT_CHR_jimas: "Jimas"
- KUAT_CHR_saul: "Saul"
- KUAT_CHR_dallan: "Dallan"
- KUAT_CHR_catronus: "Catronus"
- KUAT_CHR_zayne: "Zayne"
- KUAT_CHR_bey_wan: "Bey'wan"
- KUAT_CHR_trede: "Trede"
- KUAT_CHR_dabrin: "Dabrin"
- KUAT_CHR_dol: "Dol"
- KUAT_CHR_telettoh: "Telettoh"
- KUAT_CHR_dannis: "Dannis"
- KUAT_CHR_helik: "Helik"
- KUAT_CHR_pevel: "Pevel"
- KUAT_CHR_signet: "Signet"
- KUAT_CHR_callan: "Callan"
- KUAT_CHR_vaner: "Vaner"
- KUAT_CHR_elara: "Elara"
- KUAT_CHR_risha: "Risha"
- KUAT_CHR_nadia: "Nadia"
- KUAT_CHR_marren: "Marren"
- KUAT_CHR_renalda: "Renalda"
- KUAT_CHR_sula: "Sula"
- KUAT_CHR_jynne: "Jynne"
- KUAT_CHR_fieler: "Fieler"
- KUAT_CHR_edvaalda: "Edvaalda"
- KUAT_CHR_elin: "Elin"
- KUAT_CHR_juul: "Juul"
- KUAT_CHR_kalyn: "Kalyn"
- KUAT_CHR_honor: "Honor"
- KUAT_CHR_noma: "Noma"
- KUAT_CHR_forn: "Forn"
- KUAT_CHR_mural: "Mural"
- KUAT_CHR_lina: "Lina"
- KUAT_CHR_leontyne: "Leontyne"
- KUAT_CHR_risi: "Risi"
- KUAT_CHR_onara: "Onara"
- KUAT_CHR_morvis: "Morvis"
- KUAT_CHR_laeca: "Laeca"
- KUAT_CHR_tol: "Tol"
- KUAT_CHR_doa: "Doa"
- KUAT_CHR_jebevel: "Jebevel"
- KUAT_CHR_vaila: "Vaila"
- KUAT_CHR_ulm: "Ulm"
- KUAT_CHR_fillorean: "Fillorean"
- KUAT_CHR_kirames: "Kirames"
- KUAT_CHR_janarus: "Janarus"
- KUAT_CHR_kuat: "Kuat"
- KUAT_CHR_saresh: "Saresh"
- KUAT_CHR_pyn: "Pyn"
- KUAT_CHR_onasi: "Onasi"
- KUAT_CHR_dorne: "Dorne"
- KUAT_CHR_jorgan: "Jorgan"
- KUAT_CHR_vik: "Vik"
- KUAT_CHR_drayen: "Drayen"
- KUAT_CHR_riggs: "Riggs"
- KUAT_CHR_tuno: "Tuno"
- KUAT_CHR_rusk: "Rusk"
- KUAT_CHR_cedrax: "Cedrax"
- KUAT_CHR_grell: "Grell"
- KUAT_CHR_antilles: "Antilles"
- KUAT_CHR_baliss: "Baliss"
- KUAT_CHR_cortess: "Cortess"
- KUAT_CHR_organa: "Organa"
- KUAT_CHR_darklighter: "Darklighter"
- KUAT_CHR_lars: "Lars"
- KUAT_CHR_kalus: "Kalus"
- KUAT_CHR_elna: "Elna"
- KUAT_CHR_agareth: "Agareth"
- KUAT_CHR_atem: "Atem"
- KUAT_CHR_veltra: "Veltra"
- KUAT_CHR_karath: "Karath"
- KUAT_CHR_sommos: "Sommos"
- KUAT_CHR_celwik: "Celwik"
- KUAT_CHR_dan: "Dan"
- KUAT_CHR_djo: "Djo"
- KUAT_CHR_feem: "Feem"
- KUAT_CHR_mothma: "Mothma"
- KUAT_CHR_fel: "Fel"
- KUAT_CHR_foslo: "Foslo"
- KUAT_CHR_garza: "Garza"
- KUAT_CHR_gonthor: "Gonthor"
- KUAT_CHR_isard: "Isard"
- KUAT_CHR_dume: "Dume"
- KUAT_CHR_jarrus: "Jarrus"
- KUAT_CHR_jax: "Jax"
- KUAT_CHR_jettster: "Jettster"
- KUAT_CHR_jinn: "Jinn"
- KUAT_CHR_pellaeon: "Pellaeon"
- KUAT_CHR_lobacc: "Lobacc"
- KUAT_CHR_martez: "Martez"
- KUAT_CHR_meeko: "Meeko"
- KUAT_CHR_pestage: "Pestage"
- KUAT_CHR_rennow: "Rennow"
- KUAT_CHR_lokai: "Lokai"
- KUAT_CHR_roing: "Roing"
- KUAT_CHR_salima: "Salima"
- KUAT_CHR_sienar: "Sienar"
- KUAT_CHR_tarkin: "Tarkin"
- KUAT_CHR_turmond: "Turmond"
- KUAT_CHR_yularen: "Yularen"
- KUAT_CHR_steffans: "Steffans"
- KUAT_CHR_carrick: "Carrick"
- KUAT_CHR_dodonna: "Dodonna"
- KUAT_CHR_aygo: "Aygo"
- KUAT_CHR_bakvalen: "Bakvalen"
- KUAT_CHR_narlock: "Narlock"
- KUAT_CHR_veriga: "Veriga"
- KUAT_CHR_kronara: "Kronara"
- KUAT_CHR_veen: "Veen"
- KUAT_CHR_soh: "Soh"
- KUAT_CHR_kalpana: "Kalpana"
- KUAT_CHR_ductavis: "Ductavis"
- KUAT_CHR_kaj: "Kaj"
- KUAT_CHR_darvus: "Darvus"
- KUAT_CHR_madon: "Madon"
- KUAT_CHR_frellka: "Frellka"
- KUAT_CHR_gonn: "Gonn"
- KUAT_CHR_nadab: "Nadab"
- KUAT_CHR_redrish: "Redrish"
- KUAT_CHR_rike: "Rike"
- KUAT_CHR_grayne: "Grayne"
- KUAT_CHR_finis: "Finis"
- KUAT_CHR_kodir: "Kodir"
- KUAT_CHR_pers_lya: "Pers'lya"
- KUAT_CHR_tarsus: "Tarsus"
- KUAT_CHR_eixes: "Eixes"
- KUAT_CHR_thoris: "Thoris"
- KUAT_CHR_fattum: "Fattum"
- KUAT_CHR_biel: "Biel"
- KUAT_CHR_skor: "Skor"
- KUAT_CHR_nagratha: "Nagratha"
- KUAT_CHR_chasen: "Chasen"
- KUAT_CHR_pultimo: "Pultimo"
- KUAT_CHR_sidrona: "Sidrona"
- KUAT_CHR_vocatara: "Vocatara"
- KUAT_CHR_teta: "Teta"
- KUAT_CHR_galena: "Galena"
- KUAT_CHR_valorum: "Valorum"
- KUAT_CHR_shan: "Shan"
- KUAT_CHR_lenoan: "Lenoan"
- KUAT_CHR_andrim: "Andrim"
- KUAT_CHR_depon: "Depon"
- KUAT_CHR_knylenn: "Knylenn"
- KUAT_CHR_kuhlvult: "Kuhlvult"
- KUAT_CHR_purkis: "Purkis"
- KUAT_CHR_praji: "Praji"
- KUAT_CHR_cressa: "Cressa"
- KUAT_CHR_delko: "Delko"
- KUAT_CHR_jerjerrod: "Jerjerrod"
- KUAT_CHR_pecivas: "Pecivas"
- KUAT_CHR_darus: "Darus"
- KUAT_CHR_brashere: "Brashere"
- KUAT_CHR_mezzileen: "Mezzileen"
- KUAT_CHR_piian: "Piian"
- KUAT_CHR_rans: "Rans"
- KUAT_CHR_thrackan: "Thrackan"
- KUAT_CHR_aiden: "Aiden"
- KUAT_CHR_wedge: "Wedge"
- KUAT_CHR_dur: "Dur"
- KUAT_CHR_keiran: "Keiran"
- KUAT_CHR_com: "Com"
- KUAT_CHR_shor: "Shor"
- KUAT_CHR_dupas: "Dupas"
- KUAT_CHR_zekka: "Zekka"
- KUAT_CHR_daclif: "Daclif"
- KUAT_CHR_crix: "Crix"
- KUAT_CHR_kirtan: "Kirtan"
- KUAT_CHR_corran: "Corran"
- KUAT_CHR_gil: "Gil"
- KUAT_CHR_diric: "Diric"
- KUAT_CHR_doman: "Doman"
- KUAT_CHR_aidel: "Aidel"
- KUAT_CHR_saz: "Saz"
- KUAT_CHR_threkin: "Threkin"
- KUAT_CHR_randil: "Randil"
- KUAT_CHR_den: "Den"
- KUAT_CHR_han: "Han"
- KUAT_CHR_korol: "Korol"
- KUAT_CHR_jacen: "Jacen"
- KUAT_CHR_karl: "Karl"
- KUAT_CHR_mathieu: "Mathieu"
- KUAT_CHR_tettsel: "Tettsel"
- KUAT_CHR_jagged: "Jagged"
- KUAT_CHR_bayle: "Bayle"
- KUAT_CHR_tormax: "Tormax"
- KUAT_CHR_seb: "Seb"
- KUAT_CHR_jareck: "Jareck"
- KUAT_CHR_jurnel: "Jurnel"
- KUAT_CHR_vol: "Vol"
- KUAT_CHR_conil: "Conil"
- KUAT_CHR_tekil: "Tekil"
- KUAT_CHR_shi: "Shi"
- KUAT_CHR_myron: "Myron"
- KUAT_CHR_jab: "Jab"
- KUAT_CHR_garm: "Garm"
- KUAT_CHR_odair: "Odair"
- KUAT_CHR_draykken: "Draykken"
- KUAT_CHR_hraykken: "Hraykken"
- KUAT_CHR_hiram: "Hiram"
- KUAT_CHR_anson: "Anson"
- KUAT_CHR_crev: "Crev"
- KUAT_CHR_natt: "Natt"
- KUAT_CHR_sunny: "Sunny"
- KUAT_CHR_dev: "Dev"
- KUAT_CHR_grov: "Grov"
- KUAT_CHR_ezra: "Ezra"
- KUAT_CHR_ront: "Ront"
- KUAT_CHR_jerem: "Jerem"
- KUAT_CHR_monti: "Monti"
- KUAT_CHR_cole: "Cole"
- KUAT_CHR_jorj: "Jorj"
- KUAT_CHR_lanius: "Lanius"
- KUAT_CHR_jonah: "Jonah"
- KUAT_CHR_jesseb: "Jesseb"
- KUAT_CHR_lon: "Lon"
- KUAT_CHR_banyon: "Banyon"
- KUAT_CHR_abagga: "Abagga"
- KUAT_CHR_bobor: "Bobor"
- KUAT_CHR_macz: "Macz"
- KUAT_CHR_cubber: "Cubber"
- KUAT_CHR_waroon: "Waroon"
- KUAT_CHR_sal: "Sal"
- KUAT_CHR_darvis: "Darvis"
- KUAT_CHR_skerrick: "Skerrick"
- KUAT_CHR_davrin: "Davrin"
- KUAT_CHR_deegan: "Deegan"
- KUAT_CHR_deflaros: "Deflaros"
- KUAT_CHR_sann: "Sann"
- KUAT_CHR_rothgar: "Rothgar"
- KUAT_CHR_dex: "Dex"
- KUAT_CHR_didjoa: "Didjoa"
- KUAT_CHR_myn: "Myn"
- KUAT_CHR_valon: "Valon"
- KUAT_CHR_chelch: "Chelch"
- KUAT_CHR_yustavan: "Yustavan"
- KUAT_CHR_tev: "Tev"
- KUAT_CHR_ivr: "Ivr"
- KUAT_CHR_atlan: "Atlan"
- KUAT_CHR_rik: "Rik"
- KUAT_CHR_voba: "Voba"
- KUAT_CHR_shol: "Shol"
- KUAT_CHR_thale: "Thale"
- KUAT_CHR_darv: "Darv"
- KUAT_CHR_erno: "Erno"
- KUAT_CHR_falco: "Falco"
- KUAT_CHR_barr: "Barr"
- KUAT_CHR_harlon: "Harlon"
- KUAT_CHR_annor: "Annor"
- KUAT_CHR_dannl: "Dannl"
- KUAT_CHR_chak: "Chak"
- KUAT_CHR_davin: "Davin"
- KUAT_CHR_soontir: "Soontir"
- KUAT_CHR_todr: "Todr"
- KUAT_CHR_almark: "Almark"
- KUAT_CHR_ilim: "Ilim"
- KUAT_CHR_ecclessis: "Ecclessis"
- KUAT_CHR_salovan: "Salovan"
- KUAT_CHR_mich: "Mich"
- KUAT_CHR_jace: "Jace"
- KUAT_CHR_crale: "Crale"
- KUAT_CHR_zorajas: "Zorajas"
- KUAT_CHR_jaylon: "Jaylon"
- KUAT_CHR_nov: "Nov"
- KUAT_CHR_gerrol: "Gerrol"
- KUAT_CHR_markus: "Markus"
- KUAT_CHR_pharnis: "Pharnis"
- KUAT_CHR_ellias: "Ellias"
- KUAT_CHR_scolex: "Scolex"
- KUAT_CHR_de_hoff: "De'hoff"
- KUAT_CHR_mramo: "Mramo"
- KUAT_CHR_elias: "Elias"
- KUAT_CHR_neeja: "Neeja"
- KUAT_CHR_kenth: "Kenth"
- KUAT_CHR_pol: "Pol"
- KUAT_CHR_viktor: "Viktor"
- KUAT_CHR_janzel: "Janzel"
- KUAT_CHR_hendrick: "Hendrick"
- KUAT_CHR_rodin: "Rodin"
- KUAT_CHR_enneth: "Enneth"
- KUAT_CHR_braganti: "Braganti"
- KUAT_CHR_helfin: "Helfin"
- KUAT_CHR_jenos: "Jenos"
- KUAT_CHR_ilyamo: "Ilyamo"
- KUAT_CHR_gol: "Gol"
- KUAT_CHR_falan: "Falan"
- KUAT_CHR_dinnik: "Dinnik"
- KUAT_CHR_irek: "Irek"
- KUAT_CHR_bran: "Bran"
- KUAT_CHR_jabi: "Jabi"
- KUAT_CHR_jakir: "Jakir"
- KUAT_CHR_mack: "Mack"
- KUAT_CHR_wildis: "Wildis"
- KUAT_CHR_tomi: "Tomi"
- KUAT_CHR_talan: "Talan"
- KUAT_CHR_joz: "Joz"
- KUAT_CHR_heff: "Heff"
- KUAT_CHR_kal: "Kal"
- KUAT_CHR_jori: "Jori"
- KUAT_CHR_joth: "Joth"
- KUAT_CHR_cohden: "Cohden"
- KUAT_CHR_ben: "Ben"
- KUAT_CHR_dorvin: "Dorvin"
- KUAT_CHR_craddock: "Craddock"
- KUAT_CHR_denell: "Denell"
- KUAT_CHR_van: "Van"
- KUAT_CHR_lex: "Lex"
- KUAT_CHR_erel: "Erel"
- KUAT_CHR_kett: "Kett"
- KUAT_CHR_shoan: "Shoan"
- KUAT_CHR_tan: "Tan"
- KUAT_CHR_nevis: "Nevis"
- KUAT_CHR_bidlo: "Bidlo"
- KUAT_CHR_pel: "Pel"
- KUAT_CHR_dael: "Dael"
- KUAT_CHR_aram: "Aram"
- KUAT_CHR_yade: "Yade"
- KUAT_CHR_zuld: "Zuld"
- KUAT_CHR_yanus: "Yanus"
- KUAT_CHR_barid: "Barid"
- KUAT_CHR_dayvid: "Dayvid"
- KUAT_CHR_tosk: "Tosk"
- KUAT_CHR_hurn: "Hurn"
- KUAT_CHR_derremd: "Derremd"
- KUAT_CHR_janqual: "Janqual"
- KUAT_CHR_stax: "Stax"
- KUAT_CHR_fenig: "Fenig"
- KUAT_CHR_bek: "Bek"
- KUAT_CHR_romas: "Romas"
- KUAT_CHR_nozzo: "Nozzo"
- KUAT_CHR_jasper: "Jasper"
- KUAT_CHR_aalos: "Aalos"
- KUAT_CHR_galidon: "Galidon"
- KUAT_CHR_jav: "Jav"
- KUAT_CHR_lorn: "Lorn"
- KUAT_CHR_gilad: "Gilad"
- KUAT_CHR_kazic: "Kazic"
- KUAT_CHR_malik: "Malik"
- KUAT_CHR_petro: "Petro"
- KUAT_CHR_phaeris: "Phaeris"
- KUAT_CHR_keekrim: "Keekrim"
- KUAT_CHR_ilir: "Ilir"
- KUAT_CHR_dubrank: "Dubrank"
- KUAT_CHR_mat: "Mat"
- KUAT_CHR_rallo: "Rallo"
- KUAT_CHR_custo: "Custo"
- KUAT_CHR_tait: "Tait"
- KUAT_CHR_ubis: "Ubis"
- KUAT_CHR_dash: "Dash"
- KUAT_CHR_rosh: "Rosh"
- KUAT_CHR_palejo: "Palejo"
- KUAT_CHR_andronikos: "Andronikos"
- KUAT_CHR_jerris: "Jerris"
- KUAT_CHR_rion: "Rion"
- KUAT_CHR_thaddeus: "Thaddeus"
- KUAT_CHR_barit: "Barit"
- KUAT_CHR_cyru: "Cyru"
- KUAT_CHR_jornel: "Jornel"
- KUAT_CHR_newin: "Newin"
- KUAT_CHR_pech: "Pech"
- KUAT_CHR_sevik: "Sevik"
- KUAT_CHR_finn: "Finn"
- KUAT_CHR_hershel: "Hershel"
- KUAT_CHR_hasadar: "Hasadar"
- KUAT_CHR_sherro: "Sherro"
- KUAT_CHR_silas: "Silas"
- KUAT_CHR_tennet: "Tennet"
- KUAT_CHR_jarred: "Jarred"
- KUAT_CHR_chun: "Chun"
- KUAT_CHR_keevy: "Keevy"
- KUAT_CHR_raan: "Raan"
- KUAT_CHR_jord: "Jord"
- KUAT_CHR_sarvel: "Sarvel"
- KUAT_CHR_galvain: "Galvain"
- KUAT_CHR_denjax: "Denjax"
- KUAT_CHR_booster: "Booster"
- KUAT_CHR_probus: "Probus"
- KUAT_CHR_pavik: "Pavik"
- KUAT_CHR_renn: "Renn"
- KUAT_CHR_mill: "Mill"
- KUAT_CHR_garv: "Garv"
- KUAT_CHR_harval: "Harval"
- KUAT_CHR_fynn: "Fynn"
- KUAT_CHR_hugo: "Hugo"
- KUAT_CHR_tam: "Tam"
- KUAT_CHR_denetrius: "Denetrius"
- KUAT_CHR_vinro: "Vinro"
- KUAT_CHR_wex: "Wex"
- KUAT_CHR_jos: "Jos"
- KUAT_CHR_fliry: "Fliry"
- KUAT_CHR_halden: "Halden"
- KUAT_CHR_emmin: "Emmin"
- KUAT_CHR_attico: "Attico"
- KUAT_CHR_edbr: "Edbr"
- KUAT_CHR_brimon: "Brimon"
- KUAT_CHR_genna: "Genna"
- KUAT_CHR_fyric: "Fyric"
- KUAT_CHR_iella: "Iella"
- KUAT_CHR_sena: "Sena"
- KUAT_CHR_irenez: "Irenez"
- KUAT_CHR_dani: "Dani"
- KUAT_CHR_jaina: "Jaina"
- KUAT_CHR_danielle: "Danielle"
- KUAT_CHR_tiion: "Tiion"
- KUAT_CHR_allana: "Allana"
- KUAT_CHR_ania: "Ania"
- KUAT_CHR_dalla: "Dalla"
- KUAT_CHR_mirax: "Mirax"
- KUAT_CHR_wynssa: "Wynssa"
- KUAT_CHR_tira: "Tira"
- KUAT_CHR_corinna: "Corinna"
- KUAT_CHR_kandria: "Kandria"
- KUAT_CHR_tess: "Tess"
- KUAT_CHR_vora: "Vora"
- KUAT_CHR_annissya: "Annissya"
- KUAT_CHR_myri: "Myri"
- KUAT_CHR_syal: "Syal"
- KUAT_CHR_zena: "Zena"
- KUAT_CHR_elga: "Elga"
- KUAT_CHR_frei: "Frei"
- KUAT_CHR_camelle: "Camelle"
- KUAT_CHR_deli: "Deli"
- KUAT_CHR_roxi: "Roxi"
- KUAT_CHR_elsen: "Elsen"
- KUAT_CHR_deena: "Deena"
- KUAT_CHR_areta: "Areta"
- KUAT_CHR_sulen: "Sulen"
- KUAT_CHR_bey: "Bey"
- KUAT_CHR_annali: "Annali"
- KUAT_CHR_dova: "Dova"
- KUAT_CHR_brusela: "Brusela"
- KUAT_CHR_anni: "Anni"
- KUAT_CHR_chai: "Chai"
- KUAT_CHR_kimmi: "Kimmi"
- KUAT_CHR_cora: "Cora"
- KUAT_CHR_vella: "Vella"
- KUAT_CHR_josta: "Josta"
- KUAT_CHR_viera: "Viera"
- KUAT_CHR_zindra: "Zindra"
- KUAT_CHR_coril: "Coril"
- KUAT_CHR_dayana: "Dayana"
- KUAT_CHR_destha: "Destha"
- KUAT_CHR_yama: "Yama"
- KUAT_CHR_atlanna: "Atlanna"
- KUAT_CHR_coraline: "Coraline"
- KUAT_CHR_trins: "Trins"
- KUAT_CHR_shandy: "Shandy"
- KUAT_CHR_karin: "Karin"
- KUAT_CHR_ajai: "Ajai"
- KUAT_CHR_naz: "Naz"
- KUAT_CHR_maris: "Maris"
- KUAT_CHR_bant_ena: "Bant'ena"
- KUAT_CHR_fianna: "Fianna"
- KUAT_CHR_teraeza: "Teraeza"
- KUAT_CHR_cilyn: "Cilyn"
- KUAT_CHR_jes: "Jes"
- KUAT_CHR_gixsa: "Gixsa"
- KUAT_CHR_ta_mara: "Ta-mara"
- KUAT_CHR_mara: "Mara"
- KUAT_CHR_tag: "Tag"
- KUAT_CHR_gallura: "Gallura"
- KUAT_CHR_bleys: "Bleys"
- KUAT_CHR_kylaena: "Kylaena"
- KUAT_CHR_hethra: "Hethra"
- KUAT_CHR_hirka: "Hirka"
- KUAT_CHR_sola: "Sola"
- KUAT_CHR_nola: "Nola"
- KUAT_CHR_iris: "Iris"
- KUAT_CHR_brali: "Brali"
- KUAT_CHR_relva: "Relva"
- KUAT_CHR_jasha: "Jasha"
- KUAT_CHR_jenna: "Jenna"
- KUAT_CHR_renga: "Renga"
- KUAT_CHR_nyche: "Nyche"
- KUAT_CHR_waria: "Waria"
- KUAT_CHR_erin: "Erin"
- KUAT_CHR_kalifa: "Kalifa"
- KUAT_CHR_vara: "Vara"
- KUAT_CHR_karena: "Karena"
- KUAT_CHR_kess: "Kess"
- KUAT_CHR_ala: "Ala"
- KUAT_CHR_kiza: "Kiza"
- KUAT_CHR_adele: "Adele"
- KUAT_CHR_vani: "Vani"
- KUAT_CHR_kym: "Kym"
- KUAT_CHR_shandria: "Shandria"
- KUAT_CHR_laudica: "Laudica"
- KUAT_CHR_lilith: "Lilith"
- KUAT_CHR_brandy: "Brandy"
- KUAT_CHR_veega: "Veega"
- KUAT_CHR_lanah: "Lanah"
- KUAT_CHR_vinya: "Vinya"
- KUAT_CHR_meloria: "Meloria"
- KUAT_CHR_shyla: "Shyla"
- KUAT_CHR_navah: "Navah"
- KUAT_CHR_nevhra: "Nevhra"
- KUAT_CHR_ballia: "Ballia"
- KUAT_CHR_lilea: "Lilea"
- KUAT_CHR_sia: "Sia"
- KUAT_CHR_mindra: "Mindra"
- KUAT_CHR_kryss: "Kryss"
- KUAT_CHR_esa: "Esa"
- KUAT_CHR_faye: "Faye"
- KUAT_CHR_rhea: "Rhea"
- KUAT_CHR_rica: "Rica"
- KUAT_CHR_adea: "Adea"
- KUAT_CHR_chertyl: "Chertyl"
- KUAT_CHR_sapra: "Sapra"
- KUAT_CHR_vega: "Vega"
- KUAT_CHR_seyda: "Seyda"
- KUAT_CHR_falthina: "Falthina"
- KUAT_CHR_sheelya: "Sheelya"
- KUAT_CHR_nifera: "Nifera"
- KUAT_CHR_syrin: "Syrin"
- KUAT_CHR_bria: "Bria"
- KUAT_CHR_sera: "Sera"
- KUAT_CHR_siolle: "Siolle"
- KUAT_CHR_syla: "Syla"
- KUAT_CHR_zayna: "Zayna"
- KUAT_CHR_brindy: "Brindy"
- KUAT_CHR_arada: "Arada"
- KUAT_CHR_saza: "Saza"
- KUAT_CHR_milinae: "Milinae"
- KUAT_CHR_trilinae: "Trilinae"
- KUAT_CHR_shaedra: "Shaedra"
- KUAT_CHR_ecile: "Ecile"
- KUAT_CHR_orpa: "Orpa"
- KUAT_CHR_vralla: "Vralla"
- KUAT_CHR_vye: "Vye"
- KUAT_CHR_alana: "Alana"
- KUAT_CHR_teniel: "Teniel"
- KUAT_CHR_demmi: "Demmi"
- KUAT_CHR_erris: "Erris"
- KUAT_CHR_jannitha: "Jannitha"
- KUAT_CHR_hoclaw: "Hoclaw"
- KUAT_CHR_saxan: "Saxan"
- KUAT_CHR_gejjen: "Gejjen"
- KUAT_CHR_delpin: "Delpin"
- KUAT_CHR_bedoch: "Bedoch"
- KUAT_CHR_halcyon: "Halcyon"
- KUAT_CHR_horn: "Horn"
- KUAT_CHR_fordox: "Fordox"
- KUAT_CHR_merricope: "Merricope"
- KUAT_CHR_thomree: "Thomree"
- KUAT_CHR_thyne: "Thyne"
- KUAT_CHR_gallamby: "Gallamby"
- KUAT_CHR_madine: "Madine"
- KUAT_CHR_starflare: "Starflare"
- KUAT_CHR_loor: "Loor"
- KUAT_CHR_bastra: "Bastra"
- KUAT_CHR_wessiri: "Wessiri"
- KUAT_CHR_beruss: "Beruss"
- KUAT_CHR_micamberlecto: "Micamberlecto"
- KUAT_CHR_terrik: "Terrik"
- KUAT_CHR_leikvold: "Leikvold"
- KUAT_CHR_midanyl: "Midanyl"
- KUAT_CHR_tyrson: "Tyrson"
- KUAT_CHR_faytonni: "Faytonni"
- KUAT_CHR_horm: "Horm"
- KUAT_CHR_kieran: "Kieran"
- KUAT_CHR_sal_solo: "Sal-Solo"
- KUAT_CHR_solo: "Solo"
- KUAT_CHR_a_daasha: "A'Daasha"
- KUAT_CHR_alder: "Alder"
- KUAT_CHR_ancher: "Ancher"
- KUAT_CHR_anjek: "Anjek"
- KUAT_CHR_anker: "Anker"
- KUAT_CHR_anyell: "Anyell"
- KUAT_CHR_arbo: "Arbo"
- KUAT_CHR_archan: "Archan"
- KUAT_CHR_ardellian: "Ardellian"
- KUAT_CHR_arkos: "Arkos"
- KUAT_CHR_arned: "Arned"
- KUAT_CHR_arrant: "Arrant"
- KUAT_CHR_aycen: "Aycen"
- KUAT_CHR_bakarn: "Bakarn"
- KUAT_CHR_barad: "Barad"
- KUAT_CHR_barje: "Barje"
- KUAT_CHR_barl: "Barl"
- KUAT_CHR_barthis: "Barthis"
- KUAT_CHR_bata: "Bata"
- KUAT_CHR_beech: "Beech"
- KUAT_CHR_beetilles: "Beetilles"
- KUAT_CHR_behar: "Behar"
- KUAT_CHR_bel_iblis: "Bel Iblis"
- KUAT_CHR_bel_opis: "Bel-Opis"
- KUAT_CHR_bell: "Bell"
- KUAT_CHR_belos: "Belos"
- KUAT_CHR_bender: "Bender"
- KUAT_CHR_bilure: "Bilure"
- KUAT_CHR_bish: "Bish"
- KUAT_CHR_bissa: "Bissa"
- KUAT_CHR_blancken: "Blancken"
- KUAT_CHR_bombassa: "Bombassa"
- KUAT_CHR_bordo: "Bordo"
- KUAT_CHR_boshek: "BoShek"
- KUAT_CHR_bounder: "Bounder"
- KUAT_CHR_bratt: "Bratt"
- KUAT_CHR_breeger: "Breeger"
- KUAT_CHR_bricker: "Bricker"
- KUAT_CHR_brigger: "Brigger"
- KUAT_CHR_bruckman: "Bruckman"
- KUAT_CHR_buroy: "Buroy"
- KUAT_CHR_burr_naxis: "Burr Naxis"
- KUAT_CHR_byrnloo: "Byrnloo"
- KUAT_CHR_cadmir: "Cadmir"
- KUAT_CHR_calay: "Calay"
- KUAT_CHR_cantarus: "Cantarus"
- KUAT_CHR_capstan: "Capstan"
- KUAT_CHR_car_das: "Car'das"
- KUAT_CHR_carr: "Carr"
- KUAT_CHR_carter: "Carter"
- KUAT_CHR_chyler: "Chyler"
- KUAT_CHR_convorr: "Convorr"
- KUAT_CHR_cope: "Cope"
- KUAT_CHR_corse: "Corse"
- KUAT_CHR_cracken: "Cracken"
- KUAT_CHR_craddok: "Craddok"
- KUAT_CHR_creel: "Creel"
- KUAT_CHR_crisk: "Crisk"
- KUAT_CHR_cynthisa: "Cynthisa"
- KUAT_CHR_daine: "Daine"
- KUAT_CHR_dak: "Dak"
- KUAT_CHR_dakron: "Dakron"
- KUAT_CHR_das: "Das"
- KUAT_CHR_daskmin: "Daskmin"
- KUAT_CHR_dekker: "Dekker"
- KUAT_CHR_deng: "Deng"
- KUAT_CHR_devlin: "Devlin"
- KUAT_CHR_donos: "Donos"
- KUAT_CHR_dotyk: "Dotyk"
- KUAT_CHR_draav: "Draav"
- KUAT_CHR_drass: "Drass"
- KUAT_CHR_dravvad: "Dravvad"
- KUAT_CHR_dreezian: "Dreezian"
- KUAT_CHR_driscull: "Driscull"
- KUAT_CHR_dubreas: "Dubreas"
- KUAT_CHR_duey: "Duey"
- KUAT_CHR_durron: "Durron"
- KUAT_CHR_dustrunner: "Dustrunner"
- KUAT_CHR_dynes: "Dynes"
- KUAT_CHR_eldon: "Eldon"
- KUAT_CHR_evnar: "Evnar"
- KUAT_CHR_faldrin: "Faldrin"
- KUAT_CHR_fanaso: "Fanaso"
- KUAT_CHR_fane: "Fane"
- KUAT_CHR_fash: "Fash"
- KUAT_CHR_featherlight: "Featherlight"
- KUAT_CHR_feleema: "Feleema"
- KUAT_CHR_felyood: "Felyood"
- KUAT_CHR_ferasi: "Ferasi"
- KUAT_CHR_varangi: "Varangi"
- KUAT_CHR_ferd: "Ferd"
- KUAT_CHR_fhernan: "Fhernan"
- KUAT_CHR_fische: "Fische"
- KUAT_CHR_flenn: "Flenn"
- KUAT_CHR_forno: "Forno"
- KUAT_CHR_forte: "Forte"
- KUAT_CHR_furloti: "Furloti"
- KUAT_CHR_gadren: "Gadren"
- KUAT_CHR_gara: "Gara"
- KUAT_CHR_garamin: "Garamin"
- KUAT_CHR_geissler: "Geissler"
- KUAT_CHR_hun: "Hun"
- KUAT_CHR_glider: "Glider"
- KUAT_CHR_gistang: "Gistang"
- KUAT_CHR_gleasry: "Gleasry"
- KUAT_CHR_gorlin: "Gorlin"
- KUAT_CHR_grath: "Grath"
- KUAT_CHR_greenley: "Greenley"
- KUAT_CHR_fulfel: "Fulfel"
- KUAT_CHR_gurah: "Gurah"
- KUAT_CHR_halbert: "Halbert"
- KUAT_CHR_hamber: "Hamber"
- KUAT_CHR_hamner: "Hamner"
- KUAT_CHR_handerin: "Handerin"
- KUAT_CHR_harand: "Harand"
- KUAT_CHR_haley: "Haley"
- KUAT_CHR_hel: "Hel"
- KUAT_CHR_helot: "Helot"
- KUAT_CHR_hieks: "Hieks"
- KUAT_CHR_higron: "Higron"
- KUAT_CHR_holkin: "Holkin"
- KUAT_CHR_hooge: "Hooge"
- KUAT_CHR_hus: "Hus"
- KUAT_CHR_huutar: "Huutar"
- KUAT_CHR_idanian: "Idanian"
- KUAT_CHR_inacc: "Inacc"
- KUAT_CHR_indervin: "Indervin"
- KUAT_CHR_iniro: "Iniro"
- KUAT_CHR_innik: "Innik"
- KUAT_CHR_isken: "Isken"
- KUAT_CHR_jiklip: "Jiklip"
- KUAT_CHR_jinsin: "Jinsin"
- KUAT_CHR_jixton: "Jixton"
- KUAT_CHR_joben: "Joben"
- KUAT_CHR_jodhul: "Jodhul"
- KUAT_CHR_jofer: "Jofer"
- KUAT_CHR_johnair: "Johnair"
- KUAT_CHR_jorek: "Jorek"
- KUAT_CHR_junus: "Junus"
- KUAT_CHR_k_reye: "K'Reye"
- KUAT_CHR_kahob: "Kahob"
- KUAT_CHR_kantt: "Kantt"
- KUAT_CHR_kanu: "Kanu"
- KUAT_CHR_karathas: "Karathas"
- KUAT_CHR_katrane: "Katrane"
- KUAT_CHR_keer: "Keer"
- KUAT_CHR_kel_vannon: "Kel'Vannon"
- KUAT_CHR_van_kellen: "Van Kellen"
- KUAT_CHR_kener: "Kener"
- KUAT_CHR_kersos: "Kersos"
- KUAT_CHR_kilian: "Kilian"
- KUAT_CHR_kimbo: "Kimbo"
- KUAT_CHR_kirin: "Kirin"
- KUAT_CHR_kitt: "Kitt"
- KUAT_CHR_konya: "Konya"
- KUAT_CHR_korr: "Korr"
- KUAT_CHR_krast: "Krast"
- KUAT_CHR_kwerve: "Kwerve"
- KUAT_CHR_kwinn: "Kwinn"
- KUAT_CHR_l_hnnar: "L'hnnar"
- KUAT_CHR_lerann: "Lerann"
- KUAT_CHR_levare: "Levare"
- KUAT_CHR_locke: "Locke"
- KUAT_CHR_loren: "Loren"
- KUAT_CHR_loroan: "Loroan"
- KUAT_CHR_m_rak: "M'rak"
- KUAT_CHR_madish: "Madish"
- KUAT_CHR_malo: "Malo"
- KUAT_CHR_mar_shayal: "Mar-Shayal"
- KUAT_CHR_maysor: "Maysor"
- KUAT_CHR_mccallok: "McCallok"
- KUAT_CHR_king: "King"
- KUAT_CHR_melikan: "Melikan"
- KUAT_CHR_millano: "Millano"
- KUAT_CHR_moeda: "Moeda"
- KUAT_CHR_montis: "Montis"
- KUAT_CHR_mor: "Mor"
- KUAT_CHR_mullawny: "Mullawny"
- KUAT_CHR_nabon: "Nabon"
- KUAT_CHR_nataal: "Nataal"
- KUAT_CHR_navander: "Navander"
- KUAT_CHR_naytaan: "Naytaan"
- KUAT_CHR_nedmak: "Nedmak"
- KUAT_CHR_nimbi: "Nimbi"
- KUAT_CHR_noaddo: "Noaddo"
- KUAT_CHR_noorg: "Noorg"
- KUAT_CHR_norrin: "Norrin"
- KUAT_CHR_okanor: "Okanor"
- KUAT_CHR_p_teska: "P'teska"
- KUAT_CHR_paol: "Paol"
- KUAT_CHR_parna: "Parna"
- KUAT_CHR_patrell: "Patrell"
- KUAT_CHR_pavan: "Pavan"
- KUAT_CHR_pax: "Pax"
- KUAT_CHR_pendre: "Pendre"
- KUAT_CHR_pendron: "Pendron"
- KUAT_CHR_pon: "Pon"
- KUAT_CHR_post: "Post"
- KUAT_CHR_qennto: "Qennto"
- KUAT_CHR_rai: "Rai"
- KUAT_CHR_ramak: "Ramak"
- KUAT_CHR_reendorr: "Reendorr"
- KUAT_CHR_rendar: "Rendar"
- KUAT_CHR_reshad: "Reshad"
- KUAT_CHR_rez: "Rez"
- KUAT_CHR_rite: "Rite"
- KUAT_CHR_rojo: "Rojo"
- KUAT_CHR_ross: "Ross"
- KUAT_CHR_rydel: "Rydel"
- KUAT_CHR_saiy: "Saiy"
- KUAT_CHR_salpivo: "SalPivo"
- KUAT_CHR_sarkee: "Sarkee"
- KUAT_CHR_sassich: "Sassich"
- KUAT_CHR_sau: "Sau"
- KUAT_CHR_savas: "Savas"
- KUAT_CHR_seedel: "Seedel"
- KUAT_CHR_seki: "Seki"
- KUAT_CHR_seldin: "Seldin"
- KUAT_CHR_sepen: "Sepen"
- KUAT_CHR_shae: "Shae"
- KUAT_CHR_shallo: "Shallo"
- KUAT_CHR_sharest: "Sharest"
- KUAT_CHR_shelby: "Shelby"
- KUAT_CHR_shu: "Shu"
- KUAT_CHR_sionaro: "Sionaro"
- KUAT_CHR_sirrah: "Sirrah"
- KUAT_CHR_sistek: "Sistek"
- KUAT_CHR_spart: "Spart"
- KUAT_CHR_stasheff: "Stasheff"
- KUAT_CHR_stokk: "Stokk"
- KUAT_CHR_suul: "Suul"
- KUAT_CHR_swan: "Swan"
- KUAT_CHR_swift: "Swift"
- KUAT_CHR_tal_oldra: "Tal-Oldra"
- KUAT_CHR_tark: "Tark"
- KUAT_CHR_teppler: "Teppler"
- KUAT_CHR_tharen: "Tharen"
- KUAT_CHR_thrakus: "Thrakus"
- KUAT_CHR_timmer: "Timmer"
- KUAT_CHR_tinta: "Tinta"
- KUAT_CHR_tipper: "Tipper"
- KUAT_CHR_tomas: "Tomas"
- KUAT_CHR_tommick: "Tommick"
- KUAT_CHR_torbul: "Torbul"
- KUAT_CHR_tors: "Tors"
- KUAT_CHR_torve: "Torve"
- KUAT_CHR_tredahl: "Tredahl"
- KUAT_CHR_treece: "Treece"
- KUAT_CHR_truchong: "Truchong"
- KUAT_CHR_tumu: "Tumu"
- KUAT_CHR_turhaya: "Turhaya"
- KUAT_CHR_uliss: "Uliss"
- KUAT_CHR_ulbert: "Ulbert"
- KUAT_CHR_undea: "Undea"
- KUAT_CHR_untaire: "Untaire"
- KUAT_CHR_valouri: "Valouri"
- KUAT_CHR_verenar: "Verenar"
- KUAT_CHR_vergesso: "Vergesso"
- KUAT_CHR_vidian: "Vidian"
- KUAT_CHR_vinram: "Vinram"
- KUAT_CHR_vio: "Vio"
- KUAT_CHR_vitale: "Vitale"
- KUAT_CHR_vondar: "Vondar"
- KUAT_CHR_vorr: "Vorr"
- KUAT_CHR_vorru: "Vorru"
- KUAT_CHR_walden: "Walden"
- KUAT_CHR_waray: "Waray"
- KUAT_CHR_wes: "Wes"
- KUAT_CHR_wred: "Wred"
- KUAT_CHR_wyum: "Wyum"
- KUAT_CHR_xoczuko: "Xoczuko"
- KUAT_CHR_yamagh: "Yamagh"
- KUAT_CHR_yarar: "Yarar"
- KUAT_CHR_berethron: "Berethron"
- KUAT_CHR_threkim: "Threkim"
- KUAT_CHR_hal: "Hal"
- KUAT_CHR_rostek: "Rostek"
- KUAT_CHR_hundi: "Hundi"
- KUAT_CHR_scerra: "Scerra"
- KUAT_CHR_darriovof_iii: "Darriovof III"
- KUAT_CHR_darriovof_iv: "Darriovof IV"
- KUAT_CHR_alek: "Alek"
- KUAT_CHR_bail: "Bail"
- KUAT_CHR_balic: "Balic"
- KUAT_CHR_bevek: "Bevek"
- KUAT_CHR_bornan: "Bornan"
- KUAT_CHR_bouris: "Bouris"
- KUAT_CHR_cedarik: "Cedarik"
- KUAT_CHR_charle: "Charle"
- KUAT_CHR_dargus: "Dargus"
- KUAT_CHR_deral: "Deral"
- KUAT_CHR_deris: "Deris"
- KUAT_CHR_dolin: "Dolin"
- KUAT_CHR_dugan: "Dugan"
- KUAT_CHR_elz: "Elz"
- KUAT_CHR_elkin: "Elkin"
- KUAT_CHR_gaul: "Gaul"
- KUAT_CHR_gevin: "Gevin"
- KUAT_CHR_gorm: "Gorm"
- KUAT_CHR_gram: "Gram"
- KUAT_CHR_gurveer: "Gurveer"
- KUAT_CHR_hall: "Hall"
- KUAT_CHR_heeth: "Heeth"
- KUAT_CHR_inivon: "Inivon"
- KUAT_CHR_ivers: "Ivers"
- KUAT_CHR_jeremoch: "Jeremoch"
- KUAT_CHR_jharkus: "Jharkus"
- KUAT_CHR_joral: "Joral"
- KUAT_CHR_kamen: "Kamen"
- KUAT_CHR_kan_grell: "Kan'grell"
- KUAT_CHR_keldas: "Keldas"
- KUAT_CHR_kelen: "Kelen"
- KUAT_CHR_larbec: "Larbec"
- KUAT_CHR_lenn: "Lenn"
- KUAT_CHR_lieber: "Lieber"
- KUAT_CHR_linel: "Linel"
- KUAT_CHR_lew: "Lew"
- KUAT_CHR_melas: "Melas"
- KUAT_CHR_nayel: "Nayel"
- KUAT_CHR_nomar: "Nomar"
- KUAT_CHR_nial: "Nial"
- KUAT_CHR_orrick: "Orrick"
- KUAT_CHR_pashon: "Pashon"
- KUAT_CHR_perovius: "Perovius"
- KUAT_CHR_paulus: "Paulus"
- KUAT_CHR_quarn: "Quarn"
- KUAT_CHR_raal: "Raal"
- KUAT_CHR_raffid: "Raffid"
- KUAT_CHR_raikon: "Raikon"
- KUAT_CHR_rak: "Rak"
- KUAT_CHR_raymus: "Raymus"
- KUAT_CHR_raynar: "Raynar"
- KUAT_CHR_rehmar: "Rehmar"
- KUAT_CHR_rickard: "Rickard"
- KUAT_CHR_serjay: "Serjay"
- KUAT_CHR_seraph: "Seraph"
- KUAT_CHR_stavin: "Stavin"
- KUAT_CHR_taros: "Taros"
- KUAT_CHR_tash: "Tash"
- KUAT_CHR_tenantius: "Tenantius"
- KUAT_CHR_tavion: "Tavion"
- KUAT_CHR_thorin: "Thorin"
- KUAT_CHR_teral: "Teral"
- KUAT_CHR_trask: "Trask"
- KUAT_CHR_tyko: "Tyko"
- KUAT_CHR_varus: "Varus"
- KUAT_CHR_vessex: "Vessex"
- KUAT_CHR_victor: "Victor"
- KUAT_CHR_voron: "Voron"
- KUAT_CHR_weeznod: "Weeznod"
- KUAT_CHR_wynne: "Wynne"
- KUAT_CHR_xin: "Xin"
- KUAT_CHR_yils: "Yils"
- KUAT_CHR_yudin: "Yudin"
- KUAT_CHR_yun: "Yun"
- KUAT_CHR_zacar: "Zacar"
- KUAT_CHR_stanel_andaren: "Stanel Andaren"
- KUAT_CHR_corlis_brado: "Corlis Brado"
- KUAT_CHR_aered: "Aered"
- KUAT_CHR_cael: "Cael"
- KUAT_CHR_peema: "Peema"
- KUAT_CHR_bryce: "Bryce"
- KUAT_CHR_atton: "Atton"
- KUAT_CHR_agrippa: "Agrippa"
- KUAT_CHR_stonroy: "Stonroy"
- KUAT_CHR_kalf: "Kalf"
- KUAT_CHR_zak: "Zak"
- KUAT_CHR_vestin: "Vestin"
- KUAT_CHR_denri: "Denri"
- KUAT_CHR_sehn: "Sehn"
- KUAT_CHR_bradel: "Bradel"
- KUAT_CHR_brinn: "Brinn"
- KUAT_CHR_bylsma: "Bylsma"
- KUAT_CHR_skoloc: "Skoloc"
- KUAT_CHR_tycho: "Tycho"
- KUAT_CHR_corlis: "Corlis"
- KUAT_CHR_brado: "Brado"
- KUAT_CHR_jahan: "Jahan"
- KUAT_CHR_hric: "Hric"
- KUAT_CHR_skall: "Skall"
- KUAT_CHR_kier: "Kier"
- KUAT_CHR_dathis: "Dathis"
- KUAT_CHR_endo: "Endo"
- KUAT_CHR_teven: "Teven"
- KUAT_CHR_lohn: "Lohn"
- KUAT_CHR_rabael: "Rabael"
- KUAT_CHR_dir: "Dir"
- KUAT_CHR_euwood: "Euwood"
- KUAT_CHR_craige: "Craige"
- KUAT_CHR_lagan: "Lagan"
- KUAT_CHR_earnst: "Earnst"
- KUAT_CHR_dannan: "Dannan"
- KUAT_CHR_wynt: "Wynt"
- KUAT_CHR_dictio: "Dictio"
- KUAT_CHR_rangos: "Rangos"
- KUAT_CHR_marsden: "Marsden"
- KUAT_CHR_darmin: "Darmin"
- KUAT_CHR_zeb: "Zeb"
- KUAT_CHR_dairn: "Dairn"
- KUAT_CHR_mazi: "Mazi"
- KUAT_CHR_santigo: "Santigo"
- KUAT_CHR_reija: "Reija"
- KUAT_CHR_kasan: "Kasan"
- KUAT_CHR_j_er: "J'er"
- KUAT_CHR_lorac: "Lorac"
- KUAT_CHR_nuun: "Nuun"
- KUAT_CHR_pharoth: "Pharoth"
- KUAT_CHR_ledd: "Ledd"
- KUAT_CHR_veni: "Veni"
- KUAT_CHR_kai: "Kai"
- KUAT_CHR_sam: "Sam"
- KUAT_CHR_kell: "Kell"
- KUAT_CHR_tyr: "Tyr"
- KUAT_CHR_chrigeld: "Chrigeld"
- KUAT_CHR_malan: "Malan"
- KUAT_CHR_junas: "Junas"
- KUAT_CHR_vacca: "Vacca"
- KUAT_CHR_halagad: "Halagad"
- KUAT_CHR_adrian: "Adrian"
- KUAT_CHR_sateen: "Sateen"
- KUAT_CHR_vanden: "Vanden"
- KUAT_CHR_gregor: "Gregor"
- KUAT_CHR_nash: "Nash"
- KUAT_CHR_dartan: "Dartan"
- KUAT_CHR_altana: "Altana"
- KUAT_CHR_an_bal: "An'bal"
- KUAT_CHR_caline: "Caline"
- KUAT_CHR_carasynthia: "Carasynthia"
- KUAT_CHR_cedonia: "Cedonia"
- KUAT_CHR_corla: "Corla"
- KUAT_CHR_daria: "Daria"
- KUAT_CHR_deara: "Deara"
- KUAT_CHR_elana: "Elana"
- KUAT_CHR_fasha: "Fasha"
- KUAT_CHR_gerane: "Gerane"
- KUAT_CHR_gesselle: "Gesselle"
- KUAT_CHR_lenan: "Lenan"
- KUAT_CHR_mazicia: "Mazicia"
- KUAT_CHR_onway: "Onway"
- KUAT_CHR_pabel: "Pabel"
- KUAT_CHR_rehanna: "Rehanna"
- KUAT_CHR_renata: "Renata"
- KUAT_CHR_samara: "Samara"
- KUAT_CHR_sheltay: "Sheltay"
- KUAT_CHR_surrel: "Surrel"
- KUAT_CHR_tia: "Tia"
- KUAT_CHR_vala: "Vala"
- KUAT_CHR_valyn: "Valyn"
- KUAT_CHR_verandala: "Verandala"
- KUAT_CHR_aryn_dro: "Aryn Dro"
- KUAT_CHR_paran_sin: "Paran Sin"
- KUAT_CHR_darsha: "Darsha"
- KUAT_CHR_liana: "Liana"
- KUAT_CHR_alya: "Alya"
- KUAT_CHR_celana: "Celana"
- KUAT_CHR_padija: "Padija"
- KUAT_CHR_lilit: "Lilit"
- KUAT_CHR_milessa: "Milessa"
- KUAT_CHR_jora: "Jora"
- KUAT_CHR_ress: "Ress"
- KUAT_CHR_dansra: "Dansra"
- KUAT_CHR_mia: "Mia"
- KUAT_CHR_muriel: "Muriel"
- KUAT_CHR_andra: "Andra"
- KUAT_CHR_jens: "Jens"
- KUAT_CHR_darlen: "Darlen"
- KUAT_CHR_halle: "Halle"
- KUAT_CHR_halla: "Halla"
- KUAT_CHR_cednah: "Cednah"
- KUAT_CHR_dariana: "Dariana"
- KUAT_CHR_talie: "Talie"
- KUAT_CHR_roganda: "Roganda"
- KUAT_CHR_kira: "Kira"
- KUAT_CHR_kerri: "Kerri"
- KUAT_CHR_minala: "Minala"
- KUAT_CHR_tanda: "Tanda"
- KUAT_CHR_maya: "Maya"
- KUAT_CHR_anandra: "Anandra"
- KUAT_CHR_neena: "Neena"
- KUAT_CHR_vu: "Vu"
- KUAT_CHR_celly: "Celly"
- KUAT_CHR_jan: "Jan"
- KUAT_CHR_uwa: "Uwa"
- KUAT_CHR_inea: "Inea"
- KUAT_CHR_maglenna: "Maglenna"
- KUAT_CHR_vici: "Vici"
- KUAT_CHR_kayala: "Kayala"
- KUAT_CHR_nari: "Nari"
- KUAT_CHR_vana: "Vana"
- KUAT_CHR_terrin: "Terrin"
- KUAT_CHR_hari: "Hari"
- KUAT_CHR_tace: "Tace"
- KUAT_CHR_jylle: "Jylle"
- KUAT_CHR_sumda: "Sumda"
- KUAT_CHR_janray: "Janray"
- KUAT_CHR_marfa: "Marfa"
- KUAT_CHR_selnia: "Selnia"
- KUAT_CHR_tula: "Tula"
- KUAT_CHR_jah_kii: "Jah-kii"
- KUAT_CHR_niclara: "Niclara"
- KUAT_CHR_evaan: "Evaan"
- KUAT_CHR_vesta: "Vesta"
- KUAT_CHR_jaesa: "Jaesa"
- KUAT_CHR_parvin: "Parvin"
- KUAT_CHR_sona: "Sona"
- KUAT_CHR_alde: "Alde"
- KUAT_CHR_frayus: "Frayus"
- KUAT_CHR_girard: "Girard"
- KUAT_CHR_glorio: "Glorio"
- KUAT_CHR_hanarist: "Hanarist"
- KUAT_CHR_killesa: "Killesa"
- KUAT_CHR_lanar: "Lanar"
- KUAT_CHR_metara: "Metara"
- KUAT_CHR_panteer: "Panteer"
- KUAT_CHR_qel_nosh: "Qel-Nosh"
- KUAT_CHR_renar: "Renar"
- KUAT_CHR_rist: "Rist"
- KUAT_CHR_serrus: "Serrus"
- KUAT_CHR_syrush: "Syrush"
- KUAT_CHR_teraan: "Teraan"
- KUAT_CHR_thul: "Thul"
- KUAT_CHR_ulgo: "Ulgo"
- KUAT_CHR_argyris: "Argyris"
- KUAT_CHR_assant: "Assant"
- KUAT_CHR_dune: "Dune"
- KUAT_CHR_ahuff: "Ahuff"
- KUAT_CHR_agoris: "Agoris"
- KUAT_CHR_rand: "Rand"
- KUAT_CHR_aldrete: "Aldrete"
- KUAT_CHR_merian: "Merian"
- KUAT_CHR_soma: "Soma"
- KUAT_CHR_anjeri: "Anjeri"
- KUAT_CHR_arranda: "Arranda"
- KUAT_CHR_astane: "Astane"
- KUAT_CHR_axlon: "Axlon"
- KUAT_CHR_ayl: "Ayl"
- KUAT_CHR_batten: "Batten"
- KUAT_CHR_baroule: "Baroule"
- KUAT_CHR_beezer: "Beezer"
- KUAT_CHR_celchu: "Celchu"
- KUAT_CHR_corwin: "Corwin"
- KUAT_CHR_cressen: "Cressen"
- KUAT_CHR_cross: "Cross"
- KUAT_CHR_dalhney: "Dalhney"
- KUAT_CHR_delos: "Delos"
- KUAT_CHR_domadi: "Domadi"
- KUAT_CHR_dray: "Dray"
- KUAT_CHR_elgin: "Elgin"
- KUAT_CHR_frant: "Frant"
- KUAT_CHR_ettyk: "Ettyk"
- KUAT_CHR_faenel: "Faenel"
- KUAT_CHR_gale: "Gale"
- KUAT_CHR_genden: "Genden"
- KUAT_CHR_gor: "Gor"
- KUAT_CHR_graf: "Graf"
- KUAT_CHR_gwyndon: "Gwyndon"
- KUAT_CHR_heathe: "Heathe"
- KUAT_CHR_ismaren: "Ismaren"
- KUAT_CHR_kamiel: "Kamiel"
- KUAT_CHR_kand: "Kand"
- KUAT_CHR_kelvan: "Kelvan"
- KUAT_CHR_kepporra: "Kepporra"
- KUAT_CHR_l_varren: "L'varren"
- KUAT_CHR_lar: "Lar"
- KUAT_CHR_latham: "Latham"
- KUAT_CHR_lerspri: "Lerspri"
- KUAT_CHR_lessev: "Lessev"
- KUAT_CHR_lodilyn: "Lodilyn"
- KUAT_CHR_maddaan: "Maddaan"
- KUAT_CHR_maggli: "Maggli"
- KUAT_CHR_marelle: "Marelle"
- KUAT_CHR_metonae: "Metonae"
- KUAT_CHR_milon: "Milon"
- KUAT_CHR_momen: "Momen"
- KUAT_CHR_moor: "Moor"
- KUAT_CHR_nahj: "Nahj"
- KUAT_CHR_nin: "Nin"
- KUAT_CHR_nonnaihr: "Nonnaihr"
- KUAT_CHR_ors: "Ors"
- KUAT_CHR_pareece: "Pareece"
- KUAT_CHR_pargen: "Pargen"
- KUAT_CHR_pendower: "Pendower"
- KUAT_CHR_pinot: "Pinot"
- KUAT_CHR_ramunee: "Ramunee"
- KUAT_CHR_ravein: "Ravein"
- KUAT_CHR_rieekan: "Rieekan"
- KUAT_CHR_rogaren: "Rogaren"
- KUAT_CHR_sable: "Sable"
- KUAT_CHR_saddek: "Saddek"
- KUAT_CHR_sage: "Sage"
- KUAT_CHR_sandafar: "Sandafar"
- KUAT_CHR_seldona: "Seldona"
- KUAT_CHR_tainer: "Tainer"
- KUAT_CHR_taskeen: "Taskeen"
- KUAT_CHR_tend: "Tend"
- KUAT_CHR_tessime: "Tessime"
- KUAT_CHR_thorbin: "Thorbin"
- KUAT_CHR_tinnine: "Tinnine"
- KUAT_CHR_trigg: "Trigg"
- KUAT_CHR_tugrina: "Tugrina"
- KUAT_CHR_turner: "Turner"
- KUAT_CHR_vaargaz: "Vaargaz"
- KUAT_CHR_varnillian: "Varnillian"
- KUAT_CHR_ventor: "Ventor"
- KUAT_CHR_verana: "Verana"
- KUAT_CHR_verlaine: "Verlaine"
- KUAT_CHR_vestswe: "Vestswe"
- KUAT_CHR_vox: "Vox"
- KUAT_CHR_willard: "Willard"
- KUAT_CHR_willsaam: "Willsaam"
- KUAT_CHR_windrider: "Windrider"
- KUAT_CHR_ziemba: "Ziemba"
- KUAT_CHR_darrus: "Darrus"
- KUAT_CHR_eckhorn: "Eckhorn"
- KUAT_CHR_ferrin: "Ferrin"
- KUAT_CHR_haemon: "Haemon"
- KUAT_CHR_heitor: "Heitor"
- KUAT_CHR_horis: "Horis"
- KUAT_CHR_kendoh: "Kendoh"
- KUAT_CHR_maddor: "Maddor"
- KUAT_CHR_marcum: "Marcum"
- KUAT_CHR_norn: "Norn"
- KUAT_CHR_peyar: "Peyar"
- KUAT_CHR_jeren_nolus: "Jeren Nolus"
- KUAT_CHR_pallos_thessius: "Pallos Thessius"
- KUAT_CHR_aurren_tuile: "Aurren Tuile"
- KUAT_CHR_jorad_sindarus: "Jorad Sindarus"
- KUAT_CHR_markus_andarius: "Markus Andarius"
- KUAT_CHR_sio: "Sio"
- KUAT_CHR_quarsh: "Quarsh"
- KUAT_CHR_ars: "Ars"
- KUAT_CHR_darred: "Darred"
- KUAT_CHR_ruwee: "Ruwee"
- KUAT_CHR_aitalla: "Aitalla"
- KUAT_CHR_breha: "Breha"
- KUAT_CHR_chay: "Chay"
- KUAT_CHR_markos: "Markos"
- KUAT_CHR_maelrich: "Maelrich"
- KUAT_CHR_rouge: "Rouge"
- KUAT_CHR_silara: "Silara"
- KUAT_CHR_winter: "Winter"
- KUAT_CHR_katei_elinari: "Katei Elinari"
- KUAT_CHR_r_illata: "Réillata"
- KUAT_CHR_jamillia: "Jamillia"
- KUAT_CHR_neeyutnee: "Neeyutnee"
- KUAT_CHR_jobal: "Jobal"
- KUAT_CHR_ryoo: "Ryoo"
- KUAT_CHR_winama: "Winama"
- KUAT_CHR_sourna: "Sourna"
- KUAT_CHR_naberrie: "Naberrie"
- KUAT_CHR_parnelli: "Parnelli"
- KUAT_CHR_tapalo: "Tapalo"
- KUAT_CHR_veruna: "Veruna"
- KUAT_CHR_bibble: "Bibble"
- KUAT_CHR_panaka: "Panaka"
- KUAT_CHR_antayen: "Antayen"
- KUAT_CHR_armin: "Armin"
- KUAT_CHR_batono: "Batono"
- KUAT_CHR_billan: "Billan"
- KUAT_CHR_brall: "Brall"
- KUAT_CHR_brendan: "Brendan"
- KUAT_CHR_coro: "Coro"
- KUAT_CHR_corrun: "Corrun"
- KUAT_CHR_dehno: "Dehno"
- KUAT_CHR_dern: "Dern"
- KUAT_CHR_diirn: "Diirn"
- KUAT_CHR_di_go: "Di-go"
- KUAT_CHR_enok: "Enok"
- KUAT_CHR_fodo: "Fodo"
- KUAT_CHR_gayem: "Gayem"
- KUAT_CHR_gragov: "Gragov"
- KUAT_CHR_greeta: "Greeta"
- KUAT_CHR_griff: "Griff"
- KUAT_CHR_grommik: "Grommik"
- KUAT_CHR_harra: "Harra"
- KUAT_CHR_hawek: "Hawek"
- KUAT_CHR_horell: "Horell"
- KUAT_CHR_janos: "Janos"
- KUAT_CHR_kamus: "Kamus"
- KUAT_CHR_mex: "Mex"
- KUAT_CHR_rasmus: "Rasmus"
- KUAT_CHR_samovan: "Samovan"
- KUAT_CHR_tarin: "Tarin"
- KUAT_CHR_teak: "Teak"
- KUAT_CHR_thon: "Thon"
- KUAT_CHR_torkel: "Torkel"
- KUAT_CHR_trey: "Trey"
- KUAT_CHR_ward: "Ward"
- KUAT_CHR_wren: "Wren"
- KUAT_CHR_xarval: "Xarval"
- KUAT_CHR_yem: "Yem"
- KUAT_CHR_zokar: "Zokar"
- KUAT_CHR_eva: "Eva"
- KUAT_CHR_galir: "Galir"
- KUAT_CHR_jana: "Jana"
- KUAT_CHR_joni: "Joni"
- KUAT_CHR_kaya: "Kaya"
- KUAT_CHR_merrit: "Merrit"
- KUAT_CHR_nara: "Nara"
- KUAT_CHR_soprin: "Soprin"
- KUAT_CHR_vipp: "Vipp"
- KUAT_CHR_adelair: "Adelair"
- KUAT_CHR_bann: "Bann"
- KUAT_CHR_blys: "Blys"
- KUAT_CHR_briggam: "Briggam"
- KUAT_CHR_col: "Col"
- KUAT_CHR_denovan: "Denovan"
- KUAT_CHR_falt: "Falt"
- KUAT_CHR_fizark: "Fizark"
- KUAT_CHR_hillin: "Hillin"
- KUAT_CHR_holda: "Holda"
- KUAT_CHR_kaayz: "Kaayz"
- KUAT_CHR_kurthson: "Kurthson"
- KUAT_CHR_laphmer: "Laphmer"
- KUAT_CHR_lanra: "Lanra"
- KUAT_CHR_seario: "Seario"
- KUAT_CHR_leksende: "Leksende"
- KUAT_CHR_lorso: "Lorso"
- KUAT_CHR_medoo: "Medoo"
- KUAT_CHR_natari: "Natari"
- KUAT_CHR_orden: "Orden"
- KUAT_CHR_radler: "Radler"
- KUAT_CHR_ree: "Ree"
- KUAT_CHR_reemus: "Reemus"
- KUAT_CHR_safalla: "Safalla"
- KUAT_CHR_tavar: "Tavar"
- KUAT_CHR_wertka: "Wertka"
- KUAT_CHR_yellip: "Yellip"
+  KUAT_halcyon: "Безмятежный" #NT!
+  KUAT_longspur: "Подорожник" #NT!
+  KUAT_itinerant: "Кочующий" #NT!
+  KUAT_wayfarer: "Путник" #NT!
+  KUAT_wanderer: "Скиталец" #NT!
+  KUAT_roamer: "Бродяга" #NT!
+  KUAT_farstrike: "Дальний удар" #NT!
+  KUAT_brawler: "Буян" #NT!
+  KUAT_brazen: "Наглый" #NT!
+  KUAT_representative: "Делегат" #NT!
+  KUAT_threkin: "Трекин" #NT!
+  KUAT_geedon: "Гидон" #NT!
+  KUAT_glaser: "Стекольщик" #NT!
+  KUAT_glazer: "Глейзер" #NT!
+  KUAT_godar: "Годар" #NT!
+  KUAT_grappler: "Борец" #NT!
+  KUAT_habatok: "Хабаток" #NT!
+  KUAT_halifax: "Галифакс" #NT!
+  KUAT_howlrunner: "Тоннельщик" #NT!
+  KUAT_hyko: "Хайко" #NT!
+  KUAT_intrepid: "Бестрепетный" #NT!
+  KUAT_indefatigable: "Неутомимый" #NT!
+  KUAT_vindicator: "Виндикатор" #NT!
+  KUAT_blethyline: "Блетилин" #NT!
+  KUAT_canoid: "Каноид" #NT!
+  KUAT_banshee: "Банши" #NT!
+  KUAT_victory: "Победа" #NT!
+  KUAT_success: "Успех" #NT!
+  KUAT_triumph: "Триумф" #NT!
+  KUAT_titan: "Титан" #NT!
+  KUAT_harrower: "Рассекатель" #NT!
+  KUAT_raider: "Налетчик" #NT!
+  KUAT_nebula: "Туманность" #NT!
+  KUAT_dauntless: "Бесстрашный" #NT!
+  KUAT_providence: "Провидение" #NT!
+  KUAT_subjugator: "Покоритель" #NT!
+  KUAT_conqueror: "Завоеватель" #NT!
+  KUAT_crusader: "Крестоносец" #NT!
+  KUAT_glory: "Слава" #NT!
+  KUAT_immortal: "Бессмертный" #NT!
+  KUAT_judicator: "Вершитель" #NT!
+  KUAT_vanguard: "Авангард" #NT!
+  KUAT_renown: "Признание" #NT!
+  KUAT_demolisher: "Уничтожитель" #NT!
+  KUAT_storm: "Шторм" #NT!
+  KUAT_stormstrike: "Удар бури" #NT!
+  KUAT_striker: "Ударный" #NT!
+  KUAT_sundog: "Ложное солнце" #NT!
+  KUAT_talon: "Коготь" #NT!
+  KUAT_thrasher: "Молотильщик" #NT!
+  KUAT_thunder: "Гром" #NT!
+  KUAT_thunderstrike: "Раскат грома" #NT!
+  KUAT_purrgil: "Пёрргил" #NT!
+  KUAT_barloz: "Барлоз" #NT!
+  KUAT_bulk: "Объёмный" #NT!
+  KUAT_bursa: "Бурса" #NT!
+  KUAT_bulwark: "Оплот" #NT!
+  KUAT_invincible: "Неукротимый" #NT!
+  KUAT_valor: "Доблесть" #NT!
+  KUAT_hammer: "Молот" #NT!
+  KUAT_sword: "Меч" #NT!
+  KUAT_shield: "Щит" #NT!
+  KUAT_brigand: "Разбойник" #NT!
+  KUAT_praetorian: "Преторианец" #NT!
+  KUAT_lictor: "Ликтор" #NT!
+  KUAT_starlight: "Звёздный свет" #NT!
+  KUAT_dreadnaught: "Дредноут" #NT!
+  KUAT_vainglorious: "Тщеславный" #NT!
+  KUAT_tarvix: "Тарвикс" #NT!
+  KUAT_drexl: "Дрексл" #NT!
+  KUAT_rothana: "Ротана" #NT!
+  KUAT_balmorra: "Балморра" #NT!
+  KUAT_lormar: "Лормар" #NT!
+  KUAT_lupus: "Люпус" #NT!
+  KUAT_onager: "Онагр" #NT!
+  KUAT_pursuit: "Погоня" #NT!
+  KUAT_bavos: "Бавос" #NT!
+  KUAT_munifex: "Мунифекс" #NT!
+  KUAT_mudhorn: "Грязерог" #NT!
+  KUAT_gundark: "Гандарк" #NT!
+  KUAT_vaya: "Вайя" #NT!
+  KUAT_heraklon: "Ираклион" #NT!
+  KUAT_core_systems: "Основные галактические системы" #NT!
+  KUAT_atgeir: "Атгейр" #NT!
+  KUAT_loth_wolf: "Лот-волк" #NT!
+  KUAT_demon_moon: "Демон-луна" #NT!
+  KUAT_spice_runner: "Перевозчик спайса" #NT!
+  KUAT_class_1000: "Класс 1000" #NT!
+  KUAT_eagle_5: "Орёл 5" #NT!
+  KUAT_neutron_star: "Нейтронная звезда" #NT!
+  KUAT_constr_aurek: "Конструктор «Аурек»" #NT!
+  KUAT_constr_besh: "Конструктор «Беш»" #NT!
+  KUAT_constr_cresh: "Конструктор «Креш»" #NT!
+  KUAT_constr_dorn: "Конструктор «Дорн»" #NT!
+  KUAT_constr_forn: "Конструктор «Форн»" #NT!
+  KUAT_constr_grek: "Конструктор «Грек»" #NT!
+  KUAT_constr_herf: "Конструктор «Херф»" #NT!
+  KUAT_constr_isk: "Конструктор «Иск»" #NT!
+  KUAT_constr_jenth: "Конструктор «Джент»" #NT!
+  KUAT_constr_krill: "Конструктор «Крилл»" #NT!
+  KUAT_constr_leth: "Конструктор «Лет»" #NT!
+  KUAT_constr_mern: "Конструктор «Мерн»" #NT!
+  KUAT_constr_nern: "Конструктор «Нерн»" #NT!
+  KUAT_constr_osk: "Конструктор «Оск»" #NT!
+  KUAT_constr_peth: "Конструктор «Пет»" #NT!
+  KUAT_constr_senth: "Конструктор «Сент»" #NT!
+  KUAT_constr_trill: "Конструктор «Трилл»" #NT!
+  KUAT_constr_usk: "Конструктор «Уск»" #NT!
+  KUAT_constr_vev: "Конструктор «Вев»" #NT!
+  KUAT_constr_wesk: "Конструктор «Уэск»" #NT!
+  KUAT_constr_xesh: "Конструктор «Зеш»" #NT!
+  KUAT_constr_yirt: "Конструктор «Йирт»" #NT!
+  KUAT_constr_zerek: "Конструктор «Зерек»" #NT!
+  KUAT_constr_cherek: "Конструктор «Черек»" #NT!
+  KUAT_constr_qek: "Конструктор «Кек»" #NT!
+  KUAT_constr_resh: "Конструктор «Реш»" #NT!
+  KUAT_constr_enth: "Конструктор «Энт»" #NT!
+  KUAT_constr_onith: "Конструктор «Онит»" #NT!
+  KUAT_constr_krenth: "Конструктор «Крент»" #NT!
+  KUAT_constr_nen: "Конструктор «Нен»" #NT!
+  KUAT_constr_orenth: "Конструктор «Орент»" #NT!
+  KUAT_constr_shen: "Конструктор «Шен»" #NT!
+  KUAT_constr_thesh: "Конструктор «Теш»" #NT!
+  KUAT_courier: "Курьер" #NT!
+  KUAT_ground_transport: "Наземный транспорт" #NT!
+  KUAT_CLASS_guardian: "Страж" #NT!
+  KUAT_CLASS_trireme: "Трирема" #NT!
+  KUAT_CLASS_longhorn: "Длиннорог" #NT!
+  KUAT_CLASS_kuat: "Куат" #NT!
+  KUAT_CLASS_mandator: "Доверитель" #NT!
+  KUAT_CLASS_goliath: "Голиаф" #NT!
+  KUAT_CLASS_xs_light_freighter: "Лёгкий фрахтовщик XS" #NT!
+  KUAT_CLASS_y_8: "Y-8" #NT!
+  KUAT_FLEET_planetary_defense_force: "Силы планетарной обороны" #NT!
+  KUAT_FLEET_planetary_task_force: "Планетарная оперативная группа" #NT!
+  KUAT_FLEET_grand_armada: "Гранд-Армада" #NT!
+  KUAT_FLEET_grand_fleet: "Великий флот" #NT!
+  KUAT_FLEET_sector_defense_force: "Силы обороны сектора" #NT!
+  KUAT_FLEET_sector_command_fleet: "Командный флот сектора" #NT!
+  KUAT_FLEET_SEQUENTIAL_fleet: "$ORD$ Fleet" #NT!
+  KUAT_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard" #NT!
+  KUAT_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force" #NT!
+  KUAT_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles" #NT!
+  KUAT_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army" #NT!
+  KUAT_ARMY_SEQUENTIAL_dread_commando: "$ORD$ Dread Commando" #NT!
+  KUAT_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group" #NT!
+  KUAT_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix" #NT!
+  KUAT_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando" #NT!
+  KUAT_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  KUAT_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron" #NT!
+  KUAT_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force" #NT!
+  KUAT_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison" #NT!
+  KUAT_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  KUAT_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  KUAT_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  KUAT_CHR_dorian: "Dorian" #NT!
+  KUAT_CHR_trondor: "Trondor" #NT!
+  KUAT_CHR_khoss: "Khoss" #NT!
+  KUAT_CHR_jonash: "Jonash" #NT!
+  KUAT_CHR_carth: "Carth" #NT!
+  KUAT_CHR_aric: "Aric" #NT!
+  KUAT_CHR_tanno: "Tanno" #NT!
+  KUAT_CHR_corso: "Corso" #NT!
+  KUAT_CHR_languss: "Languss" #NT!
+  KUAT_CHR_fideltin: "Fideltin" #NT!
+  KUAT_CHR_tharan: "Tharan" #NT!
+  KUAT_CHR_arrisan: "Arrisan" #NT!
+  KUAT_CHR_meck: "Meck" #NT!
+  KUAT_CHR_ved: "Ved" #NT!
+  KUAT_CHR_luran: "Luran" #NT!
+  KUAT_CHR_deringon: "Deringon" #NT!
+  KUAT_CHR_parr: "Parr" #NT!
+  KUAT_CHR_gellar: "Gellar" #NT!
+  KUAT_CHR_gault: "Gault" #NT!
+  KUAT_CHR_jimas: "Jimas" #NT!
+  KUAT_CHR_saul: "Saul" #NT!
+  KUAT_CHR_dallan: "Dallan" #NT!
+  KUAT_CHR_catronus: "Catronus" #NT!
+  KUAT_CHR_zayne: "Zayne" #NT!
+  KUAT_CHR_bey_wan: "Bey'wan" #NT!
+  KUAT_CHR_trede: "Trede" #NT!
+  KUAT_CHR_dabrin: "Dabrin" #NT!
+  KUAT_CHR_dol: "Dol" #NT!
+  KUAT_CHR_telettoh: "Telettoh" #NT!
+  KUAT_CHR_dannis: "Dannis" #NT!
+  KUAT_CHR_helik: "Helik" #NT!
+  KUAT_CHR_pevel: "Pevel" #NT!
+  KUAT_CHR_signet: "Signet" #NT!
+  KUAT_CHR_callan: "Callan" #NT!
+  KUAT_CHR_vaner: "Vaner" #NT!
+  KUAT_CHR_elara: "Elara" #NT!
+  KUAT_CHR_risha: "Risha" #NT!
+  KUAT_CHR_nadia: "Nadia" #NT!
+  KUAT_CHR_marren: "Marren" #NT!
+  KUAT_CHR_renalda: "Renalda" #NT!
+  KUAT_CHR_sula: "Sula" #NT!
+  KUAT_CHR_jynne: "Jynne" #NT!
+  KUAT_CHR_fieler: "Fieler" #NT!
+  KUAT_CHR_edvaalda: "Edvaalda" #NT!
+  KUAT_CHR_elin: "Elin" #NT!
+  KUAT_CHR_juul: "Juul" #NT!
+  KUAT_CHR_kalyn: "Kalyn" #NT!
+  KUAT_CHR_honor: "Honor" #NT!
+  KUAT_CHR_noma: "Noma" #NT!
+  KUAT_CHR_forn: "Forn" #NT!
+  KUAT_CHR_mural: "Mural" #NT!
+  KUAT_CHR_lina: "Lina" #NT!
+  KUAT_CHR_leontyne: "Leontyne" #NT!
+  KUAT_CHR_risi: "Risi" #NT!
+  KUAT_CHR_onara: "Onara" #NT!
+  KUAT_CHR_morvis: "Morvis" #NT!
+  KUAT_CHR_laeca: "Laeca" #NT!
+  KUAT_CHR_tol: "Tol" #NT!
+  KUAT_CHR_doa: "Doa" #NT!
+  KUAT_CHR_jebevel: "Jebevel" #NT!
+  KUAT_CHR_vaila: "Vaila" #NT!
+  KUAT_CHR_ulm: "Ulm" #NT!
+  KUAT_CHR_fillorean: "Fillorean" #NT!
+  KUAT_CHR_kirames: "Kirames" #NT!
+  KUAT_CHR_janarus: "Janarus" #NT!
+  KUAT_CHR_kuat: "Kuat" #NT!
+  KUAT_CHR_saresh: "Saresh" #NT!
+  KUAT_CHR_pyn: "Pyn" #NT!
+  KUAT_CHR_onasi: "Onasi" #NT!
+  KUAT_CHR_dorne: "Dorne" #NT!
+  KUAT_CHR_jorgan: "Jorgan" #NT!
+  KUAT_CHR_vik: "Vik" #NT!
+  KUAT_CHR_drayen: "Drayen" #NT!
+  KUAT_CHR_riggs: "Riggs" #NT!
+  KUAT_CHR_tuno: "Tuno" #NT!
+  KUAT_CHR_rusk: "Rusk" #NT!
+  KUAT_CHR_cedrax: "Cedrax" #NT!
+  KUAT_CHR_grell: "Grell" #NT!
+  KUAT_CHR_antilles: "Antilles" #NT!
+  KUAT_CHR_baliss: "Baliss" #NT!
+  KUAT_CHR_cortess: "Cortess" #NT!
+  KUAT_CHR_organa: "Organa" #NT!
+  KUAT_CHR_darklighter: "Darklighter" #NT!
+  KUAT_CHR_lars: "Lars" #NT!
+  KUAT_CHR_kalus: "Kalus" #NT!
+  KUAT_CHR_elna: "Elna" #NT!
+  KUAT_CHR_agareth: "Agareth" #NT!
+  KUAT_CHR_atem: "Atem" #NT!
+  KUAT_CHR_veltra: "Veltra" #NT!
+  KUAT_CHR_karath: "Karath" #NT!
+  KUAT_CHR_sommos: "Sommos" #NT!
+  KUAT_CHR_celwik: "Celwik" #NT!
+  KUAT_CHR_dan: "Dan" #NT!
+  KUAT_CHR_djo: "Djo" #NT!
+  KUAT_CHR_feem: "Feem" #NT!
+  KUAT_CHR_mothma: "Mothma" #NT!
+  KUAT_CHR_fel: "Fel" #NT!
+  KUAT_CHR_foslo: "Foslo" #NT!
+  KUAT_CHR_garza: "Garza" #NT!
+  KUAT_CHR_gonthor: "Gonthor" #NT!
+  KUAT_CHR_isard: "Isard" #NT!
+  KUAT_CHR_dume: "Dume" #NT!
+  KUAT_CHR_jarrus: "Jarrus" #NT!
+  KUAT_CHR_jax: "Jax" #NT!
+  KUAT_CHR_jettster: "Jettster" #NT!
+  KUAT_CHR_jinn: "Jinn" #NT!
+  KUAT_CHR_pellaeon: "Pellaeon" #NT!
+  KUAT_CHR_lobacc: "Lobacc" #NT!
+  KUAT_CHR_martez: "Martez" #NT!
+  KUAT_CHR_meeko: "Meeko" #NT!
+  KUAT_CHR_pestage: "Pestage" #NT!
+  KUAT_CHR_rennow: "Rennow" #NT!
+  KUAT_CHR_lokai: "Lokai" #NT!
+  KUAT_CHR_roing: "Roing" #NT!
+  KUAT_CHR_salima: "Salima" #NT!
+  KUAT_CHR_sienar: "Sienar" #NT!
+  KUAT_CHR_tarkin: "Tarkin" #NT!
+  KUAT_CHR_turmond: "Turmond" #NT!
+  KUAT_CHR_yularen: "Yularen" #NT!
+  KUAT_CHR_steffans: "Steffans" #NT!
+  KUAT_CHR_carrick: "Carrick" #NT!
+  KUAT_CHR_dodonna: "Dodonna" #NT!
+  KUAT_CHR_aygo: "Aygo" #NT!
+  KUAT_CHR_bakvalen: "Bakvalen" #NT!
+  KUAT_CHR_narlock: "Narlock" #NT!
+  KUAT_CHR_veriga: "Veriga" #NT!
+  KUAT_CHR_kronara: "Kronara" #NT!
+  KUAT_CHR_veen: "Veen" #NT!
+  KUAT_CHR_soh: "Soh" #NT!
+  KUAT_CHR_kalpana: "Kalpana" #NT!
+  KUAT_CHR_ductavis: "Ductavis" #NT!
+  KUAT_CHR_kaj: "Kaj" #NT!
+  KUAT_CHR_darvus: "Darvus" #NT!
+  KUAT_CHR_madon: "Madon" #NT!
+  KUAT_CHR_frellka: "Frellka" #NT!
+  KUAT_CHR_gonn: "Gonn" #NT!
+  KUAT_CHR_nadab: "Nadab" #NT!
+  KUAT_CHR_redrish: "Redrish" #NT!
+  KUAT_CHR_rike: "Rike" #NT!
+  KUAT_CHR_grayne: "Grayne" #NT!
+  KUAT_CHR_finis: "Finis" #NT!
+  KUAT_CHR_kodir: "Kodir" #NT!
+  KUAT_CHR_pers_lya: "Pers'lya" #NT!
+  KUAT_CHR_tarsus: "Tarsus" #NT!
+  KUAT_CHR_eixes: "Eixes" #NT!
+  KUAT_CHR_thoris: "Thoris" #NT!
+  KUAT_CHR_fattum: "Fattum" #NT!
+  KUAT_CHR_biel: "Biel" #NT!
+  KUAT_CHR_skor: "Skor" #NT!
+  KUAT_CHR_nagratha: "Nagratha" #NT!
+  KUAT_CHR_chasen: "Chasen" #NT!
+  KUAT_CHR_pultimo: "Pultimo" #NT!
+  KUAT_CHR_sidrona: "Sidrona" #NT!
+  KUAT_CHR_vocatara: "Vocatara" #NT!
+  KUAT_CHR_teta: "Teta" #NT!
+  KUAT_CHR_galena: "Galena" #NT!
+  KUAT_CHR_valorum: "Valorum" #NT!
+  KUAT_CHR_shan: "Shan" #NT!
+  KUAT_CHR_lenoan: "Lenoan" #NT!
+  KUAT_CHR_andrim: "Andrim" #NT!
+  KUAT_CHR_depon: "Depon" #NT!
+  KUAT_CHR_knylenn: "Knylenn" #NT!
+  KUAT_CHR_kuhlvult: "Kuhlvult" #NT!
+  KUAT_CHR_purkis: "Purkis" #NT!
+  KUAT_CHR_praji: "Praji" #NT!
+  KUAT_CHR_cressa: "Cressa" #NT!
+  KUAT_CHR_delko: "Delko" #NT!
+  KUAT_CHR_jerjerrod: "Jerjerrod" #NT!
+  KUAT_CHR_pecivas: "Pecivas" #NT!
+  KUAT_CHR_darus: "Darus" #NT!
+  KUAT_CHR_brashere: "Brashere" #NT!
+  KUAT_CHR_mezzileen: "Mezzileen" #NT!
+  KUAT_CHR_piian: "Piian" #NT!
+  KUAT_CHR_rans: "Rans" #NT!
+  KUAT_CHR_thrackan: "Thrackan" #NT!
+  KUAT_CHR_aiden: "Aiden" #NT!
+  KUAT_CHR_wedge: "Wedge" #NT!
+  KUAT_CHR_dur: "Dur" #NT!
+  KUAT_CHR_keiran: "Keiran" #NT!
+  KUAT_CHR_com: "Com" #NT!
+  KUAT_CHR_shor: "Shor" #NT!
+  KUAT_CHR_dupas: "Dupas" #NT!
+  KUAT_CHR_zekka: "Zekka" #NT!
+  KUAT_CHR_daclif: "Daclif" #NT!
+  KUAT_CHR_crix: "Crix" #NT!
+  KUAT_CHR_kirtan: "Kirtan" #NT!
+  KUAT_CHR_corran: "Corran" #NT!
+  KUAT_CHR_gil: "Gil" #NT!
+  KUAT_CHR_diric: "Diric" #NT!
+  KUAT_CHR_doman: "Doman" #NT!
+  KUAT_CHR_aidel: "Aidel" #NT!
+  KUAT_CHR_saz: "Saz" #NT!
+  KUAT_CHR_threkin: "Threkin" #NT!
+  KUAT_CHR_randil: "Randil" #NT!
+  KUAT_CHR_den: "Den" #NT!
+  KUAT_CHR_han: "Han" #NT!
+  KUAT_CHR_korol: "Korol" #NT!
+  KUAT_CHR_jacen: "Jacen" #NT!
+  KUAT_CHR_karl: "Karl" #NT!
+  KUAT_CHR_mathieu: "Mathieu" #NT!
+  KUAT_CHR_tettsel: "Tettsel" #NT!
+  KUAT_CHR_jagged: "Jagged" #NT!
+  KUAT_CHR_bayle: "Bayle" #NT!
+  KUAT_CHR_tormax: "Tormax" #NT!
+  KUAT_CHR_seb: "Seb" #NT!
+  KUAT_CHR_jareck: "Jareck" #NT!
+  KUAT_CHR_jurnel: "Jurnel" #NT!
+  KUAT_CHR_vol: "Vol" #NT!
+  KUAT_CHR_conil: "Conil" #NT!
+  KUAT_CHR_tekil: "Tekil" #NT!
+  KUAT_CHR_shi: "Shi" #NT!
+  KUAT_CHR_myron: "Myron" #NT!
+  KUAT_CHR_jab: "Jab" #NT!
+  KUAT_CHR_garm: "Garm" #NT!
+  KUAT_CHR_odair: "Odair" #NT!
+  KUAT_CHR_draykken: "Draykken" #NT!
+  KUAT_CHR_hraykken: "Hraykken" #NT!
+  KUAT_CHR_hiram: "Hiram" #NT!
+  KUAT_CHR_anson: "Anson" #NT!
+  KUAT_CHR_crev: "Crev" #NT!
+  KUAT_CHR_natt: "Natt" #NT!
+  KUAT_CHR_sunny: "Sunny" #NT!
+  KUAT_CHR_dev: "Dev" #NT!
+  KUAT_CHR_grov: "Grov" #NT!
+  KUAT_CHR_ezra: "Ezra" #NT!
+  KUAT_CHR_ront: "Ront" #NT!
+  KUAT_CHR_jerem: "Jerem" #NT!
+  KUAT_CHR_monti: "Monti" #NT!
+  KUAT_CHR_cole: "Cole" #NT!
+  KUAT_CHR_jorj: "Jorj" #NT!
+  KUAT_CHR_lanius: "Lanius" #NT!
+  KUAT_CHR_jonah: "Jonah" #NT!
+  KUAT_CHR_jesseb: "Jesseb" #NT!
+  KUAT_CHR_lon: "Lon" #NT!
+  KUAT_CHR_banyon: "Banyon" #NT!
+  KUAT_CHR_abagga: "Abagga" #NT!
+  KUAT_CHR_bobor: "Bobor" #NT!
+  KUAT_CHR_macz: "Macz" #NT!
+  KUAT_CHR_cubber: "Cubber" #NT!
+  KUAT_CHR_waroon: "Waroon" #NT!
+  KUAT_CHR_sal: "Sal" #NT!
+  KUAT_CHR_darvis: "Darvis" #NT!
+  KUAT_CHR_skerrick: "Skerrick" #NT!
+  KUAT_CHR_davrin: "Davrin" #NT!
+  KUAT_CHR_deegan: "Deegan" #NT!
+  KUAT_CHR_deflaros: "Deflaros" #NT!
+  KUAT_CHR_sann: "Sann" #NT!
+  KUAT_CHR_rothgar: "Rothgar" #NT!
+  KUAT_CHR_dex: "Dex" #NT!
+  KUAT_CHR_didjoa: "Didjoa" #NT!
+  KUAT_CHR_myn: "Myn" #NT!
+  KUAT_CHR_valon: "Valon" #NT!
+  KUAT_CHR_chelch: "Chelch" #NT!
+  KUAT_CHR_yustavan: "Yustavan" #NT!
+  KUAT_CHR_tev: "Tev" #NT!
+  KUAT_CHR_ivr: "Ivr" #NT!
+  KUAT_CHR_atlan: "Atlan" #NT!
+  KUAT_CHR_rik: "Rik" #NT!
+  KUAT_CHR_voba: "Voba" #NT!
+  KUAT_CHR_shol: "Shol" #NT!
+  KUAT_CHR_thale: "Thale" #NT!
+  KUAT_CHR_darv: "Darv" #NT!
+  KUAT_CHR_erno: "Erno" #NT!
+  KUAT_CHR_falco: "Falco" #NT!
+  KUAT_CHR_barr: "Barr" #NT!
+  KUAT_CHR_harlon: "Harlon" #NT!
+  KUAT_CHR_annor: "Annor" #NT!
+  KUAT_CHR_dannl: "Dannl" #NT!
+  KUAT_CHR_chak: "Chak" #NT!
+  KUAT_CHR_davin: "Davin" #NT!
+  KUAT_CHR_soontir: "Soontir" #NT!
+  KUAT_CHR_todr: "Todr" #NT!
+  KUAT_CHR_almark: "Almark" #NT!
+  KUAT_CHR_ilim: "Ilim" #NT!
+  KUAT_CHR_ecclessis: "Ecclessis" #NT!
+  KUAT_CHR_salovan: "Salovan" #NT!
+  KUAT_CHR_mich: "Mich" #NT!
+  KUAT_CHR_jace: "Jace" #NT!
+  KUAT_CHR_crale: "Crale" #NT!
+  KUAT_CHR_zorajas: "Zorajas" #NT!
+  KUAT_CHR_jaylon: "Jaylon" #NT!
+  KUAT_CHR_nov: "Nov" #NT!
+  KUAT_CHR_gerrol: "Gerrol" #NT!
+  KUAT_CHR_markus: "Markus" #NT!
+  KUAT_CHR_pharnis: "Pharnis" #NT!
+  KUAT_CHR_ellias: "Ellias" #NT!
+  KUAT_CHR_scolex: "Scolex" #NT!
+  KUAT_CHR_de_hoff: "De'hoff" #NT!
+  KUAT_CHR_mramo: "Mramo" #NT!
+  KUAT_CHR_elias: "Elias" #NT!
+  KUAT_CHR_neeja: "Neeja" #NT!
+  KUAT_CHR_kenth: "Kenth" #NT!
+  KUAT_CHR_pol: "Pol" #NT!
+  KUAT_CHR_viktor: "Viktor" #NT!
+  KUAT_CHR_janzel: "Janzel" #NT!
+  KUAT_CHR_hendrick: "Hendrick" #NT!
+  KUAT_CHR_rodin: "Rodin" #NT!
+  KUAT_CHR_enneth: "Enneth" #NT!
+  KUAT_CHR_braganti: "Braganti" #NT!
+  KUAT_CHR_helfin: "Helfin" #NT!
+  KUAT_CHR_jenos: "Jenos" #NT!
+  KUAT_CHR_ilyamo: "Ilyamo" #NT!
+  KUAT_CHR_gol: "Gol" #NT!
+  KUAT_CHR_falan: "Falan" #NT!
+  KUAT_CHR_dinnik: "Dinnik" #NT!
+  KUAT_CHR_irek: "Irek" #NT!
+  KUAT_CHR_bran: "Bran" #NT!
+  KUAT_CHR_jabi: "Jabi" #NT!
+  KUAT_CHR_jakir: "Jakir" #NT!
+  KUAT_CHR_mack: "Mack" #NT!
+  KUAT_CHR_wildis: "Wildis" #NT!
+  KUAT_CHR_tomi: "Tomi" #NT!
+  KUAT_CHR_talan: "Talan" #NT!
+  KUAT_CHR_joz: "Joz" #NT!
+  KUAT_CHR_heff: "Heff" #NT!
+  KUAT_CHR_kal: "Kal" #NT!
+  KUAT_CHR_jori: "Jori" #NT!
+  KUAT_CHR_joth: "Joth" #NT!
+  KUAT_CHR_cohden: "Cohden" #NT!
+  KUAT_CHR_ben: "Ben" #NT!
+  KUAT_CHR_dorvin: "Dorvin" #NT!
+  KUAT_CHR_craddock: "Craddock" #NT!
+  KUAT_CHR_denell: "Denell" #NT!
+  KUAT_CHR_van: "Van" #NT!
+  KUAT_CHR_lex: "Lex" #NT!
+  KUAT_CHR_erel: "Erel" #NT!
+  KUAT_CHR_kett: "Kett" #NT!
+  KUAT_CHR_shoan: "Shoan" #NT!
+  KUAT_CHR_tan: "Tan" #NT!
+  KUAT_CHR_nevis: "Nevis" #NT!
+  KUAT_CHR_bidlo: "Bidlo" #NT!
+  KUAT_CHR_pel: "Pel" #NT!
+  KUAT_CHR_dael: "Dael" #NT!
+  KUAT_CHR_aram: "Aram" #NT!
+  KUAT_CHR_yade: "Yade" #NT!
+  KUAT_CHR_zuld: "Zuld" #NT!
+  KUAT_CHR_yanus: "Yanus" #NT!
+  KUAT_CHR_barid: "Barid" #NT!
+  KUAT_CHR_dayvid: "Dayvid" #NT!
+  KUAT_CHR_tosk: "Tosk" #NT!
+  KUAT_CHR_hurn: "Hurn" #NT!
+  KUAT_CHR_derremd: "Derremd" #NT!
+  KUAT_CHR_janqual: "Janqual" #NT!
+  KUAT_CHR_stax: "Stax" #NT!
+  KUAT_CHR_fenig: "Fenig" #NT!
+  KUAT_CHR_bek: "Bek" #NT!
+  KUAT_CHR_romas: "Romas" #NT!
+  KUAT_CHR_nozzo: "Nozzo" #NT!
+  KUAT_CHR_jasper: "Jasper" #NT!
+  KUAT_CHR_aalos: "Aalos" #NT!
+  KUAT_CHR_galidon: "Galidon" #NT!
+  KUAT_CHR_jav: "Jav" #NT!
+  KUAT_CHR_lorn: "Lorn" #NT!
+  KUAT_CHR_gilad: "Gilad" #NT!
+  KUAT_CHR_kazic: "Kazic" #NT!
+  KUAT_CHR_malik: "Malik" #NT!
+  KUAT_CHR_petro: "Petro" #NT!
+  KUAT_CHR_phaeris: "Phaeris" #NT!
+  KUAT_CHR_keekrim: "Keekrim" #NT!
+  KUAT_CHR_ilir: "Ilir" #NT!
+  KUAT_CHR_dubrank: "Dubrank" #NT!
+  KUAT_CHR_mat: "Mat" #NT!
+  KUAT_CHR_rallo: "Rallo" #NT!
+  KUAT_CHR_custo: "Custo" #NT!
+  KUAT_CHR_tait: "Tait" #NT!
+  KUAT_CHR_ubis: "Ubis" #NT!
+  KUAT_CHR_dash: "Dash" #NT!
+  KUAT_CHR_rosh: "Rosh" #NT!
+  KUAT_CHR_palejo: "Palejo" #NT!
+  KUAT_CHR_andronikos: "Andronikos" #NT!
+  KUAT_CHR_jerris: "Jerris" #NT!
+  KUAT_CHR_rion: "Rion" #NT!
+  KUAT_CHR_thaddeus: "Thaddeus" #NT!
+  KUAT_CHR_barit: "Barit" #NT!
+  KUAT_CHR_cyru: "Cyru" #NT!
+  KUAT_CHR_jornel: "Jornel" #NT!
+  KUAT_CHR_newin: "Newin" #NT!
+  KUAT_CHR_pech: "Pech" #NT!
+  KUAT_CHR_sevik: "Sevik" #NT!
+  KUAT_CHR_finn: "Finn" #NT!
+  KUAT_CHR_hershel: "Hershel" #NT!
+  KUAT_CHR_hasadar: "Hasadar" #NT!
+  KUAT_CHR_sherro: "Sherro" #NT!
+  KUAT_CHR_silas: "Silas" #NT!
+  KUAT_CHR_tennet: "Tennet" #NT!
+  KUAT_CHR_jarred: "Jarred" #NT!
+  KUAT_CHR_chun: "Chun" #NT!
+  KUAT_CHR_keevy: "Keevy" #NT!
+  KUAT_CHR_raan: "Raan" #NT!
+  KUAT_CHR_jord: "Jord" #NT!
+  KUAT_CHR_sarvel: "Sarvel" #NT!
+  KUAT_CHR_galvain: "Galvain" #NT!
+  KUAT_CHR_denjax: "Denjax" #NT!
+  KUAT_CHR_booster: "Booster" #NT!
+  KUAT_CHR_probus: "Probus" #NT!
+  KUAT_CHR_pavik: "Pavik" #NT!
+  KUAT_CHR_renn: "Renn" #NT!
+  KUAT_CHR_mill: "Mill" #NT!
+  KUAT_CHR_garv: "Garv" #NT!
+  KUAT_CHR_harval: "Harval" #NT!
+  KUAT_CHR_fynn: "Fynn" #NT!
+  KUAT_CHR_hugo: "Hugo" #NT!
+  KUAT_CHR_tam: "Tam" #NT!
+  KUAT_CHR_denetrius: "Denetrius" #NT!
+  KUAT_CHR_vinro: "Vinro" #NT!
+  KUAT_CHR_wex: "Wex" #NT!
+  KUAT_CHR_jos: "Jos" #NT!
+  KUAT_CHR_fliry: "Fliry" #NT!
+  KUAT_CHR_halden: "Halden" #NT!
+  KUAT_CHR_emmin: "Emmin" #NT!
+  KUAT_CHR_attico: "Attico" #NT!
+  KUAT_CHR_edbr: "Edbr" #NT!
+  KUAT_CHR_brimon: "Brimon" #NT!
+  KUAT_CHR_genna: "Genna" #NT!
+  KUAT_CHR_fyric: "Fyric" #NT!
+  KUAT_CHR_iella: "Iella" #NT!
+  KUAT_CHR_sena: "Sena" #NT!
+  KUAT_CHR_irenez: "Irenez" #NT!
+  KUAT_CHR_dani: "Dani" #NT!
+  KUAT_CHR_jaina: "Jaina" #NT!
+  KUAT_CHR_danielle: "Danielle" #NT!
+  KUAT_CHR_tiion: "Tiion" #NT!
+  KUAT_CHR_allana: "Allana" #NT!
+  KUAT_CHR_ania: "Ania" #NT!
+  KUAT_CHR_dalla: "Dalla" #NT!
+  KUAT_CHR_mirax: "Mirax" #NT!
+  KUAT_CHR_wynssa: "Wynssa" #NT!
+  KUAT_CHR_tira: "Tira" #NT!
+  KUAT_CHR_corinna: "Corinna" #NT!
+  KUAT_CHR_kandria: "Kandria" #NT!
+  KUAT_CHR_tess: "Tess" #NT!
+  KUAT_CHR_vora: "Vora" #NT!
+  KUAT_CHR_annissya: "Annissya" #NT!
+  KUAT_CHR_myri: "Myri" #NT!
+  KUAT_CHR_syal: "Syal" #NT!
+  KUAT_CHR_zena: "Zena" #NT!
+  KUAT_CHR_elga: "Elga" #NT!
+  KUAT_CHR_frei: "Frei" #NT!
+  KUAT_CHR_camelle: "Camelle" #NT!
+  KUAT_CHR_deli: "Deli" #NT!
+  KUAT_CHR_roxi: "Roxi" #NT!
+  KUAT_CHR_elsen: "Elsen" #NT!
+  KUAT_CHR_deena: "Deena" #NT!
+  KUAT_CHR_areta: "Areta" #NT!
+  KUAT_CHR_sulen: "Sulen" #NT!
+  KUAT_CHR_bey: "Bey" #NT!
+  KUAT_CHR_annali: "Annali" #NT!
+  KUAT_CHR_dova: "Dova" #NT!
+  KUAT_CHR_brusela: "Brusela" #NT!
+  KUAT_CHR_anni: "Anni" #NT!
+  KUAT_CHR_chai: "Chai" #NT!
+  KUAT_CHR_kimmi: "Kimmi" #NT!
+  KUAT_CHR_cora: "Cora" #NT!
+  KUAT_CHR_vella: "Vella" #NT!
+  KUAT_CHR_josta: "Josta" #NT!
+  KUAT_CHR_viera: "Viera" #NT!
+  KUAT_CHR_zindra: "Zindra" #NT!
+  KUAT_CHR_coril: "Coril" #NT!
+  KUAT_CHR_dayana: "Dayana" #NT!
+  KUAT_CHR_destha: "Destha" #NT!
+  KUAT_CHR_yama: "Yama" #NT!
+  KUAT_CHR_atlanna: "Atlanna" #NT!
+  KUAT_CHR_coraline: "Coraline" #NT!
+  KUAT_CHR_trins: "Trins" #NT!
+  KUAT_CHR_shandy: "Shandy" #NT!
+  KUAT_CHR_karin: "Karin" #NT!
+  KUAT_CHR_ajai: "Ajai" #NT!
+  KUAT_CHR_naz: "Naz" #NT!
+  KUAT_CHR_maris: "Maris" #NT!
+  KUAT_CHR_bant_ena: "Bant'ena" #NT!
+  KUAT_CHR_fianna: "Fianna" #NT!
+  KUAT_CHR_teraeza: "Teraeza" #NT!
+  KUAT_CHR_cilyn: "Cilyn" #NT!
+  KUAT_CHR_jes: "Jes" #NT!
+  KUAT_CHR_gixsa: "Gixsa" #NT!
+  KUAT_CHR_ta_mara: "Ta-mara" #NT!
+  KUAT_CHR_mara: "Mara" #NT!
+  KUAT_CHR_tag: "Tag" #NT!
+  KUAT_CHR_gallura: "Gallura" #NT!
+  KUAT_CHR_bleys: "Bleys" #NT!
+  KUAT_CHR_kylaena: "Kylaena" #NT!
+  KUAT_CHR_hethra: "Hethra" #NT!
+  KUAT_CHR_hirka: "Hirka" #NT!
+  KUAT_CHR_sola: "Sola" #NT!
+  KUAT_CHR_nola: "Nola" #NT!
+  KUAT_CHR_iris: "Iris" #NT!
+  KUAT_CHR_brali: "Brali" #NT!
+  KUAT_CHR_relva: "Relva" #NT!
+  KUAT_CHR_jasha: "Jasha" #NT!
+  KUAT_CHR_jenna: "Jenna" #NT!
+  KUAT_CHR_renga: "Renga" #NT!
+  KUAT_CHR_nyche: "Nyche" #NT!
+  KUAT_CHR_waria: "Waria" #NT!
+  KUAT_CHR_erin: "Erin" #NT!
+  KUAT_CHR_kalifa: "Kalifa" #NT!
+  KUAT_CHR_vara: "Vara" #NT!
+  KUAT_CHR_karena: "Karena" #NT!
+  KUAT_CHR_kess: "Kess" #NT!
+  KUAT_CHR_ala: "Ala" #NT!
+  KUAT_CHR_kiza: "Kiza" #NT!
+  KUAT_CHR_adele: "Adele" #NT!
+  KUAT_CHR_vani: "Vani" #NT!
+  KUAT_CHR_kym: "Kym" #NT!
+  KUAT_CHR_shandria: "Shandria" #NT!
+  KUAT_CHR_laudica: "Laudica" #NT!
+  KUAT_CHR_lilith: "Lilith" #NT!
+  KUAT_CHR_brandy: "Brandy" #NT!
+  KUAT_CHR_veega: "Veega" #NT!
+  KUAT_CHR_lanah: "Lanah" #NT!
+  KUAT_CHR_vinya: "Vinya" #NT!
+  KUAT_CHR_meloria: "Meloria" #NT!
+  KUAT_CHR_shyla: "Shyla" #NT!
+  KUAT_CHR_navah: "Navah" #NT!
+  KUAT_CHR_nevhra: "Nevhra" #NT!
+  KUAT_CHR_ballia: "Ballia" #NT!
+  KUAT_CHR_lilea: "Lilea" #NT!
+  KUAT_CHR_sia: "Sia" #NT!
+  KUAT_CHR_mindra: "Mindra" #NT!
+  KUAT_CHR_kryss: "Kryss" #NT!
+  KUAT_CHR_esa: "Esa" #NT!
+  KUAT_CHR_faye: "Faye" #NT!
+  KUAT_CHR_rhea: "Rhea" #NT!
+  KUAT_CHR_rica: "Rica" #NT!
+  KUAT_CHR_adea: "Adea" #NT!
+  KUAT_CHR_chertyl: "Chertyl" #NT!
+  KUAT_CHR_sapra: "Sapra" #NT!
+  KUAT_CHR_vega: "Vega" #NT!
+  KUAT_CHR_seyda: "Seyda" #NT!
+  KUAT_CHR_falthina: "Falthina" #NT!
+  KUAT_CHR_sheelya: "Sheelya" #NT!
+  KUAT_CHR_nifera: "Nifera" #NT!
+  KUAT_CHR_syrin: "Syrin" #NT!
+  KUAT_CHR_bria: "Bria" #NT!
+  KUAT_CHR_sera: "Sera" #NT!
+  KUAT_CHR_siolle: "Siolle" #NT!
+  KUAT_CHR_syla: "Syla" #NT!
+  KUAT_CHR_zayna: "Zayna" #NT!
+  KUAT_CHR_brindy: "Brindy" #NT!
+  KUAT_CHR_arada: "Arada" #NT!
+  KUAT_CHR_saza: "Saza" #NT!
+  KUAT_CHR_milinae: "Milinae" #NT!
+  KUAT_CHR_trilinae: "Trilinae" #NT!
+  KUAT_CHR_shaedra: "Shaedra" #NT!
+  KUAT_CHR_ecile: "Ecile" #NT!
+  KUAT_CHR_orpa: "Orpa" #NT!
+  KUAT_CHR_vralla: "Vralla" #NT!
+  KUAT_CHR_vye: "Vye" #NT!
+  KUAT_CHR_alana: "Alana" #NT!
+  KUAT_CHR_teniel: "Teniel" #NT!
+  KUAT_CHR_demmi: "Demmi" #NT!
+  KUAT_CHR_erris: "Erris" #NT!
+  KUAT_CHR_jannitha: "Jannitha" #NT!
+  KUAT_CHR_hoclaw: "Hoclaw" #NT!
+  KUAT_CHR_saxan: "Saxan" #NT!
+  KUAT_CHR_gejjen: "Gejjen" #NT!
+  KUAT_CHR_delpin: "Delpin" #NT!
+  KUAT_CHR_bedoch: "Bedoch" #NT!
+  KUAT_CHR_halcyon: "Halcyon" #NT!
+  KUAT_CHR_horn: "Horn" #NT!
+  KUAT_CHR_fordox: "Fordox" #NT!
+  KUAT_CHR_merricope: "Merricope" #NT!
+  KUAT_CHR_thomree: "Thomree" #NT!
+  KUAT_CHR_thyne: "Thyne" #NT!
+  KUAT_CHR_gallamby: "Gallamby" #NT!
+  KUAT_CHR_madine: "Madine" #NT!
+  KUAT_CHR_starflare: "Starflare" #NT!
+  KUAT_CHR_loor: "Loor" #NT!
+  KUAT_CHR_bastra: "Bastra" #NT!
+  KUAT_CHR_wessiri: "Wessiri" #NT!
+  KUAT_CHR_beruss: "Beruss" #NT!
+  KUAT_CHR_micamberlecto: "Micamberlecto" #NT!
+  KUAT_CHR_terrik: "Terrik" #NT!
+  KUAT_CHR_leikvold: "Leikvold" #NT!
+  KUAT_CHR_midanyl: "Midanyl" #NT!
+  KUAT_CHR_tyrson: "Tyrson" #NT!
+  KUAT_CHR_faytonni: "Faytonni" #NT!
+  KUAT_CHR_horm: "Horm" #NT!
+  KUAT_CHR_kieran: "Kieran" #NT!
+  KUAT_CHR_sal_solo: "Sal-Solo" #NT!
+  KUAT_CHR_solo: "Solo" #NT!
+  KUAT_CHR_a_daasha: "A'Daasha" #NT!
+  KUAT_CHR_alder: "Alder" #NT!
+  KUAT_CHR_ancher: "Ancher" #NT!
+  KUAT_CHR_anjek: "Anjek" #NT!
+  KUAT_CHR_anker: "Anker" #NT!
+  KUAT_CHR_anyell: "Anyell" #NT!
+  KUAT_CHR_arbo: "Arbo" #NT!
+  KUAT_CHR_archan: "Archan" #NT!
+  KUAT_CHR_ardellian: "Ardellian" #NT!
+  KUAT_CHR_arkos: "Arkos" #NT!
+  KUAT_CHR_arned: "Arned" #NT!
+  KUAT_CHR_arrant: "Arrant" #NT!
+  KUAT_CHR_aycen: "Aycen" #NT!
+  KUAT_CHR_bakarn: "Bakarn" #NT!
+  KUAT_CHR_barad: "Barad" #NT!
+  KUAT_CHR_barje: "Barje" #NT!
+  KUAT_CHR_barl: "Barl" #NT!
+  KUAT_CHR_barthis: "Barthis" #NT!
+  KUAT_CHR_bata: "Bata" #NT!
+  KUAT_CHR_beech: "Beech" #NT!
+  KUAT_CHR_beetilles: "Beetilles" #NT!
+  KUAT_CHR_behar: "Behar" #NT!
+  KUAT_CHR_bel_iblis: "Bel Iblis" #NT!
+  KUAT_CHR_bel_opis: "Bel-Opis" #NT!
+  KUAT_CHR_bell: "Bell" #NT!
+  KUAT_CHR_belos: "Belos" #NT!
+  KUAT_CHR_bender: "Bender" #NT!
+  KUAT_CHR_bilure: "Bilure" #NT!
+  KUAT_CHR_bish: "Bish" #NT!
+  KUAT_CHR_bissa: "Bissa" #NT!
+  KUAT_CHR_blancken: "Blancken" #NT!
+  KUAT_CHR_bombassa: "Bombassa" #NT!
+  KUAT_CHR_bordo: "Bordo" #NT!
+  KUAT_CHR_boshek: "BoShek" #NT!
+  KUAT_CHR_bounder: "Bounder" #NT!
+  KUAT_CHR_bratt: "Bratt" #NT!
+  KUAT_CHR_breeger: "Breeger" #NT!
+  KUAT_CHR_bricker: "Bricker" #NT!
+  KUAT_CHR_brigger: "Brigger" #NT!
+  KUAT_CHR_bruckman: "Bruckman" #NT!
+  KUAT_CHR_buroy: "Buroy" #NT!
+  KUAT_CHR_burr_naxis: "Burr Naxis" #NT!
+  KUAT_CHR_byrnloo: "Byrnloo" #NT!
+  KUAT_CHR_cadmir: "Cadmir" #NT!
+  KUAT_CHR_calay: "Calay" #NT!
+  KUAT_CHR_cantarus: "Cantarus" #NT!
+  KUAT_CHR_capstan: "Capstan" #NT!
+  KUAT_CHR_car_das: "Car'das" #NT!
+  KUAT_CHR_carr: "Carr" #NT!
+  KUAT_CHR_carter: "Carter" #NT!
+  KUAT_CHR_chyler: "Chyler" #NT!
+  KUAT_CHR_convorr: "Convorr" #NT!
+  KUAT_CHR_cope: "Cope" #NT!
+  KUAT_CHR_corse: "Corse" #NT!
+  KUAT_CHR_cracken: "Cracken" #NT!
+  KUAT_CHR_craddok: "Craddok" #NT!
+  KUAT_CHR_creel: "Creel" #NT!
+  KUAT_CHR_crisk: "Crisk" #NT!
+  KUAT_CHR_cynthisa: "Cynthisa" #NT!
+  KUAT_CHR_daine: "Daine" #NT!
+  KUAT_CHR_dak: "Dak" #NT!
+  KUAT_CHR_dakron: "Dakron" #NT!
+  KUAT_CHR_das: "Das" #NT!
+  KUAT_CHR_daskmin: "Daskmin" #NT!
+  KUAT_CHR_dekker: "Dekker" #NT!
+  KUAT_CHR_deng: "Deng" #NT!
+  KUAT_CHR_devlin: "Devlin" #NT!
+  KUAT_CHR_donos: "Donos" #NT!
+  KUAT_CHR_dotyk: "Dotyk" #NT!
+  KUAT_CHR_draav: "Draav" #NT!
+  KUAT_CHR_drass: "Drass" #NT!
+  KUAT_CHR_dravvad: "Dravvad" #NT!
+  KUAT_CHR_dreezian: "Dreezian" #NT!
+  KUAT_CHR_driscull: "Driscull" #NT!
+  KUAT_CHR_dubreas: "Dubreas" #NT!
+  KUAT_CHR_duey: "Duey" #NT!
+  KUAT_CHR_durron: "Durron" #NT!
+  KUAT_CHR_dustrunner: "Dustrunner" #NT!
+  KUAT_CHR_dynes: "Dynes" #NT!
+  KUAT_CHR_eldon: "Eldon" #NT!
+  KUAT_CHR_evnar: "Evnar" #NT!
+  KUAT_CHR_faldrin: "Faldrin" #NT!
+  KUAT_CHR_fanaso: "Fanaso" #NT!
+  KUAT_CHR_fane: "Fane" #NT!
+  KUAT_CHR_fash: "Fash" #NT!
+  KUAT_CHR_featherlight: "Featherlight" #NT!
+  KUAT_CHR_feleema: "Feleema" #NT!
+  KUAT_CHR_felyood: "Felyood" #NT!
+  KUAT_CHR_ferasi: "Ferasi" #NT!
+  KUAT_CHR_varangi: "Varangi" #NT!
+  KUAT_CHR_ferd: "Ferd" #NT!
+  KUAT_CHR_fhernan: "Fhernan" #NT!
+  KUAT_CHR_fische: "Fische" #NT!
+  KUAT_CHR_flenn: "Flenn" #NT!
+  KUAT_CHR_forno: "Forno" #NT!
+  KUAT_CHR_forte: "Forte" #NT!
+  KUAT_CHR_furloti: "Furloti" #NT!
+  KUAT_CHR_gadren: "Gadren" #NT!
+  KUAT_CHR_gara: "Gara" #NT!
+  KUAT_CHR_garamin: "Garamin" #NT!
+  KUAT_CHR_geissler: "Geissler" #NT!
+  KUAT_CHR_hun: "Hun" #NT!
+  KUAT_CHR_glider: "Glider" #NT!
+  KUAT_CHR_gistang: "Gistang" #NT!
+  KUAT_CHR_gleasry: "Gleasry" #NT!
+  KUAT_CHR_gorlin: "Gorlin" #NT!
+  KUAT_CHR_grath: "Grath" #NT!
+  KUAT_CHR_greenley: "Greenley" #NT!
+  KUAT_CHR_fulfel: "Fulfel" #NT!
+  KUAT_CHR_gurah: "Gurah" #NT!
+  KUAT_CHR_halbert: "Halbert" #NT!
+  KUAT_CHR_hamber: "Hamber" #NT!
+  KUAT_CHR_hamner: "Hamner" #NT!
+  KUAT_CHR_handerin: "Handerin" #NT!
+  KUAT_CHR_harand: "Harand" #NT!
+  KUAT_CHR_haley: "Haley" #NT!
+  KUAT_CHR_hel: "Hel" #NT!
+  KUAT_CHR_helot: "Helot" #NT!
+  KUAT_CHR_hieks: "Hieks" #NT!
+  KUAT_CHR_higron: "Higron" #NT!
+  KUAT_CHR_holkin: "Holkin" #NT!
+  KUAT_CHR_hooge: "Hooge" #NT!
+  KUAT_CHR_hus: "Hus" #NT!
+  KUAT_CHR_huutar: "Huutar" #NT!
+  KUAT_CHR_idanian: "Idanian" #NT!
+  KUAT_CHR_inacc: "Inacc" #NT!
+  KUAT_CHR_indervin: "Indervin" #NT!
+  KUAT_CHR_iniro: "Iniro" #NT!
+  KUAT_CHR_innik: "Innik" #NT!
+  KUAT_CHR_isken: "Isken" #NT!
+  KUAT_CHR_jiklip: "Jiklip" #NT!
+  KUAT_CHR_jinsin: "Jinsin" #NT!
+  KUAT_CHR_jixton: "Jixton" #NT!
+  KUAT_CHR_joben: "Joben" #NT!
+  KUAT_CHR_jodhul: "Jodhul" #NT!
+  KUAT_CHR_jofer: "Jofer" #NT!
+  KUAT_CHR_johnair: "Johnair" #NT!
+  KUAT_CHR_jorek: "Jorek" #NT!
+  KUAT_CHR_junus: "Junus" #NT!
+  KUAT_CHR_k_reye: "K'Reye" #NT!
+  KUAT_CHR_kahob: "Kahob" #NT!
+  KUAT_CHR_kantt: "Kantt" #NT!
+  KUAT_CHR_kanu: "Kanu" #NT!
+  KUAT_CHR_karathas: "Karathas" #NT!
+  KUAT_CHR_katrane: "Katrane" #NT!
+  KUAT_CHR_keer: "Keer" #NT!
+  KUAT_CHR_kel_vannon: "Kel'Vannon" #NT!
+  KUAT_CHR_van_kellen: "Van Kellen" #NT!
+  KUAT_CHR_kener: "Kener" #NT!
+  KUAT_CHR_kersos: "Kersos" #NT!
+  KUAT_CHR_kilian: "Kilian" #NT!
+  KUAT_CHR_kimbo: "Kimbo" #NT!
+  KUAT_CHR_kirin: "Kirin" #NT!
+  KUAT_CHR_kitt: "Kitt" #NT!
+  KUAT_CHR_konya: "Konya" #NT!
+  KUAT_CHR_korr: "Korr" #NT!
+  KUAT_CHR_krast: "Krast" #NT!
+  KUAT_CHR_kwerve: "Kwerve" #NT!
+  KUAT_CHR_kwinn: "Kwinn" #NT!
+  KUAT_CHR_l_hnnar: "L'hnnar" #NT!
+  KUAT_CHR_lerann: "Lerann" #NT!
+  KUAT_CHR_levare: "Levare" #NT!
+  KUAT_CHR_locke: "Locke" #NT!
+  KUAT_CHR_loren: "Loren" #NT!
+  KUAT_CHR_loroan: "Loroan" #NT!
+  KUAT_CHR_m_rak: "M'rak" #NT!
+  KUAT_CHR_madish: "Madish" #NT!
+  KUAT_CHR_malo: "Malo" #NT!
+  KUAT_CHR_mar_shayal: "Mar-Shayal" #NT!
+  KUAT_CHR_maysor: "Maysor" #NT!
+  KUAT_CHR_mccallok: "McCallok" #NT!
+  KUAT_CHR_king: "King" #NT!
+  KUAT_CHR_melikan: "Melikan" #NT!
+  KUAT_CHR_millano: "Millano" #NT!
+  KUAT_CHR_moeda: "Moeda" #NT!
+  KUAT_CHR_montis: "Montis" #NT!
+  KUAT_CHR_mor: "Mor" #NT!
+  KUAT_CHR_mullawny: "Mullawny" #NT!
+  KUAT_CHR_nabon: "Nabon" #NT!
+  KUAT_CHR_nataal: "Nataal" #NT!
+  KUAT_CHR_navander: "Navander" #NT!
+  KUAT_CHR_naytaan: "Naytaan" #NT!
+  KUAT_CHR_nedmak: "Nedmak" #NT!
+  KUAT_CHR_nimbi: "Nimbi" #NT!
+  KUAT_CHR_noaddo: "Noaddo" #NT!
+  KUAT_CHR_noorg: "Noorg" #NT!
+  KUAT_CHR_norrin: "Norrin" #NT!
+  KUAT_CHR_okanor: "Okanor" #NT!
+  KUAT_CHR_p_teska: "P'teska" #NT!
+  KUAT_CHR_paol: "Paol" #NT!
+  KUAT_CHR_parna: "Parna" #NT!
+  KUAT_CHR_patrell: "Patrell" #NT!
+  KUAT_CHR_pavan: "Pavan" #NT!
+  KUAT_CHR_pax: "Pax" #NT!
+  KUAT_CHR_pendre: "Pendre" #NT!
+  KUAT_CHR_pendron: "Pendron" #NT!
+  KUAT_CHR_pon: "Pon" #NT!
+  KUAT_CHR_post: "Post" #NT!
+  KUAT_CHR_qennto: "Qennto" #NT!
+  KUAT_CHR_rai: "Rai" #NT!
+  KUAT_CHR_ramak: "Ramak" #NT!
+  KUAT_CHR_reendorr: "Reendorr" #NT!
+  KUAT_CHR_rendar: "Rendar" #NT!
+  KUAT_CHR_reshad: "Reshad" #NT!
+  KUAT_CHR_rez: "Rez" #NT!
+  KUAT_CHR_rite: "Rite" #NT!
+  KUAT_CHR_rojo: "Rojo" #NT!
+  KUAT_CHR_ross: "Ross" #NT!
+  KUAT_CHR_rydel: "Rydel" #NT!
+  KUAT_CHR_saiy: "Saiy" #NT!
+  KUAT_CHR_salpivo: "SalPivo" #NT!
+  KUAT_CHR_sarkee: "Sarkee" #NT!
+  KUAT_CHR_sassich: "Sassich" #NT!
+  KUAT_CHR_sau: "Sau" #NT!
+  KUAT_CHR_savas: "Savas" #NT!
+  KUAT_CHR_seedel: "Seedel" #NT!
+  KUAT_CHR_seki: "Seki" #NT!
+  KUAT_CHR_seldin: "Seldin" #NT!
+  KUAT_CHR_sepen: "Sepen" #NT!
+  KUAT_CHR_shae: "Shae" #NT!
+  KUAT_CHR_shallo: "Shallo" #NT!
+  KUAT_CHR_sharest: "Sharest" #NT!
+  KUAT_CHR_shelby: "Shelby" #NT!
+  KUAT_CHR_shu: "Shu" #NT!
+  KUAT_CHR_sionaro: "Sionaro" #NT!
+  KUAT_CHR_sirrah: "Sirrah" #NT!
+  KUAT_CHR_sistek: "Sistek" #NT!
+  KUAT_CHR_spart: "Spart" #NT!
+  KUAT_CHR_stasheff: "Stasheff" #NT!
+  KUAT_CHR_stokk: "Stokk" #NT!
+  KUAT_CHR_suul: "Suul" #NT!
+  KUAT_CHR_swan: "Swan" #NT!
+  KUAT_CHR_swift: "Swift" #NT!
+  KUAT_CHR_tal_oldra: "Tal-Oldra" #NT!
+  KUAT_CHR_tark: "Tark" #NT!
+  KUAT_CHR_teppler: "Teppler" #NT!
+  KUAT_CHR_tharen: "Tharen" #NT!
+  KUAT_CHR_thrakus: "Thrakus" #NT!
+  KUAT_CHR_timmer: "Timmer" #NT!
+  KUAT_CHR_tinta: "Tinta" #NT!
+  KUAT_CHR_tipper: "Tipper" #NT!
+  KUAT_CHR_tomas: "Tomas" #NT!
+  KUAT_CHR_tommick: "Tommick" #NT!
+  KUAT_CHR_torbul: "Torbul" #NT!
+  KUAT_CHR_tors: "Tors" #NT!
+  KUAT_CHR_torve: "Torve" #NT!
+  KUAT_CHR_tredahl: "Tredahl" #NT!
+  KUAT_CHR_treece: "Treece" #NT!
+  KUAT_CHR_truchong: "Truchong" #NT!
+  KUAT_CHR_tumu: "Tumu" #NT!
+  KUAT_CHR_turhaya: "Turhaya" #NT!
+  KUAT_CHR_uliss: "Uliss" #NT!
+  KUAT_CHR_ulbert: "Ulbert" #NT!
+  KUAT_CHR_undea: "Undea" #NT!
+  KUAT_CHR_untaire: "Untaire" #NT!
+  KUAT_CHR_valouri: "Valouri" #NT!
+  KUAT_CHR_verenar: "Verenar" #NT!
+  KUAT_CHR_vergesso: "Vergesso" #NT!
+  KUAT_CHR_vidian: "Vidian" #NT!
+  KUAT_CHR_vinram: "Vinram" #NT!
+  KUAT_CHR_vio: "Vio" #NT!
+  KUAT_CHR_vitale: "Vitale" #NT!
+  KUAT_CHR_vondar: "Vondar" #NT!
+  KUAT_CHR_vorr: "Vorr" #NT!
+  KUAT_CHR_vorru: "Vorru" #NT!
+  KUAT_CHR_walden: "Walden" #NT!
+  KUAT_CHR_waray: "Waray" #NT!
+  KUAT_CHR_wes: "Wes" #NT!
+  KUAT_CHR_wred: "Wred" #NT!
+  KUAT_CHR_wyum: "Wyum" #NT!
+  KUAT_CHR_xoczuko: "Xoczuko" #NT!
+  KUAT_CHR_yamagh: "Yamagh" #NT!
+  KUAT_CHR_yarar: "Yarar" #NT!
+  KUAT_CHR_berethron: "Berethron" #NT!
+  KUAT_CHR_threkim: "Threkim" #NT!
+  KUAT_CHR_hal: "Hal" #NT!
+  KUAT_CHR_rostek: "Rostek" #NT!
+  KUAT_CHR_hundi: "Hundi" #NT!
+  KUAT_CHR_scerra: "Scerra" #NT!
+  KUAT_CHR_darriovof_iii: "Darriovof III" #NT!
+  KUAT_CHR_darriovof_iv: "Darriovof IV" #NT!
+  KUAT_CHR_alek: "Alek" #NT!
+  KUAT_CHR_bail: "Bail" #NT!
+  KUAT_CHR_balic: "Balic" #NT!
+  KUAT_CHR_bevek: "Bevek" #NT!
+  KUAT_CHR_bornan: "Bornan" #NT!
+  KUAT_CHR_bouris: "Bouris" #NT!
+  KUAT_CHR_cedarik: "Cedarik" #NT!
+  KUAT_CHR_charle: "Charle" #NT!
+  KUAT_CHR_dargus: "Dargus" #NT!
+  KUAT_CHR_deral: "Deral" #NT!
+  KUAT_CHR_deris: "Deris" #NT!
+  KUAT_CHR_dolin: "Dolin" #NT!
+  KUAT_CHR_dugan: "Dugan" #NT!
+  KUAT_CHR_elz: "Elz" #NT!
+  KUAT_CHR_elkin: "Elkin" #NT!
+  KUAT_CHR_gaul: "Gaul" #NT!
+  KUAT_CHR_gevin: "Gevin" #NT!
+  KUAT_CHR_gorm: "Gorm" #NT!
+  KUAT_CHR_gram: "Gram" #NT!
+  KUAT_CHR_gurveer: "Gurveer" #NT!
+  KUAT_CHR_hall: "Hall" #NT!
+  KUAT_CHR_heeth: "Heeth" #NT!
+  KUAT_CHR_inivon: "Inivon" #NT!
+  KUAT_CHR_ivers: "Ivers" #NT!
+  KUAT_CHR_jeremoch: "Jeremoch" #NT!
+  KUAT_CHR_jharkus: "Jharkus" #NT!
+  KUAT_CHR_joral: "Joral" #NT!
+  KUAT_CHR_kamen: "Kamen" #NT!
+  KUAT_CHR_kan_grell: "Kan'grell" #NT!
+  KUAT_CHR_keldas: "Keldas" #NT!
+  KUAT_CHR_kelen: "Kelen" #NT!
+  KUAT_CHR_larbec: "Larbec" #NT!
+  KUAT_CHR_lenn: "Lenn" #NT!
+  KUAT_CHR_lieber: "Lieber" #NT!
+  KUAT_CHR_linel: "Linel" #NT!
+  KUAT_CHR_lew: "Lew" #NT!
+  KUAT_CHR_melas: "Melas" #NT!
+  KUAT_CHR_nayel: "Nayel" #NT!
+  KUAT_CHR_nomar: "Nomar" #NT!
+  KUAT_CHR_nial: "Nial" #NT!
+  KUAT_CHR_orrick: "Orrick" #NT!
+  KUAT_CHR_pashon: "Pashon" #NT!
+  KUAT_CHR_perovius: "Perovius" #NT!
+  KUAT_CHR_paulus: "Paulus" #NT!
+  KUAT_CHR_quarn: "Quarn" #NT!
+  KUAT_CHR_raal: "Raal" #NT!
+  KUAT_CHR_raffid: "Raffid" #NT!
+  KUAT_CHR_raikon: "Raikon" #NT!
+  KUAT_CHR_rak: "Rak" #NT!
+  KUAT_CHR_raymus: "Raymus" #NT!
+  KUAT_CHR_raynar: "Raynar" #NT!
+  KUAT_CHR_rehmar: "Rehmar" #NT!
+  KUAT_CHR_rickard: "Rickard" #NT!
+  KUAT_CHR_serjay: "Serjay" #NT!
+  KUAT_CHR_seraph: "Seraph" #NT!
+  KUAT_CHR_stavin: "Stavin" #NT!
+  KUAT_CHR_taros: "Taros" #NT!
+  KUAT_CHR_tash: "Tash" #NT!
+  KUAT_CHR_tenantius: "Tenantius" #NT!
+  KUAT_CHR_tavion: "Tavion" #NT!
+  KUAT_CHR_thorin: "Thorin" #NT!
+  KUAT_CHR_teral: "Teral" #NT!
+  KUAT_CHR_trask: "Trask" #NT!
+  KUAT_CHR_tyko: "Tyko" #NT!
+  KUAT_CHR_varus: "Varus" #NT!
+  KUAT_CHR_vessex: "Vessex" #NT!
+  KUAT_CHR_victor: "Victor" #NT!
+  KUAT_CHR_voron: "Voron" #NT!
+  KUAT_CHR_weeznod: "Weeznod" #NT!
+  KUAT_CHR_wynne: "Wynne" #NT!
+  KUAT_CHR_xin: "Xin" #NT!
+  KUAT_CHR_yils: "Yils" #NT!
+  KUAT_CHR_yudin: "Yudin" #NT!
+  KUAT_CHR_yun: "Yun" #NT!
+  KUAT_CHR_zacar: "Zacar" #NT!
+  KUAT_CHR_stanel_andaren: "Stanel Andaren" #NT!
+  KUAT_CHR_corlis_brado: "Corlis Brado" #NT!
+  KUAT_CHR_aered: "Aered" #NT!
+  KUAT_CHR_cael: "Cael" #NT!
+  KUAT_CHR_peema: "Peema" #NT!
+  KUAT_CHR_bryce: "Bryce" #NT!
+  KUAT_CHR_atton: "Atton" #NT!
+  KUAT_CHR_agrippa: "Agrippa" #NT!
+  KUAT_CHR_stonroy: "Stonroy" #NT!
+  KUAT_CHR_kalf: "Kalf" #NT!
+  KUAT_CHR_zak: "Zak" #NT!
+  KUAT_CHR_vestin: "Vestin" #NT!
+  KUAT_CHR_denri: "Denri" #NT!
+  KUAT_CHR_sehn: "Sehn" #NT!
+  KUAT_CHR_bradel: "Bradel" #NT!
+  KUAT_CHR_brinn: "Brinn" #NT!
+  KUAT_CHR_bylsma: "Bylsma" #NT!
+  KUAT_CHR_skoloc: "Skoloc" #NT!
+  KUAT_CHR_tycho: "Tycho" #NT!
+  KUAT_CHR_corlis: "Corlis" #NT!
+  KUAT_CHR_brado: "Brado" #NT!
+  KUAT_CHR_jahan: "Jahan" #NT!
+  KUAT_CHR_hric: "Hric" #NT!
+  KUAT_CHR_skall: "Skall" #NT!
+  KUAT_CHR_kier: "Kier" #NT!
+  KUAT_CHR_dathis: "Dathis" #NT!
+  KUAT_CHR_endo: "Endo" #NT!
+  KUAT_CHR_teven: "Teven" #NT!
+  KUAT_CHR_lohn: "Lohn" #NT!
+  KUAT_CHR_rabael: "Rabael" #NT!
+  KUAT_CHR_dir: "Dir" #NT!
+  KUAT_CHR_euwood: "Euwood" #NT!
+  KUAT_CHR_craige: "Craige" #NT!
+  KUAT_CHR_lagan: "Lagan" #NT!
+  KUAT_CHR_earnst: "Earnst" #NT!
+  KUAT_CHR_dannan: "Dannan" #NT!
+  KUAT_CHR_wynt: "Wynt" #NT!
+  KUAT_CHR_dictio: "Dictio" #NT!
+  KUAT_CHR_rangos: "Rangos" #NT!
+  KUAT_CHR_marsden: "Marsden" #NT!
+  KUAT_CHR_darmin: "Darmin" #NT!
+  KUAT_CHR_zeb: "Zeb" #NT!
+  KUAT_CHR_dairn: "Dairn" #NT!
+  KUAT_CHR_mazi: "Mazi" #NT!
+  KUAT_CHR_santigo: "Santigo" #NT!
+  KUAT_CHR_reija: "Reija" #NT!
+  KUAT_CHR_kasan: "Kasan" #NT!
+  KUAT_CHR_j_er: "J'er" #NT!
+  KUAT_CHR_lorac: "Lorac" #NT!
+  KUAT_CHR_nuun: "Nuun" #NT!
+  KUAT_CHR_pharoth: "Pharoth" #NT!
+  KUAT_CHR_ledd: "Ledd" #NT!
+  KUAT_CHR_veni: "Veni" #NT!
+  KUAT_CHR_kai: "Kai" #NT!
+  KUAT_CHR_sam: "Sam" #NT!
+  KUAT_CHR_kell: "Kell" #NT!
+  KUAT_CHR_tyr: "Tyr" #NT!
+  KUAT_CHR_chrigeld: "Chrigeld" #NT!
+  KUAT_CHR_malan: "Malan" #NT!
+  KUAT_CHR_junas: "Junas" #NT!
+  KUAT_CHR_vacca: "Vacca" #NT!
+  KUAT_CHR_halagad: "Halagad" #NT!
+  KUAT_CHR_adrian: "Adrian" #NT!
+  KUAT_CHR_sateen: "Sateen" #NT!
+  KUAT_CHR_vanden: "Vanden" #NT!
+  KUAT_CHR_gregor: "Gregor" #NT!
+  KUAT_CHR_nash: "Nash" #NT!
+  KUAT_CHR_dartan: "Dartan" #NT!
+  KUAT_CHR_altana: "Altana" #NT!
+  KUAT_CHR_an_bal: "An'bal" #NT!
+  KUAT_CHR_caline: "Caline" #NT!
+  KUAT_CHR_carasynthia: "Carasynthia" #NT!
+  KUAT_CHR_cedonia: "Cedonia" #NT!
+  KUAT_CHR_corla: "Corla" #NT!
+  KUAT_CHR_daria: "Daria" #NT!
+  KUAT_CHR_deara: "Deara" #NT!
+  KUAT_CHR_elana: "Elana" #NT!
+  KUAT_CHR_fasha: "Fasha" #NT!
+  KUAT_CHR_gerane: "Gerane" #NT!
+  KUAT_CHR_gesselle: "Gesselle" #NT!
+  KUAT_CHR_lenan: "Lenan" #NT!
+  KUAT_CHR_mazicia: "Mazicia" #NT!
+  KUAT_CHR_onway: "Onway" #NT!
+  KUAT_CHR_pabel: "Pabel" #NT!
+  KUAT_CHR_rehanna: "Rehanna" #NT!
+  KUAT_CHR_renata: "Renata" #NT!
+  KUAT_CHR_samara: "Samara" #NT!
+  KUAT_CHR_sheltay: "Sheltay" #NT!
+  KUAT_CHR_surrel: "Surrel" #NT!
+  KUAT_CHR_tia: "Tia" #NT!
+  KUAT_CHR_vala: "Vala" #NT!
+  KUAT_CHR_valyn: "Valyn" #NT!
+  KUAT_CHR_verandala: "Verandala" #NT!
+  KUAT_CHR_aryn_dro: "Aryn Dro" #NT!
+  KUAT_CHR_paran_sin: "Paran Sin" #NT!
+  KUAT_CHR_darsha: "Darsha" #NT!
+  KUAT_CHR_liana: "Liana" #NT!
+  KUAT_CHR_alya: "Alya" #NT!
+  KUAT_CHR_celana: "Celana" #NT!
+  KUAT_CHR_padija: "Padija" #NT!
+  KUAT_CHR_lilit: "Lilit" #NT!
+  KUAT_CHR_milessa: "Milessa" #NT!
+  KUAT_CHR_jora: "Jora" #NT!
+  KUAT_CHR_ress: "Ress" #NT!
+  KUAT_CHR_dansra: "Dansra" #NT!
+  KUAT_CHR_mia: "Mia" #NT!
+  KUAT_CHR_muriel: "Muriel" #NT!
+  KUAT_CHR_andra: "Andra" #NT!
+  KUAT_CHR_jens: "Jens" #NT!
+  KUAT_CHR_darlen: "Darlen" #NT!
+  KUAT_CHR_halle: "Halle" #NT!
+  KUAT_CHR_halla: "Halla" #NT!
+  KUAT_CHR_cednah: "Cednah" #NT!
+  KUAT_CHR_dariana: "Dariana" #NT!
+  KUAT_CHR_talie: "Talie" #NT!
+  KUAT_CHR_roganda: "Roganda" #NT!
+  KUAT_CHR_kira: "Kira" #NT!
+  KUAT_CHR_kerri: "Kerri" #NT!
+  KUAT_CHR_minala: "Minala" #NT!
+  KUAT_CHR_tanda: "Tanda" #NT!
+  KUAT_CHR_maya: "Maya" #NT!
+  KUAT_CHR_anandra: "Anandra" #NT!
+  KUAT_CHR_neena: "Neena" #NT!
+  KUAT_CHR_vu: "Vu" #NT!
+  KUAT_CHR_celly: "Celly" #NT!
+  KUAT_CHR_jan: "Jan" #NT!
+  KUAT_CHR_uwa: "Uwa" #NT!
+  KUAT_CHR_inea: "Inea" #NT!
+  KUAT_CHR_maglenna: "Maglenna" #NT!
+  KUAT_CHR_vici: "Vici" #NT!
+  KUAT_CHR_kayala: "Kayala" #NT!
+  KUAT_CHR_nari: "Nari" #NT!
+  KUAT_CHR_vana: "Vana" #NT!
+  KUAT_CHR_terrin: "Terrin" #NT!
+  KUAT_CHR_hari: "Hari" #NT!
+  KUAT_CHR_tace: "Tace" #NT!
+  KUAT_CHR_jylle: "Jylle" #NT!
+  KUAT_CHR_sumda: "Sumda" #NT!
+  KUAT_CHR_janray: "Janray" #NT!
+  KUAT_CHR_marfa: "Marfa" #NT!
+  KUAT_CHR_selnia: "Selnia" #NT!
+  KUAT_CHR_tula: "Tula" #NT!
+  KUAT_CHR_jah_kii: "Jah-kii" #NT!
+  KUAT_CHR_niclara: "Niclara" #NT!
+  KUAT_CHR_evaan: "Evaan" #NT!
+  KUAT_CHR_vesta: "Vesta" #NT!
+  KUAT_CHR_jaesa: "Jaesa" #NT!
+  KUAT_CHR_parvin: "Parvin" #NT!
+  KUAT_CHR_sona: "Sona" #NT!
+  KUAT_CHR_alde: "Alde" #NT!
+  KUAT_CHR_frayus: "Frayus" #NT!
+  KUAT_CHR_girard: "Girard" #NT!
+  KUAT_CHR_glorio: "Glorio" #NT!
+  KUAT_CHR_hanarist: "Hanarist" #NT!
+  KUAT_CHR_killesa: "Killesa" #NT!
+  KUAT_CHR_lanar: "Lanar" #NT!
+  KUAT_CHR_metara: "Metara" #NT!
+  KUAT_CHR_panteer: "Panteer" #NT!
+  KUAT_CHR_qel_nosh: "Qel-Nosh" #NT!
+  KUAT_CHR_renar: "Renar" #NT!
+  KUAT_CHR_rist: "Rist" #NT!
+  KUAT_CHR_serrus: "Serrus" #NT!
+  KUAT_CHR_syrush: "Syrush" #NT!
+  KUAT_CHR_teraan: "Teraan" #NT!
+  KUAT_CHR_thul: "Thul" #NT!
+  KUAT_CHR_ulgo: "Ulgo" #NT!
+  KUAT_CHR_argyris: "Argyris" #NT!
+  KUAT_CHR_assant: "Assant" #NT!
+  KUAT_CHR_dune: "Dune" #NT!
+  KUAT_CHR_ahuff: "Ahuff" #NT!
+  KUAT_CHR_agoris: "Agoris" #NT!
+  KUAT_CHR_rand: "Rand" #NT!
+  KUAT_CHR_aldrete: "Aldrete" #NT!
+  KUAT_CHR_merian: "Merian" #NT!
+  KUAT_CHR_soma: "Soma" #NT!
+  KUAT_CHR_anjeri: "Anjeri" #NT!
+  KUAT_CHR_arranda: "Arranda" #NT!
+  KUAT_CHR_astane: "Astane" #NT!
+  KUAT_CHR_axlon: "Axlon" #NT!
+  KUAT_CHR_ayl: "Ayl" #NT!
+  KUAT_CHR_batten: "Batten" #NT!
+  KUAT_CHR_baroule: "Baroule" #NT!
+  KUAT_CHR_beezer: "Beezer" #NT!
+  KUAT_CHR_celchu: "Celchu" #NT!
+  KUAT_CHR_corwin: "Corwin" #NT!
+  KUAT_CHR_cressen: "Cressen" #NT!
+  KUAT_CHR_cross: "Cross" #NT!
+  KUAT_CHR_dalhney: "Dalhney" #NT!
+  KUAT_CHR_delos: "Delos" #NT!
+  KUAT_CHR_domadi: "Domadi" #NT!
+  KUAT_CHR_dray: "Dray" #NT!
+  KUAT_CHR_elgin: "Elgin" #NT!
+  KUAT_CHR_frant: "Frant" #NT!
+  KUAT_CHR_ettyk: "Ettyk" #NT!
+  KUAT_CHR_faenel: "Faenel" #NT!
+  KUAT_CHR_gale: "Gale" #NT!
+  KUAT_CHR_genden: "Genden" #NT!
+  KUAT_CHR_gor: "Gor" #NT!
+  KUAT_CHR_graf: "Graf" #NT!
+  KUAT_CHR_gwyndon: "Gwyndon" #NT!
+  KUAT_CHR_heathe: "Heathe" #NT!
+  KUAT_CHR_ismaren: "Ismaren" #NT!
+  KUAT_CHR_kamiel: "Kamiel" #NT!
+  KUAT_CHR_kand: "Kand" #NT!
+  KUAT_CHR_kelvan: "Kelvan" #NT!
+  KUAT_CHR_kepporra: "Kepporra" #NT!
+  KUAT_CHR_l_varren: "L'varren" #NT!
+  KUAT_CHR_lar: "Lar" #NT!
+  KUAT_CHR_latham: "Latham" #NT!
+  KUAT_CHR_lerspri: "Lerspri" #NT!
+  KUAT_CHR_lessev: "Lessev" #NT!
+  KUAT_CHR_lodilyn: "Lodilyn" #NT!
+  KUAT_CHR_maddaan: "Maddaan" #NT!
+  KUAT_CHR_maggli: "Maggli" #NT!
+  KUAT_CHR_marelle: "Marelle" #NT!
+  KUAT_CHR_metonae: "Metonae" #NT!
+  KUAT_CHR_milon: "Milon" #NT!
+  KUAT_CHR_momen: "Momen" #NT!
+  KUAT_CHR_moor: "Moor" #NT!
+  KUAT_CHR_nahj: "Nahj" #NT!
+  KUAT_CHR_nin: "Nin" #NT!
+  KUAT_CHR_nonnaihr: "Nonnaihr" #NT!
+  KUAT_CHR_ors: "Ors" #NT!
+  KUAT_CHR_pareece: "Pareece" #NT!
+  KUAT_CHR_pargen: "Pargen" #NT!
+  KUAT_CHR_pendower: "Pendower" #NT!
+  KUAT_CHR_pinot: "Pinot" #NT!
+  KUAT_CHR_ramunee: "Ramunee" #NT!
+  KUAT_CHR_ravein: "Ravein" #NT!
+  KUAT_CHR_rieekan: "Rieekan" #NT!
+  KUAT_CHR_rogaren: "Rogaren" #NT!
+  KUAT_CHR_sable: "Sable" #NT!
+  KUAT_CHR_saddek: "Saddek" #NT!
+  KUAT_CHR_sage: "Sage" #NT!
+  KUAT_CHR_sandafar: "Sandafar" #NT!
+  KUAT_CHR_seldona: "Seldona" #NT!
+  KUAT_CHR_tainer: "Tainer" #NT!
+  KUAT_CHR_taskeen: "Taskeen" #NT!
+  KUAT_CHR_tend: "Tend" #NT!
+  KUAT_CHR_tessime: "Tessime" #NT!
+  KUAT_CHR_thorbin: "Thorbin" #NT!
+  KUAT_CHR_tinnine: "Tinnine" #NT!
+  KUAT_CHR_trigg: "Trigg" #NT!
+  KUAT_CHR_tugrina: "Tugrina" #NT!
+  KUAT_CHR_turner: "Turner" #NT!
+  KUAT_CHR_vaargaz: "Vaargaz" #NT!
+  KUAT_CHR_varnillian: "Varnillian" #NT!
+  KUAT_CHR_ventor: "Ventor" #NT!
+  KUAT_CHR_verana: "Verana" #NT!
+  KUAT_CHR_verlaine: "Verlaine" #NT!
+  KUAT_CHR_vestswe: "Vestswe" #NT!
+  KUAT_CHR_vox: "Vox" #NT!
+  KUAT_CHR_willard: "Willard" #NT!
+  KUAT_CHR_willsaam: "Willsaam" #NT!
+  KUAT_CHR_windrider: "Windrider" #NT!
+  KUAT_CHR_ziemba: "Ziemba" #NT!
+  KUAT_CHR_darrus: "Darrus" #NT!
+  KUAT_CHR_eckhorn: "Eckhorn" #NT!
+  KUAT_CHR_ferrin: "Ferrin" #NT!
+  KUAT_CHR_haemon: "Haemon" #NT!
+  KUAT_CHR_heitor: "Heitor" #NT!
+  KUAT_CHR_horis: "Horis" #NT!
+  KUAT_CHR_kendoh: "Kendoh" #NT!
+  KUAT_CHR_maddor: "Maddor" #NT!
+  KUAT_CHR_marcum: "Marcum" #NT!
+  KUAT_CHR_norn: "Norn" #NT!
+  KUAT_CHR_peyar: "Peyar" #NT!
+  KUAT_CHR_jeren_nolus: "Jeren Nolus" #NT!
+  KUAT_CHR_pallos_thessius: "Pallos Thessius" #NT!
+  KUAT_CHR_aurren_tuile: "Aurren Tuile" #NT!
+  KUAT_CHR_jorad_sindarus: "Jorad Sindarus" #NT!
+  KUAT_CHR_markus_andarius: "Markus Andarius" #NT!
+  KUAT_CHR_sio: "Sio" #NT!
+  KUAT_CHR_quarsh: "Quarsh" #NT!
+  KUAT_CHR_ars: "Ars" #NT!
+  KUAT_CHR_darred: "Darred" #NT!
+  KUAT_CHR_ruwee: "Ruwee" #NT!
+  KUAT_CHR_aitalla: "Aitalla" #NT!
+  KUAT_CHR_breha: "Breha" #NT!
+  KUAT_CHR_chay: "Chay" #NT!
+  KUAT_CHR_markos: "Markos" #NT!
+  KUAT_CHR_maelrich: "Maelrich" #NT!
+  KUAT_CHR_rouge: "Rouge" #NT!
+  KUAT_CHR_silara: "Silara" #NT!
+  KUAT_CHR_winter: "Winter" #NT!
+  KUAT_CHR_katei_elinari: "Katei Elinari" #NT!
+  KUAT_CHR_r_illata: "Réillata" #NT!
+  KUAT_CHR_jamillia: "Jamillia" #NT!
+  KUAT_CHR_neeyutnee: "Neeyutnee" #NT!
+  KUAT_CHR_jobal: "Jobal" #NT!
+  KUAT_CHR_ryoo: "Ryoo" #NT!
+  KUAT_CHR_winama: "Winama" #NT!
+  KUAT_CHR_sourna: "Sourna" #NT!
+  KUAT_CHR_naberrie: "Naberrie" #NT!
+  KUAT_CHR_parnelli: "Parnelli" #NT!
+  KUAT_CHR_tapalo: "Tapalo" #NT!
+  KUAT_CHR_veruna: "Veruna" #NT!
+  KUAT_CHR_bibble: "Bibble" #NT!
+  KUAT_CHR_panaka: "Panaka" #NT!
+  KUAT_CHR_antayen: "Antayen" #NT!
+  KUAT_CHR_armin: "Armin" #NT!
+  KUAT_CHR_batono: "Batono" #NT!
+  KUAT_CHR_billan: "Billan" #NT!
+  KUAT_CHR_brall: "Brall" #NT!
+  KUAT_CHR_brendan: "Brendan" #NT!
+  KUAT_CHR_coro: "Coro" #NT!
+  KUAT_CHR_corrun: "Corrun" #NT!
+  KUAT_CHR_dehno: "Dehno" #NT!
+  KUAT_CHR_dern: "Dern" #NT!
+  KUAT_CHR_diirn: "Diirn" #NT!
+  KUAT_CHR_di_go: "Di-go" #NT!
+  KUAT_CHR_enok: "Enok" #NT!
+  KUAT_CHR_fodo: "Fodo" #NT!
+  KUAT_CHR_gayem: "Gayem" #NT!
+  KUAT_CHR_gragov: "Gragov" #NT!
+  KUAT_CHR_greeta: "Greeta" #NT!
+  KUAT_CHR_griff: "Griff" #NT!
+  KUAT_CHR_grommik: "Grommik" #NT!
+  KUAT_CHR_harra: "Harra" #NT!
+  KUAT_CHR_hawek: "Hawek" #NT!
+  KUAT_CHR_horell: "Horell" #NT!
+  KUAT_CHR_janos: "Janos" #NT!
+  KUAT_CHR_kamus: "Kamus" #NT!
+  KUAT_CHR_mex: "Mex" #NT!
+  KUAT_CHR_rasmus: "Rasmus" #NT!
+  KUAT_CHR_samovan: "Samovan" #NT!
+  KUAT_CHR_tarin: "Tarin" #NT!
+  KUAT_CHR_teak: "Teak" #NT!
+  KUAT_CHR_thon: "Thon" #NT!
+  KUAT_CHR_torkel: "Torkel" #NT!
+  KUAT_CHR_trey: "Trey" #NT!
+  KUAT_CHR_ward: "Ward" #NT!
+  KUAT_CHR_wren: "Wren" #NT!
+  KUAT_CHR_xarval: "Xarval" #NT!
+  KUAT_CHR_yem: "Yem" #NT!
+  KUAT_CHR_zokar: "Zokar" #NT!
+  KUAT_CHR_eva: "Eva" #NT!
+  KUAT_CHR_galir: "Galir" #NT!
+  KUAT_CHR_jana: "Jana" #NT!
+  KUAT_CHR_joni: "Joni" #NT!
+  KUAT_CHR_kaya: "Kaya" #NT!
+  KUAT_CHR_merrit: "Merrit" #NT!
+  KUAT_CHR_nara: "Nara" #NT!
+  KUAT_CHR_soprin: "Soprin" #NT!
+  KUAT_CHR_vipp: "Vipp" #NT!
+  KUAT_CHR_adelair: "Adelair" #NT!
+  KUAT_CHR_bann: "Bann" #NT!
+  KUAT_CHR_blys: "Blys" #NT!
+  KUAT_CHR_briggam: "Briggam" #NT!
+  KUAT_CHR_col: "Col" #NT!
+  KUAT_CHR_denovan: "Denovan" #NT!
+  KUAT_CHR_falt: "Falt" #NT!
+  KUAT_CHR_fizark: "Fizark" #NT!
+  KUAT_CHR_hillin: "Hillin" #NT!
+  KUAT_CHR_holda: "Holda" #NT!
+  KUAT_CHR_kaayz: "Kaayz" #NT!
+  KUAT_CHR_kurthson: "Kurthson" #NT!
+  KUAT_CHR_laphmer: "Laphmer" #NT!
+  KUAT_CHR_lanra: "Lanra" #NT!
+  KUAT_CHR_seario: "Seario" #NT!
+  KUAT_CHR_leksende: "Leksende" #NT!
+  KUAT_CHR_lorso: "Lorso" #NT!
+  KUAT_CHR_medoo: "Medoo" #NT!
+  KUAT_CHR_natari: "Natari" #NT!
+  KUAT_CHR_orden: "Orden" #NT!
+  KUAT_CHR_radler: "Radler" #NT!
+  KUAT_CHR_ree: "Ree" #NT!
+  KUAT_CHR_reemus: "Reemus" #NT!
+  KUAT_CHR_safalla: "Safalla" #NT!
+  KUAT_CHR_tavar: "Tavar" #NT!
+  KUAT_CHR_wertka: "Wertka" #NT!
+  KUAT_CHR_yellip: "Yellip" #NT!

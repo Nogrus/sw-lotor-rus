@@ -1,892 +1,892 @@
 ﻿l_russian:
- HUTT_sleemo: "Sleemo"
- HUTT_pride_of_ylesia: "Pride of Ylesia"
- HUTT_krayt_fang: "Krayt Fang"
- HUTT_blackmist: "Blackmist"
- HUTT_hymns_bane: "Hymns Bane"
- HUTT_hims_bane: "Hims Bane"
- HUTT_bedwana_wanga: "Bedwana Wanga"
- HUTT_dragon_pearl: "Dragon Pearl"
- HUTT_false_sun: "False Sun"
- HUTT_glorious_chariot: "Glorious Chariot"
- HUTT_golden_opportunity: "Golden Opportunity"
- HUTT_limping_lady: "Limping Lady"
- HUTT_lorda_doma_toma: "Lorda Doma Toma"
- HUTT_luminous_star: "Luminous Star"
- HUTT_moulee_rah_patogga: "Moulee-rah Patogga"
- HUTT_nemphas: "Nemphas"
- HUTT_quicksilver: "Quicksilver"
- HUTT_poya_jeedai: "Poya Jeedai"
- HUTT_spirit_of_blotus: "Spirit of Blotus"
- HUTT_star_jewel: "Star Jewel"
- HUTT_starmaster: "Starmaster"
- HUTT_rasoni: "Rasoni"
- HUTT_ajnilrem: "Ajnilrem"
- HUTT_bridge_bane: "Bridge Bane"
- HUTT_kat_s_kiss: "Kat's Kiss"
- HUTT_emeterion: "Emeterion"
- HUTT_harlot: "Harlot"
- HUTT_harem: "Harem"
- HUTT_obeeta: "Obeeta"
- HUTT_corsuca_pearl: "Corusca Pearl"
- HUTT_ghost_story: "Ghost Story"
- HUTT_gilded_fleece: "Gilded Fleece"
- HUTT_spicerunner: "Spicerunner"
- HUTT_nal_hutta_queen: "Nal Hutta Queen"
- HUTT_bright_gem: "Bright Gem"
- HUTT_vo_granee_droi: "Vo Granee Droi"
- HUTT_voidraker: "Voidraker"
- HUTT_y_tobba: "Y'Tobba"
- HUTT_ylesian_dream: "Ylesian Dream"
- HUTT_zorba_express: "Zorba Express"
- HUTT_khetanna: "Khetanna"
- HUTT_carkoon: "Carkoon"
- HUTT_shellcrusher: "Shellcrusher"
- HUTT_ne_ganna: "Ne Ganna"
- HUTT_m_yoose: "M'yoose"
- HUTT_debt_collector: "Debt Collector"
- HUTT_tail_cutter: "Tail Cutter"
- HUTT_strongarm: "Strongarm"
- HUTT_thon_medong: "Thon'medong"
- HUTT_deadhand: "Deadhand"
- HUTT_gutter_runner: "Gutter Runner"
- HUTT_mayday: "Mayday"
- HUTT_red_rain: "Red Rain"
- HUTT_ruin_of_tion: "Ruin of Tion"
- HUTT_ximbane: "Ximbane"
- HUTT_rancor: "Rancor"
- HUTT_voidcharger: "Voidcharger"
- HUTT_decadence: "Decadence"
- HUTT_vagabond: "Vagabond"
- HUTT_blood_bond: "Blood Bond"
- HUTT_indentured: "Indentured"
- HUTT_tele_ding: "Tele'ding"
- HUTT_black_book: "Black Book"
- HUTT_gauntlet: "Gauntlet"
- HUTT_cutthroat: "Cutthroat"
- HUTT_cutpursse: "Cutpursse"
- HUTT_hotspur: "Hotspur"
- HUTT_whipping_boy: "Whipping Boy"
- HUTT_tiure_s_torch: "Tiure's Torch"
- HUTT_fortiure_s_fury: "Fortiure's Fury"
- HUTT_scoundrel: "Scoundrel"
- HUTT_gristle: "Gristle"
- HUTT_false_grit: "False Grit"
- HUTT_viscera: "Viscera"
- HUTT_mirage: "Mirage"
- HUTT_holdout: "Holdout"
- HUTT_opal_star: "Opal Star"
- HUTT_spiced_prince: "Spiced Prince"
- HUTT_sharpshooter: "Sharpshooter"
- HUTT_spiceshiner: "Spiceshiner"
- HUTT_kneecapper: "Kneecapper"
- HUTT_hostile_takeover: "Hostile Takeover"
- HUTT_glitterhide: "Glitterhide"
- HUTT_gleaming_grub: "Gleaming Grub"
- HUTT_defender_of_evnoa: "Defender of Evona"
- HUTT_champion_of_varl: "Champion of Varl"
- HUTT_havoc: "Havoc"
- HUTT_golden_eye: "Golden Eye"
- HUTT_luxury_s_throne: "Luxury's Throne"
- HUTT_opulence: "Opulence"
- HUTT_impeccable: "Impeccable"
- HUTT_besadic_splendor: "Besadic Splendor"
- HUTT_splendiferous: "Splendiferous"
- HUTT_gilded_dragon: "Gilded Dragon"
- HUTT_fortune_s_folly: "Fortune's Folly"
- HUTT_vice: "Vice"
- HUTT_sinner: "Sinner"
- HUTT_malice: "Malice"
- HUTT_gambler_s_luck: "Gambler's Luck"
- HUTT_bettor_s_fallacy: "Bettor's Fallacy"
- HUTT_lord_luck: "Lord Luck"
- HUTT_lady_luck: "Lady Luck"
- HUTT_lucky_lady: "Lucky Lady"
- HUTT_dice_runner: "Dice Runner"
- HUTT_laquered_lord: "Laquered Lord"
- HUTT_punisher: "Punisher"
- HUTT_corsuca_king: "Corusca King"
- HUTT_kingpin: "Kingpin"
- HUTT_kyber_queen: "Kyber Queen"
- HUTT_spiteful: "Spiteful"
- HUTT_memory_of_makeb: "Memory of Makeb"
- HUTT_hot_hand: "Hot Hand"
- HUTT_breakeven: "Breakeven"
- HUTT_double_or_nothing: "Double-or-Nothing"
- HUTT_trump_card: "Trump Card"
- HUTT_royal_flush: "Royal Flush"
- HUTT_final_wager: "Final Wager"
- HUTT_resplendant: "Resplendant"
- HUTT_idol: "Idol"
- HUTT_jewel_of_klatooine: "Jewel of Klatooine"
- HUTT_noble_savage: "Noble Savage"
- HUTT_gilded_cage: "Gilded Cage"
- HUTT_starstruck: "Starstruck"
- HUTT_evoci_sacrifice: "Evoci Sacrifice"
- HUTT_petulant: "Petulant"
- HUTT_graven_mistress: "Graven Mistress"
- HUTT_laughing_maw: "Laughing Maw"
- HUTT_pike: "Pike"
- HUTT_pursuer: "Pursuer"
- HUTT_jester: "Jester"
- HUTT_joker: "Joker"
- HUTT_dealer_s_choice: "Dealer's Choice"
- HUTT_oddsmaker: "Oddsmaker"
- HUTT_easy_money: "Easy Money"
- HUTT_jackpot: "Jackpot"
- HUTT_pure_sabacc: "Pure Sabacc"
- HUTT_glutton: "Glutton"
- HUTT_queenpin: "Queenpin"
- HUTT_scarab: "Scarab"
- HUTT_scepter: "Scepter"
- HUTT_sea_witch: "Sea Witch"
- HUTT_siren: "Siren"
- HUTT_high_hand: "High Hand"
- HUTT_low_hand: "Low Hand"
- HUTT_side_pot: "Side Pot"
- HUTT_bingo: "Bingo"
- HUTT_kraytslayer: "Kraytslayer"
- HUTT_idiot_s_array: "Idiot's Array"
- HUTT_big_blind: "Big Blind"
- HUTT_straight_flush: "Straight Flush"
- HUTT_two_pair: "Two Pair"
- HUTT_naked_bluff: "Naked Bluff"
- HUTT_supernova: "Supernova"
- HUTT_splashed_pot: "Splashed Pot"
- HUTT_last_hand: "Last Hand"
- HUTT_talisman: "Talisman"
- HUTT_talon: "Talon"
- HUTT_fool_s_gold: "Fool's Gold"
- HUTT_ante: "Ante"
- HUTT_card_shark: "Card Shark"
- HUTT_ringer: "Ringer"
- HUTT_high_roller: "High Roller"
- HUTT_payout: "Payout"
- HUTT_pit_boss: "Pit Boss"
- HUTT_casanova: "Casanova"
- HUTT_bastard_son: "Bastard Son"
- HUTT_indulgent: "Indulgent"
- HUTT_spice_den: "Spice Den"
- HUTT_small_blind: "Small Blind"
- HUTT_face_card: "Face Card"
- HUTT_house_s_edge: "House's Edge"
- HUTT_oddstaker: "Oddstaker"
- HUTT_exalted_two: "Exalted Two"
- HUTT_star_nymph: "Star Nymph"
- HUTT_jewelmonger: "Jewelmonger"
- HUTT_carousel: "Carousel"
- HUTT_penny_slot: "Penny Slot"
- HUTT_player_s_club: "Player's Club"
- HUTT_chalker: "Chalker"
- HUTT_dead_heat: "Dead Heat"
- HUTT_dime_line: "Dime Line"
- HUTT_underdog: "Underdog"
- HUTT_double_chance: "Double Chance"
- HUTT_chancer: "Chancer"
- HUTT_last_chancer: "Last Chancer"
- HUTT_cash_out: "Cash Out"
- HUTT_even_money: "Even Money"
- HUTT_exacta: "Exacta"
- HUTT_fixed_odds: "Fixed Odds"
- HUTT_flat_bet: "Flat Bet"
- HUTT_handicapper: "Handicapper"
- HUTT_joint_favorite: "Joint Favorite"
- HUTT_martingale: "Martingale"
- HUTT_matched_bet: "Matched Bet"
- HUTT_odds_on: "Odds-on"
- HUTT_darkhorse: "Darkhorse"
- HUTT_parlay: "Parlay"
- HUTT_round_robin: "Round Robin"
- HUTT_runner: "Runner"
- HUTT_sharp_credits: "Sharp Credits"
- HUTT_moneyline: "Moneyline"
- HUTT_halftime: "Halftime"
- HUTT_frogdog: "Frogdog"
- HUTT_rotworm: "Rotworm"
- HUTT_pure_pazaak: "Pure Pazaak"
- HUTT_tiebreaker: "Tiebreaker"
- HUTT_prizefighter: "Prizefighter"
- HUTT_crusierweight: "Crusierweight"
- HUTT_featherweight: "Featherweight"
- HUTT_glass_jaw: "Glass Jaw"
- HUTT_haymaker: "Haymaker"
- HUTT_knockout: "Knockout"
- HUTT_tap_out: "Tap Out"
- HUTT_promoter: "Promoter"
- HUTT_southpaw: "Southpaw"
- HUTT_sucker_punch: "Sucker Punch"
- HUTT_uppercut: "Uppercut"
- HUTT_pit_fighter: "Pit-Fighter"
- HUTT_gladiator: "Gladiator"
- HUTT_huttista: "Huttista"
- HUTT_trafficker: "Trafficker"
- HUTT_sweetener: "Sweetener"
- HUTT_silver_age: "Silver Age"
- HUTT_carbonite_kiss: "Carbonite Kiss"
- HUTT_marlo_s_goodbye: "Marlo's Goodbye"
- HUTT_fable_of_beldorion: "Fable of Beldorion"
- HUTT_junket: "Junket"
- HUTT_tryst: "Tryst"
- HUTT_long_shot: "Long Shot"
- HUTT_pincher: "Pincher"
- HUTT_nest_egg: "Nest Egg"
- HUTT_irontail: "Irontail"
- HUTT_longtail: "Longtail"
- HUTT_doom_of_desevro: "Doom of Desevro"
- HUTT_deadringer: "Deadringer"
- HUTT_tontine: "Tontine"
- HUTT_blood_kyber: "Blood Kyber"
- HUTT_rum_runner: "Rum-Runner"
- HUTT_glitrider: "Glitrider"
- HUTT_guilty_one: "Guilty One"
- HUTT_innocent_party: "Innocent Party"
- HUTT_bystander: "Bystander"
- HUTT_kessel_king: "Kessel King"
- HUTT_huttrekker: "Huttrekker"
- HUTT_insatiable: "Insatiable"
- HUTT_rapacious: "Rapacious"
- HUTT_ravenous: "Ravenous"
- HUTT_desire: "Desire"
- HUTT_wallower: "Wallower"
- HUTT_free_reign: "Free Reign"
- HUTT_blank_check: "Blank Check"
- HUTT_dirty_trick: "Dirty Trick"
- HUTT_trickster: "Trickster"
- HUTT_eccentric: "Eccentric"
- HUTT_cunning_ruse: "Cunning Ruse"
- HUTT_duplicity: "Duplicity"
- HUTT_swindler: "Swindler"
- HUTT_double_cross: "Double-Cross"
- HUTT_enchantress: "Enchantress"
- HUTT_seductress: "Seductress"
- HUTT_elder: "Elder"
- HUTT_ancestor: "Ancestor"
- HUTT_reprisal: "Reprisal"
- HUTT_aggressor: "Aggressor"
- HUTT_skinner: "Skinner"
- HUTT_backfire: "Backfire"
- HUTT_blind_eye: "Blind Eye"
- HUTT_our_lady_bacta: "Our Lady Bacta"
- HUTT_warlord: "Warlord"
- HUTT_warboss: "Warboss"
- HUTT_vendetta: "Vendetta"
- HUTT_gastro_god: "Gastro God"
- HUTT_spineless: "Spineless"
- HUTT_magnanimous: "Magnanimous"
- HUTT_midden: "Midden"
- HUTT_cannibal: "Cannibal"
- HUTT_price_of_civilization: "Price of Civilization"
- HUTT_tributary: "Tributary"
- HUTT_tribute_taker: "Tribute Taker"
- HUTT_palanquin: "Palanquin"
- HUTT_throne_bearer: "Throne Bearer"
- HUTT_supplicant: "Supplicant"
- HUTT_petty_tyrant: "Petty Tyrant"
- HUTT_executor: "Executor"
- HUTT_prize_fighter: "Prize Fighter"
- HUTT_useful_fool: "Useful Fool"
- HUTT_magnificent: "Magnificent"
- HUTT_demimondaine: "Demimondaine"
- HUTT_hustler: "Hustler"
- HUTT_wanton: "Wanton"
- HUTT_courtesan_s_wink: "Courtesan's Wink"
- HUTT_trollop: "Trollop"
- HUTT_basilisk: "Basilisk"
- HUTT_temptress: "Temptress"
- HUTT_overlord: "Overlord"
- HUTT_coquettish_smile: "Coquettish Smile"
- HUTT_flirtation: "Flirtation"
- HUTT_death_s_mistress: "Death's Mistress"
- HUTT_paramour: "Paramour"
- HUTT_jealous_love: "Jealous Love"
- HUTT_sultana: "Sultana"
- HUTT_concubine: "Concubine"
- HUTT_doxy: "Doxy"
- HUTT_true_appetite: "True Appetite"
- HUTT_illegitimate: "Illegitimate"
- HUTT_adulterer: "Adulterer"
- HUTT_dealer: "Dealer"
- HUTT_i_ll_have_another: "I'll Have Another"
- HUTT_genuine_risk: "Genuine Risk"
- HUTT_drunkard: "Drunkard"
- HUTT_exulation: "Exulation"
- HUTT_expanded_girth: "Expanded Girth"
- HUTT_boonta_s_eve: "Boonta's Eve"
- HUTT_spirit_of_nal_hutta: "Spirit of Nal Hutta"
- HUTT_glorious_jewel: "Glorious Jewel"
- HUTT_dunelizard: "Dunelizard"
- HUTT_enigma: "Enigma"
- HUTT_emissary: "Emissary"
- HUTT_questor: "Questor"
- HUTT_herald_of_hutta: "Herald of Hutta"
- HUTT_invisible_string: "Invisible String"
- HUTT_eminence: "Eminence"
- HUTT_pupeteer: "Pupeteer"
- HUTT_alacrity: "Alacrity"
- HUTT_grasper: "Grasper"
- HUTT_exalted_one: "Exalted One"
- HUTT_shell_finder: "Shell-finder"
- HUTT_zenith: "Zenith"
- HUTT_torch: "Torch"
- HUTT_seeker: "Seeker"
- HUTT_pilgrim: "Pilgrim"
- HUTT_signal_of_virtue: "Signal of Virtue"
- HUTT_wayfarer: "Wayfarer"
- HUTT_ambassador: "Ambassador"
- HUTT_crier: "Crier"
- HUTT_pathfinder: "Pathfinder"
- HUTT_wanderer: "Wanderer"
- HUTT_bemoaner: "Bemoaner"
- HUTT_varlspeed: "Varlspeed"
- HUTT_huttese_destiny: "Huttese Destiny"
- HUTT_potential: "Potential"
- HUTT_last_laugh: "Last Laugh"
- HUTT_rightful_place: "Rightful Place"
- HUTT_prosperity: "Prosperity"
- HUTT_summit: "Summit"
- HUTT_pinnacle: "Pinnacle"
- HUTT_seeder: "Seeder"
- HUTT_harvest: "Harvest"
- HUTT_demeter: "Demeter"
- HUTT_isis: "Isis"
- HUTT_ceres: "Ceres"
- HUTT_exodus: "Exodus"
- HUTT_foundation: "Foundation"
- HUTT_scion: "Scion"
- HUTT_progeny: "Progeny"
- HUTT_own_good: "Own Good"
- HUTT_beneficent: "Beneficent"
- HUTT_princeling: "Princeling"
- HUTT_shining_city: "Shining City"
- HUTT_acquirer: "Acquirer"
- HUTT_inheritor: "Inheritor"
- HUTT_civilizer: "Civilizer"
- HUTT_tonta_tonka: "Tonta Tonka"
- HUTT_chuba_gusha: "Chuba Gusha"
- HUTT_replacer: "Replacer"
- HUTT_helot: "Helot"
- HUTT_servant: "Servant"
- HUTT_laborer: "Laborer"
- HUTT_servitor: "Servitor"
- HUTT_craftsman: "Craftsman"
- HUTT_peasant: "Peasant"
- HUTT_subordinate: "Subordinate"
- HUTT_serf: "Serf"
- HUTT_menial: "Menial"
- HUTT_vassal: "Vassal"
- HUTT_drudge: "Drudge"
- HUTT_maid: "Maid"
- HUTT_grinder: "Grinder"
- HUTT_toiler: "Toiler"
- HUTT_foundry: "Foundry"
- HUTT_cretin: "Cretin"
- HUTT_peon: "Peon"
- HUTT_cottier: "Cottier"
- HUTT_hired_hand: "Hired Hand"
- HUTT_workman: "Workman"
- HUTT_binder: "Binder"
- HUTT_taskmaster: "Taskmaster"
- HUTT_overseer: "Overseer"
- HUTT_foreman: "Foreman"
- HUTT_supervisor: "Supervisor"
- HUTT_callous: "Callous"
- HUTT_beggar: "Beggar"
- HUTT_migrant: "Migrant"
- HUTT_tinkerer: "Tinkerer"
- HUTT_domestic: "Domestic"
- HUTT_butler: "Butler"
- HUTT_retainer: "Retainer"
- HUTT_evocii: "Evocii"
- HUTT_ground_transport: "Ground Transport"
- HUTT_meatgrinder: "Meatgrinder"
- HUTT_vigil: "Vigil"
- HUTT_wrath_of_ardos: "Wrath of Ardos"
- HUTT_wrath_of_evona: "Wrath of Evona"
- HUTT_evocii_bane: "Evocii Bane"
- HUTT_despoiler_of_xim: "Despoiler of Xim"
- HUTT_paddy_frog: "Paddy Frog"
- HUTT_gorg: "Gorg"
- HUTT_hotsa_chuba: "Hotsa Chuba"
- HUTT_bombard: "Bombard"
- HUTT_ballista: "Ballista"
- HUTT_catapult: "Catapult"
- HUTT_harpoon: "Harpoon"
- HUTT_polybolos: "Polybolos"
- HUTT_culverin: "Culverin"
- HUTT_FLEET_varl_defense_fleet: "Varl Defense Fleet"
- HUTT_FLEET_dragon_pearl_armada: "Dragon Pearl Armada"
- HUTT_FLEET_defender_of_varl: "Defender of Varl"
- HUTT_FLEET_defender_of_nal_hutta: "Defender of Nal Hutta"
- HUTT_FLEET_hutt_space_defense_fleet: "Hutt Space Defense Fleet"
- HUTT_FLEET_pride_of_boonta: "Pride of Boonta"
- HUTT_FLEET_magnificent_fleet: "Magnificent Fleet"
- HUTT_FLEET_guardians_of_ardos: "Guardians of Ardos"
- HUTT_FLEET_guardians_of_evona: "Guardians of Evona"
- HUTT_FLEET_klatooinian_defense_fleet: "Klatooinian Defense Fleet"
- HUTT_FLEET_sriluur_defense_fleet: "Sriluur Defense Fleet"
- HUTT_FLEET_hutta_defense_fleet: "Hutta Defense Fleet"
- HUTT_FLEET_SEQUENTIAL_armada: "$ORD$ Armada"
- HUTT_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard"
- HUTT_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force"
- HUTT_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- HUTT_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- HUTT_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- HUTT_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- HUTT_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- HUTT_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- HUTT_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- HUTT_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- HUTT_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- HUTT_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- HUTT_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- HUTT_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- HUTT_CHR_aarrba: "Aarrba"
- HUTT_CHR_aboglor: "Aboglor"
- HUTT_CHR_aggaba: "Aggaba"
- HUTT_CHR_ajuur: "Ajuur"
- HUTT_CHR_alorig: "Alorig"
- HUTT_CHR_amdra: "Amdra"
- HUTT_CHR_ardustagg: "Ardustagg"
- HUTT_CHR_arok: "Arok"
- HUTT_CHR_aruk: "Aruk"
- HUTT_CHR_azzim: "Azzim"
- HUTT_CHR_bakuush: "Bakuush"
- HUTT_CHR_bagglosch: "Bagglosch"
- HUTT_CHR_bana: "Bana"
- HUTT_CHR_barabbula: "Barabbula"
- HUTT_CHR_bareesh: "Bareesh"
- HUTT_CHR_bargos: "Bargos"
- HUTT_CHR_barrga: "Barrga"
- HUTT_CHR_basuda: "Basuda"
- HUTT_CHR_beeda: "Beeda"
- HUTT_CHR_beldorion: "Beldorion"
- HUTT_CHR_belhata: "Belhata"
- HUTT_CHR_bhanogg: "Bhanogg"
- HUTT_CHR_blatta: "Blatta"
- HUTT_CHR_blotus: "Blotus"
- HUTT_CHR_blurvol: "Blurvol"
- HUTT_CHR_bo_dum: "Bo-Dum"
- HUTT_CHR_bochaba: "Bochaba"
- HUTT_CHR_bogga: "Bogga"
- HUTT_CHR_bokku: "Bokku"
- HUTT_CHR_bolbol: "BolBol"
- HUTT_CHR_boonda: "Boonda"
- HUTT_CHR_boonta: "Boonta"
- HUTT_CHR_boorka: "Boorka"
- HUTT_CHR_borvo: "Borvo"
- HUTT_CHR_brebu: "Brebu"
- HUTT_CHR_brinojja: "Brinojja"
- HUTT_CHR_broagussa: "Broagussa"
- HUTT_CHR_broga: "Broga"
- HUTT_CHR_brolla: "Brolla"
- HUTT_CHR_bronvu: "Bronvu"
- HUTT_CHR_brossar: "Brossar"
- HUTT_CHR_budhila: "Budhila"
- HUTT_CHR_bwahl: "Bwahl"
- HUTT_CHR_bweppios: "Bweppios"
- HUTT_CHR_chijjun: "Chijjun"
- HUTT_CHR_corpo: "Corpo"
- HUTT_CHR_corugg: "Corugg"
- HUTT_CHR_cunnon: "Cunnon"
- HUTT_CHR_dalla: "Dalla"
- HUTT_CHR_damrosch: "Damrosch"
- HUTT_CHR_darga: "Darga"
- HUTT_CHR_direus_pei: "Direus'Pei"
- HUTT_CHR_dojundo: "Dojundo"
- HUTT_CHR_dorosii: "Dorosii"
- HUTT_CHR_draskha: "Draskha"
- HUTT_CHR_dreddon: "Dreddon"
- HUTT_CHR_dreyba: "Dreyba"
- HUTT_CHR_dribba: "Dribba"
- HUTT_CHR_dribso: "Dribso"
- HUTT_CHR_dromo: "Dromo"
- HUTT_CHR_droog: "Droog"
- HUTT_CHR_drooga: "Drooga"
- HUTT_CHR_durga: "Durga"
- HUTT_CHR_duurga: "Duurga"
- HUTT_CHR_duuurga: "Duuurga"
- HUTT_CHR_ebor: "Ebor"
- HUTT_CHR_embra: "Embra"
- HUTT_CHR_encaasa: "Encaasa"
- HUTT_CHR_ethogg: "Ethogg"
- HUTT_CHR_fa_athra: "Fa'athra"
- HUTT_CHR_filba: "Filba"
- HUTT_CHR_gamdro: "Gamdro"
- HUTT_CHR_ganis: "Ganis"
- HUTT_CHR_garblaque: "Garblaque"
- HUTT_CHR_gardulla: "Gardulla"
- HUTT_CHR_gargonn: "Gargonn"
- HUTT_CHR_garma: "Garma"
- HUTT_CHR_gebbu: "Gebbu"
- HUTT_CHR_gheeta: "Gheeta"
- HUTT_CHR_ghetmar: "Ghetmar"
- HUTT_CHR_giradda: "Giradda"
- HUTT_CHR_glabonsch: "Glabonsch"
- HUTT_CHR_glosch: "Glosch"
- HUTT_CHR_glorga: "Glorga"
- HUTT_CHR_glorim: "Glorim"
- HUTT_CHR_glorzo: "Glorzo"
- HUTT_CHR_godoba: "Godoba"
- HUTT_CHR_golga: "Golga"
- HUTT_CHR_gorbu: "Gorbu"
- HUTT_CHR_gorbus: "Gorbus"
- HUTT_CHR_gorga: "Gorga"
- HUTT_CHR_gorgo: "Gorgo"
- HUTT_CHR_gorr: "Gorr"
- HUTT_CHR_graag: "Graag"
- HUTT_CHR_graata: "Graata"
- HUTT_CHR_graballa: "Graballa"
- HUTT_CHR_grakkus: "Grakkus"
- HUTT_CHR_grappa: "Grappa"
- HUTT_CHR_grejic: "Grejic"
- HUTT_CHR_grelb: "Grelb"
- HUTT_CHR_grodo: "Grodo"
- HUTT_CHR_groodo: "Groodo"
- HUTT_CHR_groola: "Groola"
- HUTT_CHR_grubba: "Grubba"
- HUTT_CHR_gularg: "Gularg"
- HUTT_CHR_guttu: "Guttu"
- HUTT_CHR_herogga: "Herogga"
- HUTT_CHR_hunvar: "Hunvar"
- HUTT_CHR_huska: "Huska"
- HUTT_CHR_ingoda: "Ingoda"
- HUTT_CHR_jax: "Jax"
- HUTT_CHR_jeelta: "Jeelta"
- HUTT_CHR_jelasi: "Jelasi"
- HUTT_CHR_jemba: "Jemba"
- HUTT_CHR_jiliac: "Jiliac"
- HUTT_CHR_jobwah: "Jobwah"
- HUTT_CHR_jocoro: "Jocoro"
- HUTT_CHR_jolla: "Jolla"
- HUTT_CHR_jorsooda: "Jorsooda"
- HUTT_CHR_jurga: "Jurga"
- HUTT_CHR_juvard: "Juvard"
- HUTT_CHR_ka_pa: "Ka'Pa"
- HUTT_CHR_kabbura: "Kabbura"
- HUTT_CHR_kalna: "Kalna"
- HUTT_CHR_kaltho: "Kaltho"
- HUTT_CHR_karagga: "Karagga"
- HUTT_CHR_kata: "Kata"
- HUTT_CHR_khobisho: "Khobisho"
- HUTT_CHR_kibbick: "Kibbick"
- HUTT_CHR_kladak: "Kladak"
- HUTT_CHR_korrda: "Korrda"
- HUTT_CHR_kossak: "Kossak"
- HUTT_CHR_kukul: "Kukul"
- HUTT_CHR_kurka: "Kurka"
- HUTT_CHR_kutuab: "Kutuab"
- HUTT_CHR_lagra: "Lagra"
- HUTT_CHR_leero: "Leero"
- HUTT_CHR_leurm: "Leurm"
- HUTT_CHR_lippi: "Lippi"
- HUTT_CHR_lokaibus: "Lokaibus"
- HUTT_CHR_lonvarpa: "Lonvarpa"
- HUTT_CHR_lungru: "Lungru"
- HUTT_CHR_mageye: "Mageye"
- HUTT_CHR_malta: "Malta"
- HUTT_CHR_manju: "Manju"
- HUTT_CHR_mardoc: "Mardoc"
- HUTT_CHR_marlo: "Marlo"
- HUTT_CHR_mika: "Mika"
- HUTT_CHR_mondo_mod: "Mondo-Mod"
- HUTT_CHR_moosh: "Moosh"
- HUTT_CHR_morbiss: "Morbiss"
- HUTT_CHR_orbo: "Orbo"
- HUTT_CHR_morgra: "Morgra"
- HUTT_CHR_moshudda: "Moshudda"
- HUTT_CHR_moska: "Moska"
- HUTT_CHR_motta: "Motta"
- HUTT_CHR_narbuj: "Narbuj"
- HUTT_CHR_nashi: "Nashi"
- HUTT_CHR_nawnam: "Nawnam"
- HUTT_CHR_noako: "Noako"
- HUTT_CHR_noggox: "Noggox"
- HUTT_CHR_noh: "Noh"
- HUTT_CHR_norbo: "Norbo"
- HUTT_CHR_nooga: "Nooga"
- HUTT_CHR_nuboocha: "Nuboocha"
- HUTT_CHR_nullada: "Nullada"
- HUTT_CHR_nuubsal: "Nuubsal"
- HUTT_CHR_nyarla: "Nyarla"
- HUTT_CHR_offra: "Offra"
- HUTT_CHR_omeesh: "Omeesh"
- HUTT_CHR_ooroz: "Ooroz"
- HUTT_CHR_orko: "Orko"
- HUTT_CHR_orta: "Orta"
- HUTT_CHR_oruba: "Oruba"
- HUTT_CHR_parella: "Parella"
- HUTT_CHR_pazda: "Pazda"
- HUTT_CHR_pizza: "Pizza"
- HUTT_CHR_plorbaas: "Plorbaas"
- HUTT_CHR_popara: "Popara"
- HUTT_CHR_portho: "Portho"
- HUTT_CHR_prall: "Prall"
- HUTT_CHR_prebda: "Prebda"
- HUTT_CHR_prodoranya: "Prodoranya"
- HUTT_CHR_progga: "Progga"
- HUTT_CHR_puullo: "Puullo"
- HUTT_CHR_qibbu: "Qibbu"
- HUTT_CHR_qiltakka: "Qiltakka"
- HUTT_CHR_quaffug: "Quaffug"
- HUTT_CHR_randa: "Randa"
- HUTT_CHR_rask: "Rask"
- HUTT_CHR_raskurro: "Raskurro"
- HUTT_CHR_ribba: "Ribba"
- HUTT_CHR_riboga: "Riboga"
- HUTT_CHR_rigorra: "Rigorra"
- HUTT_CHR_rokko: "Rokko"
- HUTT_CHR_rotta: "Rotta"
- HUTT_CHR_shala: "Shala"
- HUTT_CHR_shebba: "Shebba"
- HUTT_CHR_shettora: "Shettora"
- HUTT_CHR_shiltu: "Shiltu"
- HUTT_CHR_shizu: "Shizu"
- HUTT_CHR_shuma: "Shuma"
- HUTT_CHR_sibarra: "Sibarra"
- HUTT_CHR_skeedo: "Skeedo"
- HUTT_CHR_smada: "Smada"
- HUTT_CHR_smebba: "Smebba"
- HUTT_CHR_soergg: "Soergg"
- HUTT_CHR_sonnos: "Sonnos"
- HUTT_CHR_spadda: "Spadda"
- HUTT_CHR_splugorra: "Splugorra"
- HUTT_CHR_subo: "Subo"
- HUTT_CHR_suuda: "Suuda"
- HUTT_CHR_suudaa: "Suudaa"
- HUTT_CHR_szajin: "Szajin"
- HUTT_CHR_tagoonta: "Tagoonta"
- HUTT_CHR_tagta: "Tagta"
- HUTT_CHR_tanda: "Tanda"
- HUTT_CHR_teemo: "Teemo"
- HUTT_CHR_teubbo: "Teubbo"
- HUTT_CHR_thakba: "Thakba"
- HUTT_CHR_tiranga: "Tiranga"
- HUTT_CHR_tirello: "Tirello"
- HUTT_CHR_tobba: "Tobba"
- HUTT_CHR_toborro: "Toborro"
- HUTT_CHR_toobu: "Toobu"
- HUTT_CHR_tooga: "Tooga"
- HUTT_CHR_torga: "Torga"
- HUTT_CHR_torphus: "Torphus"
- HUTT_CHR_torpo: "Torpo"
- HUTT_CHR_troonol: "Troonol"
- HUTT_CHR_truugo: "Truugo"
- HUTT_CHR_tuwas: "Tuwas"
- HUTT_CHR_ungo: "Ungo"
- HUTT_CHR_urdruua: "Urdruua"
- HUTT_CHR_uta: "Uta"
- HUTT_CHR_vago: "Vago"
- HUTT_CHR_vedo: "Vedo"
- HUTT_CHR_velrugha: "Velrugha"
- HUTT_CHR_vogga: "Vogga"
- HUTT_CHR_voontara: "Voontara"
- HUTT_CHR_voras: "Voras"
- HUTT_CHR_voromuzz: "Voromuzz"
- HUTT_CHR_walla: "Walla"
- HUTT_CHR_wallanooga: "Wallanooga"
- HUTT_CHR_whuddle: "Whuddle"
- HUTT_CHR_wolga: "Wolga"
- HUTT_CHR_wordro: "Wordro"
- HUTT_CHR_wunda: "Wunda"
- HUTT_CHR_yanth: "Yanth"
- HUTT_CHR_yantuh: "Yantuh"
- HUTT_CHR_ybann: "Ybann"
- HUTT_CHR_yenchara: "Yenchara"
- HUTT_CHR_zavval: "Zavval"
- HUTT_CHR_zax: "Zax"
- HUTT_CHR_zier: "Zier"
- HUTT_CHR_zirchros: "Zirchros"
- HUTT_CHR_ziro: "Ziro"
- HUTT_CHR_zobara: "Zobara"
- HUTT_CHR_zochaeb: "Zochaeb"
- HUTT_CHR_zodoh: "Zodoh"
- HUTT_CHR_zonnos: "Zonnos"
- HUTT_CHR_zorba: "Zorba"
- HUTT_CHR_abogla: "Abogla"
- HUTT_CHR_aestaith: "Aestaith"
- HUTT_CHR_ahemait: "Ahemait"
- HUTT_CHR_alorga: "Alorga"
- HUTT_CHR_anachro: "Anachro"
- HUTT_CHR_arronda: "Arronda"
- HUTT_CHR_astella: "Astella"
- HUTT_CHR_bel: "Bel"
- HUTT_CHR_birthia: "Birthia"
- HUTT_CHR_blith: "Blith"
- HUTT_CHR_blobella: "Blobella"
- HUTT_CHR_blolba: "Blolba"
- HUTT_CHR_blubba: "Blubba"
- HUTT_CHR_blulla: "Blulla"
- HUTT_CHR_blursa: "Blursa"
- HUTT_CHR_borga: "Borga"
- HUTT_CHR_celathe: "Celathe"
- HUTT_CHR_chungrirg: "Chungrirg"
- HUTT_CHR_churabba: "Churabba"
- HUTT_CHR_daagri: "Daagri"
- HUTT_CHR_decca: "Decca"
- HUTT_CHR_dinabu: "Dinabu"
- HUTT_CHR_draba: "Draba"
- HUTT_CHR_drixo: "Drixo"
- HUTT_CHR_emesu: "Emesu"
- HUTT_CHR_emeu: "Emeu"
- HUTT_CHR_gajjuzz: "Gajjuzz"
- HUTT_CHR_holdoeth: "Holdoeth"
- HUTT_CHR_idde: "Idde"
- HUTT_CHR_iddurpom: "Iddurpom"
- HUTT_CHR_jassi: "Jassi"
- HUTT_CHR_jatheel: "Jatheel"
- HUTT_CHR_jool: "Jool"
- HUTT_CHR_jussi: "Jussi"
- HUTT_CHR_khuskha: "Khuskha"
- HUTT_CHR_kistilb: "Kistilb"
- HUTT_CHR_klim: "Klim"
- HUTT_CHR_krova: "Krova"
- HUTT_CHR_kualajjaeb: "Kualajjaeb"
- HUTT_CHR_kumac: "Kumac"
- HUTT_CHR_loewnerrbihl: "Loewnerrbihl"
- HUTT_CHR_lolduntee: "Lolduntee"
- HUTT_CHR_mama: "Mama"
- HUTT_CHR_mennac: "Mennac"
- HUTT_CHR_mioshu: "Mioshu"
- HUTT_CHR_moongroess: "Moongroess"
- HUTT_CHR_morpalta: "Morpalta"
- HUTT_CHR_natja: "Natja"
- HUTT_CHR_neggoh: "Neggoh"
- HUTT_CHR_niima: "Niima"
- HUTT_CHR_ooalah: "Ooalah"
- HUTT_CHR_othe: "Othe"
- HUTT_CHR_paggra: "Paggra"
- HUTT_CHR_parla: "Parla"
- HUTT_CHR_plemess: "Plemess"
- HUTT_CHR_pluumbuanya: "Pluumbuanya"
- HUTT_CHR_prello: "Prello"
- HUTT_CHR_proki: "Proki"
- HUTT_CHR_pugriorzihl: "Pugriorzihl"
- HUTT_CHR_puki: "Puki"
- HUTT_CHR_qileffinn: "Qileffinn"
- HUTT_CHR_qunjess: "Qunjess"
- HUTT_CHR_rabdaakeh: "Rabdaakeh"
- HUTT_CHR_rarpe: "Rarpe"
- HUTT_CHR_renyaisch: "Renyaisch"
- HUTT_CHR_rooppi: "Rooppi"
- HUTT_CHR_rotundha: "Rotundha"
- HUTT_CHR_saggla: "Saggla"
- HUTT_CHR_saphfiri: "Saphfiri"
- HUTT_CHR_sassallo: "Sassallo"
- HUTT_CHR_shalera: "Shalera"
- HUTT_CHR_shenda: "Shenda"
- HUTT_CHR_sherrbis: "Sherrbis"
- HUTT_CHR_skilnoo: "Skilnoo"
- HUTT_CHR_skoda: "Skoda"
- HUTT_CHR_skolnirchra: "Skolnirchra"
- HUTT_CHR_smessoohl: "Smessoohl"
- HUTT_CHR_sorge: "Sorge"
- HUTT_CHR_sutha: "Sutha"
- HUTT_CHR_taggla: "Taggla"
- HUTT_CHR_tassaa: "Tassaa"
- HUTT_CHR_tatja: "Tatja"
- HUTT_CHR_tawarit: "Tawarit"
- HUTT_CHR_ualtitith: "Ualtitith"
- HUTT_CHR_uardusch: "Uardusch"
- HUTT_CHR_uddliah: "Uddliah"
- HUTT_CHR_ughaelle: "Ughaelle"
- HUTT_CHR_vuuwoo: "Vuuwoo"
- HUTT_CHR_wappa: "Wappa"
- HUTT_CHR_whomri: "Whomri"
- HUTT_CHR_worrbona: "Worrbona"
- HUTT_CHR_velbelia: "Velbelia"
- HUTT_CHR_yerdetin: "Yerdetin"
- HUTT_CHR_wurkeskiss: "Wurkeskiss"
- HUTT_CHR_yotjo: "Yotjo"
- HUTT_CHR_yush: "Yush"
- HUTT_CHR_zeli: "Zeli"
- HUTT_CHR_zietta: "Zietta"
- HUTT_CHR_zinoobah: "Zinoobah"
- HUTT_CHR_zooltah: "Zooltah"
- HUTT_CHR_besadii: "Besadii"
- HUTT_CHR_besadii_aora: "Besadii Aora"
- HUTT_CHR_besadii_aarrpo: "Besadii Aarrpo"
- HUTT_CHR_besadii_ar_durv: "Besadii Ar'durv"
- HUTT_CHR_besadii_diori: "Besadii Diori"
- HUTT_CHR_besadii_oggurobb: "Besadii Oggurobb"
- HUTT_CHR_besadii_shad_ruu: "Besadii Shad'ruu"
- HUTT_CHR_besadii_tai: "Besadii Tai"
- HUTT_CHR_besadii_tiure: "Besadii Tiure"
- HUTT_CHR_besadii_torill: "Besadii Torill"
- HUTT_CHR_desilijic: "Desilijic"
- HUTT_CHR_desilijic_aora: "Desilijic Aora"
- HUTT_CHR_desilijic_aarrpo: "Desilijic Aarrpo"
- HUTT_CHR_desilijic_ar_durv: "Desilijic Ar'durv"
- HUTT_CHR_desilijic_ebelt: "Desilijic Ebelt"
- HUTT_CHR_desilijic_oggurobb: "Desilijic Oggurobb"
- HUTT_CHR_desilijic_preor: "Desilijic Preor"
- HUTT_CHR_desilijic_kalshi: "Desilijic Kalshi"
- HUTT_CHR_desilijic_shad_ruu: "Desilijic Shad'ruu"
- HUTT_CHR_desilijic_tai: "Desilijic Tai"
- HUTT_CHR_desilijic_tiron: "Desilijic Tiron"
- HUTT_CHR_desilijic_tiure: "Desilijic Tiure"
- HUTT_CHR_desilijic_torill: "Desilijic Torill"
- HUTT_CHR_fenn_ak: "Fenn'ak"
- HUTT_CHR_fenn_ak_aora: "Fenn'ak Aora"
- HUTT_CHR_fenn_ak_aarrpo: "Fenn'ak Aarrpo"
- HUTT_CHR_fenn_ak_ar_durv: "Fenn'ak Ar'durv"
- HUTT_CHR_fenn_ak_oggurobb: "Fenn'ak Oggurobb"
- HUTT_CHR_fenn_ak_shad_ruu: "Fenn'ak Shad'ruu"
- HUTT_CHR_fenn_ak_tai: "Fenn'ak Tai"
- HUTT_CHR_fenn_ak_tiure: "Fenn'ak Tiure"
- HUTT_CHR_fenn_ak_torill: "Fenn'ak Torill"
- HUTT_CHR_hestilic: "Hestilic"
- HUTT_CHR_hestilic_amura: "Hestilic Amura"
- HUTT_CHR_hestilic_aora: "Hestilic Aora"
- HUTT_CHR_hestilic_aarrpo: "Hestilic Aarrpo"
- HUTT_CHR_hestilic_ar_durv: "Hestilic Ar'durv"
- HUTT_CHR_hestilic_oggurobb: "Hestilic Oggurobb"
- HUTT_CHR_hestilic_shad_ruu: "Hestilic Shad'ruu"
- HUTT_CHR_hestilic_tai: "Hestilic Tai"
- HUTT_CHR_hestilic_tiure: "Hestilic Tiure"
- HUTT_CHR_hestilic_torill: "Hestilic Torill"
- HUTT_CHR_illip: "Illip"
- HUTT_CHR_illip_aora: "Illip Aora"
- HUTT_CHR_illip_aarrpo: "Illip Aarrpo"
- HUTT_CHR_illip_ar_durv: "Illip Ar'durv"
- HUTT_CHR_illip_oggurobb: "Illip Oggurobb"
- HUTT_CHR_illip_shad_ruu: "Illip Shad'ruu"
- HUTT_CHR_illip_tai: "Illip Tai"
- HUTT_CHR_illip_tiure: "Illip Tiure"
- HUTT_CHR_illip_torill: "Illip Torill"
- HUTT_CHR_inijic: "Inijic"
- HUTT_CHR_inijic_aora: "Inijic Aora"
- HUTT_CHR_inijic_aarrpo: "Inijic Aarrpo"
- HUTT_CHR_inijic_ar_durv: "Inijic Ar'durv"
- HUTT_CHR_inijic_oggurobb: "Inijic Oggurobb"
- HUTT_CHR_inijic_shad_ruu: "Inijic Shad'ruu"
- HUTT_CHR_inijic_tai: "Inijic Tai"
- HUTT_CHR_inijic_tiure: "Inijic Tiure"
- HUTT_CHR_inijic_torill: "Inijic Torill"
- HUTT_CHR_vanderijar: "Vanderijar"
- HUTT_CHR_kaltemmic: "Kaltemmic"
- HUTT_CHR_masrii: "Masrii"
- HUTT_CHR_urdosh: "Urdosh"
- HUTT_CHR_qunaalac: "Qunaalac"
- HUTT_CHR_jiramma: "Jiramma"
- HUTT_CHR_jiramma_baco: "Jiramma Baco"
- HUTT_CHR_jiramma_mionne: "Jiramma Mionne"
- HUTT_CHR_gejalli: "Gejalli"
- HUTT_CHR_gejalli_thokka: "Gejalli Thokka"
- HUTT_CHR_anjiliac: "Anjiliac"
- HUTT_CHR_anjiliac_atirue: "Anjiliac Atirue"
- HUTT_CHR_anjiliac_chiera: "Anjiliac Chiera"
- HUTT_CHR_anjiliac_diresto: "Anjiliac Diresto"
- HUTT_CHR_anjiliac_priare: "Anjiliac Priare"
- HUTT_CHR_dalo: "Dalo"
- HUTT_CHR_dunk: "Dunk"
- HUTT_CHR_nem_ro: "Nem'ro"
- HUTT_CHR_nokko: "Nokko"
- HUTT_CHR_nokko_vimmas: "Nokko Vimmas"
- HUTT_CHR_gorensla: "Gorensla"
- HUTT_CHR_thok: "Thok"
- HUTT_CHR_jallissi: "Jallissi"
- HUTT_CHR_jallissi_gral: "Jallissi Gral"
- HUTT_CHR_vermilic: "Vermilic"
- HUTT_CHR_vermilic_scaiti: "Vermilic Scaiti"
- HUTT_CHR_vosadii: "Vosadii"
- HUTT_CHR_vosadii_bezhin: "Vosadii Bezhin"
+  HUTT_sleemo: "Слимо" #NT!
+  HUTT_pride_of_ylesia: "Гордость Илезии" #NT!
+  HUTT_krayt_fang: "Крайт-клык" #NT!
+  HUTT_blackmist: "Чёрный туман" #NT!
+  HUTT_hymns_bane: "Проклятие Гимна" #NT!
+  HUTT_hims_bane: "Проклятие Гима" #NT!
+  HUTT_bedwana_wanga: "Бедвана Ванга" #NT!
+  HUTT_dragon_pearl: "Жемчуг дракона" #NT!
+  HUTT_false_sun: "Ложное солнце" #NT!
+  HUTT_glorious_chariot: "Великая колесница" #NT!
+  HUTT_golden_opportunity: "Золотая возможность" #NT!
+  HUTT_limping_lady: "Хромая леди" #NT!
+  HUTT_lorda_doma_toma: "Лорда Дома Тома" #NT!
+  HUTT_luminous_star: "Светящаяся звезда" #NT!
+  HUTT_moulee_rah_patogga: "Моули-рах Патогга" #NT!
+  HUTT_nemphas: "Немфас" #NT!
+  HUTT_quicksilver: "Ртуть" #NT!
+  HUTT_poya_jeedai: "Пойя Джеедай" #NT!
+  HUTT_spirit_of_blotus: "Дух Блотуса" #NT!
+  HUTT_star_jewel: "Звёздная жемчужина" #NT!
+  HUTT_starmaster: "Звёздный господин" #NT!
+  HUTT_rasoni: "Расони" #NT!
+  HUTT_ajnilrem: "Аджнилрем" #NT!
+  HUTT_bridge_bane: "Проклятье Бриджа" #NT!
+  HUTT_kat_s_kiss: "Поцелуй Кэт" #NT!
+  HUTT_emeterion: "Эметерион" #NT!
+  HUTT_harlot: "Блудница" #NT!
+  HUTT_harem: "Гарем" #NT!
+  HUTT_obeeta: "Обита" #NT!
+  HUTT_corsuca_pearl: "Жемчужина коруса" #NT!
+  HUTT_ghost_story: "История призраков" #NT!
+  HUTT_gilded_fleece: "Позолоченное руно" #NT!
+  HUTT_spicerunner: "Перевозчик спайса" #NT!
+  HUTT_nal_hutta_queen: "Королева Нал-Хатты" #NT!
+  HUTT_bright_gem: "Яркий самоцвет" #NT!
+  HUTT_vo_granee_droi: "Во Гране Дрой" #NT!
+  HUTT_voidraker: "Войдракер" #NT!
+  HUTT_y_tobba: "Й'Tобба" #NT!
+  HUTT_ylesian_dream: "Илезийская мечта" #NT!
+  HUTT_zorba_express: "Й'Тобба" #NT!
+  HUTT_khetanna: "Кхетанна" #NT!
+  HUTT_carkoon: "Каркун" #NT!
+  HUTT_shellcrusher: "Крушитель раковин" #NT!
+  HUTT_ne_ganna: "Не Ганна" #NT!
+  HUTT_m_yoose: "М'юос" #NT!
+  HUTT_debt_collector: "Коллектор" #NT!
+  HUTT_tail_cutter: "Хвостовой резак" #NT!
+  HUTT_strongarm: "Cильная рука" #NT!
+  HUTT_thon_medong: "Тон'мэдонг" #NT!
+  HUTT_deadhand: "Мёртвая рука" #NT!
+  HUTT_gutter_runner: "Бегущий по канавам" #NT!
+  HUTT_mayday: "Сигнал бедствия" #NT!
+  HUTT_red_rain: "Красный дождь" #NT!
+  HUTT_ruin_of_tion: "Руины Тиона" #NT!
+  HUTT_ximbane: "Бич Зима" #NT!
+  HUTT_rancor: "Ранкор" #NT!
+  HUTT_voidcharger: "Пустотный зарядник" #NT!
+  HUTT_decadence: "Декаданс" #NT!
+  HUTT_vagabond: "Шатун" #NT!
+  HUTT_blood_bond: "Кровавая связь" #NT!
+  HUTT_indentured: "Наёмный" #NT!
+  HUTT_tele_ding: "Теле'динг" #NT!
+  HUTT_black_book: "Чёрная книга" #NT!
+  HUTT_gauntlet: "Рукавица" #NT!
+  HUTT_cutthroat: "Головорез" #NT!
+  HUTT_cutpursse: "Щипач" #NT!
+  HUTT_hotspur: "Вспыльчивый" #NT!
+  HUTT_whipping_boy: "Лох для прикола" #NT!
+  HUTT_tiure_s_torch: "Факел Тиуре" #NT!
+  HUTT_fortiure_s_fury: "Ярость Фортиуре" #NT!
+  HUTT_scoundrel: "Негодяй" #NT!
+  HUTT_gristle: "Хрящ" #NT!
+  HUTT_false_grit: "Ложная выдержка" #NT!
+  HUTT_viscera: "Внутренности" #NT!
+  HUTT_mirage: "Мираж" #NT!
+  HUTT_holdout: "Удержание" #NT!
+  HUTT_opal_star: "Опаловая звезда" #NT!
+  HUTT_spiced_prince: "Спайс-принц" #NT!
+  HUTT_sharpshooter: "Лихой стрелок" #NT!
+  HUTT_spiceshiner: "Спайс-барон" #NT!
+  HUTT_kneecapper: "Коленопреклоненный" #NT!
+  HUTT_hostile_takeover: "Враждебное поглощение" #NT!
+  HUTT_glitterhide: "Светящаяся шкура" #NT!
+  HUTT_gleaming_grub: "Блестящая личинка" #NT!
+  HUTT_defender_of_evnoa: "Защитник Эвоны" #NT!
+  HUTT_champion_of_varl: "Чемпион Варла" #NT!
+  HUTT_havoc: "Опустошение" #NT!
+  HUTT_golden_eye: "Золотой глаз" #NT!
+  HUTT_luxury_s_throne: "Престол роскоши" #NT!
+  HUTT_opulence: "Состоятельность" #NT!
+  HUTT_impeccable: "Безупречный" #NT!
+  HUTT_besadic_splendor: "Великолепие Бесадии" #NT!
+  HUTT_splendiferous: "Наипрекраснейший" #NT!
+  HUTT_gilded_dragon: "Позолоченный дракон" #NT!
+  HUTT_fortune_s_folly: "Безумие Фортуны" #NT!
+  HUTT_vice: "Порок" #NT!
+  HUTT_sinner: "Грешник" #NT!
+  HUTT_malice: "Злоба" #NT!
+  HUTT_gambler_s_luck: "Удача игрока" #NT!
+  HUTT_bettor_s_fallacy: "Заблуждение Беттора" #NT!
+  HUTT_lord_luck: "Господин Счастье" #NT!
+  HUTT_lady_luck: "Госпожа Удача" #NT!
+  HUTT_lucky_lady: "Счастливая леди" #NT!
+  HUTT_dice_runner: "Игра в кости" #NT!
+  HUTT_laquered_lord: "Лакированный лорд" #NT!
+  HUTT_punisher: "Каратель" #NT!
+  HUTT_corsuca_king: "Царь-корус" #NT!
+  HUTT_kingpin: "Вор в законе" #NT!
+  HUTT_kyber_queen: "Кайбер-королева" #NT!
+  HUTT_spiteful: "Злорадный" #NT!
+  HUTT_memory_of_makeb: "Память о Макебе" #NT!
+  HUTT_hot_hand: "Горячая рука" #NT!
+  HUTT_breakeven: "Безубыточный" #NT!
+  HUTT_double_or_nothing: "Всё-или-ничего" #NT!
+  HUTT_trump_card: "Козырная карта" #NT!
+  HUTT_royal_flush: "Роял-флеш" #NT!
+  HUTT_final_wager: "Окончательная ставка" #NT!
+  HUTT_resplendant: "Великолепный" #NT!
+  HUTT_idol: "Идол" #NT!
+  HUTT_jewel_of_klatooine: "Жемчужина Клатуина" #NT!
+  HUTT_noble_savage: "Благородный дикарь" #NT!
+  HUTT_gilded_cage: "Золотая клетка" #NT!
+  HUTT_starstruck: "Поражённый звёздами" #NT!
+  HUTT_evoci_sacrifice: "Жертва эвокийцев" #NT!
+  HUTT_petulant: "Раздражительный" #NT!
+  HUTT_graven_mistress: "Запечатлённая любовница" #NT!
+  HUTT_laughing_maw: "Смеющаяся пасть" #NT!
+  HUTT_pike: "Пика" #NT!
+  HUTT_pursuer: "Преследователь" #NT!
+  HUTT_jester: "Шут" #NT!
+  HUTT_joker: "Джокер" #NT!
+  HUTT_dealer_s_choice: "Выбор дилера" #NT!
+  HUTT_oddsmaker: "Букмекер" #NT!
+  HUTT_easy_money: "Лёгкие деньги" #NT!
+  HUTT_jackpot: "Джекпот" #NT!
+  HUTT_pure_sabacc: "Чистый сабакк" #NT!
+  HUTT_glutton: "Обжора" #NT!
+  HUTT_queenpin: "Наркобаронесса" #NT!
+  HUTT_scarab: "Скарабей" #NT!
+  HUTT_scepter: "Скипетр" #NT!
+  HUTT_sea_witch: "Морская ведьма" #NT!
+  HUTT_siren: "Сирена" #NT!
+  HUTT_high_hand: "Сильная рука" #NT!
+  HUTT_low_hand: "Слабая рука" #NT!
+  HUTT_side_pot: "Побочный банк" #NT!
+  HUTT_bingo: "Бинго" #NT!
+  HUTT_kraytslayer: "Крайтоубийца" #NT!
+  HUTT_idiot_s_array: "Расклад идиота" #NT!
+  HUTT_big_blind: "Большой блайнд" #NT!
+  HUTT_straight_flush: "Стрит-флеш" #NT!
+  HUTT_two_pair: "Допер" #NT!
+  HUTT_naked_bluff: "Обнажённый блеф" #NT!
+  HUTT_supernova: "Сверхновая" #NT!
+  HUTT_splashed_pot: "Сплэш-банк" #NT!
+  HUTT_last_hand: "Последняя раздача" #NT!
+  HUTT_talisman: "Талисман" #NT!
+  HUTT_talon: "Коготь" #NT!
+  HUTT_fool_s_gold: "Золото дураков" #NT!
+  HUTT_ante: "Анте" #NT!
+  HUTT_card_shark: "Шулер" #NT!
+  HUTT_ringer: "Звонящий" #NT!
+  HUTT_high_roller: "Транжира" #NT!
+  HUTT_payout: "Выплата" #NT!
+  HUTT_pit_boss: "Распорядитель" #NT!
+  HUTT_casanova: "Казанова" #NT!
+  HUTT_bastard_son: "Ублюдочный сын" #NT!
+  HUTT_indulgent: "Снисходительный" #NT!
+  HUTT_spice_den: "Закладка спайса" #NT!
+  HUTT_small_blind: "Малый блайнд" #NT!
+  HUTT_face_card: "Фигурная карта" #NT!
+  HUTT_house_s_edge: "Ёбаный рот этого казино" #NT!
+  HUTT_oddstaker: "Ставочник" #NT!
+  HUTT_exalted_two: "Возвышенный-2" #NT!
+  HUTT_star_nymph: "Звёздная нимфа" #NT!
+  HUTT_jewelmonger: "Торговец драгоценностями" #NT!
+  HUTT_carousel: "Карусель" #NT!
+  HUTT_penny_slot: "Пенни-слот" #NT!
+  HUTT_player_s_club: "Клуб игроков" #NT!
+  HUTT_chalker: "Чалкер" #NT!
+  HUTT_dead_heat: "Ничья" #NT!
+  HUTT_dime_line: "Десять процентов" #NT!
+  HUTT_underdog: "Неудачник" #NT!
+  HUTT_double_chance: "Двойной шанс" #NT!
+  HUTT_chancer: "Жулик" #NT!
+  HUTT_last_chancer: "Последний бунтарь" #NT!
+  HUTT_cash_out: "Обналичивание" #NT!
+  HUTT_even_money: "Крупная ставка" #NT!
+  HUTT_exacta: "Экзакта" #NT!
+  HUTT_fixed_odds: "Фиксированные ставки" #NT!
+  HUTT_flat_bet: "Флэт-ставка" #NT!
+  HUTT_handicapper: "Гандикапер" #NT!
+  HUTT_joint_favorite: "Общий фаворит" #NT!
+  HUTT_martingale: "Мартингейл" #NT!
+  HUTT_matched_bet: "Совпадающая ставка" #NT!
+  HUTT_odds_on: "Вероятный" #NT!
+  HUTT_darkhorse: "Тёмная лошадка" #NT!
+  HUTT_parlay: "Пари" #NT!
+  HUTT_round_robin: "Коллективное письмо" #NT!
+  HUTT_runner: "Бегун" #NT!
+  HUTT_sharp_credits: "Острые кредиты" #NT!
+  HUTT_moneyline: "Денежная линия" #NT!
+  HUTT_halftime: "Перерыв" #NT!
+  HUTT_frogdog: "Жабопёс" #NT!
+  HUTT_rotworm: "Гнилочервь" #NT!
+  HUTT_pure_pazaak: "Чистый пазаак" #NT!
+  HUTT_tiebreaker: "Тай-брейк" #NT!
+  HUTT_prizefighter: "Вояка" #NT!
+  HUTT_crusierweight: "Тяжеловес" #NT!
+  HUTT_featherweight: "Полулёгкий" #NT!
+  HUTT_glass_jaw: "Стеклянная челюсть" #NT!
+  HUTT_haymaker: "Косарь" #NT!
+  HUTT_knockout: "Нокаут" #NT!
+  HUTT_tap_out: "На мели" #NT!
+  HUTT_promoter: "Промоутер" #NT!
+  HUTT_southpaw: "Левша" #NT!
+  HUTT_sucker_punch: "Запрещённый приём" #NT!
+  HUTT_uppercut: "Апперкот" #NT!
+  HUTT_pit_fighter: "Питбуль" #NT!
+  HUTT_gladiator: "Гладиатор" #NT!
+  HUTT_huttista: "Хаттиста" #NT!
+  HUTT_trafficker: "Торговец-нелегал" #NT!
+  HUTT_sweetener: "Подсластитель" #NT!
+  HUTT_silver_age: "Серебряный век" #NT!
+  HUTT_carbonite_kiss: "Карбонитовый поцелуй" #NT!
+  HUTT_marlo_s_goodbye: "Прощание Марло" #NT!
+  HUTT_fable_of_beldorion: "Басня о Белдорионе" #NT!
+  HUTT_junket: "Пирушка" #NT!
+  HUTT_tryst: "Свидание" #NT!
+  HUTT_long_shot: "Рискованная ставка" #NT!
+  HUTT_pincher: "Пинчер" #NT!
+  HUTT_nest_egg: "Яйцо гнезда" #NT!
+  HUTT_irontail: "Железохвост" #NT!
+  HUTT_longtail: "Длиннохвост" #NT!
+  HUTT_doom_of_desevro: "Рок Дезевро" #NT!
+  HUTT_deadringer: "Смертоносный" #NT!
+  HUTT_tontine: "Тонтина" #NT!
+  HUTT_blood_kyber: "Кровь-кайбер" #NT!
+  HUTT_rum_runner: "Бутлегер" #NT!
+  HUTT_glitrider: "Блестящий всадник" #NT!
+  HUTT_guilty_one: "Виновный-1" #NT!
+  HUTT_innocent_party: "Невинная вечеринка" #NT!
+  HUTT_bystander: "Свидетель" #NT!
+  HUTT_kessel_king: "Король Кесселя" #NT!
+  HUTT_huttrekker: "Хаттрекер" #NT!
+  HUTT_insatiable: "Ненасытный" #NT!
+  HUTT_rapacious: "Захватнический" #NT!
+  HUTT_ravenous: "Хищный" #NT!
+  HUTT_desire: "Желание" #NT!
+  HUTT_wallower: "Нытик" #NT!
+  HUTT_free_reign: "Свободное правление" #NT!
+  HUTT_blank_check: "Незаполненный чек" #NT!
+  HUTT_dirty_trick: "Грязный трюк" #NT!
+  HUTT_trickster: "Трикстер" #NT!
+  HUTT_eccentric: "Эксцентричный" #NT!
+  HUTT_cunning_ruse: "Хитрая уловка" #NT!
+  HUTT_duplicity: "Двойственность" #NT!
+  HUTT_swindler: "Аферист" #NT!
+  HUTT_double_cross: "Двойной крест" #NT!
+  HUTT_enchantress: "Чародейка" #NT!
+  HUTT_seductress: "Соблазнительница" #NT!
+  HUTT_elder: "Старейшина" #NT!
+  HUTT_ancestor: "Предок" #NT!
+  HUTT_reprisal: "Репрессалия" #NT!
+  HUTT_aggressor: "Агрессор" #NT!
+  HUTT_skinner: "Кожевник" #NT!
+  HUTT_backfire: "Неприятные последствия" #NT!
+  HUTT_blind_eye: "Слепой глаз" #NT!
+  HUTT_our_lady_bacta: "Наша госпожа Бакта" #NT!
+  HUTT_warlord: "Военачальник" #NT!
+  HUTT_warboss: "Варбосс" #NT!
+  HUTT_vendetta: "Вендетта" #NT!
+  HUTT_gastro_god: "Бог Гастро" #NT!
+  HUTT_spineless: "Бесхребетный" #NT!
+  HUTT_magnanimous: "Великодушный" #NT!
+  HUTT_midden: "Куча" #NT!
+  HUTT_cannibal: "Каннибал" #NT!
+  HUTT_price_of_civilization: "Цена цивилизации" #NT!
+  HUTT_tributary: "Данник" #NT!
+  HUTT_tribute_taker: "Сборщик дани" #NT!
+  HUTT_palanquin: "Паланкин" #NT!
+  HUTT_throne_bearer: "Трононосец" #NT!
+  HUTT_supplicant: "Проситель" #NT!
+  HUTT_petty_tyrant: "Мелкий тиран" #NT!
+  HUTT_executor: "Исполнитель" #NT!
+  HUTT_prize_fighter: "Призовой боец" #NT!
+  HUTT_useful_fool: "Полезный дурак" #NT!
+  HUTT_magnificent: "Блистательный" #NT!
+  HUTT_demimondaine: "Полусвет" #NT!
+  HUTT_hustler: "Карманник" #NT!
+  HUTT_wanton: "Блудливый" #NT!
+  HUTT_courtesan_s_wink: "Поклон куртизанки" #NT!
+  HUTT_trollop: "Потаскуха" #NT!
+  HUTT_basilisk: "Василиск" #NT!
+  HUTT_temptress: "Искусительница" #NT!
+  HUTT_overlord: "Повелитель" #NT!
+  HUTT_coquettish_smile: "Кокетливая улыбка" #NT!
+  HUTT_flirtation: "Флирт" #NT!
+  HUTT_death_s_mistress: "Леди Смерть" #NT!
+  HUTT_paramour: "Любовник" #NT!
+  HUTT_jealous_love: "Ревнивая любовь" #NT!
+  HUTT_sultana: "Султана" #NT!
+  HUTT_concubine: "Наложница" #NT!
+  HUTT_doxy: "Шлюха" #NT!
+  HUTT_true_appetite: "Истинный аппетит" #NT!
+  HUTT_illegitimate: "Незаконнорожденный" #NT!
+  HUTT_adulterer: "Прелюбодей" #NT!
+  HUTT_dealer: "Дилер" #NT!
+  HUTT_i_ll_have_another: "Кубышка" #NT!
+  HUTT_genuine_risk: "Подлинный риск" #NT!
+  HUTT_drunkard: "Выпивоха" #NT!
+  HUTT_exulation: "Ликование" #NT!
+  HUTT_expanded_girth: "Широкий обхват" #NT!
+  HUTT_boonta_s_eve: "Бунта Ив" #NT!
+  HUTT_spirit_of_nal_hutta: "Дух Нал-Хатты" #NT!
+  HUTT_glorious_jewel: "Великолепное сокровище" #NT!
+  HUTT_dunelizard: "Дюнная ящерица" #NT!
+  HUTT_enigma: "Энигма" #NT!
+  HUTT_emissary: "Эмиссар" #NT!
+  HUTT_questor: "Квестор" #NT!
+  HUTT_herald_of_hutta: "Вестник Хатты" #NT!
+  HUTT_invisible_string: "Невидимая строка" #NT!
+  HUTT_eminence: "Высокопреосвященство" #NT!
+  HUTT_pupeteer: "Кукловод" #NT!
+  HUTT_alacrity: "Рвение" #NT!
+  HUTT_grasper: "Хапуга" #NT!
+  HUTT_exalted_one: "Возвышенный-1" #NT!
+  HUTT_shell_finder: "Искатель раковин" #NT!
+  HUTT_zenith: "Зенит" #NT!
+  HUTT_torch: "Факел" #NT!
+  HUTT_seeker: "Искатель" #NT!
+  HUTT_pilgrim: "Пилигрим" #NT!
+  HUTT_signal_of_virtue: "Сигнал добродетели" #NT!
+  HUTT_wayfarer: "Путник" #NT!
+  HUTT_ambassador: "Амбассадор" #NT!
+  HUTT_crier: "Глашатай" #NT!
+  HUTT_pathfinder: "Следопыт" #NT!
+  HUTT_wanderer: "Скиталец" #NT!
+  HUTT_bemoaner: "Оплакивающий" #NT!
+  HUTT_varlspeed: "Скорость Варла" #NT!
+  HUTT_huttese_destiny: "Хаттская судьба" #NT!
+  HUTT_potential: "Потенциал" #NT!
+  HUTT_last_laugh: "Последний смех" #NT!
+  HUTT_rightful_place: "Законное место" #NT!
+  HUTT_prosperity: "Процветание" #NT!
+  HUTT_summit: "Саммит" #NT!
+  HUTT_pinnacle: "Верх" #NT!
+  HUTT_seeder: "Сеятель" #NT!
+  HUTT_harvest: "Жатва" #NT!
+  HUTT_demeter: "Деметра" #NT!
+  HUTT_isis: "Изис" #NT!
+  HUTT_ceres: "Церера" #NT!
+  HUTT_exodus: "Исход" #NT!
+  HUTT_foundation: "Фундамент" #NT!
+  HUTT_scion: "Потомок" #NT!
+  HUTT_progeny: "Потомство" #NT!
+  HUTT_own_good: "Собственное благо" #NT!
+  HUTT_beneficent: "Благотворный" #NT!
+  HUTT_princeling: "Князёк" #NT!
+  HUTT_shining_city: "Сияющий город" #NT!
+  HUTT_acquirer: "Покупатель" #NT!
+  HUTT_inheritor: "Наследник" #NT!
+  HUTT_civilizer: "Цивилизатор" #NT!
+  HUTT_tonta_tonka: "Тонта Тонка" #NT!
+  HUTT_chuba_gusha: "Чуба Гуша" #NT!
+  HUTT_replacer: "Заменитель" #NT!
+  HUTT_helot: "Илот" #NT!
+  HUTT_servant: "Слуга" #NT!
+  HUTT_laborer: "Трудовик" #NT!
+  HUTT_servitor: "Сервитор" #NT!
+  HUTT_craftsman: "Мастер" #NT!
+  HUTT_peasant: "Селянин" #NT!
+  HUTT_subordinate: "Подчинённый" #NT!
+  HUTT_serf: "Холоп" #NT!
+  HUTT_menial: "Лакей" #NT!
+  HUTT_vassal: "Вассал" #NT!
+  HUTT_drudge: "Труженик" #NT!
+  HUTT_maid: "Горничная" #NT!
+  HUTT_grinder: "Мельница" #NT!
+  HUTT_toiler: "Трудящийся" #NT!
+  HUTT_foundry: "Литейная" #NT!
+  HUTT_cretin: "Кретин" #NT!
+  HUTT_peon: "Пеон" #NT!
+  HUTT_cottier: "Коттер" #NT!
+  HUTT_hired_hand: "Наёмная рука" #NT!
+  HUTT_workman: "Работник" #NT!
+  HUTT_binder: "Связующее" #NT!
+  HUTT_taskmaster: "Десятник" #NT!
+  HUTT_overseer: "Надзиратель" #NT!
+  HUTT_foreman: "Прораб" #NT!
+  HUTT_supervisor: "Надзиратель" #NT!
+  HUTT_callous: "Чёрствый" #NT!
+  HUTT_beggar: "Попрошайка" #NT!
+  HUTT_migrant: "Мигрант" #NT!
+  HUTT_tinkerer: "Самоучка" #NT!
+  HUTT_domestic: "Одомашненный" #NT!
+  HUTT_butler: "Дворецкий" #NT!
+  HUTT_retainer: "Стойка" #NT!
+  HUTT_evocii: "Эвокиец" #NT!
+  HUTT_ground_transport: "Наземный транспорт" #NT!
+  HUTT_meatgrinder: "Мясорубка" #NT!
+  HUTT_vigil: "Бдение" #NT!
+  HUTT_wrath_of_ardos: "Ярость Ардоса" #NT!
+  HUTT_wrath_of_evona: "Ярость Эвоны" #NT!
+  HUTT_evocii_bane: "Проклятье эвокийцев" #NT!
+  HUTT_despoiler_of_xim: "Осквернитель Зима" #NT!
+  HUTT_paddy_frog: "Ручная лягушка" #NT!
+  HUTT_gorg: "Горг" #NT!
+  HUTT_hotsa_chuba: "Хотса Чуба" #NT!
+  HUTT_bombard: "Бомбарда" #NT!
+  HUTT_ballista: "Баллиста" #NT!
+  HUTT_catapult: "Катапульта" #NT!
+  HUTT_harpoon: "Гарпун" #NT!
+  HUTT_polybolos: "Полибол" #NT!
+  HUTT_culverin: "Кулеврина" #NT!
+  HUTT_FLEET_varl_defense_fleet: "Флот обороны Варла" #NT!
+  HUTT_FLEET_dragon_pearl_armada: "Армада «Жемчужина дракона»" #NT!
+  HUTT_FLEET_defender_of_varl: "Защитник Варла" #NT!
+  HUTT_FLEET_defender_of_nal_hutta: "Защитник Нал-Хатты" #NT!
+  HUTT_FLEET_hutt_space_defense_fleet: "Флот обороны пространства хаттов" #NT!
+  HUTT_FLEET_pride_of_boonta: "Гордость Бунты" #NT!
+  HUTT_FLEET_magnificent_fleet: "Великолепный флот" #NT!
+  HUTT_FLEET_guardians_of_ardos: "Стражи Ардоса" #NT!
+  HUTT_FLEET_guardians_of_evona: "Стражи Эвоны" #NT!
+  HUTT_FLEET_klatooinian_defense_fleet: "Флот обороны клатуинцев" #NT!
+  HUTT_FLEET_sriluur_defense_fleet: "Флот обороны Шрилуура" #NT!
+  HUTT_FLEET_hutta_defense_fleet: "Флот обороны Хатты" #NT!
+  HUTT_FLEET_SEQUENTIAL_armada: "$ORD$ Армада" #NT!
+  HUTT_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Планетарная гвардия" #NT!
+  HUTT_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Экспедиционный корпус" #NT!
+  HUTT_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Наёмные стрелки" #NT!
+  HUTT_ARMY_SEQUENTIAL_clone_army: "$ORD$ Армия клонов" #NT!
+  HUTT_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Группа охотников-убийц" #NT!
+  HUTT_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Матрица наземной обороны" #NT!
+  HUTT_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Пси-коммандос" #NT!
+  HUTT_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  HUTT_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Биоинженерный эскадрон" #NT!
+  HUTT_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Гарнизонные силы" #NT!
+  HUTT_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Механизированный гарнизон" #NT!
+  HUTT_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  HUTT_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  HUTT_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  HUTT_CHR_aarrba: "Aarrba" #NT!
+  HUTT_CHR_aboglor: "Aboglor" #NT!
+  HUTT_CHR_aggaba: "Aggaba" #NT!
+  HUTT_CHR_ajuur: "Ajuur" #NT!
+  HUTT_CHR_alorig: "Alorig" #NT!
+  HUTT_CHR_amdra: "Amdra" #NT!
+  HUTT_CHR_ardustagg: "Ardustagg" #NT!
+  HUTT_CHR_arok: "Arok" #NT!
+  HUTT_CHR_aruk: "Aruk" #NT!
+  HUTT_CHR_azzim: "Azzim" #NT!
+  HUTT_CHR_bakuush: "Bakuush" #NT!
+  HUTT_CHR_bagglosch: "Bagglosch" #NT!
+  HUTT_CHR_bana: "Bana" #NT!
+  HUTT_CHR_barabbula: "Barabbula" #NT!
+  HUTT_CHR_bareesh: "Bareesh" #NT!
+  HUTT_CHR_bargos: "Bargos" #NT!
+  HUTT_CHR_barrga: "Barrga" #NT!
+  HUTT_CHR_basuda: "Basuda" #NT!
+  HUTT_CHR_beeda: "Beeda" #NT!
+  HUTT_CHR_beldorion: "Beldorion" #NT!
+  HUTT_CHR_belhata: "Belhata" #NT!
+  HUTT_CHR_bhanogg: "Bhanogg" #NT!
+  HUTT_CHR_blatta: "Blatta" #NT!
+  HUTT_CHR_blotus: "Blotus" #NT!
+  HUTT_CHR_blurvol: "Blurvol" #NT!
+  HUTT_CHR_bo_dum: "Bo-Dum" #NT!
+  HUTT_CHR_bochaba: "Bochaba" #NT!
+  HUTT_CHR_bogga: "Bogga" #NT!
+  HUTT_CHR_bokku: "Bokku" #NT!
+  HUTT_CHR_bolbol: "BolBol" #NT!
+  HUTT_CHR_boonda: "Boonda" #NT!
+  HUTT_CHR_boonta: "Boonta" #NT!
+  HUTT_CHR_boorka: "Boorka" #NT!
+  HUTT_CHR_borvo: "Borvo" #NT!
+  HUTT_CHR_brebu: "Brebu" #NT!
+  HUTT_CHR_brinojja: "Brinojja" #NT!
+  HUTT_CHR_broagussa: "Broagussa" #NT!
+  HUTT_CHR_broga: "Broga" #NT!
+  HUTT_CHR_brolla: "Brolla" #NT!
+  HUTT_CHR_bronvu: "Bronvu" #NT!
+  HUTT_CHR_brossar: "Brossar" #NT!
+  HUTT_CHR_budhila: "Budhila" #NT!
+  HUTT_CHR_bwahl: "Bwahl" #NT!
+  HUTT_CHR_bweppios: "Bweppios" #NT!
+  HUTT_CHR_chijjun: "Chijjun" #NT!
+  HUTT_CHR_corpo: "Corpo" #NT!
+  HUTT_CHR_corugg: "Corugg" #NT!
+  HUTT_CHR_cunnon: "Cunnon" #NT!
+  HUTT_CHR_dalla: "Dalla" #NT!
+  HUTT_CHR_damrosch: "Damrosch" #NT!
+  HUTT_CHR_darga: "Darga" #NT!
+  HUTT_CHR_direus_pei: "Direus'Pei" #NT!
+  HUTT_CHR_dojundo: "Dojundo" #NT!
+  HUTT_CHR_dorosii: "Dorosii" #NT!
+  HUTT_CHR_draskha: "Draskha" #NT!
+  HUTT_CHR_dreddon: "Dreddon" #NT!
+  HUTT_CHR_dreyba: "Dreyba" #NT!
+  HUTT_CHR_dribba: "Dribba" #NT!
+  HUTT_CHR_dribso: "Dribso" #NT!
+  HUTT_CHR_dromo: "Dromo" #NT!
+  HUTT_CHR_droog: "Droog" #NT!
+  HUTT_CHR_drooga: "Drooga" #NT!
+  HUTT_CHR_durga: "Durga" #NT!
+  HUTT_CHR_duurga: "Duurga" #NT!
+  HUTT_CHR_duuurga: "Duuurga" #NT!
+  HUTT_CHR_ebor: "Ebor" #NT!
+  HUTT_CHR_embra: "Embra" #NT!
+  HUTT_CHR_encaasa: "Encaasa" #NT!
+  HUTT_CHR_ethogg: "Ethogg" #NT!
+  HUTT_CHR_fa_athra: "Fa'athra" #NT!
+  HUTT_CHR_filba: "Filba" #NT!
+  HUTT_CHR_gamdro: "Gamdro" #NT!
+  HUTT_CHR_ganis: "Ganis" #NT!
+  HUTT_CHR_garblaque: "Garblaque" #NT!
+  HUTT_CHR_gardulla: "Gardulla" #NT!
+  HUTT_CHR_gargonn: "Gargonn" #NT!
+  HUTT_CHR_garma: "Garma" #NT!
+  HUTT_CHR_gebbu: "Gebbu" #NT!
+  HUTT_CHR_gheeta: "Gheeta" #NT!
+  HUTT_CHR_ghetmar: "Ghetmar" #NT!
+  HUTT_CHR_giradda: "Giradda" #NT!
+  HUTT_CHR_glabonsch: "Glabonsch" #NT!
+  HUTT_CHR_glosch: "Glosch" #NT!
+  HUTT_CHR_glorga: "Glorga" #NT!
+  HUTT_CHR_glorim: "Glorim" #NT!
+  HUTT_CHR_glorzo: "Glorzo" #NT!
+  HUTT_CHR_godoba: "Godoba" #NT!
+  HUTT_CHR_golga: "Golga" #NT!
+  HUTT_CHR_gorbu: "Gorbu" #NT!
+  HUTT_CHR_gorbus: "Gorbus" #NT!
+  HUTT_CHR_gorga: "Gorga" #NT!
+  HUTT_CHR_gorgo: "Gorgo" #NT!
+  HUTT_CHR_gorr: "Gorr" #NT!
+  HUTT_CHR_graag: "Graag" #NT!
+  HUTT_CHR_graata: "Graata" #NT!
+  HUTT_CHR_graballa: "Graballa" #NT!
+  HUTT_CHR_grakkus: "Grakkus" #NT!
+  HUTT_CHR_grappa: "Grappa" #NT!
+  HUTT_CHR_grejic: "Grejic" #NT!
+  HUTT_CHR_grelb: "Grelb" #NT!
+  HUTT_CHR_grodo: "Grodo" #NT!
+  HUTT_CHR_groodo: "Groodo" #NT!
+  HUTT_CHR_groola: "Groola" #NT!
+  HUTT_CHR_grubba: "Grubba" #NT!
+  HUTT_CHR_gularg: "Gularg" #NT!
+  HUTT_CHR_guttu: "Guttu" #NT!
+  HUTT_CHR_herogga: "Herogga" #NT!
+  HUTT_CHR_hunvar: "Hunvar" #NT!
+  HUTT_CHR_huska: "Huska" #NT!
+  HUTT_CHR_ingoda: "Ingoda" #NT!
+  HUTT_CHR_jax: "Jax" #NT!
+  HUTT_CHR_jeelta: "Jeelta" #NT!
+  HUTT_CHR_jelasi: "Jelasi" #NT!
+  HUTT_CHR_jemba: "Jemba" #NT!
+  HUTT_CHR_jiliac: "Jiliac" #NT!
+  HUTT_CHR_jobwah: "Jobwah" #NT!
+  HUTT_CHR_jocoro: "Jocoro" #NT!
+  HUTT_CHR_jolla: "Jolla" #NT!
+  HUTT_CHR_jorsooda: "Jorsooda" #NT!
+  HUTT_CHR_jurga: "Jurga" #NT!
+  HUTT_CHR_juvard: "Juvard" #NT!
+  HUTT_CHR_ka_pa: "Ka'Pa" #NT!
+  HUTT_CHR_kabbura: "Kabbura" #NT!
+  HUTT_CHR_kalna: "Kalna" #NT!
+  HUTT_CHR_kaltho: "Kaltho" #NT!
+  HUTT_CHR_karagga: "Karagga" #NT!
+  HUTT_CHR_kata: "Kata" #NT!
+  HUTT_CHR_khobisho: "Khobisho" #NT!
+  HUTT_CHR_kibbick: "Kibbick" #NT!
+  HUTT_CHR_kladak: "Kladak" #NT!
+  HUTT_CHR_korrda: "Korrda" #NT!
+  HUTT_CHR_kossak: "Kossak" #NT!
+  HUTT_CHR_kukul: "Kukul" #NT!
+  HUTT_CHR_kurka: "Kurka" #NT!
+  HUTT_CHR_kutuab: "Kutuab" #NT!
+  HUTT_CHR_lagra: "Lagra" #NT!
+  HUTT_CHR_leero: "Leero" #NT!
+  HUTT_CHR_leurm: "Leurm" #NT!
+  HUTT_CHR_lippi: "Lippi" #NT!
+  HUTT_CHR_lokaibus: "Lokaibus" #NT!
+  HUTT_CHR_lonvarpa: "Lonvarpa" #NT!
+  HUTT_CHR_lungru: "Lungru" #NT!
+  HUTT_CHR_mageye: "Mageye" #NT!
+  HUTT_CHR_malta: "Malta" #NT!
+  HUTT_CHR_manju: "Manju" #NT!
+  HUTT_CHR_mardoc: "Mardoc" #NT!
+  HUTT_CHR_marlo: "Marlo" #NT!
+  HUTT_CHR_mika: "Mika" #NT!
+  HUTT_CHR_mondo_mod: "Mondo-Mod" #NT!
+  HUTT_CHR_moosh: "Moosh" #NT!
+  HUTT_CHR_morbiss: "Morbiss" #NT!
+  HUTT_CHR_orbo: "Orbo" #NT!
+  HUTT_CHR_morgra: "Morgra" #NT!
+  HUTT_CHR_moshudda: "Moshudda" #NT!
+  HUTT_CHR_moska: "Moska" #NT!
+  HUTT_CHR_motta: "Motta" #NT!
+  HUTT_CHR_narbuj: "Narbuj" #NT!
+  HUTT_CHR_nashi: "Nashi" #NT!
+  HUTT_CHR_nawnam: "Nawnam" #NT!
+  HUTT_CHR_noako: "Noako" #NT!
+  HUTT_CHR_noggox: "Noggox" #NT!
+  HUTT_CHR_noh: "Noh" #NT!
+  HUTT_CHR_norbo: "Norbo" #NT!
+  HUTT_CHR_nooga: "Nooga" #NT!
+  HUTT_CHR_nuboocha: "Nuboocha" #NT!
+  HUTT_CHR_nullada: "Nullada" #NT!
+  HUTT_CHR_nuubsal: "Nuubsal" #NT!
+  HUTT_CHR_nyarla: "Nyarla" #NT!
+  HUTT_CHR_offra: "Offra" #NT!
+  HUTT_CHR_omeesh: "Omeesh" #NT!
+  HUTT_CHR_ooroz: "Ooroz" #NT!
+  HUTT_CHR_orko: "Orko" #NT!
+  HUTT_CHR_orta: "Orta" #NT!
+  HUTT_CHR_oruba: "Oruba" #NT!
+  HUTT_CHR_parella: "Parella" #NT!
+  HUTT_CHR_pazda: "Pazda" #NT!
+  HUTT_CHR_pizza: "Pizza" #NT!
+  HUTT_CHR_plorbaas: "Plorbaas" #NT!
+  HUTT_CHR_popara: "Popara" #NT!
+  HUTT_CHR_portho: "Portho" #NT!
+  HUTT_CHR_prall: "Prall" #NT!
+  HUTT_CHR_prebda: "Prebda" #NT!
+  HUTT_CHR_prodoranya: "Prodoranya" #NT!
+  HUTT_CHR_progga: "Progga" #NT!
+  HUTT_CHR_puullo: "Puullo" #NT!
+  HUTT_CHR_qibbu: "Qibbu" #NT!
+  HUTT_CHR_qiltakka: "Qiltakka" #NT!
+  HUTT_CHR_quaffug: "Quaffug" #NT!
+  HUTT_CHR_randa: "Randa" #NT!
+  HUTT_CHR_rask: "Rask" #NT!
+  HUTT_CHR_raskurro: "Raskurro" #NT!
+  HUTT_CHR_ribba: "Ribba" #NT!
+  HUTT_CHR_riboga: "Riboga" #NT!
+  HUTT_CHR_rigorra: "Rigorra" #NT!
+  HUTT_CHR_rokko: "Rokko" #NT!
+  HUTT_CHR_rotta: "Rotta" #NT!
+  HUTT_CHR_shala: "Shala" #NT!
+  HUTT_CHR_shebba: "Shebba" #NT!
+  HUTT_CHR_shettora: "Shettora" #NT!
+  HUTT_CHR_shiltu: "Shiltu" #NT!
+  HUTT_CHR_shizu: "Shizu" #NT!
+  HUTT_CHR_shuma: "Shuma" #NT!
+  HUTT_CHR_sibarra: "Sibarra" #NT!
+  HUTT_CHR_skeedo: "Skeedo" #NT!
+  HUTT_CHR_smada: "Smada" #NT!
+  HUTT_CHR_smebba: "Smebba" #NT!
+  HUTT_CHR_soergg: "Soergg" #NT!
+  HUTT_CHR_sonnos: "Sonnos" #NT!
+  HUTT_CHR_spadda: "Spadda" #NT!
+  HUTT_CHR_splugorra: "Splugorra" #NT!
+  HUTT_CHR_subo: "Subo" #NT!
+  HUTT_CHR_suuda: "Suuda" #NT!
+  HUTT_CHR_suudaa: "Suudaa" #NT!
+  HUTT_CHR_szajin: "Szajin" #NT!
+  HUTT_CHR_tagoonta: "Tagoonta" #NT!
+  HUTT_CHR_tagta: "Tagta" #NT!
+  HUTT_CHR_tanda: "Tanda" #NT!
+  HUTT_CHR_teemo: "Teemo" #NT!
+  HUTT_CHR_teubbo: "Teubbo" #NT!
+  HUTT_CHR_thakba: "Thakba" #NT!
+  HUTT_CHR_tiranga: "Tiranga" #NT!
+  HUTT_CHR_tirello: "Tirello" #NT!
+  HUTT_CHR_tobba: "Tobba" #NT!
+  HUTT_CHR_toborro: "Toborro" #NT!
+  HUTT_CHR_toobu: "Toobu" #NT!
+  HUTT_CHR_tooga: "Tooga" #NT!
+  HUTT_CHR_torga: "Torga" #NT!
+  HUTT_CHR_torphus: "Torphus" #NT!
+  HUTT_CHR_torpo: "Torpo" #NT!
+  HUTT_CHR_troonol: "Troonol" #NT!
+  HUTT_CHR_truugo: "Truugo" #NT!
+  HUTT_CHR_tuwas: "Tuwas" #NT!
+  HUTT_CHR_ungo: "Ungo" #NT!
+  HUTT_CHR_urdruua: "Urdruua" #NT!
+  HUTT_CHR_uta: "Uta" #NT!
+  HUTT_CHR_vago: "Vago" #NT!
+  HUTT_CHR_vedo: "Vedo" #NT!
+  HUTT_CHR_velrugha: "Velrugha" #NT!
+  HUTT_CHR_vogga: "Vogga" #NT!
+  HUTT_CHR_voontara: "Voontara" #NT!
+  HUTT_CHR_voras: "Voras" #NT!
+  HUTT_CHR_voromuzz: "Voromuzz" #NT!
+  HUTT_CHR_walla: "Walla" #NT!
+  HUTT_CHR_wallanooga: "Wallanooga" #NT!
+  HUTT_CHR_whuddle: "Whuddle" #NT!
+  HUTT_CHR_wolga: "Wolga" #NT!
+  HUTT_CHR_wordro: "Wordro" #NT!
+  HUTT_CHR_wunda: "Wunda" #NT!
+  HUTT_CHR_yanth: "Yanth" #NT!
+  HUTT_CHR_yantuh: "Yantuh" #NT!
+  HUTT_CHR_ybann: "Ybann" #NT!
+  HUTT_CHR_yenchara: "Yenchara" #NT!
+  HUTT_CHR_zavval: "Zavval" #NT!
+  HUTT_CHR_zax: "Zax" #NT!
+  HUTT_CHR_zier: "Zier" #NT!
+  HUTT_CHR_zirchros: "Zirchros" #NT!
+  HUTT_CHR_ziro: "Ziro" #NT!
+  HUTT_CHR_zobara: "Zobara" #NT!
+  HUTT_CHR_zochaeb: "Zochaeb" #NT!
+  HUTT_CHR_zodoh: "Zodoh" #NT!
+  HUTT_CHR_zonnos: "Zonnos" #NT!
+  HUTT_CHR_zorba: "Zorba" #NT!
+  HUTT_CHR_abogla: "Abogla" #NT!
+  HUTT_CHR_aestaith: "Aestaith" #NT!
+  HUTT_CHR_ahemait: "Ahemait" #NT!
+  HUTT_CHR_alorga: "Alorga" #NT!
+  HUTT_CHR_anachro: "Anachro" #NT!
+  HUTT_CHR_arronda: "Arronda" #NT!
+  HUTT_CHR_astella: "Astella" #NT!
+  HUTT_CHR_bel: "Bel" #NT!
+  HUTT_CHR_birthia: "Birthia" #NT!
+  HUTT_CHR_blith: "Blith" #NT!
+  HUTT_CHR_blobella: "Blobella" #NT!
+  HUTT_CHR_blolba: "Blolba" #NT!
+  HUTT_CHR_blubba: "Blubba" #NT!
+  HUTT_CHR_blulla: "Blulla" #NT!
+  HUTT_CHR_blursa: "Blursa" #NT!
+  HUTT_CHR_borga: "Borga" #NT!
+  HUTT_CHR_celathe: "Celathe" #NT!
+  HUTT_CHR_chungrirg: "Chungrirg" #NT!
+  HUTT_CHR_churabba: "Churabba" #NT!
+  HUTT_CHR_daagri: "Daagri" #NT!
+  HUTT_CHR_decca: "Decca" #NT!
+  HUTT_CHR_dinabu: "Dinabu" #NT!
+  HUTT_CHR_draba: "Draba" #NT!
+  HUTT_CHR_drixo: "Drixo" #NT!
+  HUTT_CHR_emesu: "Emesu" #NT!
+  HUTT_CHR_emeu: "Emeu" #NT!
+  HUTT_CHR_gajjuzz: "Gajjuzz" #NT!
+  HUTT_CHR_holdoeth: "Holdoeth" #NT!
+  HUTT_CHR_idde: "Idde" #NT!
+  HUTT_CHR_iddurpom: "Iddurpom" #NT!
+  HUTT_CHR_jassi: "Jassi" #NT!
+  HUTT_CHR_jatheel: "Jatheel" #NT!
+  HUTT_CHR_jool: "Jool" #NT!
+  HUTT_CHR_jussi: "Jussi" #NT!
+  HUTT_CHR_khuskha: "Khuskha" #NT!
+  HUTT_CHR_kistilb: "Kistilb" #NT!
+  HUTT_CHR_klim: "Klim" #NT!
+  HUTT_CHR_krova: "Krova" #NT!
+  HUTT_CHR_kualajjaeb: "Kualajjaeb" #NT!
+  HUTT_CHR_kumac: "Kumac" #NT!
+  HUTT_CHR_loewnerrbihl: "Loewnerrbihl" #NT!
+  HUTT_CHR_lolduntee: "Lolduntee" #NT!
+  HUTT_CHR_mama: "Mama" #NT!
+  HUTT_CHR_mennac: "Mennac" #NT!
+  HUTT_CHR_mioshu: "Mioshu" #NT!
+  HUTT_CHR_moongroess: "Moongroess" #NT!
+  HUTT_CHR_morpalta: "Morpalta" #NT!
+  HUTT_CHR_natja: "Natja" #NT!
+  HUTT_CHR_neggoh: "Neggoh" #NT!
+  HUTT_CHR_niima: "Niima" #NT!
+  HUTT_CHR_ooalah: "Ooalah" #NT!
+  HUTT_CHR_othe: "Othe" #NT!
+  HUTT_CHR_paggra: "Paggra" #NT!
+  HUTT_CHR_parla: "Parla" #NT!
+  HUTT_CHR_plemess: "Plemess" #NT!
+  HUTT_CHR_pluumbuanya: "Pluumbuanya" #NT!
+  HUTT_CHR_prello: "Prello" #NT!
+  HUTT_CHR_proki: "Proki" #NT!
+  HUTT_CHR_pugriorzihl: "Pugriorzihl" #NT!
+  HUTT_CHR_puki: "Puki" #NT!
+  HUTT_CHR_qileffinn: "Qileffinn" #NT!
+  HUTT_CHR_qunjess: "Qunjess" #NT!
+  HUTT_CHR_rabdaakeh: "Rabdaakeh" #NT!
+  HUTT_CHR_rarpe: "Rarpe" #NT!
+  HUTT_CHR_renyaisch: "Renyaisch" #NT!
+  HUTT_CHR_rooppi: "Rooppi" #NT!
+  HUTT_CHR_rotundha: "Rotundha" #NT!
+  HUTT_CHR_saggla: "Saggla" #NT!
+  HUTT_CHR_saphfiri: "Saphfiri" #NT!
+  HUTT_CHR_sassallo: "Sassallo" #NT!
+  HUTT_CHR_shalera: "Shalera" #NT!
+  HUTT_CHR_shenda: "Shenda" #NT!
+  HUTT_CHR_sherrbis: "Sherrbis" #NT!
+  HUTT_CHR_skilnoo: "Skilnoo" #NT!
+  HUTT_CHR_skoda: "Skoda" #NT!
+  HUTT_CHR_skolnirchra: "Skolnirchra" #NT!
+  HUTT_CHR_smessoohl: "Smessoohl" #NT!
+  HUTT_CHR_sorge: "Sorge" #NT!
+  HUTT_CHR_sutha: "Sutha" #NT!
+  HUTT_CHR_taggla: "Taggla" #NT!
+  HUTT_CHR_tassaa: "Tassaa" #NT!
+  HUTT_CHR_tatja: "Tatja" #NT!
+  HUTT_CHR_tawarit: "Tawarit" #NT!
+  HUTT_CHR_ualtitith: "Ualtitith" #NT!
+  HUTT_CHR_uardusch: "Uardusch" #NT!
+  HUTT_CHR_uddliah: "Uddliah" #NT!
+  HUTT_CHR_ughaelle: "Ughaelle" #NT!
+  HUTT_CHR_vuuwoo: "Vuuwoo" #NT!
+  HUTT_CHR_wappa: "Wappa" #NT!
+  HUTT_CHR_whomri: "Whomri" #NT!
+  HUTT_CHR_worrbona: "Worrbona" #NT!
+  HUTT_CHR_velbelia: "Velbelia" #NT!
+  HUTT_CHR_yerdetin: "Yerdetin" #NT!
+  HUTT_CHR_wurkeskiss: "Wurkeskiss" #NT!
+  HUTT_CHR_yotjo: "Yotjo" #NT!
+  HUTT_CHR_yush: "Yush" #NT!
+  HUTT_CHR_zeli: "Zeli" #NT!
+  HUTT_CHR_zietta: "Zietta" #NT!
+  HUTT_CHR_zinoobah: "Zinoobah" #NT!
+  HUTT_CHR_zooltah: "Zooltah" #NT!
+  HUTT_CHR_besadii: "Besadii" #NT!
+  HUTT_CHR_besadii_aora: "Besadii Aora" #NT!
+  HUTT_CHR_besadii_aarrpo: "Besadii Aarrpo" #NT!
+  HUTT_CHR_besadii_ar_durv: "Besadii Ar'durv" #NT!
+  HUTT_CHR_besadii_diori: "Besadii Diori" #NT!
+  HUTT_CHR_besadii_oggurobb: "Besadii Oggurobb" #NT!
+  HUTT_CHR_besadii_shad_ruu: "Besadii Shad'ruu" #NT!
+  HUTT_CHR_besadii_tai: "Besadii Tai" #NT!
+  HUTT_CHR_besadii_tiure: "Besadii Tiure" #NT!
+  HUTT_CHR_besadii_torill: "Besadii Torill" #NT!
+  HUTT_CHR_desilijic: "Desilijic" #NT!
+  HUTT_CHR_desilijic_aora: "Desilijic Aora" #NT!
+  HUTT_CHR_desilijic_aarrpo: "Desilijic Aarrpo" #NT!
+  HUTT_CHR_desilijic_ar_durv: "Desilijic Ar'durv" #NT!
+  HUTT_CHR_desilijic_ebelt: "Desilijic Ebelt" #NT!
+  HUTT_CHR_desilijic_oggurobb: "Desilijic Oggurobb" #NT!
+  HUTT_CHR_desilijic_preor: "Desilijic Preor" #NT!
+  HUTT_CHR_desilijic_kalshi: "Desilijic Kalshi" #NT!
+  HUTT_CHR_desilijic_shad_ruu: "Desilijic Shad'ruu" #NT!
+  HUTT_CHR_desilijic_tai: "Desilijic Tai" #NT!
+  HUTT_CHR_desilijic_tiron: "Desilijic Tiron" #NT!
+  HUTT_CHR_desilijic_tiure: "Desilijic Tiure" #NT!
+  HUTT_CHR_desilijic_torill: "Desilijic Torill" #NT!
+  HUTT_CHR_fenn_ak: "Fenn'ak" #NT!
+  HUTT_CHR_fenn_ak_aora: "Fenn'ak Aora" #NT!
+  HUTT_CHR_fenn_ak_aarrpo: "Fenn'ak Aarrpo" #NT!
+  HUTT_CHR_fenn_ak_ar_durv: "Fenn'ak Ar'durv" #NT!
+  HUTT_CHR_fenn_ak_oggurobb: "Fenn'ak Oggurobb" #NT!
+  HUTT_CHR_fenn_ak_shad_ruu: "Fenn'ak Shad'ruu" #NT!
+  HUTT_CHR_fenn_ak_tai: "Fenn'ak Tai" #NT!
+  HUTT_CHR_fenn_ak_tiure: "Fenn'ak Tiure" #NT!
+  HUTT_CHR_fenn_ak_torill: "Fenn'ak Torill" #NT!
+  HUTT_CHR_hestilic: "Hestilic" #NT!
+  HUTT_CHR_hestilic_amura: "Hestilic Amura" #NT!
+  HUTT_CHR_hestilic_aora: "Hestilic Aora" #NT!
+  HUTT_CHR_hestilic_aarrpo: "Hestilic Aarrpo" #NT!
+  HUTT_CHR_hestilic_ar_durv: "Hestilic Ar'durv" #NT!
+  HUTT_CHR_hestilic_oggurobb: "Hestilic Oggurobb" #NT!
+  HUTT_CHR_hestilic_shad_ruu: "Hestilic Shad'ruu" #NT!
+  HUTT_CHR_hestilic_tai: "Hestilic Tai" #NT!
+  HUTT_CHR_hestilic_tiure: "Hestilic Tiure" #NT!
+  HUTT_CHR_hestilic_torill: "Hestilic Torill" #NT!
+  HUTT_CHR_illip: "Illip" #NT!
+  HUTT_CHR_illip_aora: "Illip Aora" #NT!
+  HUTT_CHR_illip_aarrpo: "Illip Aarrpo" #NT!
+  HUTT_CHR_illip_ar_durv: "Illip Ar'durv" #NT!
+  HUTT_CHR_illip_oggurobb: "Illip Oggurobb" #NT!
+  HUTT_CHR_illip_shad_ruu: "Illip Shad'ruu" #NT!
+  HUTT_CHR_illip_tai: "Illip Tai" #NT!
+  HUTT_CHR_illip_tiure: "Illip Tiure" #NT!
+  HUTT_CHR_illip_torill: "Illip Torill" #NT!
+  HUTT_CHR_inijic: "Inijic" #NT!
+  HUTT_CHR_inijic_aora: "Inijic Aora" #NT!
+  HUTT_CHR_inijic_aarrpo: "Inijic Aarrpo" #NT!
+  HUTT_CHR_inijic_ar_durv: "Inijic Ar'durv" #NT!
+  HUTT_CHR_inijic_oggurobb: "Inijic Oggurobb" #NT!
+  HUTT_CHR_inijic_shad_ruu: "Inijic Shad'ruu" #NT!
+  HUTT_CHR_inijic_tai: "Inijic Tai" #NT!
+  HUTT_CHR_inijic_tiure: "Inijic Tiure" #NT!
+  HUTT_CHR_inijic_torill: "Inijic Torill" #NT!
+  HUTT_CHR_vanderijar: "Vanderijar" #NT!
+  HUTT_CHR_kaltemmic: "Kaltemmic" #NT!
+  HUTT_CHR_masrii: "Masrii" #NT!
+  HUTT_CHR_urdosh: "Urdosh" #NT!
+  HUTT_CHR_qunaalac: "Qunaalac" #NT!
+  HUTT_CHR_jiramma: "Jiramma" #NT!
+  HUTT_CHR_jiramma_baco: "Jiramma Baco" #NT!
+  HUTT_CHR_jiramma_mionne: "Jiramma Mionne" #NT!
+  HUTT_CHR_gejalli: "Gejalli" #NT!
+  HUTT_CHR_gejalli_thokka: "Gejalli Thokka" #NT!
+  HUTT_CHR_anjiliac: "Anjiliac" #NT!
+  HUTT_CHR_anjiliac_atirue: "Anjiliac Atirue" #NT!
+  HUTT_CHR_anjiliac_chiera: "Anjiliac Chiera" #NT!
+  HUTT_CHR_anjiliac_diresto: "Anjiliac Diresto" #NT!
+  HUTT_CHR_anjiliac_priare: "Anjiliac Priare" #NT!
+  HUTT_CHR_dalo: "Dalo" #NT!
+  HUTT_CHR_dunk: "Dunk" #NT!
+  HUTT_CHR_nem_ro: "Nem'ro" #NT!
+  HUTT_CHR_nokko: "Nokko" #NT!
+  HUTT_CHR_nokko_vimmas: "Nokko Vimmas" #NT!
+  HUTT_CHR_gorensla: "Gorensla" #NT!
+  HUTT_CHR_thok: "Thok" #NT!
+  HUTT_CHR_jallissi: "Jallissi" #NT!
+  HUTT_CHR_jallissi_gral: "Jallissi Gral" #NT!
+  HUTT_CHR_vermilic: "Vermilic" #NT!
+  HUTT_CHR_vermilic_scaiti: "Vermilic Scaiti" #NT!
+  HUTT_CHR_vosadii: "Vosadii" #NT!
+  HUTT_CHR_vosadii_bezhin: "Vosadii Bezhin" #NT!

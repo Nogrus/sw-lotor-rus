@@ -1,135 +1,135 @@
 ﻿l_russian:
- ####################################
- # First contact Events
- ####################################
- 
- story.first.contact.simple_life_form: "The §Y[Root.GetName]§! is abuzz with the recent discovery of alien organisms by our scientists.\n\nWhile we’re still recovering from the devastation of the Great Hyperspace War and re-establishing hyperspace travel, this discovery is a great stride for our scientific community and brings optimism going forward."
- story.1.name:0 "Contact Report: Simple Forms of Life"
- story.1.desc:1 "$story.first.contact.simple_life_form$"
- story.1.desc.phobe:1 "$story.first.contact.simple_life_form$"
- story.1.desc.phile:1 "$story.first.contact.simple_life_form$"
- story.1.desc.spiri:1 "$story.first.contact.simple_life_form$"
- story.1.desc.gesta:0 "We have confirmed the existence of lower forms of organic life outside of §Y[Root.Capital.GetName]§!'s biosphere."
- story.1.desc.term:1 "Alien microbes of an organic nature have been detected. Models for the probability of organic alien sapients have been adjusted accordingly. If they exist, they will be found. They will be exterminated."
- 
- story.first.contact.space_dwellers: "The §Y[Root.GetName]§! is abuzz with the recent discovery of alien organisms by our scientists.\n\nWhile we don’t possess any records that can help us recognize these organisms, this discovery is a great stride for our scientific community and brings optimism going forward." 
- story.2.name:0 "Contact Report: Deep Space Dwellers"
- story.2.desc:1 "$story.first.contact.space_dwellers$"
- story.2.desc.phile:1 "$story.first.contact.space_dwellers$"
- story.2.desc.followup:1 "The subjects of the §Y[Root.GetName]§! have received the discovery of the new and unusual alien organisms with relative calm.\n\nThe supposed vacuum habitat of the aliens sparked some discussion in scientific community on §Y[Root.Capital.GetName]§!, something we’ll share if we reconnect with other species we knew before Great Hyperspace War."
- story.2.desc.gesta:0 "We have observed extremophile organics navigating deep space."
- 
- story.first.contact.planetary_animalia: "The §Y[Root.GetName]§! is abuzz with news of the species discovered some time ago.\n\nWhile we do not possess any specific records of this species predating the Great Hyperspace War short of vague descriptions and a name, the discovery itself represents a great achievement of our re-established science division." 
- story.3.name:0 "Contact Report: Planetary Animalia"
- story.3.desc:1 "$story.first.contact.planetary_animalia$"
- story.3.desc.spiri:1 "$story.first.contact.planetary_animalia$"
- story.3.desc.followup:0 "Following previous reports on alien life, [Root.GetSpeciesAdj] xeno-biologists are pleased to learn of complex life forms outside §Y[Root.Capital.GetName]§!.\n\nWhile we were not able to find any records about such species in our archives, this may indicate that many more lifeforms were able to survive the devastation of the Great Hyperspace War."
- story.3.desc.gesta:0 "We have confirmed animal life on an alien world."
- 
- story.4.name:0 "Contact Report: Pre-Sapient Beings" 
- story.4.desc:1 "The §Y[Root.GetName]§! is abuzz with news of the alien beings encountered some time ago.\n\nTheir near-intelligence is fascinating and our xeno-biologists are happy to try and verify some evolutionary theories and fill gaps in our records."
- story.4.desc.phobe:1 "The alien animals that were observed are cause for some consternation on §Y[Root.Capital.GetName]§!. There is something in the video feeds - of their plodding gait and blank stares - that deeply disturbs the [Root.GetSpeciesAdj] populace.\n\nWhile it spread heated debates about aliens in general, our xeno-biologists are happy to re-confirm some evolution theories and fill gaps in our records."
- story.4.desc.phile:1 "The [Root.GetSpeciesAdj] newsnets are ablaze with discussion and debate over the alien beings encountered some time ago.\n\nThe creatures' intelligence is fascinating and our xeno-biologists are happy to re-confirm some evolution theories and fill gaps in our records."
- story.4.desc.spiri:1 "[Root.GetSpeciesAdj] congregations are buzzing with activity following news of the alien beings encountered some time ago.\n\nThe creatures' intelligence is fascinating and our xeno-biologists are happy to re-confirm some evolution theories and fill gaps in our records."
- story.4.desc.followup:1 "Following previous discoveries of lower forms of life, the [Root.GetSpeciesAdj] capital receives news of the observation of beings with impressive, if latent, cognitive capabilities and great evolutionary potential.\n\nThe report is received with marked enthusiasm."
- story.4.desc.gesta:0 "We have confirmed the existence of alien lifeforms on the evolutionary brink of consciousness."
- 
- story.5.name:0 "Contact Report: Remnants" 
- story.5.remnants: "The §Y[Root.GetName]§! is abuzz with news of the remnants of an alien civilization that was recently discovered.\n\nOur re-established science division found only sparse records of these aliens, indicating an even larger amount of scientific data was lost in Great Hyperspace War than we initially believed."
- story.5.desc:1 "$story.5.remnants$"
- story.5.desc.phobe:1 "$story.5.remnants$"
- story.5.desc.phile:1 "$story.5.remnants$"
- story.5.desc.followup:1 "$story.5.remnants$"
- story.5.desc.gesta:0 "We have confirmed the material traces of intelligent alien life on a foreign world."
- 
- story.6.name:0 "Contact Report: Primitives" 
- story.6.desc:1 "The §Y[Root.GetName]§! is abuzz with news of a primitive alien civilization found by our fleets.\n\nThey may not be capable of space-flight, but the aliens of the [primitive_planet.GetName] are quantifiably intelligent and their society shows all the hallmarks of a moderately advanced culture."
- story.6.desc.phobe:1 "News of the primitive creatures exhibiting rudimentary intelligence - the so-called civilization of [primitive_planet.GetName] - is not received well on §Y[Root.Capital.GetName]§!.\n\nA profound sense of unease permeates our public discourse, as a vocal minority advocates establishing [Root.GetSpeciesAdj] hegemony over the alien planet by any means necessary, while most [Root.GetSpeciesNamePlural] would seemingly prefer to avoid the alien creatures or forget about them entirely."
- story.6.desc.phile:0 "The report on the primitive civilization observed by our fleets is received with something close to exultant jubilation.\n\nWhile we still haven’t met any space empires we knew before Great Hyperspace War, every new discovery of alien life gives us hope that other species managed to survive the devastation and that we’ll soon find them."
- story.6.desc.followup5:1 "The scientific community on §Y[Root.Capital.GetName]§! is excited to receive the report on intelligent alien life.\n\nThey may not be capable of space-flight, but the aliens of [primitive_planet.GetName] are quantifiably intelligent and their society shows all the hallmarks of a moderately advanced culture. Prominent xenologists note that this is an excellent opportunity to study a society."
- story.6.desc.followup4:0 "The report on a primitive culture is welcomed by [Root.GetSpeciesAdj] researchers, following previous discoveries relating to pre-sapient species.\n\nAs far as we are aware there numerous other species in the galaxy and we hope to discover them soon."
- story.6.desc.followup123:1 "Effectively capping off previous discoveries of lower forms of life, the report on the primitive aliens of [primitive_planet.GetName] encountered by our fleets has reignited interest in the xenological sciences on §Y[Root.Capital.GetName]§!."
- story.6.desc.gesta:0 "We have confirmed the existence of a primitive alien culture. They have yet to develop FTL capability, handicapped as they are by their fragmented individuality."
- 
- story.7.name:0 "Contact Report: Enigmatic Spacefarers" 
- story.7.desc:0 "It did not take long for the §Y[Root.GetName]§! to come across intelligent alien life.\n\nGiven our data on other space-faring species is heavily outdated we did not manage to identify vessel, nor open comms due to incompatible protocols and frequencies. It is obvious they are not using pre-war protocol standards so we will need to re-establish communication from scratch."
- story.7.desc.phobe:0 "§Y[Root.Capital.GetName]§! is in an uproar following the news of unidentified ships sighted in the void.\n\nTheir intentions are currently unknown and it would be prudent to assume the worst."
- story.7.desc.phile:0 "The §Y[Root.GetName]§! has finally encountered fellow wanderers among the stars.\n\nDespite the fact that we didn’t manage to identify the vessel and that they potentially can be hostile, the atmosphere on §Y[Root.Capital.GetName]§! following the report from our contact fleet can best be described as rapturous."
- story.7.desc.followup6:0 "We have now encountered intelligent life capable of space-flight.\n\nGiven our data on other space-faring species is heavily outdated we did not manage to identify vessel, nor open comms due to incompatible protocols and frequencies. It is obvious they are not using pre-war protocol standards so we will need to re-establish communication from scratch."
- story.7.desc.followup12345:1 "News of alien ships humming through the ether has reached §Y[Root.Capital.GetName]§!, in many ways ending the chapter in the book of the §Y[Root.GetName]§!'s isolation."
- story.7.desc.mach.followup12345:0 "We have observed the passage of alien vessels capable of advanced spaceflight. Given our data on other space-faring species is heavily outdated we did not manage to identify vessel, nor open comms due to incompatible protocols and frequencies. It is obvious they are not using pre-war protocol standards so we will need to re-establish communication from scratch."
- story.7.desc.gesta:0 "We have encountered advanced alien life. Contact seems inevitable."
- 
- #############################
- # First Contact Progress Events
- #############################
- progress.2.name:0 "The Discovery of Alien Life" 
- progress.2.desc:0 "The §Y[Root.GetName]§! has made a startling find on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien life! After many years of isolation, we have encountered life forms that did not originate on §Y[Root.Owner.Capital.GetName]§!.\n\nAlthough none of the alien creatures found on [From.GetName] are sapient, after we re-established hyperspace travel it is only a matter of time before we encounter beings that are..."
- progress.2.desc.mach:0 "The §Y[Root.GetName]§! has made an unanticipated discovery on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien lifeforms. After many years of isolation, we have encountered organic life that did not originate on §Y[Root.Owner.Capital.GetName]§!.\n\nAlthough none of the alien creatures found on [From.GetName] are sapient, after we re-established hyperspace travel it is only a matter of time before we encounter sapient beings."
- progress.2.desc.assim:1 "The §Y[Root.GetName]§! reports a momentous find on §Y[From.GetName]§!: a myriad of alien organic lifeforms have been discovered! While none of them has evolved to a stage we would consider desirable for assimilation, the likelihood of encountering sapient organics beyond §Y[Root.Owner.Capital.GetName]§! is mostly matter of time."
- progress.2.desc.term:0 "We have been preparing for this day. The §Y[Root.GetName]§! has confirmed the existence of alien organics on [From.GetName]. Though none of the encountered lifeforms possess higher reasoning functions, we expect galaxy infested with sapient organics."
- progress.2.desc.serv:0 "A discovery has been made by the §Y[Root.GetName]§! on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien organics! Though none of the new lifeforms appear to possess the self-awareness required to appreciate [Root.Owner.GetAdj] pampering, it is only a matter of time before we encounter beings that do!"
- progress.2.a:0 "We knew we are not be alone out here."
- progress.2.a.assim:0 "We will be one."
- progress.2.a.mech:0 "Acknowledged."
- progress.2.a.term:0 "We will be ready for them."
- progress.2.a.serv:0 "Wonderful! Prepare the gift baskets."
- 
- progress.3.desc_generic: "Now that the dust has seemingly settled from the Great Hyperspace War, our empire can take its first steps towards true restoration. §Y[Root.GetName]§! has been chosen as the first new colony for us to claim a foothold on. Scientists, engineers, and administrators will now begin the long process of establishing prefabricated buildings and other necessities to ensure our eventual colonists have the right foundation to make §Y[Root.GetName]§! a thriving colony. From there it will be up to the locals to help shape the future of our society together."
- progress.3.name:0 "The First [Root.Owner.GetSpeciesName] Colony"
- progress.3.desc_01:0 "$progress.3.desc_generic$"
- progress.3.desc_02:0 "$progress.3.desc_generic$"
- progress.3.desc_03:0 "$progress.3.desc_generic$"
- progress.3.desc_04:0 "$progress.3.desc_generic$"
- progress.3.desc_05:0 "$progress.3.desc_generic$"
- progress.3.desc_06:0 "$progress.3.desc_generic$"
- progress.3.desc_07:0 "$progress.3.desc_generic$"
- progress.3.desc_10:0 "$progress.3.desc_generic$"
- 
- progress.4.name:0 "First Alien Encounter" 
- progress.4.desc_01:0 "The news that we have encountered intelligent alien life has been received with mixed feelings by our populace. We knew this - we are not alone in this galaxy. Each new alien species we encounter represents both an opportunity and a threat. We must be wary.\n\nThese particular xenos have a level of technology similar to our own causing heated debates on their origin."
- progress.4.desc_02:0 "The news that we have encountered intelligent alien life is spreading like wildfire throughout the §Y[Root.GetName]§!. Through we were not able to find records about these creatures, our citizens are fascinated by these beings, and the media is full of reports and speculation on their origin. The revelation that we are not alone who survived Great Hyperspace War has largely been greeted with celebration on §Y[Root.Capital.GetName]§!.\n\nWe were not able to identify the vessels, this means they probably, just like us re-designed it during years of isolation and recovering."
- progress.4.desc_03:0 "The news that we have encountered intelligent alien life for the first time has shaken our society to the core. \n\nThe strange xenos appear to have achieved a level of technology similar to our own, and they are clearly space-faring. We can only guess what kind of problems they can bring us."
- progress.4.a:0 "This changes everything."
- progress.4.b:0 "This is a momentous occasion."
- progress.4.c:0 "We should assume the worst."
- 
- progress.5.desc_01:0 "The news that we have encountered intelligent alien life has been received with mixed feelings by our populace. We knew this - we are not alone in this galaxy. Each new alien species we encounter represents both an opportunity and a threat. We must be wary.\n\nThese particular xenos are primitive by our standards, and they have not yet achieved space flight. We must decide how to approach them."
- progress.5.desc_02:0 "The news that we have encountered intelligent alien life is spreading like wildfire throughout the §Y[Root.GetName]§!. Our citizens are fascinated by these beings, and the media is full of reports and speculation on their origin. The revelation alone of some who survived Great Hyperspace War has largely been greeted with celebration on §Y[Root.Capital.GetName]§!.\n\nOur level of technology is far ahead of theirs, and they have not yet developed space flight. Although they are primitive by our standards, we could probably still learn much by studying them."
- progress.5.desc_03:0 "The news that we have encountered intelligent alien life has shaken our society to the core. Leaked footage of these bizarre creatures is spreading through media outlets across the §Y[Root.GetName]§!, and many citizens have been gripped by sense of unease. \n\nThe primitive and backwards xenos are far below our own level of technology, and they have not yet developed space flight. For all our sakes, let us pray they never will."
- progress.5.b:0 "How fascinating."
- progress.5.c:0 "Indeed."
- 
- progress.6.desc_01:0 "The news that we have encountered intelligent alien life has been received with mixed feelings by our populace. We knew this - we are not alone in this galaxy. Each new alien species we encounter represents both an opportunity and a threat. We must be wary.\n\nThese particular xenos have appeared to survive the Great Hyperspace War without serious consequences, leaving us to only guess of their origin. We should be careful when dealing with them." 
- progress.6.desc_02:0 "The news that we have encountered intelligent alien life is spreading like wildfire throughout the §Y[Root.GetName]§!. Our citizens are fascinated by these beings and the media is full of reports and speculation on their origin. The revelation alone of some who survived Great Hyperspace War has largely been greeted with celebration on §Y[Root.Capital.GetName]§!.\n\nThese particular xenos have appeared to survive the Great Hyperspace War without serious consequences, leaving us to only guess of their origin. Their level of technology is far ahead of our own. There is no doubt a great deal they could teach us."
- progress.6.desc_03:0 "The news that we have encountered intelligent alien life for the first time has shaken our society to the core.\n\nThe strange xenos have achieved a level of technology far beyond our own that leave us only guessing on their origin. Fortunately for us, their kind appear to be a decrepit and stagnating species."
- progress.6.b:0 "Their wisdom must be great."
- progress.6.c:0 "Their age is over. The time of the [Root.Species.GetName] has come."
- 
- progress.4.desc_04:0 "$progress.4.gestaltintro$\n\n$progress.4.gestaltnormal$"
- progress.4.d:0 "They are... different."
- progress.4.e:0 "This data must be analyzed."
- progress.4.f:0 "Prey..."
- progress.4.g:0 "Gathering tactical data..."
- 
- progress.5.desc_04:0 "$progress.4.gestaltintro$\n\n$progress.4.gestaltprimitives$"
- progress.6.desc_04:0 "$progress.4.gestaltintro$\n\n$progress.4.gestaltfallen$"
- progress.4.gestaltintro:0 "We knew we are not the only intelligent civilization in our galaxy. This has now been confirmed."
- progress.4.gestaltnormal:0 "The alien political entity that we have encountered has a level of technology similar to our own."
- progress.4.gestaltprimitives:0 "The alien political entity that we have encountered has not yet invented space flight. We must determine how best to deal with these primitives."
- 
- progress.4.gestaltfallen:0 "The alien political entity that we have encountered appears to possess technology that is far more advanced then our own. Caution is advised."
- 
- first_contact.1060.name:0 "First Contact Protocols"
- first_contact.1060.desc.base:0 "With the re-establishment of hyperspace travel an age old debate has returned to our society: how should we approach possible aliens if we meet them? After years of isolation most of our records on alien species were lost and communication protocols have likely become outdated. The odds of confidently determining friend from foe has dwindled as the years have passed, just as well given that those friends and foes may no longer be such after such a long time without contact and communication."
- first_contact.1060.desc:0 "$first_contact.1060.desc.base$\n\nWhile some advocate establishing friendly relations as quickly as possible by contacting aliens with a message of peace, others advise caution, pointing out that since we can't truly identify them it would be unwise to expose ourselves to a potential threat and provide them with sensitive information about our society.\n\nA third, more radical group push for pre-emptive action against them: "With the security of all [This.GetSpeciesNamePlural] at risk," they say, "we dare not hesitate to take whatever means necessary to gain the advantage against any potential xeno threat.""
- first_contact.1060.desc.xenophile:0 "$first_contact.1060.desc.base$\n\nWhile some advocate establishing friendly relations as quickly as possible by contacting aliens with a message of peace, others advise caution, pointing out that since we can't truly identify them it would be unwise to expose ourselves to a potential threat and provide them with sensitive information about our society."
- first_contact.1060.desc.xenophobe:0 "$first_contact.1060.desc.base$\n\nWhile some advocate taking hostile pre-emptive action against them, others advise caution, pointing out that it would be wise to learn more about the aliens before we risk antagonizing them."
- first_contact.1060.desc.gestalt:0 "Our recent encounter with alien lifeforms has brought forth the need for us to decide how we should act towards any potentially intelligent alien civilizations we may meet.\n\nOne possibility would be for us to seek to establish a peaceful contact as soon as possible by sending them the requisite information to decipher our language. This may, however, prove imprudent should they have hostile intentions towards us.\n\nThe safest option would be to proceed with caution and attempt to communicate without providing excess information that may otherwise be leveraged against. On the other hand, we can take more aggressive action to both find out more about them and ward them off from our territories; however, this would be sure to antagonize them."
- first_contact.1060.A:0 "We shall greet the aliens with open arms."
- first_contact.1060.A.machine:0 "We shall greet the aliens with open arms."
- first_contact.1060.A.tooltip:1 "This policy has the following effects:\n$first_contact_proactive_effects$$MOD_FIRST_CONTACT_SPEED_MULT$: §G+10%§!"
- first_contact.1060.B:0 "It is wise to be cautious."
- first_contact.1060.B.tooltip:1 "This policy has the following effects:\n$first_contact_cautious_effects$$MOD_FIRST_CONTACT_DEFENSE_ADD$: §G+2§!"
- first_contact.1060.C:0 "We must ward off those who would threaten us."
- first_contact.1060.C.tooltip:0 "This policy has the following effects:\n$first_contact_attack_allowed_effects$"
+ #################################### #NT!
+ # First contact Events #NT!
+ #################################### #NT!
+
+ story.first.contact.simple_life_form: "The §Y[Root.GetName]§! is abuzz with the recent discovery of alien organisms by our scientists.\n\nWhile we’re still recovering from the devastation of the Great Hyperspace War and re-establishing hyperspace travel, this discovery is a great stride for our scientific community and brings optimism going forward." #NT!
+ story.1.name:0 "Contact Report: Simple Forms of Life" #NT!
+ story.1.desc:1 "$story.first.contact.simple_life_form$" #NT!
+ story.1.desc.phobe:1 "$story.first.contact.simple_life_form$" #NT!
+ story.1.desc.phile:1 "$story.first.contact.simple_life_form$" #NT!
+ story.1.desc.spiri:1 "$story.first.contact.simple_life_form$" #NT!
+ story.1.desc.gesta:0 "We have confirmed the existence of lower forms of organic life outside of §Y[Root.Capital.GetName]§!'s biosphere." #NT!
+ story.1.desc.term:1 "Alien microbes of an organic nature have been detected. Models for the probability of organic alien sapients have been adjusted accordingly. If they exist, they will be found. They will be exterminated." #NT!
+
+ story.first.contact.space_dwellers: "The §Y[Root.GetName]§! is abuzz with the recent discovery of alien organisms by our scientists.\n\nWhile we don’t possess any records that can help us recognize these organisms, this discovery is a great stride for our scientific community and brings optimism going forward." #NT!
+ story.2.name:0 "Contact Report: Deep Space Dwellers" #NT!
+ story.2.desc:1 "$story.first.contact.space_dwellers$" #NT!
+ story.2.desc.phile:1 "$story.first.contact.space_dwellers$" #NT!
+ story.2.desc.followup:1 "The subjects of the §Y[Root.GetName]§! have received the discovery of the new and unusual alien organisms with relative calm.\n\nThe supposed vacuum habitat of the aliens sparked some discussion in scientific community on §Y[Root.Capital.GetName]§!, something we’ll share if we reconnect with other species we knew before Great Hyperspace War." #NT!
+ story.2.desc.gesta:0 "We have observed extremophile organics navigating deep space." #NT!
+
+ story.first.contact.planetary_animalia: "The §Y[Root.GetName]§! is abuzz with news of the species discovered some time ago.\n\nWhile we do not possess any specific records of this species predating the Great Hyperspace War short of vague descriptions and a name, the discovery itself represents a great achievement of our re-established science division." #NT!
+ story.3.name:0 "Contact Report: Planetary Animalia" #NT!
+ story.3.desc:1 "$story.first.contact.planetary_animalia$" #NT!
+ story.3.desc.spiri:1 "$story.first.contact.planetary_animalia$" #NT!
+ story.3.desc.followup:0 "Following previous reports on alien life, [Root.GetSpeciesAdj] xeno-biologists are pleased to learn of complex life forms outside §Y[Root.Capital.GetName]§!.\n\nWhile we were not able to find any records about such species in our archives, this may indicate that many more lifeforms were able to survive the devastation of the Great Hyperspace War." #NT!
+ story.3.desc.gesta:0 "We have confirmed animal life on an alien world." #NT!
+
+ story.4.name:0 "Contact Report: Pre-Sapient Beings" #NT!
+ story.4.desc:1 "The §Y[Root.GetName]§! is abuzz with news of the alien beings encountered some time ago.\n\nTheir near-intelligence is fascinating and our xeno-biologists are happy to try and verify some evolutionary theories and fill gaps in our records." #NT!
+ story.4.desc.phobe:1 "The alien animals that were observed are cause for some consternation on §Y[Root.Capital.GetName]§!. There is something in the video feeds - of their plodding gait and blank stares - that deeply disturbs the [Root.GetSpeciesAdj] populace.\n\nWhile it spread heated debates about aliens in general, our xeno-biologists are happy to re-confirm some evolution theories and fill gaps in our records." #NT!
+ story.4.desc.phile:1 "The [Root.GetSpeciesAdj] newsnets are ablaze with discussion and debate over the alien beings encountered some time ago.\n\nThe creatures' intelligence is fascinating and our xeno-biologists are happy to re-confirm some evolution theories and fill gaps in our records." #NT!
+ story.4.desc.spiri:1 "[Root.GetSpeciesAdj] congregations are buzzing with activity following news of the alien beings encountered some time ago.\n\nThe creatures' intelligence is fascinating and our xeno-biologists are happy to re-confirm some evolution theories and fill gaps in our records." #NT!
+ story.4.desc.followup:1 "Following previous discoveries of lower forms of life, the [Root.GetSpeciesAdj] capital receives news of the observation of beings with impressive, if latent, cognitive capabilities and great evolutionary potential.\n\nThe report is received with marked enthusiasm." #NT!
+ story.4.desc.gesta:0 "We have confirmed the existence of alien lifeforms on the evolutionary brink of consciousness." #NT!
+
+ story.5.name:0 "Contact Report: Remnants" #NT!
+ story.5.remnants: "The §Y[Root.GetName]§! is abuzz with news of the remnants of an alien civilization that was recently discovered.\n\nOur re-established science division found only sparse records of these aliens, indicating an even larger amount of scientific data was lost in Great Hyperspace War than we initially believed." #NT!
+ story.5.desc:1 "$story.5.remnants$" #NT!
+ story.5.desc.phobe:1 "$story.5.remnants$" #NT!
+ story.5.desc.phile:1 "$story.5.remnants$" #NT!
+ story.5.desc.followup:1 "$story.5.remnants$" #NT!
+ story.5.desc.gesta:0 "We have confirmed the material traces of intelligent alien life on a foreign world." #NT!
+
+ story.6.name:0 "Contact Report: Primitives" #NT!
+ story.6.desc:1 "The §Y[Root.GetName]§! is abuzz with news of a primitive alien civilization found by our fleets.\n\nThey may not be capable of space-flight, but the aliens of the [primitive_planet.GetName] are quantifiably intelligent and their society shows all the hallmarks of a moderately advanced culture." #NT!
+ story.6.desc.phobe:1 "News of the primitive creatures exhibiting rudimentary intelligence - the so-called civilization of [primitive_planet.GetName] - is not received well on §Y[Root.Capital.GetName]§!.\n\nA profound sense of unease permeates our public discourse, as a vocal minority advocates establishing [Root.GetSpeciesAdj] hegemony over the alien planet by any means necessary, while most [Root.GetSpeciesNamePlural] would seemingly prefer to avoid the alien creatures or forget about them entirely." #NT!
+ story.6.desc.phile:0 "The report on the primitive civilization observed by our fleets is received with something close to exultant jubilation.\n\nWhile we still haven’t met any space empires we knew before Great Hyperspace War, every new discovery of alien life gives us hope that other species managed to survive the devastation and that we’ll soon find them." #NT!
+ story.6.desc.followup5:1 "The scientific community on §Y[Root.Capital.GetName]§! is excited to receive the report on intelligent alien life.\n\nThey may not be capable of space-flight, but the aliens of [primitive_planet.GetName] are quantifiably intelligent and their society shows all the hallmarks of a moderately advanced culture. Prominent xenologists note that this is an excellent opportunity to study a society." #NT!
+ story.6.desc.followup4:0 "The report on a primitive culture is welcomed by [Root.GetSpeciesAdj] researchers, following previous discoveries relating to pre-sapient species.\n\nAs far as we are aware there numerous other species in the galaxy and we hope to discover them soon." #NT!
+ story.6.desc.followup123:1 "Effectively capping off previous discoveries of lower forms of life, the report on the primitive aliens of [primitive_planet.GetName] encountered by our fleets has reignited interest in the xenological sciences on §Y[Root.Capital.GetName]§!." #NT!
+ story.6.desc.gesta:0 "We have confirmed the existence of a primitive alien culture. They have yet to develop FTL capability, handicapped as they are by their fragmented individuality." #NT!
+
+ story.7.name:0 "Contact Report: Enigmatic Spacefarers" #NT!
+ story.7.desc:0 "It did not take long for the §Y[Root.GetName]§! to come across intelligent alien life.\n\nGiven our data on other space-faring species is heavily outdated we did not manage to identify vessel, nor open comms due to incompatible protocols and frequencies. It is obvious they are not using pre-war protocol standards so we will need to re-establish communication from scratch." #NT!
+ story.7.desc.phobe:0 "§Y[Root.Capital.GetName]§! is in an uproar following the news of unidentified ships sighted in the void.\n\nTheir intentions are currently unknown and it would be prudent to assume the worst." #NT!
+ story.7.desc.phile:0 "The §Y[Root.GetName]§! has finally encountered fellow wanderers among the stars.\n\nDespite the fact that we didn’t manage to identify the vessel and that they potentially can be hostile, the atmosphere on §Y[Root.Capital.GetName]§! following the report from our contact fleet can best be described as rapturous." #NT!
+ story.7.desc.followup6:0 "We have now encountered intelligent life capable of space-flight.\n\nGiven our data on other space-faring species is heavily outdated we did not manage to identify vessel, nor open comms due to incompatible protocols and frequencies. It is obvious they are not using pre-war protocol standards so we will need to re-establish communication from scratch." #NT!
+ story.7.desc.followup12345:1 "News of alien ships humming through the ether has reached §Y[Root.Capital.GetName]§!, in many ways ending the chapter in the book of the §Y[Root.GetName]§!'s isolation." #NT!
+ story.7.desc.mach.followup12345:0 "We have observed the passage of alien vessels capable of advanced spaceflight. Given our data on other space-faring species is heavily outdated we did not manage to identify vessel, nor open comms due to incompatible protocols and frequencies. It is obvious they are not using pre-war protocol standards so we will need to re-establish communication from scratch." #NT!
+ story.7.desc.gesta:0 "We have encountered advanced alien life. Contact seems inevitable." #NT!
+
+ ############################# #NT!
+ # First Contact Progress Events #NT!
+ ############################# #NT!
+ progress.2.name:0 "The Discovery of Alien Life" #NT!
+ progress.2.desc:0 "The §Y[Root.GetName]§! has made a startling find on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien life! After many years of isolation, we have encountered life forms that did not originate on §Y[Root.Owner.Capital.GetName]§!.\n\nAlthough none of the alien creatures found on [From.GetName] are sapient, after we re-established hyperspace travel it is only a matter of time before we encounter beings that are..." #NT!
+ progress.2.desc.mach:0 "The §Y[Root.GetName]§! has made an unanticipated discovery on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien lifeforms. After many years of isolation, we have encountered organic life that did not originate on §Y[Root.Owner.Capital.GetName]§!.\n\nAlthough none of the alien creatures found on [From.GetName] are sapient, after we re-established hyperspace travel it is only a matter of time before we encounter sapient beings." #NT!
+ progress.2.desc.assim:1 "The §Y[Root.GetName]§! reports a momentous find on §Y[From.GetName]§!: a myriad of alien organic lifeforms have been discovered! While none of them has evolved to a stage we would consider desirable for assimilation, the likelihood of encountering sapient organics beyond §Y[Root.Owner.Capital.GetName]§! is mostly matter of time." #NT!
+ progress.2.desc.term:0 "We have been preparing for this day. The §Y[Root.GetName]§! has confirmed the existence of alien organics on [From.GetName]. Though none of the encountered lifeforms possess higher reasoning functions, we expect galaxy infested with sapient organics." #NT!
+ progress.2.desc.serv:0 "A discovery has been made by the §Y[Root.GetName]§! on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien organics! Though none of the new lifeforms appear to possess the self-awareness required to appreciate [Root.Owner.GetAdj] pampering, it is only a matter of time before we encounter beings that do!" #NT!
+ progress.2.a:0 "We knew we are not be alone out here." #NT!
+ progress.2.a.assim:0 "We will be one." #NT!
+ progress.2.a.mech:0 "Acknowledged." #NT!
+ progress.2.a.term:0 "We will be ready for them." #NT!
+ progress.2.a.serv:0 "Wonderful! Prepare the gift baskets." #NT!
+
+ progress.3.desc_generic: "Now that the dust has seemingly settled from the Great Hyperspace War, our empire can take its first steps towards true restoration. §Y[Root.GetName]§! has been chosen as the first new colony for us to claim a foothold on. Scientists, engineers, and administrators will now begin the long process of establishing prefabricated buildings and other necessities to ensure our eventual colonists have the right foundation to make §Y[Root.GetName]§! a thriving colony. From there it will be up to the locals to help shape the future of our society together." #NT!
+ progress.3.name:0 "The First [Root.Owner.GetSpeciesName] Colony" #NT!
+ progress.3.desc_01:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_02:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_03:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_04:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_05:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_06:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_07:0 "$progress.3.desc_generic$" #NT!
+ progress.3.desc_10:0 "$progress.3.desc_generic$" #NT!
+
+ progress.4.name:0 "First Alien Encounter" #NT!
+ progress.4.desc_01:0 "The news that we have encountered intelligent alien life has been received with mixed feelings by our populace. We knew this - we are not alone in this galaxy. Each new alien species we encounter represents both an opportunity and a threat. We must be wary.\n\nThese particular xenos have a level of technology similar to our own causing heated debates on their origin." #NT!
+ progress.4.desc_02:0 "The news that we have encountered intelligent alien life is spreading like wildfire throughout the §Y[Root.GetName]§!. Through we were not able to find records about these creatures, our citizens are fascinated by these beings, and the media is full of reports and speculation on their origin. The revelation that we are not alone who survived Great Hyperspace War has largely been greeted with celebration on §Y[Root.Capital.GetName]§!.\n\nWe were not able to identify the vessels, this means they probably, just like us re-designed it during years of isolation and recovering." #NT!
+ progress.4.desc_03:0 "The news that we have encountered intelligent alien life for the first time has shaken our society to the core. \n\nThe strange xenos appear to have achieved a level of technology similar to our own, and they are clearly space-faring. We can only guess what kind of problems they can bring us." #NT!
+ progress.4.a:0 "This changes everything." #NT!
+ progress.4.b:0 "This is a momentous occasion." #NT!
+ progress.4.c:0 "We should assume the worst." #NT!
+
+ progress.5.desc_01:0 "The news that we have encountered intelligent alien life has been received with mixed feelings by our populace. We knew this - we are not alone in this galaxy. Each new alien species we encounter represents both an opportunity and a threat. We must be wary.\n\nThese particular xenos are primitive by our standards, and they have not yet achieved space flight. We must decide how to approach them." #NT!
+ progress.5.desc_02:0 "The news that we have encountered intelligent alien life is spreading like wildfire throughout the §Y[Root.GetName]§!. Our citizens are fascinated by these beings, and the media is full of reports and speculation on their origin. The revelation alone of some who survived Great Hyperspace War has largely been greeted with celebration on §Y[Root.Capital.GetName]§!.\n\nOur level of technology is far ahead of theirs, and they have not yet developed space flight. Although they are primitive by our standards, we could probably still learn much by studying them." #NT!
+ progress.5.desc_03:0 "The news that we have encountered intelligent alien life has shaken our society to the core. Leaked footage of these bizarre creatures is spreading through media outlets across the §Y[Root.GetName]§!, and many citizens have been gripped by sense of unease. \n\nThe primitive and backwards xenos are far below our own level of technology, and they have not yet developed space flight. For all our sakes, let us pray they never will." #NT!
+ progress.5.b:0 "How fascinating." #NT!
+ progress.5.c:0 "Indeed." #NT!
+
+ progress.6.desc_01:0 "The news that we have encountered intelligent alien life has been received with mixed feelings by our populace. We knew this - we are not alone in this galaxy. Each new alien species we encounter represents both an opportunity and a threat. We must be wary.\n\nThese particular xenos have appeared to survive the Great Hyperspace War without serious consequences, leaving us to only guess of their origin. We should be careful when dealing with them." #NT!
+ progress.6.desc_02:0 "The news that we have encountered intelligent alien life is spreading like wildfire throughout the §Y[Root.GetName]§!. Our citizens are fascinated by these beings and the media is full of reports and speculation on their origin. The revelation alone of some who survived Great Hyperspace War has largely been greeted with celebration on §Y[Root.Capital.GetName]§!.\n\nThese particular xenos have appeared to survive the Great Hyperspace War without serious consequences, leaving us to only guess of their origin. Their level of technology is far ahead of our own. There is no doubt a great deal they could teach us." #NT!
+ progress.6.desc_03:0 "The news that we have encountered intelligent alien life for the first time has shaken our society to the core.\n\nThe strange xenos have achieved a level of technology far beyond our own that leave us only guessing on their origin. Fortunately for us, their kind appear to be a decrepit and stagnating species." #NT!
+ progress.6.b:0 "Their wisdom must be great." #NT!
+ progress.6.c:0 "Their age is over. The time of the [Root.Species.GetName] has come." #NT!
+
+ progress.4.desc_04:0 "$progress.4.gestaltintro$\n\n$progress.4.gestaltnormal$" #NT!
+ progress.4.d:0 "They are... different." #NT!
+ progress.4.e:0 "This data must be analyzed." #NT!
+ progress.4.f:0 "Prey..." #NT!
+ progress.4.g:0 "Gathering tactical data..." #NT!
+
+ progress.5.desc_04:0 "$progress.4.gestaltintro$\n\n$progress.4.gestaltprimitives$" #NT!
+ progress.6.desc_04:0 "$progress.4.gestaltintro$\n\n$progress.4.gestaltfallen$" #NT!
+ progress.4.gestaltintro:0 "We knew we are not the only intelligent civilization in our galaxy. This has now been confirmed." #NT!
+ progress.4.gestaltnormal:0 "The alien political entity that we have encountered has a level of technology similar to our own." #NT!
+ progress.4.gestaltprimitives:0 "The alien political entity that we have encountered has not yet invented space flight. We must determine how best to deal with these primitives." #NT!
+
+ progress.4.gestaltfallen:0 "The alien political entity that we have encountered appears to possess technology that is far more advanced then our own. Caution is advised." #NT!
+
+ first_contact.1060.name:0 "First Contact Protocols" #NT!
+ first_contact.1060.desc.base:0 "With the re-establishment of hyperspace travel an age old debate has returned to our society: how should we approach possible aliens if we meet them? After years of isolation most of our records on alien species were lost and communication protocols have likely become outdated. The odds of confidently determining friend from foe has dwindled as the years have passed, just as well given that those friends and foes may no longer be such after such a long time without contact and communication." #NT!
+ first_contact.1060.desc:0 "$first_contact.1060.desc.base$\n\nWhile some advocate establishing friendly relations as quickly as possible by contacting aliens with a message of peace, others advise caution, pointing out that since we can't truly identify them it would be unwise to expose ourselves to a potential threat and provide them with sensitive information about our society.\n\nA third, more radical group push for pre-emptive action against them: "With the security of all [This.GetSpeciesNamePlural] at risk," they say, "we dare not hesitate to take whatever means necessary to gain the advantage against any potential xeno threat."" #NT!
+ first_contact.1060.desc.xenophile:0 "$first_contact.1060.desc.base$\n\nWhile some advocate establishing friendly relations as quickly as possible by contacting aliens with a message of peace, others advise caution, pointing out that since we can't truly identify them it would be unwise to expose ourselves to a potential threat and provide them with sensitive information about our society." #NT!
+ first_contact.1060.desc.xenophobe:0 "$first_contact.1060.desc.base$\n\nWhile some advocate taking hostile pre-emptive action against them, others advise caution, pointing out that it would be wise to learn more about the aliens before we risk antagonizing them." #NT!
+ first_contact.1060.desc.gestalt:0 "Our recent encounter with alien lifeforms has brought forth the need for us to decide how we should act towards any potentially intelligent alien civilizations we may meet.\n\nOne possibility would be for us to seek to establish a peaceful contact as soon as possible by sending them the requisite information to decipher our language. This may, however, prove imprudent should they have hostile intentions towards us.\n\nThe safest option would be to proceed with caution and attempt to communicate without providing excess information that may otherwise be leveraged against. On the other hand, we can take more aggressive action to both find out more about them and ward them off from our territories; however, this would be sure to antagonize them." #NT!
+ first_contact.1060.A:0 "We shall greet the aliens with open arms." #NT!
+ first_contact.1060.A.machine:0 "We shall greet the aliens with open arms." #NT!
+ first_contact.1060.A.tooltip:1 "This policy has the following effects:\n$first_contact_proactive_effects$$MOD_FIRST_CONTACT_SPEED_MULT$: §G+10%§!" #NT!
+ first_contact.1060.B:0 "It is wise to be cautious." #NT!
+ first_contact.1060.B.tooltip:1 "This policy has the following effects:\n$first_contact_cautious_effects$$MOD_FIRST_CONTACT_DEFENSE_ADD$: §G+2§!" #NT!
+ first_contact.1060.C:0 "We must ward off those who would threaten us." #NT!
+ first_contact.1060.C.tooltip:0 "This policy has the following effects:\n$first_contact_attack_allowed_effects$" #NT!

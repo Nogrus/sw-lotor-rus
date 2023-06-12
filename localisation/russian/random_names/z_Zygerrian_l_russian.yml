@@ -1,947 +1,947 @@
 ﻿l_russian:
- ZYGERRIAN_false_manum: "False Manumission"
- ZYGERRIAN_thralltaker: "Thralltaker"
- ZYGERRIAN_widowmaker: "Widowmaker"
- ZYGERRIAN_helot_s_brand: "Helot's Brand"
- ZYGERRIAN_branding_iron: "Branding Iron"
- ZYGERRIAN_abductor: "Abductor"
- ZYGERRIAN_kidnapper: "Kidnapper"
- ZYGERRIAN_ransom: "Ransom"
- ZYGERRIAN_skinner: "Skinner"
- ZYGERRIAN_separator: "Separator"
- ZYGERRIAN_auctioneer: "Auctioneer"
- ZYGERRIAN_first_pick: "First Pick"
- ZYGERRIAN_whelper: "Whelper"
- ZYGERRIAN_subjugator: "Subjugator"
- ZYGERRIAN_name_giver: "Name Giver"
- ZYGERRIAN_whipping_post: "Whipping Post"
- ZYGERRIAN_serf_watcher: "Serf Watcher"
- ZYGERRIAN_back_striper: "Back Striper"
- ZYGERRIAN_slave_catcher: "Slave Catcher"
- ZYGERRIAN_enslaver: "Enslaver"
- ZYGERRIAN_slavemaker: "Slavemaker"
- ZYGERRIAN_overseer: "Overseer"
- ZYGERRIAN_mongrel_s_lash: "Mongrel's Lash"
- ZYGERRIAN_lashbearer: "Lashbearer"
- ZYGERRIAN_scarlet_scourge: "Scarlet Scourge"
- ZYGERRIAN_flagellant: "Flagellant"
- ZYGERRIAN_strapper: "Strapper"
- ZYGERRIAN_bloody_ruin: "Bloody Ruin"
- ZYGERRIAN_only_choice: "Only Choice"
- ZYGERRIAN_scourge_queen: "Scourge Queen"
- ZYGERRIAN_ninth_tail: "Ninth Tail"
- ZYGERRIAN_dominator: "Dominator"
- ZYGERRIAN_taskmaster: "Taskmaster"
- ZYGERRIAN_taskmistress: "Taskmistress"
- ZYGERRIAN_disciplinarian: "Disciplinarian"
- ZYGERRIAN_discipliner: "Discipliner"
- ZYGERRIAN_stickler: "Stickler"
- ZYGERRIAN_wind_of_zygerria: "Wind of Zygerria"
- ZYGERRIAN_red_hand: "Red Hand"
- ZYGERRIAN_brander: "Brander"
- ZYGERRIAN_chattel_watcher: "Chattel Watcher"
- ZYGERRIAN_disenfranchiser: "Disenfranchiser"
- ZYGERRIAN_hierarch: "Hierarch"
- ZYGERRIAN_middle_passage: "Middle Passage"
- ZYGERRIAN_oppressor: "Oppressor"
- ZYGERRIAN_segregator: "Segregator"
- ZYGERRIAN_subordinator: "Subordinator"
- ZYGERRIAN_voyager: "Voyager"
- ZYGERRIAN_zong: "Zong"
- ZYGERRIAN_flayer: "Flayer"
- ZYGERRIAN_excoriator: "Excoriator"
- ZYGERRIAN_terrorizer: "Terrorizer"
- ZYGERRIAN_choiceless: "Choiceless"
- ZYGERRIAN_hopeless: "Hopeless"
- ZYGERRIAN_taker: "Taker"
- ZYGERRIAN_zygerria_s_due: "Zygerria's Due"
- ZYGERRIAN_mantracker: "Mantracker"
- ZYGERRIAN_dominant: "Dominant"
- ZYGERRIAN_alpha: "Alpha"
- ZYGERRIAN_silverback: "Silverback"
- ZYGERRIAN_snatcher: "Snatcher"
- ZYGERRIAN_pound_of_flesh: "Pound of Flesh"
- ZYGERRIAN_undertaker: "Undertaker"
- ZYGERRIAN_grave_warden: "Grave Warden"
- ZYGERRIAN_chain_maker: "Chain Maker"
- ZYGERRIAN_shackler: "Shackler"
- ZYGERRIAN_gouger: "Gouger"
- ZYGERRIAN_pursuer: "Pursuer"
- ZYGERRIAN_gaoler: "Gaoler"
- ZYGERRIAN_stalker: "Stalker"
- ZYGERRIAN_trapper: "Trapper"
- ZYGERRIAN_huntsman: "Huntsman"
- ZYGERRIAN_chaser: "Chaser"
- ZYGERRIAN_flusher: "Flusher"
- ZYGERRIAN_hunter: "Hunter"
- ZYGERRIAN_hounding_one: "Hounding One"
- ZYGERRIAN_broodmare: "Broodmare"
- ZYGERRIAN_leash_holder: "Leash Holder"
- ZYGERRIAN_lasher: "Lasher"
- ZYGERRIAN_collared_king: "Collared King"
- ZYGERRIAN_slavekin: "Slavekin"
- ZYGERRIAN_painful_lesson: "Painful Lesson"
- ZYGERRIAN_restrainer: "Restrainer"
- ZYGERRIAN_controller: "Controller"
- ZYGERRIAN_chain_algernon: "Chain of Algernon"
- ZYGERRIAN_roper: "Roper"
- ZYGERRIAN_suppressor: "Suppressor"
- ZYGERRIAN_hamperer: "Hamperer"
- ZYGERRIAN_thunder_kit: "Thunder Kit"
- ZYGERRIAN_powerless: "Powerless"
- ZYGERRIAN_weeper: "Weeper"
- ZYGERRIAN_screamer: "Screamer"
- ZYGERRIAN_wicked: "Wicked"
- ZYGERRIAN_malignant: "Malignant"
- ZYGERRIAN_natural_order: "Natural Order"
- ZYGERRIAN_ruiner: "Ruiner"
- ZYGERRIAN_damane: "Damane"
- ZYGERRIAN_salt_wife: "Salt-Wife"
- ZYGERRIAN_taken: "Taken"
- ZYGERRIAN_downfall: "Downfall"
- ZYGERRIAN_fallen_one: "Fallen One"
- ZYGERRIAN_tear_drop: "Tear Drop"
- ZYGERRIAN_slave_hewer: "Slave Hewer"
- ZYGERRIAN_belt_hand: "Belt Hand"
- ZYGERRIAN_master: "Master"
- ZYGERRIAN_flogger: "Flogger"
- ZYGERRIAN_hide_tanner: "Hide Tanner"
- ZYGERRIAN_thrasher: "Thrasher"
- ZYGERRIAN_cancer: "Cancer"
- ZYGERRIAN_mortuary: "Mortuary"
- ZYGERRIAN_morbid: "Morbid"
- ZYGERRIAN_sadist: "Sadist"
- ZYGERRIAN_owner: "Owner"
- ZYGERRIAN_locust: "Locust"
- ZYGERRIAN_pillager: "Pillager"
- ZYGERRIAN_lady_of_raids: "Lady of Raids"
- ZYGERRIAN_barbarous: "Barbarous"
- ZYGERRIAN_corsair: "Corsair"
- ZYGERRIAN_brass_bull: "Brass Bull"
- ZYGERRIAN_victimizer: "Victimizer"
- ZYGERRIAN_suffocant: "Suffocant"
- ZYGERRIAN_repellant: "Repellant"
- ZYGERRIAN_second_cull: "Second Cull"
- ZYGERRIAN_brezak: "Brezak"
- ZYGERRIAN_doom_of_guandura: "Doom of Guandura"
- ZYGERRIAN_occupier: "Occupier"
- ZYGERRIAN_harasser: "Harasser"
- ZYGERRIAN_tormentor: "Tormentor"
- ZYGERRIAN_persecutor: "Persecutor"
- ZYGERRIAN_cruel_fate: "Cruel Fate"
- ZYGERRIAN_tracker: "Tracker"
- ZYGERRIAN_ruin_of_ryloth: "Ruin of Ryloth"
- ZYGERRIAN_binding_light: "Binding Light"
- ZYGERRIAN_manhunt: "Manhunt"
- ZYGERRIAN_inflicter: "Inflicter"
- ZYGERRIAN_nemesis: "Nemesis"
- ZYGERRIAN_abuser: "Abuser"
- ZYGERRIAN_grappler: "Grappler"
- ZYGERRIAN_bondage: "Bondage"
- ZYGERRIAN_inescapable: "Inescapable"
- ZYGERRIAN_imminent: "Imminent"
- ZYGERRIAN_compeller: "Compeller"
- ZYGERRIAN_compulsory: "Compulsory"
- ZYGERRIAN_foregone: "Foregone"
- ZYGERRIAN_menace: "Menace"
- ZYGERRIAN_splinterer: "Splinterer"
- ZYGERRIAN_outfoxed: "Outfoxed"
- ZYGERRIAN_molec: "Molec"
- ZYGERRIAN_scintel: "Scintel"
- ZYGERRIAN_gemen: "Gemen"
- ZYGERRIAN_faith_of_d_nar: "Faith of D'Nar"
- ZYGERRIAN_m_rch_s_targe: "M'rch's Targe"
- ZYGERRIAN_thanda: "Thanda"
- ZYGERRIAN_scourge: "Scourge"
- ZYGERRIAN_listehol: "Listehol"
- ZYGERRIAN_armin: "Armin"
- ZYGERRIAN_pr_ollerg: "Pr'ollerg"
- ZYGERRIAN_tynemark: "Tynemark"
- ZYGERRIAN_tecora: "Tecora"
- ZYGERRIAN_lek_snapper: "Lek-Snapper"
- ZYGERRIAN_cannibal: "Cannibal"
- ZYGERRIAN_apex: "Apex"
- ZYGERRIAN_pinnacle: "Pinnacle"
- ZYGERRIAN_undisputed: "Undisputed"
- ZYGERRIAN_fleshmonger: "Fleshmonger"
- ZYGERRIAN_hand_taker: "Hand Taker"
- ZYGERRIAN_servus_custode: "Servus Custode"
- ZYGERRIAN_desolator: "Desolator"
- ZYGERRIAN_decimator: "Decimator"
- ZYGERRIAN_punishment: "Punishment"
- ZYGERRIAN_punisher: "Punisher"
- ZYGERRIAN_collective_p: "Collective Punishment"
- ZYGERRIAN_torturer: "Torturer"
- ZYGERRIAN_bondmaker: "Bondmaker"
- ZYGERRIAN_longfang: "Longfang"
- ZYGERRIAN_howler: "Howler"
- ZYGERRIAN_yowler: "Yowler"
- ZYGERRIAN_burdener: "Burdener"
- ZYGERRIAN_possessor: "Possessor"
- ZYGERRIAN_retribution: "Retribution"
- ZYGERRIAN_harsh_truth: "Harsh Truth"
- ZYGERRIAN_first_warning: "First Warning"
- ZYGERRIAN_reaver: "Reaver"
- ZYGERRIAN_marauder: "Marauder"
- ZYGERRIAN_void_wolf: "Void Wolf"
- ZYGERRIAN_void_rat: "Void Rat"
- ZYGERRIAN_plunderer: "Plunderer"
- ZYGERRIAN_quarterer: "Quarterer"
- ZYGERRIAN_gallows: "Gallows"
- ZYGERRIAN_antagonizer: "Antagonizer"
- ZYGERRIAN_encager: "Encager"
- ZYGERRIAN_fated_cage: "Fated Cage"
- ZYGERRIAN_iron_cell: "Iron Cell"
- ZYGERRIAN_cagebringer: "Cagebringer"
- ZYGERRIAN_confinement: "Confinement"
- ZYGERRIAN_imprisoner: "Imprisoner"
- ZYGERRIAN_mourner: "Mourner"
- ZYGERRIAN_violator: "Violator"
- ZYGERRIAN_detainer: "Detainer"
- ZYGERRIAN_exploiter: "Exploiter"
- ZYGERRIAN_poacher: "Poacher"
- ZYGERRIAN_handler: "Handler"
- ZYGERRIAN_constrainer: "Constrainer"
- ZYGERRIAN_constrictor: "Constrictor"
- ZYGERRIAN_strangler: "Strangler"
- ZYGERRIAN_iron_bridle: "Iron Bridle"
- ZYGERRIAN_arago: "Arago"
- ZYGERRIAN_rabid: "Rabid"
- ZYGERRIAN_mudhorn: "Mudhorn"
- ZYGERRIAN_flurry_of_bolts: "Flurry of Bolts"
- ZYGERRIAN_dirty_kick: "Dirty Kick"
- ZYGERRIAN_vital_shot: "Vital Shot"
- ZYGERRIAN_quick_shot: "Quick Shot"
- ZYGERRIAN_all_in: "All In"
- ZYGERRIAN_eagle_5: "Eagle 5"
- ZYGERRIAN_lucky_dodge: "Lucky Dodge"
- ZYGERRIAN_shoot_first: "Shoot First"
- ZYGERRIAN_nice_try: "Nice Try"
- ZYGERRIAN_open_wound: "Open Wound"
- ZYGERRIAN_mortal_wound: "Mortal Wound"
- ZYGERRIAN_dirty_trickster: "Dirty Trickster"
- ZYGERRIAN_feelin__woozy: "Feelin' Woozy"
- ZYGERRIAN_sneaky: "Sneaky"
- ZYGERRIAN_scrappy: "Scrappy"
- ZYGERRIAN_shifty_eyed: "Shifty-Eyed"
- ZYGERRIAN_fight_or_flight: "Fight or Flight"
- ZYGERRIAN_slippery_devil: "Slippery Devil"
- ZYGERRIAN_rolling_punches: "Rolling Punches"
- ZYGERRIAN_surprise_come: "Surprise Comeback"
- ZYGERRIAN_round_two: "Round Two"
- ZYGERRIAN_stopping_power: "Stopping Power"
- ZYGERRIAN_brawler_s_gift: "Brawler's Gift"
- ZYGERRIAN_survivor_s_scars: "Survivor's Scars"
- ZYGERRIAN_elemen_surprise: "Element of Surprise"
- ZYGERRIAN_browbeat: "Browbeat"
- ZYGERRIAN_keep_cool: "Keep Cool"
- ZYGERRIAN_scramble: "Scramble"
- ZYGERRIAN_hunter_s_boon: "Hunter's Boon"
- ZYGERRIAN_rocket_punch: "Rocket Punch"
- ZYGERRIAN_rail_shot: "Rail Shot"
- ZYGERRIAN_death_from_above: "Death From Above"
- ZYGERRIAN_determination: "Determination"
- ZYGERRIAN_on_the_trail: "On The Trail"
- ZYGERRIAN_crescent: "Crescent"
- ZYGERRIAN_diligent: "Diligent"
- ZYGERRIAN_zephyr: "Zephyr"
- ZYGERRIAN_enigma: "Enigma"
- ZYGERRIAN_enquirer: "Enquirer"
- ZYGERRIAN_scylla: "Scylla"
- ZYGERRIAN_arbiter: "Arbiter"
- ZYGERRIAN_asperity: "Asperity"
- ZYGERRIAN_eminence: "Eminence"
- ZYGERRIAN_astute: "Astute"
- ZYGERRIAN_alacrity: "Alacrity"
- ZYGERRIAN_satyr: "Satyr"
- ZYGERRIAN_prospero: "Prospero"
- ZYGERRIAN_untiring: "Untiring"
- ZYGERRIAN_zenith: "Zenith"
- ZYGERRIAN_torch: "Torch"
- ZYGERRIAN_remembrance: "Remembrance"
- ZYGERRIAN_pilgrim: "Pilgrim"
- ZYGERRIAN_trailblazer: "Trailblazer"
- ZYGERRIAN_vagabond: "Vagabond"
- ZYGERRIAN_wayfarer: "Wayfarer"
- ZYGERRIAN_ambassador: "Ambassador"
- ZYGERRIAN_emissary: "Emissary"
- ZYGERRIAN_nomad: "Nomad"
- ZYGERRIAN_pathfinder: "Pathfinder"
- ZYGERRIAN_wanderer: "Wanderer"
- ZYGERRIAN_traveler: "Traveler"
- ZYGERRIAN_godspeed: "Godspeed"
- ZYGERRIAN_prophecy: "Prophecy"
- ZYGERRIAN_manifest_destiny: "Manifest Destiny"
- ZYGERRIAN_virtue: "Virtue"
- ZYGERRIAN_potential: "Potential"
- ZYGERRIAN_expansion: "Expansion"
- ZYGERRIAN_queenly_spirit: "Queenly Spirit"
- ZYGERRIAN_prosperity: "Prosperity"
- ZYGERRIAN_summit: "Summit"
- ZYGERRIAN_seeder: "Seeder"
- ZYGERRIAN_harvest: "Harvest"
- ZYGERRIAN_creator: "Creator"
- ZYGERRIAN_beholder: "Beholder"
- ZYGERRIAN_exodus: "Exodus"
- ZYGERRIAN_foundation: "Foundation"
- ZYGERRIAN_scion: "Scion"
- ZYGERRIAN_progeny: "Progeny"
- ZYGERRIAN_obligation: "Obligation"
- ZYGERRIAN_purpose: "Purpose"
- ZYGERRIAN_provider: "Provider"
- ZYGERRIAN_shining_city: "Shining City"
- ZYGERRIAN_acquirer: "Acquirer"
- ZYGERRIAN_cultivator: "Cultivator"
- ZYGERRIAN_dawn_of_civ: "Dawn of Civilization"
- ZYGERRIAN_purity: "Purity"
- ZYGERRIAN_community: "Community"
- ZYGERRIAN_brotherhood: "Brotherhood"
- ZYGERRIAN_pioneer_spirit: "Pioneer Spirit"
- ZYGERRIAN_industry: "Industry"
- ZYGERRIAN_helot: "Helot"
- ZYGERRIAN_serf: "Serf"
- ZYGERRIAN_laborer: "Laborer"
- ZYGERRIAN_builder: "Builder"
- ZYGERRIAN_craftsman: "Craftsman"
- ZYGERRIAN_peasant: "Peasant"
- ZYGERRIAN_engineer: "Engineer"
- ZYGERRIAN_promise: "Promise"
- ZYGERRIAN_service: "Service"
- ZYGERRIAN_shelter: "Shelter"
- ZYGERRIAN_beast: "Beast"
- ZYGERRIAN_developer: "Developer"
- ZYGERRIAN_forger: "Forger"
- ZYGERRIAN_foundry: "Foundry"
- ZYGERRIAN_factory: "Factory"
- ZYGERRIAN_anvil: "Anvil"
- ZYGERRIAN_pillar: "Pillar"
- ZYGERRIAN_architect: "Architect"
- ZYGERRIAN_accommodator: "Accommodator"
- ZYGERRIAN_servantaurek: "Servant Unit Aurek"
- ZYGERRIAN_servantbesh: "Servant Unit Besh"
- ZYGERRIAN_servantcresh: "Servant Unit Cresh"
- ZYGERRIAN_servantdorn: "Servant Unit Dorn"
- ZYGERRIAN_servantforn: "Servant Unit Forn"
- ZYGERRIAN_servantgrek: "Servant Unit Grek"
- ZYGERRIAN_servantherf: "Servant Unit Herf"
- ZYGERRIAN_servantisk: "Servant Unit Isk"
- ZYGERRIAN_servantjenth: "Servant Unit Jenth"
- ZYGERRIAN_servantkrill: "Servant Unit Krill"
- ZYGERRIAN_servantleth: "Servant Unit Leth"
- ZYGERRIAN_servantmern: "Servant Unit Mern"
- ZYGERRIAN_servantnern: "Servant Unit Nern"
- ZYGERRIAN_servantosk: "Servant Unit Osk"
- ZYGERRIAN_servantpeth: "Servant Unit Peth"
- ZYGERRIAN_servantsenth: "Servant Unit Senth"
- ZYGERRIAN_servanttrill: "Servant Unit Trill"
- ZYGERRIAN_servantusk: "Servant Unit Usk"
- ZYGERRIAN_servantvev: "Servant Unit Vev"
- ZYGERRIAN_servantwesk: "Servant Unit Wesk"
- ZYGERRIAN_servantxesh: "Servant Unit Xesh"
- ZYGERRIAN_servantyirt: "Servant Unit Yirt"
- ZYGERRIAN_servantzerek: "Servant Unit Zerek"
- ZYGERRIAN_servantcherek: "Servant Unit Cherek"
- ZYGERRIAN_servantqek: "Servant Unit Qek"
- ZYGERRIAN_servantresh: "Servant Unit Resh"
- ZYGERRIAN_servantenth: "Servant Unit Enth"
- ZYGERRIAN_servantonith: "Servant Unit Onith"
- ZYGERRIAN_servantkrenth: "Servant Unit Krenth"
- ZYGERRIAN_servantnen: "Servant Unit Nen"
- ZYGERRIAN_servantorenth: "Servant Unit Orenth"
- ZYGERRIAN_servantshen: "Servant Unit Shen"
- ZYGERRIAN_servantthesh: "Servant Unit Thesh"
- ZYGERRIAN_landing_craft: "Landing Craft"
- ZYGERRIAN_citadel: "Citadel"
- ZYGERRIAN_savage: "Savage"
- ZYGERRIAN_gateway: "Gateway"
- ZYGERRIAN_watchpost: "Watchpost"
- ZYGERRIAN_tower: "Tower"
- ZYGERRIAN_garrison: "Garrison"
- ZYGERRIAN_paraphet: "Paraphet"
- ZYGERRIAN_manbroke: "Manbroke"
- ZYGERRIAN_severed: "Severed"
- ZYGERRIAN_spithead: "Spithead"
- ZYGERRIAN_spiteful: "Spiteful"
- ZYGERRIAN_royal: "Royal"
- ZYGERRIAN_oulsbo: "Oulsbo"
- ZYGERRIAN_liverlet: "Liverlet"
- ZYGERRIAN_void_flow: "Void Flow"
- ZYGERRIAN_starlight_roads: "Starlight Roads"
- ZYGERRIAN_stardust: "Stardust"
- ZYGERRIAN_wails: "Wails"
- ZYGERRIAN_mournharbor: "Mournharbor"
- ZYGERRIAN_blackwatch: "Blackwatch"
- ZYGERRIAN_tyrant_s_view: "Tyrant's View"
- ZYGERRIAN_blockhouse: "Blockhouse"
- ZYGERRIAN_jepooni: "Jepooni"
- ZYGERRIAN_tahala: "Tahala"
- ZYGERRIAN_kilitwijaro: "Kilitwijaro"
- ZYGERRIAN_awroot: "Awroot"
- ZYGERRIAN_eberet: "Eberet"
- ZYGERRIAN_champion_hall: "Champion Hall"
- ZYGERRIAN_fujett: "Fujett"
- ZYGERRIAN_poeympus: "Poeympus"
- ZYGERRIAN_sinal: "Sinal"
- ZYGERRIAN_roseamb: "Roseamb"
- ZYGERRIAN_roombar: "Roombar"
- ZYGERRIAN_farpoint: "Farpoint"
- ZYGERRIAN_red_star: "Red Star"
- ZYGERRIAN_mount_forlorn: "Mount Forlorn"
- ZYGERRIAN_tharsis: "Tharsis"
- ZYGERRIAN_syrial: "Syrial"
- ZYGERRIAN_redhett: "Redhett"
- ZYGERRIAN_bowyer: "Bowyer"
- ZYGERRIAN_perrit: "Perrit"
- ZYGERRIAN_kovabro: "Kovabro"
- ZYGERRIAN_moorete: "Moorete"
- ZYGERRIAN_moorsom: "Moorsom"
- ZYGERRIAN_heartrend: "Heartrend"
- ZYGERRIAN_grey_gables: "Grey Gables"
- ZYGERRIAN_takala: "Takala"
- ZYGERRIAN_tanaka: "Tanaka"
- ZYGERRIAN_tojoro: "Tojoro"
- ZYGERRIAN_miranda: "Miranda"
- ZYGERRIAN_hootsport: "Hootsport"
- ZYGERRIAN_kimicum: "Kimicum"
- ZYGERRIAN_sklallam: "Sklallam"
- ZYGERRIAN_brettbridge: "Brettbridge"
- ZYGERRIAN_hipalla: "Hipalla"
- ZYGERRIAN_votalia: "Votalia"
- ZYGERRIAN_poremkon: "Poremkon"
- ZYGERRIAN_zarana: "Zarana"
- ZYGERRIAN_hyattskill: "Hyattskill"
- ZYGERRIAN_vilne: "Vilne"
- ZYGERRIAN_foreyla: "Foreyla"
- ZYGERRIAN_tefle: "Tefle"
- ZYGERRIAN_hawke: "Hawke"
- ZYGERRIAN_hermakk: "Hermakk"
- ZYGERRIAN_half_pound: "Half Pound"
- ZYGERRIAN_king: "King"
- ZYGERRIAN_queen: "Queen"
- ZYGERRIAN_empress: "Empress"
- ZYGERRIAN_crown: "Crown"
- ZYGERRIAN_chichian: "Chichian"
- ZYGERRIAN_essen: "Essen"
- ZYGERRIAN_kornilov: "Kornilov"
- ZYGERRIAN_monarch: "Monarch"
- ZYGERRIAN_triville: "Triville"
- ZYGERRIAN_vohort: "Vohort"
- ZYGERRIAN_suppro: "Suppro"
- ZYGERRIAN_gambitin: "Gambitin"
- ZYGERRIAN_lezzovo: "Lezzovo"
- ZYGERRIAN_bombard: "Bombard"
- ZYGERRIAN_ballista: "Ballista"
- ZYGERRIAN_catapult: "Catapult"
- ZYGERRIAN_harpoon: "Harpoon"
- ZYGERRIAN_polybolos: "Polybolos"
- ZYGERRIAN_culverin: "Culverin"
- ZYGERRIAN_FLEET_rapid_strike_fleet: "Rapid Strike Fleet"
- ZYGERRIAN_FLEET_forward_defense_fleet: "Forward Defense Fleet"
- ZYGERRIAN_FLEET_SEQUENTIAL_enslaving_fleet: "$ORD$ Enslaving Fleet"
- ZYGERRIAN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard"
- ZYGERRIAN_ARMY_SEQUENTIAL_raid_pack: "$ORD$ Raid Pack"
- ZYGERRIAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- ZYGERRIAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- ZYGERRIAN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- ZYGERRIAN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- ZYGERRIAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- ZYGERRIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- ZYGERRIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- ZYGERRIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- ZYGERRIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- ZYGERRIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- ZYGERRIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- ZYGERRIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- ZYGERRIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- ZYGERRIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- ZYGERRIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- ZYGERRIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- ZYGERRIAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- ZYGERRIAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- ZYGERRIAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- ZYGERRIAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- ZYGERRIAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- ZYGERRIAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- ZYGERRIAN_CHR_agruss: "Agruss"
- ZYGERRIAN_CHR_kadavo: "Kadavo"
- ZYGERRIAN_CHR_rajim: "Rajim"
- ZYGERRIAN_CHR_darts: "Darts"
- ZYGERRIAN_CHR_farzala: "Farzala"
- ZYGERRIAN_CHR_ikis: "Ikis"
- ZYGERRIAN_CHR_ingan: "Ingan"
- ZYGERRIAN_CHR_jorec: "Jorec"
- ZYGERRIAN_CHR_atai: "Atai"
- ZYGERRIAN_CHR_sono: "Sono"
- ZYGERRIAN_CHR_omus: "Omus"
- ZYGERRIAN_CHR_m_rch: "M'rch"
- ZYGERRIAN_CHR_mard: "Mard"
- ZYGERRIAN_CHR_hordem: "Hordem"
- ZYGERRIAN_CHR_oksan: "Oksan"
- ZYGERRIAN_CHR_onyx: "Onyx"
- ZYGERRIAN_CHR_scroon: "Scroon"
- ZYGERRIAN_CHR_slego: "Slego"
- ZYGERRIAN_CHR_teek: "Teek"
- ZYGERRIAN_CHR_atlee: "Atlee"
- ZYGERRIAN_CHR_marko: "Marko"
- ZYGERRIAN_CHR_zolghast: "Zolghast"
- ZYGERRIAN_CHR_strata: "Strata"
- ZYGERRIAN_CHR_lancer: "Lancer"
- ZYGERRIAN_CHR_zeak: "Zeak"
- ZYGERRIAN_CHR_niuk: "Niuk"
- ZYGERRIAN_CHR_lavidean: "Lavidean"
- ZYGERRIAN_CHR_tanizandar: "Tanizandar"
- ZYGERRIAN_CHR_japla: "Japla"
- ZYGERRIAN_CHR_aran: "Aran"
- ZYGERRIAN_CHR_rail: "Rail"
- ZYGERRIAN_CHR_zeven: "Zeven"
- ZYGERRIAN_CHR_yakown: "Yakown"
- ZYGERRIAN_CHR_sibar: "Sibar"
- ZYGERRIAN_CHR_sair: "Sair"
- ZYGERRIAN_CHR_klai: "Klai"
- ZYGERRIAN_CHR_jonal: "Jonal"
- ZYGERRIAN_CHR_imay: "Imay"
- ZYGERRIAN_CHR_traest: "Traest"
- ZYGERRIAN_CHR_simo: "Simo"
- ZYGERRIAN_CHR_kareth: "Kareth"
- ZYGERRIAN_CHR_riyan: "Riyan"
- ZYGERRIAN_CHR_maynus: "Maynus"
- ZYGERRIAN_CHR_boceta: "Boceta"
- ZYGERRIAN_CHR_agnook: "Agnook"
- ZYGERRIAN_CHR_silus: "Silus"
- ZYGERRIAN_CHR_rowan: "Rowan"
- ZYGERRIAN_CHR_coren: "Coren"
- ZYGERRIAN_CHR_jett: "Jett"
- ZYGERRIAN_CHR_linth: "Linth"
- ZYGERRIAN_CHR_annok: "Annok"
- ZYGERRIAN_CHR_ulas: "Ulas"
- ZYGERRIAN_CHR_fenn: "Fenn"
- ZYGERRIAN_CHR_tal: "Tal"
- ZYGERRIAN_CHR_vrok: "Vrok"
- ZYGERRIAN_CHR_torin: "Torin"
- ZYGERRIAN_CHR_boone: "Boone"
- ZYGERRIAN_CHR_davith: "Davith"
- ZYGERRIAN_CHR_jorgen: "Jorgen"
- ZYGERRIAN_CHR_bertos: "Bertos"
- ZYGERRIAN_CHR_ress: "Ress"
- ZYGERRIAN_CHR_malius: "Malius"
- ZYGERRIAN_CHR_kale: "Kale"
- ZYGERRIAN_CHR_cregan: "Cregan"
- ZYGERRIAN_CHR_galavo: "Galavo"
- ZYGERRIAN_CHR_zerk: "Zerk"
- ZYGERRIAN_CHR_jinn_tu: "Jinn-Tu"
- ZYGERRIAN_CHR_jaryn: "Jaryn"
- ZYGERRIAN_CHR_gentti: "Gentti"
- ZYGERRIAN_CHR_yu_sien: "Yu-Sien"
- ZYGERRIAN_CHR_akela: "Akela"
- ZYGERRIAN_CHR_arslan: "Arslan"
- ZYGERRIAN_CHR_sidias: "Sidias"
- ZYGERRIAN_CHR_haken: "Haken"
- ZYGERRIAN_CHR_biran: "Biran"
- ZYGERRIAN_CHR_vidown: "Vidown"
- ZYGERRIAN_CHR_arejala: "Arejala"
- ZYGERRIAN_CHR_ithan: "Ithan"
- ZYGERRIAN_CHR_cul_utaan: "Cul-utaan"
- ZYGERRIAN_CHR_thoja: "Thoja"
- ZYGERRIAN_CHR_cron: "Cron"
- ZYGERRIAN_CHR_mossi: "Mossi"
- ZYGERRIAN_CHR_abric: "Abric"
- ZYGERRIAN_CHR_darg: "Darg"
- ZYGERRIAN_CHR_gaman: "Gaman"
- ZYGERRIAN_CHR_naiad: "Naiad"
- ZYGERRIAN_CHR_herub: "Herub"
- ZYGERRIAN_CHR_marius: "Marius"
- ZYGERRIAN_CHR_torkin: "Torkin"
- ZYGERRIAN_CHR_caton: "Caton"
- ZYGERRIAN_CHR_kane: "Kane"
- ZYGERRIAN_CHR_versita: "Versita"
- ZYGERRIAN_CHR_cric: "Cric"
- ZYGERRIAN_CHR_foxdi: "Foxdi"
- ZYGERRIAN_CHR_montacca: "Montacca"
- ZYGERRIAN_CHR_jospi: "Jospi"
- ZYGERRIAN_CHR_baz: "Baz"
- ZYGERRIAN_CHR_kam: "Kam"
- ZYGERRIAN_CHR_erek: "Erek"
- ZYGERRIAN_CHR_lerak: "Lerak"
- ZYGERRIAN_CHR_morla: "Morla"
- ZYGERRIAN_CHR_baxter: "Baxter"
- ZYGERRIAN_CHR_talan: "Talan"
- ZYGERRIAN_CHR_thion: "Thion"
- ZYGERRIAN_CHR_kannon: "Kannon"
- ZYGERRIAN_CHR_salir: "Salir"
- ZYGERRIAN_CHR_caster: "Caster"
- ZYGERRIAN_CHR_elden: "Elden"
- ZYGERRIAN_CHR_faelgrom: "Faelgrom"
- ZYGERRIAN_CHR_jorwoo: "Jorwoo"
- ZYGERRIAN_CHR_raltharan: "Raltharan"
- ZYGERRIAN_CHR_flash: "Flash"
- ZYGERRIAN_CHR_waseem: "Waseem"
- ZYGERRIAN_CHR_bendak: "Bendak"
- ZYGERRIAN_CHR_kaz: "Kaz"
- ZYGERRIAN_CHR_montileu: "Montileu"
- ZYGERRIAN_CHR_gonoga: "Gonoga"
- ZYGERRIAN_CHR_galven: "Galven"
- ZYGERRIAN_CHR_vincenzo: "Vincenzo"
- ZYGERRIAN_CHR_ric: "Ric"
- ZYGERRIAN_CHR_rebar: "Rebar"
- ZYGERRIAN_CHR_jebediah: "Jebediah"
- ZYGERRIAN_CHR_aramil: "Aramil"
- ZYGERRIAN_CHR_abraxis: "Abraxis"
- ZYGERRIAN_CHR_delmi: "Delmi"
- ZYGERRIAN_CHR_caalin: "Caalin"
- ZYGERRIAN_CHR_rassth: "Rassth"
- ZYGERRIAN_CHR_adorn: "Adorn"
- ZYGERRIAN_CHR_syrus: "Syrus"
- ZYGERRIAN_CHR_zhar_khan: "Zhar-Khan"
- ZYGERRIAN_CHR_adam: "Adam"
- ZYGERRIAN_CHR_predor: "Predor"
- ZYGERRIAN_CHR_tarlson: "Tarlson"
- ZYGERRIAN_CHR_boaz: "Boaz"
- ZYGERRIAN_CHR_ingtar: "Ingtar"
- ZYGERRIAN_CHR_gunn: "Gunn"
- ZYGERRIAN_CHR_zerrid: "Zerrid"
- ZYGERRIAN_CHR_bobecc: "Bobecc"
- ZYGERRIAN_CHR_jelantos: "Jelantos"
- ZYGERRIAN_CHR_jephego: "Jephego"
- ZYGERRIAN_CHR_svante: "Svante"
- ZYGERRIAN_CHR_tesvalo: "Tesvalo"
- ZYGERRIAN_CHR_aeon: "Aeon"
- ZYGERRIAN_CHR_dekar: "Dekar"
- ZYGERRIAN_CHR_morech: "Morech"
- ZYGERRIAN_CHR_melinjar: "Melinjar"
- ZYGERRIAN_CHR_myt: "Myt"
- ZYGERRIAN_CHR_murek: "Murek"
- ZYGERRIAN_CHR_miraj: "Miraj"
- ZYGERRIAN_CHR_madall: "MaDall"
- ZYGERRIAN_CHR_hask: "Hask"
- ZYGERRIAN_CHR_tosan: "Tosan"
- ZYGERRIAN_CHR_mara: "Mara"
- ZYGERRIAN_CHR_seena: "Seena"
- ZYGERRIAN_CHR_areta: "Areta"
- ZYGERRIAN_CHR_cord: "Cord"
- ZYGERRIAN_CHR_cyrinity: "Cyrinity"
- ZYGERRIAN_CHR_nile: "Nile"
- ZYGERRIAN_CHR_kiyfi: "Kiyfi"
- ZYGERRIAN_CHR_masera: "Masera"
- ZYGERRIAN_CHR_satra: "Satra"
- ZYGERRIAN_CHR_shehish: "Shehish"
- ZYGERRIAN_CHR_sarna: "Sarna"
- ZYGERRIAN_CHR_krava: "Krava"
- ZYGERRIAN_CHR_roxis: "Roxis"
- ZYGERRIAN_CHR_zarana: "Zarana"
- ZYGERRIAN_CHR_aqua: "Aqua"
- ZYGERRIAN_CHR_maryna: "Maryna"
- ZYGERRIAN_CHR_essaj: "Essaj"
- ZYGERRIAN_CHR_looriw: "Looriw"
- ZYGERRIAN_CHR_teeana: "Teeana"
- ZYGERRIAN_CHR_raena: "Raena"
- ZYGERRIAN_CHR_yula: "Yula"
- ZYGERRIAN_CHR_vifi: "Vifi"
- ZYGERRIAN_CHR_vania: "Vania"
- ZYGERRIAN_CHR_jeanida: "Jeanida"
- ZYGERRIAN_CHR_aerena: "Aerena"
- ZYGERRIAN_CHR_nataya: "Nataya"
- ZYGERRIAN_CHR_bernarda: "Bernarda"
- ZYGERRIAN_CHR_geela: "Geela"
- ZYGERRIAN_CHR_lya: "Lya"
- ZYGERRIAN_CHR_sirra: "Sirra"
- ZYGERRIAN_CHR_teris: "Teris"
- ZYGERRIAN_CHR_terral: "Terral"
- ZYGERRIAN_CHR_nihla: "Nihla"
- ZYGERRIAN_CHR_riema: "Riema"
- ZYGERRIAN_CHR_erri: "Erri"
- ZYGERRIAN_CHR_shanna: "Shanna"
- ZYGERRIAN_CHR_lyra: "Lyra"
- ZYGERRIAN_CHR_pranda: "Pranda"
- ZYGERRIAN_CHR_valya: "Valya"
- ZYGERRIAN_CHR_cally: "Cally"
- ZYGERRIAN_CHR_viqi: "Viqi"
- ZYGERRIAN_CHR_hadriel: "Hadriel"
- ZYGERRIAN_CHR_lora: "Lora"
- ZYGERRIAN_CHR_selena: "Selena"
- ZYGERRIAN_CHR_zana: "Zana"
- ZYGERRIAN_CHR_tuija: "Tuija"
- ZYGERRIAN_CHR_railin: "Railin"
- ZYGERRIAN_CHR_odona: "Odona"
- ZYGERRIAN_CHR_shyon: "Shyon"
- ZYGERRIAN_CHR_walas: "Walas"
- ZYGERRIAN_CHR_rylla: "Rylla"
- ZYGERRIAN_CHR_gara: "Gara"
- ZYGERRIAN_CHR_delos: "Delos"
- ZYGERRIAN_CHR_loretta: "Loretta"
- ZYGERRIAN_CHR_luhon: "Luhon"
- ZYGERRIAN_CHR_delinia: "Delinia"
- ZYGERRIAN_CHR_aama: "Aama"
- ZYGERRIAN_CHR_shorya: "Shorya"
- ZYGERRIAN_CHR_melfina: "Melfina"
- ZYGERRIAN_CHR_davessi: "Davessi"
- ZYGERRIAN_CHR_larana: "Larana"
- ZYGERRIAN_CHR_galatea: "Galatea"
- ZYGERRIAN_CHR_nola: "Nola"
- ZYGERRIAN_CHR_syna: "Syna"
- ZYGERRIAN_CHR_jauhzmynn: "Jauhzmynn"
- ZYGERRIAN_CHR_anen: "Anen"
- ZYGERRIAN_CHR_orona: "Orona"
- ZYGERRIAN_CHR_yana: "Yana"
- ZYGERRIAN_CHR_zoras: "Zoras"
- ZYGERRIAN_CHR_ree: "Ree"
- ZYGERRIAN_CHR_grace: "Grace"
- ZYGERRIAN_CHR_tantema: "Tantema"
- ZYGERRIAN_CHR_myn: "Myn"
- ZYGERRIAN_CHR_una: "Una"
- ZYGERRIAN_CHR_dalharil: "Dalharil"
- ZYGERRIAN_CHR_losa: "Losa"
- ZYGERRIAN_CHR_sovi: "Sovi"
- ZYGERRIAN_CHR_elaiza: "Elaiza"
- ZYGERRIAN_CHR_vucora: "Vucora"
- ZYGERRIAN_CHR_ava: "Ava"
- ZYGERRIAN_CHR_joi: "Joi"
- ZYGERRIAN_CHR_stryka: "Stryka"
- ZYGERRIAN_CHR_shandra: "Shandra"
- ZYGERRIAN_CHR_kely: "Kely"
- ZYGERRIAN_CHR_caileta: "Caileta"
- ZYGERRIAN_CHR_taia: "Taia"
- ZYGERRIAN_CHR_siala: "Siala"
- ZYGERRIAN_CHR_reki: "Reki"
- ZYGERRIAN_CHR_maydla: "Maydla"
- ZYGERRIAN_CHR_bota: "Bota"
- ZYGERRIAN_CHR_kiandra: "Kiandra"
- ZYGERRIAN_CHR_xilaren: "Xilaren"
- ZYGERRIAN_CHR_zulara: "Zulara"
- ZYGERRIAN_CHR_ren: "Ren"
- ZYGERRIAN_CHR_karissa: "Karissa"
- ZYGERRIAN_CHR_haruko: "Haruko"
- ZYGERRIAN_CHR_jenna: "Jenna"
- ZYGERRIAN_CHR_liana: "Liana"
- ZYGERRIAN_CHR_rale: "Rale"
- ZYGERRIAN_CHR_megala: "Megala"
- ZYGERRIAN_CHR_aria: "Aria"
- ZYGERRIAN_CHR_akiva: "Akiva"
- ZYGERRIAN_CHR_nalanna: "Nalanna"
- ZYGERRIAN_CHR_erlem: "Erlem"
- ZYGERRIAN_CHR_nali: "Nali"
- ZYGERRIAN_CHR_fallah: "Fallah"
- ZYGERRIAN_CHR_kotrana: "Kotrana"
- ZYGERRIAN_CHR_aayla: "Aayla"
- ZYGERRIAN_CHR_kalira: "Kalira"
- ZYGERRIAN_CHR_arani: "Arani"
- ZYGERRIAN_CHR_fama: "Fama"
- ZYGERRIAN_CHR_lyyr: "Lyyr"
- ZYGERRIAN_CHR_nomilla: "Nomilla"
- ZYGERRIAN_CHR_rane: "Rane"
- ZYGERRIAN_CHR_nayru: "Nayru"
- ZYGERRIAN_CHR_zylas: "Zylas"
- ZYGERRIAN_CHR_vexa: "Vexa"
- ZYGERRIAN_CHR_kana: "Kana"
- ZYGERRIAN_CHR_meru: "Meru"
- ZYGERRIAN_CHR_vardam: "Vardam"
- ZYGERRIAN_CHR_armin: "Armin"
- ZYGERRIAN_CHR_pr_ollerg: "Pr'ollerg"
- ZYGERRIAN_CHR_d_nar: "D'Nar"
- ZYGERRIAN_CHR_stane: "Stane"
- ZYGERRIAN_CHR_gemen: "Gemen"
- ZYGERRIAN_CHR_molec: "Molec"
- ZYGERRIAN_CHR_molec_ii: "Molec II"
- ZYGERRIAN_CHR_molec_iii: "Molec III"
- ZYGERRIAN_CHR_molec_iv: "Molec IV"
- ZYGERRIAN_CHR_scintel: "Scintel"
- ZYGERRIAN_CHR_krill: "Krill"
- ZYGERRIAN_CHR_tolla: "Tolla"
- ZYGERRIAN_CHR_daklan: "Daklan"
- ZYGERRIAN_CHR_taff: "Taff"
- ZYGERRIAN_CHR_thanda: "Thanda"
- ZYGERRIAN_CHR_thegas: "Thegas"
- ZYGERRIAN_CHR_tyne: "Tyne"
- ZYGERRIAN_CHR_holgor: "Holgor"
- ZYGERRIAN_CHR_ijaaz: "Ijaaz"
- ZYGERRIAN_CHR_acklej: "Acklej"
- ZYGERRIAN_CHR_sprax: "Sprax"
- ZYGERRIAN_CHR_knesos: "Knesos"
- ZYGERRIAN_CHR_throll_ek: "Throll'ek"
- ZYGERRIAN_CHR_lasek: "Lasek"
- ZYGERRIAN_CHR_artis: "Artis"
- ZYGERRIAN_CHR_paxiyen: "Paxiyen"
- ZYGERRIAN_CHR_corso: "Corso"
- ZYGERRIAN_CHR_fallon: "Fallon"
- ZYGERRIAN_CHR_gundo: "Gundo"
- ZYGERRIAN_CHR_ruana: "Ruana"
- ZYGERRIAN_CHR_fremlin: "Fremlin"
- ZYGERRIAN_CHR_thont: "Thont"
- ZYGERRIAN_CHR_creel: "Creel"
- ZYGERRIAN_CHR_rar: "Rar"
- ZYGERRIAN_CHR_dusat: "Dusat"
- ZYGERRIAN_CHR_kessek: "Kessek"
- ZYGERRIAN_CHR_redback: "Redback"
- ZYGERRIAN_CHR_al_theriam: "Al-Theriam"
- ZYGERRIAN_CHR_vanzeer: "VanZeer"
- ZYGERRIAN_CHR_vrieska: "Vrieska"
- ZYGERRIAN_CHR_calwhip: "Calwhip"
- ZYGERRIAN_CHR_yartok: "Yartok"
- ZYGERRIAN_CHR_yarous: "Yarous"
- ZYGERRIAN_CHR_brower: "Brower"
- ZYGERRIAN_CHR_fash: "Fash"
- ZYGERRIAN_CHR_nalto: "Nalto"
- ZYGERRIAN_CHR_stryder: "Stryder"
- ZYGERRIAN_CHR_stryken: "Stryken"
- ZYGERRIAN_CHR_kolek: "Kolek"
- ZYGERRIAN_CHR_velen: "Velen"
- ZYGERRIAN_CHR_solon: "Solon"
- ZYGERRIAN_CHR_merquise: "Merquise"
- ZYGERRIAN_CHR_varn: "Varn"
- ZYGERRIAN_CHR_basai: "Basai"
- ZYGERRIAN_CHR_froud: "Froud"
- ZYGERRIAN_CHR_addacess: "Addacess"
- ZYGERRIAN_CHR_elysar: "Elysar"
- ZYGERRIAN_CHR_durgen: "Durgen"
- ZYGERRIAN_CHR_slahlvo: "Slahlvo"
- ZYGERRIAN_CHR_remex: "Remex"
- ZYGERRIAN_CHR_madowki: "Madowki"
- ZYGERRIAN_CHR_hayes: "Hayes"
- ZYGERRIAN_CHR_ne: "Ne"
- ZYGERRIAN_CHR_dago: "Dago"
- ZYGERRIAN_CHR_stripeback: "Stripeback"
- ZYGERRIAN_CHR_stithta: "Stithta"
- ZYGERRIAN_CHR_ker: "Ker"
- ZYGERRIAN_CHR_driet: "Driet"
- ZYGERRIAN_CHR_klakk: "Klakk"
- ZYGERRIAN_CHR_reed: "Reed"
- ZYGERRIAN_CHR_lefex: "Lefex"
- ZYGERRIAN_CHR_minn: "Minn"
- ZYGERRIAN_CHR_irokini: "Irokini"
- ZYGERRIAN_CHR_roye: "Roye"
- ZYGERRIAN_CHR_danakar: "Danakar"
- ZYGERRIAN_CHR_forin: "Forin"
- ZYGERRIAN_CHR_glopio: "Glopio"
- ZYGERRIAN_CHR_shenuri: "Shenuri"
- ZYGERRIAN_CHR_corcer: "Corcer"
- ZYGERRIAN_CHR_or_ven: "Or'ven"
- ZYGERRIAN_CHR_wan: "Wan"
- ZYGERRIAN_CHR_tagratt: "Tagratt"
- ZYGERRIAN_CHR_golladio: "Golladio"
- ZYGERRIAN_CHR_adramcsia: "Adramcsia"
- ZYGERRIAN_CHR_golandrik: "Golandrik"
- ZYGERRIAN_CHR_noth: "Noth"
- ZYGERRIAN_CHR_taske: "Taske"
- ZYGERRIAN_CHR_komo: "Komo"
- ZYGERRIAN_CHR_barntar: "Barntar"
- ZYGERRIAN_CHR_angavel: "Angavel"
- ZYGERRIAN_CHR_tyrnith: "Tyrnith"
- ZYGERRIAN_CHR_yavoog: "Yavoog"
- ZYGERRIAN_CHR_kelbier: "Kelbier"
- ZYGERRIAN_CHR_racto: "Racto"
- ZYGERRIAN_CHR_degor: "Degor"
- ZYGERRIAN_CHR_tisa: "Tisa"
- ZYGERRIAN_CHR_magre: "Magre"
- ZYGERRIAN_CHR_soylon: "Soylon"
- ZYGERRIAN_CHR_lerann: "Lerann"
- ZYGERRIAN_CHR_chro: "Chro"
- ZYGERRIAN_CHR_finn: "Finn"
- ZYGERRIAN_CHR_blackmoor: "Blackmoor"
- ZYGERRIAN_CHR_hwang: "Hwang"
- ZYGERRIAN_CHR_vekarr: "Vekarr"
- ZYGERRIAN_CHR_amon: "Amon"
- ZYGERRIAN_CHR_thiddex: "Thiddex"
- ZYGERRIAN_CHR_selkayim: "Selkayim"
- ZYGERRIAN_CHR_gilder: "Gilder"
- ZYGERRIAN_CHR_dhuramav: "Dhuramav"
- ZYGERRIAN_CHR_kodd: "Kodd"
- ZYGERRIAN_CHR_morin: "Morin"
- ZYGERRIAN_CHR_kobylarz: "Kobylarz"
- ZYGERRIAN_CHR_tade: "Tade"
- ZYGERRIAN_CHR_solman: "Solman"
- ZYGERRIAN_CHR_bintaghr: "Bintaghr"
- ZYGERRIAN_CHR_marclonus: "Marclonus"
- ZYGERRIAN_CHR_precore: "Precore"
- ZYGERRIAN_CHR_solborne: "Solborne"
- ZYGERRIAN_CHR_bailer: "Bailer"
- ZYGERRIAN_CHR_katarn: "Katarn"
- ZYGERRIAN_CHR_anjek: "Anjek"
- ZYGERRIAN_CHR_dalgas: "Dalgas"
- ZYGERRIAN_CHR_kast: "Kast"
- ZYGERRIAN_CHR_airerith: "Airerith"
- ZYGERRIAN_CHR_halord: "Halord"
- ZYGERRIAN_CHR_varlash: "Varlash"
- ZYGERRIAN_CHR_jalba: "Jalba"
- ZYGERRIAN_CHR_benn: "Benn"
- ZYGERRIAN_CHR_haruhana: "Haruhana"
- ZYGERRIAN_CHR_roice: "Roice"
- ZYGERRIAN_CHR_lokar: "Lokar"
- ZYGERRIAN_CHR_korpil: "Korpil"
- ZYGERRIAN_CHR_turon: "Turon"
- ZYGERRIAN_CHR_cavi: "Cavi"
- ZYGERRIAN_CHR_deece: "Deece"
- ZYGERRIAN_CHR_braitano: "Braitano"
- ZYGERRIAN_CHR_garnik: "Garnik"
- ZYGERRIAN_CHR_tyandas: "Tyandas"
- ZYGERRIAN_CHR_ka_taramas: "Ka'Taramas"
- ZYGERRIAN_CHR_nuwest: "Nuwest"
- ZYGERRIAN_CHR_forte: "Forte"
- ZYGERRIAN_CHR_noshey: "Noshey"
- ZYGERRIAN_CHR_gyyll: "Gyyll"
- ZYGERRIAN_CHR_tallon: "Tallon"
- ZYGERRIAN_CHR_liorre: "Liorre"
- ZYGERRIAN_CHR_adras: "Adras"
- ZYGERRIAN_CHR_peoly: "Peoly"
- ZYGERRIAN_CHR_damiel: "Damiel"
- ZYGERRIAN_CHR_pau: "Pau"
- ZYGERRIAN_CHR_drayvek: "Drayvek"
- ZYGERRIAN_CHR_zaposug: "Zaposug"
- ZYGERRIAN_CHR_molec_stane: "Molec-Stane"
- ZYGERRIAN_CHR_bela_trepada: "Bela-Trepada"
- ZYGERRIAN_CHR_defelice: "Defelice"
- ZYGERRIAN_CHR_monsula: "Monsula"
- ZYGERRIAN_CHR_baralein: "Baralein"
- ZYGERRIAN_CHR_denive: "Denive"
- ZYGERRIAN_CHR_hodrren: "Hodrren"
- ZYGERRIAN_CHR_xergo: "Xergo"
- ZYGERRIAN_CHR_sarat: "Sarat"
- ZYGERRIAN_CHR_vercet: "Vercet"
- ZYGERRIAN_CHR_ossaki: "Ossaki"
- ZYGERRIAN_CHR_kappa: "Kappa"
- ZYGERRIAN_CHR_zerga: "Zerga"
- ZYGERRIAN_CHR_kopos: "Kopos"
- ZYGERRIAN_CHR_aldrecht: "Aldrecht"
- ZYGERRIAN_CHR_bohme: "Bohme"
- ZYGERRIAN_CHR_tull: "Tull"
- ZYGERRIAN_CHR_eldrel: "Eldrel"
- ZYGERRIAN_CHR_marh: "Marh"
- ZYGERRIAN_CHR_darkwin: "Darkwin"
- ZYGERRIAN_CHR_krandor: "Krandor"
- ZYGERRIAN_CHR_montag: "Montag"
- ZYGERRIAN_CHR_dimodan: "Dimodan"
- ZYGERRIAN_CHR_starkist: "Starkist"
- ZYGERRIAN_CHR_veloor: "Veloor"
- ZYGERRIAN_CHR_mohebbi: "Mohebbi"
- ZYGERRIAN_CHR_runalian: "Runalian"
- ZYGERRIAN_CHR_binette: "Binette"
- ZYGERRIAN_CHR_laurent: "Laurent"
- ZYGERRIAN_CHR_mavr: "Mavr"
- ZYGERRIAN_CHR_ryra: "Ryra"
- ZYGERRIAN_CHR_truden: "Truden"
- ZYGERRIAN_CHR_molec_tade: "Molec-Tade"
- ZYGERRIAN_CHR_starkholov: "Starkholov"
- ZYGERRIAN_CHR_amekka: "Amekka"
- ZYGERRIAN_CHR_avara: "Avara"
- ZYGERRIAN_CHR_andrell: "Andrell"
- ZYGERRIAN_CHR_annon: "Annon"
- ZYGERRIAN_CHR_anteron: "Anteron"
- ZYGERRIAN_CHR_atanna: "Atanna"
- ZYGERRIAN_CHR_baab: "Baab"
- ZYGERRIAN_CHR_barc: "Barc"
- ZYGERRIAN_CHR_bonteri: "Bonteri"
- ZYGERRIAN_CHR_breemu: "Breemu"
- ZYGERRIAN_CHR_bremack: "Bremack"
- ZYGERRIAN_CHR_bronk: "Bronk"
- ZYGERRIAN_CHR_burtoni: "Burtoni"
- ZYGERRIAN_CHR_cadaman: "Cadaman"
- ZYGERRIAN_CHR_callen: "Callen"
- ZYGERRIAN_CHR_ilisin: "Ilisin"
- ZYGERRIAN_CHR_ledwellow: "Ledwellow"
- ZYGERRIAN_CHR_dio: "Dio"
- ZYGERRIAN_CHR_tarabal: "Tarabal"
- ZYGERRIAN_CHR_d_var: "D'var"
- ZYGERRIAN_CHR_miralla: "Miralla"
- ZYGERRIAN_CHR_miyanna: "Miyanna"
- ZYGERRIAN_CHR_milizeth: "Milizeth"
- ZYGERRIAN_CHR_milerrena: "Milerrena"
- ZYGERRIAN_CHR_millara: "Millara"
- ZYGERRIAN_CHR_alkema: "Alkema"
+  ZYGERRIAN_false_manum: "Ложное освобождение" #NT!
+  ZYGERRIAN_thralltaker: "Ловец рабов" #NT!
+  ZYGERRIAN_widowmaker: "Вдоводел" #NT!
+  ZYGERRIAN_helot_s_brand: "Печать илота" #NT!
+  ZYGERRIAN_branding_iron: "Клеймящее железо" #NT!
+  ZYGERRIAN_abductor: "Похититель" #NT!
+  ZYGERRIAN_kidnapper: "Захватчик заложников" #NT!
+  ZYGERRIAN_ransom: "Выкуп" #NT!
+  ZYGERRIAN_skinner: "Кожевник" #NT!
+  ZYGERRIAN_separator: "Отделитель" #NT!
+  ZYGERRIAN_auctioneer: "Аукционист" #NT!
+  ZYGERRIAN_first_pick: "Первый выбор" #NT!
+  ZYGERRIAN_whelper: "Щенок" #NT!
+  ZYGERRIAN_subjugator: "Покоритель" #NT!
+  ZYGERRIAN_name_giver: "Нарекатель" #NT!
+  ZYGERRIAN_whipping_post: "Позорный столб" #NT!
+  ZYGERRIAN_serf_watcher: "Погонщик холопов" #NT!
+  ZYGERRIAN_back_striper: "Поясок" #NT!
+  ZYGERRIAN_slave_catcher: "Сборщик рабов" #NT!
+  ZYGERRIAN_enslaver: "Поработитель" #NT!
+  ZYGERRIAN_slavemaker: "Рабодел" #NT!
+  ZYGERRIAN_overseer: "Надзиратель" #NT!
+  ZYGERRIAN_mongrel_s_lash: "Плеть дворняжки" #NT!
+  ZYGERRIAN_lashbearer: "Плёточница" #NT!
+  ZYGERRIAN_scarlet_scourge: "Алая плеть" #NT!
+  ZYGERRIAN_flagellant: "Флагеллант" #NT!
+  ZYGERRIAN_strapper: "Здоровый товар" #NT!
+  ZYGERRIAN_bloody_ruin: "Окровавленные руины" #NT!
+  ZYGERRIAN_only_choice: "Единственный выбор" #NT!
+  ZYGERRIAN_scourge_queen: "Королева кнута" #NT!
+  ZYGERRIAN_ninth_tail: "Девятый хвост" #NT!
+  ZYGERRIAN_dominator: "Доминатор" #NT!
+  ZYGERRIAN_taskmaster: "Десятник" #NT!
+  ZYGERRIAN_taskmistress: "Бригадирша" #NT!
+  ZYGERRIAN_disciplinarian: "Дисциплинарный" #NT!
+  ZYGERRIAN_discipliner: "Строгий хозяин" #NT!
+  ZYGERRIAN_stickler: "Ярый сторонник" #NT!
+  ZYGERRIAN_wind_of_zygerria: "Ветра Зайгеррии" #NT!
+  ZYGERRIAN_red_hand: "Красная рука" #NT!
+  ZYGERRIAN_brander: "Клеймитель" #NT!
+  ZYGERRIAN_chattel_watcher: "Ответственный-за-говорящую-собственность" #NT!
+  ZYGERRIAN_disenfranchiser: "Бесправный" #NT!
+  ZYGERRIAN_hierarch: "Иерарх" #NT!
+  ZYGERRIAN_middle_passage: "Средний проход" #NT!
+  ZYGERRIAN_oppressor: "Угнетатель" #NT!
+  ZYGERRIAN_segregator: "Сегрегатор" #NT!
+  ZYGERRIAN_subordinator: "Субординатор" #NT!
+  ZYGERRIAN_voyager: "Путешественник" #NT!
+  ZYGERRIAN_zong: "Зонг" #NT!
+  ZYGERRIAN_flayer: "Живодёр" #NT!
+  ZYGERRIAN_excoriator: "Свежеватель" #NT!
+  ZYGERRIAN_terrorizer: "Терроризатор" #NT!
+  ZYGERRIAN_choiceless: "Безальтернативный" #NT!
+  ZYGERRIAN_hopeless: "Безвыходный" #NT!
+  ZYGERRIAN_taker: "Берущий" #NT!
+  ZYGERRIAN_zygerria_s_due: "Причитающееся Зайгеррии" #NT!
+  ZYGERRIAN_mantracker: "Выслеживатель" #NT!
+  ZYGERRIAN_dominant: "Преобладающий" #NT!
+  ZYGERRIAN_alpha: "Альфа" #NT!
+  ZYGERRIAN_silverback: "Среброспин" #NT!
+  ZYGERRIAN_snatcher: "Похититель людей" #NT!
+  ZYGERRIAN_pound_of_flesh: "Фунт плоти" #NT!
+  ZYGERRIAN_undertaker: "Гробовщик" #NT!
+  ZYGERRIAN_grave_warden: "Могильный страж" #NT!
+  ZYGERRIAN_chain_maker: "Приковыватель" #NT!
+  ZYGERRIAN_shackler: "Сковыватель" #NT!
+  ZYGERRIAN_gouger: "Крабэ" #NT!
+  ZYGERRIAN_pursuer: "Преследователь" #NT!
+  ZYGERRIAN_gaoler: "Тюремщик" #NT!
+  ZYGERRIAN_stalker: "Сталкер" #NT!
+  ZYGERRIAN_trapper: "Зверолов" #NT!
+  ZYGERRIAN_huntsman: "Ловчий" #NT!
+  ZYGERRIAN_chaser: "Истребитель" #NT!
+  ZYGERRIAN_flusher: "Промыватель" #NT!
+  ZYGERRIAN_hunter: "Охотник" #NT!
+  ZYGERRIAN_hounding_one: "Травля-1" #NT!
+  ZYGERRIAN_broodmare: "Племенная кобыла" #NT!
+  ZYGERRIAN_leash_holder: "Держатель поводка" #NT!
+  ZYGERRIAN_lasher: "Запруда" #NT!
+  ZYGERRIAN_collared_king: "Захомученный король" #NT!
+  ZYGERRIAN_slavekin: "Рабовладелец" #NT!
+  ZYGERRIAN_painful_lesson: "Болезненный урок" #NT!
+  ZYGERRIAN_restrainer: "Фиксатор" #NT!
+  ZYGERRIAN_controller: "Контроллер" #NT!
+  ZYGERRIAN_chain_algernon: "Chain of Algernon" #NT!
+  ZYGERRIAN_roper: "Упаковщик" #NT!
+  ZYGERRIAN_suppressor: "Подавитель" #NT!
+  ZYGERRIAN_hamperer: "Препятствующий" #NT!
+  ZYGERRIAN_thunder_kit: "Громовой комплект" #NT!
+  ZYGERRIAN_powerless: "Бессильный" #NT!
+  ZYGERRIAN_weeper: "Траурная повязка" #NT!
+  ZYGERRIAN_screamer: "Крикунья" #NT!
+  ZYGERRIAN_wicked: "Безнравственный" #NT!
+  ZYGERRIAN_malignant: "Злокачественный" #NT!
+  ZYGERRIAN_natural_order: "Естественный порядок" #NT!
+  ZYGERRIAN_ruiner: "Руинер" #NT!
+  ZYGERRIAN_damane: "Дамани" #NT!
+  ZYGERRIAN_salt_wife: "Солёная жена" #NT!
+  ZYGERRIAN_taken: "Взятый" #NT!
+  ZYGERRIAN_downfall: "Низвержение" #NT!
+  ZYGERRIAN_fallen_one: "Падший-1" #NT!
+  ZYGERRIAN_tear_drop: "Слезинка" #NT!
+  ZYGERRIAN_slave_hewer: "Раб-каменотёс" #NT!
+  ZYGERRIAN_belt_hand: "Приученный к руке" #NT!
+  ZYGERRIAN_master: "Хозяин" #NT!
+  ZYGERRIAN_flogger: "Стегатель" #NT!
+  ZYGERRIAN_hide_tanner: "Скрытый таксидермист" #NT!
+  ZYGERRIAN_thrasher: "Молотильщик" #NT!
+  ZYGERRIAN_cancer: "Патология" #NT!
+  ZYGERRIAN_mortuary: "Морг" #NT!
+  ZYGERRIAN_morbid: "Болезненный" #NT!
+  ZYGERRIAN_sadist: "Садист" #NT!
+  ZYGERRIAN_owner: "Владелец" #NT!
+  ZYGERRIAN_locust: "Саранча" #NT!
+  ZYGERRIAN_pillager: "Жулик" #NT!
+  ZYGERRIAN_lady_of_raids: "Леди набегов" #NT!
+  ZYGERRIAN_barbarous: "Варварский" #NT!
+  ZYGERRIAN_corsair: "Корсар" #NT!
+  ZYGERRIAN_brass_bull: "Медный бык" #NT!
+  ZYGERRIAN_victimizer: "Мучитель" #NT!
+  ZYGERRIAN_suffocant: "Удушающий" #NT!
+  ZYGERRIAN_repellant: "Отталкивающий" #NT!
+  ZYGERRIAN_second_cull: "Вторичная отбраковка" #NT!
+  ZYGERRIAN_brezak: "Брезак" #NT!
+  ZYGERRIAN_doom_of_guandura: "Гибель Гуандуры" #NT!
+  ZYGERRIAN_occupier: "Оккупант" #NT!
+  ZYGERRIAN_harasser: "Преследователь" #NT!
+  ZYGERRIAN_tormentor: "Мучительница" #NT!
+  ZYGERRIAN_persecutor: "Гонитель" #NT!
+  ZYGERRIAN_cruel_fate: "Жестокая судьба" #NT!
+  ZYGERRIAN_tracker: "Ищейка" #NT!
+  ZYGERRIAN_ruin_of_ryloth: "Руины Рилота" #NT!
+  ZYGERRIAN_binding_light: "Связующий свет" #NT!
+  ZYGERRIAN_manhunt: "Облава" #NT!
+  ZYGERRIAN_inflicter: "Навязанный" #NT!
+  ZYGERRIAN_nemesis: "Немезида" #NT!
+  ZYGERRIAN_abuser: "Насильник" #NT!
+  ZYGERRIAN_grappler: "Борец" #NT!
+  ZYGERRIAN_bondage: "Подневолие" #NT!
+  ZYGERRIAN_inescapable: "Неотвратимый" #NT!
+  ZYGERRIAN_imminent: "Неизбежный" #NT!
+  ZYGERRIAN_compeller: "Принудитель" #NT!
+  ZYGERRIAN_compulsory: "Обязательный" #NT!
+  ZYGERRIAN_foregone: "Предрешённый" #NT!
+  ZYGERRIAN_menace: "Угроза" #NT!
+  ZYGERRIAN_splinterer: "Раскалыватель" #NT!
+  ZYGERRIAN_outfoxed: "Обманутый" #NT!
+  ZYGERRIAN_molec: "Молек" #NT!
+  ZYGERRIAN_scintel: "Сцинтел" #NT!
+  ZYGERRIAN_gemen: "Гемен" #NT!
+  ZYGERRIAN_faith_of_d_nar: "Вера Д'Нара" #NT!
+  ZYGERRIAN_m_rch_s_targe: "Тарджет М'рча" #NT!
+  ZYGERRIAN_thanda: "Танда" #NT!
+  ZYGERRIAN_scourge: "Бич" #NT!
+  ZYGERRIAN_listehol: "Листехол" #NT!
+  ZYGERRIAN_armin: "Армин" #NT!
+  ZYGERRIAN_pr_ollerg: "Пр'оллерг" #NT!
+  ZYGERRIAN_tynemark: "Тайнемарк" #NT!
+  ZYGERRIAN_tecora: "Текора" #NT!
+  ZYGERRIAN_lek_snapper: "Лек-окунь" #NT!
+  ZYGERRIAN_cannibal: "Каннибал" #NT!
+  ZYGERRIAN_apex: "Верхушка" #NT!
+  ZYGERRIAN_pinnacle: "Верх" #NT!
+  ZYGERRIAN_undisputed: "Бесспорный" #NT!
+  ZYGERRIAN_fleshmonger: "Торговец плотью" #NT!
+  ZYGERRIAN_hand_taker: "Принимающий руку" #NT!
+  ZYGERRIAN_servus_custode: "Сервус кустоде" #NT!
+  ZYGERRIAN_desolator: "Опустошитель" #NT!
+  ZYGERRIAN_decimator: "Дециматор" #NT!
+  ZYGERRIAN_punishment: "Наказание" #NT!
+  ZYGERRIAN_punisher: "Каратель" #NT!
+  ZYGERRIAN_collective_p: "Коллективная кара" #NT!
+  ZYGERRIAN_torturer: "Истязатель" #NT!
+  ZYGERRIAN_bondmaker: "Связующий" #NT!
+  ZYGERRIAN_longfang: "Длинный клык" #NT!
+  ZYGERRIAN_howler: "Ревун" #NT!
+  ZYGERRIAN_yowler: "Воющий" #NT!
+  ZYGERRIAN_burdener: "Обременитель" #NT!
+  ZYGERRIAN_possessor: "Владетель" #NT!
+  ZYGERRIAN_retribution: "Возмездие" #NT!
+  ZYGERRIAN_harsh_truth: "Суровая правда" #NT!
+  ZYGERRIAN_first_warning: "Первое предупреждение" #NT!
+  ZYGERRIAN_reaver: "Грабитель" #NT!
+  ZYGERRIAN_marauder: "Мародёр" #NT!
+  ZYGERRIAN_void_wolf: "Пустотный волк" #NT!
+  ZYGERRIAN_void_rat: "Пустотная крыса" #NT!
+  ZYGERRIAN_plunderer: "Громила" #NT!
+  ZYGERRIAN_quarterer: "Квартирмейстер" #NT!
+  ZYGERRIAN_gallows: "Виселица" #NT!
+  ZYGERRIAN_antagonizer: "Антагонизатор" #NT!
+  ZYGERRIAN_encager: "Заключающий" #NT!
+  ZYGERRIAN_fated_cage: "Судьбоносная клетка" #NT!
+  ZYGERRIAN_iron_cell: "Железная ячейка" #NT!
+  ZYGERRIAN_cagebringer: "Несущий плен" #NT!
+  ZYGERRIAN_confinement: "Заключение" #NT!
+  ZYGERRIAN_imprisoner: "Узник" #NT!
+  ZYGERRIAN_mourner: "Плакальщик" #NT!
+  ZYGERRIAN_violator: "Нарушитель" #NT!
+  ZYGERRIAN_detainer: "Задержанный" #NT!
+  ZYGERRIAN_exploiter: "Эксплуататор" #NT!
+  ZYGERRIAN_poacher: "Браконьер" #NT!
+  ZYGERRIAN_handler: "Обработчик" #NT!
+  ZYGERRIAN_constrainer: "Ограничитель" #NT!
+  ZYGERRIAN_constrictor: "Констриктор" #NT!
+  ZYGERRIAN_strangler: "Душитель" #NT!
+  ZYGERRIAN_iron_bridle: "Железный шпицрутен" #NT!
+  ZYGERRIAN_arago: "Араго" #NT!
+  ZYGERRIAN_rabid: "Бешеный" #NT!
+  ZYGERRIAN_mudhorn: "Грязерог" #NT!
+  ZYGERRIAN_flurry_of_bolts: "Шквал молний" #NT!
+  ZYGERRIAN_dirty_kick: "Подлый удар" #NT!
+  ZYGERRIAN_vital_shot: "Смертельный выстрел" #NT!
+  ZYGERRIAN_quick_shot: "Быстрый выстрел" #NT!
+  ZYGERRIAN_all_in: "Всё включено" #NT!
+  ZYGERRIAN_eagle_5: "Орёл 5" #NT!
+  ZYGERRIAN_lucky_dodge: "Удачный уворот" #NT!
+  ZYGERRIAN_shoot_first: "Стреляй первым" #NT!
+  ZYGERRIAN_nice_try: "Хорошая попытка" #NT!
+  ZYGERRIAN_open_wound: "Рваная рана" #NT!
+  ZYGERRIAN_mortal_wound: "Смертельная рана" #NT!
+  ZYGERRIAN_dirty_trickster: "Подлый трюкач" #NT!
+  ZYGERRIAN_feelin__woozy: "Одурманивание" #NT!
+  ZYGERRIAN_sneaky: "Скрытный" #NT!
+  ZYGERRIAN_scrappy: "Задиристый" #NT!
+  ZYGERRIAN_shifty_eyed: "Косой взгляд" #NT!
+  ZYGERRIAN_fight_or_flight: "Бей или беги" #NT!
+  ZYGERRIAN_slippery_devil: "Скользкий дьявол" #NT!
+  ZYGERRIAN_rolling_punches: "Избегающий ударов" #NT!
+  ZYGERRIAN_surprise_come: "Неожиданное возвращение" #NT!
+  ZYGERRIAN_round_two: "Второй раунд" #NT!
+  ZYGERRIAN_stopping_power: "Сдерживающая сила" #NT!
+  ZYGERRIAN_brawler_s_gift: "Подарок бойца" #NT!
+  ZYGERRIAN_survivor_s_scars: "Шрамы выжившего" #NT!
+  ZYGERRIAN_elemen_surprise: "Элемент неожиданности" #NT!
+  ZYGERRIAN_browbeat: "Запугивание" #NT!
+  ZYGERRIAN_keep_cool: "Сохраняющий хладнокровие" #NT!
+  ZYGERRIAN_scramble: "Схватка" #NT!
+  ZYGERRIAN_hunter_s_boon: "Дар охотника" #NT!
+  ZYGERRIAN_rocket_punch: "Ракетный удар" #NT!
+  ZYGERRIAN_rail_shot: "Дуплет" #NT!
+  ZYGERRIAN_death_from_above: "Смерть с небес" #NT!
+  ZYGERRIAN_determination: "Решимость" #NT!
+  ZYGERRIAN_on_the_trail: "По следу" #NT!
+  ZYGERRIAN_crescent: "Полумесяц" #NT!
+  ZYGERRIAN_diligent: "Прилежный" #NT!
+  ZYGERRIAN_zephyr: "Зефир" #NT!
+  ZYGERRIAN_enigma: "Энигма" #NT!
+  ZYGERRIAN_enquirer: "Вопрошающий" #NT!
+  ZYGERRIAN_scylla: "Сцилла" #NT!
+  ZYGERRIAN_arbiter: "Арбитр" #NT!
+  ZYGERRIAN_asperity: "Суровость" #NT!
+  ZYGERRIAN_eminence: "Высокопреосвященство" #NT!
+  ZYGERRIAN_astute: "Проницательный" #NT!
+  ZYGERRIAN_alacrity: "Рвение" #NT!
+  ZYGERRIAN_satyr: "Сатир" #NT!
+  ZYGERRIAN_prospero: "Просперо" #NT!
+  ZYGERRIAN_untiring: "Неугомонный" #NT!
+  ZYGERRIAN_zenith: "Зенит" #NT!
+  ZYGERRIAN_torch: "Факел" #NT!
+  ZYGERRIAN_remembrance: "Воспоминание" #NT!
+  ZYGERRIAN_pilgrim: "Пилигрим" #NT!
+  ZYGERRIAN_trailblazer: "Первопроходец" #NT!
+  ZYGERRIAN_vagabond: "Шатун" #NT!
+  ZYGERRIAN_wayfarer: "Путник" #NT!
+  ZYGERRIAN_ambassador: "Амбассадор" #NT!
+  ZYGERRIAN_emissary: "Эмиссар" #NT!
+  ZYGERRIAN_nomad: "Кочевник" #NT!
+  ZYGERRIAN_pathfinder: "Следопыт" #NT!
+  ZYGERRIAN_wanderer: "Скиталец" #NT!
+  ZYGERRIAN_traveler: "Путешественник" #NT!
+  ZYGERRIAN_godspeed: "Божья помощь" #NT!
+  ZYGERRIAN_prophecy: "Пророчество" #NT!
+  ZYGERRIAN_manifest_destiny: "Манифест судьбы" #NT!
+  ZYGERRIAN_virtue: "Добродетель" #NT!
+  ZYGERRIAN_potential: "Потенциал" #NT!
+  ZYGERRIAN_expansion: "Экспансия" #NT!
+  ZYGERRIAN_queenly_spirit: "Дух королевны" #NT!
+  ZYGERRIAN_prosperity: "Процветание" #NT!
+  ZYGERRIAN_summit: "Саммит" #NT!
+  ZYGERRIAN_seeder: "Сеятель" #NT!
+  ZYGERRIAN_harvest: "Жатва" #NT!
+  ZYGERRIAN_creator: "Создатель" #NT!
+  ZYGERRIAN_beholder: "Злобоглаз" #NT!
+  ZYGERRIAN_exodus: "Исход" #NT!
+  ZYGERRIAN_foundation: "Фундамент" #NT!
+  ZYGERRIAN_scion: "Потомок" #NT!
+  ZYGERRIAN_progeny: "Потомство" #NT!
+  ZYGERRIAN_obligation: "Обязательство" #NT!
+  ZYGERRIAN_purpose: "Цель" #NT!
+  ZYGERRIAN_provider: "Поставщик" #NT!
+  ZYGERRIAN_shining_city: "Сияющий город" #NT!
+  ZYGERRIAN_acquirer: "Покупатель" #NT!
+  ZYGERRIAN_cultivator: "Культиватор" #NT!
+  ZYGERRIAN_dawn_of_civ: "Заря цивилизации" #NT!
+  ZYGERRIAN_purity: "Чистота" #NT!
+  ZYGERRIAN_community: "Сообщество" #NT!
+  ZYGERRIAN_brotherhood: "Братство" #NT!
+  ZYGERRIAN_pioneer_spirit: "Дух первооткрывателя" #NT!
+  ZYGERRIAN_industry: "Трудолюбие" #NT!
+  ZYGERRIAN_helot: "Илот" #NT!
+  ZYGERRIAN_serf: "Холоп" #NT!
+  ZYGERRIAN_laborer: "Трудовик" #NT!
+  ZYGERRIAN_builder: "Строитель" #NT!
+  ZYGERRIAN_craftsman: "Мастер" #NT!
+  ZYGERRIAN_peasant: "Селянин" #NT!
+  ZYGERRIAN_engineer: "Инженер" #NT!
+  ZYGERRIAN_promise: "Обещание" #NT!
+  ZYGERRIAN_service: "Услуга" #NT!
+  ZYGERRIAN_shelter: "Приют" #NT!
+  ZYGERRIAN_beast: "Зверь" #NT!
+  ZYGERRIAN_developer: "Разработчик" #NT!
+  ZYGERRIAN_forger: "Лжец" #NT!
+  ZYGERRIAN_foundry: "Литейная" #NT!
+  ZYGERRIAN_factory: "Завод" #NT!
+  ZYGERRIAN_anvil: "Наковальня" #NT!
+  ZYGERRIAN_pillar: "Столп" #NT!
+  ZYGERRIAN_architect: "Архитектор" #NT!
+  ZYGERRIAN_accommodator: "Аккомодатор" #NT!
+  ZYGERRIAN_servantaurek: "Служебная единица «Аурек»" #NT!
+  ZYGERRIAN_servantbesh: "Служебная единица «Беш»" #NT!
+  ZYGERRIAN_servantcresh: "Служебная единица «Креш»" #NT!
+  ZYGERRIAN_servantdorn: "Служебная единица «Дорн»" #NT!
+  ZYGERRIAN_servantforn: "Служебная единица «Форн»" #NT!
+  ZYGERRIAN_servantgrek: "Служебная единица «Грек»" #NT!
+  ZYGERRIAN_servantherf: "Служебная единица «Херф»" #NT!
+  ZYGERRIAN_servantisk: "Служебная единица «Иск»" #NT!
+  ZYGERRIAN_servantjenth: "Служебная единица «Джент»" #NT!
+  ZYGERRIAN_servantkrill: "Служебная единица «Крилл»" #NT!
+  ZYGERRIAN_servantleth: "Служебная единица «Лет»" #NT!
+  ZYGERRIAN_servantmern: "Служебная единица «Мерн»" #NT!
+  ZYGERRIAN_servantnern: "Служебная единица «Нерн»" #NT!
+  ZYGERRIAN_servantosk: "Служебная единица «Оск»" #NT!
+  ZYGERRIAN_servantpeth: "Служебная единица «Пет»" #NT!
+  ZYGERRIAN_servantsenth: "Служебная единица «Сент»" #NT!
+  ZYGERRIAN_servanttrill: "Служебная единица «Трилл»" #NT!
+  ZYGERRIAN_servantusk: "Служебная единица «Уск»" #NT!
+  ZYGERRIAN_servantvev: "Служебная единица «Вев»" #NT!
+  ZYGERRIAN_servantwesk: "Служебная единица «Уэск»" #NT!
+  ZYGERRIAN_servantxesh: "Служебная единица «Зеш»" #NT!
+  ZYGERRIAN_servantyirt: "Служебная единица «Йирт»" #NT!
+  ZYGERRIAN_servantzerek: "Служебная единица «Зерек»" #NT!
+  ZYGERRIAN_servantcherek: "Служебная единица «Черек»" #NT!
+  ZYGERRIAN_servantqek: "Служебная единица «Кек»" #NT!
+  ZYGERRIAN_servantresh: "Служебная единица «Реш»" #NT!
+  ZYGERRIAN_servantenth: "Служебная единица «Энт»" #NT!
+  ZYGERRIAN_servantonith: "Служебная единица «Онит»" #NT!
+  ZYGERRIAN_servantkrenth: "Служебная единица «Крент»" #NT!
+  ZYGERRIAN_servantnen: "Служебная единица «Нен»" #NT!
+  ZYGERRIAN_servantorenth: "Служебная единица «Орент»" #NT!
+  ZYGERRIAN_servantshen: "Служебная единица «Шен»" #NT!
+  ZYGERRIAN_servantthesh: "Служебная единица «Теш»" #NT!
+  ZYGERRIAN_landing_craft: "Десантное судно" #NT!
+  ZYGERRIAN_citadel: "Цитадель" #NT!
+  ZYGERRIAN_savage: "Саваж" #NT!
+  ZYGERRIAN_gateway: "Шлюз" #NT!
+  ZYGERRIAN_watchpost: "Сторожка" #NT!
+  ZYGERRIAN_tower: "Башня" #NT!
+  ZYGERRIAN_garrison: "Гарнизон" #NT!
+  ZYGERRIAN_paraphet: "Парапет" #NT!
+  ZYGERRIAN_manbroke: "Сломанная игрушка" #NT!
+  ZYGERRIAN_severed: "Отрезанный" #NT!
+  ZYGERRIAN_spithead: "Злоглав" #NT!
+  ZYGERRIAN_spiteful: "Злорадный" #NT!
+  ZYGERRIAN_royal: "Королевский" #NT!
+  ZYGERRIAN_oulsbo: "Оульсбо" #NT!
+  ZYGERRIAN_liverlet: "Печёночный пирог" #NT!
+  ZYGERRIAN_void_flow: "Поток пустоты" #NT!
+  ZYGERRIAN_starlight_roads: "Мерцающие тропы звёзд" #NT!
+  ZYGERRIAN_stardust: "Звёздная пыль" #NT!
+  ZYGERRIAN_wails: "Вопли" #NT!
+  ZYGERRIAN_mournharbor: "Скорбная гавань" #NT!
+  ZYGERRIAN_blackwatch: "Чёрный дозор" #NT!
+  ZYGERRIAN_tyrant_s_view: "Взгляд тирана" #NT!
+  ZYGERRIAN_blockhouse: "Блокгауз" #NT!
+  ZYGERRIAN_jepooni: "Джепуни" #NT!
+  ZYGERRIAN_tahala: "Тахала" #NT!
+  ZYGERRIAN_kilitwijaro: "Килитвиджаро" #NT!
+  ZYGERRIAN_awroot: "Аврут" #NT!
+  ZYGERRIAN_eberet: "Эберет" #NT!
+  ZYGERRIAN_champion_hall: "Чемпионский зал" #NT!
+  ZYGERRIAN_fujett: "Фуджетт" #NT!
+  ZYGERRIAN_poeympus: "Поэймпус" #NT!
+  ZYGERRIAN_sinal: "Синал" #NT!
+  ZYGERRIAN_roseamb: "Roseamb" #NT!
+  ZYGERRIAN_roombar: "Румбар" #NT!
+  ZYGERRIAN_farpoint: "Дальняя точка" #NT!
+  ZYGERRIAN_red_star: "Красная звезда" #NT!
+  ZYGERRIAN_mount_forlorn: "Забытая гора" #NT!
+  ZYGERRIAN_tharsis: "Тарсис" #NT!
+  ZYGERRIAN_syrial: "Сириал" #NT!
+  ZYGERRIAN_redhett: "Редхетт" #NT!
+  ZYGERRIAN_bowyer: "Лукодел" #NT!
+  ZYGERRIAN_perrit: "Перрит" #NT!
+  ZYGERRIAN_kovabro: "Ковабро" #NT!
+  ZYGERRIAN_moorete: "Мурете" #NT!
+  ZYGERRIAN_moorsom: "Мурсом" #NT!
+  ZYGERRIAN_heartrend: "Душераздирающий" #NT!
+  ZYGERRIAN_grey_gables: "Серые фронтоны" #NT!
+  ZYGERRIAN_takala: "Такала" #NT!
+  ZYGERRIAN_tanaka: "Танака" #NT!
+  ZYGERRIAN_tojoro: "Тоджоро" #NT!
+  ZYGERRIAN_miranda: "Миранда" #NT!
+  ZYGERRIAN_hootsport: "Хутспорт" #NT!
+  ZYGERRIAN_kimicum: "Кимикум" #NT!
+  ZYGERRIAN_sklallam: "Склаллам" #NT!
+  ZYGERRIAN_brettbridge: "Бреттмост" #NT!
+  ZYGERRIAN_hipalla: "Хипалла" #NT!
+  ZYGERRIAN_votalia: "Воталия" #NT!
+  ZYGERRIAN_poremkon: "Поремкон" #NT!
+  ZYGERRIAN_zarana: "Зарана" #NT!
+  ZYGERRIAN_hyattskill: "Хайатскилл" #NT!
+  ZYGERRIAN_vilne: "Вильне" #NT!
+  ZYGERRIAN_foreyla: "Форейла" #NT!
+  ZYGERRIAN_tefle: "Тефле" #NT!
+  ZYGERRIAN_hawke: "Хоук" #NT!
+  ZYGERRIAN_hermakk: "Хермакк" #NT!
+  ZYGERRIAN_half_pound: "Полуфунтовый" #NT!
+  ZYGERRIAN_king: "Король" #NT!
+  ZYGERRIAN_queen: "Королева" #NT!
+  ZYGERRIAN_empress: "Императрица" #NT!
+  ZYGERRIAN_crown: "Корона" #NT!
+  ZYGERRIAN_chichian: "Чичиан" #NT!
+  ZYGERRIAN_essen: "Эссен" #NT!
+  ZYGERRIAN_kornilov: "Корнилов" #NT!
+  ZYGERRIAN_monarch: "Монарх" #NT!
+  ZYGERRIAN_triville: "Тривиль" #NT!
+  ZYGERRIAN_vohort: "Вохорт" #NT!
+  ZYGERRIAN_suppro: "Суппро" #NT!
+  ZYGERRIAN_gambitin: "Гамбитин" #NT!
+  ZYGERRIAN_lezzovo: "Леззово" #NT!
+  ZYGERRIAN_bombard: "Бомбарда" #NT!
+  ZYGERRIAN_ballista: "Баллиста" #NT!
+  ZYGERRIAN_catapult: "Катапульта" #NT!
+  ZYGERRIAN_harpoon: "Гарпун" #NT!
+  ZYGERRIAN_polybolos: "Полибол" #NT!
+  ZYGERRIAN_culverin: "Кулеврина" #NT!
+  ZYGERRIAN_FLEET_rapid_strike_fleet: "Флот быстрого реагирования" #NT!
+  ZYGERRIAN_FLEET_forward_defense_fleet: "Флот передовой обороны" #NT!
+  ZYGERRIAN_FLEET_SEQUENTIAL_enslaving_fleet: "$ORD$ Enslaving Fleet" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_raid_pack: "$ORD$ Raid Pack" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  ZYGERRIAN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+  ZYGERRIAN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+  ZYGERRIAN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+  ZYGERRIAN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+  ZYGERRIAN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+  ZYGERRIAN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+  ZYGERRIAN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+  ZYGERRIAN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+  ZYGERRIAN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+  ZYGERRIAN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  ZYGERRIAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  ZYGERRIAN_CHR_agruss: "Agruss" #NT!
+  ZYGERRIAN_CHR_kadavo: "Kadavo" #NT!
+  ZYGERRIAN_CHR_rajim: "Rajim" #NT!
+  ZYGERRIAN_CHR_darts: "Darts" #NT!
+  ZYGERRIAN_CHR_farzala: "Farzala" #NT!
+  ZYGERRIAN_CHR_ikis: "Ikis" #NT!
+  ZYGERRIAN_CHR_ingan: "Ingan" #NT!
+  ZYGERRIAN_CHR_jorec: "Jorec" #NT!
+  ZYGERRIAN_CHR_atai: "Atai" #NT!
+  ZYGERRIAN_CHR_sono: "Sono" #NT!
+  ZYGERRIAN_CHR_omus: "Omus" #NT!
+  ZYGERRIAN_CHR_m_rch: "M'rch" #NT!
+  ZYGERRIAN_CHR_mard: "Mard" #NT!
+  ZYGERRIAN_CHR_hordem: "Hordem" #NT!
+  ZYGERRIAN_CHR_oksan: "Oksan" #NT!
+  ZYGERRIAN_CHR_onyx: "Onyx" #NT!
+  ZYGERRIAN_CHR_scroon: "Scroon" #NT!
+  ZYGERRIAN_CHR_slego: "Slego" #NT!
+  ZYGERRIAN_CHR_teek: "Teek" #NT!
+  ZYGERRIAN_CHR_atlee: "Atlee" #NT!
+  ZYGERRIAN_CHR_marko: "Marko" #NT!
+  ZYGERRIAN_CHR_zolghast: "Zolghast" #NT!
+  ZYGERRIAN_CHR_strata: "Strata" #NT!
+  ZYGERRIAN_CHR_lancer: "Lancer" #NT!
+  ZYGERRIAN_CHR_zeak: "Zeak" #NT!
+  ZYGERRIAN_CHR_niuk: "Niuk" #NT!
+  ZYGERRIAN_CHR_lavidean: "Lavidean" #NT!
+  ZYGERRIAN_CHR_tanizandar: "Tanizandar" #NT!
+  ZYGERRIAN_CHR_japla: "Japla" #NT!
+  ZYGERRIAN_CHR_aran: "Aran" #NT!
+  ZYGERRIAN_CHR_rail: "Rail" #NT!
+  ZYGERRIAN_CHR_zeven: "Zeven" #NT!
+  ZYGERRIAN_CHR_yakown: "Yakown" #NT!
+  ZYGERRIAN_CHR_sibar: "Sibar" #NT!
+  ZYGERRIAN_CHR_sair: "Sair" #NT!
+  ZYGERRIAN_CHR_klai: "Klai" #NT!
+  ZYGERRIAN_CHR_jonal: "Jonal" #NT!
+  ZYGERRIAN_CHR_imay: "Imay" #NT!
+  ZYGERRIAN_CHR_traest: "Traest" #NT!
+  ZYGERRIAN_CHR_simo: "Simo" #NT!
+  ZYGERRIAN_CHR_kareth: "Kareth" #NT!
+  ZYGERRIAN_CHR_riyan: "Riyan" #NT!
+  ZYGERRIAN_CHR_maynus: "Maynus" #NT!
+  ZYGERRIAN_CHR_boceta: "Boceta" #NT!
+  ZYGERRIAN_CHR_agnook: "Agnook" #NT!
+  ZYGERRIAN_CHR_silus: "Silus" #NT!
+  ZYGERRIAN_CHR_rowan: "Rowan" #NT!
+  ZYGERRIAN_CHR_coren: "Coren" #NT!
+  ZYGERRIAN_CHR_jett: "Jett" #NT!
+  ZYGERRIAN_CHR_linth: "Linth" #NT!
+  ZYGERRIAN_CHR_annok: "Annok" #NT!
+  ZYGERRIAN_CHR_ulas: "Ulas" #NT!
+  ZYGERRIAN_CHR_fenn: "Fenn" #NT!
+  ZYGERRIAN_CHR_tal: "Tal" #NT!
+  ZYGERRIAN_CHR_vrok: "Vrok" #NT!
+  ZYGERRIAN_CHR_torin: "Torin" #NT!
+  ZYGERRIAN_CHR_boone: "Boone" #NT!
+  ZYGERRIAN_CHR_davith: "Davith" #NT!
+  ZYGERRIAN_CHR_jorgen: "Jorgen" #NT!
+  ZYGERRIAN_CHR_bertos: "Bertos" #NT!
+  ZYGERRIAN_CHR_ress: "Ress" #NT!
+  ZYGERRIAN_CHR_malius: "Malius" #NT!
+  ZYGERRIAN_CHR_kale: "Kale" #NT!
+  ZYGERRIAN_CHR_cregan: "Cregan" #NT!
+  ZYGERRIAN_CHR_galavo: "Galavo" #NT!
+  ZYGERRIAN_CHR_zerk: "Zerk" #NT!
+  ZYGERRIAN_CHR_jinn_tu: "Jinn-Tu" #NT!
+  ZYGERRIAN_CHR_jaryn: "Jaryn" #NT!
+  ZYGERRIAN_CHR_gentti: "Gentti" #NT!
+  ZYGERRIAN_CHR_yu_sien: "Yu-Sien" #NT!
+  ZYGERRIAN_CHR_akela: "Akela" #NT!
+  ZYGERRIAN_CHR_arslan: "Arslan" #NT!
+  ZYGERRIAN_CHR_sidias: "Sidias" #NT!
+  ZYGERRIAN_CHR_haken: "Haken" #NT!
+  ZYGERRIAN_CHR_biran: "Biran" #NT!
+  ZYGERRIAN_CHR_vidown: "Vidown" #NT!
+  ZYGERRIAN_CHR_arejala: "Arejala" #NT!
+  ZYGERRIAN_CHR_ithan: "Ithan" #NT!
+  ZYGERRIAN_CHR_cul_utaan: "Cul-utaan" #NT!
+  ZYGERRIAN_CHR_thoja: "Thoja" #NT!
+  ZYGERRIAN_CHR_cron: "Cron" #NT!
+  ZYGERRIAN_CHR_mossi: "Mossi" #NT!
+  ZYGERRIAN_CHR_abric: "Abric" #NT!
+  ZYGERRIAN_CHR_darg: "Darg" #NT!
+  ZYGERRIAN_CHR_gaman: "Gaman" #NT!
+  ZYGERRIAN_CHR_naiad: "Naiad" #NT!
+  ZYGERRIAN_CHR_herub: "Herub" #NT!
+  ZYGERRIAN_CHR_marius: "Marius" #NT!
+  ZYGERRIAN_CHR_torkin: "Torkin" #NT!
+  ZYGERRIAN_CHR_caton: "Caton" #NT!
+  ZYGERRIAN_CHR_kane: "Kane" #NT!
+  ZYGERRIAN_CHR_versita: "Versita" #NT!
+  ZYGERRIAN_CHR_cric: "Cric" #NT!
+  ZYGERRIAN_CHR_foxdi: "Foxdi" #NT!
+  ZYGERRIAN_CHR_montacca: "Montacca" #NT!
+  ZYGERRIAN_CHR_jospi: "Jospi" #NT!
+  ZYGERRIAN_CHR_baz: "Baz" #NT!
+  ZYGERRIAN_CHR_kam: "Kam" #NT!
+  ZYGERRIAN_CHR_erek: "Erek" #NT!
+  ZYGERRIAN_CHR_lerak: "Lerak" #NT!
+  ZYGERRIAN_CHR_morla: "Morla" #NT!
+  ZYGERRIAN_CHR_baxter: "Baxter" #NT!
+  ZYGERRIAN_CHR_talan: "Talan" #NT!
+  ZYGERRIAN_CHR_thion: "Thion" #NT!
+  ZYGERRIAN_CHR_kannon: "Kannon" #NT!
+  ZYGERRIAN_CHR_salir: "Salir" #NT!
+  ZYGERRIAN_CHR_caster: "Caster" #NT!
+  ZYGERRIAN_CHR_elden: "Elden" #NT!
+  ZYGERRIAN_CHR_faelgrom: "Faelgrom" #NT!
+  ZYGERRIAN_CHR_jorwoo: "Jorwoo" #NT!
+  ZYGERRIAN_CHR_raltharan: "Raltharan" #NT!
+  ZYGERRIAN_CHR_flash: "Flash" #NT!
+  ZYGERRIAN_CHR_waseem: "Waseem" #NT!
+  ZYGERRIAN_CHR_bendak: "Bendak" #NT!
+  ZYGERRIAN_CHR_kaz: "Kaz" #NT!
+  ZYGERRIAN_CHR_montileu: "Montileu" #NT!
+  ZYGERRIAN_CHR_gonoga: "Gonoga" #NT!
+  ZYGERRIAN_CHR_galven: "Galven" #NT!
+  ZYGERRIAN_CHR_vincenzo: "Vincenzo" #NT!
+  ZYGERRIAN_CHR_ric: "Ric" #NT!
+  ZYGERRIAN_CHR_rebar: "Rebar" #NT!
+  ZYGERRIAN_CHR_jebediah: "Jebediah" #NT!
+  ZYGERRIAN_CHR_aramil: "Aramil" #NT!
+  ZYGERRIAN_CHR_abraxis: "Abraxis" #NT!
+  ZYGERRIAN_CHR_delmi: "Delmi" #NT!
+  ZYGERRIAN_CHR_caalin: "Caalin" #NT!
+  ZYGERRIAN_CHR_rassth: "Rassth" #NT!
+  ZYGERRIAN_CHR_adorn: "Adorn" #NT!
+  ZYGERRIAN_CHR_syrus: "Syrus" #NT!
+  ZYGERRIAN_CHR_zhar_khan: "Zhar-Khan" #NT!
+  ZYGERRIAN_CHR_adam: "Adam" #NT!
+  ZYGERRIAN_CHR_predor: "Predor" #NT!
+  ZYGERRIAN_CHR_tarlson: "Tarlson" #NT!
+  ZYGERRIAN_CHR_boaz: "Boaz" #NT!
+  ZYGERRIAN_CHR_ingtar: "Ingtar" #NT!
+  ZYGERRIAN_CHR_gunn: "Gunn" #NT!
+  ZYGERRIAN_CHR_zerrid: "Zerrid" #NT!
+  ZYGERRIAN_CHR_bobecc: "Bobecc" #NT!
+  ZYGERRIAN_CHR_jelantos: "Jelantos" #NT!
+  ZYGERRIAN_CHR_jephego: "Jephego" #NT!
+  ZYGERRIAN_CHR_svante: "Svante" #NT!
+  ZYGERRIAN_CHR_tesvalo: "Tesvalo" #NT!
+  ZYGERRIAN_CHR_aeon: "Aeon" #NT!
+  ZYGERRIAN_CHR_dekar: "Dekar" #NT!
+  ZYGERRIAN_CHR_morech: "Morech" #NT!
+  ZYGERRIAN_CHR_melinjar: "Melinjar" #NT!
+  ZYGERRIAN_CHR_myt: "Myt" #NT!
+  ZYGERRIAN_CHR_murek: "Murek" #NT!
+  ZYGERRIAN_CHR_miraj: "Miraj" #NT!
+  ZYGERRIAN_CHR_madall: "MaDall" #NT!
+  ZYGERRIAN_CHR_hask: "Hask" #NT!
+  ZYGERRIAN_CHR_tosan: "Tosan" #NT!
+  ZYGERRIAN_CHR_mara: "Mara" #NT!
+  ZYGERRIAN_CHR_seena: "Seena" #NT!
+  ZYGERRIAN_CHR_areta: "Areta" #NT!
+  ZYGERRIAN_CHR_cord: "Cord" #NT!
+  ZYGERRIAN_CHR_cyrinity: "Cyrinity" #NT!
+  ZYGERRIAN_CHR_nile: "Nile" #NT!
+  ZYGERRIAN_CHR_kiyfi: "Kiyfi" #NT!
+  ZYGERRIAN_CHR_masera: "Masera" #NT!
+  ZYGERRIAN_CHR_satra: "Satra" #NT!
+  ZYGERRIAN_CHR_shehish: "Shehish" #NT!
+  ZYGERRIAN_CHR_sarna: "Sarna" #NT!
+  ZYGERRIAN_CHR_krava: "Krava" #NT!
+  ZYGERRIAN_CHR_roxis: "Roxis" #NT!
+  ZYGERRIAN_CHR_zarana: "Zarana" #NT!
+  ZYGERRIAN_CHR_aqua: "Aqua" #NT!
+  ZYGERRIAN_CHR_maryna: "Maryna" #NT!
+  ZYGERRIAN_CHR_essaj: "Essaj" #NT!
+  ZYGERRIAN_CHR_looriw: "Looriw" #NT!
+  ZYGERRIAN_CHR_teeana: "Teeana" #NT!
+  ZYGERRIAN_CHR_raena: "Raena" #NT!
+  ZYGERRIAN_CHR_yula: "Yula" #NT!
+  ZYGERRIAN_CHR_vifi: "Vifi" #NT!
+  ZYGERRIAN_CHR_vania: "Vania" #NT!
+  ZYGERRIAN_CHR_jeanida: "Jeanida" #NT!
+  ZYGERRIAN_CHR_aerena: "Aerena" #NT!
+  ZYGERRIAN_CHR_nataya: "Nataya" #NT!
+  ZYGERRIAN_CHR_bernarda: "Bernarda" #NT!
+  ZYGERRIAN_CHR_geela: "Geela" #NT!
+  ZYGERRIAN_CHR_lya: "Lya" #NT!
+  ZYGERRIAN_CHR_sirra: "Sirra" #NT!
+  ZYGERRIAN_CHR_teris: "Teris" #NT!
+  ZYGERRIAN_CHR_terral: "Terral" #NT!
+  ZYGERRIAN_CHR_nihla: "Nihla" #NT!
+  ZYGERRIAN_CHR_riema: "Riema" #NT!
+  ZYGERRIAN_CHR_erri: "Erri" #NT!
+  ZYGERRIAN_CHR_shanna: "Shanna" #NT!
+  ZYGERRIAN_CHR_lyra: "Lyra" #NT!
+  ZYGERRIAN_CHR_pranda: "Pranda" #NT!
+  ZYGERRIAN_CHR_valya: "Valya" #NT!
+  ZYGERRIAN_CHR_cally: "Cally" #NT!
+  ZYGERRIAN_CHR_viqi: "Viqi" #NT!
+  ZYGERRIAN_CHR_hadriel: "Hadriel" #NT!
+  ZYGERRIAN_CHR_lora: "Lora" #NT!
+  ZYGERRIAN_CHR_selena: "Selena" #NT!
+  ZYGERRIAN_CHR_zana: "Zana" #NT!
+  ZYGERRIAN_CHR_tuija: "Tuija" #NT!
+  ZYGERRIAN_CHR_railin: "Railin" #NT!
+  ZYGERRIAN_CHR_odona: "Odona" #NT!
+  ZYGERRIAN_CHR_shyon: "Shyon" #NT!
+  ZYGERRIAN_CHR_walas: "Walas" #NT!
+  ZYGERRIAN_CHR_rylla: "Rylla" #NT!
+  ZYGERRIAN_CHR_gara: "Gara" #NT!
+  ZYGERRIAN_CHR_delos: "Delos" #NT!
+  ZYGERRIAN_CHR_loretta: "Loretta" #NT!
+  ZYGERRIAN_CHR_luhon: "Luhon" #NT!
+  ZYGERRIAN_CHR_delinia: "Delinia" #NT!
+  ZYGERRIAN_CHR_aama: "Aama" #NT!
+  ZYGERRIAN_CHR_shorya: "Shorya" #NT!
+  ZYGERRIAN_CHR_melfina: "Melfina" #NT!
+  ZYGERRIAN_CHR_davessi: "Davessi" #NT!
+  ZYGERRIAN_CHR_larana: "Larana" #NT!
+  ZYGERRIAN_CHR_galatea: "Galatea" #NT!
+  ZYGERRIAN_CHR_nola: "Nola" #NT!
+  ZYGERRIAN_CHR_syna: "Syna" #NT!
+  ZYGERRIAN_CHR_jauhzmynn: "Jauhzmynn" #NT!
+  ZYGERRIAN_CHR_anen: "Anen" #NT!
+  ZYGERRIAN_CHR_orona: "Orona" #NT!
+  ZYGERRIAN_CHR_yana: "Yana" #NT!
+  ZYGERRIAN_CHR_zoras: "Zoras" #NT!
+  ZYGERRIAN_CHR_ree: "Ree" #NT!
+  ZYGERRIAN_CHR_grace: "Grace" #NT!
+  ZYGERRIAN_CHR_tantema: "Tantema" #NT!
+  ZYGERRIAN_CHR_myn: "Myn" #NT!
+  ZYGERRIAN_CHR_una: "Una" #NT!
+  ZYGERRIAN_CHR_dalharil: "Dalharil" #NT!
+  ZYGERRIAN_CHR_losa: "Losa" #NT!
+  ZYGERRIAN_CHR_sovi: "Sovi" #NT!
+  ZYGERRIAN_CHR_elaiza: "Elaiza" #NT!
+  ZYGERRIAN_CHR_vucora: "Vucora" #NT!
+  ZYGERRIAN_CHR_ava: "Ava" #NT!
+  ZYGERRIAN_CHR_joi: "Joi" #NT!
+  ZYGERRIAN_CHR_stryka: "Stryka" #NT!
+  ZYGERRIAN_CHR_shandra: "Shandra" #NT!
+  ZYGERRIAN_CHR_kely: "Kely" #NT!
+  ZYGERRIAN_CHR_caileta: "Caileta" #NT!
+  ZYGERRIAN_CHR_taia: "Taia" #NT!
+  ZYGERRIAN_CHR_siala: "Siala" #NT!
+  ZYGERRIAN_CHR_reki: "Reki" #NT!
+  ZYGERRIAN_CHR_maydla: "Maydla" #NT!
+  ZYGERRIAN_CHR_bota: "Bota" #NT!
+  ZYGERRIAN_CHR_kiandra: "Kiandra" #NT!
+  ZYGERRIAN_CHR_xilaren: "Xilaren" #NT!
+  ZYGERRIAN_CHR_zulara: "Zulara" #NT!
+  ZYGERRIAN_CHR_ren: "Ren" #NT!
+  ZYGERRIAN_CHR_karissa: "Karissa" #NT!
+  ZYGERRIAN_CHR_haruko: "Haruko" #NT!
+  ZYGERRIAN_CHR_jenna: "Jenna" #NT!
+  ZYGERRIAN_CHR_liana: "Liana" #NT!
+  ZYGERRIAN_CHR_rale: "Rale" #NT!
+  ZYGERRIAN_CHR_megala: "Megala" #NT!
+  ZYGERRIAN_CHR_aria: "Aria" #NT!
+  ZYGERRIAN_CHR_akiva: "Akiva" #NT!
+  ZYGERRIAN_CHR_nalanna: "Nalanna" #NT!
+  ZYGERRIAN_CHR_erlem: "Erlem" #NT!
+  ZYGERRIAN_CHR_nali: "Nali" #NT!
+  ZYGERRIAN_CHR_fallah: "Fallah" #NT!
+  ZYGERRIAN_CHR_kotrana: "Kotrana" #NT!
+  ZYGERRIAN_CHR_aayla: "Aayla" #NT!
+  ZYGERRIAN_CHR_kalira: "Kalira" #NT!
+  ZYGERRIAN_CHR_arani: "Arani" #NT!
+  ZYGERRIAN_CHR_fama: "Fama" #NT!
+  ZYGERRIAN_CHR_lyyr: "Lyyr" #NT!
+  ZYGERRIAN_CHR_nomilla: "Nomilla" #NT!
+  ZYGERRIAN_CHR_rane: "Rane" #NT!
+  ZYGERRIAN_CHR_nayru: "Nayru" #NT!
+  ZYGERRIAN_CHR_zylas: "Zylas" #NT!
+  ZYGERRIAN_CHR_vexa: "Vexa" #NT!
+  ZYGERRIAN_CHR_kana: "Kana" #NT!
+  ZYGERRIAN_CHR_meru: "Meru" #NT!
+  ZYGERRIAN_CHR_vardam: "Vardam" #NT!
+  ZYGERRIAN_CHR_armin: "Armin" #NT!
+  ZYGERRIAN_CHR_pr_ollerg: "Pr'ollerg" #NT!
+  ZYGERRIAN_CHR_d_nar: "D'Nar" #NT!
+  ZYGERRIAN_CHR_stane: "Stane" #NT!
+  ZYGERRIAN_CHR_gemen: "Gemen" #NT!
+  ZYGERRIAN_CHR_molec: "Molec" #NT!
+  ZYGERRIAN_CHR_molec_ii: "Molec II" #NT!
+  ZYGERRIAN_CHR_molec_iii: "Molec III" #NT!
+  ZYGERRIAN_CHR_molec_iv: "Molec IV" #NT!
+  ZYGERRIAN_CHR_scintel: "Scintel" #NT!
+  ZYGERRIAN_CHR_krill: "Krill" #NT!
+  ZYGERRIAN_CHR_tolla: "Tolla" #NT!
+  ZYGERRIAN_CHR_daklan: "Daklan" #NT!
+  ZYGERRIAN_CHR_taff: "Taff" #NT!
+  ZYGERRIAN_CHR_thanda: "Thanda" #NT!
+  ZYGERRIAN_CHR_thegas: "Thegas" #NT!
+  ZYGERRIAN_CHR_tyne: "Tyne" #NT!
+  ZYGERRIAN_CHR_holgor: "Holgor" #NT!
+  ZYGERRIAN_CHR_ijaaz: "Ijaaz" #NT!
+  ZYGERRIAN_CHR_acklej: "Acklej" #NT!
+  ZYGERRIAN_CHR_sprax: "Sprax" #NT!
+  ZYGERRIAN_CHR_knesos: "Knesos" #NT!
+  ZYGERRIAN_CHR_throll_ek: "Throll'ek" #NT!
+  ZYGERRIAN_CHR_lasek: "Lasek" #NT!
+  ZYGERRIAN_CHR_artis: "Artis" #NT!
+  ZYGERRIAN_CHR_paxiyen: "Paxiyen" #NT!
+  ZYGERRIAN_CHR_corso: "Corso" #NT!
+  ZYGERRIAN_CHR_fallon: "Fallon" #NT!
+  ZYGERRIAN_CHR_gundo: "Gundo" #NT!
+  ZYGERRIAN_CHR_ruana: "Ruana" #NT!
+  ZYGERRIAN_CHR_fremlin: "Fremlin" #NT!
+  ZYGERRIAN_CHR_thont: "Thont" #NT!
+  ZYGERRIAN_CHR_creel: "Creel" #NT!
+  ZYGERRIAN_CHR_rar: "Rar" #NT!
+  ZYGERRIAN_CHR_dusat: "Dusat" #NT!
+  ZYGERRIAN_CHR_kessek: "Kessek" #NT!
+  ZYGERRIAN_CHR_redback: "Redback" #NT!
+  ZYGERRIAN_CHR_al_theriam: "Al-Theriam" #NT!
+  ZYGERRIAN_CHR_vanzeer: "VanZeer" #NT!
+  ZYGERRIAN_CHR_vrieska: "Vrieska" #NT!
+  ZYGERRIAN_CHR_calwhip: "Calwhip" #NT!
+  ZYGERRIAN_CHR_yartok: "Yartok" #NT!
+  ZYGERRIAN_CHR_yarous: "Yarous" #NT!
+  ZYGERRIAN_CHR_brower: "Brower" #NT!
+  ZYGERRIAN_CHR_fash: "Fash" #NT!
+  ZYGERRIAN_CHR_nalto: "Nalto" #NT!
+  ZYGERRIAN_CHR_stryder: "Stryder" #NT!
+  ZYGERRIAN_CHR_stryken: "Stryken" #NT!
+  ZYGERRIAN_CHR_kolek: "Kolek" #NT!
+  ZYGERRIAN_CHR_velen: "Velen" #NT!
+  ZYGERRIAN_CHR_solon: "Solon" #NT!
+  ZYGERRIAN_CHR_merquise: "Merquise" #NT!
+  ZYGERRIAN_CHR_varn: "Varn" #NT!
+  ZYGERRIAN_CHR_basai: "Basai" #NT!
+  ZYGERRIAN_CHR_froud: "Froud" #NT!
+  ZYGERRIAN_CHR_addacess: "Addacess" #NT!
+  ZYGERRIAN_CHR_elysar: "Elysar" #NT!
+  ZYGERRIAN_CHR_durgen: "Durgen" #NT!
+  ZYGERRIAN_CHR_slahlvo: "Slahlvo" #NT!
+  ZYGERRIAN_CHR_remex: "Remex" #NT!
+  ZYGERRIAN_CHR_madowki: "Madowki" #NT!
+  ZYGERRIAN_CHR_hayes: "Hayes" #NT!
+  ZYGERRIAN_CHR_ne: "Ne" #NT!
+  ZYGERRIAN_CHR_dago: "Dago" #NT!
+  ZYGERRIAN_CHR_stripeback: "Stripeback" #NT!
+  ZYGERRIAN_CHR_stithta: "Stithta" #NT!
+  ZYGERRIAN_CHR_ker: "Ker" #NT!
+  ZYGERRIAN_CHR_driet: "Driet" #NT!
+  ZYGERRIAN_CHR_klakk: "Klakk" #NT!
+  ZYGERRIAN_CHR_reed: "Reed" #NT!
+  ZYGERRIAN_CHR_lefex: "Lefex" #NT!
+  ZYGERRIAN_CHR_minn: "Minn" #NT!
+  ZYGERRIAN_CHR_irokini: "Irokini" #NT!
+  ZYGERRIAN_CHR_roye: "Roye" #NT!
+  ZYGERRIAN_CHR_danakar: "Danakar" #NT!
+  ZYGERRIAN_CHR_forin: "Forin" #NT!
+  ZYGERRIAN_CHR_glopio: "Glopio" #NT!
+  ZYGERRIAN_CHR_shenuri: "Shenuri" #NT!
+  ZYGERRIAN_CHR_corcer: "Corcer" #NT!
+  ZYGERRIAN_CHR_or_ven: "Or'ven" #NT!
+  ZYGERRIAN_CHR_wan: "Wan" #NT!
+  ZYGERRIAN_CHR_tagratt: "Tagratt" #NT!
+  ZYGERRIAN_CHR_golladio: "Golladio" #NT!
+  ZYGERRIAN_CHR_adramcsia: "Adramcsia" #NT!
+  ZYGERRIAN_CHR_golandrik: "Golandrik" #NT!
+  ZYGERRIAN_CHR_noth: "Noth" #NT!
+  ZYGERRIAN_CHR_taske: "Taske" #NT!
+  ZYGERRIAN_CHR_komo: "Komo" #NT!
+  ZYGERRIAN_CHR_barntar: "Barntar" #NT!
+  ZYGERRIAN_CHR_angavel: "Angavel" #NT!
+  ZYGERRIAN_CHR_tyrnith: "Tyrnith" #NT!
+  ZYGERRIAN_CHR_yavoog: "Yavoog" #NT!
+  ZYGERRIAN_CHR_kelbier: "Kelbier" #NT!
+  ZYGERRIAN_CHR_racto: "Racto" #NT!
+  ZYGERRIAN_CHR_degor: "Degor" #NT!
+  ZYGERRIAN_CHR_tisa: "Tisa" #NT!
+  ZYGERRIAN_CHR_magre: "Magre" #NT!
+  ZYGERRIAN_CHR_soylon: "Soylon" #NT!
+  ZYGERRIAN_CHR_lerann: "Lerann" #NT!
+  ZYGERRIAN_CHR_chro: "Chro" #NT!
+  ZYGERRIAN_CHR_finn: "Finn" #NT!
+  ZYGERRIAN_CHR_blackmoor: "Blackmoor" #NT!
+  ZYGERRIAN_CHR_hwang: "Hwang" #NT!
+  ZYGERRIAN_CHR_vekarr: "Vekarr" #NT!
+  ZYGERRIAN_CHR_amon: "Amon" #NT!
+  ZYGERRIAN_CHR_thiddex: "Thiddex" #NT!
+  ZYGERRIAN_CHR_selkayim: "Selkayim" #NT!
+  ZYGERRIAN_CHR_gilder: "Gilder" #NT!
+  ZYGERRIAN_CHR_dhuramav: "Dhuramav" #NT!
+  ZYGERRIAN_CHR_kodd: "Kodd" #NT!
+  ZYGERRIAN_CHR_morin: "Morin" #NT!
+  ZYGERRIAN_CHR_kobylarz: "Kobylarz" #NT!
+  ZYGERRIAN_CHR_tade: "Tade" #NT!
+  ZYGERRIAN_CHR_solman: "Solman" #NT!
+  ZYGERRIAN_CHR_bintaghr: "Bintaghr" #NT!
+  ZYGERRIAN_CHR_marclonus: "Marclonus" #NT!
+  ZYGERRIAN_CHR_precore: "Precore" #NT!
+  ZYGERRIAN_CHR_solborne: "Solborne" #NT!
+  ZYGERRIAN_CHR_bailer: "Bailer" #NT!
+  ZYGERRIAN_CHR_katarn: "Katarn" #NT!
+  ZYGERRIAN_CHR_anjek: "Anjek" #NT!
+  ZYGERRIAN_CHR_dalgas: "Dalgas" #NT!
+  ZYGERRIAN_CHR_kast: "Kast" #NT!
+  ZYGERRIAN_CHR_airerith: "Airerith" #NT!
+  ZYGERRIAN_CHR_halord: "Halord" #NT!
+  ZYGERRIAN_CHR_varlash: "Varlash" #NT!
+  ZYGERRIAN_CHR_jalba: "Jalba" #NT!
+  ZYGERRIAN_CHR_benn: "Benn" #NT!
+  ZYGERRIAN_CHR_haruhana: "Haruhana" #NT!
+  ZYGERRIAN_CHR_roice: "Roice" #NT!
+  ZYGERRIAN_CHR_lokar: "Lokar" #NT!
+  ZYGERRIAN_CHR_korpil: "Korpil" #NT!
+  ZYGERRIAN_CHR_turon: "Turon" #NT!
+  ZYGERRIAN_CHR_cavi: "Cavi" #NT!
+  ZYGERRIAN_CHR_deece: "Deece" #NT!
+  ZYGERRIAN_CHR_braitano: "Braitano" #NT!
+  ZYGERRIAN_CHR_garnik: "Garnik" #NT!
+  ZYGERRIAN_CHR_tyandas: "Tyandas" #NT!
+  ZYGERRIAN_CHR_ka_taramas: "Ka'Taramas" #NT!
+  ZYGERRIAN_CHR_nuwest: "Nuwest" #NT!
+  ZYGERRIAN_CHR_forte: "Forte" #NT!
+  ZYGERRIAN_CHR_noshey: "Noshey" #NT!
+  ZYGERRIAN_CHR_gyyll: "Gyyll" #NT!
+  ZYGERRIAN_CHR_tallon: "Tallon" #NT!
+  ZYGERRIAN_CHR_liorre: "Liorre" #NT!
+  ZYGERRIAN_CHR_adras: "Adras" #NT!
+  ZYGERRIAN_CHR_peoly: "Peoly" #NT!
+  ZYGERRIAN_CHR_damiel: "Damiel" #NT!
+  ZYGERRIAN_CHR_pau: "Pau" #NT!
+  ZYGERRIAN_CHR_drayvek: "Drayvek" #NT!
+  ZYGERRIAN_CHR_zaposug: "Zaposug" #NT!
+  ZYGERRIAN_CHR_molec_stane: "Molec-Stane" #NT!
+  ZYGERRIAN_CHR_bela_trepada: "Bela-Trepada" #NT!
+  ZYGERRIAN_CHR_defelice: "Defelice" #NT!
+  ZYGERRIAN_CHR_monsula: "Monsula" #NT!
+  ZYGERRIAN_CHR_baralein: "Baralein" #NT!
+  ZYGERRIAN_CHR_denive: "Denive" #NT!
+  ZYGERRIAN_CHR_hodrren: "Hodrren" #NT!
+  ZYGERRIAN_CHR_xergo: "Xergo" #NT!
+  ZYGERRIAN_CHR_sarat: "Sarat" #NT!
+  ZYGERRIAN_CHR_vercet: "Vercet" #NT!
+  ZYGERRIAN_CHR_ossaki: "Ossaki" #NT!
+  ZYGERRIAN_CHR_kappa: "Kappa" #NT!
+  ZYGERRIAN_CHR_zerga: "Zerga" #NT!
+  ZYGERRIAN_CHR_kopos: "Kopos" #NT!
+  ZYGERRIAN_CHR_aldrecht: "Aldrecht" #NT!
+  ZYGERRIAN_CHR_bohme: "Bohme" #NT!
+  ZYGERRIAN_CHR_tull: "Tull" #NT!
+  ZYGERRIAN_CHR_eldrel: "Eldrel" #NT!
+  ZYGERRIAN_CHR_marh: "Marh" #NT!
+  ZYGERRIAN_CHR_darkwin: "Darkwin" #NT!
+  ZYGERRIAN_CHR_krandor: "Krandor" #NT!
+  ZYGERRIAN_CHR_montag: "Montag" #NT!
+  ZYGERRIAN_CHR_dimodan: "Dimodan" #NT!
+  ZYGERRIAN_CHR_starkist: "Starkist" #NT!
+  ZYGERRIAN_CHR_veloor: "Veloor" #NT!
+  ZYGERRIAN_CHR_mohebbi: "Mohebbi" #NT!
+  ZYGERRIAN_CHR_runalian: "Runalian" #NT!
+  ZYGERRIAN_CHR_binette: "Binette" #NT!
+  ZYGERRIAN_CHR_laurent: "Laurent" #NT!
+  ZYGERRIAN_CHR_mavr: "Mavr" #NT!
+  ZYGERRIAN_CHR_ryra: "Ryra" #NT!
+  ZYGERRIAN_CHR_truden: "Truden" #NT!
+  ZYGERRIAN_CHR_molec_tade: "Molec-Tade" #NT!
+  ZYGERRIAN_CHR_starkholov: "Starkholov" #NT!
+  ZYGERRIAN_CHR_amekka: "Amekka" #NT!
+  ZYGERRIAN_CHR_avara: "Avara" #NT!
+  ZYGERRIAN_CHR_andrell: "Andrell" #NT!
+  ZYGERRIAN_CHR_annon: "Annon" #NT!
+  ZYGERRIAN_CHR_anteron: "Anteron" #NT!
+  ZYGERRIAN_CHR_atanna: "Atanna" #NT!
+  ZYGERRIAN_CHR_baab: "Baab" #NT!
+  ZYGERRIAN_CHR_barc: "Barc" #NT!
+  ZYGERRIAN_CHR_bonteri: "Bonteri" #NT!
+  ZYGERRIAN_CHR_breemu: "Breemu" #NT!
+  ZYGERRIAN_CHR_bremack: "Bremack" #NT!
+  ZYGERRIAN_CHR_bronk: "Bronk" #NT!
+  ZYGERRIAN_CHR_burtoni: "Burtoni" #NT!
+  ZYGERRIAN_CHR_cadaman: "Cadaman" #NT!
+  ZYGERRIAN_CHR_callen: "Callen" #NT!
+  ZYGERRIAN_CHR_ilisin: "Ilisin" #NT!
+  ZYGERRIAN_CHR_ledwellow: "Ledwellow" #NT!
+  ZYGERRIAN_CHR_dio: "Dio" #NT!
+  ZYGERRIAN_CHR_tarabal: "Tarabal" #NT!
+  ZYGERRIAN_CHR_d_var: "D'var" #NT!
+  ZYGERRIAN_CHR_miralla: "Miralla" #NT!
+  ZYGERRIAN_CHR_miyanna: "Miyanna" #NT!
+  ZYGERRIAN_CHR_milizeth: "Milizeth" #NT!
+  ZYGERRIAN_CHR_milerrena: "Milerrena" #NT!
+  ZYGERRIAN_CHR_millara: "Millara" #NT!
+  ZYGERRIAN_CHR_alkema: "Alkema" #NT!

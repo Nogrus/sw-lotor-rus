@@ -1,221 +1,221 @@
 ﻿l_russian:
- KILLIK_cleaner: "Cleaner"
- KILLIK_sentry: "Sentry"
- KILLIK_raider: "Raider"
- KILLIK_sapper: "Sapper"
- KILLIK_stalker: "Stalker"
- KILLIK_ambusher: "Ambusher"
- KILLIK_scavenger: "Scavenger"
- KILLIK_cutter: "Cutter"
- KILLIK_brute: "Brute"
- KILLIK_scout: "Scout"
- KILLIK_troweler: "Troweler"
- KILLIK_tracker: "Tracker"
- KILLIK_guard: "Guard"
- KILLIK_sentinel: "Sentinel"
- KILLIK_spawn: "Spawn"
- KILLIK_maggot: "Maggot"
- KILLIK_drone: "Drone"
- KILLIK_larvae: "Larvae"
- KILLIK_broodlord: "Broodlord"
- KILLIK_hive_queen: "Hive Queen"
- KILLIK_hive_lord: "Hive Lord"
- KILLIK_nest_scrounger: "Nest Scrounger"
- KILLIK_hive_charger: "Hive Charger"
- KILLIK_night_herald: "Night Herald"
- KILLIK_invader: "Invader"
- KILLIK_tyrant: "Tyrant"
- KILLIK_patroller: "Patroller"
- KILLIK_warseeker: "Warseeker"
- KILLIK_protector: "Protector"
- KILLIK_siege_screecher: "Siege Screecher"
- KILLIK_siege_ravager: "Siege Ravager"
- KILLIK_siege_berserker: "Siege Berserker"
- KILLIK_burrow_commando: "Burrow Commando"
- KILLIK_siege_commander: "Siege Commander"
- KILLIK_nest_brawler: "Nest Brawler"
- KILLIK_siege_patriarch: "Siege Patriarch"
- KILLIK_tanker: "Tanker"
- KILLIK_dredger: "Dredger"
- KILLIK_burrow_veteran: "Burrow Veteran"
- KILLIK_hive_grounder: "Hive Grounder"
- KILLIK_nest_sentry: "Nest Sentry"
- KILLIK_waylayer: "Waylayer"
- KILLIK_nest_reaver: "Nest Reaver"
- KILLIK_thuruht_queen: "Thuruht Queen"
- KILLIK_killik_praetor: "Killik Praetor"
- KILLIK_herald_of_yoggoy: "Herald of Yoggoy"
- KILLIK_membrosia: "Membrosia"
- KILLIK_white_membrosia: "White Membrosia"
- KILLIK_gold_membrosia: "Gold Membrosia"
- KILLIK_black_membrosia: "Black Membrosia"
- KILLIK_summa_verminoth: "Summa-verminoth"
- KILLIK_exogorth: "Exogorth"
- KILLIK_purrgil: "Purrgil"
- KILLIK_neebray: "Neebray"
- KILLIK_mynock: "Mynock"
- KILLIK_barri: "Barri"
- KILLIK_gralloc: "Gralloc"
- KILLIK_grutchin: "Grutchin"
- KILLIK_oswaft: "Oswaft"
- KILLIK_ridadi: "Ridadi"
- KILLIK_scree: "Scree"
- KILLIK_space_grazer: "Space Grazer"
- KILLIK_stillsail: "Stillsail"
- KILLIK_qolaraloq: "Qolaraloq"
- KILLIK_minder: "Minder"
- KILLIK_watcher: "Watcher"
- KILLIK_burrower: "Burrower"
- KILLIK_tunneler: "Tunneler"
- KILLIK_nester: "Nester"
- KILLIK_breeder: "Breeder"
- KILLIK_worker_drone_aurek: "Worker Drone Aurek"
- KILLIK_worker_drone_besh: "Worker Drone Besh"
- KILLIK_worker_drone_cresh: "Worker Drone Cresh"
- KILLIK_worker_drone_dorn: "Worker Drone Dorn"
- KILLIK_worker_drone_forn: "Worker Drone Forn"
- KILLIK_worker_drone_grek: "Worker Drone Grek"
- KILLIK_worker_drone_herf: "Worker Drone Herf"
- KILLIK_worker_drone_isk: "Worker Drone Isk"
- KILLIK_worker_drone_jenth: "Worker Drone Jenth"
- KILLIK_worker_drone_krill: "Worker Drone Krill"
- KILLIK_worker_drone_leth: "Worker Drone Leth"
- KILLIK_worker_drone_mern: "Worker Drone Mern"
- KILLIK_worker_drone_nern: "Worker Drone Nern"
- KILLIK_worker_drone_osk: "Worker Drone Osk"
- KILLIK_worker_drone_peth: "Worker Drone Peth"
- KILLIK_worker_drone_senth: "Worker Drone Senth"
- KILLIK_worker_drone_trill: "Worker Drone Trill"
- KILLIK_worker_drone_usk: "Worker Drone Usk"
- KILLIK_worker_drone_vev: "Worker Drone Vev"
- KILLIK_worker_drone_wesk: "Worker Drone Wesk"
- KILLIK_worker_drone_xesh: "Worker Drone Xesh"
- KILLIK_worker_drone_yirt: "Worker Drone Yirt"
- KILLIK_worker_drone_zerek: "Worker Drone Zerek"
- KILLIK_worker_drone_cherek: "Worker Drone Cherek"
- KILLIK_worker_drone_qek: "Worker Drone Qek"
- KILLIK_worker_drone_resh: "Worker Drone Resh"
- KILLIK_worker_drone_enth: "Worker Drone Enth"
- KILLIK_worker_drone_onith: "Worker Drone Onith"
- KILLIK_worker_drone_krenth: "Worker Drone Krenth"
- KILLIK_worker_drone_nen: "Worker Drone Nen"
- KILLIK_worker_drone_orenth: "Worker Drone Orenth"
- KILLIK_worker_drone_shen: "Worker Drone Shen"
- KILLIK_worker_drone_thesh: "Worker Drone Thesh"
- KILLIK_siege_lander: "Siege Lander"
- KILLIK_FLEET_hive_fleet_alaala: "Hive Fleet Alaala"
- KILLIK_FLEET_hive_fleet_jooj: "Hive Fleet Jooj"
- KILLIK_FLEET_hive_fleet_mueum: "Hive Fleet Mueum"
- KILLIK_FLEET_hive_fleet_saras: "Hive Fleet Saras"
- KILLIK_FLEET_hive_fleet_wuluw: "Hive Fleet Wuluw"
- KILLIK_FLEET_hive_fleet_sabas: "Hive Fleet Sabas"
- KILLIK_FLEET_hive_fleet_kitinitik: "Hive Fleet Kitinitik"
- KILLIK_FLEET_hive_fleet_ruur: "Hive Fleet Ruur"
- KILLIK_FLEET_hive_fleet_aesea: "Hive Fleet Aesea"
- KILLIK_FLEET_hive_fleet_oroboro: "Hive Fleet Oroboro"
- KILLIK_FLEET_hive_fleet_aebea: "Hive Fleet Aebea"
- KILLIK_FLEET_hive_fleet_gorog: "Hive Fleet Gorog"
- KILLIK_FLEET_hive_fleet_horoh: "Hive Fleet Horoh"
- KILLIK_FLEET_hive_fleet_iesei: "Hive Fleet Iesei"
- KILLIK_FLEET_hive_fleet_kolosolok: "Hive Fleet Kolosolok"
- KILLIK_FLEET_hive_fleet_lizil: "Hive Fleet Lizil"
- KILLIK_FLEET_hive_fleet_mollom: "Hive Fleet Mollom"
- KILLIK_FLEET_hive_fleet_qeeq: "Hive Fleet Qeeq"
- KILLIK_FLEET_hive_fleet_rekker: "Hive Fleet Rekker"
- KILLIK_FLEET_hive_fleet_sotatos: "Hive Fleet Sotatos"
- KILLIK_FLEET_hive_fleet_taat: "Hive Fleet Taat"
- KILLIK_FLEET_hive_fleet_togot: "Hive Fleet Togot"
- KILLIK_FLEET_hive_fleet_unu: "Hive Fleet Unu"
- KILLIK_FLEET_hive_fleet_uwu: "Hive Fleet Uwu"
- KILLIK_FLEET_hive_fleet_owo: "Hive Fleet Owo"
- KILLIK_FLEET_hive_fleet_yoggoy: "Hive Fleet Yoggoy"
- KILLIK_FLEET_hive_fleet_ukunuku: "Hive Fleet Ukunuku"
- KILLIK_FLEET_hive_fleet_thuruht: "Hive Fleet Thuruht"
- KILLIK_FLEET_SEQUENTIAL_hive_fleet: "$ORD$ Hive Fleet"
- KILLIK_ARMY_SEQUENTIAL_defense_force: "$ORD$ Defense Force"
- KILLIK_ARMY_SEQUENTIAL_strike_force: "$ORD$ Strike Force"
- KILLIK_ARMY_SEQUENTIAL_hive_enforcer: "$ORD$ Hive Enforcer"
- KILLIK_ARMY_SEQUENTIAL_siege_swarmer: "$ORD$ Siege Swarmer"
- KILLIK_ARMY_SEQUENTIAL_joiners: "$ORD$ Joiners"
- KILLIK_ARMY_SEQUENTIAL_clone_division: "$ORD$ Clone Division"
- KILLIK_ARMY_SEQUENTIAL_dread_division: "$ORD$ Dread Division"
- KILLIK_ARMY_SEQUENTIAL_robotic_strike_force: "$ORD$ Robotic Strike Force"
- KILLIK_ARMY_SEQUENTIAL_robotic_defense_force: "$ORD$ Robotic Defense Force"
- KILLIK_ARMY_SEQUENTIAL_r_broodmaster_ROM: "$R$ Broodmaster"
- KILLIK_ARMY_SEQUENTIAL_berzerker: "$ORD$ Berzerker"
- KILLIK_ARMY_SEQUENTIAL_burrow_commando: "$ORD$ Burrow Commando"
- KILLIK_ARMY_SEQUENTIAL_occupation_force: "$ORD$ Occupation Force"
- KILLIK_ARMY_SEQUENTIAL_mechanized_occupiers: "$ORD$ Mechanized Occupiers"
- KILLIK_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- KILLIK_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- KILLIK_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- KILLIK_CHR_alaala: "Alaala"
- KILLIK_CHR_jooj: "Jooj"
- KILLIK_CHR_mueum: "Mueum"
- KILLIK_CHR_saras: "Saras"
- KILLIK_CHR_wuluw: "Wuluw"
- KILLIK_CHR_sabas: "Sabas"
- KILLIK_CHR_kitinitik: "Kitinitik"
- KILLIK_CHR_ruur: "Ruur"
- KILLIK_CHR_aesea: "Aesea"
- KILLIK_CHR_oroboro: "Oroboro"
- KILLIK_CHR_aebea: "Aebea"
- KILLIK_CHR_gorog: "Gorog"
- KILLIK_CHR_horoh: "Horoh"
- KILLIK_CHR_iesei: "Iesei"
- KILLIK_CHR_kolosolok: "Kolosolok"
- KILLIK_CHR_lizil: "Lizil"
- KILLIK_CHR_mollom: "Mollom"
- KILLIK_CHR_qeeq: "Qeeq"
- KILLIK_CHR_rekker: "Rekker"
- KILLIK_CHR_sotatos: "Sotatos"
- KILLIK_CHR_taat: "Taat"
- KILLIK_CHR_togot: "Togot"
- KILLIK_CHR_unu: "Unu"
- KILLIK_CHR_uwu: "Uwu"
- KILLIK_CHR_owo: "Owo"
- KILLIK_CHR_ukunuku: "Ukunuku"
- KILLIK_CHR_thuruht: "Thuruht"
- KILLIK_CHR_florolf: "Florolf"
- KILLIK_CHR_leekeel: "Leekeel"
- KILLIK_CHR_leeneel: "Leeneel"
- KILLIK_CHR_kavonnovak: "Kavonnovak"
- KILLIK_CHR_bobbob: "Bobbob"
- KILLIK_CHR_agga: "Agga"
- KILLIK_CHR_maebeam: "Maebeam"
- KILLIK_CHR_timsmit: "Timsmit"
- KILLIK_CHR_tacocat: "Tacocat"
- KILLIK_CHR_ptahqhatp: "Ptahqhatp"
- KILLIK_CHR_groggorg: "Groggorg"
- KILLIK_CHR_geeg: "Geeg"
- KILLIK_CHR_eggge: "Eggge"
- KILLIK_CHR_bobob: "Bobob"
- KILLIK_CHR_tabat: "Tabat"
- KILLIK_CHR_celec: "Celec"
- KILLIK_CHR_zoz: "Zoz"
- KILLIK_CHR_adalada: "Adalada"
- KILLIK_CHR_cuiuc: "Cuiuc"
- KILLIK_CHR_jeej: "Jeej"
- KILLIK_CHR_albla: "Albla"
- KILLIK_CHR_heegeeh: "Heegeeh"
- KILLIK_CHR_masam: "Masam"
- KILLIK_CHR_ogopogo: "Ogopogo"
- KILLIK_CHR_senes: "Senes"
- KILLIK_CHR_zzz: "Zzz"
- KILLIK_CHR_kanak: "Kanak"
- KILLIK_CHR_lul: "Lul"
- KILLIK_CHR_dad: "Dad"
- KILLIK_CHR_bub: "Bub"
- KILLIK_CHR_hattah: "Hattah"
- KILLIK_CHR_sokos: "Sokos"
- KILLIK_CHR_monom: "Monom"
- KILLIK_CHR_ere: "Ere"
- KILLIK_CHR_alseeseesla: "Alseeseesla"
- KILLIK_CHR_rosor: "Rosor"
- KILLIK_CHR_ssess: "Ssess"
- KILLIK_CHR_kolok: "Kolok"
- KILLIK_CHR_ieseeseesei: "Ieseeseesei"
- KILLIK_CHR_aeseeseesea: "Aeseeseesea"
- KILLIK_CHR_kitik: "Kitik"
- KILLIK_CHR_yoggoy: "Yoggoy"
- KILLIK_CHR_soros: "Soros"
+  KILLIK_cleaner: "Чистильщик" #NT!
+  KILLIK_sentry: "Часовой" #NT!
+  KILLIK_raider: "Налетчик" #NT!
+  KILLIK_sapper: "Сапёр" #NT!
+  KILLIK_stalker: "Сталкер" #NT!
+  KILLIK_ambusher: "Засадник" #NT!
+  KILLIK_scavenger: "Мусорщик" #NT!
+  KILLIK_cutter: "Резчик" #NT!
+  KILLIK_brute: "Дикарь" #NT!
+  KILLIK_scout: "Скаут" #NT!
+  KILLIK_troweler: "Затирщик" #NT!
+  KILLIK_tracker: "Ищейка" #NT!
+  KILLIK_guard: "Стражник" #NT!
+  KILLIK_sentinel: "Дозорный" #NT!
+  KILLIK_spawn: "Порождение" #NT!
+  KILLIK_maggot: "Опарыш" #NT!
+  KILLIK_drone: "Трутень" #NT!
+  KILLIK_larvae: "Личинка" #NT!
+  KILLIK_broodlord: "Повелитель выводка" #NT!
+  KILLIK_hive_queen: "Королева улья" #NT!
+  KILLIK_hive_lord: "Лорд улья" #NT!
+  KILLIK_nest_scrounger: "Гнездовой воришка" #NT!
+  KILLIK_hive_charger: "Боевик улья" #NT!
+  KILLIK_night_herald: "Ночной вестник" #NT!
+  KILLIK_invader: "Вторженец" #NT!
+  KILLIK_tyrant: "Тиран" #NT!
+  KILLIK_patroller: "Патрульный" #NT!
+  KILLIK_warseeker: "Искатель войны" #NT!
+  KILLIK_protector: "Покровитель" #NT!
+  KILLIK_siege_screecher: "Осадный визжак" #NT!
+  KILLIK_siege_ravager: "Осадный разоритель" #NT!
+  KILLIK_siege_berserker: "Осадный берсерк" #NT!
+  KILLIK_burrow_commando: "Роющий коммандо" #NT!
+  KILLIK_siege_commander: "Осадный коммандер" #NT!
+  KILLIK_nest_brawler: "Гнездовой скандалист" #NT!
+  KILLIK_siege_patriarch: "Осадный патриарх" #NT!
+  KILLIK_tanker: "Танкер" #NT!
+  KILLIK_dredger: "Землекоп" #NT!
+  KILLIK_burrow_veteran: "Роющий ветеран" #NT!
+  KILLIK_hive_grounder: "Землерой улья" #NT!
+  KILLIK_nest_sentry: "Гнездовой дозорный" #NT!
+  KILLIK_waylayer: "Путник" #NT!
+  KILLIK_nest_reaver: "Гнездовой разбойник" #NT!
+  KILLIK_thuruht_queen: "Королева Тхурухт" #NT!
+  KILLIK_killik_praetor: "Киллик-претор" #NT!
+  KILLIK_herald_of_yoggoy: "Вестник Йоггоя" #NT!
+  KILLIK_membrosia: "Мемброзия" #NT!
+  KILLIK_white_membrosia: "Белая мемброзия" #NT!
+  KILLIK_gold_membrosia: "Золотая мемброзия" #NT!
+  KILLIK_black_membrosia: "Чёрная мемброзия" #NT!
+  KILLIK_summa_verminoth: "Самма-верминот" #NT!
+  KILLIK_exogorth: "Экзогорт" #NT!
+  KILLIK_purrgil: "Пёрргил" #NT!
+  KILLIK_neebray: "Нибрай" #NT!
+  KILLIK_mynock: "Майнок" #NT!
+  KILLIK_barri: "Барри" #NT!
+  KILLIK_gralloc: "Граллок" #NT!
+  KILLIK_grutchin: "Гратчин" #NT!
+  KILLIK_oswaft: "Освафт" #NT!
+  KILLIK_ridadi: "Ридади" #NT!
+  KILLIK_scree: "Скри" #NT!
+  KILLIK_space_grazer: "Космический пожиратель" #NT!
+  KILLIK_stillsail: "Плавучий парус" #NT!
+  KILLIK_qolaraloq: "Коларалог" #NT!
+  KILLIK_minder: "Механик" #NT!
+  KILLIK_watcher: "Страж" #NT!
+  KILLIK_burrower: "Роеющий" #NT!
+  KILLIK_tunneler: "Копатель" #NT!
+  KILLIK_nester: "Гнездовик" #NT!
+  KILLIK_breeder: "Заводчик" #NT!
+  KILLIK_worker_drone_aurek: "Рабочий трутень «Аурек»" #NT!
+  KILLIK_worker_drone_besh: "Рабочий трутень «Беш»" #NT!
+  KILLIK_worker_drone_cresh: "Рабочий трутень «Креш»" #NT!
+  KILLIK_worker_drone_dorn: "Рабочий трутень «Дорн»" #NT!
+  KILLIK_worker_drone_forn: "Рабочий трутень «Форн»" #NT!
+  KILLIK_worker_drone_grek: "Рабочий трутень «Грек»" #NT!
+  KILLIK_worker_drone_herf: "Рабочий трутень «Херф»" #NT!
+  KILLIK_worker_drone_isk: "Рабочий трутень «Иск»" #NT!
+  KILLIK_worker_drone_jenth: "Рабочий трутень «Джент»" #NT!
+  KILLIK_worker_drone_krill: "Рабочий трутень «Крилл»" #NT!
+  KILLIK_worker_drone_leth: "Рабочий трутень «Лет»" #NT!
+  KILLIK_worker_drone_mern: "Рабочий трутень «Мерн»" #NT!
+  KILLIK_worker_drone_nern: "Рабочий трутень «Нерн»" #NT!
+  KILLIK_worker_drone_osk: "Рабочий трутень «Оск»" #NT!
+  KILLIK_worker_drone_peth: "Рабочий трутень «Пет»" #NT!
+  KILLIK_worker_drone_senth: "Рабочий трутень «Сент»" #NT!
+  KILLIK_worker_drone_trill: "Рабочий трутень «Трилл»" #NT!
+  KILLIK_worker_drone_usk: "Рабочий трутень «Уск»" #NT!
+  KILLIK_worker_drone_vev: "Рабочий трутень «Вев»" #NT!
+  KILLIK_worker_drone_wesk: "Рабочий трутень «Уэск»" #NT!
+  KILLIK_worker_drone_xesh: "Рабочий трутень «Зеш»" #NT!
+  KILLIK_worker_drone_yirt: "Рабочий трутень «Йирт»" #NT!
+  KILLIK_worker_drone_zerek: "Рабочий трутень «Зерек»" #NT!
+  KILLIK_worker_drone_cherek: "Рабочий трутень «Черек»" #NT!
+  KILLIK_worker_drone_qek: "Рабочий трутень «Кек»" #NT!
+  KILLIK_worker_drone_resh: "Рабочий трутень «Реш»" #NT!
+  KILLIK_worker_drone_enth: "Рабочий трутень «Энт»" #NT!
+  KILLIK_worker_drone_onith: "Рабочий трутень «Онит»" #NT!
+  KILLIK_worker_drone_krenth: "Рабочий трутень «Крент»" #NT!
+  KILLIK_worker_drone_nen: "Рабочий трутень «Нен»" #NT!
+  KILLIK_worker_drone_orenth: "Рабочий трутень «Орент»" #NT!
+  KILLIK_worker_drone_shen: "Рабочий трутень «Шен»" #NT!
+  KILLIK_worker_drone_thesh: "Рабочий трутень «Теш»" #NT!
+  KILLIK_siege_lander: "Осадный носитель" #NT!
+  KILLIK_FLEET_hive_fleet_alaala: "Флот-улей «Алаала»" #NT!
+  KILLIK_FLEET_hive_fleet_jooj: "Флот-улей «Джуж»" #NT!
+  KILLIK_FLEET_hive_fleet_mueum: "Флот-улей «Муэум»" #NT!
+  KILLIK_FLEET_hive_fleet_saras: "Флот-улей «Сарас»" #NT!
+  KILLIK_FLEET_hive_fleet_wuluw: "Флот-улей «Вулув»" #NT!
+  KILLIK_FLEET_hive_fleet_sabas: "Флот-улей «Сабас»" #NT!
+  KILLIK_FLEET_hive_fleet_kitinitik: "Флот-улей «Китинитик»" #NT!
+  KILLIK_FLEET_hive_fleet_ruur: "Флот-улей «Руур»" #NT!
+  KILLIK_FLEET_hive_fleet_aesea: "Флот-улей «Аэсеа»" #NT!
+  KILLIK_FLEET_hive_fleet_oroboro: "Флот-улей «Ороборо»" #NT!
+  KILLIK_FLEET_hive_fleet_aebea: "Флот-улей «Аэбеа»" #NT!
+  KILLIK_FLEET_hive_fleet_gorog: "Флот-улей «Горог»" #NT!
+  KILLIK_FLEET_hive_fleet_horoh: "Флот-улей «Хорох»" #NT!
+  KILLIK_FLEET_hive_fleet_iesei: "Флот-улей «Лесей»" #NT!
+  KILLIK_FLEET_hive_fleet_kolosolok: "Флот-улей «Колосолок»" #NT!
+  KILLIK_FLEET_hive_fleet_lizil: "Флот-улей «Лизил»" #NT!
+  KILLIK_FLEET_hive_fleet_mollom: "Флот-улей «Моллом»" #NT!
+  KILLIK_FLEET_hive_fleet_qeeq: "Флот-улей «Кик»" #NT!
+  KILLIK_FLEET_hive_fleet_rekker: "Флот-улей «Реккер»" #NT!
+  KILLIK_FLEET_hive_fleet_sotatos: "Флот-улей «Сотатос»" #NT!
+  KILLIK_FLEET_hive_fleet_taat: "Флот-улей «Таат»" #NT!
+  KILLIK_FLEET_hive_fleet_togot: "Флот-улей «Тогот»" #NT!
+  KILLIK_FLEET_hive_fleet_unu: "Флот-улей «Уну»" #NT!
+  KILLIK_FLEET_hive_fleet_uwu: "Флот-улей «Уву»" #NT!
+  KILLIK_FLEET_hive_fleet_owo: "Флот-улей «Ово»" #NT!
+  KILLIK_FLEET_hive_fleet_yoggoy: "Флот-улей «Йоггой»" #NT!
+  KILLIK_FLEET_hive_fleet_ukunuku: "Флот-улей «Укунуку»" #NT!
+  KILLIK_FLEET_hive_fleet_thuruht: "Флот-улей «Тхурухт»" #NT!
+  KILLIK_FLEET_SEQUENTIAL_hive_fleet: "$ORD$ Hive Fleet" #NT!
+  KILLIK_ARMY_SEQUENTIAL_defense_force: "$ORD$ Defense Force" #NT!
+  KILLIK_ARMY_SEQUENTIAL_strike_force: "$ORD$ Strike Force" #NT!
+  KILLIK_ARMY_SEQUENTIAL_hive_enforcer: "$ORD$ Hive Enforcer" #NT!
+  KILLIK_ARMY_SEQUENTIAL_siege_swarmer: "$ORD$ Siege Swarmer" #NT!
+  KILLIK_ARMY_SEQUENTIAL_joiners: "$ORD$ Joiners" #NT!
+  KILLIK_ARMY_SEQUENTIAL_clone_division: "$ORD$ Clone Division" #NT!
+  KILLIK_ARMY_SEQUENTIAL_dread_division: "$ORD$ Dread Division" #NT!
+  KILLIK_ARMY_SEQUENTIAL_robotic_strike_force: "$ORD$ Robotic Strike Force" #NT!
+  KILLIK_ARMY_SEQUENTIAL_robotic_defense_force: "$ORD$ Robotic Defense Force" #NT!
+  KILLIK_ARMY_SEQUENTIAL_r_broodmaster_ROM: "$R$ Глава выводка" #NT!
+  KILLIK_ARMY_SEQUENTIAL_berzerker: "$ORD$ Berzerker" #NT!
+  KILLIK_ARMY_SEQUENTIAL_burrow_commando: "$ORD$ Burrow Commando" #NT!
+  KILLIK_ARMY_SEQUENTIAL_occupation_force: "$ORD$ Occupation Force" #NT!
+  KILLIK_ARMY_SEQUENTIAL_mechanized_occupiers: "$ORD$ Mechanized Occupiers" #NT!
+  KILLIK_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  KILLIK_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  KILLIK_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  KILLIK_CHR_alaala: "Алаала" #NT!
+  KILLIK_CHR_jooj: "Жуж" #NT!
+  KILLIK_CHR_mueum: "Mueum" #NT!
+  KILLIK_CHR_saras: "Saras" #NT!
+  KILLIK_CHR_wuluw: "Wuluw" #NT!
+  KILLIK_CHR_sabas: "Sabas" #NT!
+  KILLIK_CHR_kitinitik: "Kitinitik" #NT!
+  KILLIK_CHR_ruur: "Руур" #NT!
+  KILLIK_CHR_aesea: "Aesea" #NT!
+  KILLIK_CHR_oroboro: "Ороборо" #NT!
+  KILLIK_CHR_aebea: "Aebea" #NT!
+  KILLIK_CHR_gorog: "Горог" #NT!
+  KILLIK_CHR_horoh: "Хорох" #NT!
+  KILLIK_CHR_iesei: "Iesei" #NT!
+  KILLIK_CHR_kolosolok: "Kolosolok" #NT!
+  KILLIK_CHR_lizil: "Лизил" #NT!
+  KILLIK_CHR_mollom: "Моллом" #NT!
+  KILLIK_CHR_qeeq: "Кик" #NT!
+  KILLIK_CHR_rekker: "Реккер" #NT!
+  KILLIK_CHR_sotatos: "Сотатос" #NT!
+  KILLIK_CHR_taat: "Таат" #NT!
+  KILLIK_CHR_togot: "Тогот" #NT!
+  KILLIK_CHR_unu: "Уну" #NT!
+  KILLIK_CHR_uwu: "Уву" #NT!
+  KILLIK_CHR_owo: "Ово" #NT!
+  KILLIK_CHR_ukunuku: "Укунуку" #NT!
+  KILLIK_CHR_thuruht: "Турухт" #NT!
+  KILLIK_CHR_florolf: "Флоролф" #NT!
+  KILLIK_CHR_leekeel: "Ликил" #NT!
+  KILLIK_CHR_leeneel: "Линил" #NT!
+  KILLIK_CHR_kavonnovak: "Kavonnovak" #NT!
+  KILLIK_CHR_bobbob: "Bobbob" #NT!
+  KILLIK_CHR_agga: "Агга" #NT!
+  KILLIK_CHR_maebeam: "Maebeam" #NT!
+  KILLIK_CHR_timsmit: "Timsmit" #NT!
+  KILLIK_CHR_tacocat: "Tacocat" #NT!
+  KILLIK_CHR_ptahqhatp: "Ptahqhatp" #NT!
+  KILLIK_CHR_groggorg: "Groggorg" #NT!
+  KILLIK_CHR_geeg: "Geeg" #NT!
+  KILLIK_CHR_eggge: "Eggge" #NT!
+  KILLIK_CHR_bobob: "Bobob" #NT!
+  KILLIK_CHR_tabat: "Tabat" #NT!
+  KILLIK_CHR_celec: "Celec" #NT!
+  KILLIK_CHR_zoz: "Зоз" #NT!
+  KILLIK_CHR_adalada: "Адалада" #NT!
+  KILLIK_CHR_cuiuc: "Cuiuc" #NT!
+  KILLIK_CHR_jeej: "Джидж" #NT!
+  KILLIK_CHR_albla: "Албла" #NT!
+  KILLIK_CHR_heegeeh: "Хигих" #NT!
+  KILLIK_CHR_masam: "Масам" #NT!
+  KILLIK_CHR_ogopogo: "Ogopogo" #NT!
+  KILLIK_CHR_senes: "Senes" #NT!
+  KILLIK_CHR_zzz: "Zzz" #NT!
+  KILLIK_CHR_kanak: "Kanak" #NT!
+  KILLIK_CHR_lul: "Lul" #NT!
+  KILLIK_CHR_dad: "Dad" #NT!
+  KILLIK_CHR_bub: "Bub" #NT!
+  KILLIK_CHR_hattah: "Hattah" #NT!
+  KILLIK_CHR_sokos: "Sokos" #NT!
+  KILLIK_CHR_monom: "Monom" #NT!
+  KILLIK_CHR_ere: "Ere" #NT!
+  KILLIK_CHR_alseeseesla: "Alseeseesla" #NT!
+  KILLIK_CHR_rosor: "Rosor" #NT!
+  KILLIK_CHR_ssess: "Ssess" #NT!
+  KILLIK_CHR_kolok: "Kolok" #NT!
+  KILLIK_CHR_ieseeseesei: "Ieseeseesei" #NT!
+  KILLIK_CHR_aeseeseesea: "Aeseeseesea" #NT!
+  KILLIK_CHR_kitik: "Kitik" #NT!
+  KILLIK_CHR_yoggoy: "Yoggoy" #NT!
+  KILLIK_CHR_soros: "Soros" #NT!

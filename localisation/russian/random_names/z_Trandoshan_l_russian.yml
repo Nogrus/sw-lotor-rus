@@ -1,722 +1,722 @@
 ﻿l_russian:
- TRAND_making_a_killing: "Making a Killing"
- TRAND_smokeswimmer: "Smokeswimmer"
- TRAND_red_eclipse: "Red Eclipse"
- TRAND_halo: "Halo"
- TRAND_dangerous_game: "Dangerous Game"
- TRAND_basic_instinct: "Basic Instinct"
- TRAND_animal_cunning: "Animal Cunning"
- TRAND_predator: "Predator"
- TRAND_apex: "Apex"
- TRAND_chaser: "Chaser"
- TRAND_stalker: "Stalker"
- TRAND_falconer: "Falconer"
- TRAND_skinner: "Skinner"
- TRAND_cold_blooded: "Cold-blooded"
- TRAND_bold_blood: "Bold Blood"
- TRAND_old_blood: "Old Blood"
- TRAND_young_blood: "Young Blood"
- TRAND_huntzard: "Huntzard"
- TRAND_pursuer: "Pursuer"
- TRAND_sportzard: "Sportzard"
- TRAND_trapper: "Trapper"
- TRAND_ferreter: "Ferreter"
- TRAND_pursuant: "Pursuant"
- TRAND_courser: "Courser"
- TRAND_wookhound: "Wookhound"
- TRAND_hound_s_tooth: "Hound's Tooth"
- TRAND_gun_hound: "Gun Hound"
- TRAND_hounder: "Hounder"
- TRAND_stalking_hound: "Stalking Hound"
- TRAND_carnivore: "Carnivore"
- TRAND_beast_of_prey: "Beast of Prey"
- TRAND_meat_eater: "Meat-Eater"
- TRAND_wook_eater: "Wook-Eater"
- TRAND_cannibal: "Cannibal"
- TRAND_carnivorous: "Carnivorous"
- TRAND_flesh_eater: "Flesh Eater"
- TRAND_hunger: "Hunger"
- TRAND_omnivore: "Omnivore"
- TRAND_rapacious: "Rapacious"
- TRAND_the_undying: "The Undying"
- TRAND_grave_of_kephess: "Grave of Kephess"
- TRAND_empty_grave: "Empty Grave"
- TRAND_scorebreaker: "Scorebreaker"
- TRAND_high_score: "High Score"
- TRAND_low_cunning: "Low Cunning"
- TRAND_unsporting: "Unsporting"
- TRAND_spoilsport: "Spoilsport"
- TRAND_spoiler: "Spoiler"
- TRAND_beater: "Beater"
- TRAND_body_corporate: "Body Corporate"
- TRAND_breaker: "Breaker"
- TRAND_abayment: "Abayment"
- TRAND_cubber: "Cubber"
- TRAND_clubber: "Clubber"
- TRAND_peckinger: "Peckinger"
- TRAND_blackfeather: "Blackfeather"
- TRAND_blackscale: "Blackscale"
- TRAND_bloodscar: "Bloodscar"
- TRAND_gone_to_ground: "Gone to Ground"
- TRAND_heeler: "Heeler"
- TRAND_overrun: "Overrun"
- TRAND_point_rider: "Point Rider"
- TRAND_riot: "Riot"
- TRAND_rut: "Rut"
- TRAND_trench_feeder: "Trench Feeder"
- TRAND_big_game: "Big Game"
- TRAND_trophy_taker: "Trophy Taker"
- TRAND_mandible: "Mandible"
- TRAND_coagulator: "Coagulator"
- TRAND_bleeder: "Bleeder"
- TRAND_easy_kill: "Easy Kill"
- TRAND_tough_shot: "Tough Shot"
- TRAND_jagannath_s_watch: "Jagannath's Watch"
- TRAND_herald_of_jagannath: "Herald of Jagannath"
- TRAND_avatar: "Avatar"
- TRAND_blood_score: "Blood Score"
- TRAND_settled_score: "Settled Score"
- TRAND_mock_hunt: "Mock Hunt"
- TRAND_t_doshok_crusade: "T'doshok Crusade"
- TRAND_crimson_nest: "Crimson Nest"
- TRAND_cruel_intention: "Cruel Intention"
- TRAND_dangerous_liaison: "Dangerous Liaison"
- TRAND_forked_tongue: "Forked Tongue"
- TRAND_white_claw: "White Claw"
- TRAND_diamond_back: "Diamond Back"
- TRAND_scalebound: "Scalebound"
- TRAND_wild_thing: "Wild Thing"
- TRAND_fatal_attraction: "Fatal Attraction"
- TRAND_body_heat: "Body Heat"
- TRAND_illicit_desire: "Illicit Desire"
- TRAND_hate_story: "Hate Story"
- TRAND_body_of_influence: "Body of Influence"
- TRAND_object_of_obsession: "Object of Obsession"
- TRAND_indecent_behavior: "Indecent Behavior"
- TRAND_deadlock: "Deadlock"
- TRAND_berserker: "Berserker"
- TRAND_goddess_of_the_hunt: "Goddess of the Hunt"
- TRAND_innocent: "Innocent"
- TRAND_pleasure_or_pain: "Pleasure or Pain"
- TRAND_kiss_of_the_beast: "Kiss of the Beast"
- TRAND_fatal_charm: "Fatal Charm"
- TRAND_fatal_bond: "Fatal Bond"
- TRAND_silver_tongue: "Silver Tongue"
- TRAND_fatal_past: "Fatal Past"
- TRAND_gross_misconduct: "Gross Misconduct"
- TRAND_verdant_letter: "Verdant Letter"
- TRAND_wicked_mind: "Wicked Mind"
- TRAND_powerplay: "Powerplay"
- TRAND_privacy_invasion: "Privacy Invasion"
- TRAND_mutual_hunt: "Mutual Hunt"
- TRAND_glass_cage: "Glass Cage"
- TRAND_mind_game: "Mind Game"
- TRAND_payback: "Payback"
- TRAND_playmaker: "Playmaker"
- TRAND_rainmaker: "Rainmaker"
- TRAND_dangerous_touch: "Dangerous Touch"
- TRAND_nightmare_visage: "Nightmare Visage"
- TRAND_cold_sweat: "Cold Sweat"
- TRAND_light_sleeper: "Light Sleeper"
- TRAND_stepper: "Stepper"
- TRAND_bitter_moon: "Bitter Moon"
- TRAND_fatal_exposure: "Fatal Exposure"
- TRAND_wild_hunt: "Wild Hunt"
- TRAND_hatched_king: "Hatched King"
- TRAND_nightmare: "Nightmare"
- TRAND_deforester: "Deforester"
- TRAND_jungler: "Jungler"
- TRAND_incisor: "Incisor"
- TRAND_clapperclaw: "Clapperclaw"
- TRAND_retractile: "Retractile"
- TRAND_ungula: "Ungula"
- TRAND_sable_spur: "Sable Spur"
- TRAND_scent_of_war: "Scent of War"
- TRAND_fear_scent: "Fear Scent"
- TRAND_serrator: "Serrator"
- TRAND_abductor: "Abductor"
- TRAND_quadrator: "Quadrator"
- TRAND_komodus: "Komodus"
- TRAND_draco: "Draco"
- TRAND_reflexive_blood: "Reflexive Blood"
- TRAND_chameleon: "Chameleon"
- TRAND_diapsid: "Diapsid"
- TRAND_varanid: "Varanid"
- TRAND_basilisk: "Basilisk"
- TRAND_third_eye: "Third Eye"
- TRAND_serpent: "Serpent"
- TRAND_ultraviolent_spec: "Ultraviolent Spectrum"
- TRAND_tokay: "Tokay"
- TRAND_ambusher: "Ambusher"
- TRAND_disruptor: "Disruptor"
- TRAND_horncrest: "Horncrest"
- TRAND_skink: "Skink"
- TRAND_saurien: "Saurien"
- TRAND_tassotasso: "Tassotasso"
- TRAND_sacrificial_arm: "Sacrificial Arm"
- TRAND_fighting_chance: "Fighting Chance"
- TRAND_memento: "Memento"
- TRAND_scalper: "Scalper"
- TRAND_glasser: "Glasser"
- TRAND_ragged_spread: "Ragged Spread"
- TRAND_raghorn: "Raghorn"
- TRAND_poacher: "Poacher"
- TRAND_highball: "Highball"
- TRAND_backtrail: "Backtrail"
- TRAND_break_point: "Break Point"
- TRAND_inside_spread: "Inside Spread"
- TRAND_iron_sight: "Iron Sight"
- TRAND_jump_hound: "Jump Hound"
- TRAND_baiter: "Baiter"
- TRAND_coffin_blind: "Coffin Blind"
- TRAND_locator: "Locator"
- TRAND_pecking_order: "Pecking Order"
- TRAND_dewclaw: "Dewclaw"
- TRAND_trophy_hunter: "Trophy Hunter"
- TRAND_outfitter: "Outfitter"
- TRAND_varmind: "Varmind"
- TRAND_palmation: "Palmation"
- TRAND_exotic: "Exotic"
- TRAND_wrangler: "Wrangler"
- TRAND_powder_horn: "Powder Horn"
- TRAND_good_blood: "Good Blood"
- TRAND_trepanner: "Trepanner"
- TRAND_huntress: "Huntress"
- TRAND_tropic_queen: "Tropic Queen"
- TRAND_chieftan_s_due: "Chieftan's Due"
- TRAND_memory_of_hsskhor: "Memory of Hsskhor"
- TRAND_life_credit: "Life Credit"
- TRAND_bloodletter: "Bloodletter"
- TRAND_clutch_mother: "Clutch Mother"
- TRAND_clutch_brother: "Clutch Brother"
- TRAND_leaf_of_nakkis: "Leaf of Nakkis"
- TRAND_nussik: "Nussik"
- TRAND_shko_yagu: "Shko-yagu"
- TRAND_scale_of_honor: "Scale of Honor"
- TRAND_scalesister: "Scalesister"
- TRAND_ashkrik: "Ashkrik"
- TRAND_byager: "Byager"
- TRAND_crescent: "Crescent"
- TRAND_expedition: "Expedition"
- TRAND_zephyr: "Zephyr"
- TRAND_enigma: "Enigma"
- TRAND_explorer: "Explorer"
- TRAND_pathfinder: "Pathfinder"
- TRAND_windfinder: "Windfinder"
- TRAND_lizard_of_vision: "Lizard of Vision"
- TRAND_scent_hound: "Scent Hound"
- TRAND_astute: "Astute"
- TRAND_alacrity: "Alacrity"
- TRAND_dogged: "Dogged"
- TRAND_finder: "Finder"
- TRAND_greenscale: "Greenscale"
- TRAND_coldspur: "Coldspur"
- TRAND_tracker: "Tracker"
- TRAND_night_traveller: "Night Traveller"
- TRAND_scoremaker: "Scoremaker"
- TRAND_trailblazer: "Trailblazer"
- TRAND_even_score: "Even Score"
- TRAND_scorefinder: "Scorefinder"
- TRAND_sojourner: "Sojourner"
- TRAND_gamefinder: "Gamefinder"
- TRAND_gamesman: "Gamesman"
- TRAND_sight_of_splendor: "Sight of Splendor"
- TRAND_doshan_quest: "Doshan Quest"
- TRAND_wayfarer: "Wayfarer"
- TRAND_outrunner: "Outrunner"
- TRAND_lucumba: "Lucumba"
- TRAND_exploiter: "Exploiter"
- TRAND_prophecy: "Prophecy"
- TRAND_destiny_of_dosha: "Destiny of Dosha"
- TRAND_virtuous_score: "Virtuous Score"
- TRAND_hatchling: "Hatchling"
- TRAND_dawn_nest: "Dawn Nest"
- TRAND_pioneer_spirit: "Pioneer Spirit"
- TRAND_trailking: "Trailking"
- TRAND_summit: "Summit"
- TRAND_pinnacle: "Pinnacle"
- TRAND_seeder: "Seeder"
- TRAND_harvest: "Harvest"
- TRAND_demeter: "Demeter"
- TRAND_isis: "Isis"
- TRAND_ceres: "Ceres"
- TRAND_exodus: "Exodus"
- TRAND_foundation: "Foundation"
- TRAND_scion: "Scion"
- TRAND_progeny: "Progeny"
- TRAND_obligation: "Obligation"
- TRAND_purpose: "Purpose"
- TRAND_provider: "Provider"
- TRAND_shining_city: "Shining City"
- TRAND_acquirer: "Acquirer"
- TRAND_cultivator: "Cultivator"
- TRAND_quarry: "Quarry"
- TRAND_butcher: "Butcher"
- TRAND_fletcher: "Fletcher"
- TRAND_bowyer: "Bowyer"
- TRAND_tanner: "Tanner"
- TRAND_carver: "Carver"
- TRAND_cordwain: "Cordwain"
- TRAND_tender: "Tender"
- TRAND_promise: "Promise"
- TRAND_service: "Service"
- TRAND_shelter: "Shelter"
- TRAND_beast: "Beast"
- TRAND_beast_of_burden: "Beast of Burden"
- TRAND_packmule: "Packmule"
- TRAND_lowe: "Lowe"
- TRAND_madle: "Madle"
- TRAND_sham_ba: "Sham ba"
- TRAND_anvil: "Anvil"
- TRAND_lu_mi_lowe: "Lu Mi Lowe"
- TRAND_architect: "Architect"
- TRAND_accommodator: "Accommodator"
- TRAND_tallyer: "Tallyer"
- TRAND_accounter: "Accounter"
- TRAND_constr_aurek: "Constructor Aurek"
- TRAND_constr_besh: "Constructor Besh"
- TRAND_constr_cresh: "Constructor Cresh"
- TRAND_constr_dorn: "Constructor Dorn"
- TRAND_constr_forn: "Constructor Forn"
- TRAND_constr_grek: "Constructor Grek"
- TRAND_constr_herf: "Constructor Herf"
- TRAND_constr_isk: "Constructor Isk"
- TRAND_constr_jenth: "Constructor Jenth"
- TRAND_constr_krill: "Constructor Krill"
- TRAND_constr_leth: "Constructor Leth"
- TRAND_constr_mern: "Constructor Mern"
- TRAND_constr_nern: "Constructor Nern"
- TRAND_constr_osk: "Constructor Osk"
- TRAND_constr_peth: "Constructor Peth"
- TRAND_constr_senth: "Constructor Senth"
- TRAND_constr_trill: "Constructor Trill"
- TRAND_constr_usk: "Constructor Usk"
- TRAND_constr_vev: "Constructor Vev"
- TRAND_constr_wesk: "Constructor Wesk"
- TRAND_constr_xesh: "Constructor Xesh"
- TRAND_constr_yirt: "Constructor Yirt"
- TRAND_constr_zerek: "Constructor Zerek"
- TRAND_constr_cherek: "Constructor Cherek"
- TRAND_constr_qek: "Constructor Qek"
- TRAND_constr_resh: "Constructor Resh"
- TRAND_constr_enth: "Constructor Enth"
- TRAND_constr_onith: "Constructor Onith"
- TRAND_constr_krenth: "Constructor Krenth"
- TRAND_constr_nen: "Constructor Nen"
- TRAND_constr_orenth: "Constructor Orenth"
- TRAND_constr_shen: "Constructor Shen"
- TRAND_constr_thesh: "Constructor Thesh"
- TRAND_expedition_transport: "Expedition Transport"
- TRAND_forak: "Forak"
- TRAND_hsskhor: "Hsskhor"
- TRAND_lorpfan: "Lorpfan"
- TRAND_varic: "Varic"
- TRAND_friend_of_czerka: "Friend of Czerka"
- TRAND_doshan: "Doshan"
- TRAND_mittoblade: "Mittoblade"
- TRAND_waymancy_hollow: "Waymancy Hollow"
- TRAND_arakka: "Arakka"
- TRAND_durkteel: "Durkteel"
- TRAND_kastolar: "Kastolar"
- TRAND_archenar: "Archenar"
- TRAND_rakhuun: "Rakhuun"
- TRAND_anchor: "Anchor"
- TRAND_jabba_flow: "Jabba Flow"
- TRAND_randon_roads: "Randon Roads"
- TRAND_tholatin: "Tholatin"
- TRAND_quas: "Quas"
- TRAND_killam: "Killam"
- TRAND_night_road: "Night Road"
- TRAND_nytaranor: "Nytaranor"
- TRAND_pizilis: "Pizilis"
- TRAND_terr_skiar: "Terr'skiar"
- TRAND_rorgam: "Rorgam"
- TRAND_kilimanchamble: "Kilimanchamble"
- TRAND_messert: "Messert"
- TRAND_kdoshrr: "Kdoshrr"
- TRAND_score_list: "Score List"
- TRAND_ota: "Ota"
- TRAND_bissilirus: "Bissilirus"
- TRAND_genian: "Genian"
- TRAND_deysum: "Deysum"
- TRAND_ciacgekke: "Ciacgekke"
- TRAND_old_apsolon: "Old Apsolon"
- TRAND_knight_star: "Knight Star"
- TRAND_uogo_mons: "Uogo Mons"
- TRAND_new_apsolon: "New Apsolon"
- TRAND_nova_dosha: "Nova Dosha"
- TRAND_lexrul: "Lexrul"
- TRAND_celegia: "Celegia"
- TRAND_uyter: "Uyter"
- TRAND_venal: "Venal"
- TRAND_vidass: "Vidass"
- TRAND_nazzriss: "Nazzriss"
- TRAND_vaugazz: "Vaugazz"
- TRAND_bombard: "Bombard"
- TRAND_ballista: "Ballista"
- TRAND_catapult: "Catapult"
- TRAND_harpoon: "Harpoon"
- TRAND_polybolos: "Polybolos"
- TRAND_culverin: "Culverin"
- TRAND_FLEET_hunt_fleet_acklay: "Hunt Fleet Acklay"
- TRAND_FLEET_hunt_fleet_rancor: "Hunt Fleet Rancor"
- TRAND_FLEET_hunt_fleet_nexu: "Hunt Fleet Nexu"
- TRAND_FLEET_hunt_fleet_vornskyr: "Hunt Fleet Vornskyr"
- TRAND_FLEET_hunt_fleet_terentatek: "Hunt Fleet Terentatek"
- TRAND_FLEET_hunt_fleet_balyeg: "Hunt Fleet Balyeg"
- TRAND_FLEET_hunt_fleet_blixus: "Hunt Fleet Blixus"
- TRAND_FLEET_hunt_fleet_rathtar: "Hunt Fleet Rathtar"
- TRAND_FLEET_hunt_fleet_sarlacc: "Hunt Fleet Sarlacc"
- TRAND_FLEET_hunt_fleet_doashim: "Hunt Fleet Doashim"
- TRAND_FLEET_hunt_fleet_evarrian: "Hunt Fleet Evarrian"
- TRAND_FLEET_hunt_fleet_gorgodon: "Hunt Fleet Gorgodon"
- TRAND_FLEET_hunt_fleet_gorog: "Hunt Fleet Gorog"
- TRAND_FLEET_hunt_fleet_gutkurr: "Hunt Fleet Gutkurr"
- TRAND_FLEET_hunt_fleet_lylek: "Hunt Fleet Lylek"
- TRAND_FLEET_hunt_fleet_jaggalor: "Hunt Fleet Jaggalor"
- TRAND_FLEET_hunt_fleet_krakana: "Hunt Fleet Krakana"
- TRAND_FLEET_hunt_fleet_saberjowl: "Hunt Fleet Saberjowl"
- TRAND_FLEET_hunt_fleet_taozin: "Hunt Fleet Taozin"
- TRAND_FLEET_hunt_fleet_svaper: "Hunt Fleet Svaper"
- TRAND_FLEET_hunt_fleet_silooth: "Hunt Fleet Silooth"
- TRAND_FLEET_hunt_fleet_krastenane: "Hunt Fleet Krastenane"
- TRAND_FLEET_hunt_fleet_vaapad: "Hunt Fleet Vaapad"
- TRAND_FLEET_hunt_fleet_veermok: "Hunt Fleet Veermok"
- TRAND_FLEET_hunt_fleet_verminoth: "Hunt Fleet Verminoth"
- TRAND_FLEET_hunt_fleet_gundark: "Hunt Fleet Gundark"
- TRAND_FLEET_hunt_fleet_fyrnock: "Hunt Fleet Fyrnock"
- TRAND_FLEET_hunt_fleet_clawfish: "Hunt Fleet Clawfish"
- TRAND_FLEET_wookiee_s_bane: "Wookiee's Bane"
- TRAND_FLEET_terror_of_kashyyyk: "Terror of Kashyyyk"
- TRAND_FLEET_SEQUENTIAL_hunt_fleet: "$ORD$ Hunt Fleet"
- TRAND_ARMY_SEQUENTIAL_hunter_brigade: "$ORD$ Hunter Brigade"
- TRAND_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force"
- TRAND_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- TRAND_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- TRAND_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- TRAND_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- TRAND_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- TRAND_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- TRAND_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- TRAND_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- TRAND_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- TRAND_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- TRAND_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- TRAND_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- TRAND_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- TRAND_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- TRAND_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- TRAND_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- TRAND_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- TRAND_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- TRAND_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- TRAND_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- TRAND_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- TRAND_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- TRAND_CHR_agnuk: "Agnuk"
- TRAND_CHR_cradossk: "Cradossk"
- TRAND_CHR_sssvrek: "Sssvrek"
- TRAND_CHR_ess_al: "Ess Al"
- TRAND_CHR_aqzow: "Aqzow"
- TRAND_CHR_woff: "Woff"
- TRAND_CHR_goll: "Goll"
- TRAND_CHR_gwhirrye: "Gwhirrye"
- TRAND_CHR_barthis: "Barthis"
- TRAND_CHR_beshk: "Beshk"
- TRAND_CHR_bhanak: "Bhanak"
- TRAND_CHR_ronko: "Ronko"
- TRAND_CHR_daktar: "Daktar"
- TRAND_CHR_cyssc: "Cyssc"
- TRAND_CHR_hssissk: "Hssissk"
- TRAND_CHR_toggi: "Toggi"
- TRAND_CHR_borantok: "Borantok"
- TRAND_CHR_borkus: "Borkus"
- TRAND_CHR_boruush: "Boruush"
- TRAND_CHR_boshaz: "Boshaz"
- TRAND_CHR_brask: "Brask"
- TRAND_CHR_brek: "Brek"
- TRAND_CHR_drassk: "Drassk"
- TRAND_CHR_qyzen: "Qyzen"
- TRAND_CHR_byrek: "Byrek"
- TRAND_CHR_cahhmakt: "Cahhmakt"
- TRAND_CHR_charsk: "Charsk"
- TRAND_CHR_corrsk: "Corrsk"
- TRAND_CHR_crovessk: "Crovessk"
- TRAND_CHR_currsk: "Currsk"
- TRAND_CHR_dakar: "Dakar"
- TRAND_CHR_dar: "Dar"
- TRAND_CHR_drenn: "Drenn"
- TRAND_CHR_drossk: "Drossk"
- TRAND_CHR_dussk: "Dussk"
- TRAND_CHR_dure: "Dure"
- TRAND_CHR_frissk: "Frissk"
- TRAND_CHR_frossk: "Frossk"
- TRAND_CHR_kruss: "Kruss"
- TRAND_CHR_gahseelik: "Gahseelik"
- TRAND_CHR_garnak: "Garnak"
- TRAND_CHR_gilas: "Gilas"
- TRAND_CHR_hrodius: "Hrodius"
- TRAND_CHR_gorssk: "Gorssk"
- TRAND_CHR_gorsst: "Gorsst"
- TRAND_CHR_grahssk: "Grahssk"
- TRAND_CHR_greelossk: "Greelossk"
- TRAND_CHR_grrandash: "Grrandash"
- TRAND_CHR_grug: "Grug"
- TRAND_CHR_hissyphus: "Hissyphus"
- TRAND_CHR_hokker: "Hokker"
- TRAND_CHR_horssk: "Horssk"
- TRAND_CHR_hss_kas: "Hss'kas"
- TRAND_CHR_hressk: "Hressk"
- TRAND_CHR_huusk: "Huusk"
- TRAND_CHR_hurssk: "Hurssk"
- TRAND_CHR_jakrann: "Jakrann"
- TRAND_CHR_jessk: "Jessk"
- TRAND_CHR_kasif: "Kasif"
- TRAND_CHR_oosk: "Oosk"
- TRAND_CHR_keerak: "Keerak"
- TRAND_CHR_kephess: "Kephess"
- TRAND_CHR_kessk: "Kessk"
- TRAND_CHR_klesk: "Klesk"
- TRAND_CHR_kootan: "Kootan"
- TRAND_CHR_korq: "Korq"
- TRAND_CHR_korrkoressk: "Korrkoressk"
- TRAND_CHR_kressis: "Kressis"
- TRAND_CHR_korussk: "Korussk"
- TRAND_CHR_krussk: "Krussk"
- TRAND_CHR_lyssk: "Lyssk"
- TRAND_CHR_maltok: "Maltok"
- TRAND_CHR_naxs: "Naxs"
- TRAND_CHR_mrash: "Mrash"
- TRAND_CHR_mundokk: "Mundokk"
- TRAND_CHR_narrik: "Narrik"
- TRAND_CHR_nokk: "Nokk"
- TRAND_CHR_nssktkslis: "Nssktkslis"
- TRAND_CHR_nukss: "Nukss"
- TRAND_CHR_passk: "Passk"
- TRAND_CHR_pekt: "Pekt"
- TRAND_CHR_possak: "Possak"
- TRAND_CHR_pressk: "Pressk"
- TRAND_CHR_proach: "Proach"
- TRAND_CHR_q_elliss: "Q'elliss"
- TRAND_CHR_rarsk: "Rarsk"
- TRAND_CHR_traggissk: "Traggissk"
- TRAND_CHR_rhosk: "Rhosk"
- TRAND_CHR_rosssuk: "Rosssuk"
- TRAND_CHR_ryssk: "Ryssk"
- TRAND_CHR_sarkh: "Sarkh"
- TRAND_CHR_seevor: "Seevor"
- TRAND_CHR_shekra: "Shekra"
- TRAND_CHR_skarsk: "Skarsk"
- TRAND_CHR_skeesk: "Skeesk"
- TRAND_CHR_skikkesk: "Skikkesk"
- TRAND_CHR_skreek: "Skreek"
- TRAND_CHR_skrisst: "Skrisst"
- TRAND_CHR_slyssk: "Slyssk"
- TRAND_CHR_sosska: "Sosska"
- TRAND_CHR_ssalash: "Ssalash"
- TRAND_CHR_ssevrek: "Ssevrek"
- TRAND_CHR_ssiksik: "Ssiksik"
- TRAND_CHR_sskal: "Sskal"
- TRAND_CHR_sskeer: "Sskeer"
- TRAND_CHR_lek: "Lek"
- TRAND_CHR_t_doshok: "T'doshok"
- TRAND_CHR_zug: "Zug"
- TRAND_CHR_thrassk: "Thrassk"
- TRAND_CHR_lar_omx: "Lar'omx"
- TRAND_CHR_tray_essek: "Tray'Essek"
- TRAND_CHR_trex: "Trex"
- TRAND_CHR_tsserk: "Tsserk"
- TRAND_CHR_tsskoat: "Tsskoat"
- TRAND_CHR_tusskrek: "Tusskrek"
- TRAND_CHR_tyrok: "Tyrok"
- TRAND_CHR_hrthek: "Hrthek"
- TRAND_CHR_reneget: "Reneget"
- TRAND_CHR_vossk: "Vossk"
- TRAND_CHR_vrissk: "Vrissk"
- TRAND_CHR_vultar: "Vultar"
- TRAND_CHR_vurrsk: "Vurrsk"
- TRAND_CHR_xirossk: "Xirossk"
- TRAND_CHR_yarroq: "Yarroq"
- TRAND_CHR_yrssk: "Yrssk"
- TRAND_CHR_lisot: "Lisot"
- TRAND_CHR_stima: "Stima"
- TRAND_CHR_boshaza: "Boshaza"
- TRAND_CHR_braska: "Braska"
- TRAND_CHR_clargod: "Clargod"
- TRAND_CHR_cyri: "Cyri"
- TRAND_CHR_dara: "Dara"
- TRAND_CHR_frisska: "Frisska"
- TRAND_CHR_gha: "Gha"
- TRAND_CHR_gruunelda: "Gruunelda"
- TRAND_CHR_vanvi: "Vanvi"
- TRAND_CHR_hresska: "Hresska"
- TRAND_CHR_shada: "Shada"
- TRAND_CHR_davjana: "Davjana"
- TRAND_CHR_jesska: "Jesska"
- TRAND_CHR_johuna: "Johuna"
- TRAND_CHR_juuus: "Juuus"
- TRAND_CHR_katrip: "Katrip"
- TRAND_CHR_keela: "Keela"
- TRAND_CHR_qyzenra: "Qyzenra"
- TRAND_CHR_khrask: "Khrask"
- TRAND_CHR_khreenk: "Khreenk"
- TRAND_CHR_kisskk: "Kisskk"
- TRAND_CHR_kressisa: "Kressisa"
- TRAND_CHR_krusskila: "Krusskila"
- TRAND_CHR_krylla: "Krylla"
- TRAND_CHR_lesnor: "Lesnor"
- TRAND_CHR_lissarkh: "Lissarkh"
- TRAND_CHR_mssikss: "Mssikss"
- TRAND_CHR_myssith: "Myssith"
- TRAND_CHR_narj: "Narj"
- TRAND_CHR_nim_ri: "Nim'Ri"
- TRAND_CHR_noka: "Noka"
- TRAND_CHR_nala: "Nala"
- TRAND_CHR_q_ellissoa: "Q'ellissoa"
- TRAND_CHR_raikhssa: "Raikhssa"
- TRAND_CHR_raptiss: "Raptiss"
- TRAND_CHR_rysska: "Rysska"
- TRAND_CHR_sish: "Sish"
- TRAND_CHR_traga: "Traga"
- TRAND_CHR_sounac: "Sounac"
- TRAND_CHR_strigge: "Strigge"
- TRAND_CHR_leki: "Leki"
- TRAND_CHR_stydge: "Stydge"
- TRAND_CHR_zugga: "Zugga"
- TRAND_CHR_thrasska: "Thrasska"
- TRAND_CHR_trizz_ma: "Trizz'ma"
- TRAND_CHR_trossilik: "Trossilik"
- TRAND_CHR_trossilish: "Trossilish"
- TRAND_CHR_tysheyk: "Tysheyk"
- TRAND_CHR_tsserka: "Tsserka"
- TRAND_CHR_ulissa: "Ulissa"
- TRAND_CHR_babwa: "Babwa"
- TRAND_CHR_vressag: "Vressag"
- TRAND_CHR_vrriska: "Vrriska"
- TRAND_CHR_vultra: "Vultra"
- TRAND_CHR_xydge: "Xydge"
- TRAND_CHR_yadfre: "Yadfre"
- TRAND_CHR_ysith: "Ysith"
- TRAND_CHR_kesska: "Kesska"
- TRAND_CHR_kleska: "Kleska"
- TRAND_CHR_kootana: "Kootana"
- TRAND_CHR_korqa: "Korqa"
- TRAND_CHR_xeniss: "Xeniss"
- TRAND_CHR_korusska: "Korusska"
- TRAND_CHR_krusska: "Krusska"
- TRAND_CHR_lysska: "Lysska"
- TRAND_CHR_maltoka: "Maltoka"
- TRAND_CHR_naxsa: "Naxsa"
- TRAND_CHR_mrasha: "Mrasha"
- TRAND_CHR_mundokka: "Mundokka"
- TRAND_CHR_narrika: "Narrika"
- TRAND_CHR_nokka: "Nokka"
- TRAND_CHR_tailsaka: "Tailsaka"
- TRAND_CHR_nukssa: "Nukssa"
- TRAND_CHR_passka: "Passka"
- TRAND_CHR_pekta: "Pekta"
- TRAND_CHR_possaka: "Possaka"
- TRAND_CHR_presska: "Presska"
- TRAND_CHR_proacha: "Proacha"
- TRAND_CHR_q_ellissa: "Q'ellissa"
- TRAND_CHR_rarska: "Rarska"
- TRAND_CHR_traggisska: "Traggisska"
- TRAND_CHR_rhoska: "Rhoska"
- TRAND_CHR_rosssuka: "Rosssuka"
- TRAND_CHR_sarkha: "Sarkha"
- TRAND_CHR_seevora: "Seevora"
- TRAND_CHR_tisi: "Tisi"
- TRAND_CHR_skarska: "Skarska"
- TRAND_CHR_skeeska: "Skeeska"
- TRAND_CHR_skikkeska: "Skikkeska"
- TRAND_CHR_skreeka: "Skreeka"
- TRAND_CHR_skrissta: "Skrissta"
- TRAND_CHR_slysska: "Slysska"
- TRAND_CHR_sissta: "Sissta"
- TRAND_CHR_ssalasha: "Ssalasha"
- TRAND_CHR_ssevreka: "Ssevreka"
- TRAND_CHR_ssiksika: "Ssiksika"
- TRAND_CHR_sskala: "Sskala"
- TRAND_CHR_sskeera: "Sskeera"
- TRAND_CHR_leka: "Leka"
- TRAND_CHR_t_doshoka: "T'doshoka"
- TRAND_CHR_zuga: "Zuga"
- TRAND_CHR_lar_omxa: "Lar'omxa"
- TRAND_CHR_tray_esseka: "Tray'Esseka"
- TRAND_CHR_trexa: "Trexa"
- TRAND_CHR_tsskoata: "Tsskoata"
- TRAND_CHR_tusskreka: "Tusskreka"
- TRAND_CHR_tyroka: "Tyroka"
- TRAND_CHR_hrtheka: "Hrtheka"
- TRAND_CHR_renegeta: "Renegeta"
- TRAND_CHR_vosska: "Vosska"
- TRAND_CHR_vrisska: "Vrisska"
- TRAND_CHR_vultara: "Vultara"
- TRAND_CHR_vurrska: "Vurrska"
- TRAND_CHR_xirosska: "Xirosska"
- TRAND_CHR_yarroqa: "Yarroqa"
- TRAND_CHR_yrsska: "Yrsska"
- TRAND_CHR_al: "Al"
- TRAND_CHR_ardella: "Ardella"
- TRAND_CHR_b_tar: "B'tar"
- TRAND_CHR_bardok: "Bardok"
- TRAND_CHR_baric: "Baric"
- TRAND_CHR_belangus: "Belangus"
- TRAND_CHR_bist: "Bist"
- TRAND_CHR_bloodmoon: "Bloodmoon"
- TRAND_CHR_blackscale: "Blackscale"
- TRAND_CHR_bloodscale: "Bloodscale"
- TRAND_CHR_bloodscar: "Bloodscar"
- TRAND_CHR_blackscar: "Blackscar"
- TRAND_CHR_bok: "Bok"
- TRAND_CHR_veneb: "Veneb"
- TRAND_CHR_fess: "Fess"
- TRAND_CHR_revessa: "Revessa"
- TRAND_CHR_hassk: "Hassk"
- TRAND_CHR_eso: "Eso"
- TRAND_CHR_gaal: "Gaal"
- TRAND_CHR_gaar: "Gaar"
- TRAND_CHR_nachkt: "Nachkt"
- TRAND_CHR_goort: "Goort"
- TRAND_CHR_goragg: "Goragg"
- TRAND_CHR_gusepp: "Gusepp"
- TRAND_CHR_hessen: "Hessen"
- TRAND_CHR_hotne: "Hotne"
- TRAND_CHR_hsskhor: "Hsskhor"
- TRAND_CHR_igosko: "Igosko"
- TRAND_CHR_jhcor: "Jhcor"
- TRAND_CHR_kassa: "Kassa"
- TRAND_CHR_kilon: "Kilon"
- TRAND_CHR_klallor: "Klallor"
- TRAND_CHR_koorst: "Koorst"
- TRAND_CHR_krood: "Krood"
- TRAND_CHR_morrng: "Morrng"
- TRAND_CHR_wasskah: "Wasskah"
- TRAND_CHR_nakaron: "Nakaron"
- TRAND_CHR_nross: "Nross"
- TRAND_CHR_rokh: "Rokh"
- TRAND_CHR_tassik: "Tassik"
- TRAND_CHR_trussk: "Trussk"
- TRAND_CHR_val_voz: "Val Voz"
- TRAND_CHR_vause: "Vause"
- TRAND_CHR_verkoss: "Verkoss"
- TRAND_CHR_venomor: "Venomor"
- TRAND_CHR_wertsnik: "Wertsnik"
- TRAND_CHR_ziss_t: "Ziss't"
- TRAND_CHR_gorak: "Gorak"
- TRAND_CHR_hadocrassk: "Hadocrassk"
- TRAND_CHR_karniss: "Karniss"
- TRAND_CHR_karssk: "Karssk"
- TRAND_CHR_kras_dokh: "Kras'dokh"
- TRAND_CHR_krix: "Krix"
- TRAND_CHR_passikk: "Passikk"
- TRAND_CHR_brasska: "Brasska"
- TRAND_CHR_mrsskala: "Mrsskala"
- TRAND_CHR_kephessa: "Kephessa"
- TRAND_CHR_q_elissa: "Q'elissa"
- TRAND_CHR_kaogar: "Kaogar"
- TRAND_CHR_lo_taren: "Lo-Taren"
- TRAND_CHR_narask: "Narask"
- TRAND_CHR_reosss: "Reosss"
- TRAND_CHR_ssoh: "Ssoh"
- TRAND_CHR_ssurussk: "Ssurussk"
+ TRAND_making_a_killing: "Making a Killing" #NT!
+ TRAND_smokeswimmer: "Smokeswimmer" #NT!
+ TRAND_red_eclipse: "Red Eclipse" #NT!
+ TRAND_halo: "Halo" #NT!
+ TRAND_dangerous_game: "Dangerous Game" #NT!
+ TRAND_basic_instinct: "Basic Instinct" #NT!
+ TRAND_animal_cunning: "Animal Cunning" #NT!
+ TRAND_predator: "Predator" #NT!
+ TRAND_apex: "Apex" #NT!
+ TRAND_chaser: "Chaser" #NT!
+ TRAND_stalker: "Stalker" #NT!
+ TRAND_falconer: "Falconer" #NT!
+ TRAND_skinner: "Skinner" #NT!
+ TRAND_cold_blooded: "Cold-blooded" #NT!
+ TRAND_bold_blood: "Bold Blood" #NT!
+ TRAND_old_blood: "Old Blood" #NT!
+ TRAND_young_blood: "Young Blood" #NT!
+ TRAND_huntzard: "Huntzard" #NT!
+ TRAND_pursuer: "Pursuer" #NT!
+ TRAND_sportzard: "Sportzard" #NT!
+ TRAND_trapper: "Trapper" #NT!
+ TRAND_ferreter: "Ferreter" #NT!
+ TRAND_pursuant: "Pursuant" #NT!
+ TRAND_courser: "Courser" #NT!
+ TRAND_wookhound: "Wookhound" #NT!
+ TRAND_hound_s_tooth: "Hound's Tooth" #NT!
+ TRAND_gun_hound: "Gun Hound" #NT!
+ TRAND_hounder: "Hounder" #NT!
+ TRAND_stalking_hound: "Stalking Hound" #NT!
+ TRAND_carnivore: "Carnivore" #NT!
+ TRAND_beast_of_prey: "Beast of Prey" #NT!
+ TRAND_meat_eater: "Meat-Eater" #NT!
+ TRAND_wook_eater: "Wook-Eater" #NT!
+ TRAND_cannibal: "Cannibal" #NT!
+ TRAND_carnivorous: "Carnivorous" #NT!
+ TRAND_flesh_eater: "Flesh Eater" #NT!
+ TRAND_hunger: "Hunger" #NT!
+ TRAND_omnivore: "Omnivore" #NT!
+ TRAND_rapacious: "Rapacious" #NT!
+ TRAND_the_undying: "The Undying" #NT!
+ TRAND_grave_of_kephess: "Grave of Kephess" #NT!
+ TRAND_empty_grave: "Empty Grave" #NT!
+ TRAND_scorebreaker: "Scorebreaker" #NT!
+ TRAND_high_score: "High Score" #NT!
+ TRAND_low_cunning: "Low Cunning" #NT!
+ TRAND_unsporting: "Unsporting" #NT!
+ TRAND_spoilsport: "Spoilsport" #NT!
+ TRAND_spoiler: "Spoiler" #NT!
+ TRAND_beater: "Beater" #NT!
+ TRAND_body_corporate: "Body Corporate" #NT!
+ TRAND_breaker: "Breaker" #NT!
+ TRAND_abayment: "Abayment" #NT!
+ TRAND_cubber: "Cubber" #NT!
+ TRAND_clubber: "Clubber" #NT!
+ TRAND_peckinger: "Peckinger" #NT!
+ TRAND_blackfeather: "Blackfeather" #NT!
+ TRAND_blackscale: "Blackscale" #NT!
+ TRAND_bloodscar: "Bloodscar" #NT!
+ TRAND_gone_to_ground: "Gone to Ground" #NT!
+ TRAND_heeler: "Heeler" #NT!
+ TRAND_overrun: "Overrun" #NT!
+ TRAND_point_rider: "Point Rider" #NT!
+ TRAND_riot: "Riot" #NT!
+ TRAND_rut: "Rut" #NT!
+ TRAND_trench_feeder: "Trench Feeder" #NT!
+ TRAND_big_game: "Big Game" #NT!
+ TRAND_trophy_taker: "Trophy Taker" #NT!
+ TRAND_mandible: "Mandible" #NT!
+ TRAND_coagulator: "Coagulator" #NT!
+ TRAND_bleeder: "Bleeder" #NT!
+ TRAND_easy_kill: "Easy Kill" #NT!
+ TRAND_tough_shot: "Tough Shot" #NT!
+ TRAND_jagannath_s_watch: "Jagannath's Watch" #NT!
+ TRAND_herald_of_jagannath: "Herald of Jagannath" #NT!
+ TRAND_avatar: "Avatar" #NT!
+ TRAND_blood_score: "Blood Score" #NT!
+ TRAND_settled_score: "Settled Score" #NT!
+ TRAND_mock_hunt: "Mock Hunt" #NT!
+ TRAND_t_doshok_crusade: "T'doshok Crusade" #NT!
+ TRAND_crimson_nest: "Crimson Nest" #NT!
+ TRAND_cruel_intention: "Cruel Intention" #NT!
+ TRAND_dangerous_liaison: "Dangerous Liaison" #NT!
+ TRAND_forked_tongue: "Forked Tongue" #NT!
+ TRAND_white_claw: "White Claw" #NT!
+ TRAND_diamond_back: "Diamond Back" #NT!
+ TRAND_scalebound: "Scalebound" #NT!
+ TRAND_wild_thing: "Wild Thing" #NT!
+ TRAND_fatal_attraction: "Fatal Attraction" #NT!
+ TRAND_body_heat: "Body Heat" #NT!
+ TRAND_illicit_desire: "Illicit Desire" #NT!
+ TRAND_hate_story: "Hate Story" #NT!
+ TRAND_body_of_influence: "Body of Influence" #NT!
+ TRAND_object_of_obsession: "Object of Obsession" #NT!
+ TRAND_indecent_behavior: "Indecent Behavior" #NT!
+ TRAND_deadlock: "Deadlock" #NT!
+ TRAND_berserker: "Berserker" #NT!
+ TRAND_goddess_of_the_hunt: "Goddess of the Hunt" #NT!
+ TRAND_innocent: "Innocent" #NT!
+ TRAND_pleasure_or_pain: "Pleasure or Pain" #NT!
+ TRAND_kiss_of_the_beast: "Kiss of the Beast" #NT!
+ TRAND_fatal_charm: "Fatal Charm" #NT!
+ TRAND_fatal_bond: "Fatal Bond" #NT!
+ TRAND_silver_tongue: "Silver Tongue" #NT!
+ TRAND_fatal_past: "Fatal Past" #NT!
+ TRAND_gross_misconduct: "Gross Misconduct" #NT!
+ TRAND_verdant_letter: "Verdant Letter" #NT!
+ TRAND_wicked_mind: "Wicked Mind" #NT!
+ TRAND_powerplay: "Powerplay" #NT!
+ TRAND_privacy_invasion: "Privacy Invasion" #NT!
+ TRAND_mutual_hunt: "Mutual Hunt" #NT!
+ TRAND_glass_cage: "Glass Cage" #NT!
+ TRAND_mind_game: "Mind Game" #NT!
+ TRAND_payback: "Payback" #NT!
+ TRAND_playmaker: "Playmaker" #NT!
+ TRAND_rainmaker: "Rainmaker" #NT!
+ TRAND_dangerous_touch: "Dangerous Touch" #NT!
+ TRAND_nightmare_visage: "Nightmare Visage" #NT!
+ TRAND_cold_sweat: "Cold Sweat" #NT!
+ TRAND_light_sleeper: "Light Sleeper" #NT!
+ TRAND_stepper: "Stepper" #NT!
+ TRAND_bitter_moon: "Bitter Moon" #NT!
+ TRAND_fatal_exposure: "Fatal Exposure" #NT!
+ TRAND_wild_hunt: "Wild Hunt" #NT!
+ TRAND_hatched_king: "Hatched King" #NT!
+ TRAND_nightmare: "Nightmare" #NT!
+ TRAND_deforester: "Deforester" #NT!
+ TRAND_jungler: "Jungler" #NT!
+ TRAND_incisor: "Incisor" #NT!
+ TRAND_clapperclaw: "Clapperclaw" #NT!
+ TRAND_retractile: "Retractile" #NT!
+ TRAND_ungula: "Ungula" #NT!
+ TRAND_sable_spur: "Sable Spur" #NT!
+ TRAND_scent_of_war: "Scent of War" #NT!
+ TRAND_fear_scent: "Fear Scent" #NT!
+ TRAND_serrator: "Serrator" #NT!
+ TRAND_abductor: "Abductor" #NT!
+ TRAND_quadrator: "Quadrator" #NT!
+ TRAND_komodus: "Komodus" #NT!
+ TRAND_draco: "Draco" #NT!
+ TRAND_reflexive_blood: "Reflexive Blood" #NT!
+ TRAND_chameleon: "Chameleon" #NT!
+ TRAND_diapsid: "Diapsid" #NT!
+ TRAND_varanid: "Varanid" #NT!
+ TRAND_basilisk: "Basilisk" #NT!
+ TRAND_third_eye: "Third Eye" #NT!
+ TRAND_serpent: "Serpent" #NT!
+ TRAND_ultraviolent_spec: "Ultraviolent Spectrum" #NT!
+ TRAND_tokay: "Tokay" #NT!
+ TRAND_ambusher: "Ambusher" #NT!
+ TRAND_disruptor: "Disruptor" #NT!
+ TRAND_horncrest: "Horncrest" #NT!
+ TRAND_skink: "Skink" #NT!
+ TRAND_saurien: "Saurien" #NT!
+ TRAND_tassotasso: "Tassotasso" #NT!
+ TRAND_sacrificial_arm: "Sacrificial Arm" #NT!
+ TRAND_fighting_chance: "Fighting Chance" #NT!
+ TRAND_memento: "Memento" #NT!
+ TRAND_scalper: "Scalper" #NT!
+ TRAND_glasser: "Glasser" #NT!
+ TRAND_ragged_spread: "Ragged Spread" #NT!
+ TRAND_raghorn: "Raghorn" #NT!
+ TRAND_poacher: "Poacher" #NT!
+ TRAND_highball: "Highball" #NT!
+ TRAND_backtrail: "Backtrail" #NT!
+ TRAND_break_point: "Break Point" #NT!
+ TRAND_inside_spread: "Inside Spread" #NT!
+ TRAND_iron_sight: "Iron Sight" #NT!
+ TRAND_jump_hound: "Jump Hound" #NT!
+ TRAND_baiter: "Baiter" #NT!
+ TRAND_coffin_blind: "Coffin Blind" #NT!
+ TRAND_locator: "Locator" #NT!
+ TRAND_pecking_order: "Pecking Order" #NT!
+ TRAND_dewclaw: "Dewclaw" #NT!
+ TRAND_trophy_hunter: "Trophy Hunter" #NT!
+ TRAND_outfitter: "Outfitter" #NT!
+ TRAND_varmind: "Varmind" #NT!
+ TRAND_palmation: "Palmation" #NT!
+ TRAND_exotic: "Exotic" #NT!
+ TRAND_wrangler: "Wrangler" #NT!
+ TRAND_powder_horn: "Powder Horn" #NT!
+ TRAND_good_blood: "Good Blood" #NT!
+ TRAND_trepanner: "Trepanner" #NT!
+ TRAND_huntress: "Huntress" #NT!
+ TRAND_tropic_queen: "Tropic Queen" #NT!
+ TRAND_chieftan_s_due: "Chieftan's Due" #NT!
+ TRAND_memory_of_hsskhor: "Memory of Hsskhor" #NT!
+ TRAND_life_credit: "Life Credit" #NT!
+ TRAND_bloodletter: "Bloodletter" #NT!
+ TRAND_clutch_mother: "Clutch Mother" #NT!
+ TRAND_clutch_brother: "Clutch Brother" #NT!
+ TRAND_leaf_of_nakkis: "Leaf of Nakkis" #NT!
+ TRAND_nussik: "Nussik" #NT!
+ TRAND_shko_yagu: "Shko-yagu" #NT!
+ TRAND_scale_of_honor: "Scale of Honor" #NT!
+ TRAND_scalesister: "Scalesister" #NT!
+ TRAND_ashkrik: "Ashkrik" #NT!
+ TRAND_byager: "Byager" #NT!
+ TRAND_crescent: "Crescent" #NT!
+ TRAND_expedition: "Expedition" #NT!
+ TRAND_zephyr: "Zephyr" #NT!
+ TRAND_enigma: "Enigma" #NT!
+ TRAND_explorer: "Explorer" #NT!
+ TRAND_pathfinder: "Pathfinder" #NT!
+ TRAND_windfinder: "Windfinder" #NT!
+ TRAND_lizard_of_vision: "Lizard of Vision" #NT!
+ TRAND_scent_hound: "Scent Hound" #NT!
+ TRAND_astute: "Astute" #NT!
+ TRAND_alacrity: "Alacrity" #NT!
+ TRAND_dogged: "Dogged" #NT!
+ TRAND_finder: "Finder" #NT!
+ TRAND_greenscale: "Greenscale" #NT!
+ TRAND_coldspur: "Coldspur" #NT!
+ TRAND_tracker: "Tracker" #NT!
+ TRAND_night_traveller: "Night Traveller" #NT!
+ TRAND_scoremaker: "Scoremaker" #NT!
+ TRAND_trailblazer: "Trailblazer" #NT!
+ TRAND_even_score: "Even Score" #NT!
+ TRAND_scorefinder: "Scorefinder" #NT!
+ TRAND_sojourner: "Sojourner" #NT!
+ TRAND_gamefinder: "Gamefinder" #NT!
+ TRAND_gamesman: "Gamesman" #NT!
+ TRAND_sight_of_splendor: "Sight of Splendor" #NT!
+ TRAND_doshan_quest: "Doshan Quest" #NT!
+ TRAND_wayfarer: "Wayfarer" #NT!
+ TRAND_outrunner: "Outrunner" #NT!
+ TRAND_lucumba: "Lucumba" #NT!
+ TRAND_exploiter: "Exploiter" #NT!
+ TRAND_prophecy: "Prophecy" #NT!
+ TRAND_destiny_of_dosha: "Destiny of Dosha" #NT!
+ TRAND_virtuous_score: "Virtuous Score" #NT!
+ TRAND_hatchling: "Hatchling" #NT!
+ TRAND_dawn_nest: "Dawn Nest" #NT!
+ TRAND_pioneer_spirit: "Pioneer Spirit" #NT!
+ TRAND_trailking: "Trailking" #NT!
+ TRAND_summit: "Summit" #NT!
+ TRAND_pinnacle: "Pinnacle" #NT!
+ TRAND_seeder: "Seeder" #NT!
+ TRAND_harvest: "Harvest" #NT!
+ TRAND_demeter: "Demeter" #NT!
+ TRAND_isis: "Isis" #NT!
+ TRAND_ceres: "Ceres" #NT!
+ TRAND_exodus: "Exodus" #NT!
+ TRAND_foundation: "Foundation" #NT!
+ TRAND_scion: "Scion" #NT!
+ TRAND_progeny: "Progeny" #NT!
+ TRAND_obligation: "Obligation" #NT!
+ TRAND_purpose: "Purpose" #NT!
+ TRAND_provider: "Provider" #NT!
+ TRAND_shining_city: "Shining City" #NT!
+ TRAND_acquirer: "Acquirer" #NT!
+ TRAND_cultivator: "Cultivator" #NT!
+ TRAND_quarry: "Quarry" #NT!
+ TRAND_butcher: "Butcher" #NT!
+ TRAND_fletcher: "Fletcher" #NT!
+ TRAND_bowyer: "Bowyer" #NT!
+ TRAND_tanner: "Tanner" #NT!
+ TRAND_carver: "Carver" #NT!
+ TRAND_cordwain: "Cordwain" #NT!
+ TRAND_tender: "Tender" #NT!
+ TRAND_promise: "Promise" #NT!
+ TRAND_service: "Service" #NT!
+ TRAND_shelter: "Shelter" #NT!
+ TRAND_beast: "Beast" #NT!
+ TRAND_beast_of_burden: "Beast of Burden" #NT!
+ TRAND_packmule: "Packmule" #NT!
+ TRAND_lowe: "Lowe" #NT!
+ TRAND_madle: "Madle" #NT!
+ TRAND_sham_ba: "Sham ba" #NT!
+ TRAND_anvil: "Anvil" #NT!
+ TRAND_lu_mi_lowe: "Lu Mi Lowe" #NT!
+ TRAND_architect: "Architect" #NT!
+ TRAND_accommodator: "Accommodator" #NT!
+ TRAND_tallyer: "Tallyer" #NT!
+ TRAND_accounter: "Accounter" #NT!
+ TRAND_constr_aurek: "Constructor Aurek" #NT!
+ TRAND_constr_besh: "Constructor Besh" #NT!
+ TRAND_constr_cresh: "Constructor Cresh" #NT!
+ TRAND_constr_dorn: "Constructor Dorn" #NT!
+ TRAND_constr_forn: "Constructor Forn" #NT!
+ TRAND_constr_grek: "Constructor Grek" #NT!
+ TRAND_constr_herf: "Constructor Herf" #NT!
+ TRAND_constr_isk: "Constructor Isk" #NT!
+ TRAND_constr_jenth: "Constructor Jenth" #NT!
+ TRAND_constr_krill: "Constructor Krill" #NT!
+ TRAND_constr_leth: "Constructor Leth" #NT!
+ TRAND_constr_mern: "Constructor Mern" #NT!
+ TRAND_constr_nern: "Constructor Nern" #NT!
+ TRAND_constr_osk: "Constructor Osk" #NT!
+ TRAND_constr_peth: "Constructor Peth" #NT!
+ TRAND_constr_senth: "Constructor Senth" #NT!
+ TRAND_constr_trill: "Constructor Trill" #NT!
+ TRAND_constr_usk: "Constructor Usk" #NT!
+ TRAND_constr_vev: "Constructor Vev" #NT!
+ TRAND_constr_wesk: "Constructor Wesk" #NT!
+ TRAND_constr_xesh: "Constructor Xesh" #NT!
+ TRAND_constr_yirt: "Constructor Yirt" #NT!
+ TRAND_constr_zerek: "Constructor Zerek" #NT!
+ TRAND_constr_cherek: "Constructor Cherek" #NT!
+ TRAND_constr_qek: "Constructor Qek" #NT!
+ TRAND_constr_resh: "Constructor Resh" #NT!
+ TRAND_constr_enth: "Constructor Enth" #NT!
+ TRAND_constr_onith: "Constructor Onith" #NT!
+ TRAND_constr_krenth: "Constructor Krenth" #NT!
+ TRAND_constr_nen: "Constructor Nen" #NT!
+ TRAND_constr_orenth: "Constructor Orenth" #NT!
+ TRAND_constr_shen: "Constructor Shen" #NT!
+ TRAND_constr_thesh: "Constructor Thesh" #NT!
+ TRAND_expedition_transport: "Expedition Transport" #NT!
+ TRAND_forak: "Forak" #NT!
+ TRAND_hsskhor: "Hsskhor" #NT!
+ TRAND_lorpfan: "Lorpfan" #NT!
+ TRAND_varic: "Varic" #NT!
+ TRAND_friend_of_czerka: "Friend of Czerka" #NT!
+ TRAND_doshan: "Doshan" #NT!
+ TRAND_mittoblade: "Mittoblade" #NT!
+ TRAND_waymancy_hollow: "Waymancy Hollow" #NT!
+ TRAND_arakka: "Arakka" #NT!
+ TRAND_durkteel: "Durkteel" #NT!
+ TRAND_kastolar: "Kastolar" #NT!
+ TRAND_archenar: "Archenar" #NT!
+ TRAND_rakhuun: "Rakhuun" #NT!
+ TRAND_anchor: "Anchor" #NT!
+ TRAND_jabba_flow: "Jabba Flow" #NT!
+ TRAND_randon_roads: "Randon Roads" #NT!
+ TRAND_tholatin: "Tholatin" #NT!
+ TRAND_quas: "Quas" #NT!
+ TRAND_killam: "Killam" #NT!
+ TRAND_night_road: "Night Road" #NT!
+ TRAND_nytaranor: "Nytaranor" #NT!
+ TRAND_pizilis: "Pizilis" #NT!
+ TRAND_terr_skiar: "Terr'skiar" #NT!
+ TRAND_rorgam: "Rorgam" #NT!
+ TRAND_kilimanchamble: "Kilimanchamble" #NT!
+ TRAND_messert: "Messert" #NT!
+ TRAND_kdoshrr: "Kdoshrr" #NT!
+ TRAND_score_list: "Score List" #NT!
+ TRAND_ota: "Ota" #NT!
+ TRAND_bissilirus: "Bissilirus" #NT!
+ TRAND_genian: "Genian" #NT!
+ TRAND_deysum: "Deysum" #NT!
+ TRAND_ciacgekke: "Ciacgekke" #NT!
+ TRAND_old_apsolon: "Old Apsolon" #NT!
+ TRAND_knight_star: "Knight Star" #NT!
+ TRAND_uogo_mons: "Uogo Mons" #NT!
+ TRAND_new_apsolon: "New Apsolon" #NT!
+ TRAND_nova_dosha: "Nova Dosha" #NT!
+ TRAND_lexrul: "Lexrul" #NT!
+ TRAND_celegia: "Celegia" #NT!
+ TRAND_uyter: "Uyter" #NT!
+ TRAND_venal: "Venal" #NT!
+ TRAND_vidass: "Vidass" #NT!
+ TRAND_nazzriss: "Nazzriss" #NT!
+ TRAND_vaugazz: "Vaugazz" #NT!
+ TRAND_bombard: "Bombard" #NT!
+ TRAND_ballista: "Ballista" #NT!
+ TRAND_catapult: "Catapult" #NT!
+ TRAND_harpoon: "Harpoon" #NT!
+ TRAND_polybolos: "Polybolos" #NT!
+ TRAND_culverin: "Culverin" #NT!
+ TRAND_FLEET_hunt_fleet_acklay: "Hunt Fleet Acklay" #NT!
+ TRAND_FLEET_hunt_fleet_rancor: "Hunt Fleet Rancor" #NT!
+ TRAND_FLEET_hunt_fleet_nexu: "Hunt Fleet Nexu" #NT!
+ TRAND_FLEET_hunt_fleet_vornskyr: "Hunt Fleet Vornskyr" #NT!
+ TRAND_FLEET_hunt_fleet_terentatek: "Hunt Fleet Terentatek" #NT!
+ TRAND_FLEET_hunt_fleet_balyeg: "Hunt Fleet Balyeg" #NT!
+ TRAND_FLEET_hunt_fleet_blixus: "Hunt Fleet Blixus" #NT!
+ TRAND_FLEET_hunt_fleet_rathtar: "Hunt Fleet Rathtar" #NT!
+ TRAND_FLEET_hunt_fleet_sarlacc: "Hunt Fleet Sarlacc" #NT!
+ TRAND_FLEET_hunt_fleet_doashim: "Hunt Fleet Doashim" #NT!
+ TRAND_FLEET_hunt_fleet_evarrian: "Hunt Fleet Evarrian" #NT!
+ TRAND_FLEET_hunt_fleet_gorgodon: "Hunt Fleet Gorgodon" #NT!
+ TRAND_FLEET_hunt_fleet_gorog: "Hunt Fleet Gorog" #NT!
+ TRAND_FLEET_hunt_fleet_gutkurr: "Hunt Fleet Gutkurr" #NT!
+ TRAND_FLEET_hunt_fleet_lylek: "Hunt Fleet Lylek" #NT!
+ TRAND_FLEET_hunt_fleet_jaggalor: "Hunt Fleet Jaggalor" #NT!
+ TRAND_FLEET_hunt_fleet_krakana: "Hunt Fleet Krakana" #NT!
+ TRAND_FLEET_hunt_fleet_saberjowl: "Hunt Fleet Saberjowl" #NT!
+ TRAND_FLEET_hunt_fleet_taozin: "Hunt Fleet Taozin" #NT!
+ TRAND_FLEET_hunt_fleet_svaper: "Hunt Fleet Svaper" #NT!
+ TRAND_FLEET_hunt_fleet_silooth: "Hunt Fleet Silooth" #NT!
+ TRAND_FLEET_hunt_fleet_krastenane: "Hunt Fleet Krastenane" #NT!
+ TRAND_FLEET_hunt_fleet_vaapad: "Hunt Fleet Vaapad" #NT!
+ TRAND_FLEET_hunt_fleet_veermok: "Hunt Fleet Veermok" #NT!
+ TRAND_FLEET_hunt_fleet_verminoth: "Hunt Fleet Verminoth" #NT!
+ TRAND_FLEET_hunt_fleet_gundark: "Hunt Fleet Gundark" #NT!
+ TRAND_FLEET_hunt_fleet_fyrnock: "Hunt Fleet Fyrnock" #NT!
+ TRAND_FLEET_hunt_fleet_clawfish: "Hunt Fleet Clawfish" #NT!
+ TRAND_FLEET_wookiee_s_bane: "Wookiee's Bane" #NT!
+ TRAND_FLEET_terror_of_kashyyyk: "Terror of Kashyyyk" #NT!
+ TRAND_FLEET_SEQUENTIAL_hunt_fleet: "$ORD$ Hunt Fleet" #NT!
+ TRAND_ARMY_SEQUENTIAL_hunter_brigade: "$ORD$ Hunter Brigade" #NT!
+ TRAND_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force" #NT!
+ TRAND_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles" #NT!
+ TRAND_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army" #NT!
+ TRAND_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group" #NT!
+ TRAND_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix" #NT!
+ TRAND_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando" #NT!
+ TRAND_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+ TRAND_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+ TRAND_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+ TRAND_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+ TRAND_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+ TRAND_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+ TRAND_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+ TRAND_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+ TRAND_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+ TRAND_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+ TRAND_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+ TRAND_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron" #NT!
+ TRAND_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force" #NT!
+ TRAND_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison" #NT!
+ TRAND_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$" #NT!
+ TRAND_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$" #NT!
+ TRAND_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$" #NT!
+ TRAND_CHR_agnuk: "Agnuk" #NT!
+ TRAND_CHR_cradossk: "Cradossk" #NT!
+ TRAND_CHR_sssvrek: "Sssvrek" #NT!
+ TRAND_CHR_ess_al: "Ess Al" #NT!
+ TRAND_CHR_aqzow: "Aqzow" #NT!
+ TRAND_CHR_woff: "Woff" #NT!
+ TRAND_CHR_goll: "Goll" #NT!
+ TRAND_CHR_gwhirrye: "Gwhirrye" #NT!
+ TRAND_CHR_barthis: "Barthis" #NT!
+ TRAND_CHR_beshk: "Beshk" #NT!
+ TRAND_CHR_bhanak: "Bhanak" #NT!
+ TRAND_CHR_ronko: "Ronko" #NT!
+ TRAND_CHR_daktar: "Daktar" #NT!
+ TRAND_CHR_cyssc: "Cyssc" #NT!
+ TRAND_CHR_hssissk: "Hssissk" #NT!
+ TRAND_CHR_toggi: "Toggi" #NT!
+ TRAND_CHR_borantok: "Borantok" #NT!
+ TRAND_CHR_borkus: "Borkus" #NT!
+ TRAND_CHR_boruush: "Boruush" #NT!
+ TRAND_CHR_boshaz: "Boshaz" #NT!
+ TRAND_CHR_brask: "Brask" #NT!
+ TRAND_CHR_brek: "Brek" #NT!
+ TRAND_CHR_drassk: "Drassk" #NT!
+ TRAND_CHR_qyzen: "Qyzen" #NT!
+ TRAND_CHR_byrek: "Byrek" #NT!
+ TRAND_CHR_cahhmakt: "Cahhmakt" #NT!
+ TRAND_CHR_charsk: "Charsk" #NT!
+ TRAND_CHR_corrsk: "Corrsk" #NT!
+ TRAND_CHR_crovessk: "Crovessk" #NT!
+ TRAND_CHR_currsk: "Currsk" #NT!
+ TRAND_CHR_dakar: "Dakar" #NT!
+ TRAND_CHR_dar: "Dar" #NT!
+ TRAND_CHR_drenn: "Drenn" #NT!
+ TRAND_CHR_drossk: "Drossk" #NT!
+ TRAND_CHR_dussk: "Dussk" #NT!
+ TRAND_CHR_dure: "Dure" #NT!
+ TRAND_CHR_frissk: "Frissk" #NT!
+ TRAND_CHR_frossk: "Frossk" #NT!
+ TRAND_CHR_kruss: "Kruss" #NT!
+ TRAND_CHR_gahseelik: "Gahseelik" #NT!
+ TRAND_CHR_garnak: "Garnak" #NT!
+ TRAND_CHR_gilas: "Gilas" #NT!
+ TRAND_CHR_hrodius: "Hrodius" #NT!
+ TRAND_CHR_gorssk: "Gorssk" #NT!
+ TRAND_CHR_gorsst: "Gorsst" #NT!
+ TRAND_CHR_grahssk: "Grahssk" #NT!
+ TRAND_CHR_greelossk: "Greelossk" #NT!
+ TRAND_CHR_grrandash: "Grrandash" #NT!
+ TRAND_CHR_grug: "Grug" #NT!
+ TRAND_CHR_hissyphus: "Hissyphus" #NT!
+ TRAND_CHR_hokker: "Hokker" #NT!
+ TRAND_CHR_horssk: "Horssk" #NT!
+ TRAND_CHR_hss_kas: "Hss'kas" #NT!
+ TRAND_CHR_hressk: "Hressk" #NT!
+ TRAND_CHR_huusk: "Huusk" #NT!
+ TRAND_CHR_hurssk: "Hurssk" #NT!
+ TRAND_CHR_jakrann: "Jakrann" #NT!
+ TRAND_CHR_jessk: "Jessk" #NT!
+ TRAND_CHR_kasif: "Kasif" #NT!
+ TRAND_CHR_oosk: "Oosk" #NT!
+ TRAND_CHR_keerak: "Keerak" #NT!
+ TRAND_CHR_kephess: "Kephess" #NT!
+ TRAND_CHR_kessk: "Kessk" #NT!
+ TRAND_CHR_klesk: "Klesk" #NT!
+ TRAND_CHR_kootan: "Kootan" #NT!
+ TRAND_CHR_korq: "Korq" #NT!
+ TRAND_CHR_korrkoressk: "Korrkoressk" #NT!
+ TRAND_CHR_kressis: "Kressis" #NT!
+ TRAND_CHR_korussk: "Korussk" #NT!
+ TRAND_CHR_krussk: "Krussk" #NT!
+ TRAND_CHR_lyssk: "Lyssk" #NT!
+ TRAND_CHR_maltok: "Maltok" #NT!
+ TRAND_CHR_naxs: "Naxs" #NT!
+ TRAND_CHR_mrash: "Mrash" #NT!
+ TRAND_CHR_mundokk: "Mundokk" #NT!
+ TRAND_CHR_narrik: "Narrik" #NT!
+ TRAND_CHR_nokk: "Nokk" #NT!
+ TRAND_CHR_nssktkslis: "Nssktkslis" #NT!
+ TRAND_CHR_nukss: "Nukss" #NT!
+ TRAND_CHR_passk: "Passk" #NT!
+ TRAND_CHR_pekt: "Pekt" #NT!
+ TRAND_CHR_possak: "Possak" #NT!
+ TRAND_CHR_pressk: "Pressk" #NT!
+ TRAND_CHR_proach: "Proach" #NT!
+ TRAND_CHR_q_elliss: "Q'elliss" #NT!
+ TRAND_CHR_rarsk: "Rarsk" #NT!
+ TRAND_CHR_traggissk: "Traggissk" #NT!
+ TRAND_CHR_rhosk: "Rhosk" #NT!
+ TRAND_CHR_rosssuk: "Rosssuk" #NT!
+ TRAND_CHR_ryssk: "Ryssk" #NT!
+ TRAND_CHR_sarkh: "Sarkh" #NT!
+ TRAND_CHR_seevor: "Seevor" #NT!
+ TRAND_CHR_shekra: "Shekra" #NT!
+ TRAND_CHR_skarsk: "Skarsk" #NT!
+ TRAND_CHR_skeesk: "Skeesk" #NT!
+ TRAND_CHR_skikkesk: "Skikkesk" #NT!
+ TRAND_CHR_skreek: "Skreek" #NT!
+ TRAND_CHR_skrisst: "Skrisst" #NT!
+ TRAND_CHR_slyssk: "Slyssk" #NT!
+ TRAND_CHR_sosska: "Sosska" #NT!
+ TRAND_CHR_ssalash: "Ssalash" #NT!
+ TRAND_CHR_ssevrek: "Ssevrek" #NT!
+ TRAND_CHR_ssiksik: "Ssiksik" #NT!
+ TRAND_CHR_sskal: "Sskal" #NT!
+ TRAND_CHR_sskeer: "Sskeer" #NT!
+ TRAND_CHR_lek: "Lek" #NT!
+ TRAND_CHR_t_doshok: "T'doshok" #NT!
+ TRAND_CHR_zug: "Zug" #NT!
+ TRAND_CHR_thrassk: "Thrassk" #NT!
+ TRAND_CHR_lar_omx: "Lar'omx" #NT!
+ TRAND_CHR_tray_essek: "Tray'Essek" #NT!
+ TRAND_CHR_trex: "Trex" #NT!
+ TRAND_CHR_tsserk: "Tsserk" #NT!
+ TRAND_CHR_tsskoat: "Tsskoat" #NT!
+ TRAND_CHR_tusskrek: "Tusskrek" #NT!
+ TRAND_CHR_tyrok: "Tyrok" #NT!
+ TRAND_CHR_hrthek: "Hrthek" #NT!
+ TRAND_CHR_reneget: "Reneget" #NT!
+ TRAND_CHR_vossk: "Vossk" #NT!
+ TRAND_CHR_vrissk: "Vrissk" #NT!
+ TRAND_CHR_vultar: "Vultar" #NT!
+ TRAND_CHR_vurrsk: "Vurrsk" #NT!
+ TRAND_CHR_xirossk: "Xirossk" #NT!
+ TRAND_CHR_yarroq: "Yarroq" #NT!
+ TRAND_CHR_yrssk: "Yrssk" #NT!
+ TRAND_CHR_lisot: "Lisot" #NT!
+ TRAND_CHR_stima: "Stima" #NT!
+ TRAND_CHR_boshaza: "Boshaza" #NT!
+ TRAND_CHR_braska: "Braska" #NT!
+ TRAND_CHR_clargod: "Clargod" #NT!
+ TRAND_CHR_cyri: "Cyri" #NT!
+ TRAND_CHR_dara: "Dara" #NT!
+ TRAND_CHR_frisska: "Frisska" #NT!
+ TRAND_CHR_gha: "Gha" #NT!
+ TRAND_CHR_gruunelda: "Gruunelda" #NT!
+ TRAND_CHR_vanvi: "Vanvi" #NT!
+ TRAND_CHR_hresska: "Hresska" #NT!
+ TRAND_CHR_shada: "Shada" #NT!
+ TRAND_CHR_davjana: "Davjana" #NT!
+ TRAND_CHR_jesska: "Jesska" #NT!
+ TRAND_CHR_johuna: "Johuna" #NT!
+ TRAND_CHR_juuus: "Juuus" #NT!
+ TRAND_CHR_katrip: "Katrip" #NT!
+ TRAND_CHR_keela: "Keela" #NT!
+ TRAND_CHR_qyzenra: "Qyzenra" #NT!
+ TRAND_CHR_khrask: "Khrask" #NT!
+ TRAND_CHR_khreenk: "Khreenk" #NT!
+ TRAND_CHR_kisskk: "Kisskk" #NT!
+ TRAND_CHR_kressisa: "Kressisa" #NT!
+ TRAND_CHR_krusskila: "Krusskila" #NT!
+ TRAND_CHR_krylla: "Krylla" #NT!
+ TRAND_CHR_lesnor: "Lesnor" #NT!
+ TRAND_CHR_lissarkh: "Lissarkh" #NT!
+ TRAND_CHR_mssikss: "Mssikss" #NT!
+ TRAND_CHR_myssith: "Myssith" #NT!
+ TRAND_CHR_narj: "Narj" #NT!
+ TRAND_CHR_nim_ri: "Nim'Ri" #NT!
+ TRAND_CHR_noka: "Noka" #NT!
+ TRAND_CHR_nala: "Nala" #NT!
+ TRAND_CHR_q_ellissoa: "Q'ellissoa" #NT!
+ TRAND_CHR_raikhssa: "Raikhssa" #NT!
+ TRAND_CHR_raptiss: "Raptiss" #NT!
+ TRAND_CHR_rysska: "Rysska" #NT!
+ TRAND_CHR_sish: "Sish" #NT!
+ TRAND_CHR_traga: "Traga" #NT!
+ TRAND_CHR_sounac: "Sounac" #NT!
+ TRAND_CHR_strigge: "Strigge" #NT!
+ TRAND_CHR_leki: "Leki" #NT!
+ TRAND_CHR_stydge: "Stydge" #NT!
+ TRAND_CHR_zugga: "Zugga" #NT!
+ TRAND_CHR_thrasska: "Thrasska" #NT!
+ TRAND_CHR_trizz_ma: "Trizz'ma" #NT!
+ TRAND_CHR_trossilik: "Trossilik" #NT!
+ TRAND_CHR_trossilish: "Trossilish" #NT!
+ TRAND_CHR_tysheyk: "Tysheyk" #NT!
+ TRAND_CHR_tsserka: "Tsserka" #NT!
+ TRAND_CHR_ulissa: "Ulissa" #NT!
+ TRAND_CHR_babwa: "Babwa" #NT!
+ TRAND_CHR_vressag: "Vressag" #NT!
+ TRAND_CHR_vrriska: "Vrriska" #NT!
+ TRAND_CHR_vultra: "Vultra" #NT!
+ TRAND_CHR_xydge: "Xydge" #NT!
+ TRAND_CHR_yadfre: "Yadfre" #NT!
+ TRAND_CHR_ysith: "Ysith" #NT!
+ TRAND_CHR_kesska: "Kesska" #NT!
+ TRAND_CHR_kleska: "Kleska" #NT!
+ TRAND_CHR_kootana: "Kootana" #NT!
+ TRAND_CHR_korqa: "Korqa" #NT!
+ TRAND_CHR_xeniss: "Xeniss" #NT!
+ TRAND_CHR_korusska: "Korusska" #NT!
+ TRAND_CHR_krusska: "Krusska" #NT!
+ TRAND_CHR_lysska: "Lysska" #NT!
+ TRAND_CHR_maltoka: "Maltoka" #NT!
+ TRAND_CHR_naxsa: "Naxsa" #NT!
+ TRAND_CHR_mrasha: "Mrasha" #NT!
+ TRAND_CHR_mundokka: "Mundokka" #NT!
+ TRAND_CHR_narrika: "Narrika" #NT!
+ TRAND_CHR_nokka: "Nokka" #NT!
+ TRAND_CHR_tailsaka: "Tailsaka" #NT!
+ TRAND_CHR_nukssa: "Nukssa" #NT!
+ TRAND_CHR_passka: "Passka" #NT!
+ TRAND_CHR_pekta: "Pekta" #NT!
+ TRAND_CHR_possaka: "Possaka" #NT!
+ TRAND_CHR_presska: "Presska" #NT!
+ TRAND_CHR_proacha: "Proacha" #NT!
+ TRAND_CHR_q_ellissa: "Q'ellissa" #NT!
+ TRAND_CHR_rarska: "Rarska" #NT!
+ TRAND_CHR_traggisska: "Traggisska" #NT!
+ TRAND_CHR_rhoska: "Rhoska" #NT!
+ TRAND_CHR_rosssuka: "Rosssuka" #NT!
+ TRAND_CHR_sarkha: "Sarkha" #NT!
+ TRAND_CHR_seevora: "Seevora" #NT!
+ TRAND_CHR_tisi: "Tisi" #NT!
+ TRAND_CHR_skarska: "Skarska" #NT!
+ TRAND_CHR_skeeska: "Skeeska" #NT!
+ TRAND_CHR_skikkeska: "Skikkeska" #NT!
+ TRAND_CHR_skreeka: "Skreeka" #NT!
+ TRAND_CHR_skrissta: "Skrissta" #NT!
+ TRAND_CHR_slysska: "Slysska" #NT!
+ TRAND_CHR_sissta: "Sissta" #NT!
+ TRAND_CHR_ssalasha: "Ssalasha" #NT!
+ TRAND_CHR_ssevreka: "Ssevreka" #NT!
+ TRAND_CHR_ssiksika: "Ssiksika" #NT!
+ TRAND_CHR_sskala: "Sskala" #NT!
+ TRAND_CHR_sskeera: "Sskeera" #NT!
+ TRAND_CHR_leka: "Leka" #NT!
+ TRAND_CHR_t_doshoka: "T'doshoka" #NT!
+ TRAND_CHR_zuga: "Zuga" #NT!
+ TRAND_CHR_lar_omxa: "Lar'omxa" #NT!
+ TRAND_CHR_tray_esseka: "Tray'Esseka" #NT!
+ TRAND_CHR_trexa: "Trexa" #NT!
+ TRAND_CHR_tsskoata: "Tsskoata" #NT!
+ TRAND_CHR_tusskreka: "Tusskreka" #NT!
+ TRAND_CHR_tyroka: "Tyroka" #NT!
+ TRAND_CHR_hrtheka: "Hrtheka" #NT!
+ TRAND_CHR_renegeta: "Renegeta" #NT!
+ TRAND_CHR_vosska: "Vosska" #NT!
+ TRAND_CHR_vrisska: "Vrisska" #NT!
+ TRAND_CHR_vultara: "Vultara" #NT!
+ TRAND_CHR_vurrska: "Vurrska" #NT!
+ TRAND_CHR_xirosska: "Xirosska" #NT!
+ TRAND_CHR_yarroqa: "Yarroqa" #NT!
+ TRAND_CHR_yrsska: "Yrsska" #NT!
+ TRAND_CHR_al: "Al" #NT!
+ TRAND_CHR_ardella: "Ardella" #NT!
+ TRAND_CHR_b_tar: "B'tar" #NT!
+ TRAND_CHR_bardok: "Bardok" #NT!
+ TRAND_CHR_baric: "Baric" #NT!
+ TRAND_CHR_belangus: "Belangus" #NT!
+ TRAND_CHR_bist: "Bist" #NT!
+ TRAND_CHR_bloodmoon: "Bloodmoon" #NT!
+ TRAND_CHR_blackscale: "Blackscale" #NT!
+ TRAND_CHR_bloodscale: "Bloodscale" #NT!
+ TRAND_CHR_bloodscar: "Bloodscar" #NT!
+ TRAND_CHR_blackscar: "Blackscar" #NT!
+ TRAND_CHR_bok: "Bok" #NT!
+ TRAND_CHR_veneb: "Veneb" #NT!
+ TRAND_CHR_fess: "Fess" #NT!
+ TRAND_CHR_revessa: "Revessa" #NT!
+ TRAND_CHR_hassk: "Hassk" #NT!
+ TRAND_CHR_eso: "Eso" #NT!
+ TRAND_CHR_gaal: "Gaal" #NT!
+ TRAND_CHR_gaar: "Gaar" #NT!
+ TRAND_CHR_nachkt: "Nachkt" #NT!
+ TRAND_CHR_goort: "Goort" #NT!
+ TRAND_CHR_goragg: "Goragg" #NT!
+ TRAND_CHR_gusepp: "Gusepp" #NT!
+ TRAND_CHR_hessen: "Hessen" #NT!
+ TRAND_CHR_hotne: "Hotne" #NT!
+ TRAND_CHR_hsskhor: "Hsskhor" #NT!
+ TRAND_CHR_igosko: "Igosko" #NT!
+ TRAND_CHR_jhcor: "Jhcor" #NT!
+ TRAND_CHR_kassa: "Kassa" #NT!
+ TRAND_CHR_kilon: "Kilon" #NT!
+ TRAND_CHR_klallor: "Klallor" #NT!
+ TRAND_CHR_koorst: "Koorst" #NT!
+ TRAND_CHR_krood: "Krood" #NT!
+ TRAND_CHR_morrng: "Morrng" #NT!
+ TRAND_CHR_wasskah: "Wasskah" #NT!
+ TRAND_CHR_nakaron: "Nakaron" #NT!
+ TRAND_CHR_nross: "Nross" #NT!
+ TRAND_CHR_rokh: "Rokh" #NT!
+ TRAND_CHR_tassik: "Tassik" #NT!
+ TRAND_CHR_trussk: "Trussk" #NT!
+ TRAND_CHR_val_voz: "Val Voz" #NT!
+ TRAND_CHR_vause: "Vause" #NT!
+ TRAND_CHR_verkoss: "Verkoss" #NT!
+ TRAND_CHR_venomor: "Venomor" #NT!
+ TRAND_CHR_wertsnik: "Wertsnik" #NT!
+ TRAND_CHR_ziss_t: "Ziss't" #NT!
+ TRAND_CHR_gorak: "Gorak" #NT!
+ TRAND_CHR_hadocrassk: "Hadocrassk" #NT!
+ TRAND_CHR_karniss: "Karniss" #NT!
+ TRAND_CHR_karssk: "Karssk" #NT!
+ TRAND_CHR_kras_dokh: "Kras'dokh" #NT!
+ TRAND_CHR_krix: "Krix" #NT!
+ TRAND_CHR_passikk: "Passikk" #NT!
+ TRAND_CHR_brasska: "Brasska" #NT!
+ TRAND_CHR_mrsskala: "Mrsskala" #NT!
+ TRAND_CHR_kephessa: "Kephessa" #NT!
+ TRAND_CHR_q_elissa: "Q'elissa" #NT!
+ TRAND_CHR_kaogar: "Kaogar" #NT!
+ TRAND_CHR_lo_taren: "Lo-Taren" #NT!
+ TRAND_CHR_narask: "Narask" #NT!
+ TRAND_CHR_reosss: "Reosss" #NT!
+ TRAND_CHR_ssoh: "Ssoh" #NT!
+ TRAND_CHR_ssurussk: "Ssurussk" #NT!

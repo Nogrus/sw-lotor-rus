@@ -1,595 +1,595 @@
 ﻿l_russian:
- ZABRAK_horned_crown: "Horned Crown"
- ZABRAK_exile: "Exile"
- ZABRAK_immolatord: "Immolator"
- ZABRAK_faithful: "Faithful"
- ZABRAK_redeemer: "Redeemer"
- ZABRAK_sanctity_of_battle: "Sanctity of Battle"
- ZABRAK_purifier: "Purifier"
- ZABRAK_doomsayer: "Doomsayer"
- ZABRAK_sojourner: "Sojourner"
- ZABRAK_blood_horn: "Blood Horn"
- ZABRAK_redemption: "Redemption"
- ZABRAK_mortis: "Mortis"
- ZABRAK_sigil: "Sigil"
- ZABRAK_practitioner: "Practitioner"
- ZABRAK_convert: "Convert"
- ZABRAK_zealot: "Zealot"
- ZABRAK_apostle: "Apostle"
- ZABRAK_gospel_of_iridonia: "Gospel of Iridonia"
- ZABRAK_prayer_for_iridonia: "Prayer for Iridonia"
- ZABRAK_altar_of_war: "Altar of War"
- ZABRAK_divine_wrath: "Divine Wrath"
- ZABRAK_feldrona: "Feldrona"
- ZABRAK_bao_dur: "Bao-Dur"
- ZABRAK_koon_odan: "Koon Odan"
- ZABRAK_confession: "Confession"
- ZABRAK_abthane: "Abthane"
- ZABRAK_providence: "Providence"
- ZABRAK_exegesis: "Exegesis"
- ZABRAK_moxsha: "Moxsha"
- ZABRAK_undying: "Undying"
- ZABRAK_paradise: "Paradise"
- ZABRAK_ordination: "Ordination"
- ZABRAK_divine_right: "Divine Right"
- ZABRAK_charisma: "Charisma"
- ZABRAK_affirmation: "Affirmation"
- ZABRAK_kataphatic: "Kataphatic"
- ZABRAK_mystic: "Mystic"
- ZABRAK_silent_choir: "Silent Choir"
- ZABRAK_dogma: "Dogma"
- ZABRAK_transcendent: "Transcendent"
- ZABRAK_epiphany: "Epiphany"
- ZABRAK_essence: "Essence"
- ZABRAK_arduous: "Arduous"
- ZABRAK_blessed: "Blessed"
- ZABRAK_kosmogonia: "Kosmogonia"
- ZABRAK_pronouncer: "Pronouncer"
- ZABRAK_eternal_reward: "Eternal Reward"
- ZABRAK_trial_of_koana: "Trial of Koana"
- ZABRAK_meditator: "Meditator"
- ZABRAK_mind_s_eye: "Mind's Eye"
- ZABRAK_vision_of_revival: "Vision of Revival"
- ZABRAK_theosis: "Theosis"
- ZABRAK_transcendental: "Transcendental"
- ZABRAK_incarnation: "Incarnation"
- ZABRAK_kao_cen: "Kao Cen"
- ZABRAK_anointed_edge: "Anointed Edge"
- ZABRAK_devotional: "Devotional"
- ZABRAK_godhead: "Godhead"
- ZABRAK_aurodium_gate: "Aurodium Gate"
- ZABRAK_mark_of_the_horn: "Mark of the Horn"
- ZABRAK_oblator: "Oblator"
- ZABRAK_enraptured: "Enraptured"
- ZABRAK_enthraller: "Enthraller"
- ZABRAK_quadlemma: "Quadlemma"
- ZABRAK_crown_of_horns: "Crown of Horns"
- ZABRAK_henshin: "Henshin"
- ZABRAK_admiral_numinn: "Admiral Numinn"
- ZABRAK_corin_tok: "Corin Tok"
- ZABRAK_vikto: "Vikto"
- ZABRAK_crimson_litany: "Crimson Litany"
- ZABRAK_castigator: "Castigator"
- ZABRAK_halcyon: "Halcyon"
- ZABRAK_longspur: "Longspur"
- ZABRAK_itinerant: "Itinerant"
- ZABRAK_wayfarer: "Wayfarer"
- ZABRAK_wanderer: "Wanderer"
- ZABRAK_roamer: "Roamer"
- ZABRAK_farstrike: "Farstrike"
- ZABRAK_brawler: "Brawler"
- ZABRAK_brazen: "Brazen"
- ZABRAK_representative: "Representative"
- ZABRAK_threkin: "Threkin"
- ZABRAK_geedon: "Geedon"
- ZABRAK_glaser: "Glaser"
- ZABRAK_glazer: "Glazer"
- ZABRAK_godar: "Godar"
- ZABRAK_grappler: "Grappler"
- ZABRAK_habatok: "Habatok"
- ZABRAK_halifax: "Halifax"
- ZABRAK_howlrunner: "Howlrunner"
- ZABRAK_hyko: "Hyko"
- ZABRAK_intrepid: "Intrepid"
- ZABRAK_indefatigable: "Indefatigable"
- ZABRAK_vindicator: "Vindicator"
- ZABRAK_blethyline: "Blethyline"
- ZABRAK_canoid: "Canoid"
- ZABRAK_banshee: "Banshee"
- ZABRAK_victory: "Victory"
- ZABRAK_success: "Success"
- ZABRAK_triumph: "Triumph"
- ZABRAK_titan: "Titan"
- ZABRAK_harrower: "Harrower"
- ZABRAK_raider: "Raider"
- ZABRAK_nebula: "Nebula"
- ZABRAK_dauntless: "Dauntless"
- ZABRAK_subjugator: "Subjugator"
- ZABRAK_conqueror: "Conqueror"
- ZABRAK_crusader: "Crusader"
- ZABRAK_glory: "Glory"
- ZABRAK_immortal: "Immortal"
- ZABRAK_judicator: "Judicator"
- ZABRAK_vanguard: "Vanguard"
- ZABRAK_renown: "Renown"
- ZABRAK_demolisher: "Demolisher"
- ZABRAK_storm: "Storm"
- ZABRAK_stormstrike: "Stormstrike"
- ZABRAK_striker: "Striker"
- ZABRAK_sundog: "Sundog"
- ZABRAK_talon: "Talon"
- ZABRAK_thrasher: "Thrasher"
- ZABRAK_thunder: "Thunder"
- ZABRAK_thunderstrike: "Thunderstrike"
- ZABRAK_purrgil: "Purrgil"
- ZABRAK_axehead: "Axehead"
- ZABRAK_barloz: "Barloz"
- ZABRAK_centurion: "Centurion"
- ZABRAK_pelta: "Pelta"
- ZABRAK_longbeam: "Longbeam"
- ZABRAK_bulk: "Bulk"
- ZABRAK_bursa: "Bursa"
- ZABRAK_bulwark: "Bulwark"
- ZABRAK_invincible: "Invincible"
- ZABRAK_valor: "Valor"
- ZABRAK_hammer: "Hammer"
- ZABRAK_sword: "Sword"
- ZABRAK_shield: "Shield"
- ZABRAK_brigand: "Brigand"
- ZABRAK_praetorian: "Praetorian"
- ZABRAK_lictor: "Lictor"
- ZABRAK_starlight: "Starlight"
- ZABRAK_dreadnaught: "Dreadnaught"
- ZABRAK_vainglorious: "Vainglorious"
- ZABRAK_tarvix: "Tarvix"
- ZABRAK_drexl: "Drexl"
- ZABRAK_rothana: "Rothana"
- ZABRAK_balmorra: "Balmorra"
- ZABRAK_lormar: "Lormar"
- ZABRAK_lupus: "Lupus"
- ZABRAK_onager: "Onager"
- ZABRAK_pursuit: "Pursuit"
- ZABRAK_bavos: "Bavos"
- ZABRAK_munifex: "Munifex"
- ZABRAK_mudhorn: "Mudhorn"
- ZABRAK_gundark: "Gundark"
- ZABRAK_pilgrim: "Pilgrim"
- ZABRAK_jihaval: "Jihaval"
- ZABRAK_mission: "Mission"
- ZABRAK_fervent: "Fervent"
- ZABRAK_crier: "Crier"
- ZABRAK_witness: "Witness"
- ZABRAK_abiding_supplicant: "Abiding Supplicant"
- ZABRAK_graven: "Graven"
- ZABRAK_alacrity: "Alacrity"
- ZABRAK_satyr: "Satyr"
- ZABRAK_prospero: "Prospero"
- ZABRAK_untiring: "Untiring"
- ZABRAK_zenith: "Zenith"
- ZABRAK_sacred_torch: "Sacred Torch"
- ZABRAK_remembrance: "Remembrance"
- ZABRAK_godspeed: "Godspeed"
- ZABRAK_novaflower: "Novaflower"
- ZABRAK_zabrak_destiny: "Zabrak Destiny"
- ZABRAK_iridon: "Iridon"
- ZABRAK_hornsprout: "Hornsprout"
- ZABRAK_aurodium_city: "Aurodium City"
- ZABRAK_pioneer_blessing: "Pioneer Blessing"
- ZABRAK_sacred_journey: "Sacred Journey"
- ZABRAK_martyr_tears: "Martyr Tears"
- ZABRAK_promised_land: "Promised Land"
- ZABRAK_gospel: "Gospel"
- ZABRAK_hajjar: "Hajjar"
- ZABRAK_divine_wind: "Divine Wind"
- ZABRAK_breath_of_iridonia: "Breath of Iridonia"
- ZABRAK_good_word: "Good Word"
- ZABRAK_constr_aurek: "Constructor Aurek"
- ZABRAK_constr_besh: "Constructor Besh"
- ZABRAK_constr_cresh: "Constructor Cresh"
- ZABRAK_constr_dorn: "Constructor Dorn"
- ZABRAK_constr_forn: "Constructor Forn"
- ZABRAK_constr_grek: "Constructor Grek"
- ZABRAK_constr_herf: "Constructor Herf"
- ZABRAK_constr_isk: "Constructor Isk"
- ZABRAK_constr_jenth: "Constructor Jenth"
- ZABRAK_constr_krill: "Constructor Krill"
- ZABRAK_constr_leth: "Constructor Leth"
- ZABRAK_constr_mern: "Constructor Mern"
- ZABRAK_constr_nern: "Constructor Nern"
- ZABRAK_constr_osk: "Constructor Osk"
- ZABRAK_constr_peth: "Constructor Peth"
- ZABRAK_constr_senth: "Constructor Senth"
- ZABRAK_constr_trill: "Constructor Trill"
- ZABRAK_constr_usk: "Constructor Usk"
- ZABRAK_constr_vev: "Constructor Vev"
- ZABRAK_constr_wesk: "Constructor Wesk"
- ZABRAK_constr_xesh: "Constructor Xesh"
- ZABRAK_constr_yirt: "Constructor Yirt"
- ZABRAK_constr_zerek: "Constructor Zerek"
- ZABRAK_constr_cherek: "Constructor Cherek"
- ZABRAK_constr_qek: "Constructor Qek"
- ZABRAK_constr_resh: "Constructor Resh"
- ZABRAK_constr_enth: "Constructor Enth"
- ZABRAK_constr_onith: "Constructor Onith"
- ZABRAK_constr_krenth: "Constructor Krenth"
- ZABRAK_constr_nen: "Constructor Nen"
- ZABRAK_constr_orenth: "Constructor Orenth"
- ZABRAK_constr_shen: "Constructor Shen"
- ZABRAK_constr_thesh: "Constructor Thesh"
- ZABRAK_ground_transport: "Ground Transport"
- ZABRAK_harbinger: "Harbinger"
- ZABRAK_messiah: "Messiah"
- ZABRAK_pennance: "Pennance"
- ZABRAK_devotee: "Devotee"
- ZABRAK_nightbrother: "Nightbrother"
- ZABRAK_bombard: "Bombard"
- ZABRAK_ballista: "Ballista"
- ZABRAK_catapult: "Catapult"
- ZABRAK_harpoon: "Harpoon"
- ZABRAK_culverin: "Culverin"
- ZABRAK_FLEET_vortexal_watch: "Vortexal Watch"
- ZABRAK_FLEET_iridonian_home_guard: "Iridonian Home Guard"
- ZABRAK_FLEET_star_sea_flotilla: "Star Sea Flotilla"
- ZABRAK_FLEET_spinward_armada: "Spinward Armada"
- ZABRAK_FLEET_SEQUENTIAL_task_force: "$ORD$ Task Force"
- ZABRAK_ARMY_SEQUENTIAL_watcher_battalion: "$ORD$ Watcher Battalion"
- ZABRAK_ARMY_SEQUENTIAL_iridonian_legion: "$ORD$ Iridonian Legion"
- ZABRAK_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- ZABRAK_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- ZABRAK_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- ZABRAK_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- ZABRAK_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- ZABRAK_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- ZABRAK_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- ZABRAK_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- ZABRAK_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- ZABRAK_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- ZABRAK_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- ZABRAK_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- ZABRAK_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- ZABRAK_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- ZABRAK_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- ZABRAK_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- ZABRAK_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- ZABRAK_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- ZABRAK_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- ZABRAK_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- ZABRAK_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- ZABRAK_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- ZABRAK_CHR_hast: "Hast"
- ZABRAK_CHR_aeios: "Aeios"
- ZABRAK_CHR_keeth: "Keeth"
- ZABRAK_CHR_odon: "Odon"
- ZABRAK_CHR_zubain: "Zubain"
- ZABRAK_CHR_arim: "Arim"
- ZABRAK_CHR_chrone: "Chrone"
- ZABRAK_CHR_po: "Po"
- ZABRAK_CHR_bao_dur: "Bao-Dur"
- ZABRAK_CHR_vanto: "Vanto"
- ZABRAK_CHR_fezrik: "Fezrik"
- ZABRAK_CHR_bracco: "Bracco"
- ZABRAK_CHR_lo: "Lo"
- ZABRAK_CHR_bol: "Bol"
- ZABRAK_CHR_cadomaccus: "Cadomaccus"
- ZABRAK_CHR_charotke: "Charotke"
- ZABRAK_CHR_jomar: "Jomar"
- ZABRAK_CHR_cyrus: "Cyrus"
- ZABRAK_CHR_kao_cen: "Kao Cen"
- ZABRAK_CHR_duqua: "Duqua"
- ZABRAK_CHR_dastid: "Dastid"
- ZABRAK_CHR_denal_zon: "Denal-zon"
- ZABRAK_CHR_dommu: "Dommu"
- ZABRAK_CHR_aach: "Aach"
- ZABRAK_CHR_eidolon: "Eidolon"
- ZABRAK_CHR_ferrin: "Ferrin"
- ZABRAK_CHR_frazznik: "Frazznik"
- ZABRAK_CHR_deorko: "Deorko"
- ZABRAK_CHR_girik: "Girik"
- ZABRAK_CHR_groj: "Groj"
- ZABRAK_CHR_grollix: "Grollix"
- ZABRAK_CHR_haresh: "Haresh"
- ZABRAK_CHR_pol: "Pol"
- ZABRAK_CHR_braigin: "Braigin"
- ZABRAK_CHR_jamoh: "Jamoh"
- ZABRAK_CHR_ivok: "Ivok"
- ZABRAK_CHR_vuurha: "Vuurha"
- ZABRAK_CHR_jiro: "Jiro"
- ZABRAK_CHR_dao: "Dao"
- ZABRAK_CHR_junker: "Junker"
- ZABRAK_CHR_juuho: "Juuho"
- ZABRAK_CHR_maa: "Maa"
- ZABRAK_CHR_jurgan: "Jurgan"
- ZABRAK_CHR_drell: "Drell"
- ZABRAK_CHR_wyll: "Wyll"
- ZABRAK_CHR_lem: "Lem"
- ZABRAK_CHR_kateo: "Kateo"
- ZABRAK_CHR_kern: "Kern"
- ZABRAK_CHR_zarien: "Zarien"
- ZABRAK_CHR_klage: "Klage"
- ZABRAK_CHR_agen: "Agen"
- ZABRAK_CHR_jaylen: "Jaylen"
- ZABRAK_CHR_thon: "Thon"
- ZABRAK_CHR_nek: "Nek"
- ZABRAK_CHR_lin: "Lin"
- ZABRAK_CHR_llokay: "Llokay"
- ZABRAK_CHR_kaz: "Kaz"
- ZABRAK_CHR_hagen: "Hagen"
- ZABRAK_CHR_orth: "Orth"
- ZABRAK_CHR_dael: "Dael"
- ZABRAK_CHR_ralen: "Ralen"
- ZABRAK_CHR_serdor: "Serdor"
- ZABRAK_CHR_martonn: "Martonn"
- ZABRAK_CHR_mase: "Mase"
- ZABRAK_CHR_mennaus: "Mennaus"
- ZABRAK_CHR_mogg: "Mogg"
- ZABRAK_CHR_mykka: "Mykka"
- ZABRAK_CHR_daen: "Daen"
- ZABRAK_CHR_neskett: "Neskett"
- ZABRAK_CHR_oorn: "Oorn"
- ZABRAK_CHR_falner: "Falner"
- ZABRAK_CHR_oggo: "Oggo"
- ZABRAK_CHR_sar: "Sar"
- ZABRAK_CHR_ovold: "Ovold"
- ZABRAK_CHR_raf: "Raf"
- ZABRAK_CHR_reiki: "Reiki"
- ZABRAK_CHR_remilok: "Remilok"
- ZABRAK_CHR_revaak: "Revaak"
- ZABRAK_CHR_dheno: "Dheno"
- ZABRAK_CHR_p_laang: "P'laang"
- ZABRAK_CHR_venik: "Venik"
- ZABRAK_CHR_sadao: "Sadao"
- ZABRAK_CHR_sanorn: "Sanorn"
- ZABRAK_CHR_scopique: "Scopique"
- ZABRAK_CHR_ters: "Ters"
- ZABRAK_CHR_senu: "Senu"
- ZABRAK_CHR_nak: "Nak"
- ZABRAK_CHR_dar: "Dar"
- ZABRAK_CHR_sirak: "Sirak"
- ZABRAK_CHR_spanios: "Spanios"
- ZABRAK_CHR_pak: "Pak"
- ZABRAK_CHR_calman: "Calman"
- ZABRAK_CHR_ta: "Ta"
- ZABRAK_CHR_corin: "Corin"
- ZABRAK_CHR_towe: "Towe"
- ZABRAK_CHR_tryken: "Tryken"
- ZABRAK_CHR_targob: "Targob"
- ZABRAK_CHR_turbis: "Turbis"
- ZABRAK_CHR_uptin: "Uptin"
- ZABRAK_CHR_bo: "Bo"
- ZABRAK_CHR_vadlerio: "Vadlerio"
- ZABRAK_CHR_varus: "Varus"
- ZABRAK_CHR_vegg: "Vegg"
- ZABRAK_CHR_dantin: "Dantin"
- ZABRAK_CHR_velnine: "Velnine"
- ZABRAK_CHR_venters: "Venters"
- ZABRAK_CHR_virk: "Virk"
- ZABRAK_CHR_viscus: "Viscus"
- ZABRAK_CHR_vril: "Vril"
- ZABRAK_CHR_charo: "Charo"
- ZABRAK_CHR_wyjus_minn: "Wyjus-Minn"
- ZABRAK_CHR_zan: "Zan"
- ZABRAK_CHR_arn_tan: "Arn Tan"
- ZABRAK_CHR_zarran: "Zarran"
- ZABRAK_CHR_alvania: "Alvania"
- ZABRAK_CHR_anniya: "Anniya"
- ZABRAK_CHR_anstiss: "Anstiss"
- ZABRAK_CHR_aveso: "Aveso"
- ZABRAK_CHR_avax: "Avax"
- ZABRAK_CHR_coret: "Coret"
- ZABRAK_CHR_raxa: "Raxa"
- ZABRAK_CHR_maris: "Maris"
- ZABRAK_CHR_triz: "Triz"
- ZABRAK_CHR_bulga: "Bulga"
- ZABRAK_CHR_vil: "Vil"
- ZABRAK_CHR_co_overma: "Co'overma"
- ZABRAK_CHR_choa: "O'choa"
- ZABRAK_CHR_mekus: "Mekus"
- ZABRAK_CHR_elkan: "Elkan"
- ZABRAK_CHR_jas: "Jas"
- ZABRAK_CHR_eotrisa: "Eotrisa"
- ZABRAK_CHR_fryoto: "Fryoto"
- ZABRAK_CHR_garan: "Garan"
- ZABRAK_CHR_gith: "Gith"
- ZABRAK_CHR_hallen: "Hallen"
- ZABRAK_CHR_heljus: "Heljus"
- ZABRAK_CHR_solida: "Solida"
- ZABRAK_CHR_idonia: "Idonia"
- ZABRAK_CHR_onn: "Onn"
- ZABRAK_CHR_klaua: "Klaua"
- ZABRAK_CHR_rhalia: "Rhalia"
- ZABRAK_CHR_mada: "Mada"
- ZABRAK_CHR_jolka: "Jolka"
- ZABRAK_CHR_ses: "Ses"
- ZABRAK_CHR_joella: "Joella"
- ZABRAK_CHR_jorelle: "Jorelle"
- ZABRAK_CHR_drakka: "Drakka"
- ZABRAK_CHR_yevra: "Yevra"
- ZABRAK_CHR_rose: "Rose"
- ZABRAK_CHR_mai: "Mai"
- ZABRAK_CHR_mira: "Mira"
- ZABRAK_CHR_tilian: "Tilian"
- ZABRAK_CHR_jewl_a: "Jewl'a"
- ZABRAK_CHR_koon: "Koon"
- ZABRAK_CHR_arane: "Arane"
- ZABRAK_CHR_iza: "Iza"
- ZABRAK_CHR_grayda: "Grayda"
- ZABRAK_CHR_kayla: "Kayla"
- ZABRAK_CHR_qista: "Qista"
- ZABRAK_CHR_quanera: "Quanera"
- ZABRAK_CHR_jabe: "Jabe"
- ZABRAK_CHR_aleas: "Aleas"
- ZABRAK_CHR_xuvi: "Xuvi"
- ZABRAK_CHR_ki: "Ki"
- ZABRAK_CHR_seffi: "Seffi"
- ZABRAK_CHR_kadrian: "Kadrian"
- ZABRAK_CHR_seyda: "Seyda"
- ZABRAK_CHR_akaavi: "Akaavi"
- ZABRAK_CHR_sugi: "Sugi"
- ZABRAK_CHR_sora: "Sora"
- ZABRAK_CHR_aelson: "Aelson"
- ZABRAK_CHR_baela: "Baela"
- ZABRAK_CHR_kass: "Kass"
- ZABRAK_CHR_zakala: "Zakala"
- ZABRAK_CHR_seema: "Seema"
- ZABRAK_CHR_kaysil: "Kaysil"
- ZABRAK_CHR_vinda: "Vinda"
- ZABRAK_CHR_virne: "Virne"
- ZABRAK_CHR_tensa: "Tensa"
- ZABRAK_CHR_cie: "Cie"
- ZABRAK_CHR_tyzen: "Tyzen"
- ZABRAK_CHR_yougga: "Yougga"
- ZABRAK_CHR_edrinu: "Edrinu"
- ZABRAK_CHR_zo_ssa: "Zo'ssa"
- ZABRAK_CHR_aath: "Aath"
- ZABRAK_CHR_acaadi: "Acaadi"
- ZABRAK_CHR_agar: "Agar"
- ZABRAK_CHR_anak: "Anak"
- ZABRAK_CHR_ankonori: "Ankonori"
- ZABRAK_CHR_ars: "Ars"
- ZABRAK_CHR_banis: "Banis"
- ZABRAK_CHR_barret: "Barret"
- ZABRAK_CHR_bazren: "Bazren"
- ZABRAK_CHR_bendledon: "Bendledon"
- ZABRAK_CHR_bhan: "Bhan"
- ZABRAK_CHR_binn: "Binn"
- ZABRAK_CHR_bickell: "Bickell"
- ZABRAK_CHR_brood: "Brood"
- ZABRAK_CHR_bukk: "Bukk"
- ZABRAK_CHR_burren: "Burren"
- ZABRAK_CHR_chatak: "Chatak"
- ZABRAK_CHR_chel: "Chel"
- ZABRAK_CHR_chul: "Chul"
- ZABRAK_CHR_coria: "Coria"
- ZABRAK_CHR_crymi: "Crymi"
- ZABRAK_CHR_darach: "Darach"
- ZABRAK_CHR_defte: "Defte"
- ZABRAK_CHR_detera: "Detera"
- ZABRAK_CHR_donbar: "Donbar"
- ZABRAK_CHR_drin: "Drin"
- ZABRAK_CHR_eamul: "Eamul"
- ZABRAK_CHR_een: "Een"
- ZABRAK_CHR_eldo: "Eldo"
- ZABRAK_CHR_emari: "Emari"
- ZABRAK_CHR_exteen: "Exteen"
- ZABRAK_CHR_fa_zoll: "Fa'Zoll"
- ZABRAK_CHR_feldon: "Feldon"
- ZABRAK_CHR_gaan: "Gaan"
- ZABRAK_CHR_gek: "Gek"
- ZABRAK_CHR_gonwa: "Gonwa"
- ZABRAK_CHR_haus: "Haus"
- ZABRAK_CHR_hele: "Hele"
- ZABRAK_CHR_helk: "Helk"
- ZABRAK_CHR_henshin: "Henshin"
- ZABRAK_CHR_hesk: "Hesk"
- ZABRAK_CHR_hogra: "Hogra"
- ZABRAK_CHR_iria: "Iria"
- ZABRAK_CHR_itotr: "Itotr"
- ZABRAK_CHR_jantsk: "Jantsk"
- ZABRAK_CHR_jik: "Jik"
- ZABRAK_CHR_jinsari: "Jinsari"
- ZABRAK_CHR_jodh: "Jodh"
- ZABRAK_CHR_jopp: "Jopp"
- ZABRAK_CHR_judarrl: "Judarrl"
- ZABRAK_CHR_jott: "Jott"
- ZABRAK_CHR_kaap: "Kaap"
- ZABRAK_CHR_kalta: "Kalta"
- ZABRAK_CHR_kahmf: "Kahmf"
- ZABRAK_CHR_kander: "Kander"
- ZABRAK_CHR_karner: "Karner"
- ZABRAK_CHR_keikodi: "Keikodi"
- ZABRAK_CHR_keloh: "Keloh"
- ZABRAK_CHR_kheev: "Kheev"
- ZABRAK_CHR_kin_ade: "Kin'ade"
- ZABRAK_CHR_kolar: "Kolar"
- ZABRAK_CHR_koth: "Koth"
- ZABRAK_CHR_korventine: "Korventine"
- ZABRAK_CHR_kos: "Kos"
- ZABRAK_CHR_larimhor: "Larimhor"
- ZABRAK_CHR_lawsirk: "Lawsirk"
- ZABRAK_CHR_ledesmar: "Ledesmar"
- ZABRAK_CHR_longmyre: "Longmyre"
- ZABRAK_CHR_maag: "Maag"
- ZABRAK_CHR_maanki: "Maanki"
- ZABRAK_CHR_margok: "Margok"
- ZABRAK_CHR_marrak: "Marrak"
- ZABRAK_CHR_matare: "Matare"
- ZABRAK_CHR_moravai: "Moravai"
- ZABRAK_CHR_nark: "Nark"
- ZABRAK_CHR_noth: "Noth"
- ZABRAK_CHR_numinn: "Numinn"
- ZABRAK_CHR_odan: "Odan"
- ZABRAK_CHR_oeth: "Oeth"
- ZABRAK_CHR_omant: "Omant"
- ZABRAK_CHR_onto: "Onto"
- ZABRAK_CHR_oreida: "Oreida"
- ZABRAK_CHR_paro: "Paro"
- ZABRAK_CHR_perlis: "Perlis"
- ZABRAK_CHR_parvux: "Parvux"
- ZABRAK_CHR_persid: "Persid"
- ZABRAK_CHR_raikon: "Raikon"
- ZABRAK_CHR_rann: "Rann"
- ZABRAK_CHR_raimu: "Raimu"
- ZABRAK_CHR_rey: "Rey"
- ZABRAK_CHR_ri: "Ri"
- ZABRAK_CHR_rigel: "Rigel"
- ZABRAK_CHR_rin: "Rin"
- ZABRAK_CHR_risold: "Risold"
- ZABRAK_CHR_ruun: "Ruun"
- ZABRAK_CHR_emtri: "Emtri"
- ZABRAK_CHR_samok: "Samok"
- ZABRAK_CHR_sarguillo: "Sarguillo"
- ZABRAK_CHR_seeth_tal: "Seeth'tal"
- ZABRAK_CHR_sendon: "Sendon"
- ZABRAK_CHR_selro: "Selro"
- ZABRAK_CHR_sey: "Sey"
- ZABRAK_CHR_sibar: "Sibar"
- ZABRAK_CHR_simm: "Simm"
- ZABRAK_CHR_singe: "Singe"
- ZABRAK_CHR_spar: "Spar"
- ZABRAK_CHR_stevus: "Stevus"
- ZABRAK_CHR_suutar: "Suutar"
- ZABRAK_CHR_suz_anz: "Suz-Anz"
- ZABRAK_CHR_wieloag: "Wieloag"
- ZABRAK_CHR_t_dai: "T'dai"
- ZABRAK_CHR_tarev: "Tarev"
- ZABRAK_CHR_tas: "Tas"
- ZABRAK_CHR_tefani: "Tefani"
- ZABRAK_CHR_thatch: "Thatch"
- ZABRAK_CHR_theus: "Theus"
- ZABRAK_CHR_tigal: "Tigal"
- ZABRAK_CHR_tiwosh: "Tiwosh"
- ZABRAK_CHR_tod: "Tod"
- ZABRAK_CHR_tong: "Tong"
- ZABRAK_CHR_tok: "Tok"
- ZABRAK_CHR_trad: "Trad"
- ZABRAK_CHR_travin: "Travin"
- ZABRAK_CHR_treeg: "Treeg"
- ZABRAK_CHR_tunall: "Tunall"
- ZABRAK_CHR_tystel: "Tystel"
- ZABRAK_CHR_tyuth: "Tyuth"
- ZABRAK_CHR_ushallaj: "Ushallaj"
- ZABRAK_CHR_vanda: "Vanda"
- ZABRAK_CHR_varn: "Varn"
- ZABRAK_CHR_vello: "Vello"
- ZABRAK_CHR_vellos: "Vellos"
- ZABRAK_CHR_verwood: "Verwood"
- ZABRAK_CHR_viic: "Viic"
- ZABRAK_CHR_vikto: "Vikto"
- ZABRAK_CHR_voll: "Voll"
- ZABRAK_CHR_vos: "Vos"
- ZABRAK_CHR_vowail: "Vowail"
- ZABRAK_CHR_vrakth: "Vrakth"
- ZABRAK_CHR_xebec: "Xebec"
- ZABRAK_CHR_xiukhan: "Xiukhan"
- ZABRAK_CHR_yant: "Yant"
- ZABRAK_CHR_yezo: "Yezo"
- ZABRAK_CHR_yolar: "Yolar"
- ZABRAK_CHR_zaya: "Zaya"
- ZABRAK_CHR_zhin: "Zhin"
- ZABRAK_CHR_zonn: "Zonn"
- ZABRAK_CHR_zur: "Zur"
- ZABRAK_CHR_veag: "Veag"
- ZABRAK_CHR_zar: "Zar"
- ZABRAK_CHR_eeth: "Eeth"
- ZABRAK_CHR_wolf: "Wolf"
- ZABRAK_CHR_sazen: "Sazen"
+  ZABRAK_horned_crown: "Рогатая корона" #NT!
+  ZABRAK_exile: "Изгнанник" #NT!
+  ZABRAK_immolatord: "Жертвователь" #NT!
+  ZABRAK_faithful: "Правоверный" #NT!
+  ZABRAK_redeemer: "Искупитель" #NT!
+  ZABRAK_sanctity_of_battle: "Святость битвы" #NT!
+  ZABRAK_purifier: "Очиститель" #NT!
+  ZABRAK_doomsayer: "Предвестник рока" #NT!
+  ZABRAK_sojourner: "Временщик" #NT!
+  ZABRAK_blood_horn: "Кровавый рог" #NT!
+  ZABRAK_redemption: "Искупление" #NT!
+  ZABRAK_mortis: "Мортис" #NT!
+  ZABRAK_sigil: "Сигил" #NT!
+  ZABRAK_practitioner: "Практик" #NT!
+  ZABRAK_convert: "Преобразователь" #NT!
+  ZABRAK_zealot: "Зилот" #NT!
+  ZABRAK_apostle: "Апостол" #NT!
+  ZABRAK_gospel_of_iridonia: "Проповедь Иридонии" #NT!
+  ZABRAK_prayer_for_iridonia: "Молитва об Иридонии" #NT!
+  ZABRAK_altar_of_war: "Алтарь войны" #NT!
+  ZABRAK_divine_wrath: "Божественный гнев" #NT!
+  ZABRAK_feldrona: "Фелдрона" #NT!
+  ZABRAK_bao_dur: "Бao-Дур" #NT!
+  ZABRAK_koon_odan: "Кун Одан" #NT!
+  ZABRAK_confession: "Исповедь" #NT!
+  ZABRAK_abthane: "Аппат" #NT!
+  ZABRAK_providence: "Провидение" #NT!
+  ZABRAK_exegesis: "Толкование" #NT!
+  ZABRAK_moxsha: "Моксша" #NT!
+  ZABRAK_undying: "Неумирающая" #NT!
+  ZABRAK_paradise: "Рай" #NT!
+  ZABRAK_ordination: "Рукоположение" #NT!
+  ZABRAK_divine_right: "Божественное право" #NT!
+  ZABRAK_charisma: "Харизма" #NT!
+  ZABRAK_affirmation: "Утверждение" #NT!
+  ZABRAK_kataphatic: "Катафатический" #NT!
+  ZABRAK_mystic: "Мистик" #NT!
+  ZABRAK_silent_choir: "Безмолвный хор" #NT!
+  ZABRAK_dogma: "Догма" #NT!
+  ZABRAK_transcendent: "Трансцендентный" #NT!
+  ZABRAK_epiphany: "Прозрение" #NT!
+  ZABRAK_essence: "Сущность" #NT!
+  ZABRAK_arduous: "Трудный" #NT!
+  ZABRAK_blessed: "Блаженный" #NT!
+  ZABRAK_kosmogonia: "Космогония" #NT!
+  ZABRAK_pronouncer: "Вещатель" #NT!
+  ZABRAK_eternal_reward: "Вечная награда" #NT!
+  ZABRAK_trial_of_koana: "Испытание Коана" #NT!
+  ZABRAK_meditator: "Медитирующий" #NT!
+  ZABRAK_mind_s_eye: "Духовное око" #NT!
+  ZABRAK_vision_of_revival: "Видение возрождения" #NT!
+  ZABRAK_theosis: "Обожение" #NT!
+  ZABRAK_transcendental: "Трансцендентальный" #NT!
+  ZABRAK_incarnation: "Воплощение" #NT!
+  ZABRAK_kao_cen: "Као Сен" #NT!
+  ZABRAK_anointed_edge: "Помазанный край" #NT!
+  ZABRAK_devotional: "Набожный" #NT!
+  ZABRAK_godhead: "Божественность" #NT!
+  ZABRAK_aurodium_gate: "Ауродиевые врата" #NT!
+  ZABRAK_mark_of_the_horn: "Знак Рога" #NT!
+  ZABRAK_oblator: "Даритель" #NT!
+  ZABRAK_enraptured: "Восхищённый" #NT!
+  ZABRAK_enthraller: "Кабальник" #NT!
+  ZABRAK_quadlemma: "Квадлемма" #NT!
+  ZABRAK_crown_of_horns: "Корона рогов" #NT!
+  ZABRAK_henshin: "Хеншин" #NT!
+  ZABRAK_admiral_numinn: "Адмирал Нуминн" #NT!
+  ZABRAK_corin_tok: "Корин Ток" #NT!
+  ZABRAK_vikto: "Викто" #NT!
+  ZABRAK_crimson_litany: "Багровая литания" #NT!
+  ZABRAK_castigator: "Бичеватель" #NT!
+  ZABRAK_halcyon: "Безмятежный" #NT!
+  ZABRAK_longspur: "Подорожник" #NT!
+  ZABRAK_itinerant: "Кочующий" #NT!
+  ZABRAK_wayfarer: "Путник" #NT!
+  ZABRAK_wanderer: "Скиталец" #NT!
+  ZABRAK_roamer: "Бродяга" #NT!
+  ZABRAK_farstrike: "Дальний удар" #NT!
+  ZABRAK_brawler: "Буян" #NT!
+  ZABRAK_brazen: "Наглый" #NT!
+  ZABRAK_representative: "Делегат" #NT!
+  ZABRAK_threkin: "Трекин" #NT!
+  ZABRAK_geedon: "Гидон" #NT!
+  ZABRAK_glaser: "Стекольщик" #NT!
+  ZABRAK_glazer: "Глейзер" #NT!
+  ZABRAK_godar: "Годар" #NT!
+  ZABRAK_grappler: "Борец" #NT!
+  ZABRAK_habatok: "Хабаток" #NT!
+  ZABRAK_halifax: "Галифакс" #NT!
+  ZABRAK_howlrunner: "Тоннельщик" #NT!
+  ZABRAK_hyko: "Хайко" #NT!
+  ZABRAK_intrepid: "Бестрепетный" #NT!
+  ZABRAK_indefatigable: "Неутомимый" #NT!
+  ZABRAK_vindicator: "Виндикатор" #NT!
+  ZABRAK_blethyline: "Блетилин" #NT!
+  ZABRAK_canoid: "Каноид" #NT!
+  ZABRAK_banshee: "Банши" #NT!
+  ZABRAK_victory: "Победа" #NT!
+  ZABRAK_success: "Успех" #NT!
+  ZABRAK_triumph: "Триумф" #NT!
+  ZABRAK_titan: "Титан" #NT!
+  ZABRAK_harrower: "Рассекатель" #NT!
+  ZABRAK_raider: "Налетчик" #NT!
+  ZABRAK_nebula: "Туманность" #NT!
+  ZABRAK_dauntless: "Бесстрашный" #NT!
+  ZABRAK_subjugator: "Покоритель" #NT!
+  ZABRAK_conqueror: "Завоеватель" #NT!
+  ZABRAK_crusader: "Крестоносец" #NT!
+  ZABRAK_glory: "Слава" #NT!
+  ZABRAK_immortal: "Бессмертный" #NT!
+  ZABRAK_judicator: "Вершитель" #NT!
+  ZABRAK_vanguard: "Авангард" #NT!
+  ZABRAK_renown: "Признание" #NT!
+  ZABRAK_demolisher: "Уничтожитель" #NT!
+  ZABRAK_storm: "Шторм" #NT!
+  ZABRAK_stormstrike: "Удар бури" #NT!
+  ZABRAK_striker: "Ударный" #NT!
+  ZABRAK_sundog: "Ложное солнце" #NT!
+  ZABRAK_talon: "Коготь" #NT!
+  ZABRAK_thrasher: "Молотильщик" #NT!
+  ZABRAK_thunder: "Гром" #NT!
+  ZABRAK_thunderstrike: "Раскат грома" #NT!
+  ZABRAK_purrgil: "Пёрргил" #NT!
+  ZABRAK_axehead: "Топороглав" #NT!
+  ZABRAK_barloz: "Барлоз" #NT!
+  ZABRAK_centurion: "Центурион" #NT!
+  ZABRAK_pelta: "Пельта" #NT!
+  ZABRAK_longbeam: "Длинный луч" #NT!
+  ZABRAK_bulk: "Объёмный" #NT!
+  ZABRAK_bursa: "Бурса" #NT!
+  ZABRAK_bulwark: "Оплот" #NT!
+  ZABRAK_invincible: "Неукротимый" #NT!
+  ZABRAK_valor: "Доблесть" #NT!
+  ZABRAK_hammer: "Молот" #NT!
+  ZABRAK_sword: "Меч" #NT!
+  ZABRAK_shield: "Щит" #NT!
+  ZABRAK_brigand: "Разбойник" #NT!
+  ZABRAK_praetorian: "Преторианец" #NT!
+  ZABRAK_lictor: "Ликтор" #NT!
+  ZABRAK_starlight: "Звёздный свет" #NT!
+  ZABRAK_dreadnaught: "Дредноут" #NT!
+  ZABRAK_vainglorious: "Тщеславный" #NT!
+  ZABRAK_tarvix: "Тарвикс" #NT!
+  ZABRAK_drexl: "Дрексл" #NT!
+  ZABRAK_rothana: "Ротана" #NT!
+  ZABRAK_balmorra: "Балморра" #NT!
+  ZABRAK_lormar: "Лормар" #NT!
+  ZABRAK_lupus: "Люпус" #NT!
+  ZABRAK_onager: "Онагр" #NT!
+  ZABRAK_pursuit: "Погоня" #NT!
+  ZABRAK_bavos: "Бавос" #NT!
+  ZABRAK_munifex: "Мунифекс" #NT!
+  ZABRAK_mudhorn: "Грязерог" #NT!
+  ZABRAK_gundark: "Гандарк" #NT!
+  ZABRAK_pilgrim: "Пилигрим" #NT!
+  ZABRAK_jihaval: "Джихавал" #NT!
+  ZABRAK_mission: "Миссия" #NT!
+  ZABRAK_fervent: "Пламенный" #NT!
+  ZABRAK_crier: "Глашатай" #NT!
+  ZABRAK_witness: "Заверитель" #NT!
+  ZABRAK_abiding_supplicant: "Неизменный проситель" #NT!
+  ZABRAK_graven: "Высеченный" #NT!
+  ZABRAK_alacrity: "Рвение" #NT!
+  ZABRAK_satyr: "Сатир" #NT!
+  ZABRAK_prospero: "Просперо" #NT!
+  ZABRAK_untiring: "Неугомонный" #NT!
+  ZABRAK_zenith: "Зенит" #NT!
+  ZABRAK_sacred_torch: "Священный факел" #NT!
+  ZABRAK_remembrance: "Воспоминание" #NT!
+  ZABRAK_godspeed: "Божья помощь" #NT!
+  ZABRAK_novaflower: "Новацветок" #NT!
+  ZABRAK_zabrak_destiny: "Судьба забраков" #NT!
+  ZABRAK_iridon: "Иридон" #NT!
+  ZABRAK_hornsprout: "Роговой отросток" #NT!
+  ZABRAK_aurodium_city: "Ауродиевый град" #NT!
+  ZABRAK_pioneer_blessing: "Благословение первооткрывателя" #NT!
+  ZABRAK_sacred_journey: "Священное путешествие" #NT!
+  ZABRAK_martyr_tears: "Слёзы мученика" #NT!
+  ZABRAK_promised_land: "Земля обетованная" #NT!
+  ZABRAK_gospel: "Евангелие" #NT!
+  ZABRAK_hajjar: "Хаджжар" #NT!
+  ZABRAK_divine_wind: "Божественный ветер" #NT!
+  ZABRAK_breath_of_iridonia: "Дыхание Иридонии" #NT!
+  ZABRAK_good_word: "Доброе слово" #NT!
+  ZABRAK_constr_aurek: "Конструктор «Аурек»" #NT!
+  ZABRAK_constr_besh: "Конструктор «Беш»" #NT!
+  ZABRAK_constr_cresh: "Конструктор «Креш»" #NT!
+  ZABRAK_constr_dorn: "Конструктор «Дорн»" #NT!
+  ZABRAK_constr_forn: "Конструктор «Форн»" #NT!
+  ZABRAK_constr_grek: "Конструктор «Грек»" #NT!
+  ZABRAK_constr_herf: "Конструктор «Херф»" #NT!
+  ZABRAK_constr_isk: "Конструктор «Иск»" #NT!
+  ZABRAK_constr_jenth: "Конструктор «Джент»" #NT!
+  ZABRAK_constr_krill: "Конструктор «Крилл»" #NT!
+  ZABRAK_constr_leth: "Конструктор «Лет»" #NT!
+  ZABRAK_constr_mern: "Конструктор «Мерн»" #NT!
+  ZABRAK_constr_nern: "Конструктор «Нерн»" #NT!
+  ZABRAK_constr_osk: "Конструктор «Оск»" #NT!
+  ZABRAK_constr_peth: "Конструктор «Пет»" #NT!
+  ZABRAK_constr_senth: "Конструктор «Сент»" #NT!
+  ZABRAK_constr_trill: "Конструктор «Трилл»" #NT!
+  ZABRAK_constr_usk: "Конструктор «Уск»" #NT!
+  ZABRAK_constr_vev: "Конструктор «Вев»" #NT!
+  ZABRAK_constr_wesk: "Конструктор «Уэск»" #NT!
+  ZABRAK_constr_xesh: "Конструктор «Зеш»" #NT!
+  ZABRAK_constr_yirt: "Конструктор «Йирт»" #NT!
+  ZABRAK_constr_zerek: "Конструктор «Зерек»" #NT!
+  ZABRAK_constr_cherek: "Конструктор «Черек»" #NT!
+  ZABRAK_constr_qek: "Конструктор «Кек»" #NT!
+  ZABRAK_constr_resh: "Конструктор «Реш»" #NT!
+  ZABRAK_constr_enth: "Конструктор «Энт»" #NT!
+  ZABRAK_constr_onith: "Конструктор «Онит»" #NT!
+  ZABRAK_constr_krenth: "Конструктор «Крент»" #NT!
+  ZABRAK_constr_nen: "Конструктор «Нен»" #NT!
+  ZABRAK_constr_orenth: "Конструктор «Орент»" #NT!
+  ZABRAK_constr_shen: "Конструктор «Шен»" #NT!
+  ZABRAK_constr_thesh: "Конструктор «Теш»" #NT!
+  ZABRAK_ground_transport: "Наземный транспорт" #NT!
+  ZABRAK_harbinger: "Предвестник" #NT!
+  ZABRAK_messiah: "Мессия" #NT!
+  ZABRAK_pennance: "Раскаяние" #NT!
+  ZABRAK_devotee: "Богомолец" #NT!
+  ZABRAK_nightbrother: "Брат ночи" #NT!
+  ZABRAK_bombard: "Бомбарда" #NT!
+  ZABRAK_ballista: "Баллиста" #NT!
+  ZABRAK_catapult: "Катапульта" #NT!
+  ZABRAK_harpoon: "Гарпун" #NT!
+  ZABRAK_culverin: "Кулеврина" #NT!
+  ZABRAK_FLEET_vortexal_watch: "Вихревой дозор" #NT!
+  ZABRAK_FLEET_iridonian_home_guard: "Иридонская Домашняя гвардия" #NT!
+  ZABRAK_FLEET_star_sea_flotilla: "Флотилия Звёздного моря" #NT!
+  ZABRAK_FLEET_spinward_armada: "Армада «Вращение»" #NT!
+  ZABRAK_FLEET_SEQUENTIAL_task_force: "$ORD$ Task Force" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_watcher_battalion: "$ORD$ Watcher Battalion" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_iridonian_legion: "$ORD$ Iridonian Legion" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  ZABRAK_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+  ZABRAK_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+  ZABRAK_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+  ZABRAK_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+  ZABRAK_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+  ZABRAK_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+  ZABRAK_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+  ZABRAK_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+  ZABRAK_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+  ZABRAK_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  ZABRAK_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  ZABRAK_CHR_hast: "Hast" #NT!
+  ZABRAK_CHR_aeios: "Aeios" #NT!
+  ZABRAK_CHR_keeth: "Keeth" #NT!
+  ZABRAK_CHR_odon: "Odon" #NT!
+  ZABRAK_CHR_zubain: "Zubain" #NT!
+  ZABRAK_CHR_arim: "Arim" #NT!
+  ZABRAK_CHR_chrone: "Chrone" #NT!
+  ZABRAK_CHR_po: "Po" #NT!
+  ZABRAK_CHR_bao_dur: "Bao-Dur" #NT!
+  ZABRAK_CHR_vanto: "Vanto" #NT!
+  ZABRAK_CHR_fezrik: "Fezrik" #NT!
+  ZABRAK_CHR_bracco: "Bracco" #NT!
+  ZABRAK_CHR_lo: "Lo" #NT!
+  ZABRAK_CHR_bol: "Bol" #NT!
+  ZABRAK_CHR_cadomaccus: "Cadomaccus" #NT!
+  ZABRAK_CHR_charotke: "Charotke" #NT!
+  ZABRAK_CHR_jomar: "Jomar" #NT!
+  ZABRAK_CHR_cyrus: "Cyrus" #NT!
+  ZABRAK_CHR_kao_cen: "Kao Cen" #NT!
+  ZABRAK_CHR_duqua: "Duqua" #NT!
+  ZABRAK_CHR_dastid: "Dastid" #NT!
+  ZABRAK_CHR_denal_zon: "Denal-zon" #NT!
+  ZABRAK_CHR_dommu: "Dommu" #NT!
+  ZABRAK_CHR_aach: "Aach" #NT!
+  ZABRAK_CHR_eidolon: "Eidolon" #NT!
+  ZABRAK_CHR_ferrin: "Ferrin" #NT!
+  ZABRAK_CHR_frazznik: "Frazznik" #NT!
+  ZABRAK_CHR_deorko: "Deorko" #NT!
+  ZABRAK_CHR_girik: "Жирик" #NT!
+  ZABRAK_CHR_groj: "Groj" #NT!
+  ZABRAK_CHR_grollix: "Grollix" #NT!
+  ZABRAK_CHR_haresh: "Haresh" #NT!
+  ZABRAK_CHR_pol: "Пол" #NT!
+  ZABRAK_CHR_braigin: "Брейгин" #NT!
+  ZABRAK_CHR_jamoh: "Ямох" #NT!
+  ZABRAK_CHR_ivok: "Ивок" #NT!
+  ZABRAK_CHR_vuurha: "Vuurha" #NT!
+  ZABRAK_CHR_jiro: "Jiro" #NT!
+  ZABRAK_CHR_dao: "Dao" #NT!
+  ZABRAK_CHR_junker: "Junker" #NT!
+  ZABRAK_CHR_juuho: "Juuho" #NT!
+  ZABRAK_CHR_maa: "Maa" #NT!
+  ZABRAK_CHR_jurgan: "Jurgan" #NT!
+  ZABRAK_CHR_drell: "Drell" #NT!
+  ZABRAK_CHR_wyll: "Wyll" #NT!
+  ZABRAK_CHR_lem: "Lem" #NT!
+  ZABRAK_CHR_kateo: "Kateo" #NT!
+  ZABRAK_CHR_kern: "Kern" #NT!
+  ZABRAK_CHR_zarien: "Zarien" #NT!
+  ZABRAK_CHR_klage: "Klage" #NT!
+  ZABRAK_CHR_agen: "Agen" #NT!
+  ZABRAK_CHR_jaylen: "Jaylen" #NT!
+  ZABRAK_CHR_thon: "Thon" #NT!
+  ZABRAK_CHR_nek: "Nek" #NT!
+  ZABRAK_CHR_lin: "Lin" #NT!
+  ZABRAK_CHR_llokay: "Llokay" #NT!
+  ZABRAK_CHR_kaz: "Kaz" #NT!
+  ZABRAK_CHR_hagen: "Hagen" #NT!
+  ZABRAK_CHR_orth: "Orth" #NT!
+  ZABRAK_CHR_dael: "Dael" #NT!
+  ZABRAK_CHR_ralen: "Ralen" #NT!
+  ZABRAK_CHR_serdor: "Serdor" #NT!
+  ZABRAK_CHR_martonn: "Martonn" #NT!
+  ZABRAK_CHR_mase: "Mase" #NT!
+  ZABRAK_CHR_mennaus: "Mennaus" #NT!
+  ZABRAK_CHR_mogg: "Mogg" #NT!
+  ZABRAK_CHR_mykka: "Mykka" #NT!
+  ZABRAK_CHR_daen: "Daen" #NT!
+  ZABRAK_CHR_neskett: "Neskett" #NT!
+  ZABRAK_CHR_oorn: "Oorn" #NT!
+  ZABRAK_CHR_falner: "Falner" #NT!
+  ZABRAK_CHR_oggo: "Oggo" #NT!
+  ZABRAK_CHR_sar: "Sar" #NT!
+  ZABRAK_CHR_ovold: "Ovold" #NT!
+  ZABRAK_CHR_raf: "Raf" #NT!
+  ZABRAK_CHR_reiki: "Reiki" #NT!
+  ZABRAK_CHR_remilok: "Remilok" #NT!
+  ZABRAK_CHR_revaak: "Revaak" #NT!
+  ZABRAK_CHR_dheno: "Dheno" #NT!
+  ZABRAK_CHR_p_laang: "P'laang" #NT!
+  ZABRAK_CHR_venik: "Venik" #NT!
+  ZABRAK_CHR_sadao: "Sadao" #NT!
+  ZABRAK_CHR_sanorn: "Sanorn" #NT!
+  ZABRAK_CHR_scopique: "Scopique" #NT!
+  ZABRAK_CHR_ters: "Ters" #NT!
+  ZABRAK_CHR_senu: "Senu" #NT!
+  ZABRAK_CHR_nak: "Nak" #NT!
+  ZABRAK_CHR_dar: "Dar" #NT!
+  ZABRAK_CHR_sirak: "Sirak" #NT!
+  ZABRAK_CHR_spanios: "Spanios" #NT!
+  ZABRAK_CHR_pak: "Pak" #NT!
+  ZABRAK_CHR_calman: "Calman" #NT!
+  ZABRAK_CHR_ta: "Ta" #NT!
+  ZABRAK_CHR_corin: "Corin" #NT!
+  ZABRAK_CHR_towe: "Towe" #NT!
+  ZABRAK_CHR_tryken: "Tryken" #NT!
+  ZABRAK_CHR_targob: "Targob" #NT!
+  ZABRAK_CHR_turbis: "Turbis" #NT!
+  ZABRAK_CHR_uptin: "Uptin" #NT!
+  ZABRAK_CHR_bo: "Bo" #NT!
+  ZABRAK_CHR_vadlerio: "Vadlerio" #NT!
+  ZABRAK_CHR_varus: "Varus" #NT!
+  ZABRAK_CHR_vegg: "Vegg" #NT!
+  ZABRAK_CHR_dantin: "Dantin" #NT!
+  ZABRAK_CHR_velnine: "Velnine" #NT!
+  ZABRAK_CHR_venters: "Venters" #NT!
+  ZABRAK_CHR_virk: "Virk" #NT!
+  ZABRAK_CHR_viscus: "Viscus" #NT!
+  ZABRAK_CHR_vril: "Vril" #NT!
+  ZABRAK_CHR_charo: "Charo" #NT!
+  ZABRAK_CHR_wyjus_minn: "Wyjus-Minn" #NT!
+  ZABRAK_CHR_zan: "Zan" #NT!
+  ZABRAK_CHR_arn_tan: "Arn Tan" #NT!
+  ZABRAK_CHR_zarran: "Zarran" #NT!
+  ZABRAK_CHR_alvania: "Alvania" #NT!
+  ZABRAK_CHR_anniya: "Anniya" #NT!
+  ZABRAK_CHR_anstiss: "Anstiss" #NT!
+  ZABRAK_CHR_aveso: "Aveso" #NT!
+  ZABRAK_CHR_avax: "Avax" #NT!
+  ZABRAK_CHR_coret: "Coret" #NT!
+  ZABRAK_CHR_raxa: "Raxa" #NT!
+  ZABRAK_CHR_maris: "Maris" #NT!
+  ZABRAK_CHR_triz: "Triz" #NT!
+  ZABRAK_CHR_bulga: "Bulga" #NT!
+  ZABRAK_CHR_vil: "Vil" #NT!
+  ZABRAK_CHR_co_overma: "Co'overma" #NT!
+  ZABRAK_CHR_choa: "O'choa" #NT!
+  ZABRAK_CHR_mekus: "Mekus" #NT!
+  ZABRAK_CHR_elkan: "Elkan" #NT!
+  ZABRAK_CHR_jas: "Jas" #NT!
+  ZABRAK_CHR_eotrisa: "Eotrisa" #NT!
+  ZABRAK_CHR_fryoto: "Fryoto" #NT!
+  ZABRAK_CHR_garan: "Garan" #NT!
+  ZABRAK_CHR_gith: "Gith" #NT!
+  ZABRAK_CHR_hallen: "Hallen" #NT!
+  ZABRAK_CHR_heljus: "Heljus" #NT!
+  ZABRAK_CHR_solida: "Solida" #NT!
+  ZABRAK_CHR_idonia: "Idonia" #NT!
+  ZABRAK_CHR_onn: "Onn" #NT!
+  ZABRAK_CHR_klaua: "Klaua" #NT!
+  ZABRAK_CHR_rhalia: "Rhalia" #NT!
+  ZABRAK_CHR_mada: "Mada" #NT!
+  ZABRAK_CHR_jolka: "Jolka" #NT!
+  ZABRAK_CHR_ses: "Ses" #NT!
+  ZABRAK_CHR_joella: "Joella" #NT!
+  ZABRAK_CHR_jorelle: "Jorelle" #NT!
+  ZABRAK_CHR_drakka: "Drakka" #NT!
+  ZABRAK_CHR_yevra: "Yevra" #NT!
+  ZABRAK_CHR_rose: "Rose" #NT!
+  ZABRAK_CHR_mai: "Mai" #NT!
+  ZABRAK_CHR_mira: "Mira" #NT!
+  ZABRAK_CHR_tilian: "Tilian" #NT!
+  ZABRAK_CHR_jewl_a: "Jewl'a" #NT!
+  ZABRAK_CHR_koon: "Koon" #NT!
+  ZABRAK_CHR_arane: "Arane" #NT!
+  ZABRAK_CHR_iza: "Iza" #NT!
+  ZABRAK_CHR_grayda: "Grayda" #NT!
+  ZABRAK_CHR_kayla: "Kayla" #NT!
+  ZABRAK_CHR_qista: "Qista" #NT!
+  ZABRAK_CHR_quanera: "Quanera" #NT!
+  ZABRAK_CHR_jabe: "Jabe" #NT!
+  ZABRAK_CHR_aleas: "Aleas" #NT!
+  ZABRAK_CHR_xuvi: "Xuvi" #NT!
+  ZABRAK_CHR_ki: "Ki" #NT!
+  ZABRAK_CHR_seffi: "Seffi" #NT!
+  ZABRAK_CHR_kadrian: "Kadrian" #NT!
+  ZABRAK_CHR_seyda: "Seyda" #NT!
+  ZABRAK_CHR_akaavi: "Akaavi" #NT!
+  ZABRAK_CHR_sugi: "Sugi" #NT!
+  ZABRAK_CHR_sora: "Sora" #NT!
+  ZABRAK_CHR_aelson: "Aelson" #NT!
+  ZABRAK_CHR_baela: "Baela" #NT!
+  ZABRAK_CHR_kass: "Kass" #NT!
+  ZABRAK_CHR_zakala: "Zakala" #NT!
+  ZABRAK_CHR_seema: "Seema" #NT!
+  ZABRAK_CHR_kaysil: "Kaysil" #NT!
+  ZABRAK_CHR_vinda: "Vinda" #NT!
+  ZABRAK_CHR_virne: "Virne" #NT!
+  ZABRAK_CHR_tensa: "Tensa" #NT!
+  ZABRAK_CHR_cie: "Cie" #NT!
+  ZABRAK_CHR_tyzen: "Tyzen" #NT!
+  ZABRAK_CHR_yougga: "Yougga" #NT!
+  ZABRAK_CHR_edrinu: "Edrinu" #NT!
+  ZABRAK_CHR_zo_ssa: "Zo'ssa" #NT!
+  ZABRAK_CHR_aath: "Aath" #NT!
+  ZABRAK_CHR_acaadi: "Acaadi" #NT!
+  ZABRAK_CHR_agar: "Agar" #NT!
+  ZABRAK_CHR_anak: "Anak" #NT!
+  ZABRAK_CHR_ankonori: "Ankonori" #NT!
+  ZABRAK_CHR_ars: "Ars" #NT!
+  ZABRAK_CHR_banis: "Banis" #NT!
+  ZABRAK_CHR_barret: "Barret" #NT!
+  ZABRAK_CHR_bazren: "Bazren" #NT!
+  ZABRAK_CHR_bendledon: "Bendledon" #NT!
+  ZABRAK_CHR_bhan: "Bhan" #NT!
+  ZABRAK_CHR_binn: "Binn" #NT!
+  ZABRAK_CHR_bickell: "Bickell" #NT!
+  ZABRAK_CHR_brood: "Brood" #NT!
+  ZABRAK_CHR_bukk: "Bukk" #NT!
+  ZABRAK_CHR_burren: "Burren" #NT!
+  ZABRAK_CHR_chatak: "Chatak" #NT!
+  ZABRAK_CHR_chel: "Chel" #NT!
+  ZABRAK_CHR_chul: "Chul" #NT!
+  ZABRAK_CHR_coria: "Coria" #NT!
+  ZABRAK_CHR_crymi: "Crymi" #NT!
+  ZABRAK_CHR_darach: "Darach" #NT!
+  ZABRAK_CHR_defte: "Defte" #NT!
+  ZABRAK_CHR_detera: "Detera" #NT!
+  ZABRAK_CHR_donbar: "Donbar" #NT!
+  ZABRAK_CHR_drin: "Drin" #NT!
+  ZABRAK_CHR_eamul: "Eamul" #NT!
+  ZABRAK_CHR_een: "Een" #NT!
+  ZABRAK_CHR_eldo: "Eldo" #NT!
+  ZABRAK_CHR_emari: "Emari" #NT!
+  ZABRAK_CHR_exteen: "Exteen" #NT!
+  ZABRAK_CHR_fa_zoll: "Fa'Zoll" #NT!
+  ZABRAK_CHR_feldon: "Feldon" #NT!
+  ZABRAK_CHR_gaan: "Gaan" #NT!
+  ZABRAK_CHR_gek: "Gek" #NT!
+  ZABRAK_CHR_gonwa: "Gonwa" #NT!
+  ZABRAK_CHR_haus: "Haus" #NT!
+  ZABRAK_CHR_hele: "Hele" #NT!
+  ZABRAK_CHR_helk: "Helk" #NT!
+  ZABRAK_CHR_henshin: "Henshin" #NT!
+  ZABRAK_CHR_hesk: "Hesk" #NT!
+  ZABRAK_CHR_hogra: "Hogra" #NT!
+  ZABRAK_CHR_iria: "Iria" #NT!
+  ZABRAK_CHR_itotr: "Itotr" #NT!
+  ZABRAK_CHR_jantsk: "Jantsk" #NT!
+  ZABRAK_CHR_jik: "Jik" #NT!
+  ZABRAK_CHR_jinsari: "Jinsari" #NT!
+  ZABRAK_CHR_jodh: "Jodh" #NT!
+  ZABRAK_CHR_jopp: "Jopp" #NT!
+  ZABRAK_CHR_judarrl: "Judarrl" #NT!
+  ZABRAK_CHR_jott: "Jott" #NT!
+  ZABRAK_CHR_kaap: "Kaap" #NT!
+  ZABRAK_CHR_kalta: "Kalta" #NT!
+  ZABRAK_CHR_kahmf: "Kahmf" #NT!
+  ZABRAK_CHR_kander: "Kander" #NT!
+  ZABRAK_CHR_karner: "Karner" #NT!
+  ZABRAK_CHR_keikodi: "Keikodi" #NT!
+  ZABRAK_CHR_keloh: "Keloh" #NT!
+  ZABRAK_CHR_kheev: "Kheev" #NT!
+  ZABRAK_CHR_kin_ade: "Kin'ade" #NT!
+  ZABRAK_CHR_kolar: "Kolar" #NT!
+  ZABRAK_CHR_koth: "Koth" #NT!
+  ZABRAK_CHR_korventine: "Korventine" #NT!
+  ZABRAK_CHR_kos: "Kos" #NT!
+  ZABRAK_CHR_larimhor: "Larimhor" #NT!
+  ZABRAK_CHR_lawsirk: "Lawsirk" #NT!
+  ZABRAK_CHR_ledesmar: "Ledesmar" #NT!
+  ZABRAK_CHR_longmyre: "Longmyre" #NT!
+  ZABRAK_CHR_maag: "Maag" #NT!
+  ZABRAK_CHR_maanki: "Maanki" #NT!
+  ZABRAK_CHR_margok: "Margok" #NT!
+  ZABRAK_CHR_marrak: "Marrak" #NT!
+  ZABRAK_CHR_matare: "Matare" #NT!
+  ZABRAK_CHR_moravai: "Moravai" #NT!
+  ZABRAK_CHR_nark: "Nark" #NT!
+  ZABRAK_CHR_noth: "Noth" #NT!
+  ZABRAK_CHR_numinn: "Numinn" #NT!
+  ZABRAK_CHR_odan: "Odan" #NT!
+  ZABRAK_CHR_oeth: "Oeth" #NT!
+  ZABRAK_CHR_omant: "Omant" #NT!
+  ZABRAK_CHR_onto: "Onto" #NT!
+  ZABRAK_CHR_oreida: "Oreida" #NT!
+  ZABRAK_CHR_paro: "Paro" #NT!
+  ZABRAK_CHR_perlis: "Perlis" #NT!
+  ZABRAK_CHR_parvux: "Parvux" #NT!
+  ZABRAK_CHR_persid: "Persid" #NT!
+  ZABRAK_CHR_raikon: "Raikon" #NT!
+  ZABRAK_CHR_rann: "Rann" #NT!
+  ZABRAK_CHR_raimu: "Raimu" #NT!
+  ZABRAK_CHR_rey: "Rey" #NT!
+  ZABRAK_CHR_ri: "Ri" #NT!
+  ZABRAK_CHR_rigel: "Rigel" #NT!
+  ZABRAK_CHR_rin: "Rin" #NT!
+  ZABRAK_CHR_risold: "Risold" #NT!
+  ZABRAK_CHR_ruun: "Ruun" #NT!
+  ZABRAK_CHR_emtri: "Emtri" #NT!
+  ZABRAK_CHR_samok: "Samok" #NT!
+  ZABRAK_CHR_sarguillo: "Sarguillo" #NT!
+  ZABRAK_CHR_seeth_tal: "Seeth'tal" #NT!
+  ZABRAK_CHR_sendon: "Sendon" #NT!
+  ZABRAK_CHR_selro: "Selro" #NT!
+  ZABRAK_CHR_sey: "Sey" #NT!
+  ZABRAK_CHR_sibar: "Sibar" #NT!
+  ZABRAK_CHR_simm: "Simm" #NT!
+  ZABRAK_CHR_singe: "Singe" #NT!
+  ZABRAK_CHR_spar: "Spar" #NT!
+  ZABRAK_CHR_stevus: "Stevus" #NT!
+  ZABRAK_CHR_suutar: "Suutar" #NT!
+  ZABRAK_CHR_suz_anz: "Suz-Anz" #NT!
+  ZABRAK_CHR_wieloag: "Wieloag" #NT!
+  ZABRAK_CHR_t_dai: "T'dai" #NT!
+  ZABRAK_CHR_tarev: "Tarev" #NT!
+  ZABRAK_CHR_tas: "Tas" #NT!
+  ZABRAK_CHR_tefani: "Tefani" #NT!
+  ZABRAK_CHR_thatch: "Thatch" #NT!
+  ZABRAK_CHR_theus: "Theus" #NT!
+  ZABRAK_CHR_tigal: "Tigal" #NT!
+  ZABRAK_CHR_tiwosh: "Tiwosh" #NT!
+  ZABRAK_CHR_tod: "Tod" #NT!
+  ZABRAK_CHR_tong: "Tong" #NT!
+  ZABRAK_CHR_tok: "Tok" #NT!
+  ZABRAK_CHR_trad: "Trad" #NT!
+  ZABRAK_CHR_travin: "Travin" #NT!
+  ZABRAK_CHR_treeg: "Treeg" #NT!
+  ZABRAK_CHR_tunall: "Tunall" #NT!
+  ZABRAK_CHR_tystel: "Tystel" #NT!
+  ZABRAK_CHR_tyuth: "Tyuth" #NT!
+  ZABRAK_CHR_ushallaj: "Ushallaj" #NT!
+  ZABRAK_CHR_vanda: "Vanda" #NT!
+  ZABRAK_CHR_varn: "Varn" #NT!
+  ZABRAK_CHR_vello: "Vello" #NT!
+  ZABRAK_CHR_vellos: "Vellos" #NT!
+  ZABRAK_CHR_verwood: "Verwood" #NT!
+  ZABRAK_CHR_viic: "Viic" #NT!
+  ZABRAK_CHR_vikto: "Vikto" #NT!
+  ZABRAK_CHR_voll: "Voll" #NT!
+  ZABRAK_CHR_vos: "Vos" #NT!
+  ZABRAK_CHR_vowail: "Vowail" #NT!
+  ZABRAK_CHR_vrakth: "Vrakth" #NT!
+  ZABRAK_CHR_xebec: "Xebec" #NT!
+  ZABRAK_CHR_xiukhan: "Xiukhan" #NT!
+  ZABRAK_CHR_yant: "Yant" #NT!
+  ZABRAK_CHR_yezo: "Yezo" #NT!
+  ZABRAK_CHR_yolar: "Yolar" #NT!
+  ZABRAK_CHR_zaya: "Zaya" #NT!
+  ZABRAK_CHR_zhin: "Zhin" #NT!
+  ZABRAK_CHR_zonn: "Zonn" #NT!
+  ZABRAK_CHR_zur: "Zur" #NT!
+  ZABRAK_CHR_veag: "Veag" #NT!
+  ZABRAK_CHR_zar: "Zar" #NT!
+  ZABRAK_CHR_eeth: "Eeth" #NT!
+  ZABRAK_CHR_wolf: "Wolf" #NT!
+  ZABRAK_CHR_sazen: "Sazen" #NT!

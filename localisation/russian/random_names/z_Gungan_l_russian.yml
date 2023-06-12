@@ -1,428 +1,428 @@
 ﻿l_russian:
- GUNGAN_aquanna: "Aquanna"
- GUNGAN_blackfish: "Blackfish"
- GUNGAN_blarth: "Blarth"
- GUNGAN_blembie: "Blembie"
- GUNGAN_blowfish: "Blowfish"
- GUNGAN_bluefish: "Bluefish"
- GUNGAN_bogwing: "Bogwing"
- GUNGAN_bolle_bol: "Bolle bol"
- GUNGAN_bowlump: "Bowlump"
- GUNGAN_bursa: "Bursa"
- GUNGAN_capper: "Capper"
- GUNGAN_spineflap: "Spineflap"
- GUNGAN_cerrabore: "Cerrabore"
- GUNGAN_clawswift: "Clawswift"
- GUNGAN_clodhopper: "Clodhopper"
- GUNGAN_colo: "Colo"
- GUNGAN_copek: "Copek"
- GUNGAN_doo: "Doo"
- GUNGAN_dunsenn: "Dunsenn"
- GUNGAN_faa: "Faa"
- GUNGAN_falumpaset: "Falumpaset"
- GUNGAN_fambaa: "Fambaa"
- GUNGAN_farback: "Fanback"
- GUNGAN_fanned_rawl: "Fanned Rawl"
- GUNGAN_fatfish: "Fatfish"
- GUNGAN_flewt: "Flewt"
- GUNGAN_gallo: "Gallo"
- GUNGAN_galoomp: "Galoomp"
- GUNGAN_glurrg: "Glurrg"
- GUNGAN_gnort: "Gnort"
- GUNGAN_gooberfish: "Gooberfish"
- GUNGAN_grakkt: "Grakkt"
- GUNGAN_greysor: "Greysor"
- GUNGAN_grizbain: "Grizbain"
- GUNGAN_grizzlefur: "Grizzlefur"
- GUNGAN_gualaar: "Gualaar"
- GUNGAN_gualama: "Gualama"
- GUNGAN_guarlara: "Guarlara"
- GUNGAN_gullipud: "Gullipud"
- GUNGAN_gumbol: "Gumbol"
- GUNGAN_gumfish: "Gumfish"
- GUNGAN_hohokum: "Hohokum"
- GUNGAN_krevol: "Krevol"
- GUNGAN_hrumph: "Hrumph"
- GUNGAN_igitz: "Igitz"
- GUNGAN_ikopi: "Ikopi"
- GUNGAN_jaboon: "Jaboon"
- GUNGAN_jimvu: "Jimvu"
- GUNGAN_kaadu: "Kaadu"
- GUNGAN_king_venom: "King Venom"
- GUNGAN_nightspider: "Nightspider"
- GUNGAN_klaa: "Klaa"
- GUNGAN_folvor: "Folvor"
- GUNGAN_kreetch: "Kreetch"
- GUNGAN_kreetle: "KReetle"
- GUNGAN_kresch: "Kresch"
- GUNGAN_krill: "Krill"
- GUNGAN_laa: "Laa"
- GUNGAN_lerraa: "Lerraa"
- GUNGAN_mantaris: "Mantaris"
- GUNGAN_marshoo: "Marshoo"
- GUNGAN_marsune: "Marsune"
- GUNGAN_mee: "Mee"
- GUNGAN_mott: "Mott"
- GUNGAN_muudabok: "Muudabok"
- GUNGAN_narglatch: "Narglatch"
- GUNGAN_noctur_ian: "Noctur'ian"
- GUNGAN_nuna: "Nuna"
- GUNGAN_nyork: "Nyork"
- GUNGAN_odupiendo: "Odupiendo"
- GUNGAN_ollopom: "Ollopom"
- GUNGAN_opee: "Opee"
- GUNGAN_sea_killer: "Sea Killer"
- GUNGAN_otta: "Otta"
- GUNGAN_peko_peko: "Peko-peko"
- GUNGAN_pelikki: "Pelikki"
- GUNGAN_pikobi: "Pikobi"
- GUNGAN_pom_hopper: "Pom-hopper"
- GUNGAN_potolli: "Potolli"
- GUNGAN_pudlow: "Pudlow"
- GUNGAN_quadduck: "Quadduck"
- GUNGAN_quiglee: "Quiglee"
- GUNGAN_ray: "Ray"
- GUNGAN_reyclopper: "Reyclopper"
- GUNGAN_rootjigger: "Rootjigger"
- GUNGAN_san_lampris: "San-lampris"
- GUNGAN_san_pilot: "San-pilot"
- GUNGAN_sando: "Sando"
- GUNGAN_aqua_monster: "Aqua Monster"
- GUNGAN_saw_toothed_grank: "Saw-Toothed Grank"
- GUNGAN_scalefish: "Scalefish"
- GUNGAN_see: "See"
- GUNGAN_shaak: "Shaak"
- GUNGAN_shaupaut: "Shaupaut"
- GUNGAN_shiro: "Shiro"
- GUNGAN_skipper: "Skipper"
- GUNGAN_squid: "Squid"
- GUNGAN_slaatik: "Slaatik"
- GUNGAN_hagworm: "Hagworm"
- GUNGAN_slitherfish: "Slitherfish"
- GUNGAN_slug_beetle: "Slug-beetle"
- GUNGAN_soo: "Soo"
- GUNGAN_sprywing: "Sprywing"
- GUNGAN_squig: "Squig"
- GUNGAN_swift: "Swift"
- GUNGAN_tee: "Tee"
- GUNGAN_teers: "Teers"
- GUNGAN_terazod: "Terazod"
- GUNGAN_tik_tak: "Tik-tak"
- GUNGAN_tima: "Tima"
- GUNGAN_titavian: "Titavian"
- GUNGAN_tooke: "Tooke"
- GUNGAN_tusk_cat: "Tusk-cat"
- GUNGAN_twirrl: "Twirrl"
- GUNGAN_veermok: "Veermok"
- GUNGAN_voorpak: "Voorpak"
- GUNGAN_yobcrab: "Yobcrab"
- GUNGAN_yobshrimp: "Yobshrimp"
- GUNGAN_zalaaca: "Zalaaca"
- GUNGAN_FLEET_boggwoss_squadron: "Boggwoss Squadron"
- GUNGAN_FLEET_reggam_squadron: "Reggam Squadron"
- GUNGAN_FLEET_shoggor_squadron: "Shoggor Squadron"
- GUNGAN_FLEET_paggirim_squadron: "Paggirim Squadron"
- GUNGAN_FLEET_meggisch_squadron: "Meggisch Squadron"
- GUNGAN_FLEET_lurggam_squadron: "Lurggam Squadron"
- GUNGAN_FLEET_ithagga_squadron: "Ithagga Squadron"
- GUNGAN_FLEET_juraggi_squadron: "Juraggi Squadron"
- GUNGAN_FLEET_SEQUENTIAL_bombad_fleet: "$ORD$ Bombad Fleet"
- GUNGAN_ARMY_armored_cerrabores: "Armored Cerrabores"
- GUNGAN_ARMY_armored_falumpasets: "Armored Falumpasets"
- GUNGAN_ARMY_armored_fambaas: "Armored Fambaas"
- GUNGAN_ARMY_heyblibber_squadron: "Heyblibber Squadron"
- GUNGAN_ARMY_kaadu_cavalry: "Kaadu Cavalry"
- GUNGAN_ARMY_gungan_catapults_squad: "Gungan Catapults Squad"
- GUNGAN_ARMY_tribubble_bongo_squadron: "Tribubble Bongo Squadron"
- GUNGAN_ARMY_bb_2_shuttle_squadron: "BB-2 Shuttle Squadron"
- GUNGAN_ARMY_bongo_behemoths: "Bongo Behemoths"
- GUNGAN_ARMY_bongo_scouts: "Bongo Scouts"
- GUNGAN_ARMY_bongo_laser_squad: "Bongo Laser Squad"
- GUNGAN_ARMY_bongo_missiles_squad: "Bongo Missiles Squad"
- GUNGAN_ARMY_armored_lerraas: "Armored Lerraas"
- GUNGAN_ARMY_gungan_bombers_squadron: "Gungan Bombers Squadron"
- GUNGAN_ARMY_wild_zalaacas: "Wild Zalaacas"
- GUNGAN_ARMY_armored_zalaacas: "Armored Zalaacas"
- GUNGAN_ARMY_booma_grenadiers: "Booma Grenadiers"
- GUNGAN_ARMY_raaptur_squadron: "Raaptur Squadron"
- GUNGAN_ARMY_atlatls_throwers: "Atlatls Throwers"
- GUNGAN_ARMY_SEQUENTIAL_gungan_grand_army: "$ORD$ Gungan Grand Army"
- GUNGAN_ARMY_SEQUENTIAL_gungan_invasion_army: "$ORD$ Gungan Invasion Army"
- GUNGAN_ARMY_SEQUENTIAL_slave_forces: "$ORD$ Slave Forces"
- GUNGAN_ARMY_SEQUENTIAL_clone_cluster_SEQ: "Clone Cluster $C$"
- GUNGAN_ARMY_SEQUENTIAL_cephalodroids: "$ORD$ Cephalodroids"
- GUNGAN_ARMY_SEQUENTIAL_psychic_phalanx: "$ORD$ Psychic Phalanx"
- GUNGAN_ARMY_SEQUENTIAL_consuming_swarm: "$ORD$ Consuming Swarm"
- GUNGAN_ARMY_SEQUENTIAL_ascenders: "$ORD$ Ascenders"
- GUNGAN_CHR_benbul: "Benbul"
- GUNGAN_CHR_jar: "Jar"
- GUNGAN_CHR_jar_jar: "Jar Jar"
- GUNGAN_CHR_pep: "Pep"
- GUNGAN_CHR_rish: "Rish"
- GUNGAN_CHR_lunker: "Lunker"
- GUNGAN_CHR_lyonie: "Lyonie"
- GUNGAN_CHR_rugor: "Rugor"
- GUNGAN_CHR_roos: "Roos"
- GUNGAN_CHR_heb: "Heb"
- GUNGAN_CHR_gallo: "Gallo"
- GUNGAN_CHR_kleef: "Kleef"
- GUNGAN_CHR_tobler: "Tobler"
- GUNGAN_CHR_ganne: "Ganne"
- GUNGAN_CHR_augur: "Augur"
- GUNGAN_CHR_aug: "Aug"
- GUNGAN_CHR_aug_aug: "Aug Aug"
- GUNGAN_CHR_jynx: "Jynx"
- GUNGAN_CHR_wert: "Wert"
- GUNGAN_CHR_tee: "Tee"
- GUNGAN_CHR_tee_tee: "Tee Tee"
- GUNGAN_CHR_neesa: "Neesa"
- GUNGAN_CHR_bullba: "Bullba"
- GUNGAN_CHR_bamfurd: "Bamfurd"
- GUNGAN_CHR_been: "Been"
- GUNGAN_CHR_gar: "Gar"
- GUNGAN_CHR_gar_gar: "Gar Gar"
- GUNGAN_CHR_slarm: "Slarm"
- GUNGAN_CHR_jay: "Jay"
- GUNGAN_CHR_jay_jay: "Jay Jay"
- GUNGAN_CHR_abso: "Abso"
- GUNGAN_CHR_bar: "Bar"
- GUNGAN_CHR_abso_bar: "Abso Bar"
- GUNGAN_CHR_george: "George"
- GUNGAN_CHR_zim: "Zim"
- GUNGAN_CHR_zim_zim: "Zim Zim"
- GUNGAN_CHR_zam: "Zam"
- GUNGAN_CHR_zam_zam: "Zam Zam"
- GUNGAN_CHR_zim_zam: "Zim Zam"
- GUNGAN_CHR_big: "Big"
- GUNGAN_CHR_big_big: "Big Big"
- GUNGAN_CHR_blue: "Blue"
- GUNGAN_CHR_bola: "Bola"
- GUNGAN_CHR_bola_bola: "Bola Bola"
- GUNGAN_CHR_bar_bar: "Bar Bar"
- GUNGAN_CHR_bolabar: "BolaBar"
- GUNGAN_CHR_boma: "Boma"
- GUNGAN_CHR_mullud: "Mullud"
- GUNGAN_CHR_boom: "Boom"
- GUNGAN_CHR_boom_boom: "Boom Boom"
- GUNGAN_CHR_booto: "Booto"
- GUNGAN_CHR_brass: "Brass"
- GUNGAN_CHR_brute: "Brute"
- GUNGAN_CHR_cova: "Cova"
- GUNGAN_CHR_hoxie: "Hoxie"
- GUNGAN_CHR_hantik: "Hantik"
- GUNGAN_CHR_hassk: "Hassk"
- GUNGAN_CHR_piknab: "Piknab"
- GUNGAN_CHR_jak: "Jak"
- GUNGAN_CHR_jak_jak: "Jak Jak"
- GUNGAN_CHR_copek: "Copek"
- GUNGAN_CHR_cruegar: "Cruegar"
- GUNGAN_CHR_degoolsby: "Degoolsby"
- GUNGAN_CHR_falyeh: "Falyeh"
- GUNGAN_CHR_donn: "Donn"
- GUNGAN_CHR_lo: "Lo"
- GUNGAN_CHR_lo_lo: "Lo Lo"
- GUNGAN_CHR_moppo: "Moppo"
- GUNGAN_CHR_kin_ya: "Kin-Ya"
- GUNGAN_CHR_kin: "Kin"
- GUNGAN_CHR_ya: "Ya"
- GUNGAN_CHR_kin_kin: "Kin Kin"
- GUNGAN_CHR_ya_ya: "Ya Ya"
- GUNGAN_CHR_mikfa: "Mikfa"
- GUNGAN_CHR_mik: "Mik"
- GUNGAN_CHR_mik_mik: "Mik Mik"
- GUNGAN_CHR_fasso: "Fasso"
- GUNGAN_CHR_fenton: "Fenton"
- GUNGAN_CHR_neb: "Neb"
- GUNGAN_CHR_neb_neb: "Neb Neb"
- GUNGAN_CHR_tup: "Tup"
- GUNGAN_CHR_tup_tup: "Tup Tup"
- GUNGAN_CHR_odoof: "Odoof"
- GUNGAN_CHR_kosa: "Kosa"
- GUNGAN_CHR_yin: "Yin"
- GUNGAN_CHR_yin_yin: "Yin Yin"
- GUNGAN_CHR_kosa_yin: "Kosa-Yin"
- GUNGAN_CHR_yr_apaly: "Yr'Apaly"
- GUNGAN_CHR_roo: "Roo"
- GUNGAN_CHR_roo_roo: "Roo-Roo"
- GUNGAN_CHR_broof: "Broof"
- GUNGAN_CHR_bro_bro: "Bro Bro"
- GUNGAN_CHR_zazzi: "Zazzi"
- GUNGAN_CHR_zazzo: "Zazzo"
- GUNGAN_CHR_aervis: "Aervis"
- GUNGAN_CHR_wollod: "Wollod"
- GUNGAN_CHR_portillo: "Portillo"
- GUNGAN_CHR_spill: "Spill"
- GUNGAN_CHR_zak: "Zak"
- GUNGAN_CHR_spleed: "Spleed"
- GUNGAN_CHR_marsune: "Marsune"
- GUNGAN_CHR_meh_ur: "Meh'ur"
- GUNGAN_CHR_kroke: "Kroke"
- GUNGAN_CHR_mokem: "Mokem"
- GUNGAN_CHR_oono: "Oono"
- GUNGAN_CHR_nalskel: "Nalskel"
- GUNGAN_CHR_flossin: "Flossin"
- GUNGAN_CHR_rogoe: "Rogoe"
- GUNGAN_CHR_dubbin: "Dubbin"
- GUNGAN_CHR_skub_skub: "Skub Skub"
- GUNGAN_CHR_skub: "Skub"
- GUNGAN_CHR_friggy: "Friggy"
- GUNGAN_CHR_tob: "Tob"
- GUNGAN_CHR_tob_tob: "Tob Tob"
- GUNGAN_CHR_toba: "Toba"
- GUNGAN_CHR_gus: "Gus"
- GUNGAN_CHR_gus_gus: "Gus-Gus"
- GUNGAN_CHR_jara: "Jara"
- GUNGAN_CHR_jara_jara: "Jara Jara"
- GUNGAN_CHR_peppi: "Peppi"
- GUNGAN_CHR_risha: "Risha"
- GUNGAN_CHR_lunka: "Lunka"
- GUNGAN_CHR_lyona: "Lyona"
- GUNGAN_CHR_ruga: "Ruga"
- GUNGAN_CHR_roosa: "Roosa"
- GUNGAN_CHR_galla: "Galla"
- GUNGAN_CHR_kleefaa: "Kleefaa"
- GUNGAN_CHR_tobla: "Tobla"
- GUNGAN_CHR_ganna: "Ganna"
- GUNGAN_CHR_augara: "Augara"
- GUNGAN_CHR_augie: "Augie"
- GUNGAN_CHR_jynxa: "Jynxa"
- GUNGAN_CHR_werta: "Werta"
- GUNGAN_CHR_teers: "Teers"
- GUNGAN_CHR_neesada: "Neesada"
- GUNGAN_CHR_bulliba: "Bulliba"
- GUNGAN_CHR_bamfurda: "Bamfurda"
- GUNGAN_CHR_bena: "Bena"
- GUNGAN_CHR_gara_gara: "Gara Gara"
- GUNGAN_CHR_slarma: "Slarma"
- GUNGAN_CHR_jaya: "Jaya"
- GUNGAN_CHR_jaya_jaya: "Jaya Jaya"
- GUNGAN_CHR_absa: "Absa"
- GUNGAN_CHR_bara: "Bara"
- GUNGAN_CHR_absa_bara: "Absa Bara"
- GUNGAN_CHR_georgia: "Georgia"
- GUNGAN_CHR_zima: "Zima"
- GUNGAN_CHR_zima_zima: "Zima Zima"
- GUNGAN_CHR_zama_zama: "Zama Zama"
- GUNGAN_CHR_zama: "Zama"
- GUNGAN_CHR_zima_zama: "Zima Zama"
- GUNGAN_CHR_biga: "Biga"
- GUNGAN_CHR_biga_biga: "Biga Biga"
- GUNGAN_CHR_bluetta: "Bluetta"
- GUNGAN_CHR_bolana: "Bolana"
- GUNGAN_CHR_bara_bara: "Bara Bara"
- GUNGAN_CHR_bolanabara: "BolanaBara"
- GUNGAN_CHR_mulla: "Mulla"
- GUNGAN_CHR_booma: "Booma"
- GUNGAN_CHR_booma_booma: "Booma Booma"
- GUNGAN_CHR_brassa: "Brassa"
- GUNGAN_CHR_bruta: "Bruta"
- GUNGAN_CHR_covala: "Covala"
- GUNGAN_CHR_piknaba: "Piknaba"
- GUNGAN_CHR_lob: "Lob"
- GUNGAN_CHR_lob_lob: "Lob Lob"
- GUNGAN_CHR_jakie: "Jakie"
- GUNGAN_CHR_jakie_jakie: "Jakie Jakie"
- GUNGAN_CHR_copeka: "Copeka"
- GUNGAN_CHR_cruegga: "Cruegga"
- GUNGAN_CHR_degoola: "Degoola"
- GUNGAN_CHR_donna: "Donna"
- GUNGAN_CHR_moppa: "Moppa"
- GUNGAN_CHR_kina_yaa: "Kina-Yaa"
- GUNGAN_CHR_kina_kina: "Kina Kina"
- GUNGAN_CHR_kina: "Kina"
- GUNGAN_CHR_yaa: "Yaa"
- GUNGAN_CHR_yaa_yaa: "Yaa Yaa"
- GUNGAN_CHR_mikfaa: "Mikfaa"
- GUNGAN_CHR_mika: "Mika"
- GUNGAN_CHR_mika_mika: "Mika Mika"
- GUNGAN_CHR_fassa: "Fassa"
- GUNGAN_CHR_fenta: "Fenta"
- GUNGAN_CHR_goodra: "Goodra"
- GUNGAN_CHR_nebba: "Nebba"
- GUNGAN_CHR_goodra_nebba: "Goodra Nebba"
- GUNGAN_CHR_nebba_nebba: "Nebba Nebba"
- GUNGAN_CHR_tuppa: "Tuppa"
- GUNGAN_CHR_tuppa_tuppa: "Tuppa Tuppa"
- GUNGAN_CHR_odoofa: "Odoofa"
- GUNGAN_CHR_kosaa: "Kosaa"
- GUNGAN_CHR_yina: "Yina"
- GUNGAN_CHR_yina_yina: "Yina Yina"
- GUNGAN_CHR_kosaa_yina: "Kosaa-Yina"
- GUNGAN_CHR_yr_apalya: "Yr'Apalya"
- GUNGAN_CHR_roa: "Roa"
- GUNGAN_CHR_roa_roa: "Roa-Roa"
- GUNGAN_CHR_broofa: "Broofa"
- GUNGAN_CHR_broa_broa: "Broa Broa"
- GUNGAN_CHR_zazia: "Zazia"
- GUNGAN_CHR_zazoa: "Zazoa"
- GUNGAN_CHR_aerva: "Aerva"
- GUNGAN_CHR_wolla: "Wolla"
- GUNGAN_CHR_portilla: "Portilla"
- GUNGAN_CHR_spilla: "Spilla"
- GUNGAN_CHR_zaka: "Zaka"
- GUNGAN_CHR_spleda: "Spleda"
- GUNGAN_CHR_skubba_skubba: "Skubba Skubba"
- GUNGAN_CHR_skubba: "Skubba"
- GUNGAN_CHR_frigga: "Frigga"
- GUNGAN_CHR_tobba_tobba: "Tobba Tobba"
- GUNGAN_CHR_tobba: "Tobba"
- GUNGAN_CHR_gussa: "Gussa"
- GUNGAN_CHR_gussa_gussa: "Gussa Gussa"
- GUNGAN_CHR_binks: "Binks"
- GUNGAN_CHR_loo: "Loo"
- GUNGAN_CHR_lubble: "Lubble"
- GUNGAN_CHR_bow: "Bow"
- GUNGAN_CHR_nass: "Nass"
- GUNGAN_CHR_tarpals: "Tarpals"
- GUNGAN_CHR_ceel: "Ceel"
- GUNGAN_CHR_jowil: "Jowil"
- GUNGAN_CHR_jopi: "Jopi"
- GUNGAN_CHR_bari: "Bari"
- GUNGAN_CHR_bettle: "Bettle"
- GUNGAN_CHR_bin: "Bin"
- GUNGAN_CHR_blattis: "Blattis"
- GUNGAN_CHR_blismo: "Blismo"
- GUNGAN_CHR_bombo: "Bombo"
- GUNGAN_CHR_kirs: "Kirs"
- GUNGAN_CHR_burmooze: "Burmooze"
- GUNGAN_CHR_carsels: "Carsels"
- GUNGAN_CHR_chucka: "Chucka"
- GUNGAN_CHR_dizz: "Dizz"
- GUNGAN_CHR_dop: "Dop"
- GUNGAN_CHR_dosun: "Dosun"
- GUNGAN_CHR_faaus: "Faaus"
- GUNGAN_CHR_fajallan: "Fajallan"
- GUNGAN_CHR_nob: "Nob"
- GUNGAN_CHR_grizbain: "Grizbain"
- GUNGAN_CHR_grunda: "Grunda"
- GUNGAN_CHR_hadu: "Hadu"
- GUNGAN_CHR_kelpit: "Kelpit"
- GUNGAN_CHR_keth: "Keth"
- GUNGAN_CHR_leede: "Leede"
- GUNGAN_CHR_marshoo: "Marshoo"
- GUNGAN_CHR_modbom: "Modbom"
- GUNGAN_CHR_noz: "Noz"
- GUNGAN_CHR_nukkels: "Nukkels"
- GUNGAN_CHR_noss: "Noss"
- GUNGAN_CHR_omin: "Omin"
- GUNGAN_CHR_paddu: "Paddu"
- GUNGAN_CHR_page: "Page"
- GUNGAN_CHR_pert: "Pert"
- GUNGAN_CHR_quiglee: "Quiglee"
- GUNGAN_CHR_rimk: "Rimk"
- GUNGAN_CHR_sharr: "Sharr"
- GUNGAN_CHR_squig: "Squig"
- GUNGAN_CHR_musstoro: "Musstoro"
- GUNGAN_CHR_toma: "Toma"
- GUNGAN_CHR_toop: "Toop"
- GUNGAN_CHR_tren: "Tren"
- GUNGAN_CHR_wupps: "Wupps"
- GUNGAN_CHR_wint: "Wint"
- GUNGAN_CHR_yown: "Yown"
- GUNGAN_CHR_wiga: "Wiga"
- GUNGAN_CHR_yurdel: "Yurdel"
- GUNGAN_CHR_zassa: "Zassa"
- GUNGAN_CHR_zinga: "Zinga"
- GUNGAN_CHR_mor_in: "Mor'in"
- GUNGAN_CHR_nee: "Nee"
- GUNGAN_CHR_goodrow: "Goodrow"
+  GUNGAN_aquanna: "Акванна" #NT!
+  GUNGAN_blackfish: "Чёрная рыба" #NT!
+  GUNGAN_blarth: "Бларт" #NT!
+  GUNGAN_blembie: "Блемби" #NT!
+  GUNGAN_blowfish: "Иглобрюх" #NT!
+  GUNGAN_bluefish: "Голубая рыба" #NT!
+  GUNGAN_bogwing: "Болотокрыл" #NT!
+  GUNGAN_bolle_bol: "Болле бол" #NT!
+  GUNGAN_bowlump: "Боуламп" #NT!
+  GUNGAN_bursa: "Бурса" #NT!
+  GUNGAN_capper: "Каппер" #NT!
+  GUNGAN_spineflap: "Спинолоскутник" #NT!
+  GUNGAN_cerrabore: "Церрабо" #NT!
+  GUNGAN_clawswift: "Быстрокоготь" #NT!
+  GUNGAN_clodhopper: "Компрыгун" #NT!
+  GUNGAN_colo: "Коло" #NT!
+  GUNGAN_copek: "Копек" #NT!
+  GUNGAN_doo: "Ду" #NT!
+  GUNGAN_dunsenn: "Дунсенн" #NT!
+  GUNGAN_faa: "Фаа" #NT!
+  GUNGAN_falumpaset: "Фалумпасет" #NT!
+  GUNGAN_fambaa: "Фамбаа" #NT!
+  GUNGAN_farback: "Гребнеспин" #NT!
+  GUNGAN_fanned_rawl: "Веер-роул" #NT!
+  GUNGAN_fatfish: "Жирная рыба" #NT!
+  GUNGAN_flewt: "Флют" #NT!
+  GUNGAN_gallo: "Галло" #NT!
+  GUNGAN_galoomp: "Галумп" #NT!
+  GUNGAN_glurrg: "Глуррг" #NT!
+  GUNGAN_gnort: "Гнорт" #NT!
+  GUNGAN_gooberfish: "Губер" #NT!
+  GUNGAN_grakkt: "Граккт" #NT!
+  GUNGAN_greysor: "Грейсор" #NT!
+  GUNGAN_grizbain: "Гризбейн" #NT!
+  GUNGAN_grizzlefur: "Гриззлфур" #NT!
+  GUNGAN_gualaar: "Гуалаар" #NT!
+  GUNGAN_gualama: "Гуалама" #NT!
+  GUNGAN_guarlara: "Гуарлара" #NT!
+  GUNGAN_gullipud: "Гуллипуд" #NT!
+  GUNGAN_gumbol: "Гамбол" #NT!
+  GUNGAN_gumfish: "Рыба-жвачка" #NT!
+  GUNGAN_hohokum: "Хохокум" #NT!
+  GUNGAN_krevol: "Кревол" #NT!
+  GUNGAN_hrumph: "Хрумф" #NT!
+  GUNGAN_igitz: "Игиц" #NT!
+  GUNGAN_ikopi: "Икопи" #NT!
+  GUNGAN_jaboon: "Джабун" #NT!
+  GUNGAN_jimvu: "Джимву" #NT!
+  GUNGAN_kaadu: "Кааду" #NT!
+  GUNGAN_king_venom: "Король яд" #NT!
+  GUNGAN_nightspider: "Ночной паук" #NT!
+  GUNGAN_klaa: "Клаа" #NT!
+  GUNGAN_folvor: "Фольвор" #NT!
+  GUNGAN_kreetch: "Критч" #NT!
+  GUNGAN_kreetle: "Критл" #NT!
+  GUNGAN_kresch: "Кресч" #NT!
+  GUNGAN_krill: "Крилл" #NT!
+  GUNGAN_laa: "Лаа" #NT!
+  GUNGAN_lerraa: "Лерраа" #NT!
+  GUNGAN_mantaris: "Мантарис" #NT!
+  GUNGAN_marshoo: "Маршу" #NT!
+  GUNGAN_marsune: "Марсун" #NT!
+  GUNGAN_mee: "Ми" #NT!
+  GUNGAN_mott: "Мотт" #NT!
+  GUNGAN_muudabok: "Мудабок" #NT!
+  GUNGAN_narglatch: "Нарглатч" #NT!
+  GUNGAN_noctur_ian: "Ноктур'лан" #NT!
+  GUNGAN_nuna: "Нуна" #NT!
+  GUNGAN_nyork: "Ньорк" #NT!
+  GUNGAN_odupiendo: "Одупиндо" #NT!
+  GUNGAN_ollopom: "Оллопом" #NT!
+  GUNGAN_opee: "Опи" #NT!
+  GUNGAN_sea_killer: "Морской убийца" #NT!
+  GUNGAN_otta: "Отта" #NT!
+  GUNGAN_peko_peko: "Пеко-пеко" #NT!
+  GUNGAN_pelikki: "Пеликки" #NT!
+  GUNGAN_pikobi: "Пикоби" #NT!
+  GUNGAN_pom_hopper: "Пом-прыгун" #NT!
+  GUNGAN_potolli: "Потолли" #NT!
+  GUNGAN_pudlow: "Пудлоу" #NT!
+  GUNGAN_quadduck: "Квадутка" #NT!
+  GUNGAN_quiglee: "Квигли" #NT!
+  GUNGAN_ray: "Рей" #NT!
+  GUNGAN_reyclopper: "Рейклопер" #NT!
+  GUNGAN_rootjigger: "Рутджиггер" #NT!
+  GUNGAN_san_lampris: "Сан-ламприс" #NT!
+  GUNGAN_san_pilot: "Сан-пайлот" #NT!
+  GUNGAN_sando: "Сандо" #NT!
+  GUNGAN_aqua_monster: "Водное чудовище" #NT!
+  GUNGAN_saw_toothed_grank: "Пилозубый гранк" #NT!
+  GUNGAN_scalefish: "Чешуйчатая рыба" #NT!
+  GUNGAN_see: "Си" #NT!
+  GUNGAN_shaak: "Шаак" #NT!
+  GUNGAN_shaupaut: "Шаупот" #NT!
+  GUNGAN_shiro: "Широ" #NT!
+  GUNGAN_skipper: "Шкипер" #NT!
+  GUNGAN_squid: "Кальмар" #NT!
+  GUNGAN_slaatik: "Слаатик" #NT!
+  GUNGAN_hagworm: "Болотный червь" #NT!
+  GUNGAN_slitherfish: "Скользкая рыба" #NT!
+  GUNGAN_slug_beetle: "Жук-слизень" #NT!
+  GUNGAN_soo: "Су" #NT!
+  GUNGAN_sprywing: "Быстрокрыл" #NT!
+  GUNGAN_squig: "Сквиг" #NT!
+  GUNGAN_swift: "Быстрый" #NT!
+  GUNGAN_tee: "Ти" #NT!
+  GUNGAN_teers: "Тирс" #NT!
+  GUNGAN_terazod: "Теразод" #NT!
+  GUNGAN_tik_tak: "Тик-так" #NT!
+  GUNGAN_tima: "Тима" #NT!
+  GUNGAN_titavian: "Титавиан" #NT!
+  GUNGAN_tooke: "Тук" #NT!
+  GUNGAN_tusk_cat: "Бивнекот" #NT!
+  GUNGAN_twirrl: "Твиррл" #NT!
+  GUNGAN_veermok: "Вирмок" #NT!
+  GUNGAN_voorpak: "Вурпак" #NT!
+  GUNGAN_yobcrab: "Йоб-краб" #NT!
+  GUNGAN_yobshrimp: "Йоб-креветка" #NT!
+  GUNGAN_zalaaca: "Залаака" #NT!
+  GUNGAN_FLEET_boggwoss_squadron: "Эскадрилья «Боггвосс»" #NT!
+  GUNGAN_FLEET_reggam_squadron: "Эскадрилья «Реггам»" #NT!
+  GUNGAN_FLEET_shoggor_squadron: "Эскадрилья «Шоггор»" #NT!
+  GUNGAN_FLEET_paggirim_squadron: "Эскадрилья «Паггирим»" #NT!
+  GUNGAN_FLEET_meggisch_squadron: "Эскадрилья «Меггисч»" #NT!
+  GUNGAN_FLEET_lurggam_squadron: "Эскадрилья «Лурггам»" #NT!
+  GUNGAN_FLEET_ithagga_squadron: "Эскадрилья «Итагга»" #NT!
+  GUNGAN_FLEET_juraggi_squadron: "Эскадрилья «Джурагги»" #NT!
+  GUNGAN_FLEET_SEQUENTIAL_bombad_fleet: "$ORD$ Бомбад-флот" #NT!
+  GUNGAN_ARMY_armored_cerrabores: "Бронированные церрабы" #NT!
+  GUNGAN_ARMY_armored_falumpasets: "Бронированные фасумпасеты" #NT!
+  GUNGAN_ARMY_armored_fambaas: "Бронированные фамбаа" #NT!
+  GUNGAN_ARMY_heyblibber_squadron: "Эскадрон «Хейблиббер»" #NT!
+  GUNGAN_ARMY_kaadu_cavalry: "Кавалерия кааду" #NT!
+  GUNGAN_ARMY_gungan_catapults_squad: "Отряд катапульт гунганов" #NT!
+  GUNGAN_ARMY_tribubble_bongo_squadron: "Эскадрон трёхпузырчатых бонго" #NT!
+  GUNGAN_ARMY_bb_2_shuttle_squadron: "Эскадрон шаттлов BB-2" #NT!
+  GUNGAN_ARMY_bongo_behemoths: "Бонго «Бегемот»" #NT!
+  GUNGAN_ARMY_bongo_scouts: "Бонго «Скаут»" #NT!
+  GUNGAN_ARMY_bongo_laser_squad: "Отряд лазерных бонго" #NT!
+  GUNGAN_ARMY_bongo_missiles_squad: "Отряд ракетных бонго" #NT!
+  GUNGAN_ARMY_armored_lerraas: "Бронированные лерраа" #NT!
+  GUNGAN_ARMY_gungan_bombers_squadron: "Эскадрилья гунганских бомбардировщиков" #NT!
+  GUNGAN_ARMY_wild_zalaacas: "Дикие залааки" #NT!
+  GUNGAN_ARMY_armored_zalaacas: "Бронированные залааки" #NT!
+  GUNGAN_ARMY_booma_grenadiers: "Бума-гренадёры" #NT!
+  GUNGAN_ARMY_raaptur_squadron: "Эскадрон «Рааптур»" #NT!
+  GUNGAN_ARMY_atlatls_throwers: "Метатели атлатлей" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_gungan_grand_army: "$ORD$ Великая армия гунганов" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_gungan_invasion_army: "$ORD$ Армия вторжения гунганов" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_slave_forces: "$ORD$ Войска рабов" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_clone_cluster_SEQ: "Кластер клонов $C$" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_cephalodroids: "$ORD$ Цефалодроиды" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_psychic_phalanx: "$ORD$ Психическая фаланга" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_consuming_swarm: "$ORD$ Пожинающий рой" #NT!
+  GUNGAN_ARMY_SEQUENTIAL_ascenders: "$ORD$ Восходящие" #NT!
+  GUNGAN_CHR_benbul: "Benbul" #NT!
+  GUNGAN_CHR_jar: "Jar" #NT!
+  GUNGAN_CHR_jar_jar: "Jar Jar" #NT!
+  GUNGAN_CHR_pep: "Pep" #NT!
+  GUNGAN_CHR_rish: "Rish" #NT!
+  GUNGAN_CHR_lunker: "Lunker" #NT!
+  GUNGAN_CHR_lyonie: "Lyonie" #NT!
+  GUNGAN_CHR_rugor: "Rugor" #NT!
+  GUNGAN_CHR_roos: "Roos" #NT!
+  GUNGAN_CHR_heb: "Heb" #NT!
+  GUNGAN_CHR_gallo: "Gallo" #NT!
+  GUNGAN_CHR_kleef: "Kleef" #NT!
+  GUNGAN_CHR_tobler: "Tobler" #NT!
+  GUNGAN_CHR_ganne: "Ganne" #NT!
+  GUNGAN_CHR_augur: "Augur" #NT!
+  GUNGAN_CHR_aug: "Aug" #NT!
+  GUNGAN_CHR_aug_aug: "Aug Aug" #NT!
+  GUNGAN_CHR_jynx: "Jynx" #NT!
+  GUNGAN_CHR_wert: "Wert" #NT!
+  GUNGAN_CHR_tee: "Tee" #NT!
+  GUNGAN_CHR_tee_tee: "Tee Tee" #NT!
+  GUNGAN_CHR_neesa: "Neesa" #NT!
+  GUNGAN_CHR_bullba: "Bullba" #NT!
+  GUNGAN_CHR_bamfurd: "Bamfurd" #NT!
+  GUNGAN_CHR_been: "Been" #NT!
+  GUNGAN_CHR_gar: "Gar" #NT!
+  GUNGAN_CHR_gar_gar: "Gar Gar" #NT!
+  GUNGAN_CHR_slarm: "Slarm" #NT!
+  GUNGAN_CHR_jay: "Jay" #NT!
+  GUNGAN_CHR_jay_jay: "Jay Jay" #NT!
+  GUNGAN_CHR_abso: "Abso" #NT!
+  GUNGAN_CHR_bar: "Bar" #NT!
+  GUNGAN_CHR_abso_bar: "Abso Bar" #NT!
+  GUNGAN_CHR_george: "George" #NT!
+  GUNGAN_CHR_zim: "Zim" #NT!
+  GUNGAN_CHR_zim_zim: "Zim Zim" #NT!
+  GUNGAN_CHR_zam: "Zam" #NT!
+  GUNGAN_CHR_zam_zam: "Zam Zam" #NT!
+  GUNGAN_CHR_zim_zam: "Zim Zam" #NT!
+  GUNGAN_CHR_big: "Big" #NT!
+  GUNGAN_CHR_big_big: "Big Big" #NT!
+  GUNGAN_CHR_blue: "Blue" #NT!
+  GUNGAN_CHR_bola: "Bola" #NT!
+  GUNGAN_CHR_bola_bola: "Bola Bola" #NT!
+  GUNGAN_CHR_bar_bar: "Bar Bar" #NT!
+  GUNGAN_CHR_bolabar: "BolaBar" #NT!
+  GUNGAN_CHR_boma: "Boma" #NT!
+  GUNGAN_CHR_mullud: "Mullud" #NT!
+  GUNGAN_CHR_boom: "Boom" #NT!
+  GUNGAN_CHR_boom_boom: "Boom Boom" #NT!
+  GUNGAN_CHR_booto: "Booto" #NT!
+  GUNGAN_CHR_brass: "Brass" #NT!
+  GUNGAN_CHR_brute: "Brute" #NT!
+  GUNGAN_CHR_cova: "Cova" #NT!
+  GUNGAN_CHR_hoxie: "Hoxie" #NT!
+  GUNGAN_CHR_hantik: "Hantik" #NT!
+  GUNGAN_CHR_hassk: "Hassk" #NT!
+  GUNGAN_CHR_piknab: "Piknab" #NT!
+  GUNGAN_CHR_jak: "Jak" #NT!
+  GUNGAN_CHR_jak_jak: "Jak Jak" #NT!
+  GUNGAN_CHR_copek: "Copek" #NT!
+  GUNGAN_CHR_cruegar: "Cruegar" #NT!
+  GUNGAN_CHR_degoolsby: "Degoolsby" #NT!
+  GUNGAN_CHR_falyeh: "Falyeh" #NT!
+  GUNGAN_CHR_donn: "Donn" #NT!
+  GUNGAN_CHR_lo: "Lo" #NT!
+  GUNGAN_CHR_lo_lo: "Lo Lo" #NT!
+  GUNGAN_CHR_moppo: "Moppo" #NT!
+  GUNGAN_CHR_kin_ya: "Kin-Ya" #NT!
+  GUNGAN_CHR_kin: "Kin" #NT!
+  GUNGAN_CHR_ya: "Ya" #NT!
+  GUNGAN_CHR_kin_kin: "Kin Kin" #NT!
+  GUNGAN_CHR_ya_ya: "Ya Ya" #NT!
+  GUNGAN_CHR_mikfa: "Mikfa" #NT!
+  GUNGAN_CHR_mik: "Mik" #NT!
+  GUNGAN_CHR_mik_mik: "Mik Mik" #NT!
+  GUNGAN_CHR_fasso: "Fasso" #NT!
+  GUNGAN_CHR_fenton: "Fenton" #NT!
+  GUNGAN_CHR_neb: "Neb" #NT!
+  GUNGAN_CHR_neb_neb: "Neb Neb" #NT!
+  GUNGAN_CHR_tup: "Tup" #NT!
+  GUNGAN_CHR_tup_tup: "Tup Tup" #NT!
+  GUNGAN_CHR_odoof: "Odoof" #NT!
+  GUNGAN_CHR_kosa: "Kosa" #NT!
+  GUNGAN_CHR_yin: "Yin" #NT!
+  GUNGAN_CHR_yin_yin: "Yin Yin" #NT!
+  GUNGAN_CHR_kosa_yin: "Kosa-Yin" #NT!
+  GUNGAN_CHR_yr_apaly: "Yr'Apaly" #NT!
+  GUNGAN_CHR_roo: "Roo" #NT!
+  GUNGAN_CHR_roo_roo: "Roo-Roo" #NT!
+  GUNGAN_CHR_broof: "Broof" #NT!
+  GUNGAN_CHR_bro_bro: "Bro Bro" #NT!
+  GUNGAN_CHR_zazzi: "Zazzi" #NT!
+  GUNGAN_CHR_zazzo: "Zazzo" #NT!
+  GUNGAN_CHR_aervis: "Aervis" #NT!
+  GUNGAN_CHR_wollod: "Wollod" #NT!
+  GUNGAN_CHR_portillo: "Portillo" #NT!
+  GUNGAN_CHR_spill: "Spill" #NT!
+  GUNGAN_CHR_zak: "Zak" #NT!
+  GUNGAN_CHR_spleed: "Spleed" #NT!
+  GUNGAN_CHR_marsune: "Marsune" #NT!
+  GUNGAN_CHR_meh_ur: "Meh'ur" #NT!
+  GUNGAN_CHR_kroke: "Kroke" #NT!
+  GUNGAN_CHR_mokem: "Mokem" #NT!
+  GUNGAN_CHR_oono: "Oono" #NT!
+  GUNGAN_CHR_nalskel: "Nalskel" #NT!
+  GUNGAN_CHR_flossin: "Flossin" #NT!
+  GUNGAN_CHR_rogoe: "Rogoe" #NT!
+  GUNGAN_CHR_dubbin: "Dubbin" #NT!
+  GUNGAN_CHR_skub_skub: "Skub Skub" #NT!
+  GUNGAN_CHR_skub: "Skub" #NT!
+  GUNGAN_CHR_friggy: "Friggy" #NT!
+  GUNGAN_CHR_tob: "Tob" #NT!
+  GUNGAN_CHR_tob_tob: "Tob Tob" #NT!
+  GUNGAN_CHR_toba: "Toba" #NT!
+  GUNGAN_CHR_gus: "Gus" #NT!
+  GUNGAN_CHR_gus_gus: "Gus-Gus" #NT!
+  GUNGAN_CHR_jara: "Jara" #NT!
+  GUNGAN_CHR_jara_jara: "Jara Jara" #NT!
+  GUNGAN_CHR_peppi: "Peppi" #NT!
+  GUNGAN_CHR_risha: "Risha" #NT!
+  GUNGAN_CHR_lunka: "Lunka" #NT!
+  GUNGAN_CHR_lyona: "Lyona" #NT!
+  GUNGAN_CHR_ruga: "Ruga" #NT!
+  GUNGAN_CHR_roosa: "Roosa" #NT!
+  GUNGAN_CHR_galla: "Galla" #NT!
+  GUNGAN_CHR_kleefaa: "Kleefaa" #NT!
+  GUNGAN_CHR_tobla: "Tobla" #NT!
+  GUNGAN_CHR_ganna: "Ganna" #NT!
+  GUNGAN_CHR_augara: "Augara" #NT!
+  GUNGAN_CHR_augie: "Augie" #NT!
+  GUNGAN_CHR_jynxa: "Jynxa" #NT!
+  GUNGAN_CHR_werta: "Werta" #NT!
+  GUNGAN_CHR_teers: "Teers" #NT!
+  GUNGAN_CHR_neesada: "Neesada" #NT!
+  GUNGAN_CHR_bulliba: "Bulliba" #NT!
+  GUNGAN_CHR_bamfurda: "Bamfurda" #NT!
+  GUNGAN_CHR_bena: "Bena" #NT!
+  GUNGAN_CHR_gara_gara: "Gara Gara" #NT!
+  GUNGAN_CHR_slarma: "Slarma" #NT!
+  GUNGAN_CHR_jaya: "Jaya" #NT!
+  GUNGAN_CHR_jaya_jaya: "Jaya Jaya" #NT!
+  GUNGAN_CHR_absa: "Absa" #NT!
+  GUNGAN_CHR_bara: "Bara" #NT!
+  GUNGAN_CHR_absa_bara: "Absa Bara" #NT!
+  GUNGAN_CHR_georgia: "Georgia" #NT!
+  GUNGAN_CHR_zima: "Zima" #NT!
+  GUNGAN_CHR_zima_zima: "Zima Zima" #NT!
+  GUNGAN_CHR_zama_zama: "Zama Zama" #NT!
+  GUNGAN_CHR_zama: "Zama" #NT!
+  GUNGAN_CHR_zima_zama: "Zima Zama" #NT!
+  GUNGAN_CHR_biga: "Biga" #NT!
+  GUNGAN_CHR_biga_biga: "Biga Biga" #NT!
+  GUNGAN_CHR_bluetta: "Bluetta" #NT!
+  GUNGAN_CHR_bolana: "Bolana" #NT!
+  GUNGAN_CHR_bara_bara: "Bara Bara" #NT!
+  GUNGAN_CHR_bolanabara: "BolanaBara" #NT!
+  GUNGAN_CHR_mulla: "Mulla" #NT!
+  GUNGAN_CHR_booma: "Booma" #NT!
+  GUNGAN_CHR_booma_booma: "Booma Booma" #NT!
+  GUNGAN_CHR_brassa: "Brassa" #NT!
+  GUNGAN_CHR_bruta: "Bruta" #NT!
+  GUNGAN_CHR_covala: "Covala" #NT!
+  GUNGAN_CHR_piknaba: "Piknaba" #NT!
+  GUNGAN_CHR_lob: "Lob" #NT!
+  GUNGAN_CHR_lob_lob: "Lob Lob" #NT!
+  GUNGAN_CHR_jakie: "Jakie" #NT!
+  GUNGAN_CHR_jakie_jakie: "Jakie Jakie" #NT!
+  GUNGAN_CHR_copeka: "Copeka" #NT!
+  GUNGAN_CHR_cruegga: "Cruegga" #NT!
+  GUNGAN_CHR_degoola: "Degoola" #NT!
+  GUNGAN_CHR_donna: "Donna" #NT!
+  GUNGAN_CHR_moppa: "Moppa" #NT!
+  GUNGAN_CHR_kina_yaa: "Kina-Yaa" #NT!
+  GUNGAN_CHR_kina_kina: "Kina Kina" #NT!
+  GUNGAN_CHR_kina: "Kina" #NT!
+  GUNGAN_CHR_yaa: "Yaa" #NT!
+  GUNGAN_CHR_yaa_yaa: "Yaa Yaa" #NT!
+  GUNGAN_CHR_mikfaa: "Mikfaa" #NT!
+  GUNGAN_CHR_mika: "Mika" #NT!
+  GUNGAN_CHR_mika_mika: "Mika Mika" #NT!
+  GUNGAN_CHR_fassa: "Fassa" #NT!
+  GUNGAN_CHR_fenta: "Fenta" #NT!
+  GUNGAN_CHR_goodra: "Goodra" #NT!
+  GUNGAN_CHR_nebba: "Nebba" #NT!
+  GUNGAN_CHR_goodra_nebba: "Goodra Nebba" #NT!
+  GUNGAN_CHR_nebba_nebba: "Nebba Nebba" #NT!
+  GUNGAN_CHR_tuppa: "Tuppa" #NT!
+  GUNGAN_CHR_tuppa_tuppa: "Tuppa Tuppa" #NT!
+  GUNGAN_CHR_odoofa: "Odoofa" #NT!
+  GUNGAN_CHR_kosaa: "Kosaa" #NT!
+  GUNGAN_CHR_yina: "Yina" #NT!
+  GUNGAN_CHR_yina_yina: "Yina Yina" #NT!
+  GUNGAN_CHR_kosaa_yina: "Kosaa-Yina" #NT!
+  GUNGAN_CHR_yr_apalya: "Yr'Apalya" #NT!
+  GUNGAN_CHR_roa: "Roa" #NT!
+  GUNGAN_CHR_roa_roa: "Roa-Roa" #NT!
+  GUNGAN_CHR_broofa: "Broofa" #NT!
+  GUNGAN_CHR_broa_broa: "Broa Broa" #NT!
+  GUNGAN_CHR_zazia: "Zazia" #NT!
+  GUNGAN_CHR_zazoa: "Zazoa" #NT!
+  GUNGAN_CHR_aerva: "Aerva" #NT!
+  GUNGAN_CHR_wolla: "Wolla" #NT!
+  GUNGAN_CHR_portilla: "Portilla" #NT!
+  GUNGAN_CHR_spilla: "Spilla" #NT!
+  GUNGAN_CHR_zaka: "Zaka" #NT!
+  GUNGAN_CHR_spleda: "Spleda" #NT!
+  GUNGAN_CHR_skubba_skubba: "Skubba Skubba" #NT!
+  GUNGAN_CHR_skubba: "Skubba" #NT!
+  GUNGAN_CHR_frigga: "Frigga" #NT!
+  GUNGAN_CHR_tobba_tobba: "Tobba Tobba" #NT!
+  GUNGAN_CHR_tobba: "Tobba" #NT!
+  GUNGAN_CHR_gussa: "Gussa" #NT!
+  GUNGAN_CHR_gussa_gussa: "Gussa Gussa" #NT!
+  GUNGAN_CHR_binks: "Binks" #NT!
+  GUNGAN_CHR_loo: "Loo" #NT!
+  GUNGAN_CHR_lubble: "Lubble" #NT!
+  GUNGAN_CHR_bow: "Bow" #NT!
+  GUNGAN_CHR_nass: "Nass" #NT!
+  GUNGAN_CHR_tarpals: "Tarpals" #NT!
+  GUNGAN_CHR_ceel: "Ceel" #NT!
+  GUNGAN_CHR_jowil: "Jowil" #NT!
+  GUNGAN_CHR_jopi: "Jopi" #NT!
+  GUNGAN_CHR_bari: "Bari" #NT!
+  GUNGAN_CHR_bettle: "Bettle" #NT!
+  GUNGAN_CHR_bin: "Bin" #NT!
+  GUNGAN_CHR_blattis: "Blattis" #NT!
+  GUNGAN_CHR_blismo: "Blismo" #NT!
+  GUNGAN_CHR_bombo: "Bombo" #NT!
+  GUNGAN_CHR_kirs: "Kirs" #NT!
+  GUNGAN_CHR_burmooze: "Burmooze" #NT!
+  GUNGAN_CHR_carsels: "Carsels" #NT!
+  GUNGAN_CHR_chucka: "Chucka" #NT!
+  GUNGAN_CHR_dizz: "Dizz" #NT!
+  GUNGAN_CHR_dop: "Dop" #NT!
+  GUNGAN_CHR_dosun: "Dosun" #NT!
+  GUNGAN_CHR_faaus: "Faaus" #NT!
+  GUNGAN_CHR_fajallan: "Fajallan" #NT!
+  GUNGAN_CHR_nob: "Nob" #NT!
+  GUNGAN_CHR_grizbain: "Grizbain" #NT!
+  GUNGAN_CHR_grunda: "Grunda" #NT!
+  GUNGAN_CHR_hadu: "Hadu" #NT!
+  GUNGAN_CHR_kelpit: "Kelpit" #NT!
+  GUNGAN_CHR_keth: "Keth" #NT!
+  GUNGAN_CHR_leede: "Leede" #NT!
+  GUNGAN_CHR_marshoo: "Marshoo" #NT!
+  GUNGAN_CHR_modbom: "Modbom" #NT!
+  GUNGAN_CHR_noz: "Noz" #NT!
+  GUNGAN_CHR_nukkels: "Nukkels" #NT!
+  GUNGAN_CHR_noss: "Noss" #NT!
+  GUNGAN_CHR_omin: "Omin" #NT!
+  GUNGAN_CHR_paddu: "Paddu" #NT!
+  GUNGAN_CHR_page: "Page" #NT!
+  GUNGAN_CHR_pert: "Pert" #NT!
+  GUNGAN_CHR_quiglee: "Quiglee" #NT!
+  GUNGAN_CHR_rimk: "Rimk" #NT!
+  GUNGAN_CHR_sharr: "Sharr" #NT!
+  GUNGAN_CHR_squig: "Squig" #NT!
+  GUNGAN_CHR_musstoro: "Musstoro" #NT!
+  GUNGAN_CHR_toma: "Toma" #NT!
+  GUNGAN_CHR_toop: "Toop" #NT!
+  GUNGAN_CHR_tren: "Tren" #NT!
+  GUNGAN_CHR_wupps: "Wupps" #NT!
+  GUNGAN_CHR_wint: "Wint" #NT!
+  GUNGAN_CHR_yown: "Yown" #NT!
+  GUNGAN_CHR_wiga: "Wiga" #NT!
+  GUNGAN_CHR_yurdel: "Yurdel" #NT!
+  GUNGAN_CHR_zassa: "Zassa" #NT!
+  GUNGAN_CHR_zinga: "Zinga" #NT!
+  GUNGAN_CHR_mor_in: "Mor'in" #NT!
+  GUNGAN_CHR_nee: "Nee" #NT!
+  GUNGAN_CHR_goodrow: "Goodrow" #NT!

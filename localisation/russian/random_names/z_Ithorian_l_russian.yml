@@ -1,398 +1,398 @@
 ﻿l_russian:
- ITHORIAN_halcyon: "Halcyon"
- ITHORIAN_longspur: "Longspur"
- ITHORIAN_itinerant: "Itinerant"
- ITHORIAN_wayfarer: "Wayfarer"
- ITHORIAN_wanderer: "Wanderer"
- ITHORIAN_roamer: "Roamer"
- ITHORIAN_farstrike: "Farstrike"
- ITHORIAN_brawler: "Brawler"
- ITHORIAN_brazen: "Brazen"
- ITHORIAN_representative: "Representative"
- ITHORIAN_threkin: "Threkin"
- ITHORIAN_geedon: "Geedon"
- ITHORIAN_glaser: "Glaser"
- ITHORIAN_glazer: "Glazer"
- ITHORIAN_godar: "Godar"
- ITHORIAN_grappler: "Grappler"
- ITHORIAN_habatok: "Habatok"
- ITHORIAN_halifax: "Halifax"
- ITHORIAN_howlrunner: "Howlrunner"
- ITHORIAN_hyko: "Hyko"
- ITHORIAN_intrepid: "Intrepid"
- ITHORIAN_indefatigable: "Indefatigable"
- ITHORIAN_vindicator: "Vindicator"
- ITHORIAN_blethyline: "Blethyline"
- ITHORIAN_canoid: "Canoid"
- ITHORIAN_banshee: "Banshee"
- ITHORIAN_victory: "Victory"
- ITHORIAN_success: "Success"
- ITHORIAN_triumph: "Triumph"
- ITHORIAN_titan: "Titan"
- ITHORIAN_harrower: "Harrower"
- ITHORIAN_raider: "Raider"
- ITHORIAN_nebula: "Nebula"
- ITHORIAN_dauntless: "Dauntless"
- ITHORIAN_providence: "Providence"
- ITHORIAN_subjugator: "Subjugator"
- ITHORIAN_conqueror: "Conqueror"
- ITHORIAN_crusader: "Crusader"
- ITHORIAN_glory: "Glory"
- ITHORIAN_immortal: "Immortal"
- ITHORIAN_judicator: "Judicator"
- ITHORIAN_vanguard: "Vanguard"
- ITHORIAN_renown: "Renown"
- ITHORIAN_demolisher: "Demolisher"
- ITHORIAN_storm: "Storm"
- ITHORIAN_stormstrike: "Stormstrike"
- ITHORIAN_striker: "Striker"
- ITHORIAN_sundog: "Sundog"
- ITHORIAN_talon: "Talon"
- ITHORIAN_thrasher: "Thrasher"
- ITHORIAN_thunder: "Thunder"
- ITHORIAN_thunderstrike: "Thunderstrike"
- ITHORIAN_purrgil: "Purrgil"
- ITHORIAN_barloz: "Barloz"
- ITHORIAN_bulk: "Bulk"
- ITHORIAN_bursa: "Bursa"
- ITHORIAN_bulwark: "Bulwark"
- ITHORIAN_invincible: "Invincible"
- ITHORIAN_valor: "Valor"
- ITHORIAN_hammer: "Hammer"
- ITHORIAN_sword: "Sword"
- ITHORIAN_shield: "Shield"
- ITHORIAN_brigand: "Brigand"
- ITHORIAN_praetorian: "Praetorian"
- ITHORIAN_lictor: "Lictor"
- ITHORIAN_starlight: "Starlight"
- ITHORIAN_dreadnaught: "Dreadnaught"
- ITHORIAN_vainglorious: "Vainglorious"
- ITHORIAN_tarvix: "Tarvix"
- ITHORIAN_drexl: "Drexl"
- ITHORIAN_rothana: "Rothana"
- ITHORIAN_balmorra: "Balmorra"
- ITHORIAN_lormar: "Lormar"
- ITHORIAN_lupus: "Lupus"
- ITHORIAN_onager: "Onager"
- ITHORIAN_pursuit: "Pursuit"
- ITHORIAN_bavos: "Bavos"
- ITHORIAN_munifex: "Munifex"
- ITHORIAN_mudhorn: "Mudhorn"
- ITHORIAN_gundark: "Gundark"
- ITHORIAN_vaya: "Vaya"
- ITHORIAN_heraklon: "Heraklon"
- ITHORIAN_core_systems: "Core Galaxy Systems"
- ITHORIAN_atgeir: "Atgeir"
- ITHORIAN_flurry_of_bolts: "Flurry of Bolts"
- ITHORIAN_dirty_kick: "Dirty Kick"
- ITHORIAN_vital_shot: "Vital Shot"
- ITHORIAN_quick_shot: "Quick Shot"
- ITHORIAN_all_in: "All In"
- ITHORIAN_eagle_5: "Eagle 5"
- ITHORIAN_lucky_dodge: "Lucky Dodge"
- ITHORIAN_shoot_first: "Shoot First"
- ITHORIAN_nice_try: "Nice Try"
- ITHORIAN_open_wound: "Open Wound"
- ITHORIAN_mortal_wound: "Mortal Wound"
- ITHORIAN_dirty_trickster: "Dirty Trickster"
- ITHORIAN_feelin__woozy: "Feelin' Woozy"
- ITHORIAN_sneaky: "Sneaky"
- ITHORIAN_scrappy: "Scrappy"
- ITHORIAN_shifty_eyed: "Shifty-Eyed"
- ITHORIAN_fight_or_flight: "Fight or Flight"
- ITHORIAN_slippery_devil: "Slippery Devil"
- ITHORIAN_rolling_punches: "Rolling Punches"
- ITHORIAN_surprise_come: "Surprise Comeback"
- ITHORIAN_round_two: "Round Two"
- ITHORIAN_stopping_power: "Stopping Power"
- ITHORIAN_brawler_s_gift: "Brawler's Gift"
- ITHORIAN_loth_wolf: "Loth Wolf"
- ITHORIAN_demon_moon: "Demon Moon"
- ITHORIAN_spice_runner: "Spice Runner"
- ITHORIAN_class_1000: "Class 1000"
- ITHORIAN_neutron_star: "Neutron Star"
- ITHORIAN_loth_cat: "Loth Cat"
- ITHORIAN_tusk_cat: "Tusk Cat"
- ITHORIAN_rancor: "Rancor"
- ITHORIAN_dewback: "Dewback"
- ITHORIAN_exogorth: "Exogorth"
- ITHORIAN_neebray: "Neebray"
- ITHORIAN_mynock: "Mynock"
- ITHORIAN_barri: "Barri"
- ITHORIAN_gralloc: "Gralloc"
- ITHORIAN_grutchin: "Grutchin"
- ITHORIAN_oswaft: "Oswaft"
- ITHORIAN_ridadi: "Ridadi"
- ITHORIAN_scree: "Scree"
- ITHORIAN_space_grazer: "Space Grazer"
- ITHORIAN_stillsail: "Stillsail"
- ITHORIAN_FLEET_SEQUENTIAL_ithorian_defense_fleet: "$ORD$ Ithorian Defense Fleet"
- ITHORIAN_ARMY_SEQUENTIAL_ithorian_planetary_guard: "$ORD$ Ithorian Planetary Guard"
- ITHORIAN_ARMY_SEQUENTIAL_ithorian_infantry_company: "$ORD$ Ithorian Infantry Company"
- ITHORIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- ITHORIAN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- ITHORIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- ITHORIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- ITHORIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- ITHORIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- ITHORIAN_CHR_nareen: "Nareen"
- ITHORIAN_CHR_byd: "Byd"
- ITHORIAN_CHR_pato: "Pato"
- ITHORIAN_CHR_aboo: "Aboo"
- ITHORIAN_CHR_ool: "Ool"
- ITHORIAN_CHR_tenadu: "Tenadu"
- ITHORIAN_CHR_gammit: "Gammit"
- ITHORIAN_CHR_roron: "Roron"
- ITHORIAN_CHR_ixxis: "Ixxis"
- ITHORIAN_CHR_jawiin: "Jawiin"
- ITHORIAN_CHR_murr: "Murr"
- ITHORIAN_CHR_essic: "Essic"
- ITHORIAN_CHR_hukowl: "Hukowl"
- ITHORIAN_CHR_disch_l: "Disch'l"
- ITHORIAN_CHR_mellaw: "Mellaw"
- ITHORIAN_CHR_tredo: "Tredo"
- ITHORIAN_CHR_tolad: "Tolad"
- ITHORIAN_CHR_worror: "Worror"
- ITHORIAN_CHR_drov: "Drov"
- ITHORIAN_CHR_egdir: "Egdir"
- ITHORIAN_CHR_eikkel: "Eikkel"
- ITHORIAN_CHR_tomla: "Tomla"
- ITHORIAN_CHR_ire: "Ire"
- ITHORIAN_CHR_belabeau: "Belabeau"
- ITHORIAN_CHR_ulo: "Ulo"
- ITHORIAN_CHR_vanster: "Vanster"
- ITHORIAN_CHR_vareesa: "Vareesa"
- ITHORIAN_CHR_eozlin: "Eozlin"
- ITHORIAN_CHR_farfer: "Farfer"
- ITHORIAN_CHR_farnsworth: "Farnsworth"
- ITHORIAN_CHR_faztoon: "Faztoon"
- ITHORIAN_CHR_goonawaro: "Goonawaro"
- ITHORIAN_CHR_gozubb: "Gozubb"
- ITHORIAN_CHR_graw: "Graw"
- ITHORIAN_CHR_olnom: "Olnom"
- ITHORIAN_CHR_chodo: "Chodo"
- ITHORIAN_CHR_ormo: "Ormo"
- ITHORIAN_CHR_herf: "Herf"
- ITHORIAN_CHR_i_klee_trao: "I'klee'trao"
- ITHORIAN_CHR_idau: "Idau"
- ITHORIAN_CHR_iggjel: "Iggjel"
- ITHORIAN_CHR_boma: "Boma"
- ITHORIAN_CHR_ish_tay: "Ish'tay"
- ITHORIAN_CHR_yortal: "Yortal"
- ITHORIAN_CHR_ixsthmus: "Ixsthmus"
- ITHORIAN_CHR_jerru: "Jerru"
- ITHORIAN_CHR_jhaffus: "Jhaffus"
- ITHORIAN_CHR_jho: "Jho"
- ITHORIAN_CHR_yuka: "Yuka"
- ITHORIAN_CHR_mawdo: "Mawdo"
- ITHORIAN_CHR_lasavvou: "Lasavvou"
- ITHORIAN_CHR_rance: "Rance"
- ITHORIAN_CHR_wallaw: "Wallaw"
- ITHORIAN_CHR_erd: "Erd"
- ITHORIAN_CHR_plu: "Plu"
- ITHORIAN_CHR_omow: "Omow"
- ITHORIAN_CHR_queedle: "Queedle"
- ITHORIAN_CHR_tamaab: "Tamaab"
- ITHORIAN_CHR_del: "Del"
- ITHORIAN_CHR_dob: "Dob"
- ITHORIAN_CHR_oorrl: "Oorrl"
- ITHORIAN_CHR_mowan: "Mowan"
- ITHORIAN_CHR_moza: "Moza"
- ITHORIAN_CHR_do_forow: "Do-Forow"
- ITHORIAN_CHR_momaw: "Momaw"
- ITHORIAN_CHR_tendau: "Tendau"
- ITHORIAN_CHR_ezam: "Ezam"
- ITHORIAN_CHR_noga_ta: "Noga-ta"
- ITHORIAN_CHR_nok: "Nok"
- ITHORIAN_CHR_foj: "Foj"
- ITHORIAN_CHR_nongta: "Nongta"
- ITHORIAN_CHR_obba: "Obba"
- ITHORIAN_CHR_odimas: "Odimas"
- ITHORIAN_CHR_odu: "Odu"
- ITHORIAN_CHR_oecax: "Oecax"
- ITHORIAN_CHR_omwaan: "Omwaan"
- ITHORIAN_CHR_onca: "Onca"
- ITHORIAN_CHR_oosea: "Oosea"
- ITHORIAN_CHR_oraltor: "Oraltor"
- ITHORIAN_CHR_naneb: "Naneb"
- ITHORIAN_CHR_phontos: "Phontos"
- ITHORIAN_CHR_poliss: "Poliss"
- ITHORIAN_CHR_pwwoz: "Pwwoz"
- ITHORIAN_CHR_pypey: "Pypey"
- ITHORIAN_CHR_quilljayk: "Quilljayk"
- ITHORIAN_CHR_choza: "Choza"
- ITHORIAN_CHR_regga: "Regga"
- ITHORIAN_CHR_rethorn: "Rethorn"
- ITHORIAN_CHR_clento: "Clento"
- ITHORIAN_CHR_roogak: "Roogak"
- ITHORIAN_CHR_saldith: "Saldith"
- ITHORIAN_CHR_dorthu: "Dorthu"
- ITHORIAN_CHR_bersin: "Bersin"
- ITHORIAN_CHR_mok: "Mok"
- ITHORIAN_CHR_breac: "Breac"
- ITHORIAN_CHR_snaplaunce: "Snaplaunce"
- ITHORIAN_CHR_marg: "Marg"
- ITHORIAN_CHR_sprool: "Sprool"
- ITHORIAN_CHR_stonk: "Stonk"
- ITHORIAN_CHR_andar: "Andar"
- ITHORIAN_CHR_ben: "Ben"
- ITHORIAN_CHR_mikkel: "Mikkel"
- ITHORIAN_CHR_syr: "Syr"
- ITHORIAN_CHR_methwat: "Methwat"
- ITHORIAN_CHR_lowban: "Lowban"
- ITHORIAN_CHR_thulls: "Thulls"
- ITHORIAN_CHR_tiethiagg: "Tiethiagg"
- ITHORIAN_CHR_tomo: "Tomo"
- ITHORIAN_CHR_nu: "Nu"
- ITHORIAN_CHR_tramulek: "Tramulek"
- ITHORIAN_CHR_truno: "Truno"
- ITHORIAN_CHR_urtuaa: "Urtuaa"
- ITHORIAN_CHR_fazza: "Fazza"
- ITHORIAN_CHR_veer: "Veer"
- ITHORIAN_CHR_vellna: "Vellna"
- ITHORIAN_CHR_dorin: "Dorin"
- ITHORIAN_CHR_denuab: "Denuab"
- ITHORIAN_CHR_vlohei: "Vlohei"
- ITHORIAN_CHR_vommb: "Vommb"
- ITHORIAN_CHR_ooamu: "Ooamu"
- ITHORIAN_CHR_werrera: "Werrera"
- ITHORIAN_CHR_janos: "Janos"
- ITHORIAN_CHR_whuvumm: "Whuvumm"
- ITHORIAN_CHR_oro: "Oro"
- ITHORIAN_CHR_womwa: "Womwa"
- ITHORIAN_CHR_worlohp: "Worlohp"
- ITHORIAN_CHR_yatter: "Yatter"
- ITHORIAN_CHR_yindo: "Yindo"
- ITHORIAN_CHR_yomo: "Yomo"
- ITHORIAN_CHR_ysho: "Ysho"
- ITHORIAN_CHR_t_licl: "T'licl"
- ITHORIAN_CHR_flen: "Flen"
- ITHORIAN_CHR_gillom: "Gillom"
- ITHORIAN_CHR_boolon: "Boolon"
- ITHORIAN_CHR_neelig: "Neelig"
- ITHORIAN_CHR_waawat: "Waawat"
- ITHORIAN_CHR_aamaw: "Aamaw"
- ITHORIAN_CHR_deneb: "Deneb"
- ITHORIAN_CHR_torsha: "Torsha"
- ITHORIAN_CHR_eeksa: "Eeksa"
- ITHORIAN_CHR_slag: "Slag"
- ITHORIAN_CHR_hoolar: "Hoolar"
- ITHORIAN_CHR_gebs: "Gebs"
- ITHORIAN_CHR_guerglenar: "Guerglenar"
- ITHORIAN_CHR_heltiss: "Heltiss"
- ITHORIAN_CHR_chandra: "Chandra"
- ITHORIAN_CHR_houlilan: "Houlilan"
- ITHORIAN_CHR_ror: "Ror"
- ITHORIAN_CHR_iych_thae: "Iych-thae"
- ITHORIAN_CHR_jwartek: "Jwartek"
- ITHORIAN_CHR_soshu: "Soshu"
- ITHORIAN_CHR_kaddo: "Kaddo"
- ITHORIAN_CHR_umwaw: "Umwaw"
- ITHORIAN_CHR_ma: "Ma"
- ITHORIAN_CHR_fren: "Fren"
- ITHORIAN_CHR_oko_po: "Oko-Po"
- ITHORIAN_CHR_oora: "Oora"
- ITHORIAN_CHR_pjolan: "Pjolan"
- ITHORIAN_CHR_murne: "Murne"
- ITHORIAN_CHR_thanek: "Thanek"
- ITHORIAN_CHR_toreena: "Toreena"
- ITHORIAN_CHR_uublu: "Uublu"
- ITHORIAN_CHR_amyva: "Amyva"
- ITHORIAN_CHR_vannotte: "Vannotte"
- ITHORIAN_CHR_visfuu: "Visfuu"
- ITHORIAN_CHR_cellwan: "Cellwan"
- ITHORIAN_CHR_haali: "Haali"
- ITHORIAN_CHR_ivuur: "Ivuur"
- ITHORIAN_CHR_oovei: "Oovei"
- ITHORIAN_CHR_vonnuvi: "Vonnuvi"
- ITHORIAN_CHR_wimmel: "Wimmel"
- ITHORIAN_CHR_aarrom: "Aarrom"
- ITHORIAN_CHR_ado: "Ado"
- ITHORIAN_CHR_aloor: "Aloor"
- ITHORIAN_CHR_ansh: "Ansh"
- ITHORIAN_CHR_aramflahad: "Aramflahad"
- ITHORIAN_CHR_awmod: "Awmod"
- ITHORIAN_CHR_balunta: "Balunta"
- ITHORIAN_CHR_batik: "Batik"
- ITHORIAN_CHR_bendon: "Bendon"
- ITHORIAN_CHR_bluebrow: "Bluebrow"
- ITHORIAN_CHR_bolo: "Bolo"
- ITHORIAN_CHR_borrosel: "Borrosel"
- ITHORIAN_CHR_both: "Both"
- ITHORIAN_CHR_bulduga: "Bulduga"
- ITHORIAN_CHR_byph: "Byph"
- ITHORIAN_CHR_cale: "Cale"
- ITHORIAN_CHR_capreese: "Capreese"
- ITHORIAN_CHR_chillings: "Chillings"
- ITHORIAN_CHR_chond: "Chond"
- ITHORIAN_CHR_corobb: "Corobb"
- ITHORIAN_CHR_cranata: "Cranata"
- ITHORIAN_CHR_danod: "Danod"
- ITHORIAN_CHR_daroom: "Daroom"
- ITHORIAN_CHR_dawun: "Dawun"
- ITHORIAN_CHR_an_devi: "An Devi"
- ITHORIAN_CHR_doowon: "Doowon"
- ITHORIAN_CHR_dopra: "Dopra"
- ITHORIAN_CHR_dor: "Dor"
- ITHORIAN_CHR_dowmat: "Dowmat"
- ITHORIAN_CHR_draknus: "Draknus"
- ITHORIAN_CHR_el: "El"
- ITHORIAN_CHR_eleazari: "Eleazari"
- ITHORIAN_CHR_enan: "Enan"
- ITHORIAN_CHR_fissol: "Fissol"
- ITHORIAN_CHR_flats: "Flats"
- ITHORIAN_CHR_freeb: "Freeb"
- ITHORIAN_CHR_gilloma: "Gilloma"
- ITHORIAN_CHR_grilnor: "Grilnor"
- ITHORIAN_CHR_habat: "Habat"
- ITHORIAN_CHR_haddon: "Haddon"
- ITHORIAN_CHR_hobat: "Hobat"
- ITHORIAN_CHR_inondo: "Inondo"
- ITHORIAN_CHR_ithh: "Ithh"
- ITHORIAN_CHR_ixlis: "Ixlis"
- ITHORIAN_CHR_jakker_sun: "Jakker-Sun"
- ITHORIAN_CHR_laka: "Laka"
- ITHORIAN_CHR_larrth: "Larrth"
- ITHORIAN_CHR_lojo: "Lojo"
- ITHORIAN_CHR_londahl: "Londahl"
- ITHORIAN_CHR_loowobbli: "Loowobbli"
- ITHORIAN_CHR_lumas: "Lumas"
- ITHORIAN_CHR_markeela: "Markeela"
- ITHORIAN_CHR_moder: "Moder"
- ITHORIAN_CHR_moll: "Moll"
- ITHORIAN_CHR_molto: "Molto"
- ITHORIAN_CHR_moolis: "Moolis"
- ITHORIAN_CHR_moomo: "Moomo"
- ITHORIAN_CHR_morm: "Morm"
- ITHORIAN_CHR_mowadan: "Mowadan"
- ITHORIAN_CHR_nadon: "Nadon"
- ITHORIAN_CHR_nhor: "Nhor"
- ITHORIAN_CHR_nomag: "Nomag"
- ITHORIAN_CHR_nurook: "Nurook"
- ITHORIAN_CHR_ojo: "Ojo"
- ITHORIAN_CHR_pefan: "Pefan"
- ITHORIAN_CHR_pwwa: "Pwwa"
- ITHORIAN_CHR_raabat: "Raabat"
- ITHORIAN_CHR_rill: "Rill"
- ITHORIAN_CHR_rin: "Rin"
- ITHORIAN_CHR_rone: "Rone"
- ITHORIAN_CHR_santim: "Santim"
- ITHORIAN_CHR_sekolah: "Sekolah"
- ITHORIAN_CHR_shaiz: "Shaiz"
- ITHORIAN_CHR_slaus: "Slaus"
- ITHORIAN_CHR_sonat: "Sonat"
- ITHORIAN_CHR_suquand: "Suquand"
- ITHORIAN_CHR_surrep: "Surrep"
- ITHORIAN_CHR_sutmani: "Sutmani"
- ITHORIAN_CHR_tal_soten: "Tal-Soten"
- ITHORIAN_CHR_tann: "Tann"
- ITHORIAN_CHR_terlq: "Terlq"
- ITHORIAN_CHR_haaot: "Haaot"
- ITHORIAN_CHR_utral: "Utral"
- ITHORIAN_CHR_va_new: "Va'new"
- ITHORIAN_CHR_venithon: "Venithon"
- ITHORIAN_CHR_waoabi: "Waoabi"
- ITHORIAN_CHR_wertka: "Wertka"
- ITHORIAN_CHR_wogawa: "Wogawa"
- ITHORIAN_CHR_zanedi: "Zanedi"
- ITHORIAN_CHR_zorneth: "Zorneth"
+  ITHORIAN_halcyon: "Безмятежный" #NT!
+  ITHORIAN_longspur: "Подорожник" #NT!
+  ITHORIAN_itinerant: "Кочующий" #NT!
+  ITHORIAN_wayfarer: "Путник" #NT!
+  ITHORIAN_wanderer: "Скиталец" #NT!
+  ITHORIAN_roamer: "Бродяга" #NT!
+  ITHORIAN_farstrike: "Дальний удар" #NT!
+  ITHORIAN_brawler: "Буян" #NT!
+  ITHORIAN_brazen: "Наглый" #NT!
+  ITHORIAN_representative: "Делегат" #NT!
+  ITHORIAN_threkin: "Трекин" #NT!
+  ITHORIAN_geedon: "Гидон" #NT!
+  ITHORIAN_glaser: "Стекольщик" #NT!
+  ITHORIAN_glazer: "Глейзер" #NT!
+  ITHORIAN_godar: "Годар" #NT!
+  ITHORIAN_grappler: "Борец" #NT!
+  ITHORIAN_habatok: "Хабаток" #NT!
+  ITHORIAN_halifax: "Галифакс" #NT!
+  ITHORIAN_howlrunner: "Тоннельщик" #NT!
+  ITHORIAN_hyko: "Хайко" #NT!
+  ITHORIAN_intrepid: "Бестрепетный" #NT!
+  ITHORIAN_indefatigable: "Неутомимый" #NT!
+  ITHORIAN_vindicator: "Виндикатор" #NT!
+  ITHORIAN_blethyline: "Блетилин" #NT!
+  ITHORIAN_canoid: "Каноид" #NT!
+  ITHORIAN_banshee: "Банши" #NT!
+  ITHORIAN_victory: "Победа" #NT!
+  ITHORIAN_success: "Успех" #NT!
+  ITHORIAN_triumph: "Триумф" #NT!
+  ITHORIAN_titan: "Титан" #NT!
+  ITHORIAN_harrower: "Рассекатель" #NT!
+  ITHORIAN_raider: "Налетчик" #NT!
+  ITHORIAN_nebula: "Туманность" #NT!
+  ITHORIAN_dauntless: "Бесстрашный" #NT!
+  ITHORIAN_providence: "Провидение" #NT!
+  ITHORIAN_subjugator: "Покоритель" #NT!
+  ITHORIAN_conqueror: "Завоеватель" #NT!
+  ITHORIAN_crusader: "Крестоносец" #NT!
+  ITHORIAN_glory: "Слава" #NT!
+  ITHORIAN_immortal: "Бессмертный" #NT!
+  ITHORIAN_judicator: "Вершитель" #NT!
+  ITHORIAN_vanguard: "Авангард" #NT!
+  ITHORIAN_renown: "Признание" #NT!
+  ITHORIAN_demolisher: "Уничтожитель" #NT!
+  ITHORIAN_storm: "Шторм" #NT!
+  ITHORIAN_stormstrike: "Удар бури" #NT!
+  ITHORIAN_striker: "Ударный" #NT!
+  ITHORIAN_sundog: "Ложное солнце" #NT!
+  ITHORIAN_talon: "Коготь" #NT!
+  ITHORIAN_thrasher: "Молотильщик" #NT!
+  ITHORIAN_thunder: "Гром" #NT!
+  ITHORIAN_thunderstrike: "Раскат грома" #NT!
+  ITHORIAN_purrgil: "Пёрргил" #NT!
+  ITHORIAN_barloz: "Барлоз" #NT!
+  ITHORIAN_bulk: "Объёмный" #NT!
+  ITHORIAN_bursa: "Бурса" #NT!
+  ITHORIAN_bulwark: "Оплот" #NT!
+  ITHORIAN_invincible: "Неукротимый" #NT!
+  ITHORIAN_valor: "Доблесть" #NT!
+  ITHORIAN_hammer: "Молот" #NT!
+  ITHORIAN_sword: "Меч" #NT!
+  ITHORIAN_shield: "Щит" #NT!
+  ITHORIAN_brigand: "Разбойник" #NT!
+  ITHORIAN_praetorian: "Преторианец" #NT!
+  ITHORIAN_lictor: "Ликтор" #NT!
+  ITHORIAN_starlight: "Звёздный свет" #NT!
+  ITHORIAN_dreadnaught: "Дредноут" #NT!
+  ITHORIAN_vainglorious: "Тщеславный" #NT!
+  ITHORIAN_tarvix: "Тарвикс" #NT!
+  ITHORIAN_drexl: "Дрексл" #NT!
+  ITHORIAN_rothana: "Ротана" #NT!
+  ITHORIAN_balmorra: "Балморра" #NT!
+  ITHORIAN_lormar: "Лормар" #NT!
+  ITHORIAN_lupus: "Люпус" #NT!
+  ITHORIAN_onager: "Онагр" #NT!
+  ITHORIAN_pursuit: "Погоня" #NT!
+  ITHORIAN_bavos: "Бавос" #NT!
+  ITHORIAN_munifex: "Мунифекс" #NT!
+  ITHORIAN_mudhorn: "Грязерог" #NT!
+  ITHORIAN_gundark: "Гандарк" #NT!
+  ITHORIAN_vaya: "Вайя" #NT!
+  ITHORIAN_heraklon: "Ираклион" #NT!
+  ITHORIAN_core_systems: "Основные галактические системы" #NT!
+  ITHORIAN_atgeir: "Атгейр" #NT!
+  ITHORIAN_flurry_of_bolts: "Шквал молний" #NT!
+  ITHORIAN_dirty_kick: "Подлый удар" #NT!
+  ITHORIAN_vital_shot: "Смертельный выстрел" #NT!
+  ITHORIAN_quick_shot: "Быстрый выстрел" #NT!
+  ITHORIAN_all_in: "Всё включено" #NT!
+  ITHORIAN_eagle_5: "Орёл 5" #NT!
+  ITHORIAN_lucky_dodge: "Удачный уворот" #NT!
+  ITHORIAN_shoot_first: "Стреляй первым" #NT!
+  ITHORIAN_nice_try: "Хорошая попытка" #NT!
+  ITHORIAN_open_wound: "Рваная рана" #NT!
+  ITHORIAN_mortal_wound: "Смертельная рана" #NT!
+  ITHORIAN_dirty_trickster: "Подлый трюкач" #NT!
+  ITHORIAN_feelin__woozy: "Одурманивание" #NT!
+  ITHORIAN_sneaky: "Скрытный" #NT!
+  ITHORIAN_scrappy: "Задиристый" #NT!
+  ITHORIAN_shifty_eyed: "Косой взгляд" #NT!
+  ITHORIAN_fight_or_flight: "Бей или беги" #NT!
+  ITHORIAN_slippery_devil: "Скользкий дьявол" #NT!
+  ITHORIAN_rolling_punches: "Избегающий ударов" #NT!
+  ITHORIAN_surprise_come: "Неожиданное возвращение" #NT!
+  ITHORIAN_round_two: "Второй раунд" #NT!
+  ITHORIAN_stopping_power: "Сдерживающая сила" #NT!
+  ITHORIAN_brawler_s_gift: "Подарок бойца" #NT!
+  ITHORIAN_loth_wolf: "Лот-волк" #NT!
+  ITHORIAN_demon_moon: "Демон-луна" #NT!
+  ITHORIAN_spice_runner: "Перевозчик спайса" #NT!
+  ITHORIAN_class_1000: "Класс 1000" #NT!
+  ITHORIAN_neutron_star: "Нейтронная звезда" #NT!
+  ITHORIAN_loth_cat: "Лот-кот" #NT!
+  ITHORIAN_tusk_cat: "Бивнекот" #NT!
+  ITHORIAN_rancor: "Ранкор" #NT!
+  ITHORIAN_dewback: "Рососпинник" #NT!
+  ITHORIAN_exogorth: "Экзогорт" #NT!
+  ITHORIAN_neebray: "Нибрай" #NT!
+  ITHORIAN_mynock: "Майнок" #NT!
+  ITHORIAN_barri: "Барри" #NT!
+  ITHORIAN_gralloc: "Граллок" #NT!
+  ITHORIAN_grutchin: "Гратчин" #NT!
+  ITHORIAN_oswaft: "Освафт" #NT!
+  ITHORIAN_ridadi: "Ридади" #NT!
+  ITHORIAN_scree: "Скри" #NT!
+  ITHORIAN_space_grazer: "Космический пожиратель" #NT!
+  ITHORIAN_stillsail: "Плавучий парус" #NT!
+  ITHORIAN_FLEET_SEQUENTIAL_ithorian_defense_fleet: "$ORD$ Флот обороны иторианцев" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_ithorian_planetary_guard: "$ORD$ Планетарная гвардия иторианцев" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_ithorian_infantry_company: "$ORD$ Пехотная рота иторианцев" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Рабы" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Батальон клонов" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Взвод боевых дроидов" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Воины Силы" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  ITHORIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Евгенический авангард" #NT!
+  ITHORIAN_CHR_nareen: "Nareen" #NT!
+  ITHORIAN_CHR_byd: "Byd" #NT!
+  ITHORIAN_CHR_pato: "Pato" #NT!
+  ITHORIAN_CHR_aboo: "Aboo" #NT!
+  ITHORIAN_CHR_ool: "Ool" #NT!
+  ITHORIAN_CHR_tenadu: "Tenadu" #NT!
+  ITHORIAN_CHR_gammit: "Gammit" #NT!
+  ITHORIAN_CHR_roron: "Roron" #NT!
+  ITHORIAN_CHR_ixxis: "Ixxis" #NT!
+  ITHORIAN_CHR_jawiin: "Jawiin" #NT!
+  ITHORIAN_CHR_murr: "Murr" #NT!
+  ITHORIAN_CHR_essic: "Essic" #NT!
+  ITHORIAN_CHR_hukowl: "Hukowl" #NT!
+  ITHORIAN_CHR_disch_l: "Disch'l" #NT!
+  ITHORIAN_CHR_mellaw: "Mellaw" #NT!
+  ITHORIAN_CHR_tredo: "Tredo" #NT!
+  ITHORIAN_CHR_tolad: "Tolad" #NT!
+  ITHORIAN_CHR_worror: "Worror" #NT!
+  ITHORIAN_CHR_drov: "Drov" #NT!
+  ITHORIAN_CHR_egdir: "Egdir" #NT!
+  ITHORIAN_CHR_eikkel: "Eikkel" #NT!
+  ITHORIAN_CHR_tomla: "Tomla" #NT!
+  ITHORIAN_CHR_ire: "Ire" #NT!
+  ITHORIAN_CHR_belabeau: "Belabeau" #NT!
+  ITHORIAN_CHR_ulo: "Ulo" #NT!
+  ITHORIAN_CHR_vanster: "Vanster" #NT!
+  ITHORIAN_CHR_vareesa: "Vareesa" #NT!
+  ITHORIAN_CHR_eozlin: "Eozlin" #NT!
+  ITHORIAN_CHR_farfer: "Farfer" #NT!
+  ITHORIAN_CHR_farnsworth: "Farnsworth" #NT!
+  ITHORIAN_CHR_faztoon: "Faztoon" #NT!
+  ITHORIAN_CHR_goonawaro: "Goonawaro" #NT!
+  ITHORIAN_CHR_gozubb: "Gozubb" #NT!
+  ITHORIAN_CHR_graw: "Graw" #NT!
+  ITHORIAN_CHR_olnom: "Olnom" #NT!
+  ITHORIAN_CHR_chodo: "Chodo" #NT!
+  ITHORIAN_CHR_ormo: "Ormo" #NT!
+  ITHORIAN_CHR_herf: "Herf" #NT!
+  ITHORIAN_CHR_i_klee_trao: "I'klee'trao" #NT!
+  ITHORIAN_CHR_idau: "Idau" #NT!
+  ITHORIAN_CHR_iggjel: "Iggjel" #NT!
+  ITHORIAN_CHR_boma: "Boma" #NT!
+  ITHORIAN_CHR_ish_tay: "Ish'tay" #NT!
+  ITHORIAN_CHR_yortal: "Yortal" #NT!
+  ITHORIAN_CHR_ixsthmus: "Ixsthmus" #NT!
+  ITHORIAN_CHR_jerru: "Jerru" #NT!
+  ITHORIAN_CHR_jhaffus: "Jhaffus" #NT!
+  ITHORIAN_CHR_jho: "Jho" #NT!
+  ITHORIAN_CHR_yuka: "Yuka" #NT!
+  ITHORIAN_CHR_mawdo: "Mawdo" #NT!
+  ITHORIAN_CHR_lasavvou: "Lasavvou" #NT!
+  ITHORIAN_CHR_rance: "Rance" #NT!
+  ITHORIAN_CHR_wallaw: "Wallaw" #NT!
+  ITHORIAN_CHR_erd: "Erd" #NT!
+  ITHORIAN_CHR_plu: "Plu" #NT!
+  ITHORIAN_CHR_omow: "Omow" #NT!
+  ITHORIAN_CHR_queedle: "Queedle" #NT!
+  ITHORIAN_CHR_tamaab: "Tamaab" #NT!
+  ITHORIAN_CHR_del: "Del" #NT!
+  ITHORIAN_CHR_dob: "Dob" #NT!
+  ITHORIAN_CHR_oorrl: "Oorrl" #NT!
+  ITHORIAN_CHR_mowan: "Mowan" #NT!
+  ITHORIAN_CHR_moza: "Moza" #NT!
+  ITHORIAN_CHR_do_forow: "Do-Forow" #NT!
+  ITHORIAN_CHR_momaw: "Momaw" #NT!
+  ITHORIAN_CHR_tendau: "Tendau" #NT!
+  ITHORIAN_CHR_ezam: "Ezam" #NT!
+  ITHORIAN_CHR_noga_ta: "Noga-ta" #NT!
+  ITHORIAN_CHR_nok: "Nok" #NT!
+  ITHORIAN_CHR_foj: "Foj" #NT!
+  ITHORIAN_CHR_nongta: "Nongta" #NT!
+  ITHORIAN_CHR_obba: "Obba" #NT!
+  ITHORIAN_CHR_odimas: "Odimas" #NT!
+  ITHORIAN_CHR_odu: "Odu" #NT!
+  ITHORIAN_CHR_oecax: "Oecax" #NT!
+  ITHORIAN_CHR_omwaan: "Omwaan" #NT!
+  ITHORIAN_CHR_onca: "Onca" #NT!
+  ITHORIAN_CHR_oosea: "Oosea" #NT!
+  ITHORIAN_CHR_oraltor: "Oraltor" #NT!
+  ITHORIAN_CHR_naneb: "Naneb" #NT!
+  ITHORIAN_CHR_phontos: "Phontos" #NT!
+  ITHORIAN_CHR_poliss: "Poliss" #NT!
+  ITHORIAN_CHR_pwwoz: "Pwwoz" #NT!
+  ITHORIAN_CHR_pypey: "Pypey" #NT!
+  ITHORIAN_CHR_quilljayk: "Quilljayk" #NT!
+  ITHORIAN_CHR_choza: "Choza" #NT!
+  ITHORIAN_CHR_regga: "Regga" #NT!
+  ITHORIAN_CHR_rethorn: "Rethorn" #NT!
+  ITHORIAN_CHR_clento: "Clento" #NT!
+  ITHORIAN_CHR_roogak: "Roogak" #NT!
+  ITHORIAN_CHR_saldith: "Saldith" #NT!
+  ITHORIAN_CHR_dorthu: "Dorthu" #NT!
+  ITHORIAN_CHR_bersin: "Bersin" #NT!
+  ITHORIAN_CHR_mok: "Mok" #NT!
+  ITHORIAN_CHR_breac: "Breac" #NT!
+  ITHORIAN_CHR_snaplaunce: "Snaplaunce" #NT!
+  ITHORIAN_CHR_marg: "Marg" #NT!
+  ITHORIAN_CHR_sprool: "Sprool" #NT!
+  ITHORIAN_CHR_stonk: "Stonk" #NT!
+  ITHORIAN_CHR_andar: "Andar" #NT!
+  ITHORIAN_CHR_ben: "Ben" #NT!
+  ITHORIAN_CHR_mikkel: "Mikkel" #NT!
+  ITHORIAN_CHR_syr: "Syr" #NT!
+  ITHORIAN_CHR_methwat: "Methwat" #NT!
+  ITHORIAN_CHR_lowban: "Lowban" #NT!
+  ITHORIAN_CHR_thulls: "Thulls" #NT!
+  ITHORIAN_CHR_tiethiagg: "Tiethiagg" #NT!
+  ITHORIAN_CHR_tomo: "Tomo" #NT!
+  ITHORIAN_CHR_nu: "Nu" #NT!
+  ITHORIAN_CHR_tramulek: "Tramulek" #NT!
+  ITHORIAN_CHR_truno: "Truno" #NT!
+  ITHORIAN_CHR_urtuaa: "Urtuaa" #NT!
+  ITHORIAN_CHR_fazza: "Fazza" #NT!
+  ITHORIAN_CHR_veer: "Veer" #NT!
+  ITHORIAN_CHR_vellna: "Vellna" #NT!
+  ITHORIAN_CHR_dorin: "Dorin" #NT!
+  ITHORIAN_CHR_denuab: "Denuab" #NT!
+  ITHORIAN_CHR_vlohei: "Vlohei" #NT!
+  ITHORIAN_CHR_vommb: "Vommb" #NT!
+  ITHORIAN_CHR_ooamu: "Ooamu" #NT!
+  ITHORIAN_CHR_werrera: "Werrera" #NT!
+  ITHORIAN_CHR_janos: "Janos" #NT!
+  ITHORIAN_CHR_whuvumm: "Whuvumm" #NT!
+  ITHORIAN_CHR_oro: "Oro" #NT!
+  ITHORIAN_CHR_womwa: "Womwa" #NT!
+  ITHORIAN_CHR_worlohp: "Worlohp" #NT!
+  ITHORIAN_CHR_yatter: "Yatter" #NT!
+  ITHORIAN_CHR_yindo: "Yindo" #NT!
+  ITHORIAN_CHR_yomo: "Yomo" #NT!
+  ITHORIAN_CHR_ysho: "Ysho" #NT!
+  ITHORIAN_CHR_t_licl: "T'licl" #NT!
+  ITHORIAN_CHR_flen: "Flen" #NT!
+  ITHORIAN_CHR_gillom: "Gillom" #NT!
+  ITHORIAN_CHR_boolon: "Boolon" #NT!
+  ITHORIAN_CHR_neelig: "Neelig" #NT!
+  ITHORIAN_CHR_waawat: "Waawat" #NT!
+  ITHORIAN_CHR_aamaw: "Aamaw" #NT!
+  ITHORIAN_CHR_deneb: "Deneb" #NT!
+  ITHORIAN_CHR_torsha: "Torsha" #NT!
+  ITHORIAN_CHR_eeksa: "Eeksa" #NT!
+  ITHORIAN_CHR_slag: "Slag" #NT!
+  ITHORIAN_CHR_hoolar: "Hoolar" #NT!
+  ITHORIAN_CHR_gebs: "Gebs" #NT!
+  ITHORIAN_CHR_guerglenar: "Guerglenar" #NT!
+  ITHORIAN_CHR_heltiss: "Heltiss" #NT!
+  ITHORIAN_CHR_chandra: "Chandra" #NT!
+  ITHORIAN_CHR_houlilan: "Houlilan" #NT!
+  ITHORIAN_CHR_ror: "Ror" #NT!
+  ITHORIAN_CHR_iych_thae: "Iych-thae" #NT!
+  ITHORIAN_CHR_jwartek: "Jwartek" #NT!
+  ITHORIAN_CHR_soshu: "Soshu" #NT!
+  ITHORIAN_CHR_kaddo: "Kaddo" #NT!
+  ITHORIAN_CHR_umwaw: "Umwaw" #NT!
+  ITHORIAN_CHR_ma: "Ma" #NT!
+  ITHORIAN_CHR_fren: "Fren" #NT!
+  ITHORIAN_CHR_oko_po: "Oko-Po" #NT!
+  ITHORIAN_CHR_oora: "Oora" #NT!
+  ITHORIAN_CHR_pjolan: "Pjolan" #NT!
+  ITHORIAN_CHR_murne: "Murne" #NT!
+  ITHORIAN_CHR_thanek: "Thanek" #NT!
+  ITHORIAN_CHR_toreena: "Toreena" #NT!
+  ITHORIAN_CHR_uublu: "Uublu" #NT!
+  ITHORIAN_CHR_amyva: "Amyva" #NT!
+  ITHORIAN_CHR_vannotte: "Vannotte" #NT!
+  ITHORIAN_CHR_visfuu: "Visfuu" #NT!
+  ITHORIAN_CHR_cellwan: "Cellwan" #NT!
+  ITHORIAN_CHR_haali: "Haali" #NT!
+  ITHORIAN_CHR_ivuur: "Ivuur" #NT!
+  ITHORIAN_CHR_oovei: "Oovei" #NT!
+  ITHORIAN_CHR_vonnuvi: "Vonnuvi" #NT!
+  ITHORIAN_CHR_wimmel: "Wimmel" #NT!
+  ITHORIAN_CHR_aarrom: "Aarrom" #NT!
+  ITHORIAN_CHR_ado: "Ado" #NT!
+  ITHORIAN_CHR_aloor: "Aloor" #NT!
+  ITHORIAN_CHR_ansh: "Ansh" #NT!
+  ITHORIAN_CHR_aramflahad: "Aramflahad" #NT!
+  ITHORIAN_CHR_awmod: "Awmod" #NT!
+  ITHORIAN_CHR_balunta: "Balunta" #NT!
+  ITHORIAN_CHR_batik: "Batik" #NT!
+  ITHORIAN_CHR_bendon: "Bendon" #NT!
+  ITHORIAN_CHR_bluebrow: "Bluebrow" #NT!
+  ITHORIAN_CHR_bolo: "Bolo" #NT!
+  ITHORIAN_CHR_borrosel: "Borrosel" #NT!
+  ITHORIAN_CHR_both: "Both" #NT!
+  ITHORIAN_CHR_bulduga: "Bulduga" #NT!
+  ITHORIAN_CHR_byph: "Byph" #NT!
+  ITHORIAN_CHR_cale: "Cale" #NT!
+  ITHORIAN_CHR_capreese: "Capreese" #NT!
+  ITHORIAN_CHR_chillings: "Chillings" #NT!
+  ITHORIAN_CHR_chond: "Chond" #NT!
+  ITHORIAN_CHR_corobb: "Corobb" #NT!
+  ITHORIAN_CHR_cranata: "Cranata" #NT!
+  ITHORIAN_CHR_danod: "Danod" #NT!
+  ITHORIAN_CHR_daroom: "Daroom" #NT!
+  ITHORIAN_CHR_dawun: "Dawun" #NT!
+  ITHORIAN_CHR_an_devi: "An Devi" #NT!
+  ITHORIAN_CHR_doowon: "Doowon" #NT!
+  ITHORIAN_CHR_dopra: "Dopra" #NT!
+  ITHORIAN_CHR_dor: "Dor" #NT!
+  ITHORIAN_CHR_dowmat: "Dowmat" #NT!
+  ITHORIAN_CHR_draknus: "Draknus" #NT!
+  ITHORIAN_CHR_el: "El" #NT!
+  ITHORIAN_CHR_eleazari: "Eleazari" #NT!
+  ITHORIAN_CHR_enan: "Enan" #NT!
+  ITHORIAN_CHR_fissol: "Fissol" #NT!
+  ITHORIAN_CHR_flats: "Flats" #NT!
+  ITHORIAN_CHR_freeb: "Freeb" #NT!
+  ITHORIAN_CHR_gilloma: "Gilloma" #NT!
+  ITHORIAN_CHR_grilnor: "Grilnor" #NT!
+  ITHORIAN_CHR_habat: "Habat" #NT!
+  ITHORIAN_CHR_haddon: "Haddon" #NT!
+  ITHORIAN_CHR_hobat: "Hobat" #NT!
+  ITHORIAN_CHR_inondo: "Inondo" #NT!
+  ITHORIAN_CHR_ithh: "Ithh" #NT!
+  ITHORIAN_CHR_ixlis: "Ixlis" #NT!
+  ITHORIAN_CHR_jakker_sun: "Jakker-Sun" #NT!
+  ITHORIAN_CHR_laka: "Laka" #NT!
+  ITHORIAN_CHR_larrth: "Larrth" #NT!
+  ITHORIAN_CHR_lojo: "Lojo" #NT!
+  ITHORIAN_CHR_londahl: "Londahl" #NT!
+  ITHORIAN_CHR_loowobbli: "Loowobbli" #NT!
+  ITHORIAN_CHR_lumas: "Lumas" #NT!
+  ITHORIAN_CHR_markeela: "Markeela" #NT!
+  ITHORIAN_CHR_moder: "Moder" #NT!
+  ITHORIAN_CHR_moll: "Moll" #NT!
+  ITHORIAN_CHR_molto: "Molto" #NT!
+  ITHORIAN_CHR_moolis: "Moolis" #NT!
+  ITHORIAN_CHR_moomo: "Moomo" #NT!
+  ITHORIAN_CHR_morm: "Morm" #NT!
+  ITHORIAN_CHR_mowadan: "Mowadan" #NT!
+  ITHORIAN_CHR_nadon: "Nadon" #NT!
+  ITHORIAN_CHR_nhor: "Nhor" #NT!
+  ITHORIAN_CHR_nomag: "Nomag" #NT!
+  ITHORIAN_CHR_nurook: "Nurook" #NT!
+  ITHORIAN_CHR_ojo: "Ojo" #NT!
+  ITHORIAN_CHR_pefan: "Pefan" #NT!
+  ITHORIAN_CHR_pwwa: "Pwwa" #NT!
+  ITHORIAN_CHR_raabat: "Raabat" #NT!
+  ITHORIAN_CHR_rill: "Rill" #NT!
+  ITHORIAN_CHR_rin: "Rin" #NT!
+  ITHORIAN_CHR_rone: "Rone" #NT!
+  ITHORIAN_CHR_santim: "Santim" #NT!
+  ITHORIAN_CHR_sekolah: "Sekolah" #NT!
+  ITHORIAN_CHR_shaiz: "Shaiz" #NT!
+  ITHORIAN_CHR_slaus: "Slaus" #NT!
+  ITHORIAN_CHR_sonat: "Sonat" #NT!
+  ITHORIAN_CHR_suquand: "Suquand" #NT!
+  ITHORIAN_CHR_surrep: "Surrep" #NT!
+  ITHORIAN_CHR_sutmani: "Sutmani" #NT!
+  ITHORIAN_CHR_tal_soten: "Tal-Soten" #NT!
+  ITHORIAN_CHR_tann: "Tann" #NT!
+  ITHORIAN_CHR_terlq: "Terlq" #NT!
+  ITHORIAN_CHR_haaot: "Haaot" #NT!
+  ITHORIAN_CHR_utral: "Utral" #NT!
+  ITHORIAN_CHR_va_new: "Va'new" #NT!
+  ITHORIAN_CHR_venithon: "Venithon" #NT!
+  ITHORIAN_CHR_waoabi: "Waoabi" #NT!
+  ITHORIAN_CHR_wertka: "Wertka" #NT!
+  ITHORIAN_CHR_wogawa: "Wogawa" #NT!
+  ITHORIAN_CHR_zanedi: "Zanedi" #NT!
+  ITHORIAN_CHR_zorneth: "Zorneth" #NT!

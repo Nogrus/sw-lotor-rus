@@ -1,350 +1,350 @@
 ﻿l_russian:
- DEVARONIAN_halcyon: "Halcyon"
- DEVARONIAN_longspur: "Longspur"
- DEVARONIAN_itinerant: "Itinerant"
- DEVARONIAN_wayfarer: "Wayfarer"
- DEVARONIAN_wanderer: "Wanderer"
- DEVARONIAN_roamer: "Roamer"
- DEVARONIAN_farstrike: "Farstrike"
- DEVARONIAN_brawler: "Brawler"
- DEVARONIAN_brazen: "Brazen"
- DEVARONIAN_representative: "Representative"
- DEVARONIAN_threkin: "Threkin"
- DEVARONIAN_geedon: "Geedon"
- DEVARONIAN_glaser: "Glaser"
- DEVARONIAN_glazer: "Glazer"
- DEVARONIAN_godar: "Godar"
- DEVARONIAN_grappler: "Grappler"
- DEVARONIAN_habatok: "Habatok"
- DEVARONIAN_halifax: "Halifax"
- DEVARONIAN_howlrunner: "Howlrunner"
- DEVARONIAN_hyko: "Hyko"
- DEVARONIAN_intrepid: "Intrepid"
- DEVARONIAN_indefatigable: "Indefatigable"
- DEVARONIAN_vindicator: "Vindicator"
- DEVARONIAN_blethyline: "Blethyline"
- DEVARONIAN_canoid: "Canoid"
- DEVARONIAN_banshee: "Banshee"
- DEVARONIAN_victory: "Victory"
- DEVARONIAN_success: "Success"
- DEVARONIAN_triumph: "Triumph"
- DEVARONIAN_titan: "Titan"
- DEVARONIAN_harrower: "Harrower"
- DEVARONIAN_raider: "Raider"
- DEVARONIAN_nebula: "Nebula"
- DEVARONIAN_dauntless: "Dauntless"
- DEVARONIAN_providence: "Providence"
- DEVARONIAN_subjugator: "Subjugator"
- DEVARONIAN_conqueror: "Conqueror"
- DEVARONIAN_crusader: "Crusader"
- DEVARONIAN_glory: "Glory"
- DEVARONIAN_immortal: "Immortal"
- DEVARONIAN_judicator: "Judicator"
- DEVARONIAN_vanguard: "Vanguard"
- DEVARONIAN_renown: "Renown"
- DEVARONIAN_demolisher: "Demolisher"
- DEVARONIAN_storm: "Storm"
- DEVARONIAN_stormstrike: "Stormstrike"
- DEVARONIAN_striker: "Striker"
- DEVARONIAN_sundog: "Sundog"
- DEVARONIAN_talon: "Talon"
- DEVARONIAN_thrasher: "Thrasher"
- DEVARONIAN_thunder: "Thunder"
- DEVARONIAN_thunderstrike: "Thunderstrike"
- DEVARONIAN_purrgil: "Purrgil"
- DEVARONIAN_barloz: "Barloz"
- DEVARONIAN_bulk: "Bulk"
- DEVARONIAN_bursa: "Bursa"
- DEVARONIAN_bulwark: "Bulwark"
- DEVARONIAN_invincible: "Invincible"
- DEVARONIAN_valor: "Valor"
- DEVARONIAN_hammer: "Hammer"
- DEVARONIAN_sword: "Sword"
- DEVARONIAN_shield: "Shield"
- DEVARONIAN_brigand: "Brigand"
- DEVARONIAN_praetorian: "Praetorian"
- DEVARONIAN_lictor: "Lictor"
- DEVARONIAN_starlight: "Starlight"
- DEVARONIAN_dreadnaught: "Dreadnaught"
- DEVARONIAN_vainglorious: "Vainglorious"
- DEVARONIAN_tarvix: "Tarvix"
- DEVARONIAN_drexl: "Drexl"
- DEVARONIAN_rothana: "Rothana"
- DEVARONIAN_balmorra: "Balmorra"
- DEVARONIAN_lormar: "Lormar"
- DEVARONIAN_lupus: "Lupus"
- DEVARONIAN_onager: "Onager"
- DEVARONIAN_pursuit: "Pursuit"
- DEVARONIAN_bavos: "Bavos"
- DEVARONIAN_munifex: "Munifex"
- DEVARONIAN_mudhorn: "Mudhorn"
- DEVARONIAN_gundark: "Gundark"
- DEVARONIAN_vaya: "Vaya"
- DEVARONIAN_heraklon: "Heraklon"
- DEVARONIAN_core_systems: "Core Galaxy Systems"
- DEVARONIAN_atgeir: "Atgeir"
- DEVARONIAN_flurry_of_bolts: "Flurry of Bolts"
- DEVARONIAN_dirty_kick: "Dirty Kick"
- DEVARONIAN_vital_shot: "Vital Shot"
- DEVARONIAN_quick_shot: "Quick Shot"
- DEVARONIAN_all_in: "All In"
- DEVARONIAN_eagle_5: "Eagle 5"
- DEVARONIAN_lucky_dodge: "Lucky Dodge"
- DEVARONIAN_shoot_first: "Shoot First"
- DEVARONIAN_nice_try: "Nice Try"
- DEVARONIAN_open_wound: "Open Wound"
- DEVARONIAN_mortal_wound: "Mortal Wound"
- DEVARONIAN_dirty_trickster: "Dirty Trickster"
- DEVARONIAN_feelin__woozy: "Feelin' Woozy"
- DEVARONIAN_sneaky: "Sneaky"
- DEVARONIAN_scrappy: "Scrappy"
- DEVARONIAN_shifty_eyed: "Shifty-Eyed"
- DEVARONIAN_fight_or_flight: "Fight or Flight"
- DEVARONIAN_slippery_devil: "Slippery Devil"
- DEVARONIAN_rolling_punches: "Rolling Punches"
- DEVARONIAN_surprise_come: "Surprise Comeback"
- DEVARONIAN_round_two: "Round Two"
- DEVARONIAN_stopping_power: "Stopping Power"
- DEVARONIAN_brawler_s_gift: "Brawler's Gift"
- DEVARONIAN_loth_wolf: "Loth Wolf"
- DEVARONIAN_demon_moon: "Demon Moon"
- DEVARONIAN_spice_runner: "Spice Runner"
- DEVARONIAN_class_1000: "Class 1000"
- DEVARONIAN_neutron_star: "Neutron Star"
- DEVARONIAN_loth_cat: "Loth Cat"
- DEVARONIAN_tusk_cat: "Tusk Cat"
- DEVARONIAN_rancor: "Rancor"
- DEVARONIAN_dewback: "Dewback"
- DEVARONIAN_exogorth: "Exogorth"
- DEVARONIAN_neebray: "Neebray"
- DEVARONIAN_mynock: "Mynock"
- DEVARONIAN_barri: "Barri"
- DEVARONIAN_gralloc: "Gralloc"
- DEVARONIAN_grutchin: "Grutchin"
- DEVARONIAN_oswaft: "Oswaft"
- DEVARONIAN_ridadi: "Ridadi"
- DEVARONIAN_scree: "Scree"
- DEVARONIAN_space_grazer: "Space Grazer"
- DEVARONIAN_stillsail: "Stillsail"
- DEVARONIAN_FLEET_SEQUENTIAL_devaronian_defense_fleet: "$ORD$ Devaronian Defense Fleet"
- DEVARONIAN_ARMY_SEQUENTIAL_devaronian_planetary_guard: "$ORD$ Devaronian Planetary Guard"
- DEVARONIAN_ARMY_SEQUENTIAL_devaronian_infantry_company: "$ORD$ Devaronian Infantry Company"
- DEVARONIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- DEVARONIAN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- DEVARONIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- DEVARONIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- DEVARONIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- DEVARONIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- DEVARONIAN_CHR_aterph: "Aterph"
- DEVARONIAN_CHR_au: "Au"
- DEVARONIAN_CHR_oggun: "Oggun"
- DEVARONIAN_CHR_belial: "Belial"
- DEVARONIAN_CHR_bellon: "Bellon"
- DEVARONIAN_CHR_drikall: "Drikall"
- DEVARONIAN_CHR_biurk: "Biurk"
- DEVARONIAN_CHR_burg: "Burg"
- DEVARONIAN_CHR_mok: "Mok"
- DEVARONIAN_CHR_canno: "Canno"
- DEVARONIAN_CHR_cartariun: "Cartariun"
- DEVARONIAN_CHR_chamma: "Chamma"
- DEVARONIAN_CHR_midgoss: "Midgoss"
- DEVARONIAN_CHR_kapp: "Kapp"
- DEVARONIAN_CHR_djarri: "Djarri"
- DEVARONIAN_CHR_ranon: "Ranon"
- DEVARONIAN_CHR_roland: "Roland"
- DEVARONIAN_CHR_fidaval: "Fidaval"
- DEVARONIAN_CHR_fontis: "Fontis"
- DEVARONIAN_CHR_bendu: "Bendu"
- DEVARONIAN_CHR_vilus: "Vilus"
- DEVARONIAN_CHR_gat: "Gat"
- DEVARONIAN_CHR_vin: "Vin"
- DEVARONIAN_CHR_viron: "Viron"
- DEVARONIAN_CHR_gholan: "Gholan"
- DEVARONIAN_CHR_ghoss: "Ghoss"
- DEVARONIAN_CHR_gideon: "Gideon"
- DEVARONIAN_CHR_gnarkh: "Gnarkh"
- DEVARONIAN_CHR_kant: "Kant"
- DEVARONIAN_CHR_holmar: "Holmar"
- DEVARONIAN_CHR_olmar: "Olmar"
- DEVARONIAN_CHR_vilmarh: "Vilmarh"
- DEVARONIAN_CHR_guzald: "Guzald"
- DEVARONIAN_CHR_harthusa: "Harthusa"
- DEVARONIAN_CHR_gev: "Gev"
- DEVARONIAN_CHR_duna: "Duna"
- DEVARONIAN_CHR_hivrekh: "Hivrekh"
- DEVARONIAN_CHR_chax: "Chax"
- DEVARONIAN_CHR_jervett: "Jervett"
- DEVARONIAN_CHR_lak: "Lak"
- DEVARONIAN_CHR_tyrn: "Tyrn"
- DEVARONIAN_CHR_magus: "Magus"
- DEVARONIAN_CHR_jubal: "Jubal"
- DEVARONIAN_CHR_jaris: "Jaris"
- DEVARONIAN_CHR_kandhar: "Kandhar"
- DEVARONIAN_CHR_kardue: "Kardue"
- DEVARONIAN_CHR_labria: "Labria"
- DEVARONIAN_CHR_dmaynel: "Dmaynel"
- DEVARONIAN_CHR_kivas: "Kivas"
- DEVARONIAN_CHR_kleeve: "Kleeve"
- DEVARONIAN_CHR_kubla: "Kubla"
- DEVARONIAN_CHR_kurjak: "Kurjak"
- DEVARONIAN_CHR_magaran: "Magaran"
- DEVARONIAN_CHR_malefax: "Malefax"
- DEVARONIAN_CHR_manos: "Manos"
- DEVARONIAN_CHR_san: "San"
- DEVARONIAN_CHR_n_vaari: "N'Vaari"
- DEVARONIAN_CHR_oxvar: "Oxvar"
- DEVARONIAN_CHR_wuioe: "Wuioe"
- DEVARONIAN_CHR_oxbel: "Oxbel"
- DEVARONIAN_CHR_prakkath: "Prakkath"
- DEVARONIAN_CHR_quarl: "Quarl"
- DEVARONIAN_CHR_warrick: "Warrick"
- DEVARONIAN_CHR_ratheb: "Ratheb"
- DEVARONIAN_CHR_renegin: "Renegin"
- DEVARONIAN_CHR_saricia: "Saricia"
- DEVARONIAN_CHR_serak: "Serak"
- DEVARONIAN_CHR_faydo: "Faydo"
- DEVARONIAN_CHR_kelson: "Kelson"
- DEVARONIAN_CHR_shesstellek: "Shesstellek"
- DEVARONIAN_CHR_sisla: "Sisla"
- DEVARONIAN_CHR_skerrit: "Skerrit"
- DEVARONIAN_CHR_a_jidre: "A'jidre"
- DEVARONIAN_CHR_sneg: "Sneg"
- DEVARONIAN_CHR_snoo: "Snoo"
- DEVARONIAN_CHR_somareeva: "Somareeva"
- DEVARONIAN_CHR_gheedor: "Gheedor"
- DEVARONIAN_CHR_sorno: "Sorno"
- DEVARONIAN_CHR_evif: "Evif"
- DEVARONIAN_CHR_szygar: "Szygar"
- DEVARONIAN_CHR_baj: "Baj"
- DEVARONIAN_CHR_lavek: "Lavek"
- DEVARONIAN_CHR_elassar: "Elassar"
- DEVARONIAN_CHR_ellis: "Ellis"
- DEVARONIAN_CHR_burnal: "Burnal"
- DEVARONIAN_CHR_salishh: "Salishh"
- DEVARONIAN_CHR_pollo: "Pollo"
- DEVARONIAN_CHR_vaarko: "Vaarko"
- DEVARONIAN_CHR_toltek: "Toltek"
- DEVARONIAN_CHR_eteto: "Eteto"
- DEVARONIAN_CHR_tosha: "Tosha"
- DEVARONIAN_CHR_trynic: "Trynic"
- DEVARONIAN_CHR_tynial: "Tynial"
- DEVARONIAN_CHR_tyrodall: "Tyrodall"
- DEVARONIAN_CHR_vacasor: "Vacasor"
- DEVARONIAN_CHR_vachir: "Vachir"
- DEVARONIAN_CHR_sires: "Sires"
- DEVARONIAN_CHR_varak_cha: "Varak'Cha"
- DEVARONIAN_CHR_vasteg: "Vasteg"
- DEVARONIAN_CHR_veedrig: "Veedrig"
- DEVARONIAN_CHR_vik: "Vik"
- DEVARONIAN_CHR_villar: "Villar"
- DEVARONIAN_CHR_ulicx: "Ulicx"
- DEVARONIAN_CHR_cikatro: "Cikatro"
- DEVARONIAN_CHR_yelkin: "Yelkin"
- DEVARONIAN_CHR_yemm: "Yemm"
- DEVARONIAN_CHR_jith: "Jith"
- DEVARONIAN_CHR_dyat: "Dyat"
- DEVARONIAN_CHR_anirak: "Anirak"
- DEVARONIAN_CHR_aven: "Aven"
- DEVARONIAN_CHR_blue: "Blue"
- DEVARONIAN_CHR_gethnu: "Gethnu"
- DEVARONIAN_CHR_elsah: "Elsah"
- DEVARONIAN_CHR_ushka: "Ushka"
- DEVARONIAN_CHR_farnay: "Farnay"
- DEVARONIAN_CHR_merrilet: "Merrilet"
- DEVARONIAN_CHR_harun: "Harun"
- DEVARONIAN_CHR_kada: "Kada"
- DEVARONIAN_CHR_sian: "Sian"
- DEVARONIAN_CHR_jubel: "Jubel"
- DEVARONIAN_CHR_kambrea: "Kambrea"
- DEVARONIAN_CHR_kee: "Kee"
- DEVARONIAN_CHR_kiela: "Kiela"
- DEVARONIAN_CHR_labio: "Labio"
- DEVARONIAN_CHR_ladira: "Ladira"
- DEVARONIAN_CHR_sama: "Sama"
- DEVARONIAN_CHR_malincha: "Malincha"
- DEVARONIAN_CHR_rissa: "Rissa"
- DEVARONIAN_CHR_melos: "Melos"
- DEVARONIAN_CHR_mika: "Mika"
- DEVARONIAN_CHR_minn: "Minn"
- DEVARONIAN_CHR_brinaloy: "Brinaloy"
- DEVARONIAN_CHR_rorna: "Rorna"
- DEVARONIAN_CHR_sanya: "Sanya"
- DEVARONIAN_CHR_torro: "Torro"
- DEVARONIAN_CHR_shri: "Shri"
- DEVARONIAN_CHR_shri_lan: "Shri-Lan"
- DEVARONIAN_CHR_koblus: "Koblus"
- DEVARONIAN_CHR_shelta: "Shelta"
- DEVARONIAN_CHR_laqasa: "Laqasa"
- DEVARONIAN_CHR_madhi: "Madhi"
- DEVARONIAN_CHR_valoss: "Valoss"
- DEVARONIAN_CHR_carisica: "Carisica"
- DEVARONIAN_CHR_vien: "Vien"
- DEVARONIAN_CHR_vinaq: "Vinaq"
- DEVARONIAN_CHR_keelin: "Keelin"
- DEVARONIAN_CHR_zaffa: "Zaffa"
- DEVARONIAN_CHR_agni: "Agni"
- DEVARONIAN_CHR_b_ree: "B'ree"
- DEVARONIAN_CHR__sai_ulrahk: "'sai'Ulrahk"
- DEVARONIAN_CHR_bantha_horn: "Bantha-Horn"
- DEVARONIAN_CHR_bessarah: "Bessarah"
- DEVARONIAN_CHR_cadrak: "Cadrak"
- DEVARONIAN_CHR_wix: "Wix"
- DEVARONIAN_CHR_cheeve: "Cheeve"
- DEVARONIAN_CHR_d_labaninaph: "D'labaninaph"
- DEVARONIAN_CHR_dendo: "Dendo"
- DEVARONIAN_CHR_djelkh: "Djelkh"
- DEVARONIAN_CHR_durand: "Durand"
- DEVARONIAN_CHR__sai_moro: "'sai'Moro"
- DEVARONIAN_CHR_et: "Et"
- DEVARONIAN_CHR_fry: "Fry"
- DEVARONIAN_CHR_garr: "Garr"
- DEVARONIAN_CHR_gelli_an: "Gelli'an"
- DEVARONIAN_CHR_ghartoth: "Ghartoth"
- DEVARONIAN_CHR_gorron: "Gorron"
- DEVARONIAN_CHR_graf: "Graf"
- DEVARONIAN_CHR_grahrk: "Grahrk"
- DEVARONIAN_CHR_hessan: "Hessan"
- DEVARONIAN_CHR_hilaris: "Hilaris"
- DEVARONIAN_CHR__wao_cheklev: "'wao'Cheklev"
- DEVARONIAN_CHR_cheklev: "Cheklev"
- DEVARONIAN_CHR_jahr: "Jahr"
- DEVARONIAN_CHR_jeisel: "Jeisel"
- DEVARONIAN_CHR_jernil: "Jernil"
- DEVARONIAN_CHR_jit: "Jit"
- DEVARONIAN_CHR_jiton: "Jiton"
- DEVARONIAN_CHR_jocle: "Jocle"
- DEVARONIAN_CHR_kan: "Kan"
- DEVARONIAN_CHR__sai_malloc: "'sai'Malloc"
- DEVARONIAN_CHR_kiph: "Kiph"
- DEVARONIAN_CHR_macoy: "Macoy"
- DEVARONIAN_CHR_mano: "Mano"
- DEVARONIAN_CHR_maxus: "Maxus"
- DEVARONIAN_CHR_niph: "Niph"
- DEVARONIAN_CHR_opca: "Opca"
- DEVARONIAN_CHR_raden: "Raden"
- DEVARONIAN_CHR_rennow: "Rennow"
- DEVARONIAN_CHR_sbazzle: "Sbazzle"
- DEVARONIAN_CHR_sha: "Sha"
- DEVARONIAN_CHR_sharphorn: "Sharphorn"
- DEVARONIAN_CHR_lan: "Lan"
- DEVARONIAN_CHR_skrigatov: "Skrigatov"
- DEVARONIAN_CHR_sornell: "Sornell"
- DEVARONIAN_CHR_haarm: "Haarm"
- DEVARONIAN_CHR_sulp: "Sulp"
- DEVARONIAN_CHR_sune: "Sune"
- DEVARONIAN_CHR_takoon: "Takoon"
- DEVARONIAN_CHR_talstin: "Talstin"
- DEVARONIAN_CHR_targon: "Targon"
- DEVARONIAN_CHR_tarn: "Tarn"
- DEVARONIAN_CHR_terrup: "Terrup"
- DEVARONIAN_CHR_tilloman: "Tilloman"
- DEVARONIAN_CHR_tipn: "Tipn"
- DEVARONIAN_CHR_tiyai: "Tiyai"
- DEVARONIAN_CHR_topan: "Topan"
- DEVARONIAN_CHR_trill: "Trill"
- DEVARONIAN_CHR_vaandt: "Vaandt"
- DEVARONIAN_CHR_vanq: "Vanq"
- DEVARONIAN_CHR_vant: "Vant"
- DEVARONIAN_CHR_vizago: "Vizago"
- DEVARONIAN_CHR_zaariq: "Zaariq"
- DEVARONIAN_CHR_zesjoo: "Zesjoo"
+  DEVARONIAN_halcyon: "Безмятежный" #NT!
+  DEVARONIAN_longspur: "Подорожник" #NT!
+  DEVARONIAN_itinerant: "Кочующий" #NT!
+  DEVARONIAN_wayfarer: "Путник" #NT!
+  DEVARONIAN_wanderer: "Скиталец" #NT!
+  DEVARONIAN_roamer: "Бродяга" #NT!
+  DEVARONIAN_farstrike: "Дальний удар" #NT!
+  DEVARONIAN_brawler: "Буян" #NT!
+  DEVARONIAN_brazen: "Наглый" #NT!
+  DEVARONIAN_representative: "Делегат" #NT!
+  DEVARONIAN_threkin: "Трекин" #NT!
+  DEVARONIAN_geedon: "Гидон" #NT!
+  DEVARONIAN_glaser: "Стекольщик" #NT!
+  DEVARONIAN_glazer: "Глейзер" #NT!
+  DEVARONIAN_godar: "Годар" #NT!
+  DEVARONIAN_grappler: "Борец" #NT!
+  DEVARONIAN_habatok: "Хабаток" #NT!
+  DEVARONIAN_halifax: "Галифакс" #NT!
+  DEVARONIAN_howlrunner: "Тоннельщик" #NT!
+  DEVARONIAN_hyko: "Хайко" #NT!
+  DEVARONIAN_intrepid: "Бестрепетный" #NT!
+  DEVARONIAN_indefatigable: "Неутомимый" #NT!
+  DEVARONIAN_vindicator: "Виндикатор" #NT!
+  DEVARONIAN_blethyline: "Блетилин" #NT!
+  DEVARONIAN_canoid: "Каноид" #NT!
+  DEVARONIAN_banshee: "Банши" #NT!
+  DEVARONIAN_victory: "Победа" #NT!
+  DEVARONIAN_success: "Успех" #NT!
+  DEVARONIAN_triumph: "Триумф" #NT!
+  DEVARONIAN_titan: "Титан" #NT!
+  DEVARONIAN_harrower: "Рассекатель" #NT!
+  DEVARONIAN_raider: "Налетчик" #NT!
+  DEVARONIAN_nebula: "Туманность" #NT!
+  DEVARONIAN_dauntless: "Бесстрашный" #NT!
+  DEVARONIAN_providence: "Провидение" #NT!
+  DEVARONIAN_subjugator: "Покоритель" #NT!
+  DEVARONIAN_conqueror: "Завоеватель" #NT!
+  DEVARONIAN_crusader: "Крестоносец" #NT!
+  DEVARONIAN_glory: "Слава" #NT!
+  DEVARONIAN_immortal: "Бессмертный" #NT!
+  DEVARONIAN_judicator: "Вершитель" #NT!
+  DEVARONIAN_vanguard: "Авангард" #NT!
+  DEVARONIAN_renown: "Признание" #NT!
+  DEVARONIAN_demolisher: "Уничтожитель" #NT!
+  DEVARONIAN_storm: "Шторм" #NT!
+  DEVARONIAN_stormstrike: "Удар бури" #NT!
+  DEVARONIAN_striker: "Ударный" #NT!
+  DEVARONIAN_sundog: "Ложное солнце" #NT!
+  DEVARONIAN_talon: "Коготь" #NT!
+  DEVARONIAN_thrasher: "Молотильщик" #NT!
+  DEVARONIAN_thunder: "Гром" #NT!
+  DEVARONIAN_thunderstrike: "Раскат грома" #NT!
+  DEVARONIAN_purrgil: "Пёрргил" #NT!
+  DEVARONIAN_barloz: "Барлоз" #NT!
+  DEVARONIAN_bulk: "Объёмный" #NT!
+  DEVARONIAN_bursa: "Бурса" #NT!
+  DEVARONIAN_bulwark: "Оплот" #NT!
+  DEVARONIAN_invincible: "Неукротимый" #NT!
+  DEVARONIAN_valor: "Доблесть" #NT!
+  DEVARONIAN_hammer: "Молот" #NT!
+  DEVARONIAN_sword: "Меч" #NT!
+  DEVARONIAN_shield: "Щит" #NT!
+  DEVARONIAN_brigand: "Разбойник" #NT!
+  DEVARONIAN_praetorian: "Преторианец" #NT!
+  DEVARONIAN_lictor: "Ликтор" #NT!
+  DEVARONIAN_starlight: "Звёздный свет" #NT!
+  DEVARONIAN_dreadnaught: "Дредноут" #NT!
+  DEVARONIAN_vainglorious: "Тщеславный" #NT!
+  DEVARONIAN_tarvix: "Тарвикс" #NT!
+  DEVARONIAN_drexl: "Дрексл" #NT!
+  DEVARONIAN_rothana: "Ротана" #NT!
+  DEVARONIAN_balmorra: "Балморра" #NT!
+  DEVARONIAN_lormar: "Лормар" #NT!
+  DEVARONIAN_lupus: "Люпус" #NT!
+  DEVARONIAN_onager: "Онагр" #NT!
+  DEVARONIAN_pursuit: "Погоня" #NT!
+  DEVARONIAN_bavos: "Бавос" #NT!
+  DEVARONIAN_munifex: "Мунифекс" #NT!
+  DEVARONIAN_mudhorn: "Грязерог" #NT!
+  DEVARONIAN_gundark: "Гандарк" #NT!
+  DEVARONIAN_vaya: "Вайя" #NT!
+  DEVARONIAN_heraklon: "Ираклион" #NT!
+  DEVARONIAN_core_systems: "Основные галактические системы" #NT!
+  DEVARONIAN_atgeir: "Атгейр" #NT!
+  DEVARONIAN_flurry_of_bolts: "Шквал молний" #NT!
+  DEVARONIAN_dirty_kick: "Подлый удар" #NT!
+  DEVARONIAN_vital_shot: "Смертельный выстрел" #NT!
+  DEVARONIAN_quick_shot: "Быстрый выстрел" #NT!
+  DEVARONIAN_all_in: "Всё включено" #NT!
+  DEVARONIAN_eagle_5: "Орёл 5" #NT!
+  DEVARONIAN_lucky_dodge: "Удачный уворот" #NT!
+  DEVARONIAN_shoot_first: "Стреляй первым" #NT!
+  DEVARONIAN_nice_try: "Хорошая попытка" #NT!
+  DEVARONIAN_open_wound: "Рваная рана" #NT!
+  DEVARONIAN_mortal_wound: "Смертельная рана" #NT!
+  DEVARONIAN_dirty_trickster: "Подлый трюкач" #NT!
+  DEVARONIAN_feelin__woozy: "Одурманивание" #NT!
+  DEVARONIAN_sneaky: "Скрытный" #NT!
+  DEVARONIAN_scrappy: "Задиристый" #NT!
+  DEVARONIAN_shifty_eyed: "Косой взгляд" #NT!
+  DEVARONIAN_fight_or_flight: "Бей или беги" #NT!
+  DEVARONIAN_slippery_devil: "Скользкий дьявол" #NT!
+  DEVARONIAN_rolling_punches: "Избегающий ударов" #NT!
+  DEVARONIAN_surprise_come: "Неожиданное возвращение" #NT!
+  DEVARONIAN_round_two: "Второй раунд" #NT!
+  DEVARONIAN_stopping_power: "Сдерживающая сила" #NT!
+  DEVARONIAN_brawler_s_gift: "Подарок бойца" #NT!
+  DEVARONIAN_loth_wolf: "Лот-волк" #NT!
+  DEVARONIAN_demon_moon: "Демон-луна" #NT!
+  DEVARONIAN_spice_runner: "Перевозчик спайса" #NT!
+  DEVARONIAN_class_1000: "Класс 1000" #NT!
+  DEVARONIAN_neutron_star: "Нейтронная звезда" #NT!
+  DEVARONIAN_loth_cat: "Лот-кот" #NT!
+  DEVARONIAN_tusk_cat: "Бивнекот" #NT!
+  DEVARONIAN_rancor: "Ранкор" #NT!
+  DEVARONIAN_dewback: "Рососпинник" #NT!
+  DEVARONIAN_exogorth: "Экзогорт" #NT!
+  DEVARONIAN_neebray: "Нибрай" #NT!
+  DEVARONIAN_mynock: "Майнок" #NT!
+  DEVARONIAN_barri: "Барри" #NT!
+  DEVARONIAN_gralloc: "Граллок" #NT!
+  DEVARONIAN_grutchin: "Гратчин" #NT!
+  DEVARONIAN_oswaft: "Освафт" #NT!
+  DEVARONIAN_ridadi: "Ридади" #NT!
+  DEVARONIAN_scree: "Скри" #NT!
+  DEVARONIAN_space_grazer: "Космический пожиратель" #NT!
+  DEVARONIAN_stillsail: "Плавучий парус" #NT!
+  DEVARONIAN_FLEET_SEQUENTIAL_devaronian_defense_fleet: "$ORD$ Флот обороны деваронцев" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_devaronian_planetary_guard: "$ORD$ Планетарная гвардия деваронцев" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_devaronian_infantry_company: "$ORD$ Пехотная рота деваронцев" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Рабы" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Батальон клонов" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Взвод боевых дроидов" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Воины Силы" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  DEVARONIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Евгенический авангард" #NT!
+  DEVARONIAN_CHR_aterph: "Aterph" #NT!
+  DEVARONIAN_CHR_au: "Au" #NT!
+  DEVARONIAN_CHR_oggun: "Oggun" #NT!
+  DEVARONIAN_CHR_belial: "Belial" #NT!
+  DEVARONIAN_CHR_bellon: "Bellon" #NT!
+  DEVARONIAN_CHR_drikall: "Drikall" #NT!
+  DEVARONIAN_CHR_biurk: "Biurk" #NT!
+  DEVARONIAN_CHR_burg: "Burg" #NT!
+  DEVARONIAN_CHR_mok: "Mok" #NT!
+  DEVARONIAN_CHR_canno: "Canno" #NT!
+  DEVARONIAN_CHR_cartariun: "Cartariun" #NT!
+  DEVARONIAN_CHR_chamma: "Chamma" #NT!
+  DEVARONIAN_CHR_midgoss: "Midgoss" #NT!
+  DEVARONIAN_CHR_kapp: "Kapp" #NT!
+  DEVARONIAN_CHR_djarri: "Djarri" #NT!
+  DEVARONIAN_CHR_ranon: "Ranon" #NT!
+  DEVARONIAN_CHR_roland: "Roland" #NT!
+  DEVARONIAN_CHR_fidaval: "Fidaval" #NT!
+  DEVARONIAN_CHR_fontis: "Fontis" #NT!
+  DEVARONIAN_CHR_bendu: "Bendu" #NT!
+  DEVARONIAN_CHR_vilus: "Vilus" #NT!
+  DEVARONIAN_CHR_gat: "Gat" #NT!
+  DEVARONIAN_CHR_vin: "Vin" #NT!
+  DEVARONIAN_CHR_viron: "Viron" #NT!
+  DEVARONIAN_CHR_gholan: "Gholan" #NT!
+  DEVARONIAN_CHR_ghoss: "Ghoss" #NT!
+  DEVARONIAN_CHR_gideon: "Gideon" #NT!
+  DEVARONIAN_CHR_gnarkh: "Gnarkh" #NT!
+  DEVARONIAN_CHR_kant: "Kant" #NT!
+  DEVARONIAN_CHR_holmar: "Holmar" #NT!
+  DEVARONIAN_CHR_olmar: "Olmar" #NT!
+  DEVARONIAN_CHR_vilmarh: "Vilmarh" #NT!
+  DEVARONIAN_CHR_guzald: "Guzald" #NT!
+  DEVARONIAN_CHR_harthusa: "Harthusa" #NT!
+  DEVARONIAN_CHR_gev: "Gev" #NT!
+  DEVARONIAN_CHR_duna: "Duna" #NT!
+  DEVARONIAN_CHR_hivrekh: "Hivrekh" #NT!
+  DEVARONIAN_CHR_chax: "Chax" #NT!
+  DEVARONIAN_CHR_jervett: "Jervett" #NT!
+  DEVARONIAN_CHR_lak: "Lak" #NT!
+  DEVARONIAN_CHR_tyrn: "Tyrn" #NT!
+  DEVARONIAN_CHR_magus: "Magus" #NT!
+  DEVARONIAN_CHR_jubal: "Jubal" #NT!
+  DEVARONIAN_CHR_jaris: "Jaris" #NT!
+  DEVARONIAN_CHR_kandhar: "Kandhar" #NT!
+  DEVARONIAN_CHR_kardue: "Kardue" #NT!
+  DEVARONIAN_CHR_labria: "Labria" #NT!
+  DEVARONIAN_CHR_dmaynel: "Dmaynel" #NT!
+  DEVARONIAN_CHR_kivas: "Kivas" #NT!
+  DEVARONIAN_CHR_kleeve: "Kleeve" #NT!
+  DEVARONIAN_CHR_kubla: "Kubla" #NT!
+  DEVARONIAN_CHR_kurjak: "Kurjak" #NT!
+  DEVARONIAN_CHR_magaran: "Magaran" #NT!
+  DEVARONIAN_CHR_malefax: "Malefax" #NT!
+  DEVARONIAN_CHR_manos: "Manos" #NT!
+  DEVARONIAN_CHR_san: "San" #NT!
+  DEVARONIAN_CHR_n_vaari: "N'Vaari" #NT!
+  DEVARONIAN_CHR_oxvar: "Oxvar" #NT!
+  DEVARONIAN_CHR_wuioe: "Wuioe" #NT!
+  DEVARONIAN_CHR_oxbel: "Oxbel" #NT!
+  DEVARONIAN_CHR_prakkath: "Prakkath" #NT!
+  DEVARONIAN_CHR_quarl: "Quarl" #NT!
+  DEVARONIAN_CHR_warrick: "Warrick" #NT!
+  DEVARONIAN_CHR_ratheb: "Ratheb" #NT!
+  DEVARONIAN_CHR_renegin: "Renegin" #NT!
+  DEVARONIAN_CHR_saricia: "Saricia" #NT!
+  DEVARONIAN_CHR_serak: "Serak" #NT!
+  DEVARONIAN_CHR_faydo: "Faydo" #NT!
+  DEVARONIAN_CHR_kelson: "Kelson" #NT!
+  DEVARONIAN_CHR_shesstellek: "Shesstellek" #NT!
+  DEVARONIAN_CHR_sisla: "Sisla" #NT!
+  DEVARONIAN_CHR_skerrit: "Skerrit" #NT!
+  DEVARONIAN_CHR_a_jidre: "A'jidre" #NT!
+  DEVARONIAN_CHR_sneg: "Sneg" #NT!
+  DEVARONIAN_CHR_snoo: "Snoo" #NT!
+  DEVARONIAN_CHR_somareeva: "Somareeva" #NT!
+  DEVARONIAN_CHR_gheedor: "Gheedor" #NT!
+  DEVARONIAN_CHR_sorno: "Sorno" #NT!
+  DEVARONIAN_CHR_evif: "Evif" #NT!
+  DEVARONIAN_CHR_szygar: "Szygar" #NT!
+  DEVARONIAN_CHR_baj: "Baj" #NT!
+  DEVARONIAN_CHR_lavek: "Lavek" #NT!
+  DEVARONIAN_CHR_elassar: "Elassar" #NT!
+  DEVARONIAN_CHR_ellis: "Ellis" #NT!
+  DEVARONIAN_CHR_burnal: "Burnal" #NT!
+  DEVARONIAN_CHR_salishh: "Salishh" #NT!
+  DEVARONIAN_CHR_pollo: "Pollo" #NT!
+  DEVARONIAN_CHR_vaarko: "Vaarko" #NT!
+  DEVARONIAN_CHR_toltek: "Toltek" #NT!
+  DEVARONIAN_CHR_eteto: "Eteto" #NT!
+  DEVARONIAN_CHR_tosha: "Tosha" #NT!
+  DEVARONIAN_CHR_trynic: "Trynic" #NT!
+  DEVARONIAN_CHR_tynial: "Tynial" #NT!
+  DEVARONIAN_CHR_tyrodall: "Tyrodall" #NT!
+  DEVARONIAN_CHR_vacasor: "Vacasor" #NT!
+  DEVARONIAN_CHR_vachir: "Vachir" #NT!
+  DEVARONIAN_CHR_sires: "Sires" #NT!
+  DEVARONIAN_CHR_varak_cha: "Varak'Cha" #NT!
+  DEVARONIAN_CHR_vasteg: "Vasteg" #NT!
+  DEVARONIAN_CHR_veedrig: "Veedrig" #NT!
+  DEVARONIAN_CHR_vik: "Vik" #NT!
+  DEVARONIAN_CHR_villar: "Villar" #NT!
+  DEVARONIAN_CHR_ulicx: "Ulicx" #NT!
+  DEVARONIAN_CHR_cikatro: "Cikatro" #NT!
+  DEVARONIAN_CHR_yelkin: "Yelkin" #NT!
+  DEVARONIAN_CHR_yemm: "Yemm" #NT!
+  DEVARONIAN_CHR_jith: "Jith" #NT!
+  DEVARONIAN_CHR_dyat: "Dyat" #NT!
+  DEVARONIAN_CHR_anirak: "Anirak" #NT!
+  DEVARONIAN_CHR_aven: "Aven" #NT!
+  DEVARONIAN_CHR_blue: "Blue" #NT!
+  DEVARONIAN_CHR_gethnu: "Gethnu" #NT!
+  DEVARONIAN_CHR_elsah: "Elsah" #NT!
+  DEVARONIAN_CHR_ushka: "Ushka" #NT!
+  DEVARONIAN_CHR_farnay: "Farnay" #NT!
+  DEVARONIAN_CHR_merrilet: "Merrilet" #NT!
+  DEVARONIAN_CHR_harun: "Harun" #NT!
+  DEVARONIAN_CHR_kada: "Kada" #NT!
+  DEVARONIAN_CHR_sian: "Sian" #NT!
+  DEVARONIAN_CHR_jubel: "Jubel" #NT!
+  DEVARONIAN_CHR_kambrea: "Kambrea" #NT!
+  DEVARONIAN_CHR_kee: "Kee" #NT!
+  DEVARONIAN_CHR_kiela: "Kiela" #NT!
+  DEVARONIAN_CHR_labio: "Labio" #NT!
+  DEVARONIAN_CHR_ladira: "Ladira" #NT!
+  DEVARONIAN_CHR_sama: "Sama" #NT!
+  DEVARONIAN_CHR_malincha: "Malincha" #NT!
+  DEVARONIAN_CHR_rissa: "Rissa" #NT!
+  DEVARONIAN_CHR_melos: "Melos" #NT!
+  DEVARONIAN_CHR_mika: "Mika" #NT!
+  DEVARONIAN_CHR_minn: "Minn" #NT!
+  DEVARONIAN_CHR_brinaloy: "Brinaloy" #NT!
+  DEVARONIAN_CHR_rorna: "Rorna" #NT!
+  DEVARONIAN_CHR_sanya: "Sanya" #NT!
+  DEVARONIAN_CHR_torro: "Torro" #NT!
+  DEVARONIAN_CHR_shri: "Shri" #NT!
+  DEVARONIAN_CHR_shri_lan: "Shri-Lan" #NT!
+  DEVARONIAN_CHR_koblus: "Koblus" #NT!
+  DEVARONIAN_CHR_shelta: "Shelta" #NT!
+  DEVARONIAN_CHR_laqasa: "Laqasa" #NT!
+  DEVARONIAN_CHR_madhi: "Madhi" #NT!
+  DEVARONIAN_CHR_valoss: "Valoss" #NT!
+  DEVARONIAN_CHR_carisica: "Carisica" #NT!
+  DEVARONIAN_CHR_vien: "Vien" #NT!
+  DEVARONIAN_CHR_vinaq: "Vinaq" #NT!
+  DEVARONIAN_CHR_keelin: "Keelin" #NT!
+  DEVARONIAN_CHR_zaffa: "Zaffa" #NT!
+  DEVARONIAN_CHR_agni: "Agni" #NT!
+  DEVARONIAN_CHR_b_ree: "B'ree" #NT!
+  DEVARONIAN_CHR__sai_ulrahk: "'sai'Ulrahk" #NT!
+  DEVARONIAN_CHR_bantha_horn: "Bantha-Horn" #NT!
+  DEVARONIAN_CHR_bessarah: "Bessarah" #NT!
+  DEVARONIAN_CHR_cadrak: "Cadrak" #NT!
+  DEVARONIAN_CHR_wix: "Wix" #NT!
+  DEVARONIAN_CHR_cheeve: "Cheeve" #NT!
+  DEVARONIAN_CHR_d_labaninaph: "D'labaninaph" #NT!
+  DEVARONIAN_CHR_dendo: "Dendo" #NT!
+  DEVARONIAN_CHR_djelkh: "Djelkh" #NT!
+  DEVARONIAN_CHR_durand: "Durand" #NT!
+  DEVARONIAN_CHR__sai_moro: "'sai'Moro" #NT!
+  DEVARONIAN_CHR_et: "Et" #NT!
+  DEVARONIAN_CHR_fry: "Fry" #NT!
+  DEVARONIAN_CHR_garr: "Garr" #NT!
+  DEVARONIAN_CHR_gelli_an: "Gelli'an" #NT!
+  DEVARONIAN_CHR_ghartoth: "Ghartoth" #NT!
+  DEVARONIAN_CHR_gorron: "Gorron" #NT!
+  DEVARONIAN_CHR_graf: "Graf" #NT!
+  DEVARONIAN_CHR_grahrk: "Grahrk" #NT!
+  DEVARONIAN_CHR_hessan: "Hessan" #NT!
+  DEVARONIAN_CHR_hilaris: "Hilaris" #NT!
+  DEVARONIAN_CHR__wao_cheklev: "'wao'Cheklev" #NT!
+  DEVARONIAN_CHR_cheklev: "Cheklev" #NT!
+  DEVARONIAN_CHR_jahr: "Jahr" #NT!
+  DEVARONIAN_CHR_jeisel: "Jeisel" #NT!
+  DEVARONIAN_CHR_jernil: "Jernil" #NT!
+  DEVARONIAN_CHR_jit: "Jit" #NT!
+  DEVARONIAN_CHR_jiton: "Jiton" #NT!
+  DEVARONIAN_CHR_jocle: "Jocle" #NT!
+  DEVARONIAN_CHR_kan: "Kan" #NT!
+  DEVARONIAN_CHR__sai_malloc: "'sai'Malloc" #NT!
+  DEVARONIAN_CHR_kiph: "Kiph" #NT!
+  DEVARONIAN_CHR_macoy: "Macoy" #NT!
+  DEVARONIAN_CHR_mano: "Mano" #NT!
+  DEVARONIAN_CHR_maxus: "Maxus" #NT!
+  DEVARONIAN_CHR_niph: "Niph" #NT!
+  DEVARONIAN_CHR_opca: "Opca" #NT!
+  DEVARONIAN_CHR_raden: "Raden" #NT!
+  DEVARONIAN_CHR_rennow: "Rennow" #NT!
+  DEVARONIAN_CHR_sbazzle: "Sbazzle" #NT!
+  DEVARONIAN_CHR_sha: "Sha" #NT!
+  DEVARONIAN_CHR_sharphorn: "Sharphorn" #NT!
+  DEVARONIAN_CHR_lan: "Lan" #NT!
+  DEVARONIAN_CHR_skrigatov: "Skrigatov" #NT!
+  DEVARONIAN_CHR_sornell: "Sornell" #NT!
+  DEVARONIAN_CHR_haarm: "Haarm" #NT!
+  DEVARONIAN_CHR_sulp: "Sulp" #NT!
+  DEVARONIAN_CHR_sune: "Sune" #NT!
+  DEVARONIAN_CHR_takoon: "Takoon" #NT!
+  DEVARONIAN_CHR_talstin: "Talstin" #NT!
+  DEVARONIAN_CHR_targon: "Targon" #NT!
+  DEVARONIAN_CHR_tarn: "Tarn" #NT!
+  DEVARONIAN_CHR_terrup: "Terrup" #NT!
+  DEVARONIAN_CHR_tilloman: "Tilloman" #NT!
+  DEVARONIAN_CHR_tipn: "Tipn" #NT!
+  DEVARONIAN_CHR_tiyai: "Tiyai" #NT!
+  DEVARONIAN_CHR_topan: "Topan" #NT!
+  DEVARONIAN_CHR_trill: "Trill" #NT!
+  DEVARONIAN_CHR_vaandt: "Vaandt" #NT!
+  DEVARONIAN_CHR_vanq: "Vanq" #NT!
+  DEVARONIAN_CHR_vant: "Vant" #NT!
+  DEVARONIAN_CHR_vizago: "Vizago" #NT!
+  DEVARONIAN_CHR_zaariq: "Zaariq" #NT!
+  DEVARONIAN_CHR_zesjoo: "Zesjoo" #NT!

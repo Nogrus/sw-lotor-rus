@@ -1,19 +1,19 @@
 ﻿l_russian:
- ##### LOTOR UI LOCS #####
+ ##### LOTOR UI LOCS ##### #NT!
 
- tech_destroyers: "Frigates"
- tech_destroyers_desc: "While larger than Corvettes, Frigate hull configurations still make for comparatively nimble gunboats."
- TECH_UNLOCK_DESTROYER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Frigate"
- TECH_UNLOCK_DESTROYER_CONSTRUCTION_DESC: "§HFrigate§!\nAs a larger two-section design, the Frigate offers a broad array of strategic armament options."
+ tech_destroyers: "Frigates" #NT!
+ tech_destroyers_desc: "While larger than Corvettes, Frigate hull configurations still make for comparatively nimble gunboats." #NT!
+ TECH_UNLOCK_DESTROYER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Frigate" #NT!
+ TECH_UNLOCK_DESTROYER_CONSTRUCTION_DESC: "§HFrigate§!\nAs a larger two-section design, the Frigate offers a broad array of strategic armament options." #NT!
 
- tech_titans: "Dreadnoughts"
- tech_titans_desc: "Modeled after the hulking shadows looming in the core systems of Stagnant Ascendancies, the Dreadnought class can be outfitted with X-size weapons."
- TECH_UNLOCK_TITAN_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Dreadnought"
- TECH_UNLOCK_TITAN_CONSTRUCTION_DESC: "§HDreadnought§!\nThese massive warships are the pride of the fleet. They are bristling with weapons and typically serve as flagships."
+ tech_titans: "Dreadnoughts" #NT!
+  tech_titans_desc: "Следующие по размерам после линкоров, $titan$ы представляют собой гигантские массы сплавов, оснащенные бесчисленными оружейными платформами массового поражения."
+  TECH_UNLOCK_TITAN_CONSTRUCTION_TITLE: "§HОткрывает тип корабля:§! $titan$"
+ TECH_UNLOCK_TITAN_CONSTRUCTION_DESC: "§HDreadnought§!\nThese massive warships are the pride of the fleet. They are bristling with weapons and typically serve as flagships." #NT!
 
-### Replace Gene Warrior with ARCs
- gene_warrior_army: "Advanced Recon Commando Army"
- gene_warrior_army_plural: "Advanced Recon Commando Armies"
- gene_warrior_army_desc: "Genetically enhanced super soldiers, Advanced Recon Commandos were a physically enhanced variant of clone troopers without standard behavior correction."
- tech_gene_seed_purification: "Advanced Recon Commandos"
- tech_gene_seed_purification_desc: "Advanced Recon Commandos were a physically enhanced variant of clone troopers without standard behavior correction."
+### Replace Gene Warrior with ARCs #NT!
+ gene_warrior_army: "Advanced Recon Commando Army" #NT!
+ gene_warrior_army_plural: "Advanced Recon Commando Armies" #NT!
+ gene_warrior_army_desc: "Genetically enhanced super soldiers, Advanced Recon Commandos were a physically enhanced variant of clone troopers without standard behavior correction." #NT!
+ tech_gene_seed_purification: "Advanced Recon Commandos" #NT!
+ tech_gene_seed_purification_desc: "Advanced Recon Commandos were a physically enhanced variant of clone troopers without standard behavior correction." #NT!

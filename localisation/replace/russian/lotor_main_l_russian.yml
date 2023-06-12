@@ -1,387 +1,387 @@
 ﻿l_russian:
-##### LOTOR vanilla replace LOCS #####
+##### LOTOR vanilla replace LOCS ##### #NT!
 
- ELECTION_VIEW_DESCRIPTION: "Elections are in progress! Select spend £unity£§YUnity§! to support a candidate. If we do not interfere, a random candidate will be elected."
+  ELECTION_VIEW_DESCRIPTION: "Выборы идут! Потратьте £unity£§YUnity§! чтобы поддержать кандидата. Если мы не будем вмешиваться, будет избран случайный кандидат."
 
-#### Republic Localization
- crisobj_be_in_breach_of_galcom_law_name: "Be In Breach of Galactic Republic Law"
- crisobj_be_in_breach_of_galcom_law_desc: "The audacity of that pathetic bunch of feeble bureaucrats - we will not submit!\n\nBe §YIn Breach§! of Galactic Republic law to gain this §Yannual§! Menace reward."
+#### Republic Localization #NT!
+  crisobj_be_in_breach_of_galcom_law_name: "Нарушать законы Галактической Республики"
+  crisobj_be_in_breach_of_galcom_law_desc: "Мы не покоримся наглости этой жалкой кучки ничтожных бюрократов!\n\n§YНарушайте§! закон Галактической Республики, чтобы получать §Yежегодную§! награду за угрозу."
 
- operation.3001.desc.egal.galco: "$operation.3001.desc.egal.intro$ We shall lay hints of a [root.target.GetAdj] plot to sabotage their political standing within the Galactic Republic."
+  operation.3001.desc.egal.galco: "$operation.3001.desc.egal.intro$ Мы будем делать намёки на заговор [root.target.GetAdj] с целью подорвать их политическое положение в Галактической Республике."
 
- resolution_category_custodian_reforms: "§YSupreme Chancellor§! Reforms"
- resolution_category_galactic_institutions: "Republic Institutions"
+  resolution_category_custodian_reforms: "Реформы §YВерховного канцлера§!"
+  resolution_category_galactic_institutions: "Республиканские учреждения"
 
- nominate_custodian_not_crisis: "£trigger_no£ The scrutiny of a Supreme Chancellorship would expose our plans for the galaxy..."
+  nominate_custodian_not_crisis: "£trigger_no£ Пристальное внимание Верховного канцлера раскроет наши планы относительно галактики..."
 
- resolution_custodian_form_empire_desc: "Despite the tremendous efforts of the Supreme Chancellor, the Galactic Republic is still undermined by internal division. Think of all that could be accomplished if the galaxy were united under strong leadership. An unprecedented era of peace and prosperity is within our reach."
- resolution_custodian_form_empire_tooltip: "The §YGalactic Republic§! changes into the §YGalactic Imperium§!.\n§RAll members leave any existing Federations.§!\n\n§RThe §Y[Root.GetName]§! becomes the §YImperial Core§!, shifting towards §YAuthoritarianism§! and adopting an §YImperial§! government. All incompatible §YCivics§! are removed.§!"
- resolution_custodian_form_empire_tooltip_machine: "The §YGalactic Republic§! changes into the §YGalactic Imperium§!.\n§RAll members leave any existing Federations.§!\n\nThe §Y[Root.GetName]§! becomes the §YImperial Nexus§!."
- resolution_custodian_form_empire_tooltip_hive: "The §YGalactic Republic§! changes into the §YGalactic Imperium§!.\n§RAll members leave any existing Federations.§!\n\nThe §Y[Root.GetName]§! becomes the §YImperial Hive§!."
+  resolution_custodian_form_empire_desc: "Несмотря на огромные усилия Хранителя, внутренние склоки по-прежнему ослабляют Галактическую Республику. Подумайте о том, чего можно добиться, если эта галактика будет объединена под сильным руководством. Наступление невиданной ранее эпохи мира и процветания — вот наша задача."
+  resolution_custodian_form_empire_tooltip: "§YГалактическая Республика§! изменится на §YГалактическая Империя§!.\n§RВсе члены выйдут из состава существующих федераций.§!\n\n§R §Y[Root.GetName]§! станет §YИмперским Ядром§!, сдвинется в сторону §Yавторитаризма§! и примет §YИмперию§. Все несовместимые §Yгражданские модели§! будут удалены.§!"
+  resolution_custodian_form_empire_tooltip_machine: "§YГалактическая Республика§! изменится на §YГалактическая Империя§!.\n§RВсе члены выйдут из состава существующих федераций.§!\n\n§Y[Root.GetName]§! станет §Yимперским нексусом§!."
+  resolution_custodian_form_empire_tooltip_hive: "§YГалактическая Республика§! изменится на §YГалактическая Империя§!.\n§RВсе члены выйдут из состава существующих федераций.§!\n\n§Y[Root.GetName]§! станет §YИмперским Ульем§!."
 
- resolution_custodian_galactic_standard_desc: "Galactic Standard is a new language that has been specifically designed for ease of use by all sapients regardless of their physiology. By introducing a single language to all official Galactic Republic functions, it is hoped that translation mishaps may be avoided."
+  resolution_custodian_galactic_standard_desc: "Галактический стандартный — новый искусственный язык, специально построенный так, что им могут пользоваться все разумные виды независимо от физиологии. Внедрение единого языка в оборот по всей Галактической Республике на государственном уровне даёт нам надежду избежать ошибок при переводе."
 
- resolution_custodian_extend_custodianship: "Extend §YSupreme Chancellor§! Term"
- resolution_custodian_extend_custodianship_desc: "Making the galaxy a better place is a monumental task that takes time. The current §YSupreme Chancellor§! needs to be extended by another term if anything with lasting effects is to be accomplished."
- resolution_custodian_extend_custodianship_tooltip: "The term limit of the current §YSupreme Chancellor§! is extended by another §Y10 years§!."
+  resolution_custodian_extend_custodianship: "Продлить срок §YВерховного канцлера§!"
+  resolution_custodian_extend_custodianship_desc: "Делать галактику лучше - очень тяжёлая работа, требующая много времени. Срок нынешнего §YВерховного канцлера§! должен быть продлён, если мы хотим добиться выполнения поставленных задач."
+  resolution_custodian_extend_custodianship_tooltip: "Лимит срока настоящего §YВерховного канцлера§! продлён ещё на §Y10 лет§!."
 
- resolution_custodian_perpetual_custodianship: "Remove §YSupreme Chancellor§! Term Limit"
- resolution_custodian_perpetual_custodianship_tooltip: "The current §YSupreme Chancellor§! will continue in perpetuity."
+  resolution_custodian_perpetual_custodianship: "Удалить ограничение срока полномочий §YВерховного канцлера§!"
+  resolution_custodian_perpetual_custodianship_tooltip: "Наш §YВерховный канцлер§! продолжит действовать бессрочно."
 
- resolution_custodian_end_custodianship: "End The Current Supreme Chancellorship"
- resolution_custodian_end_custodianship_desc: "The §YSupreme Chancellor§! has to step down. As such, the Vote for the next §YSupreme Chancellor§! should begin soon."
- resolution_custodian_end_custodianship_tooltip: "The current §YSupreme Chancellorship§! will be terminated and new elections will be called at the start of the next year."
+  resolution_custodian_end_custodianship: "Истечение срока полномочий Верховного канцлера"
+  resolution_custodian_end_custodianship_desc: "§YВерховный канцлер§! подал в отставку. Потому, вскоре должно начаться голосование за следующего §YВерховного канцлера§!."
+  resolution_custodian_end_custodianship_tooltip: "Нынешний Верховный канцлер будет отозван, и в начале следующего года будут назначены новые выборы."
 
- resolution_custodian_gdf: "Republic Defense Coalition"
+  resolution_custodian_gdf: "Республиканская оборонительная коалиция"
 
- resolution_custodian_expand_gdf: "RDC Expansion"
- resolution_custodian_expand_gdf_desc: "The size of the Republic Defense Coalition must be greatly increased if it is to meet the ever-increasing scope of its mission."
- resolution_custodian_disband_gdf: "Disband the RDC"
- resolution_custodian_disband_gdf_desc: "The Republic Defense Coalition has served its purpose and should now be demobilized."
+  resolution_custodian_expand_gdf: "Расширение РОК"
+  resolution_custodian_expand_gdf_desc: "Чтобы Республиканская оборонительная коалиция могла выполнять свои постоянно растущие задачи, она должна быть существенно увеличена."
+  resolution_custodian_disband_gdf: "Распустить РОК"
+  resolution_custodian_disband_gdf_desc: "Республиканская оборонительная коалиция выполнила своё предназначение и должна быть демобилизована."
 
- resolution_custodian_gto: "Republic Trade Organization"
- resolution_custodian_gto_desc: "The RTO will serve as a galactic regulatory body that enforces trade standards and resolves disputes."
- resolution_custodian_disband_gto: "Disband the Republic Trade Organization"
+  resolution_custodian_gto: "Республиканская торговая организация"
+  resolution_custodian_gto_desc: "РТО будет выполнять функции галактического регулятора, обеспечивающего соблюдение торговых стандартов и разрешение споров."
+  resolution_custodian_disband_gto: "Распустить Республиканскую торговую организацию"
 
- resolution_custodian_galpol: "Republic Security Organization"
- resolution_custodian_galpol_desc: "The creation of a galactic criminal police organization will enable law enforcement agencies to cooperate across the entire Galactic Republic."
- resolution_custodian_disband_galpol: "Disband RSO"
- resolution_custodian_disband_galpol_desc: "RSO must not be allowed to become the "secret police" of the Galactic Republic's ruling elite. It should be disbanded at once."
+  resolution_custodian_galpol: "Республиканская организация безопасности"
+  resolution_custodian_galpol_desc: "Создание галактической уголовной полицейской организации позволит сотрудничать правоохранительным органам по всей территории Галактической Республики."
+  resolution_custodian_disband_galpol: "Распустить РОБ"
+  resolution_custodian_disband_galpol_desc: "Нельзя позволить РОБ стать \"тайной полицией\" правящих элит Галактической Республики. Её надо распустить немедленно."
 
- resolution_emperor_by_election_desc: "As in the old Galactic Republic, the members of the Imperial Council should be elected based on their voting power."
+  resolution_emperor_by_election_desc: "Как и в старой Галактической Республике, члены Имперского Совета должны избираться исходя из их силы голоса."
 
- MESSAGE_RESOLUTION_EMERGENCY_MEASURE_TITLE: "Emergency Measure declared"
- MESSAGE_RESOLUTION_EMERGENCY_MEASURE_DESC: "$COUNTRY|Y$ has used their §YSupreme Chancellor§! powers to declare the Resolution $RESOLUTION|H$ an Emergency Measure"
+  MESSAGE_RESOLUTION_EMERGENCY_MEASURE_TITLE: "Объявлена чрезвычайная мера"
+  MESSAGE_RESOLUTION_EMERGENCY_MEASURE_DESC: "$COUNTRY|Y$ использовал полномочия своего §YВерхвоного канцлера§! для объявления резолюции $RESOLUTION|H$ экстренной мерой"
 
- custodian.2.a.desc: "At last, the Galactic Senate has voted to bestow emergency Supreme Chancellorship powers upon the [custodian.GetName]. In an official ceremony broadcast across the galaxy, we were appointed §HSupreme Chancellor of the Galactic Republic§!.\n\nAs the first among equals, we have been charged with safeguarding the Galactic Republic from all potential threats, be they internal or external, who would seek it harm. We have been granted vast powers in all Community matters and can now propose special resolutions."
- custodian.2.b.desc: "The Galactic Senate has voted to bestow emergency Supreme Chancellorship powers upon the §H[custodian.GetName]§!. In a ceremony broadcast across the galaxy, they were appointed the official §HSupreme Chancellor of the Galactic Republic§!.\n\nAs the first among equals, the [custodian.GetSpeciesName] government is now charged with safeguarding the Galactic Republic from all potential threats, be they internal or external, who would seek it harm. They have been granted vast powers in all Community matters and can now propose special resolutions."
+  custodian.2.a.desc: "Наконец-то Галактический Сенат проголосовал за предоставление государству [custodian.GetName] чрезвычайных полномочий хранителя. На официальной церемонии, транслировавшейся на всю галактику, нас назначили §Hхранителями Галактической Республики§!.\n\nКак первым среди равных, нам поручено защищать Галактическую Республику от всех потенциальных угроз, будь то внутренние или внешние, которые могут причинить ей вред. Нам были предоставлены широкие полномочия во всех делах сообщества, и теперь мы можем выдвигать специальные резолюции."
+  custodian.2.b.desc: "Галактический Сенат проголосовал за предоставление государству §H[custodian.GetName]§! чрезвычайных полномочий хранителя. На церемонии, транслировавшейся на всю галактику, их назначили официальными §Hхранителями Галактического сообщества§!.\n\nПервые среди равных, отныне [custodian.GetSpeciesName] обязаны оберегать Галактическое сообщество от любых угроз, как внешних, так и внутренних. Они получили обширные полномочия по вмешательству в дела сообщества и могут предлагать особые резолюции."
 
- custodianship_starts: "The §Y[custodian.GetName]§! are now the §YSupreme Chancellor of the Galactic Republic§!."
+  custodianship_starts: "Государство §Y[custodian.GetName]§! теперь §Yхранитель Галактической Республики§!."
 
- custodian.11.a.desc: "Our term as the Supreme Chancellor of the Galactic Republic has reached its end. The Supreme Chancellorship has been terminated and our special powers rescinded, although we have retained our seat on the Galactic Council." # DO NOT TRANSLATE
- custodian.11.b.desc: "With their term at an end, the §H[former_custodians.GetName]§! has given up their status as the Supreme Chancellor of the Galactic Republic. Their special powers have been rescinded, and they are now considered a regular member of the Galactic Council." # DO NOT TRANSLATE
+  custodian.11.a.desc: "Срок наших полномочий хранителя Галактической Республики подошёл к концу. Статус хранителя был отозван, а с ним и наши особые полномочия, хотя мы сохранили место в Галактическом Совете." #DO NOT TRANSLATE
+  custodian.11.b.desc: "По истечении срока полномочий государство §H[former_custodians.GetName]§! сложило с себя статус Верховного канцлера Галактической Республики. Их особые полномочия были отозваны, и теперь они считаются рядовым членом Галактического Совета." #DO NOT TRANSLATE
 
- custodianship_ends: "The §Y[From.GetName]§! are no longer §YSupreme Chancellor§! of the §YGalactic Republic§!."
+  custodianship_ends: "Государство §Y[From.GetName]§! больше не §YВерховный канцлер§! §YГалактической Республики§!."
 
- custodian.15.b.desc: "The §H[former_custodians.GetName]§! has prematurely ended their term as §YSupreme Chancellor§! of the Galactic Republic. It seems the responsibilities of the Chancellorship weren't to their liking."
+  custodian.15.b.desc: "Государство §H[former_custodians.GetName]§! досрочно сложило с себя полномочия §YВерховного канцлера§! §YГалактической Республики§!. Похоже, груз ответственности канцлерства пришёлся им не по нраву."
 
- custodian.101.desc: "With the destruction of the §H[LastKilledCountryName]§!, their Chancellorship of the Galactic Republic has come to an end."
+  custodian.101.desc: "Уничтожение государства §H[LastKilledCountryName]§! положило конец их канцлерству Галактической Республикой."
 
- resolution_galacticreforms_unseat_custodian_desc: "It is time to put an end to the corruption of the current §YSupreme Chancellor§!. They must immediately be removed from office before they can do more harm to the Galactic Republic!"
+  resolution_galacticreforms_unseat_custodian_desc: "Пора покончить с коррумпированностью действующего §YВерховного канцлера§!. Их нужно немедленно снять с должности, пока они не причинили ещё больше вреда Галактической Республике!"
 
- emperor.2.intro.desc: "It is the dawn of a New Order. The old Galactic Republic has been dismantled, and in its place the §H[Root.GetGalEmpireName]§! has risen. After claiming our rightful place on the throne of this new pan galactic state, we are now known as the §H[Root.GetName]§!."
+  emperor.2.intro.desc: "Наступила заря Нового Порядка. Старая Галактическая Республика распущена, и на её место пришла §H[Root.GetGalEmpireName]§!. Мы заняли своё законное место на троне этого общегалактического государства и отныне будем называться §H[Root.GetName]§!."
 
- emperor.2.a.tooltip.start: "§HThe rise of the Imperium is upon us!§!\n- The §YGalactic Republic§! is now known as the §YGalactic Imperium§!\n- We are now known as the §Y[Root.GetName]§!\n"
+  emperor.2.a.tooltip.start: "§HМы наблюдаем рождение Империи!§!\n- §YГалактическая Республика§! теперь известна как §YГалактическая Империя§!\n- Теперь мы известны как §Y[Root.GetName]§!\n"
 
- emperor.3.intro.desc: "It is the dawn of a New Order. The old Galactic Republic has been dismantled, and in its place the §H[Root.GetGalEmpireName]§! has risen. After claiming the throne of this new pan galactic state, the former §H[gal_emperor.GetSpeciesName]§! Supreme Chancellors now refer to themselves as the §H[gal_emperor.GetName]§!."
+  emperor.3.intro.desc: "Наступила заря Нового Порядка. Старая Галактическая Республика распущена, и на её место пришла §H[Root.GetGalEmpireName]§!. Заняв трон этого общегалактического государства, бывший §H[gal_emperor.GetSpeciesName]§! отныне называет себя §H[gal_emperor.GetName]§!."
 
- emperor.3.a.tooltip: "The §YGalactic Republic§! is now known as the §YGalactic Imperium§!."
+  emperor.3.a.tooltip: "§YГалактическая Республика§! теперь известна как §YГалактическая Империя§!."
 
- emperor.4.a.desc: "Citizens of the galaxy, rejoice! You have been set free from the tyranny of the Galactic Republic's stifling bureaucracy and bickering diplomats.\n\nYour worlds are now under the protection of the Galactic Imperium. As Imperial citizens, you are united in the greatest and most powerful nation the galaxy has ever seen. Sedition will be punished and obedience rewarded. Know that [gal_emperor.GetRulerTitle] [gal_emperor.ruler.GetRegnalName] watches over you.\n\nLong live the Imperium! Long live the [gal_emperor.GetRulerTitle]!"
- emperor.4.b.desc: "Attention! Heed this announcement. The Galactic Imperium has superseded the obsolete institution you knew of as the Galactic Republic. Your individual stellar polities have been reorganized and are now grouped under a single overriding Imperial directory.\n\nThe [gal_emperor.GetRulerTitle] will serve as the Imperium's central processor, and you are instructed to execute its commands in a prompt manner. As Imperial citizens, you are united in the greatest and most powerful political entity the galaxy has ever known. Its continued success will require both obedience and cooperation.\n\nLong live the Imperium! Long live the [gal_emperor.GetRulerTitle]!"
+  emperor.4.a.desc: "Граждане галактики, возрадуйтесь! Вы освободились от тирании удушающей бюрократии и пустой болтовни дипломатов Галактической Республики.\n\nТеперь ваши миры находятся под защитой Галактической Империи. Как граждане Империи, вы объединены в величайшую и самую могущественную нацию, которую когда-либо видела галактика. Подстрекательство к мятежу будет наказано, а послушание будет вознаграждено. Знайте, что [gal_emperor.GetRulerTitle] [gal_emperor.ruler.GetRegnalName] следит за вами.\n\nДа здравствует Империя! Да здравствует [gal_emperor.GetRulerTitle]!"
+  emperor.4.b.desc: "Внимание! Прослушайте данное объявление. Галактическая Империя пришла на смену устаревшему институту, известному вам как Галактическая Республика. Ваши отдельные межзвёздные государства реструктуризованы и сгруппированы в единую имперскую директорию.\n\n[gal_emperor.GetRulerTitle] станет центральным процессором Империи, а вам предписывается послушно исполнять его команды. Вы — граждане Империума, объединённые в величайшем и сильнейшем политическом образовании в истории галактики. Для его процветания требуются послушание и сотрудничество.\n\nДа здравствует Империя! Да здравствует [gal_emperor.GetRulerTitle]!"
 
- emperor.52.desc: "All references to the old Galactic Republic are being swept away in the new Imperium, and as part of this reorganization, the Republic Defense Coalition has changed its name to the §HImperial Armada§!.\n\nThis new fleet has inherited much of its rank structure and organization from the GDF, but new uniforms and insignia have been introduced, and all serving members are required to swear an oath of allegiance to the [gal_emperor.GetRulerTitle].\n\nWhile the Armada's ship crews and support personnel are still recruited from all members of the Imperium, the percentage of [gal_emperor.GetSpeciesName] officers has dramatically increased."
+  emperor.52.desc: "Все упоминания старой Галактической Республики были стёрты из документов новой Империи. В рамках реорганизации Республиканская оборонительная коалиция была переименована в §HИмперскую армаду§!.\n\nНовый флот унаследовал свои структуры и организацию от РОК, но изменились форма и символика, а все служащие должны принести присягу на верность [gal_emperor.GetRulerTitle].\n\nХотя экипажи и вспомогательный персонал всё ещё набираются из всех частей Империи, среди офицеров ныне преобладают [gal_emperor.GetSpeciesName]."
 
- resolution_emperor_abolish_council_desc: "The Imperial Council and its sycophants are yet another tragic remnant of the corrupt Galactic Republic. It serves no purpose in this new galactic era."
+  resolution_emperor_abolish_council_desc: "Имперский Совет и его приспешники являются ещё одним трагическим пережитком коррумпированной Галактической Республики. Ему нет места в новой галактической эпохе."
 
- emperor.200.desc: "Freedom has been restored to the galaxy! The Galactic Imperium has fallen, and the last of the Imperial loyalists have surrendered to the advancing Rebel forces.\n\nWith the [gal_emperor.GetRulerTitle] deposed, the old §HGalactic Republic§! has been resurrected. Time will tell if the reborn institution can prevent the rise of another galactic dictator, but for now, spontaneous celebrations have broken out on planets across the territory of the former Imperium."
- emperor.201.desc: "The Galactic Imperium has fallen. Imperial forces proved unable to stop the advance of the Rebel fleets, and today the [gal_emperor.GetRulerTitle] had no choice but to capitulate.\n\nWith the Imperium dismantled, the old corrupt institution of the §HGalactic Republic§! has been resurrected to take its place. And so the galaxy has turned decisively away from order, and embraced chaos..."
- emperor.202.desc: "Beset by traitors on all sides, the Galactic Imperium has fallen. The rebel scum have broken the Imperium's once-powerful fleets, and the last of the loyalists have deserted our cause.\n\nIn light of the collapse of all Imperial resistance, the [gal_emperor.GetRulerTitle] has had no choice but to abdicate. The insurgents have already announced the resurrection of the old §HGalactic Republic§! to fill the great void left by the disintegrating Imperium."
- emperor.203.desc: "The Galactic Imperium has fallen. With Rebel forces victorious on all fronts, the [gal_emperor.GetRulerTitle] has abdicated.\n\nThe old Galactic Republic has been restored in the collapsing Imperium's stead."
+  emperor.200.desc: "Свобода вернулась в галактику! Галактическая Империя пала, и последние из лоялистов сдались войскам повстанцев.\n\nТеперь, когда [gal_emperor.GetRulerTitle] больше не имеет власти, была восстановлена старая §HГалактическая Республика§!. Время покажет, сможет ли возрождённое учреждение предотвратить приход к власти очередного галактического диктатора, но пока на всех планетах бывшего Империи вспыхивают спонтанные празднества."
+  emperor.201.desc: "Галактическая империя пала. Имперские войска не сумели остановить наступление флота повстанцев, и сегодня [gal_emperor.GetRulerTitle] может лишь признать своё поражение.\n\nС роспуском Империи на его место пришло старая коррумпированная §HГалактическая Республика§!. Вот так галактика решительно отвернулась от порядка, предпочтя ему хаос..."
+  emperor.202.desc: "Галактическая Империя пала, окружённая со всех сторон предателями. Повстанческое отродье уничтожило некогда могущественные флотилии Империи, и последние из лоялистов отвернулись от нас.\n\nПосле падения последних очагов имперского сопротивления [gal_emperor.GetRulerTitle] может лишь отречься от престола. Мятежники уже объявили о возрождении старой §HГалактической Республики§!, призванной заполнить пустоту, оставшуюся после падения Империи."
+  emperor.203.desc: "Галактическая Империя пала. Войска повстанцев одерживают победы по всем фронтам, а [gal_emperor.GetRulerTitle] отрекается от престола.\n\nСтарая Галактическая Республика вновь заняла место рухнувшей Империи."
 
- war_goal_wg_restore_the_community_desc: "War is waged to dissolve the Galactic Imperium and restore the Galactic Republic. This will put us at war with all the members of the Imperium."
+  war_goal_wg_restore_the_community_desc: "Война ведётся с целью распустить Галактическую Империю и возродить Галактическую Республику. В результате мы окажемся втянуты в войну со всеми членами Империи."
 
- emperor.300.desc: "The Galactic Imperium has been dealt a mortal blow from which it cannot recover. With its imminent collapse, we are now in a position to restore the old §HGalactic Republic§!.\n\nLet it serve as platform of diplomacy and mutual understanding instead of tyranny!"
+  emperor.300.desc: "Галактической Империи был нанесён смертельный удар, от которого ему не оправиться. С учётом его неминуемого краха мы можем возродить старую §HГалактическую Республику§!.\n\nПусть оно станет местом дипломатии и взаимопонимания, пришедшим на смену тирании!"
 
- emperor.301.desc: "The end is here. As the remaining Imperial forces surrender en masse or melt away into the night, it has become evident that the Imperium is dying.\n\nEven now, the §H[dissolve_winner.GetName]§! has begun the work of rebuilding the old §HGalactic Republic§!. Imperial banners are being torn down or put to the flame across the galaxy. A new future is upon us."
+  emperor.301.desc: "Всё кончено. Оставшиеся имперские войска массово сдаются в плен или просто исчезают в ночи, и становится очевидно, что Империя находится на грани смерти.\n\nУже сейчас государство §H[dissolve_winner.GetName]§! начало работать над возрождением старой §HГалактической Республики§!. По всей галактике рвут и сжигают знамёна Империи. Нас ждёт новое будущее."
 
- emperor.302.desc: "The Galactic Imperium has fallen. With Imperial forces melting away or surrendering en masse, the Imperium's sovereign has abdicated.\n\nAs order is slowly restored to the war-torn systems of the former Imperium, the §H[dissolve_winner.GetName]§! has seen fit to resurrect the old §HGalactic Republic§!. We have received a membership invitation. Should we join?"
+  emperor.302.desc: "Галактический Империум пал. Когда имперские силы начали таят или массово сдаваться, суверен Империума отрекся от престола.\n\nПо мере того, как порядок в истерзанных войной системах бывшего Империума медленно восстанавливается, §H[dissolve_winner.GetName]§! счел нужным возродить старую §HГалактическую Республику§!. Мы получили приглашение на членство. Должны ли мы присоединиться?"
 
- emperor.401.desc: "With the destruction of the §H[LastKilledCountryName]§!, the Galactic Imperium has collapsed!\n\nAmidst this chaos, the old Galactic Republic has been reborn to bring some semblance of order to the galaxy."
+  emperor.401.desc: "Государство §H[LastKilledCountryName]§! уничтожено, и с ним пришёл конец Галактической Империи!\n\nПосреди бушующего хаоса возродилась старая Галактическая Республика, которая стремится восстановить в галактике некое подобие порядка."
 
- action.155.2.desc: "Down with the Imperium! It is time to bring back the old Galactic Republic!"
+  action.155.2.desc: "С Империей покончено! Пора вернуть старую Галактическую Республику!"
 
- former_loyalist_desc: "We fought on the side of the Loyalists during the fall of the Galactic Imperium, and as such we are still regarded with suspicion. Our influence in the Galactic Republic is severely curtailed."
+  former_loyalist_desc: "Во время падения Галактической Империи мы поддержали лоялистов, и потому к нам до сих пор относятся с подозрением. Наше влияние в Галактической Республике ограниченно."
 
- former_emperor_desc: "As the former ruler of the late Galactic Imperium, we have suddenly become a pariah to much of the galaxy. Unjustly seen as tyrants, our influence in the reborn Galactic Republic has been greatly diminished."
+  former_emperor_desc: "Мы правили Галактической Империей, а теперь стали изгоями для большинства государств галактики. Нас объявили тиранами, а наше влияние в возрождённой Галактической Республике существенно ограничено."
 
- CUSTODIAN_NEUTRAL_GREETING_02: "The Galactic Republic is our best bet to make this galaxy a better place for everyone."
+  CUSTODIAN_NEUTRAL_GREETING_02: "Галактическая Республика — лучшая возможность сделать галактику лучше для всех."
 
- CUSTODIAN_TO_OUTSIDER_NEUTRAL_GREETING_02: "We have a responsibility to all the members of the Galactic Republic, but that does not include the [From.GetName]."
- CUSTODIAN_TO_OUTSIDER_NEUTRAL_GREETING_03: "Membership in the Galactic Republic should be your top priority, [From.GetSpeciesNamePlural]."
+  CUSTODIAN_TO_OUTSIDER_NEUTRAL_GREETING_02: "У нас есть ответственность перед всеми членами Галактической Республики, но государство [From.GetName] не входит в их число."
+  CUSTODIAN_TO_OUTSIDER_NEUTRAL_GREETING_03: "Членство в Галактической Республике должно стать для вас приоритетом, [From.GetSpeciesNamePlural]."
 
- CUSTODIAN_TO_COMMUNITY_MEMBER_NEUTRAL_GREETING_02: "We want to improve the Galactic Republic, but we can't do it without you, [From.GetSpeciesNamePlural]. The powers of our Supreme Chancellorship only go so far."
- CUSTODIAN_TO_COMMUNITY_MEMBER_NEUTRAL_GREETING_03: "The endless bickering in the Galactic Republic has to stop if we, as a galaxy, are to accomplish anything of note."
+  CUSTODIAN_TO_COMMUNITY_MEMBER_NEUTRAL_GREETING_02: "Мы хотим улучшить Галактическую Республику, но без вас нам не справиться, [From.GetSpeciesNamePlural]. У наших полномочий канцлерства есть ограничения."
+  CUSTODIAN_TO_COMMUNITY_MEMBER_NEUTRAL_GREETING_03: "Бесконечным спорам в Галактической Республике нужно положить конец, если мы как галактика хотим достичь хоть чего-нибудь значительного."
 
- CUSTODIAN_HOSTILE_GREETING_02: "We will expose the vileness of the [From.GetName] for the entire Galactic Republic to see."
- CUSTODIAN_HOSTILE_GREETING_03: "An enemy of the [Root.GetName] is an enemy of the Galactic Republic."
+  CUSTODIAN_HOSTILE_GREETING_02: "Мы покажем гнусность государства [From.GetName] всей Галактической Республике."
+  CUSTODIAN_HOSTILE_GREETING_03: "Враг государства [Root.GetName] — враг Галактической Республики."
 
- CUSTODIAN_HOSTILE_GREETING_05: "You are not fooling us or the Galactic Republic. The [From.GetName] is not to be trusted."
+  CUSTODIAN_HOSTILE_GREETING_05: "Вы не обманете нас или Галактическую Республику. Государству [From.GetName] нельзя доверять."
 
- CUSTODIAN_TO_OUTSIDER_HOSTILE_GREETING_01: "You are an enemy of the Galactic Republic, [From.GetSpeciesNamePlural]."
- CUSTODIAN_TO_OUTSIDER_HOSTILE_GREETING_02: "As Supreme Chancellor of the Galactic Republic, we take this opportunity to formally express our contempt for your pitiful nation."
- CUSTODIAN_TO_OUTSIDER_HOSTILE_GREETING_03: "You will stay well away from Galactic Republic space if you know what is good for you."
- CUSTODIAN_TO_COMMUNITY_MEMBER_HOSTILE_GREETING_01: "We will do everything in our power to limit the corrupting influence of the [From.GetName] in the Galactic Republic."
+  CUSTODIAN_TO_OUTSIDER_HOSTILE_GREETING_01: "Вы враги Галактической Республики, [From.GetSpeciesNamePlural]."
+  CUSTODIAN_TO_OUTSIDER_HOSTILE_GREETING_02: "Мы занимаем пост Верховного канцлера Галактической Республики и пользуемся этой возможностью, чтобы формально выразить наше презрение к вашему жалкому государству."
+  CUSTODIAN_TO_OUTSIDER_HOSTILE_GREETING_03: "Ради собственного блага вам стоит держаться подальше от границ Галактической Республики."
+  CUSTODIAN_TO_COMMUNITY_MEMBER_HOSTILE_GREETING_01: "Мы сделаем всё возможное, чтобы уменьшить тлетворное влияние государства [From.GetName] на Галактическую Республику."
 
- CUSTODIAN_TO_COMMUNITY_MEMBER_HOSTILE_GREETING_03: "Perhaps you should rethink your membership in the Galactic Republic, [From.GetSpeciesNamePlural]. As a nation of malcontents, you are a bad influence on the other members."
- CUSTODIAN_FRIENDLY_GREETING_01: "The [From.GetName] is a true friend of the Galactic Republic!"
- CUSTODIAN_FRIENDLY_GREETING_02: "The Galactic Republic salutes you, [From.GetSpeciesNamePlural]!"
+  CUSTODIAN_TO_COMMUNITY_MEMBER_HOSTILE_GREETING_03: "Возможно, вам стоит задуматься о выходе из Галактической Республики, [From.GetSpeciesNamePlural]. Ваше вечное недовольство плохо влияет на прочих членов."
+  CUSTODIAN_FRIENDLY_GREETING_01: "Государство [From.GetName] — настоящий друг Галактической Республики!"
+  CUSTODIAN_FRIENDLY_GREETING_02: "Галактическая Республика приветствует вас, [From.GetSpeciesNamePlural]!"
 
- CUSTODIAN_FRIENDLY_GREETING_05: "We are but humble servants of the Galactic Republic."
- CUSTODIAN_FRIENDLY_GREETING_06: "What can the Galactic Republic do for you, [From.GetSpeciesNamePlural]?"
- CUSTODIAN_TO_OUTSIDER_FRIENDLY_GREETING_01: "If only you would join the Galactic Republic... the [From.GetName] would be such a positive example to the other members."
- CUSTODIAN_TO_OUTSIDER_FRIENDLY_GREETING_02: "The Galactic Republic will not be complete until the [From.GetName] has joined it."
- CUSTODIAN_TO_OUTSIDER_FRIENDLY_GREETING_03: "Although you are not a member, we will do what we can to look out for the [From.GetName] in the Galactic Republic."
+  CUSTODIAN_FRIENDLY_GREETING_05: "Мы просто скромные слуги Галактической Республики."
+  CUSTODIAN_FRIENDLY_GREETING_06: "Что Галактическая Республика может сделать для вас, [From.GetSpeciesNamePlural]?"
+  CUSTODIAN_TO_OUTSIDER_FRIENDLY_GREETING_01: "Если бы вы только вступили в Галактическую Республику… государство [From.GetName] могло бы стать примером для всех остальных."
+  CUSTODIAN_TO_OUTSIDER_FRIENDLY_GREETING_02: "Галактическая Республика не будет полной, пока к ней не присоединится [From.GetName]."
+  CUSTODIAN_TO_OUTSIDER_FRIENDLY_GREETING_03: "Хоть вы и не являетесь членом, мы сделаем всё возможное, чтобы позаботиться об интересах государства [From.GetName] в Галактической Республике."
 
- CUSTODIAN_TO_COMMUNITY_MEMBER_FRIENDLY_GREETING_02: "We will do everything in our power to ensure that the [From.GetName] has a voice in the Galactic Republic."
+  CUSTODIAN_TO_COMMUNITY_MEMBER_FRIENDLY_GREETING_02: "Мы сделаем всё возможное, чтобы мнение государства [From.GetName] услышали в Галактической Республике."
 
- MEMBER_TO_CUSTODIAN_NEUTRAL_GREETING_01: "Supreme Chancellor. How goes your work to unite the Galactic Republic? It can't be an easy task."
+  MEMBER_TO_CUSTODIAN_NEUTRAL_GREETING_01: "Канцлер, как продвигается объединение Галактической Республики? Должно быть, это непросто."
 
- MEMBER_TO_CUSTODIAN_HOSTILE_GREETING_03: "Since you assumed the Supreme Chancellorship, a heavy darkness has been looming over the Galactic Republic. We fear it is slowly being subverted into something unrecognizable."
+  MEMBER_TO_CUSTODIAN_HOSTILE_GREETING_03: "С тех пор, как вы приняли статус Верховного канцлера, над Галактической Республикой нависла чёрная тень. Мы опасаемся, что она медленно превращается в нечто совершенно иное."
 
- MEMBER_TO_CUSTODIAN_FRIENDLY_GREETING_02: "How can we best be of service to the Galactic Republic, Supreme Chancellor?"
- MEMBER_TO_CUSTODIAN_FRIENDLY_GREETING_03: "The Galactic Republic is lucky to have you, Supreme Chancellor."
- OUTSIDER_TO_CUSTODIAN_NEUTRAL_GREETING_01: "So the Galactic Republic has a "leader" now. Interesting."
- OUTSIDER_TO_CUSTODIAN_NEUTRAL_GREETING_02: "The appointment of a Supreme Chancellor does not make membership in the Galactic Republic more appealing to us, but we shall see."
+  MEMBER_TO_CUSTODIAN_FRIENDLY_GREETING_02: "Как нам лучше всего послужить Галактической Республике, канцлер?"
+  MEMBER_TO_CUSTODIAN_FRIENDLY_GREETING_03: "Галактической Республике повезло с вами, канцлер."
+  OUTSIDER_TO_CUSTODIAN_NEUTRAL_GREETING_01: "У Галактической Республики появился «лидер». Интересно."
+  OUTSIDER_TO_CUSTODIAN_NEUTRAL_GREETING_02: "Назначение канцлера не делает членство в Галактической Республике более привлекательной для нас, но мы посмотрим."
 
- OUTSIDER_TO_CUSTODIAN_HOSTILE_GREETING_01: "The Galactic Republic has always been a rotten institution, and that was BEFORE the idiots in its Senate made you Supreme Chancellor."
+  OUTSIDER_TO_CUSTODIAN_HOSTILE_GREETING_01: "Галактическая Республика всегда была с гнильцой, и это было ещё ДО того, как эти идиоты в Сенате назначили вас канцлером."
 
- OUTSIDER_TO_CUSTODIAN_HOSTILE_GREETING_03: "You [From.GetSpeciesNamePlural] can't run the [From.GetName], and now you are expected to guide the entire Galactic Republic? Ha!"
+  OUTSIDER_TO_CUSTODIAN_HOSTILE_GREETING_03: "Вы [From.GetSpeciesNamePlural] не в состоянии управлять государством [From.GetName], а теперь вам доверили вести за собой всю Галактическую Республику? Ха!"
 
- OUTSIDER_TO_CUSTODIAN_FRIENDLY_GREETING_02: "The Galactic Republic can only improve with you as its Supreme Chancellor, [From.GetSpeciesNamePlural]."
+  OUTSIDER_TO_CUSTODIAN_FRIENDLY_GREETING_02: "Галактическая Республика станет только лучше с таким канцлером, как вы, [From.GetSpeciesNamePlural]."
 
- resolution_declare_crisis: "Declare Galactic Emergency"
- resolution_declare_crisis_desc: "This empire represents a clear and undeniable threat to the future of the entire galaxy. It must be contained and destroyed by the Galactic Republic before it is too late."
+  resolution_declare_crisis: "Declare Galactic Emergency"
+  resolution_declare_crisis_desc: "Эта империя представляет собой явную и несомненную угрозу будущему всей галактики. Галактическая Республика должна остановить её и уничтожить, пока не стало слишком поздно."
 
- crisis.4105.intro: "Recognizing the threat we pose, the wretched members of the Galactic Republic have passed a resolution condemning our actions and declaring us a §Y"crisis of galactic proportions."§! In a rare moment of unity, the members of the Republic have all joined forces and declared war on us."
+  crisis.4105.intro: "Признавая угрозу, которую мы представляем, несчастные члены Галактической Республики приняли резолюцию, осуждающую наши действия и объявляющую нас §Y\"кризисом галактических масштабов.\"§! В редкий момент единения все члены Сообщества объединили свои силы и объявили нам войну."
 
- crisis.4105.desc.c: "The corrupt fools in the Galactic Republic have passed a resolution declaring us a "crisis" and a "threat to all sapient life." In light of these absurd allegations, a state of total war now exists between the [Root.GetName] and the entirety of the Galactic Republic.\n\nThis war will continue until either us or the Republic have been utterly destroyed... or they repeal the resolution."
+  crisis.4105.desc.c: "Продажные глупцы из Галактической Республики приняли резолюцию, в которой объявили нас «кризисом» и «угрозой всей разумной жизни». В свете подобных абсурдных заявлений государство [Root.GetName] и вся Галактическая Республика теперь находятся в состоянии тотальной войны.\n\nВойна продолжится до полного уничтожения нас или всей Республики… или пока они не отменят резолюцию."
 
- gal_custodian_desc: "As Supreme Chancellor of the Galactic Republic, our influence in the galaxy has been increased."
+  gal_custodian_desc: "Мы Верховный канцлер - Галактической Республики, и наше влияние на галактику возросло."
 
- war_goal_wg_declared_crisis_desc: "Total War is waged between the Galactic Republic and the Crisis empire.\n\nPeace can only be achieved by the utter destruction of one side, or if the Community passes a resolution to end hostilities."
+  war_goal_wg_declared_crisis_desc: "Тотальная война ведется между Галактической Республикой и Кризисной империей.\n\nМир может быть достигнут только путем полного уничтожения одной стороны или если Сообщество примет резолюцию о прекращении военных действий."
 
- resolution_declare_crisis_tooltip: "All members of the Galactic Republic declare a Total War against the target, which can only end when one side is destroyed or if the resolution is repealed."
+  resolution_declare_crisis_tooltip: "Все члены Галактической Республики объявляют тотальную войну против цели, которая может закончиться только тогда, когда одна сторона будет уничтожена или, если решение будет отменено."
 
- custodian.30.name: "The Republic Defense Coalition"
+  custodian.30.name: "Республиканская оборонительная коалиция"
 
- custodian.30.intro: "The Senate has ratified the creation of a standing multinational military force intended for the defense of the Galactic Republic. This "§HRepublic Defense Coalition§!" will recruit its personnel from all Community members, who are also required to contribute resources towards the construction of its fleets."
- custodian.30.nocrisis: "With the RDC being placed under the direct command of the §H[custodian.GetName]§!, the current Supreme Chancellor, some fear that this potentially massive armada could be used as a tool of oppression. Others, however, applaud its creation, referring to it as "the galaxy's first line of defense.""
- custodian.30.crisis: "With the galaxy engulfed in turmoil and under constant threat by forces that seek to exterminate all sapient life, it is hoped that the RDC will be able to bring the fight to the enemy and secure the borders of the Community. They will be placed under the direct command of the §H[custodian.GetName]§!, the Supreme Chancellor."
- custodian.30.warinheaven: "With the galaxy engulfed by war, it is hoped that the RDC will expand to become strong enough to challenge even the vast fleets being thrown around by the Fallen Empires in their petty squabbles for galactic dominance. They will be placed under the direct command of the §H[custodian.GetName]§!, the Supreme Chancellor."
+  custodian.30.intro: "Сенат ратифицировал создание регулярного межгосударственного воинского формирования, предназначенного для защиты Галактической Республики. Эта §HРеспубликанская оборонительная коалиция§! будет набирать персонал из всех государств-членов Республики, которые также будут тратить ресурсы на строительство флотилий РОК."
+  custodian.30.nocrisis: "Поскольку РОК подчиняется непосредственно государству §H[custodian.GetName]§!, действующему Верховному канцлеру, многие опасаются, что эта в перспективе колоссальная мощь будет использована как инструмент подавления. Другие же радуются её созданию, называя коалицию не иначе как «первой линией обороны галактики»."
+  custodian.30.crisis: "Галактика охвачена непрекращающимися войнами, ей угрожают силы, стремящиеся истребить всю разумную жизнь, а потому многие надеются, что РОК сможет переломить ход конфликтов, перенести бой на вражескую территорию и обезопасить границы Республики. Её силы будут напрямую подчинены Верховному канцлеру из государства §H[custodian.GetName]§!."
+  custodian.30.warinheaven: "Галактика охвачена войной, и многие надеются, что РОК нарастит свою численность и станет достаточно сильной, чтобы бросить вызов даже огромным флотилиям угасших империй, погрязших в мелочных конфликтах за господство в галактике. РОК будет напрямую подчинена Верховному канцлеру из государства §H[custodian.GetName]§!."
 
- custodian.32.name: "RDC Resumes Operations"
- custodian.32.desc: "With the office of the Supreme Chancellor now vacant, the Republic Defense Coalition has established an independent command structure. They remain dedicated towards the protection of the Community, and RDC High Command has vowed to maintain their patrols of member systems."
+  custodian.32.name: "РОК возобновляет деятельность"
+  custodian.32.desc: "Поскольку должность Верховного канцлера остаётся вакантной, Республиканская оборонительная коалиция создала независимую организационную структуру. Она останется верной идее защиты Республики, а верховное командование РОК пообещало продолжить патрулирование систем государств-членов Республики."
 
- custodian.35.name: "RDC Reports to the Supreme Chancellor"
- custodian.35.desc: "As we have assumed the office of the Supreme Chancellor, the Republic Defense Coalition has been folded into our command structure. They will now look to us for future orders."
+  custodian.35.name: "РОК подчиняется Верховному канцлеру"
+  custodian.35.desc: "С занятием должности Верховного канцлера, силы Республиканской оборонительной коалиции были включены в нашу организационную структуру. Дальнейшие приказы они будут получать от нас."
 
- custodian.35.tooltip: "All RDC fleets are now under our command."
- custodian.40.name: "The RDC Disbands"
- custodian.40.desc: "By order of the Senate majority, the §HRepublic Defense Coalition§! has been disbanded. All serving RDC personnel have returned to their home nations, and their warships are being scuttled under the close supervision of Senate officials to prevent them from falling into the wrong hands."
+  custodian.35.tooltip: "Все флотилии РОК теперь подчиняются нам."
+  custodian.40.name: "РОК распущена"
+  custodian.40.desc: "По решению большинства Сената §HРеспубликанская оборонительная коалиция§! была распущена. Весь персонал РОК возвратился на родные миры, а военные корабли были демонтированы под пристальным надзором представителей Сената, чтобы они не попали не в те руки."
 
- custodian.51.desc: "Honorable members of the Galactic Republic... fellow sapients.\n\nThis is an exceedingly dark time for our galaxy. The existential threat we face is without precedent. To survive the coming onslaught, we must fight like there is no tomorrow, for in truth, that may be the case.\n\nWhen you elected us as your Supreme Chancellor, we swore an oath to defend our galaxy and we will do everything in our power to uphold that promise... but this is not a battle we can win alone. We call on all members to put aside their differences and join us as we strike back at the §H[crisis_country.GetName]§!! Together we will show them the full might of our galaxy as it stands united against a common foe!"
+  custodian.51.desc: "Почтенные члены Галактической Республики... братья по разуму.\n\nДля нашей галактики наступили тёмные времена. Невиданные ранее силы угрожают нашему существованию. Чтобы выжить в надвигающейся битве, мы должны сражаться как в последний раз, потому что он действительно может оказаться последним.\n\nКогда вы выбрали нас как Верховного канцлера, мы поклялись защищать галактику, и мы сделаем всё возможное, чтобы сдержать своё слово. Но эту битву нам в одиночку не выиграть. Мы призываем вас позабыть о различиях и присоединиться к нам. §H[crisis_country.GetName]§! будут разбиты! Вместе мы покажем им всю мощь галактики, объединившейся против общего врага!"
 
- factions.2000.title: "Ethics Shift in the [TargetFaction.Owner.GetName]" # so it fits with Tion's stupidly long name
+  factions.2000.title: "[TargetFaction.Owner.GetName]: смена принципов" #so it fits with Tion's stupidly long name
 
-# Modifiers
- MOD_COUNTER_INTEL_GAIN_SPEED: "Increases the time it takes for other Empires to gain intel on you"
+# Modifiers #NT!
+  MOD_COUNTER_INTEL_GAIN_SPEED: "Влияет на скорость получения другими государствами разведданных о вас"
 
- MOD_POP_ROBOT_UPKEEP_MULT: "Droid Upkeep"
- MOD_POP_ROBOT_UPKEEP_MULT_DESC: "Affects the energy upkeep cost of Droids."
- MOD_POP_ROBOT_BUILD_SPEED_MULT: "Droid Build Speed"
- MOD_POP_ROBOT_BUILD_SPEED_MULT_DESC: "Affects the speed at which Droids are built."
- MOD_POP_ROBOT_BUILD_COST_MULT: "Droid Build Cost"
+  MOD_POP_ROBOT_UPKEEP_MULT: "Содержание дроидов"
+  MOD_POP_ROBOT_UPKEEP_MULT_DESC: "Влияет на затраты энергии на содержание дроидов."
+  MOD_POP_ROBOT_BUILD_SPEED_MULT: "Скорость сборки дроидов"
+  MOD_POP_ROBOT_BUILD_SPEED_MULT_DESC: "Влияет на скорость сборки дроидов."
+  MOD_POP_ROBOT_BUILD_COST_MULT: "Стоимость сборки дроида"
 
- MOD_POP_ASSEMBLY_SPEED: "Pop Assembly Speed"
- MOD_PLANET_POP_ASSEMBLY_ADD: "Monthly Pop Assembly"
- MOD_PLANET_POP_ASSEMBLY_MULT: "$MOD_POP_ASSEMBLY_SPEED$"
- MOD_PLANET_POP_ASSEMBLY_REDUCTION: "Pop Assembly Speed Reduction"
+  MOD_POP_ASSEMBLY_SPEED: "Скорость прироста населения"
+  MOD_PLANET_POP_ASSEMBLY_ADD: "Ежемесячный сбор поселений"
+  MOD_PLANET_POP_ASSEMBLY_MULT: "$MOD_POP_ASSEMBLY_SPEED$"
+  MOD_PLANET_POP_ASSEMBLY_REDUCTION: "Снижение скорости сбора поселений"
 
- MOD_POP_ROBOT_PRODUCTION_OUTPUT: "Droid Resource Production"
+  MOD_POP_ROBOT_PRODUCTION_OUTPUT: "Производство ресурсов дроидами"
 
- robot_workers: "Droid Workers"
- robot_workers_desc: "Droid workers from a forgotten civilization remain on this planet. With the proper precautions, they could be put to work for us."
+  robot_workers: "Рабочие-дроиды"
+  robot_workers_desc: "На этой планете сохранились рабочие-дроиды, созданные давно забытой цивилизацией. Соблюдая должную осторожность, мы сможем использовать их труд."
 
- terraforming_candidate_tooltip: "Once we have researched the £society£ §Y$tech_lotor_climate_restoration$§! technology, we will be able to terraform this planet into a habitable world."
+  terraforming_candidate_tooltip: "Изучив £society£ технологию §Y$tech_lotor_climate_restoration$§!, мы сможем терраформировать эту планету в пригодный для жизни мир."
 
- mod_ROBOT_species_trait_points_add: "Droid Modification Points"
+  mod_ROBOT_species_trait_points_add: "Очки модификации дроидов"
 
-# Megacorp
+# Megacorp #NT!
 
- ROBOTS_CANNOT_COLONIZE: "$TRIGGER_FAIL$The £engineering_research£ §Y$tech_lotor_droid_workers$§! technology is required to colonize with Droids."
+  ROBOTS_CANNOT_COLONIZE: "$TRIGGER_FAIL$ Для колонизации дроидами требуется технология £engineering_research£ §Y$tech_lotor_droid_workers$§!."
 
- pop_cat_robot_servant: "Droid Servant"
- pop_cat_robot_servant_plural: "Droid Servants"
+  pop_cat_robot_servant: "Дроид-слуга"
+  pop_cat_robot_servant_plural: "Дроиды-слуги"
 
- job_roboticist_desc: "These technicians build Droids, that the Droids may build for the nation."
+  job_roboticist_desc: "Эти техники создают дроидов, которые будут строить для нужд государства."
 
- mod_planet_pops_robotics_upkeep_mult: "Droid Upkeep"
+  mod_planet_pops_robotics_upkeep_mult: "Содержание дроидов"
 
- mod_planet_jobs_robotic_produces_mult: "Droid Output"
+  mod_planet_jobs_robotic_produces_mult: "Дроиды: производство"
 
- building_robot_assembly_plant: "Droid Assembly Plants"
- building_robot_assembly_plant_desc: "High-tech factories where skilled Droidicists assemble the latest droid models."
+  building_robot_assembly_plant: "Дроидостроительные заводы"
+  building_robot_assembly_plant_desc: "Высокотехнологичные предприятия, где квалифицированные специалисты по дроидотехнике собирают последние модели дроидов."
 
- decision_enact_robot_assembly_control: "Cease Droid Assembly"
- decision_enact_robot_assembly_control_desc: "Ceases the assembly of Droids and Synthetic Pops on this planet."
- decision_enact_robot_assembly_control_effects_short: "Stops Droids and Synthetic Pop assembly on the planet"
- decision_end_robot_assembly_control: "Resume Droids Assembly"
- decision_end_robot_assembly_control_desc: "Resumes the assembly of Droids and Synthetic Pops on this planet."
- decision_end_robot_assembly_control_effects_short: "Resumes assembly of Droids and Synthetic Pops on this planet."
- planet_robot_assembly_control: "Droid Assembly Ceased"
- planet_robot_assembly_control_desc: "The assembly of Droids and Synthetic Pops has ceased for now."
+  decision_enact_robot_assembly_control: "Прекратить сборку дроидов"
+  decision_enact_robot_assembly_control_desc: "Прекращает сбор дроидов и синтетических поселений на этой планете."
+  decision_enact_robot_assembly_control_effects_short: "Останавливает сбор поселений дроидов и синтетиков на планете"
+  decision_end_robot_assembly_control: "Продолжить сборку дроидов"
+  decision_end_robot_assembly_control_desc: "На этой планете продолжится сбор поселений дроидов и синтетиков."
+  decision_end_robot_assembly_control_effects_short: "Возобновляет сбор поселений дроидов и синтетиков на планете."
+  planet_robot_assembly_control: "Сборка дроидов прекращена"
+  planet_robot_assembly_control_desc: "Сборка дроидов и синтетических поселений на данный момент прекращена."
 
- pop_category_robot: "Droid Servant"
+  pop_category_robot: "Дроид-слуга"
 
- planet_pop_robotics: "Droid Species"
+  planet_pop_robotics: "Расы дроидов"
 
-# Distant Stars
+# Distant Stars #NT!
 
- distar.137.tooltip: "Gain two of the following Technologies:\n£engineering §Y$tech_ship_armor_5$§!\n£physics£ §Y$tech_shields_5$§!\n£engineering §Y$tech_mass_drivers_5$§!\n£engineering §Y$tech_missiles_5$§!\n£physics£ §Y$tech_lotor_laser_cannons_5$§!"
+  distar.137.tooltip: "Получите две из следующий технологий:\n £engineering §Y$tech_ship_armor_5$§!\n £physics£ §Y$tech_shields_5$§!\n £engineering §Y$tech_mass_drivers_5$§!\n £engineering §Y$tech_missiles_5$§!\n £physics£ §Y$tech_lotor_laser_cannons_5$§!"
 
- marauder_station: "Center of the Root"
- marauder_station_plural: "Center of the Roots"
- marauder_void_dwelling: "Overgrown Station"
- marauder_void_dwelling_plural: "Overgrown Stations"
- marauder_corvette: "Growth"
- marauder_corvette_plural: "Hunters"
- marauder_destroyer: "Seed"
- marauder_destroyer_plural: "Hunters"
- marauder_cruiser: "Growth"
- marauder_cruiser_plural: "Hunters"
- marauder_galleon: "Harvest"
- marauder_galleon_plural: "Hunters"
+  marauder_station: "Центр корня"
+  marauder_station_plural: "Центр корней"
+  marauder_void_dwelling: "Заросшая станция"
+  marauder_void_dwelling_plural: "Заросшие станции"
+  marauder_corvette: "Прирост"
+  marauder_corvette_plural: "Охотники"
+  marauder_destroyer: "Семя"
+  marauder_destroyer_plural: "Охотники"
+  marauder_cruiser: "Рост"
+  marauder_cruiser_plural: "Охотники"
+  marauder_galleon: "Жатва"
+  marauder_galleon_plural: "Охотники"
 
- resolution_council_denouncement: "Denouncement"
- resolution_council_denouncement_desc: "The [global_event_country.GetGalCommunityOrGalImperium] can propose a resolution to denounce unfriendly members of the [global_event_country.GetGalCommunityOrGalImperium], rendering them vulnerable to any Sanctions that have been passed.\n\nSurely this power won't be abused."
+  resolution_council_denouncement: "Разоблачение"
+  resolution_council_denouncement_desc: "[global_event_country.GetGalCommunityOrGalImperium] может вынести на рассмотрению резолюцию, осуждающую недружественные государства, входящие в [global_event_country.GetGalCommunityOrGalImperium], и делающую их уязвимыми к наложенным санкциям.\n\nНаверняка никто не станет злоупотреблять подобной властью."
 
- # Artisan Troupe > Star Chamber
- leviathans.300.name: "The Star Chamber"
- leviathans.300.desc: "Greetings, [my_country.GetRulerName]. I, the headmaster of the Star Chamber, greet you.\n\nWhat can we do you for? Perhaps produce a work of art for you to enjoy? Or maybe you wish to sponsor our enclave in its creation of otherworldly beauty?"
- leviathans.300.c.allow: "Requires the §YStar Chamber§! to have:\n£opinion£ Opinion +50"
- leviathans.300.d: "Tell us more about yourselves."
- leviathans.300.d.reply: "We are the Star Chamber. We consist of several stations inhabited by creatives from many worlds, all unified in the desire to create new beauty in these safe havens. They bring their ideas and methods from all around the galaxy, and together we will find the ultimate expression of the self.\n\nWe provide many services to those who wish to enjoy art. If you help sponsor our work we might even be willing to organize larger events for your people."
- leviathans.304.a.tooltip: "Gain §G£opinion£ Opinion +1§! with the §YStar Chamber§! each month\n\n"
- leviathans.307.desc: "Our economy cannot support being a patron of the Star Chamber anymore. They will no longer receive funding from our empire. This will surely sour our relationship with the enclave."
- leviathans.307.a.tooltip: "§RRemoves§! the empire modifier §Y$enclave_artist_patron$§!"
- leviathans.310.desc: "The Festival of Worlds organized by the Star Chamber has brought joy to the people of [Root.GetName]. Alas, it was not meant to last.\nOn [this_planet.GetName] the festival activities resulted in a huge crowd stampeding and killing thousands of citizens."
- leviathans.312.desc: "The Festival of Worlds has abruptly stopped. The Star Chamber has packed their bags and left, without saying a word about why.\n\nSearching their campsites and arenas has revealed that a massive amount of resources has disappeared."
- leviathans.313.desc: "The Star Chamber won't respond to our hails."
- leviathans.315.desc: "A visitor! This is a joyous occasion indeed! Oh, forgive my manners. I believe introductions are in order. We are the Star Chamber.\n\nOur members have dedicated their lives to the pursuit of art, music, culture and all the other things which makes existence bearable to a sapient being. Please, if you would like to share in the wonder of our creations, do not hesitate to contact us!"
- leviathans.319.desc: "Esteemed [Root.GetRulerTitle] [Root.GetRulerName], a decade ago the [Root.GetName] pledged to support the Star Chamber, and so you have.\n\nThe time of your patronage is coming to an end, but we would be remiss not to ask; would you care to renew your subscription to the finest arts and crafts in the galaxy?"
- leviathans.323.a.reply: "We humbly thank you for your kind words, and will send them along to the rest of the Star Chamber."
- leviathans.332.desc: "We have received a transmission from the Star Chamber. One of their stations has been destroyed!"
- leviathans.333.desc: "We received a distress signal from the headmaster of the Star Chamber. Their last station and cultural haven has been destroyed. There were few survivors, and the Star Chamber is essentially no more."
- leviathans.334.desc: "After having destroyed the Star Chamber's station we found many resources to salvage from the wreckage. Donations, gifts and creations stacked in its halls, now drifting in space, ready for the taking."
+ # Artisan Troupe > Star Chamber #NT!
+  leviathans.300.name: "Звёздная палата"
+  leviathans.300.desc: "Приветствуем вас, [my_country.GetRulerName]. Я директор Звёздной палаты.\n\nЧем мы можем быть вам полезны? Может быть, создать произведение искусства, которым вы будете наслаждаться? Или, может быть, вы хотите профинансировать работу нашего анклава по созданию небывалой красоты?"
+  leviathans.300.c.allow: "Требуется наличие §YЗвёздной палаты§!:\n£opinion£ Мнение +50"
+  leviathans.300.d: "Расскажите нам о себе побольше."
+  leviathans.300.d.reply: "Мы Звёздная палата. Мы состоим из нескольких станций, населённых творческими людьми из многих миров, объединённых желанием создавать новую красоту в этих безопасных гаванях. Сюда стекаются идеи и методы со всей галактики, и вместе мы хотим добиться идеального самовыражения.\n\nМы предоставляем множество видов услуг тем, кто хочет наслаждаться искусством. Если вы профинансируете нашу работу, то мы, возможно, организуем ещё более крупные мероприятия для ваших граждан."
+  leviathans.304.a.tooltip: "§YЗвёздная палата§! приносит §G£opinion£ +1 к отношению§! каждый месяц\n\n"
+  leviathans.307.desc: "Наша экономика больше не позволяет нам покровительствовать Звёздной палате. Они больше не будут получать финансирование от нашего государства. Несомненно, это подпортит наши отношения с анклавом."
+  leviathans.307.a.tooltip: "§RУдаляет§! модификатор государства §Y$enclave_artist_patron$§!"
+  leviathans.310.desc: "Фестиваль миров, организованный Звёздной палатой, порадовал народ государства [Root.GetName]. Увы, радость была недолгой.\nНа планете [this_planet.GetName] во время праздничных мероприятий в огромной толпе возникла паника и погибли тысячи граждан."
+  leviathans.312.desc: "Фестиваль миров был внезапно прекращён. Звёздная палата собрала свои вещи и улетела без объяснения причин.\n\nПри обыске мест их проживания и арен обнаружилось, что пропало огромное количество ресурсов."
+  leviathans.313.desc: "Звёздная палата не отвечает на наши запросы."
+  leviathans.315.desc: "Гость! Воистину радостное событие! Ох, простите мои манеры! Полагаю, необходимо представиться. Мы — Звёздная палата.\n\nМы посвятили свою жизнь занятию изобразительным искусством, музыкой, культурой и всеми прочими вещами, которые делают бытие разумного создания терпимым. Пожалуйста, если вы желаете приобщиться к нашим чудесным творениям, без колебаний обращайтесь к нам!"
+  leviathans.319.desc: "О [Root.GetRulerTitle] [Root.GetRulerName], десять лет назад [Root.GetName] дали обещание поддержать Звёздную палату, и вы его выполнили.\n\nСрок вашего покровительства подходит к концу, но с нашей стороны было бы беспечным не спросить. Не хотите ли вы продлить подписку на лучшие изделия в галактике?"
+  leviathans.323.a.reply: "Огромное вам спасибо за эти тёплые слова. Мы непременно передадим их остальным членам Звёздной палаты."
+  leviathans.332.desc: "Мы получили сообщение от Звёздной палаты. Одна из их станций уничтожена!"
+  leviathans.333.desc: "Мы получили сигнал бедствия от главного мастера Звёздной палаты. Их последняя станция, служившая культурным центром, уничтожена. Несколько творцов уцелели, но самой Звёздной палаты, по сути, больше нет."
+  leviathans.334.desc: "Уничтожив случайную станцию в системе [station_system. GetName], мы нашли немало ресурсов среди её обломков. Пожертвования, дары и творения, сложённые в её залах, сейчас дрейфуют в космосе, готовые к их подбору."
 
- origin_default: "Emerging Power"
- origin_default_desc: "Tyranny, Instability and War left the Galaxy in ruins, after the mysterious disappearance of the Rakatan Empire and the following time of uncertainty shortly followed by the first Galactic War between the Core Worlds and the Sith Empire, multiple Empires preferred to turn inward and shut themselves of from the outer Galaxy. Now a new generation is born, without the shackles of fear from the prior age. The Galaxy is again a mysterious place full of wonders and worth being explored."
- origin_necrophage: "Necrophage"
- origin_necrophage_desc: "This civilization evolved as a parasite, feeding off other sapient life forms for growth. As it extends its reach across the galaxy, other species will come to be seen either as apprentices to be brought into the fold, or merely as food to sustain its growing might."
- civic_tooltip_necrophage_effects: "- Can convert £pops£ Pops of other species to the §Hprimary species§!.\n- Only Necrophage Pops may be §Hleaders§! or take §Hruler jobs§!.\n- Start with a number of £pops£ Pops of a secondary, prepatent species.\n\n§RLotor Changes:§!\n- Guaranteed habitable planets don't exists, so instead two nearby planets are §Hprimitive civilizations§!."
- origin_ocean_paradise: "Ocean Paradise"
- origin_ocean_paradise_desc: "Since its birth, this civilization has enjoyed peace in a generous environment with no natural enemies, enabling unhindered growth and opulence."
- origin_ocean_paradise_effects: "- Homeworld is an §H$pc_ocean$§! (size: £planetsize£ §Y30§!) with rich §H$food$§! deposits and bonuses to §H$MOD_POP_HAPPINESS$§!, §H$MOD_POP_GROWTH_SPEED$§!, and §HOutput§!.\n\n§RLotor Changes:§!\n- Guaranteed habitable planets don't exists, so no planets get turned into §H$pc_frozen$s§!."
+  origin_default: "Появилась новая сила"
+  origin_default_desc: "Тирания, нестабильность и война оставили галактику в руинах, после таинственного исчезновения Ракатанской империи и последующего периода неопределённости, вскоре последовавшего за первой Галактической Войной между Мирами Ядра и Империей ситхов, многочисленные империи предпочли замкнуться в себе и закрыться от остальной галактики. Теперь рождается новое поколение, избавленное от оков страха предыдущей эпохи. Галактика снова стала таинственным местом, полным чудес, которое стоит исследовать."
+  origin_necrophage: "Некрофаг"
+  origin_necrophage_desc: "Эта цивилизация эволюционировала из паразитов, поглощающих другие разумные формы жизни. Расширяя свои владения в галактике, она будет рассматривать другие виды либо как учеников, которых нужно наставить на путь истинный, либо как очередной источник пищи для поддержания своего могущества."
+  civic_tooltip_necrophage_effects: "- Может превращать поселения £pops£ других видов в поселения §Hосновного вида§!.\n- Только поселения некрофагов могут быть §Hлидерами§! или занимать §Hдолжности правителей§!.\n\n§RИзменения в Lotor:§!\n- Вы не начинаете игру с вторичным, препатентным видов. (Невозможно со статическими картами)\n- Гарантированно пригодных для жизни планет не существует, поэтому две близлежащие планеты являются §Hпримитивными цивилизациями§!."
+  origin_ocean_paradise: "Океанический рай"
+  origin_ocean_paradise_desc: "С момента своего рождения эта цивилизация наслаждалась миром в щедрой среде без естественных врагов, обеспечивая беспрепятственный рост и богатство."
+  origin_ocean_paradise_effects: "- Родной мир — это §H$pc_ocean$§! (размер: £planetsize£ §Y30§!) с богатым месторождением ресурса §H$food$§! и бонусами для §H$MOD_POP_HAPPINESS$§!, §H$MOD_POP_GROWTH_SPEED$§! и §HВывод§!.\n\n§RИзменения Lotor:§!\n- Гарантированно пригодных для жизни планет не существует, поэтому планеты не превращаются в §H$pc_frozen$§!."
 
- origin_doomsday: "Doomsday"
- origin_doomsday_desc: "This civilization's homeworld is highly unstable, and it is only a matter of time before it explodes. Their only hope is to seek refuge elsewhere before it is too late."
- origin_tooltip_doomsday_effects: "§R- WARNING: Challenging Origin§!\n- Your homeworld will explode within §H35 to 45 years§! after the game starts\n- Valuable resources from the doomed planet's mantle boost production on the surface\n\n§RLotor Changes:§!\n- Guaranteed habitable planets don't exists, so we cant remove them. If there are habitable world near your home system depends solely on the map."
+  origin_doomsday: "Судный день"
+  origin_doomsday_desc: "Родной мир этой цивилизации крайне нестабилен, и его взрыв — лишь вопрос времени. Их единственная надежда — найти убежище в другом месте, пока не стало слишком поздно."
+  origin_tooltip_doomsday_effects: "§R- ВНИМАНИЕ: Сложное происхождение§!\n- Ваш родной мир взорвется через §H35-45 лет§! после начала игры\n- Ценные ресурсы из мантии обреченной планеты увеличивают производство на поверхности\n\n§RИзменения Lotor:§!\n- Гарантированно обитаемых планет не существует, поэтому мы не можем их удалить. Наличие обитаемого мира рядом с вашим домом зависит исключительно от карты."
 
- civic_tooltip_machine_servitor_effects: "Start the game with §Y5§! §Rstar wars§! organic £pop£ Pops with £job_bio_trophy£ §Y$citizenship_organic_trophy$§! citizenship and §Y$living_standard_organic_trophy$§! living standard\nCan construct £building£ §Y$building_organic_sanctuary$§! Buildings that allow Bio-Trophies to produce £unity£ §YUnity§! instead of regular Machine Empire buildings such as the £building£ §Y$building_simulation_1$§!"
- civic_tooltip_machine_assimilator_effects: "Start the game with §Y10§! §Rstar wars§! cyborg £pop£ Pops and the ability to §YAssimilate§! organics as cyborgs\nAssimilating an organic £pop£ Pop generates a small amount of £unity£ §YUnity§! and £society£ §YSociety Research§!\nNon-assimilating organic £pop£ Pops are automatically §YPurged§! over time\nHas the §Y'Assimilation'§! casus belli on all other empires\nDecreased §YOpinion§! for most other empires"
+  civic_tooltip_machine_servitor_effects: "Начинает игру с §Y5§! органическими £pop£ поселениями из §RЗвёздных Войн§! со статусом £job_bio_trophy£ §Y$citizenship_organic_trophy$§! и уровнем жизни §Y«$living_standard_organic_trophy$»§!.\nВозможно строительство £building£ сооружений типа §Y$building_organic_sanctuary$§!, позволяющих биотрофеям производить £unity£ §Yединство§! вместо сооружений империи машин, таких как £building£ §Y$building_simulation_1$§!."
+  civic_tooltip_machine_assimilator_effects: "Начинает игру с §Y10§! £pop£ поселениями киборгов из §RЗвёздных Войн§! со способностью §Yассимилировать§! органических существ в качестве киборгов.\nАссимиляция органического £pop£ поселения даёт небольшой прирост £unity£ §Yединства§! и £society£ §Yсоциологических исследований§!.\n£pop£ Поселения органиков, не затронутые ассимиляцией, со временем автоматически подвергаются §Yгеноциду§!.\n§Y«Ассимиляция»§! служит поводом к войне с другими государствами.\n§YМнение§! большинства государств ухудшено."
 
- # Betharian replace with Exonium
- building_betharian_power_plant: "Exonium Power Plant"
- building_betharian_power_plant_desc: "Exonium Power Plants consume Exonium Ore to produce vast amounts of Energy Credits."
- d_betharian_deposit: "Exonium Fields"
- d_betharian_deposit_desc: "Thousands upon thousands of valuable Exonium stones glint like stars in these fields."
- tech_mine_betharian: "Exonium Refining"
- tech_mine_betharian_desc: "The Exonium minerals appear to have originated from a singular source, but were scattered across the galaxy millennia ago. The minerals are most often encountered as pebble-sized clusters, and are highly flammable."
+ # Betharian replace with Exonium #NT!
+  building_betharian_power_plant: "Экзониевая электростанция"
+  building_betharian_power_plant_desc: "Экзониевые электростанции потребляют экзониевую руду и производят энергокредиты в огромном количестве."
+  d_betharian_deposit: "Поля экзония"
+  d_betharian_deposit_desc: "Тысячи и тысячи ценных экзониевых камней сияют на этих полях, словно звёзды."
+  tech_mine_betharian: "Переработка экзония"
+  tech_mine_betharian_desc: "Изначально экзониевые минералы возникли в одном месте, но миллион лет назад разлетелись по всей галактике. Минералы чаще всего встречаются в виде скоплений небольших камней и легко воспламеняются."
 
 
- # Space Ether Dragon --> Duinuogwuin
- leviathans.610.name: "Duinogwuin Encounter"
+ # Space Ether Dragon --> Duinuogwuin #NT!
+  leviathans.610.name: "Столкновение с дуинуогвуином"
 
- leviathans.660.desc: "Buried deep in the crust of [From.GetName] are the partial, fossilized remains of what appears to have been a close relative to the Duinogwuin that once dwelled in the [From.GetStarName] system.\n\nIn the eons since this cousin-Drake's passing, its soft tissues have ossified and its bones indurated, becoming mineral-like in structure."
+  leviathans.660.desc: "Глубоко в коре планеты [From.GetName] находятся разрозненные окаменелые останки существа, бывшего, похоже, близким родственником дуинуогвуина, когда-то обитавшего в системе [From.GetStarName].\n\nЗа тысячелетия, минувшие после гибели зверя, его мягкие ткани окостенели, а отвердевшие кости стали по структуре похожими на минералы."
 
- leviathans.661.desc: "As our mining station orbiting §YDragon's Hoard§! was repositioning to align with a particularly rich mineral vein, sensors picked up something that had hitherto gone undetected.\n\nAn undamaged §YDuinogwuin egg§! in pristine condition, buried beneath the surface of the planetoid and surrounded by the smashed shells of several less fortunate specimens. The egg has been excavated and removed from the mining site, but its ultimate fate remains undecided."
+  leviathans.661.desc: "Когда наша добывающая станция на орбите §YДраконьего клада§! меняла положение вдоль особо богатой минеральной жилы, сенсоры уловили нечто необычное.\n\nНеповрежденное §Yяйцо дуинуогвуина§! в идеальном состоянии, погребённое глубоко в недрах планеты и окружённое обломками его менее везучих собратьев. Мы извлекли яйцо и вывезли его с места его разработки, но его дальнейшая судьба не решена."
 
- leviathans.664.a.tooltip: "Young Duinogwuin §HScile§! joins the fleets of the [Root.Owner.GetName]."
+  leviathans.664.a.tooltip: "Молодой дуинуогвуин §HСциле§! присоединяется к флотилии [Root.Owner.GetName]."
 
- leviathans.670.desc: "The formidable Duinogwuin has been slain. The exceptional bravery of Admiral [From.From.GetLeaderName] and the [From.From.GetName] will not soon be forgotten.\n\nThe §Hplanetoid§! the beast guarded so jealously can now be safely exploited. Who knows what treasures the creature might have amassed over the eons?"
- leviathans.670.desc.noleader: "The formidable Duinogwuin has been slain. The exceptional bravery of the [From.From.GetName] will not soon be forgotten.\n\nThe §Hplanetoid§! the beast guarded so jealously can now be safely exploited. Who knows what treasures the creature might have amassed over the eons?"
- leviathans.670.desc.gesta: "The formidable Duinogwuin has been slain.\n\nThe §Hplanetoid§! the beast guarded so jealously can now be safely exploited. What treasures might the creature have amassed over the eons?"
+  leviathans.670.desc: "Грозный дуинуогвуин убит. Исключительная храбрость адмирала [From.From.GetLeaderName] и [From.From.GetName] не скоро будет забыта.\n\n§HПланетоид§!, который монстр так яростно защищал, теперь можно спокойно изучить. Кто знает, какие сокровища могли здесь скопиться за время прошедших эпох?"
+  leviathans.670.desc.noleader: "Грозный дуинуогвуин убит. Флотилия [From.From.GetName] проявила исключительную храбрость, о которой будут помнить ещё долго.\n\n§HПланетоид§!, который монстр так яростно защищал, теперь можно спокойно изучить. Кто знает, какие сокровища могли здесь скопиться за время прошедших эпох?"
+  leviathans.670.desc.gesta: "Грозный дуинуогвуин убит.\n\n§HПланету§!, которую монстр так яростно защищал, теперь можно спокойно изучить. Какие сокровища это существо могло здесь скопить за время прошедших эпох?"
 
- leviathans.675.desc: "After much work, our necromancers have filled the §YDuinogwuin§! with energy again. The result is lurching and unnerving, but we will call this a success as long as its superheated dragon's breath still works."
+  leviathans.675.desc: "Упорный труд наших некромантов принёс свои плоды: §Yдуинуогвуин §! вернулся к жизни. Существо выглядит жутко и движется с трудом, но если его раскалённое дыхание всё ещё работает, можно считать это успехом."
 
- building_guardian_dragon_shrine: "Duinogwuin Shrine"
- building_guardian_dragon_shrine_desc: "A shrine to the now-extinct Voidwyrm species."
- building_guardian_dragon_monument: "Dragonslayer Monument"
- building_guardian_dragon_monument_desc: "A monument commemorating the defeat of the Duinogwuin."
+  building_guardian_dragon_shrine: "Святилище дуинуогвуин"
+  building_guardian_dragon_shrine_desc: "Святилище, посвящённое ныне вымершей расе змеев пустоты."
+  building_guardian_dragon_monument: "Монумент убийцы драконов"
+  building_guardian_dragon_monument_desc: "Памятник в честь победы над дуинуогвуином."
 
- space_dragon_red: "Duinogwuin"
- space_dragon_red_plural: "Duinogwuins"
+  space_dragon_red: "Дуинуогвуин"
+  space_dragon_red_plural: "Дуинуогвуины"
 
- r_dragon_trophy: "Duinogwuin Trophy"
- r_dragon_trophy_desc: "A trophy commemorating our victory over the nefarious Duinogwuin. Were it not for its immense size, it would look good mounted on a wall."
+  r_dragon_trophy: "Трофей победы над дуинуогвуином"
+  r_dragon_trophy_desc: "Трофей, знаменующий нашу победу над мерзким дуинуогвуином. Если бы не его огромный размер, хорошо смотрелся бы на стене."
 
- DRAGON_INCUBATION_PROJECT: "Duinogwuin Egg Incubation"
- DRAGON_INCUBATION_PROJECT_DESC: "The egg recovered from the Dragon's Hoard still shows faint signs of life. It should be possible to deduce and emulate an ideal incubation environment for the egg, with the goal of eventually hatching it. Should we be successful in hatching the egg, the resulting Duinogwuin is unlikely to match its ancestors in size or power, but with proper domestication will undoubtedly prove to be an incredible asset.\n\nThe egg will not last long outside of the environment it was found in. We must act quickly."
+  DRAGON_INCUBATION_PROJECT: "Инкубация яйца дуинуогвуина"
+  DRAGON_INCUBATION_PROJECT_DESC: "Яйцо, найденное в недрах планеты Драконий клад, подаёт слабые признаки жизни. Теоретически, мы сможем вычислить и сымитировать идеальные условия для яйца, чтобы из него вылупилось существо. Если мы успешно выведем дуинуогвуина, это существо вряд ли будет таким же большим и сильным, как его предки, но после одомашнивания принесёт огромную пользу.\n\nЯйцо не продержится долго вне среды, из которой его извлекли. Надо действовать быстро."
 
- REANIMATE_GUARDIAN_DRAGON: "Reignite the Extinguished Duinogwuin"
- REANIMATE_GUARDIAN_DRAGON_DESC: "Our necromancers believe that they can reignite the spark within the §YDuinogwuin§! by means of ritualistic processes; gathering plasma from the local star, attaching experimental engines to the corpse, and so on."
+  REANIMATE_GUARDIAN_DRAGON: "Воскрешение дуинуогвуина"
+  REANIMATE_GUARDIAN_DRAGON_DESC: "Наши некроманты верят, что им по силам вновь разжечь искру жизни в §Yдуинуогвуине§!. Они намерены провести сложные ритуалы, использовать плазму ближайшей звезды, прикрепить к трупу экспериментальные двигатели и прочее."
 
- aquatics.105.name: "Star Dragon Vanquished"
- aquatics.110.name: "Star Dragon Slain"
- aquatics.110.desc: "The [From.GetName] has vanquished the Star Dragon! As a result of this terrible deed, [dragon_planet.GetName] is now vulnerable to attack."
- aquatics.115.name: "Star Dragon Reanimated"
- aquatics.115.desc: "True to their word, our necromancers have returned the Star Dragon of the [dragon_system.GetName] system to life! Though a little rough around the edges - as one would expect from a being just brought back from the dead - it now eagerly awaits our commands."
- aquatics.115.A: "Our enemies shall burn!"
- REANIMATE_ORIGIN_DRAGON: "Reanimate the Star Dragon"
- aquatics.120.B.tooltip: "The Star Dragon will depart, never to return."
- aquatics.150.desc: "Our [This.Owner.GetResearchers] observing the Star Dragon have reported loud creaking noises seemingly coming from its internal organs. It has also been circling around [Root.GetName] unusually often over the last few months, sometimes swooping right past the upper reaches of the atmosphere before pulling away again. Our working hypothesis is that the creature is hungry and wishes to land to feed, as it has periodically done in the past. It is not clear why it hesitates - perhaps it wishes to see how we react, now that we have joined it among the stars."
- aquatics.170.desc: "After several years of gorging itself on the bountiful harvests of [Root.GetName], the now considerably girthier Star Dragon has once again taken flight. With a final roar in salute, it lifted off - leaving behind a large collection of scales, shed skin, and other byproducts of its presence."
+  aquatics.105.name: "Звёздный дракон побеждён"
+  aquatics.110.name: "Звёздный дракон сражён"
+  aquatics.110.desc: "Государство [From.GetName] сразило звёздного дракона! Это ужасное деяние оставило мир [dragon_planet.GetName] беззащитным перед возможным нападением."
+  aquatics.115.name: "Звёздный дракон возрождён"
+  aquatics.115.desc: "Наши некроманты выполнили обещание и вернули к жизни звёздного дракона из системы [dragon_system.GetName]! Результат не идеален, — а чего ещё ждать от существа, восставшего из мертвых, — но он с готовностью ждет наших приказов."
+  aquatics.115.A: "Наши враги сгорят!"
+  REANIMATE_ORIGIN_DRAGON: "Возродить звёздного дракона"
+  aquatics.120.B.tooltip: "Звёздный дракон навсегда покинет нас."
+  aquatics.150.desc: "Наши [This.Owner.GetResearchers], наблюдающие за звёздным драконом, сообщили о громких скрипучих звуках, источником которых, по-видимому, являются его внутренние органы. Кроме того, дракон стал необычно часто появляться в окрестностях мира [Root.GetName], порой проходя прямо над верхними слоями атмосферы, а затем вновь уходя в космос. Согласно рабочей гипотезе, существо голодно и хочет приземлиться и поесть, как оно делало это ранее. Неясно, почему дракон медлит. Возможно, от ждёт нашей реакции, ведь теперь мы стали соседями среди звёзд."
+  aquatics.170.desc: "После того, как он несколько лет поглощал плоды мира [Root.GetName], располневший звёздный дракон вновь взмывает в небо. Отметив свой взлёт торжественным ревом, он покинул место кормежки, оставив после себя груды чешуек, сброшенной кожи и других продуктов жизнедеятельности."
 
- aquatics.185.desc: "The Star Dragon seems to have taken a dim view of [From.GetAdj] efforts to invade [here_be_dragons_planet.GetName]. It soars to our defense, breathing icy destruction upon their fleets!"
- aquatics.185.desc.landed: "The Star Dragon seems to have taken a dim view of [From.GetAdj] efforts to invade [here_be_dragons_planet.GetName]. Ceasing its repast on the planet, it has taken flight to breathe icy destruction upon their fleets!"
- aquatics.185.A: "All praise the Star Dragon!"
+  aquatics.185.desc: "Похоже, звёдному дракону не понравились попытки государства [From.GetAdj] захватить мир [here_be_dragons_planet.GetName]. Дракон летит нам на помощь, обрушивая ледяное пламя на вражеские флотилии!"
+  aquatics.185.desc.landed: "Похоже, звёздному дракону не понравились попытки государства [From.GetAdj] захватить мир [here_be_dragons_planet.GetName]. Прервав свою трапезу, дракон взлетел и обрушил ледяное пламя на вражеские флотилии!"
+  aquatics.185.A: "Слава звёздному дракону!"
 
- aquatic_events.250.desc: "Following our successes in establishing communications with a number of alien species, one of our leading [This.Owner.GetLinguists] has brought forth a radical proposal. Though past efforts to communicate with the Star Dragon have failed miserably, [needed_name.GetSheHe] argue[needed_name.GetSXX] that now is the time to make another attempt.\n\nAccording to our earliest histories, there was a fabled Accord between [This.Owner.Species.GetName] and Dragon, after which direct conflict ceased. Citing this as proof that understanding on some level is possible, [needed_name.GetSheHe] note[needed_name.GetSXX] that our recent experiences with utterly alien lifeforms make us better equipped than ever before to understand the drake."
- aquatic_events.250.desc.hive: "Having established communications with a number of alien species, our linguistic thought processes have concluded that it is time for us to again attempt to converse with the Star Dragon. Though recent efforts have failed miserably, we dimly recall a past understanding when we made peace with the dragon, following our ancient struggle.\n\nNow that we have more experience in dealing with utterly alien lifeforms, we are better equipped than ever before to understand the drake."
- aquatic_events.250.desc.machine: "Having established communications with a number of alien species, our linguistic subroutines have reached a new consensus: it is again time to attempt to converse with the Star Dragon. Though past efforts have failed by all meaningful criteria, the records of our creators suggest that understanding on some level is possible. After all, they supposedly fought and then made peace with the dragon, for hitherto unknown reasons.\n\nEquipped with experience in dealing with utterly alien lifeforms, we are now better prepared than ever before to seek to understand the drake."
+  aquatic_events.250.desc: "После успешного установления связи с несколькими инопланетными расами наши [This.Owner.GetLinguists] через своего руководителя выдвинули радикальное предложение. Хотя предыдущие усилия наладить контакт с звёздным драконом пошли прахом, [needed_name.GetSheHe] считает, что [needed_name.GetSXX] пора предпринять еще одну попытку.\n\nСудя по нашим древним записям, [This.Owner.Species.GetName] и дракон заключили договор, положивший конец прямым столкновениями. Используя это как доказательство, что понимания можно достичь, [needed_name.GetSheHe] отмечает, что недавние встречи с чуждыми формами жизни хорошо подготовили нас к тому, чтобы понять дракона."
+  aquatic_events.250.desc.hive: "Наладив связь с несколькими инопланетными расами, наши лингвистические мыслительные процессы пришли к выводу, что пора предпринять новую попытку наладить контакт с звёздным драконом. Хотя недавние попытки провалились, у нас остались смутные воспоминания о мирном договоре с драконом, в древности положившим конец вражде с ним.\n\nТеперь мы набрались опыта во взаимодействии с чуждыми формами жизни и лучше подготовлены к тому, чтобы понять дракона."
+  aquatic_events.250.desc.machine: "Наладив связь с несколькими инопланетными расами, наши лингвистические алгоритмы пришли к заключению, что пора предпринять новую попытку наладить контакт с звёздным драконом. Хотя прошлые попытки можно считать провальными по всем критериям, из записей наших создателей следует, что определённого понимания всё же можно достичь. В конце концов, они предположительно сражались с драконом и заключили с ним мир по неизвестным нам причинам.\n\nБлагодаря полученному опыту во взаимодействии с чуждыми формами жизни мы лучше подготовлены к тому, чтобы понять дракона."
 
- space_dragon_origin: "Star Dragon"
- space_dragon_origin_plural: "Star Dragons"
- d_landed_dragon_desc: "The mighty Star Dragon has landed, and is proceeding to devour its way through a startling amount of food."
+  space_dragon_origin: "Звёздный дракон"
+  space_dragon_origin_plural: "Звёздные драконы"
+  d_landed_dragon_desc: "Могучий звёздный дракон приземлился и начал поглощать невероятное количество пищи."
 
-# Automated Dreadnought --> Amaxine Dreadnought
- NAME_Automated_Dreadnought: "Amaxine Dreadnought"
- leviathans.540.name: "Amaxine Dreadnought"
- leviathans.540.desc: "A remnant of the once proud warrior race of the Amaxine Warriors, this massive warship continues to stand vigil over the broken rubble of their empire."
- leviathans.540.a: "$leviathans.510.a$"
- leviathans.540.a.reply: "It was one of several flagships belonging to an unusually powerful interstellar empire called the Amaxine Warriors that flourished in a small region of our galaxy some thousand years ago. Not much is known about their people besides their formidable warrior culture and the fact that they supposedly left the galaxy some thousand years ago in search for another one.\n\nThe Amaxine Dreadnought you have encountered is the last of its kind, and it continues to dutifully patrol its assigned system despite the death of its crew. Many attempts have been made throughout the ages to put the old warship to its final rest - none successful."
- leviathans.540.b: "$leviathans.510.b$"
- leviathans.540.b.reply: "The Amaxine Dreadnought was designed to operate with a large crew, but it now relies exclusively on automated systems to function. This makes the ship especially vulnerable to attacks that disrupt the relay nodes used by its central computer."
- reactor_overdrive: "Reactor Overdrive"
- reactor_overdrive_desc: "A temporary boon from the §YAmaxine Dreadnought's§! reactor is helping power every job on this world."
+# Automated Dreadnought --> Amaxine Dreadnought #NT!
+  NAME_Automated_Dreadnought: "Амаксинский Дредноут"
+  leviathans.540.name: "Амаксинский Дредноут"
+  leviathans.540.desc: "Остатки некогда гордой воинской расы Амаксинских Воинов, этот массивный военный корабль продолжает нести вахту над развалинами их империи."
+  leviathans.540.a: "$leviathans.510.a$"
+  leviathans.540.a.reply: "Это был один из нескольких флагманов, принадлежащих необычайно могущественной межзвездной империи под названием Амаксинские Воины, которая процветала в небольшом регионе нашей галактики несколько тысяч лет назад. Об их народе мало что известно, кроме их грозной воинской культуры и того факта, что они якобы покинули галактику несколько тысяч лет назад в поисках другой.\n\nАмаксинский Дредноут, с которым вы столкнулись, является последним в своем роде, и он продолжает добросовестно патрулировать назначенную ему систему, несмотря на гибель его экипажа. На протяжении веков было предпринято множество попыток привести старый военный корабль в покой, но ни одна из них не увенчалась успехом."
+  leviathans.540.b: "$leviathans.510.b$"
+  leviathans.540.b.reply: "Амаксинский Дредноут был разработан для работы с большим экипажем, но теперь он полагается исключительно на автоматизированные системы. Это делает корабль особенно уязвимым для атак, которые выводят из строя ретрансляционные узлы, используемые его центральным компьютером."
+  reactor_overdrive: "Перегрузка Реактора"
+  reactor_overdrive_desc: "Временный дар от реактора §YАмаксинского Дредноута§! помогает обеспечить энергией каждую работу в этом мире."
 
- leviathans.3100: "Amaxine Dreadnought"
- leviathans.3100.desc: "A single, massive warship has been discovered patrolling the [dreadnought_system.GetName] system. No life signs can be detected on the vessel, but it is emitting a very strong power signature and appears to be bristling with weapon systems. It does not respond to hails.\n\nCaution is advised."
- leviathans.3100.desc.mach: "A single, massive warship has been discovered patrolling the [dreadnought_system.GetName] system. No organic life signs can be detected on the vessel, but it is emitting a very strong power signature and appears to be bristling with weapon systems. It does not respond to hails or data transmission.\n\nCaution is advised."
- leviathans.3102: "Amaxine Dreadnought Disabled"
- leviathans.3102.desc: "We have managed to disable the Amaxine Dreadnought in the [guardians_dreadnought_system.GetName] system. Despite the punishment it took from our ships, the structural integrity of the warship's massive hull remains largely intact.\n\nOur boarding parties found the mummified remains of the dreadnought's amaxine crew still manning their stations. Before expiring, they activated some kind of automated patrol mode which the limited shipboard AI has been locked in for the past 937 years.\n\nAlthough it would take an incredible amount of resources, some of our engineers believe that the amaxine dreadnought can be restored and put back into service with our fleet. It would certainly make for a powerful flagship."
+  leviathans.3100: "Амаксинский Дредноут"
+  leviathans.3100.desc: "Был обнаружен один большой военный корабль, патрулирующий систему [dreadnought_system.GetName]. На корабле не обнаружено никаких признаков жизни, но он излучает очень сильную энергетическую сигнатуру и, похоже, изобилует системами вооружения. На оклик не реагирует.\n\nРекомендуется соблюдать осторожность."
+  leviathans.3100.desc.mach: "Был обнаружен один большой военный корабль, патрулирующий систему [dreadnought_system.GetName]. На корабле не обнаружено никаких органических признаков жизни, но он излучает очень сильную сигнатуру энергии и, похоже, изобилует системами вооружения. Он не отвечает на приветствия или передачу данных.\n\nРекомендуется соблюдать осторожность."
+  leviathans.3102: "Амаксинский Дредноут Отключен"
+  leviathans.3102.desc: "Нам удалось отключить Амаксинский Дредноут в системе [guardians_dreadnought_system.GetName]. Несмотря на удары, которые он получил от наших кораблей, структурная целостность массивного корпуса военного корабля осталась почти нетронутой.\n\nНаши абордажные группы обнаружили мумифицированные останки амаксинового экипажа дредноута, все еще занимавших свои места. Перед истечением срока они активировали какой-то автоматический режим патрулирования, в котором ограниченный корабельный ИИ был заблокирован последние 937 лет.\n\nХотя это потребует невероятного количества ресурсов, некоторые из наших инженеров считают, что Амаксинский Дредноут можно восстановить и снова ввести в строй нашего флота. Это, безусловно, сделало бы его мощным флагманом."
 
- leviathans.3103: "Amaxine Dreadnought Repaired"
- leviathans.3103.desc: "This is a momentous day! Our skilled repair crews and engineers have finished their work on the ancient dreadnought we disabled in the [guardians_dreadnought_system.GetName] system. The massive warship has received its full crew complement and been declared ready for service after conducting space trials. With this, we will follow into the footsteps of the Amaxine Warriors!"
- leviathans.3103.desc.mach: "This is a day of significance! Our skilled repairbots and engineering units have finished their work on the ancient dreadnought we disabled in the [guardians_dreadnought_system.GetName] system. The massive warship has received its full crew complement and been declared ready for service after conducting space trials. With this, we will follow into the footsteps of the Amaxine Warriors!"
+  leviathans.3103: "Амаксинсксий Дредноут Восстановлен"
+  leviathans.3103.desc: "Это знаменательный день! Наши квалифицированные ремонтные бригады и инженеры завершили работу над древним дредноутом, который мы отключили в системе [guardians_dreadnought_system.GetName]. Огромный боевой корабль получил полный экипаж и был объявлен готовым к эксплуатации после проведения космических испытаний. С этим мы пойдем по стопам Амаксинских Воинов!"
+  leviathans.3103.desc.mach: "Это важный день! Наши опытные ремонтные роботы и инженерные подразделения завершили работу над древним дредноутом, который мы отключили в системе [guardians_dreadnought_system.GetName]. Огромный боевой корабль получил полный экипаж и был объявлен готовым к эксплуатации после проведения космических испытаний. С этим мы пойдем по стопам Амаксинских Воинов!"
 
-# Enclaves
+# Enclaves #NT!
 
- leviathans.142.desc.first: "$banner.142.desc.first$"
- leviathans.143.desc.first: "$station88.143.a.desc$"
- leviathans.144.desc.first: "$petabys.144.desc.first$"
- leviathans.144.desc.second: "$petabys.144.desc.second$"
+  leviathans.142.desc.first: "$banner.142.desc.first$"
+  leviathans.143.desc.first: "$station88.143.a.desc$"
+  leviathans.144.desc.first: "$petabys.144.desc.first$"
+  leviathans.144.desc.second: "$petabys.144.desc.second$"
 
-# Surveillance Supercomputer ancient relics
- ancrel.12090.desc: "It seems the automated systems in $NAME_Ultima_Vigilis$ are older than we can imagine. The data systems we have hacked do not give us any clues as to the identity or ultimate intentions of its creators, but the one thing we have managed to ascertain is that they arrived no less than 10.000 years ago, and departed soon after setting up the system as an observation post to surveil our entire galaxy.\n\nRemarkably, the system is still operating even after all these years: the array of installations spread across the system are, it turns out, highly sophisticated sensors. They send a live feed to the planet, where the central operating system processes it into information the drones can save and store. Spurred on by shortages of space and matter, it appears that they have improved their data compression techniques with determination: the massive structures on the planet purport to contain the sum of all observations ever recorded. However, we cannot test this assertion, since the data is compressed well beyond our ability to decompress it.\n\nDisturbingly, a reduced stream of \"highlights\" is still being broadcast into empty space. But surely no one is still listening, after all this time? Regardless, our programs are poised to take control of the drones. We may now shape the system to our imagination - if we dare."
+# Surveillance Supercomputer ancient relics #NT!
+  ancrel.12090.desc: "Похоже, автоматизированные системы в $NAME_Ultima_Vigilis$ гораздо старше, чем мы могли подумать. Взломанные системы данных не дают нам никаких указаний на личность или хотя бы намерения их создателей, единственное, что нам удалось установить: прибыли они не менее 10 000 лет назад и ушли вскоре после обустройства системы в качестве наблюдательного пункта для наблюдения за всей нашей галактикой.\n\nПримечательно, что система всё ещё работает даже после всех этих лет: множество установок, разбросанных по системе, как оказалось, представляют собой очень сложные датчики. Они отправляют прямую трансляцию на планету, где центральная операционная система обрабатывает её в информацию, которую дроны могут сохранять и хранить. Подстёгиваемые нехваткой пространства и материи, они, похоже, решительно усовершенствовали свои методы сжатия данных: массивные структуры на планете похоже, способны хранить сумму всех когда-либо зарегистрированных наблюдений. Однако мы не можем проверить это утверждение, поскольку данные сжаты настолько, что мы не можем их распаковать.\n\nВызывает тревогу тот факт, что в пустоту по-прежнему транслируется сокращённый поток данных. Но ведь не может быть чтобы кто-то их до сих пор считывал? В любом случае, наши программы готовы взять под контроль дронов. Теперь мы можем формировать систему в соответствии с нашими желаниями, если осмелимся."

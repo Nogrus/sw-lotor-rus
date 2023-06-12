@@ -1,238 +1,238 @@
 ﻿l_russian:
- SELKATH_urgion: "Urgion"
- SELKATH_datarrion: "Datarrion"
- SELKATH_lurrion: "Lurrion"
- SELKATH_nargion: "Nargion"
- SELKATH_astarion: "Astarion"
- SELKATH_peragion: "Peragion"
- SELKATH_selemarion: "Selemarion"
- SELKATH_lysargion: "Lysargion"
- SELKATH_lusmargion: "Lusmargion"
- SELKATH_hemberarion: "Hemberarion"
- SELKATH_eshnenarion: "Eshnenarion"
- SELKATH_satharion: "Satharion"
- SELKATH_sulugarion: "Sulugarion"
- SELKATH_antargion: "Antargion"
- SELKATH_bessemargion: "Bessemargion"
- SELKATH_vilargion: "Vilargion"
- SELKATH_ysmargion: "Ysmargion"
- SELKATH_ytharion: "Ytharion"
- SELKATH_berekarion: "Berekarion"
- SELKATH_comporgion: "Comporgion"
- SELKATH_cennergion: "Cennergion"
- SELKATH_callustion: "Callustion"
- SELKATH_hethenion: "Hethenion"
- SELKATH_daforgion: "Daforgion"
- SELKATH_nifargion: "Nifargion"
- SELKATH_cibbanion: "Cibbanion"
- SELKATH_evanion: "Evanion"
- SELKATH_umselanion: "Umselanion"
- SELKATH_usselargion: "Usselargion"
- SELKATH_sukuragion: "Sukuragion"
- SELKATH_deterabion: "Deterabion"
- SELKATH_dargion: "Dargion"
- SELKATH_shanarion: "Shanarion"
- SELKATH_tirindion: "Tirindion"
- SELKATH_kasmalarion: "Kasmalarion"
- SELKATH_sedrinion: "Sedrinion"
- SELKATH_hodronumion: "Hodronumion"
- SELKATH_hasarion: "Hasarion"
- SELKATH_pakharion: "Pakharion"
- SELKATH_gatharion: "Gatharion"
- SELKATH_pondoranion: "Pondoranion"
- SELKATH_vussagion: "Vussagion"
- SELKATH_diramion: "Diramion"
- SELKATH_fidraggion: "Fidraggion"
- SELKATH_hallamion: "Hallamion"
- SELKATH_bathradurion: "Bathradurion"
- SELKATH_janarion: "Janarion"
- SELKATH_pinatarion: "Pinatarion"
- SELKATH_jhunustarion: "Jhunustarion"
- SELKATH_sacradarion: "Sacradarion"
- SELKATH_muntadarion: "Muntadarion"
- SELKATH_volmanarion: "Volmanarion"
- SELKATH_pedrinamion: "Pedrinamion"
- SELKATH_oldaragion: "Oldaragion"
- SELKATH_kargion: "Kargion"
- SELKATH_winithion: "Winithion"
- SELKATH_lakarion: "Lakarion"
- SELKATH_dukrumurion: "Dukrumurion"
- SELKATH_nastarion: "Nastarion"
- SELKATH_nisorgion: "Nisorgion"
- SELKATH_thagarion: "Thagarion"
- SELKATH_kordurion: "Kordurion"
- SELKATH_kadramurion: "Kadramurion"
- SELKATH_condarion: "Condarion"
- SELKATH_cifritharion: "Cifritharion"
- SELKATH_rebrinthion: "Rebrinthion"
- SELKATH_cathradarion: "Cathradarion"
- SELKATH_cimbarion: "Cimbarion"
- SELKATH_duthrularion: "Duthrularion"
- SELKATH_entherabion: "Entherabion"
- SELKATH_redevellion: "Redevellion"
- SELKATH_pentarigion: "Pentarigion"
- SELKATH_bantarion: "Bantarion"
- SELKATH_bijinarion: "Bijinarion"
- SELKATH_valdanarion: "Valdanarion"
- SELKATH_ithisarion: "Ithisarion"
- SELKATH_tolarion: "Tolarion"
- SELKATH_chambadarion: "Chambadarion"
- SELKATH_faldevarion: "Faldevarion"
- SELKATH_nimbadarion: "Nimbadarion"
- SELKATH_zadarion: "Zadarion"
- SELKATH_beseldur: "Beseldur"
- SELKATH_ganandur: "Ganandur"
- SELKATH_vilkasordur: "Vilkasordur"
- SELKATH_jamdur: "Jamdur"
- SELKATH_porandur: "Porandur"
- SELKATH_bakandur: "Bakandur"
- SELKATH_itraldur: "Itraldur"
- SELKATH_varandur: "Varandur"
- SELKATH_jarmakdur: "Jarmakdur"
- SELKATH_sandur: "Sandur"
- SELKATH_kirmandur: "Kirmandur"
- SELKATH_tondur: "Tondur"
- SELKATH_pasdur: "Pasdur"
- SELKATH_livandur: "Livandur"
- SELKATH_ryndur: "Ryndur"
- SELKATH_hiramdur: "Hiramdur"
- SELKATH_ynamdur: "Ynamdur"
- SELKATH_camdur: "Camdur"
- SELKATH_cabandur: "Cabandur"
- SELKATH_jinndur: "Jinndur"
- SELKATH_darasdur: "Darasdur"
- SELKATH_divimdur: "Divimdur"
- SELKATH_avamdur: "Avamdur"
- SELKATH_athirimdur: "Athirimdur"
- SELKATH_ascarimdur: "Ascarimdur"
- SELKATH_ijimdur: "Ijimdur"
- SELKATH_wimdur: "Wimdur"
- SELKATH_trandur: "Trandur"
- SELKATH_evamdur: "Evamdur"
- SELKATH_enildur: "Enildur"
- SELKATH_ecandur: "Ecandur"
- SELKATH_timdur: "Timdur"
- SELKATH_packandur: "Packandur"
- SELKATH_joldur: "Joldur"
- SELKATH_rangdur: "Rangdur"
- SELKATH_rominadur: "Rominadur"
- SELKATH_pivamdur: "Pivamdur"
- SELKATH_maldur: "Maldur"
- SELKATH_makandur: "Makandur"
- SELKATH_nakondur: "Nakondur"
- SELKATH_binamdur: "Binamdur"
- SELKATH_kaldur: "Kaldur"
- SELKATH_kondur: "Kondur"
- SELKATH_uramdur: "Uramdur"
- SELKATH_ubrildur: "Ubrildur"
- SELKATH_rebbendur: "Rebbendur"
- SELKATH_kramdur: "Kramdur"
- SELKATH_konagdur: "Konagdur"
- SELKATH_etaradur: "Etaradur"
- SELKATH_the_progenitor: "The Progenitor"
- SELKATH_reckoning_hrakert: "Reckoning of Hrakert"
- SELKATH_constr_aurek: "Constructor Aurek"
- SELKATH_constr_besh: "Constructor Besh"
- SELKATH_constr_cresh: "Constructor Cresh"
- SELKATH_constr_dorn: "Constructor Dorn"
- SELKATH_constr_forn: "Constructor Forn"
- SELKATH_constr_grek: "Constructor Grek"
- SELKATH_constr_herf: "Constructor Herf"
- SELKATH_constr_isk: "Constructor Isk"
- SELKATH_constr_jenth: "Constructor Jenth"
- SELKATH_constr_krill: "Constructor Krill"
- SELKATH_constr_leth: "Constructor Leth"
- SELKATH_constr_mern: "Constructor Mern"
- SELKATH_constr_nern: "Constructor Nern"
- SELKATH_constr_osk: "Constructor Osk"
- SELKATH_constr_peth: "Constructor Peth"
- SELKATH_constr_senth: "Constructor Senth"
- SELKATH_constr_trill: "Constructor Trill"
- SELKATH_constr_usk: "Constructor Usk"
- SELKATH_constr_vev: "Constructor Vev"
- SELKATH_constr_wesk: "Constructor Wesk"
- SELKATH_constr_xesh: "Constructor Xesh"
- SELKATH_constr_yirt: "Constructor Yirt"
- SELKATH_constr_zerek: "Constructor Zerek"
- SELKATH_constr_cherek: "Constructor Cherek"
- SELKATH_constr_qek: "Constructor Qek"
- SELKATH_constr_resh: "Constructor Resh"
- SELKATH_constr_enth: "Constructor Enth"
- SELKATH_constr_onith: "Constructor Onith"
- SELKATH_constr_krenth: "Constructor Krenth"
- SELKATH_constr_nen: "Constructor Nen"
- SELKATH_constr_orenth: "Constructor Orenth"
- SELKATH_constr_shen: "Constructor Shen"
- SELKATH_constr_thesh: "Constructor Thesh"
- SELKATH_FLEET_task_force_boska: "Task Force Boska"
- SELKATH_FLEET_task_force_utaris: "Task Force Utaris"
- SELKATH_FLEET_task_force_gaddlar: "Task Force Gaddlar"
- SELKATH_FLEET_task_force_mirasma: "Task Force Mirasma"
- SELKATH_FLEET_task_force_yodora: "Task Force Yodora"
- SELKATH_FLEET_task_force_kampas: "Task Force Kampas"
- SELKATH_FLEET_planetary_defense_force: "Planetary Defense Force"
- SELKATH_FLEET_planetary_task_force: "Planetary Task Force"
- SELKATH_FLEET_grand_armada: "Grand Armada"
- SELKATH_FLEET_grand_fleet: "Grand Fleet"
- SELKATH_FLEET_sector_defense_force: "Sector Defense Force"
- SELKATH_FLEET_sector_command_fleet: "Sector Command Fleet"
- SELKATH_FLEET_hrakert_vanguard: "Hrakert Vanguard"
- SELKATH_FLEET_defenders_of_the_high_court: "Defenders of the High Court"
- SELKATH_FLEET_SEQUENTIAL_task_force: "$ORD$ Task Force"
- SELKATH_ARMY_SEQUENTIAL_defensive_regulars: "$ORD$ Defensive Regulars"
- SELKATH_ARMY_SEQUENTIAL_attack_dragoons: "$ORD$ Attack Dragoons"
- SELKATH_ARMY_SEQUENTIAL_battle_thralls: "$ORD$ Battle Thralls"
- SELKATH_ARMY_SEQUENTIAL_warrior_clones: "$ORD$ Warrior Clones"
- SELKATH_ARMY_SEQUENTIAL_dread_force: "$ORD$ Dread Force"
- SELKATH_ARMY_SEQUENTIAL_battle_droid_legion: "$ORD$ Battle Droid Legion"
- SELKATH_ARMY_SEQUENTIAL_defensive_droid_legion: "$ORD$ Defensive Droid Legion"
- SELKATH_ARMY_SEQUENTIAL_psionic_cadre: "$ORD$ Psionic Cadre"
- SELKATH_ARMY_SEQUENTIAL_destroyer_brood: "$ORD$ Destroyer Brood"
- SELKATH_ARMY_SEQUENTIAL_augmented_vanguard: "$ORD$ Augmented Vanguard"
- SELKATH_ARMY_SEQUENTIAL_occupation_regulars: "$ORD$ Occupation Regulars"
- SELKATH_ARMY_SEQUENTIAL_occupation_droids: "$ORD$ Occupation Droids"
- SELKATH_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- SELKATH_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- SELKATH_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- SELKATH_CHR_rodrig: "Rodrig"
- SELKATH_CHR_galdrig: "Galdrig"
- SELKATH_CHR_modrig: "Modrig"
- SELKATH_CHR_valdrig: "Valdrig"
- SELKATH_CHR_jorim: "Jorim"
- SELKATH_CHR_barim: "Barim"
- SELKATH_CHR_virpim: "Virpim"
- SELKATH_CHR_jargim: "Jargim"
- SELKATH_CHR_birm: "Birm"
- SELKATH_CHR_raldirm: "Raldirm"
- SELKATH_CHR_feldirm: "Feldirm"
- SELKATH_CHR_pendirm: "Pendirm"
- SELKATH_CHR_suldirm: "Suldirm"
- SELKATH_CHR_bakrig: "Bakrig"
- SELKATH_CHR_kunrig: "Kunrig"
- SELKATH_CHR_sarim: "Sarim"
- SELKATH_CHR_durim: "Durim"
- SELKATH_CHR_vadrig: "Vadrig"
- SELKATH_CHR_sukadrig: "Sukadrig"
- SELKATH_CHR_pudrig: "Pudrig"
- SELKATH_CHR_vabrig: "Vabrig"
- SELKATH_CHR_goridrig: "Goridrig"
- SELKATH_CHR_den_hullos: "den Hullos"
- SELKATH_CHR_den_badir: "den Badir"
- SELKATH_CHR_den_vathrag: "den Vathrag"
- SELKATH_CHR_den_adasga: "den Adasga"
- SELKATH_CHR_den_polosch: "den Polosch"
- SELKATH_CHR_den_piriam: "den Piriam"
- SELKATH_CHR_den_tarrob: "den Tarrob"
- SELKATH_CHR_den_iridar: "den Iridar"
- SELKATH_CHR_den_rothorag: "den Rothorag"
- SELKATH_CHR_den_sukar: "den Sukar"
- SELKATH_CHR_den_armok: "den Armok"
- SELKATH_CHR_den_vakor: "den Vakor"
- SELKATH_CHR_den_subir: "den Subir"
- SELKATH_CHR_den_vatoris: "den Vatoris"
- SELKATH_CHR_den_telnik: "den Telnik"
- SELKATH_CHR_den_vagors: "den Vagors"
- SELKATH_CHR_den_aramik: "den Aramik"
- SELKATH_CHR_den_pathir: "den Pathir"
- SELKATH_CHR_den_harak: "den Harak"
- SELKATH_CHR_den_boknar: "den Boknar"
+  SELKATH_urgion: "Ургион" #NT!
+  SELKATH_datarrion: "Датаррион" #NT!
+  SELKATH_lurrion: "Луррион" #NT!
+  SELKATH_nargion: "Наргион" #NT!
+  SELKATH_astarion: "Астарион" #NT!
+  SELKATH_peragion: "Перагион" #NT!
+  SELKATH_selemarion: "Селемарион" #NT!
+  SELKATH_lysargion: "Лисаргион" #NT!
+  SELKATH_lusmargion: "Лусмаргион" #NT!
+  SELKATH_hemberarion: "Хемберарион" #NT!
+  SELKATH_eshnenarion: "Эшненарион" #NT!
+  SELKATH_satharion: "Сатарион" #NT!
+  SELKATH_sulugarion: "Сулугарион" #NT!
+  SELKATH_antargion: "Антаргион" #NT!
+  SELKATH_bessemargion: "Бессемаргион" #NT!
+  SELKATH_vilargion: "Виларгион" #NT!
+  SELKATH_ysmargion: "Исмаргион" #NT!
+  SELKATH_ytharion: "Итарион" #NT!
+  SELKATH_berekarion: "Берекарион" #NT!
+  SELKATH_comporgion: "Компоргион" #NT!
+  SELKATH_cennergion: "Кеннергион" #NT!
+  SELKATH_callustion: "Каллустион" #NT!
+  SELKATH_hethenion: "Хетенион" #NT!
+  SELKATH_daforgion: "Дафоргион" #NT!
+  SELKATH_nifargion: "Нифаргион" #NT!
+  SELKATH_cibbanion: "Киббанион" #NT!
+  SELKATH_evanion: "Эванион" #NT!
+  SELKATH_umselanion: "Умселанион" #NT!
+  SELKATH_usselargion: "Усселаргион" #NT!
+  SELKATH_sukuragion: "Сукурагион" #NT!
+  SELKATH_deterabion: "Детерабион" #NT!
+  SELKATH_dargion: "Даргион" #NT!
+  SELKATH_shanarion: "Шанарион" #NT!
+  SELKATH_tirindion: "Тириндион" #NT!
+  SELKATH_kasmalarion: "Касмаларион" #NT!
+  SELKATH_sedrinion: "Седринион" #NT!
+  SELKATH_hodronumion: "Ходронумион" #NT!
+  SELKATH_hasarion: "Хасарион" #NT!
+  SELKATH_pakharion: "Пакхарион" #NT!
+  SELKATH_gatharion: "Гатарион" #NT!
+  SELKATH_pondoranion: "Пондоранион" #NT!
+  SELKATH_vussagion: "Вуссагион" #NT!
+  SELKATH_diramion: "Дирамион" #NT!
+  SELKATH_fidraggion: "Фидраггион" #NT!
+  SELKATH_hallamion: "Халламион" #NT!
+  SELKATH_bathradurion: "Батрадурион" #NT!
+  SELKATH_janarion: "Джанарион" #NT!
+  SELKATH_pinatarion: "Пинатарион" #NT!
+  SELKATH_jhunustarion: "Джунустарион" #NT!
+  SELKATH_sacradarion: "Сакрадарион" #NT!
+  SELKATH_muntadarion: "Мунтадарион" #NT!
+  SELKATH_volmanarion: "Волманарион" #NT!
+  SELKATH_pedrinamion: "Педринамион" #NT!
+  SELKATH_oldaragion: "Олдарагион" #NT!
+  SELKATH_kargion: "Каргион" #NT!
+  SELKATH_winithion: "Винитион" #NT!
+  SELKATH_lakarion: "Лакарион" #NT!
+  SELKATH_dukrumurion: "Дукрумурион" #NT!
+  SELKATH_nastarion: "Настарион" #NT!
+  SELKATH_nisorgion: "Низоргион" #NT!
+  SELKATH_thagarion: "Тагарион" #NT!
+  SELKATH_kordurion: "Кордурион" #NT!
+  SELKATH_kadramurion: "Кадрамурион" #NT!
+  SELKATH_condarion: "Кондарион" #NT!
+  SELKATH_cifritharion: "Цифритарион" #NT!
+  SELKATH_rebrinthion: "Ребринтион" #NT!
+  SELKATH_cathradarion: "Катрадарион" #NT!
+  SELKATH_cimbarion: "Цимбарион" #NT!
+  SELKATH_duthrularion: "Дутруларион" #NT!
+  SELKATH_entherabion: "Энтерабион" #NT!
+  SELKATH_redevellion: "Редевеллион" #NT!
+  SELKATH_pentarigion: "Пентаригион" #NT!
+  SELKATH_bantarion: "Бантарион" #NT!
+  SELKATH_bijinarion: "Биджинарион" #NT!
+  SELKATH_valdanarion: "Валданарион" #NT!
+  SELKATH_ithisarion: "Итизарион" #NT!
+  SELKATH_tolarion: "Толарион" #NT!
+  SELKATH_chambadarion: "Чамбадарион" #NT!
+  SELKATH_faldevarion: "Фалдеварион" #NT!
+  SELKATH_nimbadarion: "Нимбадарион" #NT!
+  SELKATH_zadarion: "Задарион" #NT!
+  SELKATH_beseldur: "Беселдур" #NT!
+  SELKATH_ganandur: "Ганандур" #NT!
+  SELKATH_vilkasordur: "Вилкасордур" #NT!
+  SELKATH_jamdur: "Джамдур" #NT!
+  SELKATH_porandur: "Порандур" #NT!
+  SELKATH_bakandur: "Бакандур" #NT!
+  SELKATH_itraldur: "Итралдур" #NT!
+  SELKATH_varandur: "Варандур" #NT!
+  SELKATH_jarmakdur: "Джармакдур" #NT!
+  SELKATH_sandur: "Сандур" #NT!
+  SELKATH_kirmandur: "Кирмандур" #NT!
+  SELKATH_tondur: "Тондур" #NT!
+  SELKATH_pasdur: "Пасдур" #NT!
+  SELKATH_livandur: "Ливандур" #NT!
+  SELKATH_ryndur: "Риндур" #NT!
+  SELKATH_hiramdur: "Хирамдур" #NT!
+  SELKATH_ynamdur: "Инамдур" #NT!
+  SELKATH_camdur: "Камдур" #NT!
+  SELKATH_cabandur: "Цабандур" #NT!
+  SELKATH_jinndur: "Джинндур" #NT!
+  SELKATH_darasdur: "Дарасдур" #NT!
+  SELKATH_divimdur: "Дивимдур" #NT!
+  SELKATH_avamdur: "Авамдур" #NT!
+  SELKATH_athirimdur: "Атиримдур" #NT!
+  SELKATH_ascarimdur: "Аскаримдур" #NT!
+  SELKATH_ijimdur: "Иджимдур" #NT!
+  SELKATH_wimdur: "Вимдур" #NT!
+  SELKATH_trandur: "Трандур" #NT!
+  SELKATH_evamdur: "Эвамдур" #NT!
+  SELKATH_enildur: "Энилдур" #NT!
+  SELKATH_ecandur: "Экандур" #NT!
+  SELKATH_timdur: "Тимдур" #NT!
+  SELKATH_packandur: "Пакандур" #NT!
+  SELKATH_joldur: "Джолдур" #NT!
+  SELKATH_rangdur: "Рангдур" #NT!
+  SELKATH_rominadur: "Роминадур" #NT!
+  SELKATH_pivamdur: "Пивамдур" #NT!
+  SELKATH_maldur: "Малдур" #NT!
+  SELKATH_makandur: "Макандур" #NT!
+  SELKATH_nakondur: "Накондур" #NT!
+  SELKATH_binamdur: "Бинамдур" #NT!
+  SELKATH_kaldur: "Калдур" #NT!
+  SELKATH_kondur: "Кондур" #NT!
+  SELKATH_uramdur: "Урамдур" #NT!
+  SELKATH_ubrildur: "Убрилдур" #NT!
+  SELKATH_rebbendur: "Реббендур" #NT!
+  SELKATH_kramdur: "Крамдур" #NT!
+  SELKATH_konagdur: "Конагдур" #NT!
+  SELKATH_etaradur: "Этарадур" #NT!
+  SELKATH_the_progenitor: "Прародительница" #NT!
+  SELKATH_reckoning_hrakert: "Расплата Хракерта" #NT!
+  SELKATH_constr_aurek: "Конструктор «Аурек»" #NT!
+  SELKATH_constr_besh: "Конструктор «Беш»" #NT!
+  SELKATH_constr_cresh: "Конструктор «Креш»" #NT!
+  SELKATH_constr_dorn: "Конструктор «Дорн»" #NT!
+  SELKATH_constr_forn: "Конструктор «Форн»" #NT!
+  SELKATH_constr_grek: "Конструктор «Грек»" #NT!
+  SELKATH_constr_herf: "Конструктор «Херф»" #NT!
+  SELKATH_constr_isk: "Конструктор «Иск»" #NT!
+  SELKATH_constr_jenth: "Конструктор «Джент»" #NT!
+  SELKATH_constr_krill: "Конструктор «Крилл»" #NT!
+  SELKATH_constr_leth: "Конструктор «Лет»" #NT!
+  SELKATH_constr_mern: "Конструктор «Мерн»" #NT!
+  SELKATH_constr_nern: "Конструктор «Нерн»" #NT!
+  SELKATH_constr_osk: "Конструктор «Оск»" #NT!
+  SELKATH_constr_peth: "Конструктор «Пет»" #NT!
+  SELKATH_constr_senth: "Конструктор «Сент»" #NT!
+  SELKATH_constr_trill: "Конструктор «Трилл»" #NT!
+  SELKATH_constr_usk: "Конструктор «Уск»" #NT!
+  SELKATH_constr_vev: "Конструктор «Вев»" #NT!
+  SELKATH_constr_wesk: "Конструктор «Уэск»" #NT!
+  SELKATH_constr_xesh: "Конструктор «Зеш»" #NT!
+  SELKATH_constr_yirt: "Конструктор «Йирт»" #NT!
+  SELKATH_constr_zerek: "Конструктор «Зерек»" #NT!
+  SELKATH_constr_cherek: "Конструктор «Черек»" #NT!
+  SELKATH_constr_qek: "Конструктор «Кек»" #NT!
+  SELKATH_constr_resh: "Конструктор «Реш»" #NT!
+  SELKATH_constr_enth: "Конструктор «Энт»" #NT!
+  SELKATH_constr_onith: "Конструктор «Онит»" #NT!
+  SELKATH_constr_krenth: "Конструктор «Крент»" #NT!
+  SELKATH_constr_nen: "Конструктор «Нен»" #NT!
+  SELKATH_constr_orenth: "Конструктор «Орент»" #NT!
+  SELKATH_constr_shen: "Конструктор «Шен»" #NT!
+  SELKATH_constr_thesh: "Конструктор «Теш»" #NT!
+  SELKATH_FLEET_task_force_boska: "Оперативная группа «Боска»" #NT!
+  SELKATH_FLEET_task_force_utaris: "Оперативная группа «Утарис»" #NT!
+  SELKATH_FLEET_task_force_gaddlar: "Оперативная группа «Гаддлар»" #NT!
+  SELKATH_FLEET_task_force_mirasma: "Оперативная группа «Миразма»" #NT!
+  SELKATH_FLEET_task_force_yodora: "Оперативная группа «Йодора»" #NT!
+  SELKATH_FLEET_task_force_kampas: "Оперативная группа «Кампас»" #NT!
+  SELKATH_FLEET_planetary_defense_force: "Силы планетарной обороны" #NT!
+  SELKATH_FLEET_planetary_task_force: "Планетарная оперативная группа" #NT!
+  SELKATH_FLEET_grand_armada: "Гранд-Армада" #NT!
+  SELKATH_FLEET_grand_fleet: "Великий флот" #NT!
+  SELKATH_FLEET_sector_defense_force: "Силы обороны сектора" #NT!
+  SELKATH_FLEET_sector_command_fleet: "Командный флот сектора" #NT!
+  SELKATH_FLEET_hrakert_vanguard: "Авангард Хракерта" #NT!
+  SELKATH_FLEET_defenders_of_the_high_court: "Защитники Высшего суда" #NT!
+  SELKATH_FLEET_SEQUENTIAL_task_force: "$ORD$ Task Force" #NT!
+  SELKATH_ARMY_SEQUENTIAL_defensive_regulars: "$ORD$ Defensive Regulars" #NT!
+  SELKATH_ARMY_SEQUENTIAL_attack_dragoons: "$ORD$ Attack Dragoons" #NT!
+  SELKATH_ARMY_SEQUENTIAL_battle_thralls: "$ORD$ Battle Thralls" #NT!
+  SELKATH_ARMY_SEQUENTIAL_warrior_clones: "$ORD$ Warrior Clones" #NT!
+  SELKATH_ARMY_SEQUENTIAL_dread_force: "$ORD$ Dread Force" #NT!
+  SELKATH_ARMY_SEQUENTIAL_battle_droid_legion: "$ORD$ Battle Droid Legion" #NT!
+  SELKATH_ARMY_SEQUENTIAL_defensive_droid_legion: "$ORD$ Defensive Droid Legion" #NT!
+  SELKATH_ARMY_SEQUENTIAL_psionic_cadre: "$ORD$ Psionic Cadre" #NT!
+  SELKATH_ARMY_SEQUENTIAL_destroyer_brood: "$ORD$ Destroyer Brood" #NT!
+  SELKATH_ARMY_SEQUENTIAL_augmented_vanguard: "$ORD$ Augmented Vanguard" #NT!
+  SELKATH_ARMY_SEQUENTIAL_occupation_regulars: "$ORD$ Occupation Regulars" #NT!
+  SELKATH_ARMY_SEQUENTIAL_occupation_droids: "$ORD$ Occupation Droids" #NT!
+  SELKATH_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  SELKATH_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  SELKATH_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  SELKATH_CHR_rodrig: "Rodrig" #NT!
+  SELKATH_CHR_galdrig: "Galdrig" #NT!
+  SELKATH_CHR_modrig: "Modrig" #NT!
+  SELKATH_CHR_valdrig: "Valdrig" #NT!
+  SELKATH_CHR_jorim: "Jorim" #NT!
+  SELKATH_CHR_barim: "Barim" #NT!
+  SELKATH_CHR_virpim: "Virpim" #NT!
+  SELKATH_CHR_jargim: "Jargim" #NT!
+  SELKATH_CHR_birm: "Birm" #NT!
+  SELKATH_CHR_raldirm: "Raldirm" #NT!
+  SELKATH_CHR_feldirm: "Feldirm" #NT!
+  SELKATH_CHR_pendirm: "Pendirm" #NT!
+  SELKATH_CHR_suldirm: "Suldirm" #NT!
+  SELKATH_CHR_bakrig: "Bakrig" #NT!
+  SELKATH_CHR_kunrig: "Kunrig" #NT!
+  SELKATH_CHR_sarim: "Sarim" #NT!
+  SELKATH_CHR_durim: "Durim" #NT!
+  SELKATH_CHR_vadrig: "Vadrig" #NT!
+  SELKATH_CHR_sukadrig: "Sukadrig" #NT!
+  SELKATH_CHR_pudrig: "Pudrig" #NT!
+  SELKATH_CHR_vabrig: "Vabrig" #NT!
+  SELKATH_CHR_goridrig: "Goridrig" #NT!
+  SELKATH_CHR_den_hullos: "den Hullos" #NT!
+  SELKATH_CHR_den_badir: "den Badir" #NT!
+  SELKATH_CHR_den_vathrag: "den Vathrag" #NT!
+  SELKATH_CHR_den_adasga: "den Adasga" #NT!
+  SELKATH_CHR_den_polosch: "den Polosch" #NT!
+  SELKATH_CHR_den_piriam: "den Piriam" #NT!
+  SELKATH_CHR_den_tarrob: "den Tarrob" #NT!
+  SELKATH_CHR_den_iridar: "den Iridar" #NT!
+  SELKATH_CHR_den_rothorag: "den Rothorag" #NT!
+  SELKATH_CHR_den_sukar: "den Sukar" #NT!
+  SELKATH_CHR_den_armok: "den Armok" #NT!
+  SELKATH_CHR_den_vakor: "den Vakor" #NT!
+  SELKATH_CHR_den_subir: "den Subir" #NT!
+  SELKATH_CHR_den_vatoris: "den Vatoris" #NT!
+  SELKATH_CHR_den_telnik: "den Telnik" #NT!
+  SELKATH_CHR_den_vagors: "den Vagors" #NT!
+  SELKATH_CHR_den_aramik: "den Aramik" #NT!
+  SELKATH_CHR_den_pathir: "den Pathir" #NT!
+  SELKATH_CHR_den_harak: "den Harak" #NT!
+  SELKATH_CHR_den_boknar: "den Boknar" #NT!

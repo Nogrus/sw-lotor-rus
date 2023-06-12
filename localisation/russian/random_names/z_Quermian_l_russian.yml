@@ -1,170 +1,170 @@
 ﻿l_russian:
- QUERMIAN_halcyon: "Halcyon"
- QUERMIAN_longspur: "Longspur"
- QUERMIAN_itinerant: "Itinerant"
- QUERMIAN_wayfarer: "Wayfarer"
- QUERMIAN_wanderer: "Wanderer"
- QUERMIAN_roamer: "Roamer"
- QUERMIAN_farstrike: "Farstrike"
- QUERMIAN_brawler: "Brawler"
- QUERMIAN_brazen: "Brazen"
- QUERMIAN_representative: "Representative"
- QUERMIAN_threkin: "Threkin"
- QUERMIAN_geedon: "Geedon"
- QUERMIAN_glaser: "Glaser"
- QUERMIAN_glazer: "Glazer"
- QUERMIAN_godar: "Godar"
- QUERMIAN_grappler: "Grappler"
- QUERMIAN_habatok: "Habatok"
- QUERMIAN_halifax: "Halifax"
- QUERMIAN_howlrunner: "Howlrunner"
- QUERMIAN_hyko: "Hyko"
- QUERMIAN_intrepid: "Intrepid"
- QUERMIAN_indefatigable: "Indefatigable"
- QUERMIAN_vindicator: "Vindicator"
- QUERMIAN_blethyline: "Blethyline"
- QUERMIAN_canoid: "Canoid"
- QUERMIAN_banshee: "Banshee"
- QUERMIAN_victory: "Victory"
- QUERMIAN_success: "Success"
- QUERMIAN_triumph: "Triumph"
- QUERMIAN_titan: "Titan"
- QUERMIAN_harrower: "Harrower"
- QUERMIAN_raider: "Raider"
- QUERMIAN_nebula: "Nebula"
- QUERMIAN_dauntless: "Dauntless"
- QUERMIAN_providence: "Providence"
- QUERMIAN_subjugator: "Subjugator"
- QUERMIAN_conqueror: "Conqueror"
- QUERMIAN_crusader: "Crusader"
- QUERMIAN_glory: "Glory"
- QUERMIAN_immortal: "Immortal"
- QUERMIAN_judicator: "Judicator"
- QUERMIAN_vanguard: "Vanguard"
- QUERMIAN_renown: "Renown"
- QUERMIAN_demolisher: "Demolisher"
- QUERMIAN_storm: "Storm"
- QUERMIAN_stormstrike: "Stormstrike"
- QUERMIAN_striker: "Striker"
- QUERMIAN_sundog: "Sundog"
- QUERMIAN_talon: "Talon"
- QUERMIAN_thrasher: "Thrasher"
- QUERMIAN_thunder: "Thunder"
- QUERMIAN_thunderstrike: "Thunderstrike"
- QUERMIAN_purrgil: "Purrgil"
- QUERMIAN_barloz: "Barloz"
- QUERMIAN_bulk: "Bulk"
- QUERMIAN_bursa: "Bursa"
- QUERMIAN_bulwark: "Bulwark"
- QUERMIAN_invincible: "Invincible"
- QUERMIAN_valor: "Valor"
- QUERMIAN_hammer: "Hammer"
- QUERMIAN_sword: "Sword"
- QUERMIAN_shield: "Shield"
- QUERMIAN_brigand: "Brigand"
- QUERMIAN_praetorian: "Praetorian"
- QUERMIAN_lictor: "Lictor"
- QUERMIAN_starlight: "Starlight"
- QUERMIAN_dreadnaught: "Dreadnaught"
- QUERMIAN_vainglorious: "Vainglorious"
- QUERMIAN_tarvix: "Tarvix"
- QUERMIAN_drexl: "Drexl"
- QUERMIAN_rothana: "Rothana"
- QUERMIAN_balmorra: "Balmorra"
- QUERMIAN_lormar: "Lormar"
- QUERMIAN_lupus: "Lupus"
- QUERMIAN_onager: "Onager"
- QUERMIAN_pursuit: "Pursuit"
- QUERMIAN_bavos: "Bavos"
- QUERMIAN_munifex: "Munifex"
- QUERMIAN_mudhorn: "Mudhorn"
- QUERMIAN_gundark: "Gundark"
- QUERMIAN_vaya: "Vaya"
- QUERMIAN_heraklon: "Heraklon"
- QUERMIAN_core_systems: "Core Galaxy Systems"
- QUERMIAN_atgeir: "Atgeir"
- QUERMIAN_flurry_of_bolts: "Flurry of Bolts"
- QUERMIAN_dirty_kick: "Dirty Kick"
- QUERMIAN_vital_shot: "Vital Shot"
- QUERMIAN_quick_shot: "Quick Shot"
- QUERMIAN_all_in: "All In"
- QUERMIAN_eagle_5: "Eagle 5"
- QUERMIAN_lucky_dodge: "Lucky Dodge"
- QUERMIAN_shoot_first: "Shoot First"
- QUERMIAN_nice_try: "Nice Try"
- QUERMIAN_open_wound: "Open Wound"
- QUERMIAN_mortal_wound: "Mortal Wound"
- QUERMIAN_dirty_trickster: "Dirty Trickster"
- QUERMIAN_feelin__woozy: "Feelin' Woozy"
- QUERMIAN_sneaky: "Sneaky"
- QUERMIAN_scrappy: "Scrappy"
- QUERMIAN_shifty_eyed: "Shifty-Eyed"
- QUERMIAN_fight_or_flight: "Fight or Flight"
- QUERMIAN_slippery_devil: "Slippery Devil"
- QUERMIAN_rolling_punches: "Rolling Punches"
- QUERMIAN_surprise_come: "Surprise Comeback"
- QUERMIAN_round_two: "Round Two"
- QUERMIAN_stopping_power: "Stopping Power"
- QUERMIAN_brawler_s_gift: "Brawler's Gift"
- QUERMIAN_loth_wolf: "Loth Wolf"
- QUERMIAN_demon_moon: "Demon Moon"
- QUERMIAN_spice_runner: "Spice Runner"
- QUERMIAN_class_1000: "Class 1000"
- QUERMIAN_neutron_star: "Neutron Star"
- QUERMIAN_loth_cat: "Loth Cat"
- QUERMIAN_tusk_cat: "Tusk Cat"
- QUERMIAN_rancor: "Rancor"
- QUERMIAN_dewback: "Dewback"
- QUERMIAN_exogorth: "Exogorth"
- QUERMIAN_neebray: "Neebray"
- QUERMIAN_mynock: "Mynock"
- QUERMIAN_barri: "Barri"
- QUERMIAN_gralloc: "Gralloc"
- QUERMIAN_grutchin: "Grutchin"
- QUERMIAN_oswaft: "Oswaft"
- QUERMIAN_ridadi: "Ridadi"
- QUERMIAN_scree: "Scree"
- QUERMIAN_space_grazer: "Space Grazer"
- QUERMIAN_stillsail: "Stillsail"
- QUERMIAN_FLEET_SEQUENTIAL_quermian_defense_fleet: "$ORD$ Quermian Defense Fleet"
- QUERMIAN_ARMY_SEQUENTIAL_quermian_planetary_guard: "$ORD$ Quermian Planetary Guard"
- QUERMIAN_ARMY_SEQUENTIAL_quermian_infantry_company: "$ORD$ Quermian Infantry Company"
- QUERMIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units"
- QUERMIAN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion"
- QUERMIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon"
- QUERMIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors"
- QUERMIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- QUERMIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard"
- QUERMIAN_CHR_ayanos: "Ayanos"
- QUERMIAN_CHR_koa: "Koa"
- QUERMIAN_CHR_kalwar: "Kalwar"
- QUERMIAN_CHR_jodo: "Jodo"
- QUERMIAN_CHR_murk: "Murk"
- QUERMIAN_CHR_yarael: "Yarael"
- QUERMIAN_CHR_loo: "Loo"
- QUERMIAN_CHR_vinian: "Vinian"
- QUERMIAN_CHR_nim: "Nim"
- QUERMIAN_CHR_billibango: "Billibango"
- QUERMIAN_CHR_freon: "Freon"
- QUERMIAN_CHR_niai: "Niai"
- QUERMIAN_CHR_gasgano: "Gasgano"
- QUERMIAN_CHR_tosinqas: "Tosinqas"
- QUERMIAN_CHR_ferpil: "Ferpil"
- QUERMIAN_CHR_jarea: "Jarea"
- QUERMIAN_CHR_vestry: "Vestry"
- QUERMIAN_CHR_kindee: "Kindee"
- QUERMIAN_CHR_garulo: "Garulo"
- QUERMIAN_CHR_perrili: "Perrili"
- QUERMIAN_CHR_bactra: "Bactra"
- QUERMIAN_CHR_delko: "Delko"
- QUERMIAN_CHR_kaela: "Kaela"
- QUERMIAN_CHR_kreen: "Kreen"
- QUERMIAN_CHR_lundi: "Lundi"
- QUERMIAN_CHR_poof: "Poof"
- QUERMIAN_CHR_raelo: "Raelo"
- QUERMIAN_CHR_ska: "Ska"
- QUERMIAN_CHR_tar: "Tar"
- QUERMIAN_CHR_ya: "Ya"
- QUERMIAN_CHR_drevan: "Drevan"
- QUERMIAN_CHR_fieso: "Fieso"
- QUERMIAN_CHR_wallaway: "Wallaway"
+  QUERMIAN_halcyon: "Безмятежный" #NT!
+  QUERMIAN_longspur: "Подорожник" #NT!
+  QUERMIAN_itinerant: "Кочующий" #NT!
+  QUERMIAN_wayfarer: "Путник" #NT!
+  QUERMIAN_wanderer: "Скиталец" #NT!
+  QUERMIAN_roamer: "Бродяга" #NT!
+  QUERMIAN_farstrike: "Дальний удар" #NT!
+  QUERMIAN_brawler: "Буян" #NT!
+  QUERMIAN_brazen: "Наглый" #NT!
+  QUERMIAN_representative: "Делегат" #NT!
+  QUERMIAN_threkin: "Трекин" #NT!
+  QUERMIAN_geedon: "Гидон" #NT!
+  QUERMIAN_glaser: "Стекольщик" #NT!
+  QUERMIAN_glazer: "Глейзер" #NT!
+  QUERMIAN_godar: "Годар" #NT!
+  QUERMIAN_grappler: "Борец" #NT!
+  QUERMIAN_habatok: "Хабаток" #NT!
+  QUERMIAN_halifax: "Галифакс" #NT!
+  QUERMIAN_howlrunner: "Тоннельщик" #NT!
+  QUERMIAN_hyko: "Хайко" #NT!
+  QUERMIAN_intrepid: "Бестрепетный" #NT!
+  QUERMIAN_indefatigable: "Неутомимый" #NT!
+  QUERMIAN_vindicator: "Виндикатор" #NT!
+  QUERMIAN_blethyline: "Блетилин" #NT!
+  QUERMIAN_canoid: "Каноид" #NT!
+  QUERMIAN_banshee: "Банши" #NT!
+  QUERMIAN_victory: "Победа" #NT!
+  QUERMIAN_success: "Успех" #NT!
+  QUERMIAN_triumph: "Триумф" #NT!
+  QUERMIAN_titan: "Титан" #NT!
+  QUERMIAN_harrower: "Рассекатель" #NT!
+  QUERMIAN_raider: "Налетчик" #NT!
+  QUERMIAN_nebula: "Туманность" #NT!
+  QUERMIAN_dauntless: "Бесстрашный" #NT!
+  QUERMIAN_providence: "Провидение" #NT!
+  QUERMIAN_subjugator: "Покоритель" #NT!
+  QUERMIAN_conqueror: "Завоеватель" #NT!
+  QUERMIAN_crusader: "Крестоносец" #NT!
+  QUERMIAN_glory: "Слава" #NT!
+  QUERMIAN_immortal: "Бессмертный" #NT!
+  QUERMIAN_judicator: "Вершитель" #NT!
+  QUERMIAN_vanguard: "Авангард" #NT!
+  QUERMIAN_renown: "Признание" #NT!
+  QUERMIAN_demolisher: "Уничтожитель" #NT!
+  QUERMIAN_storm: "Шторм" #NT!
+  QUERMIAN_stormstrike: "Удар бури" #NT!
+  QUERMIAN_striker: "Ударный" #NT!
+  QUERMIAN_sundog: "Ложное солнце" #NT!
+  QUERMIAN_talon: "Коготь" #NT!
+  QUERMIAN_thrasher: "Молотильщик" #NT!
+  QUERMIAN_thunder: "Гром" #NT!
+  QUERMIAN_thunderstrike: "Раскат грома" #NT!
+  QUERMIAN_purrgil: "Пёрргил" #NT!
+  QUERMIAN_barloz: "Барлоз" #NT!
+  QUERMIAN_bulk: "Объёмный" #NT!
+  QUERMIAN_bursa: "Бурса" #NT!
+  QUERMIAN_bulwark: "Оплот" #NT!
+  QUERMIAN_invincible: "Неукротимый" #NT!
+  QUERMIAN_valor: "Доблесть" #NT!
+  QUERMIAN_hammer: "Молот" #NT!
+  QUERMIAN_sword: "Меч" #NT!
+  QUERMIAN_shield: "Щит" #NT!
+  QUERMIAN_brigand: "Разбойник" #NT!
+  QUERMIAN_praetorian: "Преторианец" #NT!
+  QUERMIAN_lictor: "Ликтор" #NT!
+  QUERMIAN_starlight: "Звёздный свет" #NT!
+  QUERMIAN_dreadnaught: "Дредноут" #NT!
+  QUERMIAN_vainglorious: "Тщеславный" #NT!
+  QUERMIAN_tarvix: "Тарвикс" #NT!
+  QUERMIAN_drexl: "Дрексл" #NT!
+  QUERMIAN_rothana: "Ротана" #NT!
+  QUERMIAN_balmorra: "Балморра" #NT!
+  QUERMIAN_lormar: "Лормар" #NT!
+  QUERMIAN_lupus: "Люпус" #NT!
+  QUERMIAN_onager: "Онагр" #NT!
+  QUERMIAN_pursuit: "Погоня" #NT!
+  QUERMIAN_bavos: "Бавос" #NT!
+  QUERMIAN_munifex: "Мунифекс" #NT!
+  QUERMIAN_mudhorn: "Грязерог" #NT!
+  QUERMIAN_gundark: "Гандарк" #NT!
+  QUERMIAN_vaya: "Вайя" #NT!
+  QUERMIAN_heraklon: "Ираклион" #NT!
+  QUERMIAN_core_systems: "Основные галактические системы" #NT!
+  QUERMIAN_atgeir: "Атгейр" #NT!
+  QUERMIAN_flurry_of_bolts: "Шквал молний" #NT!
+  QUERMIAN_dirty_kick: "Подлый удар" #NT!
+  QUERMIAN_vital_shot: "Смертельный выстрел" #NT!
+  QUERMIAN_quick_shot: "Быстрый выстрел" #NT!
+  QUERMIAN_all_in: "Всё включено" #NT!
+  QUERMIAN_eagle_5: "Орёл 5" #NT!
+  QUERMIAN_lucky_dodge: "Удачный уворот" #NT!
+  QUERMIAN_shoot_first: "Стреляй первым" #NT!
+  QUERMIAN_nice_try: "Хорошая попытка" #NT!
+  QUERMIAN_open_wound: "Рваная рана" #NT!
+  QUERMIAN_mortal_wound: "Смертельная рана" #NT!
+  QUERMIAN_dirty_trickster: "Подлый трюкач" #NT!
+  QUERMIAN_feelin__woozy: "Одурманивание" #NT!
+  QUERMIAN_sneaky: "Скрытный" #NT!
+  QUERMIAN_scrappy: "Задиристый" #NT!
+  QUERMIAN_shifty_eyed: "Косой взгляд" #NT!
+  QUERMIAN_fight_or_flight: "Бей или беги" #NT!
+  QUERMIAN_slippery_devil: "Скользкий дьявол" #NT!
+  QUERMIAN_rolling_punches: "Избегающий ударов" #NT!
+  QUERMIAN_surprise_come: "Неожиданное возвращение" #NT!
+  QUERMIAN_round_two: "Второй раунд" #NT!
+  QUERMIAN_stopping_power: "Сдерживающая сила" #NT!
+  QUERMIAN_brawler_s_gift: "Подарок бойца" #NT!
+  QUERMIAN_loth_wolf: "Лот-волк" #NT!
+  QUERMIAN_demon_moon: "Демон-луна" #NT!
+  QUERMIAN_spice_runner: "Перевозчик спайса" #NT!
+  QUERMIAN_class_1000: "Класс 1000" #NT!
+  QUERMIAN_neutron_star: "Нейтронная звезда" #NT!
+  QUERMIAN_loth_cat: "Лот-кот" #NT!
+  QUERMIAN_tusk_cat: "Бивнекот" #NT!
+  QUERMIAN_rancor: "Ранкор" #NT!
+  QUERMIAN_dewback: "Рососпинник" #NT!
+  QUERMIAN_exogorth: "Экзогорт" #NT!
+  QUERMIAN_neebray: "Нибрай" #NT!
+  QUERMIAN_mynock: "Майнок" #NT!
+  QUERMIAN_barri: "Барри" #NT!
+  QUERMIAN_gralloc: "Граллок" #NT!
+  QUERMIAN_grutchin: "Гратчин" #NT!
+  QUERMIAN_oswaft: "Освафт" #NT!
+  QUERMIAN_ridadi: "Ридади" #NT!
+  QUERMIAN_scree: "Скри" #NT!
+  QUERMIAN_space_grazer: "Космический пожиратель" #NT!
+  QUERMIAN_stillsail: "Плавучий парус" #NT!
+  QUERMIAN_FLEET_SEQUENTIAL_quermian_defense_fleet: "$ORD$ Quermian Defense Fleet" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_quermian_planetary_guard: "$ORD$ Quermian Planetary Guard" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_quermian_infantry_company: "$ORD$ Quermian Infantry Company" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_slave_units: "$ORD$ Slave Units" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_clone_battalion: "$ORD$ Clone Battalion" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_battledroid_platoon: "$ORD$ Battledroid Platoon" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_force_warriors: "$ORD$ Force Warriors" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division" #NT!
+  QUERMIAN_ARMY_SEQUENTIAL_eugenic_vanguard: "$ORD$ Eugenic Vanguard" #NT!
+  QUERMIAN_CHR_ayanos: "Айанос" #NT!
+  QUERMIAN_CHR_koa: "Koa" #NT!
+  QUERMIAN_CHR_kalwar: "Кальвар" #NT!
+  QUERMIAN_CHR_jodo: "Джодо" #NT!
+  QUERMIAN_CHR_murk: "Мурк" #NT!
+  QUERMIAN_CHR_yarael: "Йараель" #NT!
+  QUERMIAN_CHR_loo: "Лоо" #NT!
+  QUERMIAN_CHR_vinian: "Виниан" #NT!
+  QUERMIAN_CHR_nim: "Ним" #NT!
+  QUERMIAN_CHR_billibango: "Биллибанго" #NT!
+  QUERMIAN_CHR_freon: "Фреон" #NT!
+  QUERMIAN_CHR_niai: "Ниаи" #NT!
+  QUERMIAN_CHR_gasgano: "Гасгано" #NT!
+  QUERMIAN_CHR_tosinqas: "Тосинкас" #NT!
+  QUERMIAN_CHR_ferpil: "Ферпил" #NT!
+  QUERMIAN_CHR_jarea: "Джарея" #NT!
+  QUERMIAN_CHR_vestry: "Вестри" #NT!
+  QUERMIAN_CHR_kindee: "Киндее" #NT!
+  QUERMIAN_CHR_garulo: "Гаруло" #NT!
+  QUERMIAN_CHR_perrili: "Перрили" #NT!
+  QUERMIAN_CHR_bactra: "Бактра" #NT!
+  QUERMIAN_CHR_delko: "Делко" #NT!
+  QUERMIAN_CHR_kaela: "Каела" #NT!
+  QUERMIAN_CHR_kreen: "Креен" #NT!
+  QUERMIAN_CHR_lundi: "Лунди" #NT!
+  QUERMIAN_CHR_poof: "Пооф" #NT!
+  QUERMIAN_CHR_raelo: "Раэло" #NT!
+  QUERMIAN_CHR_ska: "Ска" #NT!
+  QUERMIAN_CHR_tar: "Тар" #NT!
+  QUERMIAN_CHR_ya: "Йа" #NT!
+  QUERMIAN_CHR_drevan: "Древан" #NT!
+  QUERMIAN_CHR_fieso: "Фиесо" #NT!
+  QUERMIAN_CHR_wallaway: "Уаллавэй" #NT!

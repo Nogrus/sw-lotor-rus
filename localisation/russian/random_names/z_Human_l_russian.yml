@@ -1,1458 +1,1458 @@
 ﻿l_russian:
- HUMAN_halcyon: "Halcyon"
- HUMAN_longspur: "Longspur"
- HUMAN_itinerant: "Itinerant"
- HUMAN_wayfarer: "Wayfarer"
- HUMAN_wanderer: "Wanderer"
- HUMAN_roamer: "Roamer"
- HUMAN_farstrike: "Farstrike"
- HUMAN_brawler: "Brawler"
- HUMAN_brazen: "Brazen"
- HUMAN_representative: "Representative"
- HUMAN_threkin: "Threkin"
- HUMAN_geedon: "Geedon"
- HUMAN_glaser: "Glaser"
- HUMAN_glazer: "Glazer"
- HUMAN_godar: "Godar"
- HUMAN_grappler: "Grappler"
- HUMAN_habatok: "Habatok"
- HUMAN_halifax: "Halifax"
- HUMAN_howlrunner: "Howlrunner"
- HUMAN_hyko: "Hyko"
- HUMAN_intrepid: "Intrepid"
- HUMAN_indefatigable: "Indefatigable"
- HUMAN_vindicator: "Vindicator"
- HUMAN_blethyline: "Blethyline"
- HUMAN_canoid: "Canoid"
- HUMAN_banshee: "Banshee"
- HUMAN_victory: "Victory"
- HUMAN_success: "Success"
- HUMAN_triumph: "Triumph"
- HUMAN_titan: "Titan"
- HUMAN_harrower: "Harrower"
- HUMAN_raider: "Raider"
- HUMAN_nebula: "Nebula"
- HUMAN_dauntless: "Dauntless"
- HUMAN_providence: "Providence"
- HUMAN_subjugator: "Subjugator"
- HUMAN_conqueror: "Conqueror"
- HUMAN_crusader: "Crusader"
- HUMAN_glory: "Glory"
- HUMAN_immortal: "Immortal"
- HUMAN_judicator: "Judicator"
- HUMAN_vanguard: "Vanguard"
- HUMAN_renown: "Renown"
- HUMAN_demolisher: "Demolisher"
- HUMAN_storm: "Storm"
- HUMAN_stormstrike: "Stormstrike"
- HUMAN_striker: "Striker"
- HUMAN_sundog: "Sundog"
- HUMAN_talon: "Talon"
- HUMAN_thrasher: "Thrasher"
- HUMAN_thunder: "Thunder"
- HUMAN_thunderstrike: "Thunderstrike"
- HUMAN_purrgil: "Purrgil"
- HUMAN_barloz: "Barloz"
- HUMAN_bulk: "Bulk"
- HUMAN_bursa: "Bursa"
- HUMAN_bulwark: "Bulwark"
- HUMAN_invincible: "Invincible"
- HUMAN_valor: "Valor"
- HUMAN_hammer: "Hammer"
- HUMAN_sword: "Sword"
- HUMAN_shield: "Shield"
- HUMAN_brigand: "Brigand"
- HUMAN_praetorian: "Praetorian"
- HUMAN_lictor: "Lictor"
- HUMAN_starlight: "Starlight"
- HUMAN_dreadnaught: "Dreadnaught"
- HUMAN_vainglorious: "Vainglorious"
- HUMAN_tarvix: "Tarvix"
- HUMAN_drexl: "Drexl"
- HUMAN_rothana: "Rothana"
- HUMAN_balmorra: "Balmorra"
- HUMAN_lormar: "Lormar"
- HUMAN_lupus: "Lupus"
- HUMAN_onager: "Onager"
- HUMAN_pursuit: "Pursuit"
- HUMAN_bavos: "Bavos"
- HUMAN_munifex: "Munifex"
- HUMAN_mudhorn: "Mudhorn"
- HUMAN_gundark: "Gundark"
- HUMAN_vaya: "Vaya"
- HUMAN_heraklon: "Heraklon"
- HUMAN_core_systems: "Core Galaxy Systems"
- HUMAN_atgeir: "Atgeir"
- HUMAN_loth_wolf: "Loth Wolf"
- HUMAN_demon_moon: "Demon Moon"
- HUMAN_spice_runner: "Spice Runner"
- HUMAN_class_1000: "Class 1000"
- HUMAN_eagle_5: "Eagle 5"
- HUMAN_neutron_star: "Neutron Star"
- HUMAN_loth_cat: "Loth Cat"
- HUMAN_tusk_cat: "Tusk Cat"
- HUMAN_constr_aurek: "Constructor Aurek"
- HUMAN_constr_besh: "Constructor Besh"
- HUMAN_constr_cresh: "Constructor Cresh"
- HUMAN_constr_dorn: "Constructor Dorn"
- HUMAN_constr_forn: "Constructor Forn"
- HUMAN_constr_grek: "Constructor Grek"
- HUMAN_constr_herf: "Constructor Herf"
- HUMAN_constr_isk: "Constructor Isk"
- HUMAN_constr_jenth: "Constructor Jenth"
- HUMAN_constr_krill: "Constructor Krill"
- HUMAN_constr_leth: "Constructor Leth"
- HUMAN_constr_mern: "Constructor Mern"
- HUMAN_constr_nern: "Constructor Nern"
- HUMAN_constr_osk: "Constructor Osk"
- HUMAN_constr_peth: "Constructor Peth"
- HUMAN_constr_senth: "Constructor Senth"
- HUMAN_constr_trill: "Constructor Trill"
- HUMAN_constr_usk: "Constructor Usk"
- HUMAN_constr_vev: "Constructor Vev"
- HUMAN_constr_wesk: "Constructor Wesk"
- HUMAN_constr_xesh: "Constructor Xesh"
- HUMAN_constr_yirt: "Constructor Yirt"
- HUMAN_constr_zerek: "Constructor Zerek"
- HUMAN_constr_cherek: "Constructor Cherek"
- HUMAN_constr_qek: "Constructor Qek"
- HUMAN_constr_resh: "Constructor Resh"
- HUMAN_constr_enth: "Constructor Enth"
- HUMAN_constr_onith: "Constructor Onith"
- HUMAN_constr_krenth: "Constructor Krenth"
- HUMAN_constr_nen: "Constructor Nen"
- HUMAN_constr_orenth: "Constructor Orenth"
- HUMAN_constr_shen: "Constructor Shen"
- HUMAN_constr_thesh: "Constructor Thesh"
- HUMAN_courier: "Courier"
- HUMAN_ground_transport: "Ground Transport"
- HUMAN_FLEET_planetary_defense_force: "Planetary Defense Force"
- HUMAN_FLEET_planetary_task_force: "Planetary Task Force"
- HUMAN_FLEET_grand_armada: "Grand Armada"
- HUMAN_FLEET_grand_fleet: "Grand Fleet"
- HUMAN_FLEET_sector_defense_force: "Sector Defense Force"
- HUMAN_FLEET_sector_command_fleet: "Sector Command Fleet"
- HUMAN_FLEET_SEQUENTIAL_fleet: "$ORD$ Fleet"
- HUMAN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard"
- HUMAN_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Expeditionary Force"
- HUMAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- HUMAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- HUMAN_ARMY_SEQUENTIAL_dread_commando: "$ORD$ Dread Commando"
- HUMAN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- HUMAN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- HUMAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- HUMAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- HUMAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- HUMAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- HUMAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- HUMAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- HUMAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- HUMAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- HUMAN_CHR_dorian: "Dorian"
- HUMAN_CHR_trondor: "Trondor"
- HUMAN_CHR_khoss: "Khoss"
- HUMAN_CHR_jonash: "Jonash"
- HUMAN_CHR_carth: "Carth"
- HUMAN_CHR_aric: "Aric"
- HUMAN_CHR_tanno: "Tanno"
- HUMAN_CHR_corso: "Corso"
- HUMAN_CHR_languss: "Languss"
- HUMAN_CHR_fideltin: "Fideltin"
- HUMAN_CHR_tharan: "Tharan"
- HUMAN_CHR_arrisan: "Arrisan"
- HUMAN_CHR_meck: "Meck"
- HUMAN_CHR_ved: "Ved"
- HUMAN_CHR_luran: "Luran"
- HUMAN_CHR_deringon: "Deringon"
- HUMAN_CHR_parr: "Parr"
- HUMAN_CHR_gellar: "Gellar"
- HUMAN_CHR_gault: "Gault"
- HUMAN_CHR_jimas: "Jimas"
- HUMAN_CHR_saul: "Saul"
- HUMAN_CHR_dallan: "Dallan"
- HUMAN_CHR_catronus: "Catronus"
- HUMAN_CHR_zayne: "Zayne"
- HUMAN_CHR_bey_wan: "Bey'wan"
- HUMAN_CHR_trede: "Trede"
- HUMAN_CHR_dabrin: "Dabrin"
- HUMAN_CHR_dol: "Dol"
- HUMAN_CHR_telettoh: "Telettoh"
- HUMAN_CHR_dannis: "Dannis"
- HUMAN_CHR_helik: "Helik"
- HUMAN_CHR_pevel: "Pevel"
- HUMAN_CHR_signet: "Signet"
- HUMAN_CHR_callan: "Callan"
- HUMAN_CHR_vaner: "Vaner"
- HUMAN_CHR_elara: "Elara"
- HUMAN_CHR_risha: "Risha"
- HUMAN_CHR_nadia: "Nadia"
- HUMAN_CHR_marren: "Marren"
- HUMAN_CHR_renalda: "Renalda"
- HUMAN_CHR_sula: "Sula"
- HUMAN_CHR_jynne: "Jynne"
- HUMAN_CHR_fieler: "Fieler"
- HUMAN_CHR_edvaalda: "Edvaalda"
- HUMAN_CHR_elin: "Elin"
- HUMAN_CHR_juul: "Juul"
- HUMAN_CHR_kalyn: "Kalyn"
- HUMAN_CHR_honor: "Honor"
- HUMAN_CHR_noma: "Noma"
- HUMAN_CHR_forn: "Forn"
- HUMAN_CHR_mural: "Mural"
- HUMAN_CHR_lina: "Lina"
- HUMAN_CHR_leontyne: "Leontyne"
- HUMAN_CHR_risi: "Risi"
- HUMAN_CHR_onara: "Onara"
- HUMAN_CHR_morvis: "Morvis"
- HUMAN_CHR_laeca: "Laeca"
- HUMAN_CHR_tol: "Tol"
- HUMAN_CHR_doa: "Doa"
- HUMAN_CHR_jebevel: "Jebevel"
- HUMAN_CHR_vaila: "Vaila"
- HUMAN_CHR_ulm: "Ulm"
- HUMAN_CHR_fillorean: "Fillorean"
- HUMAN_CHR_kirames: "Kirames"
- HUMAN_CHR_janarus: "Janarus"
- HUMAN_CHR_kuat: "Kuat"
- HUMAN_CHR_saresh: "Saresh"
- HUMAN_CHR_pyn: "Pyn"
- HUMAN_CHR_onasi: "Onasi"
- HUMAN_CHR_dorne: "Dorne"
- HUMAN_CHR_jorgan: "Jorgan"
- HUMAN_CHR_vik: "Vik"
- HUMAN_CHR_drayen: "Drayen"
- HUMAN_CHR_riggs: "Riggs"
- HUMAN_CHR_tuno: "Tuno"
- HUMAN_CHR_rusk: "Rusk"
- HUMAN_CHR_cedrax: "Cedrax"
- HUMAN_CHR_grell: "Grell"
- HUMAN_CHR_antilles: "Antilles"
- HUMAN_CHR_baliss: "Baliss"
- HUMAN_CHR_cortess: "Cortess"
- HUMAN_CHR_organa: "Organa"
- HUMAN_CHR_darklighter: "Darklighter"
- HUMAN_CHR_lars: "Lars"
- HUMAN_CHR_kalus: "Kalus"
- HUMAN_CHR_elna: "Elna"
- HUMAN_CHR_agareth: "Agareth"
- HUMAN_CHR_atem: "Atem"
- HUMAN_CHR_veltra: "Veltra"
- HUMAN_CHR_karath: "Karath"
- HUMAN_CHR_sommos: "Sommos"
- HUMAN_CHR_celwik: "Celwik"
- HUMAN_CHR_dan: "Dan"
- HUMAN_CHR_djo: "Djo"
- HUMAN_CHR_feem: "Feem"
- HUMAN_CHR_mothma: "Mothma"
- HUMAN_CHR_fel: "Fel"
- HUMAN_CHR_foslo: "Foslo"
- HUMAN_CHR_garza: "Garza"
- HUMAN_CHR_gonthor: "Gonthor"
- HUMAN_CHR_isard: "Isard"
- HUMAN_CHR_dume: "Dume"
- HUMAN_CHR_jarrus: "Jarrus"
- HUMAN_CHR_jax: "Jax"
- HUMAN_CHR_jettster: "Jettster"
- HUMAN_CHR_jinn: "Jinn"
- HUMAN_CHR_pellaeon: "Pellaeon"
- HUMAN_CHR_lobacc: "Lobacc"
- HUMAN_CHR_martez: "Martez"
- HUMAN_CHR_meeko: "Meeko"
- HUMAN_CHR_pestage: "Pestage"
- HUMAN_CHR_rennow: "Rennow"
- HUMAN_CHR_lokai: "Lokai"
- HUMAN_CHR_roing: "Roing"
- HUMAN_CHR_salima: "Salima"
- HUMAN_CHR_sienar: "Sienar"
- HUMAN_CHR_tarkin: "Tarkin"
- HUMAN_CHR_turmond: "Turmond"
- HUMAN_CHR_yularen: "Yularen"
- HUMAN_CHR_steffans: "Steffans"
- HUMAN_CHR_carrick: "Carrick"
- HUMAN_CHR_dodonna: "Dodonna"
- HUMAN_CHR_aygo: "Aygo"
- HUMAN_CHR_bakvalen: "Bakvalen"
- HUMAN_CHR_narlock: "Narlock"
- HUMAN_CHR_veriga: "Veriga"
- HUMAN_CHR_kronara: "Kronara"
- HUMAN_CHR_veen: "Veen"
- HUMAN_CHR_soh: "Soh"
- HUMAN_CHR_kalpana: "Kalpana"
- HUMAN_CHR_ductavis: "Ductavis"
- HUMAN_CHR_kaj: "Kaj"
- HUMAN_CHR_darvus: "Darvus"
- HUMAN_CHR_madon: "Madon"
- HUMAN_CHR_frellka: "Frellka"
- HUMAN_CHR_gonn: "Gonn"
- HUMAN_CHR_nadab: "Nadab"
- HUMAN_CHR_redrish: "Redrish"
- HUMAN_CHR_rike: "Rike"
- HUMAN_CHR_grayne: "Grayne"
- HUMAN_CHR_finis: "Finis"
- HUMAN_CHR_kodir: "Kodir"
- HUMAN_CHR_pers_lya: "Pers'lya"
- HUMAN_CHR_tarsus: "Tarsus"
- HUMAN_CHR_eixes: "Eixes"
- HUMAN_CHR_thoris: "Thoris"
- HUMAN_CHR_fattum: "Fattum"
- HUMAN_CHR_biel: "Biel"
- HUMAN_CHR_skor: "Skor"
- HUMAN_CHR_nagratha: "Nagratha"
- HUMAN_CHR_chasen: "Chasen"
- HUMAN_CHR_pultimo: "Pultimo"
- HUMAN_CHR_sidrona: "Sidrona"
- HUMAN_CHR_vocatara: "Vocatara"
- HUMAN_CHR_teta: "Teta"
- HUMAN_CHR_galena: "Galena"
- HUMAN_CHR_valorum: "Valorum"
- HUMAN_CHR_shan: "Shan"
- HUMAN_CHR_lenoan: "Lenoan"
- HUMAN_CHR_andrim: "Andrim"
- HUMAN_CHR_depon: "Depon"
- HUMAN_CHR_knylenn: "Knylenn"
- HUMAN_CHR_kuhlvult: "Kuhlvult"
- HUMAN_CHR_purkis: "Purkis"
- HUMAN_CHR_praji: "Praji"
- HUMAN_CHR_cressa: "Cressa"
- HUMAN_CHR_delko: "Delko"
- HUMAN_CHR_jerjerrod: "Jerjerrod"
- HUMAN_CHR_pecivas: "Pecivas"
- HUMAN_CHR_darus: "Darus"
- HUMAN_CHR_brashere: "Brashere"
- HUMAN_CHR_mezzileen: "Mezzileen"
- HUMAN_CHR_piian: "Piian"
- HUMAN_CHR_rans: "Rans"
- HUMAN_CHR_thrackan: "Thrackan"
- HUMAN_CHR_aiden: "Aiden"
- HUMAN_CHR_wedge: "Wedge"
- HUMAN_CHR_dur: "Dur"
- HUMAN_CHR_keiran: "Keiran"
- HUMAN_CHR_com: "Com"
- HUMAN_CHR_shor: "Shor"
- HUMAN_CHR_dupas: "Dupas"
- HUMAN_CHR_zekka: "Zekka"
- HUMAN_CHR_daclif: "Daclif"
- HUMAN_CHR_crix: "Crix"
- HUMAN_CHR_kirtan: "Kirtan"
- HUMAN_CHR_corran: "Corran"
- HUMAN_CHR_gil: "Gil"
- HUMAN_CHR_diric: "Diric"
- HUMAN_CHR_doman: "Doman"
- HUMAN_CHR_aidel: "Aidel"
- HUMAN_CHR_saz: "Saz"
- HUMAN_CHR_threkin: "Threkin"
- HUMAN_CHR_randil: "Randil"
- HUMAN_CHR_den: "Den"
- HUMAN_CHR_han: "Han"
- HUMAN_CHR_korol: "Korol"
- HUMAN_CHR_jacen: "Jacen"
- HUMAN_CHR_karl: "Karl"
- HUMAN_CHR_mathieu: "Mathieu"
- HUMAN_CHR_tettsel: "Tettsel"
- HUMAN_CHR_jagged: "Jagged"
- HUMAN_CHR_bayle: "Bayle"
- HUMAN_CHR_tormax: "Tormax"
- HUMAN_CHR_seb: "Seb"
- HUMAN_CHR_jareck: "Jareck"
- HUMAN_CHR_jurnel: "Jurnel"
- HUMAN_CHR_vol: "Vol"
- HUMAN_CHR_conil: "Conil"
- HUMAN_CHR_tekil: "Tekil"
- HUMAN_CHR_shi: "Shi"
- HUMAN_CHR_myron: "Myron"
- HUMAN_CHR_jab: "Jab"
- HUMAN_CHR_garm: "Garm"
- HUMAN_CHR_odair: "Odair"
- HUMAN_CHR_draykken: "Draykken"
- HUMAN_CHR_hraykken: "Hraykken"
- HUMAN_CHR_hiram: "Hiram"
- HUMAN_CHR_anson: "Anson"
- HUMAN_CHR_crev: "Crev"
- HUMAN_CHR_natt: "Natt"
- HUMAN_CHR_sunny: "Sunny"
- HUMAN_CHR_dev: "Dev"
- HUMAN_CHR_grov: "Grov"
- HUMAN_CHR_ezra: "Ezra"
- HUMAN_CHR_ront: "Ront"
- HUMAN_CHR_jerem: "Jerem"
- HUMAN_CHR_monti: "Monti"
- HUMAN_CHR_cole: "Cole"
- HUMAN_CHR_jorj: "Jorj"
- HUMAN_CHR_lanius: "Lanius"
- HUMAN_CHR_jonah: "Jonah"
- HUMAN_CHR_jesseb: "Jesseb"
- HUMAN_CHR_lon: "Lon"
- HUMAN_CHR_banyon: "Banyon"
- HUMAN_CHR_abagga: "Abagga"
- HUMAN_CHR_bobor: "Bobor"
- HUMAN_CHR_macz: "Macz"
- HUMAN_CHR_cubber: "Cubber"
- HUMAN_CHR_waroon: "Waroon"
- HUMAN_CHR_sal: "Sal"
- HUMAN_CHR_darvis: "Darvis"
- HUMAN_CHR_skerrick: "Skerrick"
- HUMAN_CHR_davrin: "Davrin"
- HUMAN_CHR_deegan: "Deegan"
- HUMAN_CHR_deflaros: "Deflaros"
- HUMAN_CHR_sann: "Sann"
- HUMAN_CHR_rothgar: "Rothgar"
- HUMAN_CHR_dex: "Dex"
- HUMAN_CHR_didjoa: "Didjoa"
- HUMAN_CHR_myn: "Myn"
- HUMAN_CHR_valon: "Valon"
- HUMAN_CHR_chelch: "Chelch"
- HUMAN_CHR_yustavan: "Yustavan"
- HUMAN_CHR_tev: "Tev"
- HUMAN_CHR_ivr: "Ivr"
- HUMAN_CHR_atlan: "Atlan"
- HUMAN_CHR_rik: "Rik"
- HUMAN_CHR_voba: "Voba"
- HUMAN_CHR_shol: "Shol"
- HUMAN_CHR_thale: "Thale"
- HUMAN_CHR_darv: "Darv"
- HUMAN_CHR_erno: "Erno"
- HUMAN_CHR_falco: "Falco"
- HUMAN_CHR_barr: "Barr"
- HUMAN_CHR_harlon: "Harlon"
- HUMAN_CHR_annor: "Annor"
- HUMAN_CHR_dannl: "Dannl"
- HUMAN_CHR_chak: "Chak"
- HUMAN_CHR_davin: "Davin"
- HUMAN_CHR_soontir: "Soontir"
- HUMAN_CHR_todr: "Todr"
- HUMAN_CHR_almark: "Almark"
- HUMAN_CHR_ilim: "Ilim"
- HUMAN_CHR_ecclessis: "Ecclessis"
- HUMAN_CHR_salovan: "Salovan"
- HUMAN_CHR_mich: "Mich"
- HUMAN_CHR_jace: "Jace"
- HUMAN_CHR_crale: "Crale"
- HUMAN_CHR_zorajas: "Zorajas"
- HUMAN_CHR_jaylon: "Jaylon"
- HUMAN_CHR_nov: "Nov"
- HUMAN_CHR_gerrol: "Gerrol"
- HUMAN_CHR_markus: "Markus"
- HUMAN_CHR_pharnis: "Pharnis"
- HUMAN_CHR_ellias: "Ellias"
- HUMAN_CHR_scolex: "Scolex"
- HUMAN_CHR_de_hoff: "De'hoff"
- HUMAN_CHR_mramo: "Mramo"
- HUMAN_CHR_elias: "Elias"
- HUMAN_CHR_neeja: "Neeja"
- HUMAN_CHR_kenth: "Kenth"
- HUMAN_CHR_pol: "Pol"
- HUMAN_CHR_viktor: "Viktor"
- HUMAN_CHR_janzel: "Janzel"
- HUMAN_CHR_hendrick: "Hendrick"
- HUMAN_CHR_rodin: "Rodin"
- HUMAN_CHR_enneth: "Enneth"
- HUMAN_CHR_braganti: "Braganti"
- HUMAN_CHR_helfin: "Helfin"
- HUMAN_CHR_jenos: "Jenos"
- HUMAN_CHR_ilyamo: "Ilyamo"
- HUMAN_CHR_gol: "Gol"
- HUMAN_CHR_falan: "Falan"
- HUMAN_CHR_dinnik: "Dinnik"
- HUMAN_CHR_irek: "Irek"
- HUMAN_CHR_bran: "Bran"
- HUMAN_CHR_jabi: "Jabi"
- HUMAN_CHR_jakir: "Jakir"
- HUMAN_CHR_mack: "Mack"
- HUMAN_CHR_wildis: "Wildis"
- HUMAN_CHR_tomi: "Tomi"
- HUMAN_CHR_talan: "Talan"
- HUMAN_CHR_joz: "Joz"
- HUMAN_CHR_heff: "Heff"
- HUMAN_CHR_kal: "Kal"
- HUMAN_CHR_jori: "Jori"
- HUMAN_CHR_joth: "Joth"
- HUMAN_CHR_cohden: "Cohden"
- HUMAN_CHR_ben: "Ben"
- HUMAN_CHR_dorvin: "Dorvin"
- HUMAN_CHR_craddock: "Craddock"
- HUMAN_CHR_denell: "Denell"
- HUMAN_CHR_van: "Van"
- HUMAN_CHR_lex: "Lex"
- HUMAN_CHR_erel: "Erel"
- HUMAN_CHR_kett: "Kett"
- HUMAN_CHR_shoan: "Shoan"
- HUMAN_CHR_tan: "Tan"
- HUMAN_CHR_nevis: "Nevis"
- HUMAN_CHR_bidlo: "Bidlo"
- HUMAN_CHR_pel: "Pel"
- HUMAN_CHR_dael: "Dael"
- HUMAN_CHR_aram: "Aram"
- HUMAN_CHR_yade: "Yade"
- HUMAN_CHR_zuld: "Zuld"
- HUMAN_CHR_yanus: "Yanus"
- HUMAN_CHR_barid: "Barid"
- HUMAN_CHR_dayvid: "Dayvid"
- HUMAN_CHR_tosk: "Tosk"
- HUMAN_CHR_hurn: "Hurn"
- HUMAN_CHR_derremd: "Derremd"
- HUMAN_CHR_janqual: "Janqual"
- HUMAN_CHR_stax: "Stax"
- HUMAN_CHR_fenig: "Fenig"
- HUMAN_CHR_bek: "Bek"
- HUMAN_CHR_romas: "Romas"
- HUMAN_CHR_nozzo: "Nozzo"
- HUMAN_CHR_jasper: "Jasper"
- HUMAN_CHR_aalos: "Aalos"
- HUMAN_CHR_galidon: "Galidon"
- HUMAN_CHR_jav: "Jav"
- HUMAN_CHR_lorn: "Lorn"
- HUMAN_CHR_gilad: "Gilad"
- HUMAN_CHR_kazic: "Kazic"
- HUMAN_CHR_malik: "Malik"
- HUMAN_CHR_petro: "Petro"
- HUMAN_CHR_phaeris: "Phaeris"
- HUMAN_CHR_keekrim: "Keekrim"
- HUMAN_CHR_ilir: "Ilir"
- HUMAN_CHR_dubrank: "Dubrank"
- HUMAN_CHR_mat: "Mat"
- HUMAN_CHR_rallo: "Rallo"
- HUMAN_CHR_custo: "Custo"
- HUMAN_CHR_tait: "Tait"
- HUMAN_CHR_ubis: "Ubis"
- HUMAN_CHR_dash: "Dash"
- HUMAN_CHR_rosh: "Rosh"
- HUMAN_CHR_palejo: "Palejo"
- HUMAN_CHR_andronikos: "Andronikos"
- HUMAN_CHR_jerris: "Jerris"
- HUMAN_CHR_rion: "Rion"
- HUMAN_CHR_thaddeus: "Thaddeus"
- HUMAN_CHR_barit: "Barit"
- HUMAN_CHR_cyru: "Cyru"
- HUMAN_CHR_jornel: "Jornel"
- HUMAN_CHR_newin: "Newin"
- HUMAN_CHR_pech: "Pech"
- HUMAN_CHR_sevik: "Sevik"
- HUMAN_CHR_finn: "Finn"
- HUMAN_CHR_hershel: "Hershel"
- HUMAN_CHR_hasadar: "Hasadar"
- HUMAN_CHR_sherro: "Sherro"
- HUMAN_CHR_silas: "Silas"
- HUMAN_CHR_tennet: "Tennet"
- HUMAN_CHR_jarred: "Jarred"
- HUMAN_CHR_chun: "Chun"
- HUMAN_CHR_keevy: "Keevy"
- HUMAN_CHR_raan: "Raan"
- HUMAN_CHR_jord: "Jord"
- HUMAN_CHR_sarvel: "Sarvel"
- HUMAN_CHR_galvain: "Galvain"
- HUMAN_CHR_denjax: "Denjax"
- HUMAN_CHR_booster: "Booster"
- HUMAN_CHR_probus: "Probus"
- HUMAN_CHR_pavik: "Pavik"
- HUMAN_CHR_renn: "Renn"
- HUMAN_CHR_mill: "Mill"
- HUMAN_CHR_garv: "Garv"
- HUMAN_CHR_harval: "Harval"
- HUMAN_CHR_fynn: "Fynn"
- HUMAN_CHR_hugo: "Hugo"
- HUMAN_CHR_tam: "Tam"
- HUMAN_CHR_denetrius: "Denetrius"
- HUMAN_CHR_vinro: "Vinro"
- HUMAN_CHR_wex: "Wex"
- HUMAN_CHR_jos: "Jos"
- HUMAN_CHR_fliry: "Fliry"
- HUMAN_CHR_halden: "Halden"
- HUMAN_CHR_emmin: "Emmin"
- HUMAN_CHR_attico: "Attico"
- HUMAN_CHR_edbr: "Edbr"
- HUMAN_CHR_brimon: "Brimon"
- HUMAN_CHR_genna: "Genna"
- HUMAN_CHR_fyric: "Fyric"
- HUMAN_CHR_iella: "Iella"
- HUMAN_CHR_sena: "Sena"
- HUMAN_CHR_irenez: "Irenez"
- HUMAN_CHR_dani: "Dani"
- HUMAN_CHR_jaina: "Jaina"
- HUMAN_CHR_danielle: "Danielle"
- HUMAN_CHR_tiion: "Tiion"
- HUMAN_CHR_allana: "Allana"
- HUMAN_CHR_ania: "Ania"
- HUMAN_CHR_dalla: "Dalla"
- HUMAN_CHR_mirax: "Mirax"
- HUMAN_CHR_wynssa: "Wynssa"
- HUMAN_CHR_tira: "Tira"
- HUMAN_CHR_corinna: "Corinna"
- HUMAN_CHR_kandria: "Kandria"
- HUMAN_CHR_tess: "Tess"
- HUMAN_CHR_vora: "Vora"
- HUMAN_CHR_annissya: "Annissya"
- HUMAN_CHR_myri: "Myri"
- HUMAN_CHR_syal: "Syal"
- HUMAN_CHR_zena: "Zena"
- HUMAN_CHR_elga: "Elga"
- HUMAN_CHR_frei: "Frei"
- HUMAN_CHR_camelle: "Camelle"
- HUMAN_CHR_deli: "Deli"
- HUMAN_CHR_roxi: "Roxi"
- HUMAN_CHR_elsen: "Elsen"
- HUMAN_CHR_deena: "Deena"
- HUMAN_CHR_areta: "Areta"
- HUMAN_CHR_sulen: "Sulen"
- HUMAN_CHR_bey: "Bey"
- HUMAN_CHR_annali: "Annali"
- HUMAN_CHR_dova: "Dova"
- HUMAN_CHR_brusela: "Brusela"
- HUMAN_CHR_anni: "Anni"
- HUMAN_CHR_chai: "Chai"
- HUMAN_CHR_kimmi: "Kimmi"
- HUMAN_CHR_cora: "Cora"
- HUMAN_CHR_vella: "Vella"
- HUMAN_CHR_josta: "Josta"
- HUMAN_CHR_viera: "Viera"
- HUMAN_CHR_zindra: "Zindra"
- HUMAN_CHR_coril: "Coril"
- HUMAN_CHR_dayana: "Dayana"
- HUMAN_CHR_destha: "Destha"
- HUMAN_CHR_yama: "Yama"
- HUMAN_CHR_atlanna: "Atlanna"
- HUMAN_CHR_coraline: "Coraline"
- HUMAN_CHR_trins: "Trins"
- HUMAN_CHR_shandy: "Shandy"
- HUMAN_CHR_karin: "Karin"
- HUMAN_CHR_ajai: "Ajai"
- HUMAN_CHR_naz: "Naz"
- HUMAN_CHR_maris: "Maris"
- HUMAN_CHR_bant_ena: "Bant'ena"
- HUMAN_CHR_fianna: "Fianna"
- HUMAN_CHR_teraeza: "Teraeza"
- HUMAN_CHR_cilyn: "Cilyn"
- HUMAN_CHR_jes: "Jes"
- HUMAN_CHR_gixsa: "Gixsa"
- HUMAN_CHR_ta_mara: "Ta-mara"
- HUMAN_CHR_mara: "Mara"
- HUMAN_CHR_tag: "Tag"
- HUMAN_CHR_gallura: "Gallura"
- HUMAN_CHR_bleys: "Bleys"
- HUMAN_CHR_kylaena: "Kylaena"
- HUMAN_CHR_hethra: "Hethra"
- HUMAN_CHR_hirka: "Hirka"
- HUMAN_CHR_sola: "Sola"
- HUMAN_CHR_nola: "Nola"
- HUMAN_CHR_iris: "Iris"
- HUMAN_CHR_brali: "Brali"
- HUMAN_CHR_relva: "Relva"
- HUMAN_CHR_jasha: "Jasha"
- HUMAN_CHR_jenna: "Jenna"
- HUMAN_CHR_renga: "Renga"
- HUMAN_CHR_nyche: "Nyche"
- HUMAN_CHR_waria: "Waria"
- HUMAN_CHR_erin: "Erin"
- HUMAN_CHR_kalifa: "Kalifa"
- HUMAN_CHR_vara: "Vara"
- HUMAN_CHR_karena: "Karena"
- HUMAN_CHR_kess: "Kess"
- HUMAN_CHR_ala: "Ala"
- HUMAN_CHR_kiza: "Kiza"
- HUMAN_CHR_adele: "Adele"
- HUMAN_CHR_vani: "Vani"
- HUMAN_CHR_kym: "Kym"
- HUMAN_CHR_shandria: "Shandria"
- HUMAN_CHR_laudica: "Laudica"
- HUMAN_CHR_lilith: "Lilith"
- HUMAN_CHR_brandy: "Brandy"
- HUMAN_CHR_veega: "Veega"
- HUMAN_CHR_lanah: "Lanah"
- HUMAN_CHR_vinya: "Vinya"
- HUMAN_CHR_meloria: "Meloria"
- HUMAN_CHR_shyla: "Shyla"
- HUMAN_CHR_navah: "Navah"
- HUMAN_CHR_nevhra: "Nevhra"
- HUMAN_CHR_ballia: "Ballia"
- HUMAN_CHR_lilea: "Lilea"
- HUMAN_CHR_sia: "Sia"
- HUMAN_CHR_mindra: "Mindra"
- HUMAN_CHR_kryss: "Kryss"
- HUMAN_CHR_esa: "Esa"
- HUMAN_CHR_faye: "Faye"
- HUMAN_CHR_rhea: "Rhea"
- HUMAN_CHR_rica: "Rica"
- HUMAN_CHR_adea: "Adea"
- HUMAN_CHR_chertyl: "Chertyl"
- HUMAN_CHR_sapra: "Sapra"
- HUMAN_CHR_vega: "Vega"
- HUMAN_CHR_seyda: "Seyda"
- HUMAN_CHR_falthina: "Falthina"
- HUMAN_CHR_sheelya: "Sheelya"
- HUMAN_CHR_nifera: "Nifera"
- HUMAN_CHR_syrin: "Syrin"
- HUMAN_CHR_bria: "Bria"
- HUMAN_CHR_sera: "Sera"
- HUMAN_CHR_siolle: "Siolle"
- HUMAN_CHR_syla: "Syla"
- HUMAN_CHR_zayna: "Zayna"
- HUMAN_CHR_brindy: "Brindy"
- HUMAN_CHR_arada: "Arada"
- HUMAN_CHR_saza: "Saza"
- HUMAN_CHR_milinae: "Milinae"
- HUMAN_CHR_trilinae: "Trilinae"
- HUMAN_CHR_shaedra: "Shaedra"
- HUMAN_CHR_ecile: "Ecile"
- HUMAN_CHR_orpa: "Orpa"
- HUMAN_CHR_vralla: "Vralla"
- HUMAN_CHR_vye: "Vye"
- HUMAN_CHR_alana: "Alana"
- HUMAN_CHR_teniel: "Teniel"
- HUMAN_CHR_demmi: "Demmi"
- HUMAN_CHR_erris: "Erris"
- HUMAN_CHR_jannitha: "Jannitha"
- HUMAN_CHR_hoclaw: "Hoclaw"
- HUMAN_CHR_saxan: "Saxan"
- HUMAN_CHR_gejjen: "Gejjen"
- HUMAN_CHR_delpin: "Delpin"
- HUMAN_CHR_bedoch: "Bedoch"
- HUMAN_CHR_halcyon: "Halcyon"
- HUMAN_CHR_horn: "Horn"
- HUMAN_CHR_fordox: "Fordox"
- HUMAN_CHR_merricope: "Merricope"
- HUMAN_CHR_thomree: "Thomree"
- HUMAN_CHR_thyne: "Thyne"
- HUMAN_CHR_gallamby: "Gallamby"
- HUMAN_CHR_madine: "Madine"
- HUMAN_CHR_starflare: "Starflare"
- HUMAN_CHR_loor: "Loor"
- HUMAN_CHR_bastra: "Bastra"
- HUMAN_CHR_wessiri: "Wessiri"
- HUMAN_CHR_beruss: "Beruss"
- HUMAN_CHR_micamberlecto: "Micamberlecto"
- HUMAN_CHR_terrik: "Terrik"
- HUMAN_CHR_leikvold: "Leikvold"
- HUMAN_CHR_midanyl: "Midanyl"
- HUMAN_CHR_tyrson: "Tyrson"
- HUMAN_CHR_faytonni: "Faytonni"
- HUMAN_CHR_horm: "Horm"
- HUMAN_CHR_kieran: "Kieran"
- HUMAN_CHR_sal_solo: "Sal-Solo"
- HUMAN_CHR_solo: "Solo"
- HUMAN_CHR_a_daasha: "A'Daasha"
- HUMAN_CHR_alder: "Alder"
- HUMAN_CHR_ancher: "Ancher"
- HUMAN_CHR_anjek: "Anjek"
- HUMAN_CHR_anker: "Anker"
- HUMAN_CHR_anyell: "Anyell"
- HUMAN_CHR_arbo: "Arbo"
- HUMAN_CHR_archan: "Archan"
- HUMAN_CHR_ardellian: "Ardellian"
- HUMAN_CHR_arkos: "Arkos"
- HUMAN_CHR_arned: "Arned"
- HUMAN_CHR_arrant: "Arrant"
- HUMAN_CHR_aycen: "Aycen"
- HUMAN_CHR_bakarn: "Bakarn"
- HUMAN_CHR_barad: "Barad"
- HUMAN_CHR_barje: "Barje"
- HUMAN_CHR_barl: "Barl"
- HUMAN_CHR_barthis: "Barthis"
- HUMAN_CHR_bata: "Bata"
- HUMAN_CHR_beech: "Beech"
- HUMAN_CHR_beetilles: "Beetilles"
- HUMAN_CHR_behar: "Behar"
- HUMAN_CHR_bel_iblis: "Bel Iblis"
- HUMAN_CHR_bel_opis: "Bel-Opis"
- HUMAN_CHR_bell: "Bell"
- HUMAN_CHR_belos: "Belos"
- HUMAN_CHR_bender: "Bender"
- HUMAN_CHR_bilure: "Bilure"
- HUMAN_CHR_bish: "Bish"
- HUMAN_CHR_bissa: "Bissa"
- HUMAN_CHR_blancken: "Blancken"
- HUMAN_CHR_bombassa: "Bombassa"
- HUMAN_CHR_bordo: "Bordo"
- HUMAN_CHR_boshek: "BoShek"
- HUMAN_CHR_bounder: "Bounder"
- HUMAN_CHR_bratt: "Bratt"
- HUMAN_CHR_breeger: "Breeger"
- HUMAN_CHR_bricker: "Bricker"
- HUMAN_CHR_brigger: "Brigger"
- HUMAN_CHR_bruckman: "Bruckman"
- HUMAN_CHR_buroy: "Buroy"
- HUMAN_CHR_burr_naxis: "Burr Naxis"
- HUMAN_CHR_byrnloo: "Byrnloo"
- HUMAN_CHR_cadmir: "Cadmir"
- HUMAN_CHR_calay: "Calay"
- HUMAN_CHR_cantarus: "Cantarus"
- HUMAN_CHR_capstan: "Capstan"
- HUMAN_CHR_car_das: "Car'das"
- HUMAN_CHR_carr: "Carr"
- HUMAN_CHR_carter: "Carter"
- HUMAN_CHR_chyler: "Chyler"
- HUMAN_CHR_convorr: "Convorr"
- HUMAN_CHR_cope: "Cope"
- HUMAN_CHR_corse: "Corse"
- HUMAN_CHR_cracken: "Cracken"
- HUMAN_CHR_craddok: "Craddok"
- HUMAN_CHR_creel: "Creel"
- HUMAN_CHR_crisk: "Crisk"
- HUMAN_CHR_cynthisa: "Cynthisa"
- HUMAN_CHR_daine: "Daine"
- HUMAN_CHR_dak: "Dak"
- HUMAN_CHR_dakron: "Dakron"
- HUMAN_CHR_das: "Das"
- HUMAN_CHR_daskmin: "Daskmin"
- HUMAN_CHR_dekker: "Dekker"
- HUMAN_CHR_deng: "Deng"
- HUMAN_CHR_devlin: "Devlin"
- HUMAN_CHR_donos: "Donos"
- HUMAN_CHR_dotyk: "Dotyk"
- HUMAN_CHR_draav: "Draav"
- HUMAN_CHR_drass: "Drass"
- HUMAN_CHR_dravvad: "Dravvad"
- HUMAN_CHR_dreezian: "Dreezian"
- HUMAN_CHR_driscull: "Driscull"
- HUMAN_CHR_dubreas: "Dubreas"
- HUMAN_CHR_duey: "Duey"
- HUMAN_CHR_durron: "Durron"
- HUMAN_CHR_dustrunner: "Dustrunner"
- HUMAN_CHR_dynes: "Dynes"
- HUMAN_CHR_eldon: "Eldon"
- HUMAN_CHR_evnar: "Evnar"
- HUMAN_CHR_faldrin: "Faldrin"
- HUMAN_CHR_fanaso: "Fanaso"
- HUMAN_CHR_fane: "Fane"
- HUMAN_CHR_fash: "Fash"
- HUMAN_CHR_featherlight: "Featherlight"
- HUMAN_CHR_feleema: "Feleema"
- HUMAN_CHR_felyood: "Felyood"
- HUMAN_CHR_ferasi: "Ferasi"
- HUMAN_CHR_varangi: "Varangi"
- HUMAN_CHR_ferd: "Ferd"
- HUMAN_CHR_fhernan: "Fhernan"
- HUMAN_CHR_fische: "Fische"
- HUMAN_CHR_flenn: "Flenn"
- HUMAN_CHR_forno: "Forno"
- HUMAN_CHR_forte: "Forte"
- HUMAN_CHR_furloti: "Furloti"
- HUMAN_CHR_gadren: "Gadren"
- HUMAN_CHR_gara: "Gara"
- HUMAN_CHR_garamin: "Garamin"
- HUMAN_CHR_geissler: "Geissler"
- HUMAN_CHR_hun: "Hun"
- HUMAN_CHR_glider: "Glider"
- HUMAN_CHR_gistang: "Gistang"
- HUMAN_CHR_gleasry: "Gleasry"
- HUMAN_CHR_gorlin: "Gorlin"
- HUMAN_CHR_grath: "Grath"
- HUMAN_CHR_greenley: "Greenley"
- HUMAN_CHR_fulfel: "Fulfel"
- HUMAN_CHR_gurah: "Gurah"
- HUMAN_CHR_halbert: "Halbert"
- HUMAN_CHR_hamber: "Hamber"
- HUMAN_CHR_hamner: "Hamner"
- HUMAN_CHR_handerin: "Handerin"
- HUMAN_CHR_harand: "Harand"
- HUMAN_CHR_haley: "Haley"
- HUMAN_CHR_hel: "Hel"
- HUMAN_CHR_helot: "Helot"
- HUMAN_CHR_hieks: "Hieks"
- HUMAN_CHR_higron: "Higron"
- HUMAN_CHR_holkin: "Holkin"
- HUMAN_CHR_hooge: "Hooge"
- HUMAN_CHR_hus: "Hus"
- HUMAN_CHR_huutar: "Huutar"
- HUMAN_CHR_idanian: "Idanian"
- HUMAN_CHR_inacc: "Inacc"
- HUMAN_CHR_indervin: "Indervin"
- HUMAN_CHR_iniro: "Iniro"
- HUMAN_CHR_innik: "Innik"
- HUMAN_CHR_isken: "Isken"
- HUMAN_CHR_jiklip: "Jiklip"
- HUMAN_CHR_jinsin: "Jinsin"
- HUMAN_CHR_jixton: "Jixton"
- HUMAN_CHR_joben: "Joben"
- HUMAN_CHR_jodhul: "Jodhul"
- HUMAN_CHR_jofer: "Jofer"
- HUMAN_CHR_johnair: "Johnair"
- HUMAN_CHR_jorek: "Jorek"
- HUMAN_CHR_junus: "Junus"
- HUMAN_CHR_k_reye: "K'Reye"
- HUMAN_CHR_kahob: "Kahob"
- HUMAN_CHR_kantt: "Kantt"
- HUMAN_CHR_kanu: "Kanu"
- HUMAN_CHR_karathas: "Karathas"
- HUMAN_CHR_katrane: "Katrane"
- HUMAN_CHR_keer: "Keer"
- HUMAN_CHR_kel_vannon: "Kel'Vannon"
- HUMAN_CHR_van_kellen: "Van Kellen"
- HUMAN_CHR_kener: "Kener"
- HUMAN_CHR_kersos: "Kersos"
- HUMAN_CHR_kilian: "Kilian"
- HUMAN_CHR_kimbo: "Kimbo"
- HUMAN_CHR_kirin: "Kirin"
- HUMAN_CHR_kitt: "Kitt"
- HUMAN_CHR_konya: "Konya"
- HUMAN_CHR_korr: "Korr"
- HUMAN_CHR_krast: "Krast"
- HUMAN_CHR_kwerve: "Kwerve"
- HUMAN_CHR_kwinn: "Kwinn"
- HUMAN_CHR_l_hnnar: "L'hnnar"
- HUMAN_CHR_lerann: "Lerann"
- HUMAN_CHR_levare: "Levare"
- HUMAN_CHR_locke: "Locke"
- HUMAN_CHR_loren: "Loren"
- HUMAN_CHR_loroan: "Loroan"
- HUMAN_CHR_m_rak: "M'rak"
- HUMAN_CHR_madish: "Madish"
- HUMAN_CHR_malo: "Malo"
- HUMAN_CHR_mar_shayal: "Mar-Shayal"
- HUMAN_CHR_maysor: "Maysor"
- HUMAN_CHR_mccallok: "McCallok"
- HUMAN_CHR_king: "King"
- HUMAN_CHR_melikan: "Melikan"
- HUMAN_CHR_millano: "Millano"
- HUMAN_CHR_moeda: "Moeda"
- HUMAN_CHR_montis: "Montis"
- HUMAN_CHR_mor: "Mor"
- HUMAN_CHR_mullawny: "Mullawny"
- HUMAN_CHR_nabon: "Nabon"
- HUMAN_CHR_nataal: "Nataal"
- HUMAN_CHR_navander: "Navander"
- HUMAN_CHR_naytaan: "Naytaan"
- HUMAN_CHR_nedmak: "Nedmak"
- HUMAN_CHR_nimbi: "Nimbi"
- HUMAN_CHR_noaddo: "Noaddo"
- HUMAN_CHR_noorg: "Noorg"
- HUMAN_CHR_norrin: "Norrin"
- HUMAN_CHR_okanor: "Okanor"
- HUMAN_CHR_p_teska: "P'teska"
- HUMAN_CHR_paol: "Paol"
- HUMAN_CHR_parna: "Parna"
- HUMAN_CHR_patrell: "Patrell"
- HUMAN_CHR_pavan: "Pavan"
- HUMAN_CHR_pax: "Pax"
- HUMAN_CHR_pendre: "Pendre"
- HUMAN_CHR_pendron: "Pendron"
- HUMAN_CHR_pon: "Pon"
- HUMAN_CHR_post: "Post"
- HUMAN_CHR_qennto: "Qennto"
- HUMAN_CHR_rai: "Rai"
- HUMAN_CHR_ramak: "Ramak"
- HUMAN_CHR_reendorr: "Reendorr"
- HUMAN_CHR_rendar: "Rendar"
- HUMAN_CHR_reshad: "Reshad"
- HUMAN_CHR_rez: "Rez"
- HUMAN_CHR_rite: "Rite"
- HUMAN_CHR_rojo: "Rojo"
- HUMAN_CHR_ross: "Ross"
- HUMAN_CHR_rydel: "Rydel"
- HUMAN_CHR_saiy: "Saiy"
- HUMAN_CHR_salpivo: "SalPivo"
- HUMAN_CHR_sarkee: "Sarkee"
- HUMAN_CHR_sassich: "Sassich"
- HUMAN_CHR_sau: "Sau"
- HUMAN_CHR_savas: "Savas"
- HUMAN_CHR_seedel: "Seedel"
- HUMAN_CHR_seki: "Seki"
- HUMAN_CHR_seldin: "Seldin"
- HUMAN_CHR_sepen: "Sepen"
- HUMAN_CHR_shae: "Shae"
- HUMAN_CHR_shallo: "Shallo"
- HUMAN_CHR_sharest: "Sharest"
- HUMAN_CHR_shelby: "Shelby"
- HUMAN_CHR_shu: "Shu"
- HUMAN_CHR_sionaro: "Sionaro"
- HUMAN_CHR_sirrah: "Sirrah"
- HUMAN_CHR_sistek: "Sistek"
- HUMAN_CHR_spart: "Spart"
- HUMAN_CHR_stasheff: "Stasheff"
- HUMAN_CHR_stokk: "Stokk"
- HUMAN_CHR_suul: "Suul"
- HUMAN_CHR_swan: "Swan"
- HUMAN_CHR_swift: "Swift"
- HUMAN_CHR_tal_oldra: "Tal-Oldra"
- HUMAN_CHR_tark: "Tark"
- HUMAN_CHR_teppler: "Teppler"
- HUMAN_CHR_tharen: "Tharen"
- HUMAN_CHR_thrakus: "Thrakus"
- HUMAN_CHR_timmer: "Timmer"
- HUMAN_CHR_tinta: "Tinta"
- HUMAN_CHR_tipper: "Tipper"
- HUMAN_CHR_tomas: "Tomas"
- HUMAN_CHR_tommick: "Tommick"
- HUMAN_CHR_torbul: "Torbul"
- HUMAN_CHR_tors: "Tors"
- HUMAN_CHR_torve: "Torve"
- HUMAN_CHR_tredahl: "Tredahl"
- HUMAN_CHR_treece: "Treece"
- HUMAN_CHR_truchong: "Truchong"
- HUMAN_CHR_tumu: "Tumu"
- HUMAN_CHR_turhaya: "Turhaya"
- HUMAN_CHR_uliss: "Uliss"
- HUMAN_CHR_ulbert: "Ulbert"
- HUMAN_CHR_undea: "Undea"
- HUMAN_CHR_untaire: "Untaire"
- HUMAN_CHR_valouri: "Valouri"
- HUMAN_CHR_verenar: "Verenar"
- HUMAN_CHR_vergesso: "Vergesso"
- HUMAN_CHR_vidian: "Vidian"
- HUMAN_CHR_vinram: "Vinram"
- HUMAN_CHR_vio: "Vio"
- HUMAN_CHR_vitale: "Vitale"
- HUMAN_CHR_vondar: "Vondar"
- HUMAN_CHR_vorr: "Vorr"
- HUMAN_CHR_vorru: "Vorru"
- HUMAN_CHR_walden: "Walden"
- HUMAN_CHR_waray: "Waray"
- HUMAN_CHR_wes: "Wes"
- HUMAN_CHR_wred: "Wred"
- HUMAN_CHR_wyum: "Wyum"
- HUMAN_CHR_xoczuko: "Xoczuko"
- HUMAN_CHR_yamagh: "Yamagh"
- HUMAN_CHR_yarar: "Yarar"
- HUMAN_CHR_berethron: "Berethron"
- HUMAN_CHR_threkim: "Threkim"
- HUMAN_CHR_hal: "Hal"
- HUMAN_CHR_rostek: "Rostek"
- HUMAN_CHR_hundi: "Hundi"
- HUMAN_CHR_scerra: "Scerra"
- HUMAN_CHR_darriovof_iii: "Darriovof III"
- HUMAN_CHR_darriovof_iv: "Darriovof IV"
- HUMAN_CHR_alek: "Alek"
- HUMAN_CHR_bail: "Bail"
- HUMAN_CHR_balic: "Balic"
- HUMAN_CHR_bevek: "Bevek"
- HUMAN_CHR_bornan: "Bornan"
- HUMAN_CHR_bouris: "Bouris"
- HUMAN_CHR_cedarik: "Cedarik"
- HUMAN_CHR_charle: "Charle"
- HUMAN_CHR_dargus: "Dargus"
- HUMAN_CHR_deral: "Deral"
- HUMAN_CHR_deris: "Deris"
- HUMAN_CHR_dolin: "Dolin"
- HUMAN_CHR_dugan: "Dugan"
- HUMAN_CHR_elz: "Elz"
- HUMAN_CHR_elkin: "Elkin"
- HUMAN_CHR_gaul: "Gaul"
- HUMAN_CHR_gevin: "Gevin"
- HUMAN_CHR_gorm: "Gorm"
- HUMAN_CHR_gram: "Gram"
- HUMAN_CHR_gurveer: "Gurveer"
- HUMAN_CHR_hall: "Hall"
- HUMAN_CHR_heeth: "Heeth"
- HUMAN_CHR_inivon: "Inivon"
- HUMAN_CHR_ivers: "Ivers"
- HUMAN_CHR_jeremoch: "Jeremoch"
- HUMAN_CHR_jharkus: "Jharkus"
- HUMAN_CHR_joral: "Joral"
- HUMAN_CHR_kamen: "Kamen"
- HUMAN_CHR_kan_grell: "Kan'grell"
- HUMAN_CHR_keldas: "Keldas"
- HUMAN_CHR_kelen: "Kelen"
- HUMAN_CHR_larbec: "Larbec"
- HUMAN_CHR_lenn: "Lenn"
- HUMAN_CHR_lieber: "Lieber"
- HUMAN_CHR_linel: "Linel"
- HUMAN_CHR_lew: "Lew"
- HUMAN_CHR_melas: "Melas"
- HUMAN_CHR_nayel: "Nayel"
- HUMAN_CHR_nomar: "Nomar"
- HUMAN_CHR_nial: "Nial"
- HUMAN_CHR_orrick: "Orrick"
- HUMAN_CHR_pashon: "Pashon"
- HUMAN_CHR_perovius: "Perovius"
- HUMAN_CHR_paulus: "Paulus"
- HUMAN_CHR_quarn: "Quarn"
- HUMAN_CHR_raal: "Raal"
- HUMAN_CHR_raffid: "Raffid"
- HUMAN_CHR_raikon: "Raikon"
- HUMAN_CHR_rak: "Rak"
- HUMAN_CHR_raymus: "Raymus"
- HUMAN_CHR_raynar: "Raynar"
- HUMAN_CHR_rehmar: "Rehmar"
- HUMAN_CHR_rickard: "Rickard"
- HUMAN_CHR_serjay: "Serjay"
- HUMAN_CHR_seraph: "Seraph"
- HUMAN_CHR_stavin: "Stavin"
- HUMAN_CHR_taros: "Taros"
- HUMAN_CHR_tash: "Tash"
- HUMAN_CHR_tenantius: "Tenantius"
- HUMAN_CHR_tavion: "Tavion"
- HUMAN_CHR_thorin: "Thorin"
- HUMAN_CHR_teral: "Teral"
- HUMAN_CHR_trask: "Trask"
- HUMAN_CHR_tyko: "Tyko"
- HUMAN_CHR_varus: "Varus"
- HUMAN_CHR_vessex: "Vessex"
- HUMAN_CHR_victor: "Victor"
- HUMAN_CHR_voron: "Voron"
- HUMAN_CHR_weeznod: "Weeznod"
- HUMAN_CHR_wynne: "Wynne"
- HUMAN_CHR_xin: "Xin"
- HUMAN_CHR_yils: "Yils"
- HUMAN_CHR_yudin: "Yudin"
- HUMAN_CHR_yun: "Yun"
- HUMAN_CHR_zacar: "Zacar"
- HUMAN_CHR_stanel_andaren: "Stanel Andaren"
- HUMAN_CHR_corlis_brado: "Corlis Brado"
- HUMAN_CHR_aered: "Aered"
- HUMAN_CHR_cael: "Cael"
- HUMAN_CHR_peema: "Peema"
- HUMAN_CHR_bryce: "Bryce"
- HUMAN_CHR_atton: "Atton"
- HUMAN_CHR_agrippa: "Agrippa"
- HUMAN_CHR_stonroy: "Stonroy"
- HUMAN_CHR_kalf: "Kalf"
- HUMAN_CHR_zak: "Zak"
- HUMAN_CHR_vestin: "Vestin"
- HUMAN_CHR_denri: "Denri"
- HUMAN_CHR_sehn: "Sehn"
- HUMAN_CHR_bradel: "Bradel"
- HUMAN_CHR_brinn: "Brinn"
- HUMAN_CHR_bylsma: "Bylsma"
- HUMAN_CHR_skoloc: "Skoloc"
- HUMAN_CHR_tycho: "Tycho"
- HUMAN_CHR_corlis: "Corlis"
- HUMAN_CHR_brado: "Brado"
- HUMAN_CHR_jahan: "Jahan"
- HUMAN_CHR_hric: "Hric"
- HUMAN_CHR_skall: "Skall"
- HUMAN_CHR_kier: "Kier"
- HUMAN_CHR_dathis: "Dathis"
- HUMAN_CHR_endo: "Endo"
- HUMAN_CHR_teven: "Teven"
- HUMAN_CHR_lohn: "Lohn"
- HUMAN_CHR_rabael: "Rabael"
- HUMAN_CHR_dir: "Dir"
- HUMAN_CHR_euwood: "Euwood"
- HUMAN_CHR_craige: "Craige"
- HUMAN_CHR_lagan: "Lagan"
- HUMAN_CHR_earnst: "Earnst"
- HUMAN_CHR_dannan: "Dannan"
- HUMAN_CHR_wynt: "Wynt"
- HUMAN_CHR_dictio: "Dictio"
- HUMAN_CHR_rangos: "Rangos"
- HUMAN_CHR_marsden: "Marsden"
- HUMAN_CHR_darmin: "Darmin"
- HUMAN_CHR_zeb: "Zeb"
- HUMAN_CHR_dairn: "Dairn"
- HUMAN_CHR_mazi: "Mazi"
- HUMAN_CHR_santigo: "Santigo"
- HUMAN_CHR_reija: "Reija"
- HUMAN_CHR_kasan: "Kasan"
- HUMAN_CHR_j_er: "J'er"
- HUMAN_CHR_lorac: "Lorac"
- HUMAN_CHR_nuun: "Nuun"
- HUMAN_CHR_pharoth: "Pharoth"
- HUMAN_CHR_ledd: "Ledd"
- HUMAN_CHR_veni: "Veni"
- HUMAN_CHR_kai: "Kai"
- HUMAN_CHR_sam: "Sam"
- HUMAN_CHR_kell: "Kell"
- HUMAN_CHR_tyr: "Tyr"
- HUMAN_CHR_chrigeld: "Chrigeld"
- HUMAN_CHR_malan: "Malan"
- HUMAN_CHR_junas: "Junas"
- HUMAN_CHR_vacca: "Vacca"
- HUMAN_CHR_halagad: "Halagad"
- HUMAN_CHR_adrian: "Adrian"
- HUMAN_CHR_sateen: "Sateen"
- HUMAN_CHR_vanden: "Vanden"
- HUMAN_CHR_gregor: "Gregor"
- HUMAN_CHR_nash: "Nash"
- HUMAN_CHR_dartan: "Dartan"
- HUMAN_CHR_altana: "Altana"
- HUMAN_CHR_an_bal: "An'bal"
- HUMAN_CHR_caline: "Caline"
- HUMAN_CHR_carasynthia: "Carasynthia"
- HUMAN_CHR_cedonia: "Cedonia"
- HUMAN_CHR_corla: "Corla"
- HUMAN_CHR_daria: "Daria"
- HUMAN_CHR_deara: "Deara"
- HUMAN_CHR_elana: "Elana"
- HUMAN_CHR_fasha: "Fasha"
- HUMAN_CHR_gerane: "Gerane"
- HUMAN_CHR_gesselle: "Gesselle"
- HUMAN_CHR_lenan: "Lenan"
- HUMAN_CHR_mazicia: "Mazicia"
- HUMAN_CHR_onway: "Onway"
- HUMAN_CHR_pabel: "Pabel"
- HUMAN_CHR_rehanna: "Rehanna"
- HUMAN_CHR_renata: "Renata"
- HUMAN_CHR_samara: "Samara"
- HUMAN_CHR_sheltay: "Sheltay"
- HUMAN_CHR_surrel: "Surrel"
- HUMAN_CHR_tia: "Tia"
- HUMAN_CHR_vala: "Vala"
- HUMAN_CHR_valyn: "Valyn"
- HUMAN_CHR_verandala: "Verandala"
- HUMAN_CHR_aryn_dro: "Aryn Dro"
- HUMAN_CHR_paran_sin: "Paran Sin"
- HUMAN_CHR_darsha: "Darsha"
- HUMAN_CHR_liana: "Liana"
- HUMAN_CHR_alya: "Alya"
- HUMAN_CHR_celana: "Celana"
- HUMAN_CHR_padija: "Padija"
- HUMAN_CHR_lilit: "Lilit"
- HUMAN_CHR_milessa: "Milessa"
- HUMAN_CHR_jora: "Jora"
- HUMAN_CHR_ress: "Ress"
- HUMAN_CHR_dansra: "Dansra"
- HUMAN_CHR_mia: "Mia"
- HUMAN_CHR_muriel: "Muriel"
- HUMAN_CHR_andra: "Andra"
- HUMAN_CHR_jens: "Jens"
- HUMAN_CHR_darlen: "Darlen"
- HUMAN_CHR_halle: "Halle"
- HUMAN_CHR_halla: "Halla"
- HUMAN_CHR_cednah: "Cednah"
- HUMAN_CHR_dariana: "Dariana"
- HUMAN_CHR_talie: "Talie"
- HUMAN_CHR_roganda: "Roganda"
- HUMAN_CHR_kira: "Kira"
- HUMAN_CHR_kerri: "Kerri"
- HUMAN_CHR_minala: "Minala"
- HUMAN_CHR_tanda: "Tanda"
- HUMAN_CHR_maya: "Maya"
- HUMAN_CHR_anandra: "Anandra"
- HUMAN_CHR_neena: "Neena"
- HUMAN_CHR_vu: "Vu"
- HUMAN_CHR_celly: "Celly"
- HUMAN_CHR_jan: "Jan"
- HUMAN_CHR_uwa: "Uwa"
- HUMAN_CHR_inea: "Inea"
- HUMAN_CHR_maglenna: "Maglenna"
- HUMAN_CHR_vici: "Vici"
- HUMAN_CHR_kayala: "Kayala"
- HUMAN_CHR_nari: "Nari"
- HUMAN_CHR_vana: "Vana"
- HUMAN_CHR_terrin: "Terrin"
- HUMAN_CHR_hari: "Hari"
- HUMAN_CHR_tace: "Tace"
- HUMAN_CHR_jylle: "Jylle"
- HUMAN_CHR_sumda: "Sumda"
- HUMAN_CHR_janray: "Janray"
- HUMAN_CHR_marfa: "Marfa"
- HUMAN_CHR_selnia: "Selnia"
- HUMAN_CHR_tula: "Tula"
- HUMAN_CHR_jah_kii: "Jah-kii"
- HUMAN_CHR_niclara: "Niclara"
- HUMAN_CHR_evaan: "Evaan"
- HUMAN_CHR_vesta: "Vesta"
- HUMAN_CHR_jaesa: "Jaesa"
- HUMAN_CHR_parvin: "Parvin"
- HUMAN_CHR_sona: "Sona"
- HUMAN_CHR_alde: "Alde"
- HUMAN_CHR_frayus: "Frayus"
- HUMAN_CHR_girard: "Girard"
- HUMAN_CHR_glorio: "Glorio"
- HUMAN_CHR_hanarist: "Hanarist"
- HUMAN_CHR_killesa: "Killesa"
- HUMAN_CHR_lanar: "Lanar"
- HUMAN_CHR_metara: "Metara"
- HUMAN_CHR_panteer: "Panteer"
- HUMAN_CHR_qel_nosh: "Qel-Nosh"
- HUMAN_CHR_renar: "Renar"
- HUMAN_CHR_rist: "Rist"
- HUMAN_CHR_serrus: "Serrus"
- HUMAN_CHR_syrush: "Syrush"
- HUMAN_CHR_teraan: "Teraan"
- HUMAN_CHR_thul: "Thul"
- HUMAN_CHR_ulgo: "Ulgo"
- HUMAN_CHR_argyris: "Argyris"
- HUMAN_CHR_assant: "Assant"
- HUMAN_CHR_dune: "Dune"
- HUMAN_CHR_ahuff: "Ahuff"
- HUMAN_CHR_agoris: "Agoris"
- HUMAN_CHR_rand: "Rand"
- HUMAN_CHR_aldrete: "Aldrete"
- HUMAN_CHR_merian: "Merian"
- HUMAN_CHR_soma: "Soma"
- HUMAN_CHR_anjeri: "Anjeri"
- HUMAN_CHR_arranda: "Arranda"
- HUMAN_CHR_astane: "Astane"
- HUMAN_CHR_axlon: "Axlon"
- HUMAN_CHR_ayl: "Ayl"
- HUMAN_CHR_batten: "Batten"
- HUMAN_CHR_baroule: "Baroule"
- HUMAN_CHR_beezer: "Beezer"
- HUMAN_CHR_celchu: "Celchu"
- HUMAN_CHR_corwin: "Corwin"
- HUMAN_CHR_cressen: "Cressen"
- HUMAN_CHR_cross: "Cross"
- HUMAN_CHR_dalhney: "Dalhney"
- HUMAN_CHR_delos: "Delos"
- HUMAN_CHR_domadi: "Domadi"
- HUMAN_CHR_dray: "Dray"
- HUMAN_CHR_elgin: "Elgin"
- HUMAN_CHR_frant: "Frant"
- HUMAN_CHR_ettyk: "Ettyk"
- HUMAN_CHR_faenel: "Faenel"
- HUMAN_CHR_gale: "Gale"
- HUMAN_CHR_genden: "Genden"
- HUMAN_CHR_gor: "Gor"
- HUMAN_CHR_graf: "Graf"
- HUMAN_CHR_gwyndon: "Gwyndon"
- HUMAN_CHR_heathe: "Heathe"
- HUMAN_CHR_ismaren: "Ismaren"
- HUMAN_CHR_kamiel: "Kamiel"
- HUMAN_CHR_kand: "Kand"
- HUMAN_CHR_kelvan: "Kelvan"
- HUMAN_CHR_kepporra: "Kepporra"
- HUMAN_CHR_l_varren: "L'varren"
- HUMAN_CHR_lar: "Lar"
- HUMAN_CHR_latham: "Latham"
- HUMAN_CHR_lerspri: "Lerspri"
- HUMAN_CHR_lessev: "Lessev"
- HUMAN_CHR_lodilyn: "Lodilyn"
- HUMAN_CHR_maddaan: "Maddaan"
- HUMAN_CHR_maggli: "Maggli"
- HUMAN_CHR_marelle: "Marelle"
- HUMAN_CHR_metonae: "Metonae"
- HUMAN_CHR_milon: "Milon"
- HUMAN_CHR_momen: "Momen"
- HUMAN_CHR_moor: "Moor"
- HUMAN_CHR_nahj: "Nahj"
- HUMAN_CHR_nin: "Nin"
- HUMAN_CHR_nonnaihr: "Nonnaihr"
- HUMAN_CHR_ors: "Ors"
- HUMAN_CHR_pareece: "Pareece"
- HUMAN_CHR_pargen: "Pargen"
- HUMAN_CHR_pendower: "Pendower"
- HUMAN_CHR_pinot: "Pinot"
- HUMAN_CHR_ramunee: "Ramunee"
- HUMAN_CHR_ravein: "Ravein"
- HUMAN_CHR_rieekan: "Rieekan"
- HUMAN_CHR_rogaren: "Rogaren"
- HUMAN_CHR_sable: "Sable"
- HUMAN_CHR_saddek: "Saddek"
- HUMAN_CHR_sage: "Sage"
- HUMAN_CHR_sandafar: "Sandafar"
- HUMAN_CHR_seldona: "Seldona"
- HUMAN_CHR_tainer: "Tainer"
- HUMAN_CHR_taskeen: "Taskeen"
- HUMAN_CHR_tend: "Tend"
- HUMAN_CHR_tessime: "Tessime"
- HUMAN_CHR_thorbin: "Thorbin"
- HUMAN_CHR_tinnine: "Tinnine"
- HUMAN_CHR_trigg: "Trigg"
- HUMAN_CHR_tugrina: "Tugrina"
- HUMAN_CHR_turner: "Turner"
- HUMAN_CHR_vaargaz: "Vaargaz"
- HUMAN_CHR_varnillian: "Varnillian"
- HUMAN_CHR_ventor: "Ventor"
- HUMAN_CHR_verana: "Verana"
- HUMAN_CHR_verlaine: "Verlaine"
- HUMAN_CHR_vestswe: "Vestswe"
- HUMAN_CHR_vox: "Vox"
- HUMAN_CHR_willard: "Willard"
- HUMAN_CHR_willsaam: "Willsaam"
- HUMAN_CHR_windrider: "Windrider"
- HUMAN_CHR_ziemba: "Ziemba"
- HUMAN_CHR_darrus: "Darrus"
- HUMAN_CHR_eckhorn: "Eckhorn"
- HUMAN_CHR_ferrin: "Ferrin"
- HUMAN_CHR_haemon: "Haemon"
- HUMAN_CHR_heitor: "Heitor"
- HUMAN_CHR_horis: "Horis"
- HUMAN_CHR_kendoh: "Kendoh"
- HUMAN_CHR_maddor: "Maddor"
- HUMAN_CHR_marcum: "Marcum"
- HUMAN_CHR_norn: "Norn"
- HUMAN_CHR_peyar: "Peyar"
- HUMAN_CHR_jeren_nolus: "Jeren Nolus"
- HUMAN_CHR_pallos_thessius: "Pallos Thessius"
- HUMAN_CHR_aurren_tuile: "Aurren Tuile"
- HUMAN_CHR_jorad_sindarus: "Jorad Sindarus"
- HUMAN_CHR_markus_andarius: "Markus Andarius"
- HUMAN_CHR_sio: "Sio"
- HUMAN_CHR_quarsh: "Quarsh"
- HUMAN_CHR_ars: "Ars"
- HUMAN_CHR_darred: "Darred"
- HUMAN_CHR_ruwee: "Ruwee"
- HUMAN_CHR_aitalla: "Aitalla"
- HUMAN_CHR_breha: "Breha"
- HUMAN_CHR_chay: "Chay"
- HUMAN_CHR_markos: "Markos"
- HUMAN_CHR_maelrich: "Maelrich"
- HUMAN_CHR_rouge: "Rouge"
- HUMAN_CHR_silara: "Silara"
- HUMAN_CHR_winter: "Winter"
- HUMAN_CHR_katei_elinari: "Katei Elinari"
- HUMAN_CHR_r_illata: "Réillata"
- HUMAN_CHR_jamillia: "Jamillia"
- HUMAN_CHR_neeyutnee: "Neeyutnee"
- HUMAN_CHR_jobal: "Jobal"
- HUMAN_CHR_ryoo: "Ryoo"
- HUMAN_CHR_winama: "Winama"
- HUMAN_CHR_sourna: "Sourna"
- HUMAN_CHR_naberrie: "Naberrie"
- HUMAN_CHR_parnelli: "Parnelli"
- HUMAN_CHR_tapalo: "Tapalo"
- HUMAN_CHR_veruna: "Veruna"
- HUMAN_CHR_bibble: "Bibble"
- HUMAN_CHR_panaka: "Panaka"
- HUMAN_CHR_antayen: "Antayen"
- HUMAN_CHR_armin: "Armin"
- HUMAN_CHR_batono: "Batono"
- HUMAN_CHR_billan: "Billan"
- HUMAN_CHR_brall: "Brall"
- HUMAN_CHR_brendan: "Brendan"
- HUMAN_CHR_coro: "Coro"
- HUMAN_CHR_corrun: "Corrun"
- HUMAN_CHR_dehno: "Dehno"
- HUMAN_CHR_dern: "Dern"
- HUMAN_CHR_diirn: "Diirn"
- HUMAN_CHR_di_go: "Di-go"
- HUMAN_CHR_enok: "Enok"
- HUMAN_CHR_fodo: "Fodo"
- HUMAN_CHR_gayem: "Gayem"
- HUMAN_CHR_gragov: "Gragov"
- HUMAN_CHR_greeta: "Greeta"
- HUMAN_CHR_griff: "Griff"
- HUMAN_CHR_grommik: "Grommik"
- HUMAN_CHR_harra: "Harra"
- HUMAN_CHR_hawek: "Hawek"
- HUMAN_CHR_horell: "Horell"
- HUMAN_CHR_janos: "Janos"
- HUMAN_CHR_kamus: "Kamus"
- HUMAN_CHR_mex: "Mex"
- HUMAN_CHR_rasmus: "Rasmus"
- HUMAN_CHR_samovan: "Samovan"
- HUMAN_CHR_tarin: "Tarin"
- HUMAN_CHR_teak: "Teak"
- HUMAN_CHR_thon: "Thon"
- HUMAN_CHR_torkel: "Torkel"
- HUMAN_CHR_trey: "Trey"
- HUMAN_CHR_ward: "Ward"
- HUMAN_CHR_wren: "Wren"
- HUMAN_CHR_xarval: "Xarval"
- HUMAN_CHR_yem: "Yem"
- HUMAN_CHR_zokar: "Zokar"
- HUMAN_CHR_eva: "Eva"
- HUMAN_CHR_galir: "Galir"
- HUMAN_CHR_jana: "Jana"
- HUMAN_CHR_joni: "Joni"
- HUMAN_CHR_kaya: "Kaya"
- HUMAN_CHR_merrit: "Merrit"
- HUMAN_CHR_nara: "Nara"
- HUMAN_CHR_soprin: "Soprin"
- HUMAN_CHR_vipp: "Vipp"
- HUMAN_CHR_adelair: "Adelair"
- HUMAN_CHR_bann: "Bann"
- HUMAN_CHR_blys: "Blys"
- HUMAN_CHR_briggam: "Briggam"
- HUMAN_CHR_col: "Col"
- HUMAN_CHR_denovan: "Denovan"
- HUMAN_CHR_falt: "Falt"
- HUMAN_CHR_fizark: "Fizark"
- HUMAN_CHR_hillin: "Hillin"
- HUMAN_CHR_holda: "Holda"
- HUMAN_CHR_kaayz: "Kaayz"
- HUMAN_CHR_kurthson: "Kurthson"
- HUMAN_CHR_laphmer: "Laphmer"
- HUMAN_CHR_lanra: "Lanra"
- HUMAN_CHR_seario: "Seario"
- HUMAN_CHR_leksende: "Leksende"
- HUMAN_CHR_lorso: "Lorso"
- HUMAN_CHR_medoo: "Medoo"
- HUMAN_CHR_natari: "Natari"
- HUMAN_CHR_orden: "Orden"
- HUMAN_CHR_radler: "Radler"
- HUMAN_CHR_ree: "Ree"
- HUMAN_CHR_reemus: "Reemus"
- HUMAN_CHR_safalla: "Safalla"
- HUMAN_CHR_tavar: "Tavar"
- HUMAN_CHR_wertka: "Wertka"
- HUMAN_CHR_yellip: "Yellip"
+  HUMAN_halcyon: "Безмятежный" #NT!
+  HUMAN_longspur: "Подорожник" #NT!
+  HUMAN_itinerant: "Кочующий" #NT!
+  HUMAN_wayfarer: "Путник" #NT!
+  HUMAN_wanderer: "Скиталец" #NT!
+  HUMAN_roamer: "Бродяга" #NT!
+  HUMAN_farstrike: "Дальний удар" #NT!
+  HUMAN_brawler: "Буян" #NT!
+  HUMAN_brazen: "Наглый" #NT!
+  HUMAN_representative: "Делегат" #NT!
+  HUMAN_threkin: "Трекин" #NT!
+  HUMAN_geedon: "Гидон" #NT!
+  HUMAN_glaser: "Стекольщик" #NT!
+  HUMAN_glazer: "Глейзер" #NT!
+  HUMAN_godar: "Годар" #NT!
+  HUMAN_grappler: "Борец" #NT!
+  HUMAN_habatok: "Хабаток" #NT!
+  HUMAN_halifax: "Галифакс" #NT!
+  HUMAN_howlrunner: "Тоннельщик" #NT!
+  HUMAN_hyko: "Хайко" #NT!
+  HUMAN_intrepid: "Бестрепетный" #NT!
+  HUMAN_indefatigable: "Неутомимый" #NT!
+  HUMAN_vindicator: "Виндикатор" #NT!
+  HUMAN_blethyline: "Блетилин" #NT!
+  HUMAN_canoid: "Каноид" #NT!
+  HUMAN_banshee: "Банши" #NT!
+  HUMAN_victory: "Победа" #NT!
+  HUMAN_success: "Успех" #NT!
+  HUMAN_triumph: "Триумф" #NT!
+  HUMAN_titan: "Титан" #NT!
+  HUMAN_harrower: "Рассекатель" #NT!
+  HUMAN_raider: "Налетчик" #NT!
+  HUMAN_nebula: "Туманность" #NT!
+  HUMAN_dauntless: "Бесстрашный" #NT!
+  HUMAN_providence: "Провидение" #NT!
+  HUMAN_subjugator: "Покоритель" #NT!
+  HUMAN_conqueror: "Завоеватель" #NT!
+  HUMAN_crusader: "Крестоносец" #NT!
+  HUMAN_glory: "Слава" #NT!
+  HUMAN_immortal: "Бессмертный" #NT!
+  HUMAN_judicator: "Вершитель" #NT!
+  HUMAN_vanguard: "Авангард" #NT!
+  HUMAN_renown: "Признание" #NT!
+  HUMAN_demolisher: "Уничтожитель" #NT!
+  HUMAN_storm: "Шторм" #NT!
+  HUMAN_stormstrike: "Удар бури" #NT!
+  HUMAN_striker: "Ударный" #NT!
+  HUMAN_sundog: "Ложное солнце" #NT!
+  HUMAN_talon: "Коготь" #NT!
+  HUMAN_thrasher: "Молотильщик" #NT!
+  HUMAN_thunder: "Гром" #NT!
+  HUMAN_thunderstrike: "Раскат грома" #NT!
+  HUMAN_purrgil: "Пёрргил" #NT!
+  HUMAN_barloz: "Барлоз" #NT!
+  HUMAN_bulk: "Объёмный" #NT!
+  HUMAN_bursa: "Бурса" #NT!
+  HUMAN_bulwark: "Оплот" #NT!
+  HUMAN_invincible: "Неукротимый" #NT!
+  HUMAN_valor: "Доблесть" #NT!
+  HUMAN_hammer: "Молот" #NT!
+  HUMAN_sword: "Меч" #NT!
+  HUMAN_shield: "Щит" #NT!
+  HUMAN_brigand: "Разбойник" #NT!
+  HUMAN_praetorian: "Преторианец" #NT!
+  HUMAN_lictor: "Ликтор" #NT!
+  HUMAN_starlight: "Звёздный свет" #NT!
+  HUMAN_dreadnaught: "Дредноут" #NT!
+  HUMAN_vainglorious: "Тщеславный" #NT!
+  HUMAN_tarvix: "Тарвикс" #NT!
+  HUMAN_drexl: "Дрексл" #NT!
+  HUMAN_rothana: "Ротана" #NT!
+  HUMAN_balmorra: "Балморра" #NT!
+  HUMAN_lormar: "Лормар" #NT!
+  HUMAN_lupus: "Люпус" #NT!
+  HUMAN_onager: "Онагр" #NT!
+  HUMAN_pursuit: "Погоня" #NT!
+  HUMAN_bavos: "Бавос" #NT!
+  HUMAN_munifex: "Мунифекс" #NT!
+  HUMAN_mudhorn: "Грязерог" #NT!
+  HUMAN_gundark: "Гандарк" #NT!
+  HUMAN_vaya: "Вайя" #NT!
+  HUMAN_heraklon: "Ираклион" #NT!
+  HUMAN_core_systems: "Основные галактические системы" #NT!
+  HUMAN_atgeir: "Атгейр" #NT!
+  HUMAN_loth_wolf: "Лот-волк" #NT!
+  HUMAN_demon_moon: "Демон-луна" #NT!
+  HUMAN_spice_runner: "Перевозчик спайса" #NT!
+  HUMAN_class_1000: "Класс 1000" #NT!
+  HUMAN_eagle_5: "Орёл 5" #NT!
+  HUMAN_neutron_star: "Нейтронная звезда" #NT!
+  HUMAN_loth_cat: "Лот-кот" #NT!
+  HUMAN_tusk_cat: "Бивнекот" #NT!
+  HUMAN_constr_aurek: "Конструктор «Аурек»" #NT!
+  HUMAN_constr_besh: "Конструктор «Беш»" #NT!
+  HUMAN_constr_cresh: "Конструктор «Креш»" #NT!
+  HUMAN_constr_dorn: "Конструктор «Дорн»" #NT!
+  HUMAN_constr_forn: "Конструктор «Форн»" #NT!
+  HUMAN_constr_grek: "Конструктор «Грек»" #NT!
+  HUMAN_constr_herf: "Конструктор «Херф»" #NT!
+  HUMAN_constr_isk: "Конструктор «Иск»" #NT!
+  HUMAN_constr_jenth: "Конструктор «Джент»" #NT!
+  HUMAN_constr_krill: "Конструктор «Крилл»" #NT!
+  HUMAN_constr_leth: "Конструктор «Лет»" #NT!
+  HUMAN_constr_mern: "Конструктор «Мерн»" #NT!
+  HUMAN_constr_nern: "Конструктор «Нерн»" #NT!
+  HUMAN_constr_osk: "Конструктор «Оск»" #NT!
+  HUMAN_constr_peth: "Конструктор «Пет»" #NT!
+  HUMAN_constr_senth: "Конструктор «Сент»" #NT!
+  HUMAN_constr_trill: "Конструктор «Трилл»" #NT!
+  HUMAN_constr_usk: "Конструктор «Уск»" #NT!
+  HUMAN_constr_vev: "Конструктор «Вев»" #NT!
+  HUMAN_constr_wesk: "Конструктор «Уэск»" #NT!
+  HUMAN_constr_xesh: "Конструктор «Зеш»" #NT!
+  HUMAN_constr_yirt: "Конструктор «Йирт»" #NT!
+  HUMAN_constr_zerek: "Конструктор «Зерек»" #NT!
+  HUMAN_constr_cherek: "Конструктор «Черек»" #NT!
+  HUMAN_constr_qek: "Конструктор «Кек»" #NT!
+  HUMAN_constr_resh: "Конструктор «Реш»" #NT!
+  HUMAN_constr_enth: "Конструктор «Энт»" #NT!
+  HUMAN_constr_onith: "Конструктор «Онит»" #NT!
+  HUMAN_constr_krenth: "Конструктор «Крент»" #NT!
+  HUMAN_constr_nen: "Конструктор «Нен»" #NT!
+  HUMAN_constr_orenth: "Конструктор «Орент»" #NT!
+  HUMAN_constr_shen: "Конструктор «Шен»" #NT!
+  HUMAN_constr_thesh: "Конструктор «Теш»" #NT!
+  HUMAN_courier: "Курьер" #NT!
+  HUMAN_ground_transport: "Наземный транспорт" #NT!
+  HUMAN_FLEET_planetary_defense_force: "Силы планетарной обороны" #NT!
+  HUMAN_FLEET_planetary_task_force: "Планетарная оперативная группа" #NT!
+  HUMAN_FLEET_grand_armada: "Гранд-Армада" #NT!
+  HUMAN_FLEET_grand_fleet: "Великий флот" #NT!
+  HUMAN_FLEET_sector_defense_force: "Силы обороны сектора" #NT!
+  HUMAN_FLEET_sector_command_fleet: "Командный флот сектора" #NT!
+  HUMAN_FLEET_SEQUENTIAL_fleet: "$ORD$ Флот" #NT!
+  HUMAN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Планетарная гвардия" #NT!
+  HUMAN_ARMY_SEQUENTIAL_expeditionary_force: "$ORD$ Экспедиционный корпус" #NT!
+  HUMAN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Наёмные стрелки" #NT!
+  HUMAN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Армия клонов" #NT!
+  HUMAN_ARMY_SEQUENTIAL_dread_commando: "$ORD$ Коммандос ужаса" #NT!
+  HUMAN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Группа охотников-убийц" #NT!
+  HUMAN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Матрица наземной обороны" #NT!
+  HUMAN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Пси-коммандос" #NT!
+  HUMAN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  HUMAN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Биоинженерный эскадрон" #NT!
+  HUMAN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Гарнизонные силы" #NT!
+  HUMAN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Механизированный гарнизон" #NT!
+  HUMAN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  HUMAN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  HUMAN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  HUMAN_CHR_dorian: "Дориан" #NT!
+  HUMAN_CHR_trondor: "Трондор" #NT!
+  HUMAN_CHR_khoss: "Кхосс" #NT!
+  HUMAN_CHR_jonash: "Джонаш" #NT!
+  HUMAN_CHR_carth: "Карт" #NT!
+  HUMAN_CHR_aric: "Арик" #NT!
+  HUMAN_CHR_tanno: "Танно" #NT!
+  HUMAN_CHR_corso: "Корсо" #NT!
+  HUMAN_CHR_languss: "Лангусс" #NT!
+  HUMAN_CHR_fideltin: "Фидельтин" #NT!
+  HUMAN_CHR_tharan: "Теран" #NT!
+  HUMAN_CHR_arrisan: "Аррисан" #NT!
+  HUMAN_CHR_meck: "Мек" #NT!
+  HUMAN_CHR_ved: "Вед" #NT!
+  HUMAN_CHR_luran: "Люран" #NT!
+  HUMAN_CHR_deringon: "Дерингон" #NT!
+  HUMAN_CHR_parr: "Парр" #NT!
+  HUMAN_CHR_gellar: "Геллар" #NT!
+  HUMAN_CHR_gault: "Gault" #NT!
+  HUMAN_CHR_jimas: "Jimas" #NT!
+  HUMAN_CHR_saul: "Saul" #NT!
+  HUMAN_CHR_dallan: "Dallan" #NT!
+  HUMAN_CHR_catronus: "Catronus" #NT!
+  HUMAN_CHR_zayne: "Zayne" #NT!
+  HUMAN_CHR_bey_wan: "Bey'wan" #NT!
+  HUMAN_CHR_trede: "Trede" #NT!
+  HUMAN_CHR_dabrin: "Dabrin" #NT!
+  HUMAN_CHR_dol: "Dol" #NT!
+  HUMAN_CHR_telettoh: "Telettoh" #NT!
+  HUMAN_CHR_dannis: "Dannis" #NT!
+  HUMAN_CHR_helik: "Helik" #NT!
+  HUMAN_CHR_pevel: "Pevel" #NT!
+  HUMAN_CHR_signet: "Signet" #NT!
+  HUMAN_CHR_callan: "Callan" #NT!
+  HUMAN_CHR_vaner: "Vaner" #NT!
+  HUMAN_CHR_elara: "Elara" #NT!
+  HUMAN_CHR_risha: "Risha" #NT!
+  HUMAN_CHR_nadia: "Nadia" #NT!
+  HUMAN_CHR_marren: "Marren" #NT!
+  HUMAN_CHR_renalda: "Renalda" #NT!
+  HUMAN_CHR_sula: "Sula" #NT!
+  HUMAN_CHR_jynne: "Jynne" #NT!
+  HUMAN_CHR_fieler: "Fieler" #NT!
+  HUMAN_CHR_edvaalda: "Edvaalda" #NT!
+  HUMAN_CHR_elin: "Elin" #NT!
+  HUMAN_CHR_juul: "Juul" #NT!
+  HUMAN_CHR_kalyn: "Kalyn" #NT!
+  HUMAN_CHR_honor: "Honor" #NT!
+  HUMAN_CHR_noma: "Noma" #NT!
+  HUMAN_CHR_forn: "Forn" #NT!
+  HUMAN_CHR_mural: "Mural" #NT!
+  HUMAN_CHR_lina: "Lina" #NT!
+  HUMAN_CHR_leontyne: "Leontyne" #NT!
+  HUMAN_CHR_risi: "Risi" #NT!
+  HUMAN_CHR_onara: "Onara" #NT!
+  HUMAN_CHR_morvis: "Morvis" #NT!
+  HUMAN_CHR_laeca: "Laeca" #NT!
+  HUMAN_CHR_tol: "Tol" #NT!
+  HUMAN_CHR_doa: "Doa" #NT!
+  HUMAN_CHR_jebevel: "Jebevel" #NT!
+  HUMAN_CHR_vaila: "Vaila" #NT!
+  HUMAN_CHR_ulm: "Ulm" #NT!
+  HUMAN_CHR_fillorean: "Fillorean" #NT!
+  HUMAN_CHR_kirames: "Kirames" #NT!
+  HUMAN_CHR_janarus: "Janarus" #NT!
+  HUMAN_CHR_kuat: "Kuat" #NT!
+  HUMAN_CHR_saresh: "Saresh" #NT!
+  HUMAN_CHR_pyn: "Pyn" #NT!
+  HUMAN_CHR_onasi: "Onasi" #NT!
+  HUMAN_CHR_dorne: "Dorne" #NT!
+  HUMAN_CHR_jorgan: "Jorgan" #NT!
+  HUMAN_CHR_vik: "Vik" #NT!
+  HUMAN_CHR_drayen: "Drayen" #NT!
+  HUMAN_CHR_riggs: "Riggs" #NT!
+  HUMAN_CHR_tuno: "Tuno" #NT!
+  HUMAN_CHR_rusk: "Rusk" #NT!
+  HUMAN_CHR_cedrax: "Cedrax" #NT!
+  HUMAN_CHR_grell: "Grell" #NT!
+  HUMAN_CHR_antilles: "Antilles" #NT!
+  HUMAN_CHR_baliss: "Baliss" #NT!
+  HUMAN_CHR_cortess: "Cortess" #NT!
+  HUMAN_CHR_organa: "Organa" #NT!
+  HUMAN_CHR_darklighter: "Darklighter" #NT!
+  HUMAN_CHR_lars: "Lars" #NT!
+  HUMAN_CHR_kalus: "Kalus" #NT!
+  HUMAN_CHR_elna: "Elna" #NT!
+  HUMAN_CHR_agareth: "Agareth" #NT!
+  HUMAN_CHR_atem: "Atem" #NT!
+  HUMAN_CHR_veltra: "Veltra" #NT!
+  HUMAN_CHR_karath: "Karath" #NT!
+  HUMAN_CHR_sommos: "Sommos" #NT!
+  HUMAN_CHR_celwik: "Celwik" #NT!
+  HUMAN_CHR_dan: "Dan" #NT!
+  HUMAN_CHR_djo: "Djo" #NT!
+  HUMAN_CHR_feem: "Feem" #NT!
+  HUMAN_CHR_mothma: "Mothma" #NT!
+  HUMAN_CHR_fel: "Fel" #NT!
+  HUMAN_CHR_foslo: "Foslo" #NT!
+  HUMAN_CHR_garza: "Garza" #NT!
+  HUMAN_CHR_gonthor: "Gonthor" #NT!
+  HUMAN_CHR_isard: "Isard" #NT!
+  HUMAN_CHR_dume: "Dume" #NT!
+  HUMAN_CHR_jarrus: "Jarrus" #NT!
+  HUMAN_CHR_jax: "Jax" #NT!
+  HUMAN_CHR_jettster: "Jettster" #NT!
+  HUMAN_CHR_jinn: "Jinn" #NT!
+  HUMAN_CHR_pellaeon: "Pellaeon" #NT!
+  HUMAN_CHR_lobacc: "Lobacc" #NT!
+  HUMAN_CHR_martez: "Martez" #NT!
+  HUMAN_CHR_meeko: "Meeko" #NT!
+  HUMAN_CHR_pestage: "Pestage" #NT!
+  HUMAN_CHR_rennow: "Rennow" #NT!
+  HUMAN_CHR_lokai: "Lokai" #NT!
+  HUMAN_CHR_roing: "Roing" #NT!
+  HUMAN_CHR_salima: "Salima" #NT!
+  HUMAN_CHR_sienar: "Sienar" #NT!
+  HUMAN_CHR_tarkin: "Tarkin" #NT!
+  HUMAN_CHR_turmond: "Turmond" #NT!
+  HUMAN_CHR_yularen: "Yularen" #NT!
+  HUMAN_CHR_steffans: "Steffans" #NT!
+  HUMAN_CHR_carrick: "Carrick" #NT!
+  HUMAN_CHR_dodonna: "Dodonna" #NT!
+  HUMAN_CHR_aygo: "Aygo" #NT!
+  HUMAN_CHR_bakvalen: "Bakvalen" #NT!
+  HUMAN_CHR_narlock: "Narlock" #NT!
+  HUMAN_CHR_veriga: "Veriga" #NT!
+  HUMAN_CHR_kronara: "Kronara" #NT!
+  HUMAN_CHR_veen: "Veen" #NT!
+  HUMAN_CHR_soh: "Soh" #NT!
+  HUMAN_CHR_kalpana: "Kalpana" #NT!
+  HUMAN_CHR_ductavis: "Ductavis" #NT!
+  HUMAN_CHR_kaj: "Kaj" #NT!
+  HUMAN_CHR_darvus: "Darvus" #NT!
+  HUMAN_CHR_madon: "Madon" #NT!
+  HUMAN_CHR_frellka: "Frellka" #NT!
+  HUMAN_CHR_gonn: "Gonn" #NT!
+  HUMAN_CHR_nadab: "Nadab" #NT!
+  HUMAN_CHR_redrish: "Redrish" #NT!
+  HUMAN_CHR_rike: "Rike" #NT!
+  HUMAN_CHR_grayne: "Grayne" #NT!
+  HUMAN_CHR_finis: "Finis" #NT!
+  HUMAN_CHR_kodir: "Kodir" #NT!
+  HUMAN_CHR_pers_lya: "Pers'lya" #NT!
+  HUMAN_CHR_tarsus: "Tarsus" #NT!
+  HUMAN_CHR_eixes: "Eixes" #NT!
+  HUMAN_CHR_thoris: "Thoris" #NT!
+  HUMAN_CHR_fattum: "Fattum" #NT!
+  HUMAN_CHR_biel: "Biel" #NT!
+  HUMAN_CHR_skor: "Skor" #NT!
+  HUMAN_CHR_nagratha: "Nagratha" #NT!
+  HUMAN_CHR_chasen: "Chasen" #NT!
+  HUMAN_CHR_pultimo: "Pultimo" #NT!
+  HUMAN_CHR_sidrona: "Sidrona" #NT!
+  HUMAN_CHR_vocatara: "Vocatara" #NT!
+  HUMAN_CHR_teta: "Teta" #NT!
+  HUMAN_CHR_galena: "Galena" #NT!
+  HUMAN_CHR_valorum: "Valorum" #NT!
+  HUMAN_CHR_shan: "Shan" #NT!
+  HUMAN_CHR_lenoan: "Lenoan" #NT!
+  HUMAN_CHR_andrim: "Andrim" #NT!
+  HUMAN_CHR_depon: "Depon" #NT!
+  HUMAN_CHR_knylenn: "Knylenn" #NT!
+  HUMAN_CHR_kuhlvult: "Kuhlvult" #NT!
+  HUMAN_CHR_purkis: "Purkis" #NT!
+  HUMAN_CHR_praji: "Praji" #NT!
+  HUMAN_CHR_cressa: "Cressa" #NT!
+  HUMAN_CHR_delko: "Delko" #NT!
+  HUMAN_CHR_jerjerrod: "Jerjerrod" #NT!
+  HUMAN_CHR_pecivas: "Pecivas" #NT!
+  HUMAN_CHR_darus: "Darus" #NT!
+  HUMAN_CHR_brashere: "Brashere" #NT!
+  HUMAN_CHR_mezzileen: "Mezzileen" #NT!
+  HUMAN_CHR_piian: "Piian" #NT!
+  HUMAN_CHR_rans: "Rans" #NT!
+  HUMAN_CHR_thrackan: "Thrackan" #NT!
+  HUMAN_CHR_aiden: "Aiden" #NT!
+  HUMAN_CHR_wedge: "Wedge" #NT!
+  HUMAN_CHR_dur: "Dur" #NT!
+  HUMAN_CHR_keiran: "Keiran" #NT!
+  HUMAN_CHR_com: "Com" #NT!
+  HUMAN_CHR_shor: "Shor" #NT!
+  HUMAN_CHR_dupas: "Dupas" #NT!
+  HUMAN_CHR_zekka: "Zekka" #NT!
+  HUMAN_CHR_daclif: "Daclif" #NT!
+  HUMAN_CHR_crix: "Crix" #NT!
+  HUMAN_CHR_kirtan: "Kirtan" #NT!
+  HUMAN_CHR_corran: "Corran" #NT!
+  HUMAN_CHR_gil: "Gil" #NT!
+  HUMAN_CHR_diric: "Diric" #NT!
+  HUMAN_CHR_doman: "Doman" #NT!
+  HUMAN_CHR_aidel: "Aidel" #NT!
+  HUMAN_CHR_saz: "Saz" #NT!
+  HUMAN_CHR_threkin: "Threkin" #NT!
+  HUMAN_CHR_randil: "Randil" #NT!
+  HUMAN_CHR_den: "Den" #NT!
+  HUMAN_CHR_han: "Han" #NT!
+  HUMAN_CHR_korol: "Korol" #NT!
+  HUMAN_CHR_jacen: "Jacen" #NT!
+  HUMAN_CHR_karl: "Karl" #NT!
+  HUMAN_CHR_mathieu: "Mathieu" #NT!
+  HUMAN_CHR_tettsel: "Tettsel" #NT!
+  HUMAN_CHR_jagged: "Jagged" #NT!
+  HUMAN_CHR_bayle: "Bayle" #NT!
+  HUMAN_CHR_tormax: "Tormax" #NT!
+  HUMAN_CHR_seb: "Seb" #NT!
+  HUMAN_CHR_jareck: "Jareck" #NT!
+  HUMAN_CHR_jurnel: "Jurnel" #NT!
+  HUMAN_CHR_vol: "Vol" #NT!
+  HUMAN_CHR_conil: "Conil" #NT!
+  HUMAN_CHR_tekil: "Tekil" #NT!
+  HUMAN_CHR_shi: "Shi" #NT!
+  HUMAN_CHR_myron: "Myron" #NT!
+  HUMAN_CHR_jab: "Jab" #NT!
+  HUMAN_CHR_garm: "Garm" #NT!
+  HUMAN_CHR_odair: "Odair" #NT!
+  HUMAN_CHR_draykken: "Draykken" #NT!
+  HUMAN_CHR_hraykken: "Hraykken" #NT!
+  HUMAN_CHR_hiram: "Hiram" #NT!
+  HUMAN_CHR_anson: "Anson" #NT!
+  HUMAN_CHR_crev: "Crev" #NT!
+  HUMAN_CHR_natt: "Natt" #NT!
+  HUMAN_CHR_sunny: "Sunny" #NT!
+  HUMAN_CHR_dev: "Dev" #NT!
+  HUMAN_CHR_grov: "Grov" #NT!
+  HUMAN_CHR_ezra: "Ezra" #NT!
+  HUMAN_CHR_ront: "Ront" #NT!
+  HUMAN_CHR_jerem: "Jerem" #NT!
+  HUMAN_CHR_monti: "Monti" #NT!
+  HUMAN_CHR_cole: "Cole" #NT!
+  HUMAN_CHR_jorj: "Jorj" #NT!
+  HUMAN_CHR_lanius: "Lanius" #NT!
+  HUMAN_CHR_jonah: "Jonah" #NT!
+  HUMAN_CHR_jesseb: "Jesseb" #NT!
+  HUMAN_CHR_lon: "Lon" #NT!
+  HUMAN_CHR_banyon: "Banyon" #NT!
+  HUMAN_CHR_abagga: "Abagga" #NT!
+  HUMAN_CHR_bobor: "Bobor" #NT!
+  HUMAN_CHR_macz: "Macz" #NT!
+  HUMAN_CHR_cubber: "Cubber" #NT!
+  HUMAN_CHR_waroon: "Waroon" #NT!
+  HUMAN_CHR_sal: "Sal" #NT!
+  HUMAN_CHR_darvis: "Darvis" #NT!
+  HUMAN_CHR_skerrick: "Skerrick" #NT!
+  HUMAN_CHR_davrin: "Davrin" #NT!
+  HUMAN_CHR_deegan: "Deegan" #NT!
+  HUMAN_CHR_deflaros: "Deflaros" #NT!
+  HUMAN_CHR_sann: "Sann" #NT!
+  HUMAN_CHR_rothgar: "Rothgar" #NT!
+  HUMAN_CHR_dex: "Dex" #NT!
+  HUMAN_CHR_didjoa: "Didjoa" #NT!
+  HUMAN_CHR_myn: "Myn" #NT!
+  HUMAN_CHR_valon: "Valon" #NT!
+  HUMAN_CHR_chelch: "Chelch" #NT!
+  HUMAN_CHR_yustavan: "Yustavan" #NT!
+  HUMAN_CHR_tev: "Tev" #NT!
+  HUMAN_CHR_ivr: "Ivr" #NT!
+  HUMAN_CHR_atlan: "Atlan" #NT!
+  HUMAN_CHR_rik: "Rik" #NT!
+  HUMAN_CHR_voba: "Voba" #NT!
+  HUMAN_CHR_shol: "Shol" #NT!
+  HUMAN_CHR_thale: "Thale" #NT!
+  HUMAN_CHR_darv: "Darv" #NT!
+  HUMAN_CHR_erno: "Erno" #NT!
+  HUMAN_CHR_falco: "Falco" #NT!
+  HUMAN_CHR_barr: "Barr" #NT!
+  HUMAN_CHR_harlon: "Harlon" #NT!
+  HUMAN_CHR_annor: "Annor" #NT!
+  HUMAN_CHR_dannl: "Dannl" #NT!
+  HUMAN_CHR_chak: "Chak" #NT!
+  HUMAN_CHR_davin: "Davin" #NT!
+  HUMAN_CHR_soontir: "Soontir" #NT!
+  HUMAN_CHR_todr: "Todr" #NT!
+  HUMAN_CHR_almark: "Almark" #NT!
+  HUMAN_CHR_ilim: "Ilim" #NT!
+  HUMAN_CHR_ecclessis: "Ecclessis" #NT!
+  HUMAN_CHR_salovan: "Salovan" #NT!
+  HUMAN_CHR_mich: "Mich" #NT!
+  HUMAN_CHR_jace: "Jace" #NT!
+  HUMAN_CHR_crale: "Crale" #NT!
+  HUMAN_CHR_zorajas: "Zorajas" #NT!
+  HUMAN_CHR_jaylon: "Jaylon" #NT!
+  HUMAN_CHR_nov: "Nov" #NT!
+  HUMAN_CHR_gerrol: "Gerrol" #NT!
+  HUMAN_CHR_markus: "Markus" #NT!
+  HUMAN_CHR_pharnis: "Pharnis" #NT!
+  HUMAN_CHR_ellias: "Ellias" #NT!
+  HUMAN_CHR_scolex: "Scolex" #NT!
+  HUMAN_CHR_de_hoff: "De'hoff" #NT!
+  HUMAN_CHR_mramo: "Mramo" #NT!
+  HUMAN_CHR_elias: "Elias" #NT!
+  HUMAN_CHR_neeja: "Neeja" #NT!
+  HUMAN_CHR_kenth: "Kenth" #NT!
+  HUMAN_CHR_pol: "Pol" #NT!
+  HUMAN_CHR_viktor: "Viktor" #NT!
+  HUMAN_CHR_janzel: "Janzel" #NT!
+  HUMAN_CHR_hendrick: "Hendrick" #NT!
+  HUMAN_CHR_rodin: "Rodin" #NT!
+  HUMAN_CHR_enneth: "Enneth" #NT!
+  HUMAN_CHR_braganti: "Braganti" #NT!
+  HUMAN_CHR_helfin: "Helfin" #NT!
+  HUMAN_CHR_jenos: "Jenos" #NT!
+  HUMAN_CHR_ilyamo: "Ilyamo" #NT!
+  HUMAN_CHR_gol: "Gol" #NT!
+  HUMAN_CHR_falan: "Falan" #NT!
+  HUMAN_CHR_dinnik: "Dinnik" #NT!
+  HUMAN_CHR_irek: "Irek" #NT!
+  HUMAN_CHR_bran: "Bran" #NT!
+  HUMAN_CHR_jabi: "Jabi" #NT!
+  HUMAN_CHR_jakir: "Jakir" #NT!
+  HUMAN_CHR_mack: "Mack" #NT!
+  HUMAN_CHR_wildis: "Wildis" #NT!
+  HUMAN_CHR_tomi: "Tomi" #NT!
+  HUMAN_CHR_talan: "Talan" #NT!
+  HUMAN_CHR_joz: "Joz" #NT!
+  HUMAN_CHR_heff: "Heff" #NT!
+  HUMAN_CHR_kal: "Kal" #NT!
+  HUMAN_CHR_jori: "Jori" #NT!
+  HUMAN_CHR_joth: "Joth" #NT!
+  HUMAN_CHR_cohden: "Cohden" #NT!
+  HUMAN_CHR_ben: "Ben" #NT!
+  HUMAN_CHR_dorvin: "Dorvin" #NT!
+  HUMAN_CHR_craddock: "Craddock" #NT!
+  HUMAN_CHR_denell: "Denell" #NT!
+  HUMAN_CHR_van: "Van" #NT!
+  HUMAN_CHR_lex: "Lex" #NT!
+  HUMAN_CHR_erel: "Erel" #NT!
+  HUMAN_CHR_kett: "Kett" #NT!
+  HUMAN_CHR_shoan: "Shoan" #NT!
+  HUMAN_CHR_tan: "Tan" #NT!
+  HUMAN_CHR_nevis: "Nevis" #NT!
+  HUMAN_CHR_bidlo: "Bidlo" #NT!
+  HUMAN_CHR_pel: "Pel" #NT!
+  HUMAN_CHR_dael: "Dael" #NT!
+  HUMAN_CHR_aram: "Aram" #NT!
+  HUMAN_CHR_yade: "Yade" #NT!
+  HUMAN_CHR_zuld: "Zuld" #NT!
+  HUMAN_CHR_yanus: "Yanus" #NT!
+  HUMAN_CHR_barid: "Barid" #NT!
+  HUMAN_CHR_dayvid: "Dayvid" #NT!
+  HUMAN_CHR_tosk: "Tosk" #NT!
+  HUMAN_CHR_hurn: "Hurn" #NT!
+  HUMAN_CHR_derremd: "Derremd" #NT!
+  HUMAN_CHR_janqual: "Janqual" #NT!
+  HUMAN_CHR_stax: "Stax" #NT!
+  HUMAN_CHR_fenig: "Fenig" #NT!
+  HUMAN_CHR_bek: "Bek" #NT!
+  HUMAN_CHR_romas: "Romas" #NT!
+  HUMAN_CHR_nozzo: "Nozzo" #NT!
+  HUMAN_CHR_jasper: "Jasper" #NT!
+  HUMAN_CHR_aalos: "Aalos" #NT!
+  HUMAN_CHR_galidon: "Galidon" #NT!
+  HUMAN_CHR_jav: "Jav" #NT!
+  HUMAN_CHR_lorn: "Lorn" #NT!
+  HUMAN_CHR_gilad: "Gilad" #NT!
+  HUMAN_CHR_kazic: "Kazic" #NT!
+  HUMAN_CHR_malik: "Malik" #NT!
+  HUMAN_CHR_petro: "Petro" #NT!
+  HUMAN_CHR_phaeris: "Phaeris" #NT!
+  HUMAN_CHR_keekrim: "Keekrim" #NT!
+  HUMAN_CHR_ilir: "Ilir" #NT!
+  HUMAN_CHR_dubrank: "Dubrank" #NT!
+  HUMAN_CHR_mat: "Mat" #NT!
+  HUMAN_CHR_rallo: "Rallo" #NT!
+  HUMAN_CHR_custo: "Custo" #NT!
+  HUMAN_CHR_tait: "Tait" #NT!
+  HUMAN_CHR_ubis: "Ubis" #NT!
+  HUMAN_CHR_dash: "Dash" #NT!
+  HUMAN_CHR_rosh: "Rosh" #NT!
+  HUMAN_CHR_palejo: "Palejo" #NT!
+  HUMAN_CHR_andronikos: "Andronikos" #NT!
+  HUMAN_CHR_jerris: "Jerris" #NT!
+  HUMAN_CHR_rion: "Rion" #NT!
+  HUMAN_CHR_thaddeus: "Thaddeus" #NT!
+  HUMAN_CHR_barit: "Barit" #NT!
+  HUMAN_CHR_cyru: "Cyru" #NT!
+  HUMAN_CHR_jornel: "Jornel" #NT!
+  HUMAN_CHR_newin: "Newin" #NT!
+  HUMAN_CHR_pech: "Pech" #NT!
+  HUMAN_CHR_sevik: "Sevik" #NT!
+  HUMAN_CHR_finn: "Finn" #NT!
+  HUMAN_CHR_hershel: "Hershel" #NT!
+  HUMAN_CHR_hasadar: "Hasadar" #NT!
+  HUMAN_CHR_sherro: "Sherro" #NT!
+  HUMAN_CHR_silas: "Silas" #NT!
+  HUMAN_CHR_tennet: "Tennet" #NT!
+  HUMAN_CHR_jarred: "Jarred" #NT!
+  HUMAN_CHR_chun: "Chun" #NT!
+  HUMAN_CHR_keevy: "Keevy" #NT!
+  HUMAN_CHR_raan: "Raan" #NT!
+  HUMAN_CHR_jord: "Jord" #NT!
+  HUMAN_CHR_sarvel: "Sarvel" #NT!
+  HUMAN_CHR_galvain: "Galvain" #NT!
+  HUMAN_CHR_denjax: "Denjax" #NT!
+  HUMAN_CHR_booster: "Booster" #NT!
+  HUMAN_CHR_probus: "Probus" #NT!
+  HUMAN_CHR_pavik: "Pavik" #NT!
+  HUMAN_CHR_renn: "Renn" #NT!
+  HUMAN_CHR_mill: "Mill" #NT!
+  HUMAN_CHR_garv: "Garv" #NT!
+  HUMAN_CHR_harval: "Harval" #NT!
+  HUMAN_CHR_fynn: "Fynn" #NT!
+  HUMAN_CHR_hugo: "Hugo" #NT!
+  HUMAN_CHR_tam: "Tam" #NT!
+  HUMAN_CHR_denetrius: "Denetrius" #NT!
+  HUMAN_CHR_vinro: "Vinro" #NT!
+  HUMAN_CHR_wex: "Wex" #NT!
+  HUMAN_CHR_jos: "Jos" #NT!
+  HUMAN_CHR_fliry: "Fliry" #NT!
+  HUMAN_CHR_halden: "Halden" #NT!
+  HUMAN_CHR_emmin: "Emmin" #NT!
+  HUMAN_CHR_attico: "Attico" #NT!
+  HUMAN_CHR_edbr: "Edbr" #NT!
+  HUMAN_CHR_brimon: "Brimon" #NT!
+  HUMAN_CHR_genna: "Genna" #NT!
+  HUMAN_CHR_fyric: "Fyric" #NT!
+  HUMAN_CHR_iella: "Iella" #NT!
+  HUMAN_CHR_sena: "Sena" #NT!
+  HUMAN_CHR_irenez: "Irenez" #NT!
+  HUMAN_CHR_dani: "Dani" #NT!
+  HUMAN_CHR_jaina: "Jaina" #NT!
+  HUMAN_CHR_danielle: "Danielle" #NT!
+  HUMAN_CHR_tiion: "Tiion" #NT!
+  HUMAN_CHR_allana: "Allana" #NT!
+  HUMAN_CHR_ania: "Ania" #NT!
+  HUMAN_CHR_dalla: "Dalla" #NT!
+  HUMAN_CHR_mirax: "Mirax" #NT!
+  HUMAN_CHR_wynssa: "Wynssa" #NT!
+  HUMAN_CHR_tira: "Tira" #NT!
+  HUMAN_CHR_corinna: "Corinna" #NT!
+  HUMAN_CHR_kandria: "Kandria" #NT!
+  HUMAN_CHR_tess: "Tess" #NT!
+  HUMAN_CHR_vora: "Vora" #NT!
+  HUMAN_CHR_annissya: "Annissya" #NT!
+  HUMAN_CHR_myri: "Myri" #NT!
+  HUMAN_CHR_syal: "Syal" #NT!
+  HUMAN_CHR_zena: "Zena" #NT!
+  HUMAN_CHR_elga: "Elga" #NT!
+  HUMAN_CHR_frei: "Frei" #NT!
+  HUMAN_CHR_camelle: "Camelle" #NT!
+  HUMAN_CHR_deli: "Deli" #NT!
+  HUMAN_CHR_roxi: "Roxi" #NT!
+  HUMAN_CHR_elsen: "Elsen" #NT!
+  HUMAN_CHR_deena: "Deena" #NT!
+  HUMAN_CHR_areta: "Areta" #NT!
+  HUMAN_CHR_sulen: "Sulen" #NT!
+  HUMAN_CHR_bey: "Bey" #NT!
+  HUMAN_CHR_annali: "Annali" #NT!
+  HUMAN_CHR_dova: "Dova" #NT!
+  HUMAN_CHR_brusela: "Brusela" #NT!
+  HUMAN_CHR_anni: "Anni" #NT!
+  HUMAN_CHR_chai: "Chai" #NT!
+  HUMAN_CHR_kimmi: "Kimmi" #NT!
+  HUMAN_CHR_cora: "Cora" #NT!
+  HUMAN_CHR_vella: "Vella" #NT!
+  HUMAN_CHR_josta: "Josta" #NT!
+  HUMAN_CHR_viera: "Viera" #NT!
+  HUMAN_CHR_zindra: "Zindra" #NT!
+  HUMAN_CHR_coril: "Coril" #NT!
+  HUMAN_CHR_dayana: "Dayana" #NT!
+  HUMAN_CHR_destha: "Destha" #NT!
+  HUMAN_CHR_yama: "Yama" #NT!
+  HUMAN_CHR_atlanna: "Atlanna" #NT!
+  HUMAN_CHR_coraline: "Coraline" #NT!
+  HUMAN_CHR_trins: "Trins" #NT!
+  HUMAN_CHR_shandy: "Shandy" #NT!
+  HUMAN_CHR_karin: "Karin" #NT!
+  HUMAN_CHR_ajai: "Ajai" #NT!
+  HUMAN_CHR_naz: "Naz" #NT!
+  HUMAN_CHR_maris: "Maris" #NT!
+  HUMAN_CHR_bant_ena: "Bant'ena" #NT!
+  HUMAN_CHR_fianna: "Fianna" #NT!
+  HUMAN_CHR_teraeza: "Teraeza" #NT!
+  HUMAN_CHR_cilyn: "Cilyn" #NT!
+  HUMAN_CHR_jes: "Jes" #NT!
+  HUMAN_CHR_gixsa: "Gixsa" #NT!
+  HUMAN_CHR_ta_mara: "Ta-mara" #NT!
+  HUMAN_CHR_mara: "Mara" #NT!
+  HUMAN_CHR_tag: "Tag" #NT!
+  HUMAN_CHR_gallura: "Gallura" #NT!
+  HUMAN_CHR_bleys: "Bleys" #NT!
+  HUMAN_CHR_kylaena: "Kylaena" #NT!
+  HUMAN_CHR_hethra: "Hethra" #NT!
+  HUMAN_CHR_hirka: "Hirka" #NT!
+  HUMAN_CHR_sola: "Sola" #NT!
+  HUMAN_CHR_nola: "Nola" #NT!
+  HUMAN_CHR_iris: "Iris" #NT!
+  HUMAN_CHR_brali: "Brali" #NT!
+  HUMAN_CHR_relva: "Relva" #NT!
+  HUMAN_CHR_jasha: "Jasha" #NT!
+  HUMAN_CHR_jenna: "Jenna" #NT!
+  HUMAN_CHR_renga: "Renga" #NT!
+  HUMAN_CHR_nyche: "Nyche" #NT!
+  HUMAN_CHR_waria: "Waria" #NT!
+  HUMAN_CHR_erin: "Erin" #NT!
+  HUMAN_CHR_kalifa: "Kalifa" #NT!
+  HUMAN_CHR_vara: "Vara" #NT!
+  HUMAN_CHR_karena: "Karena" #NT!
+  HUMAN_CHR_kess: "Kess" #NT!
+  HUMAN_CHR_ala: "Ala" #NT!
+  HUMAN_CHR_kiza: "Kiza" #NT!
+  HUMAN_CHR_adele: "Adele" #NT!
+  HUMAN_CHR_vani: "Vani" #NT!
+  HUMAN_CHR_kym: "Kym" #NT!
+  HUMAN_CHR_shandria: "Shandria" #NT!
+  HUMAN_CHR_laudica: "Laudica" #NT!
+  HUMAN_CHR_lilith: "Lilith" #NT!
+  HUMAN_CHR_brandy: "Brandy" #NT!
+  HUMAN_CHR_veega: "Veega" #NT!
+  HUMAN_CHR_lanah: "Lanah" #NT!
+  HUMAN_CHR_vinya: "Vinya" #NT!
+  HUMAN_CHR_meloria: "Meloria" #NT!
+  HUMAN_CHR_shyla: "Shyla" #NT!
+  HUMAN_CHR_navah: "Navah" #NT!
+  HUMAN_CHR_nevhra: "Nevhra" #NT!
+  HUMAN_CHR_ballia: "Ballia" #NT!
+  HUMAN_CHR_lilea: "Lilea" #NT!
+  HUMAN_CHR_sia: "Sia" #NT!
+  HUMAN_CHR_mindra: "Mindra" #NT!
+  HUMAN_CHR_kryss: "Kryss" #NT!
+  HUMAN_CHR_esa: "Esa" #NT!
+  HUMAN_CHR_faye: "Faye" #NT!
+  HUMAN_CHR_rhea: "Rhea" #NT!
+  HUMAN_CHR_rica: "Rica" #NT!
+  HUMAN_CHR_adea: "Adea" #NT!
+  HUMAN_CHR_chertyl: "Chertyl" #NT!
+  HUMAN_CHR_sapra: "Sapra" #NT!
+  HUMAN_CHR_vega: "Vega" #NT!
+  HUMAN_CHR_seyda: "Seyda" #NT!
+  HUMAN_CHR_falthina: "Falthina" #NT!
+  HUMAN_CHR_sheelya: "Sheelya" #NT!
+  HUMAN_CHR_nifera: "Nifera" #NT!
+  HUMAN_CHR_syrin: "Syrin" #NT!
+  HUMAN_CHR_bria: "Bria" #NT!
+  HUMAN_CHR_sera: "Sera" #NT!
+  HUMAN_CHR_siolle: "Siolle" #NT!
+  HUMAN_CHR_syla: "Syla" #NT!
+  HUMAN_CHR_zayna: "Zayna" #NT!
+  HUMAN_CHR_brindy: "Brindy" #NT!
+  HUMAN_CHR_arada: "Arada" #NT!
+  HUMAN_CHR_saza: "Saza" #NT!
+  HUMAN_CHR_milinae: "Milinae" #NT!
+  HUMAN_CHR_trilinae: "Trilinae" #NT!
+  HUMAN_CHR_shaedra: "Shaedra" #NT!
+  HUMAN_CHR_ecile: "Ecile" #NT!
+  HUMAN_CHR_orpa: "Orpa" #NT!
+  HUMAN_CHR_vralla: "Vralla" #NT!
+  HUMAN_CHR_vye: "Vye" #NT!
+  HUMAN_CHR_alana: "Alana" #NT!
+  HUMAN_CHR_teniel: "Teniel" #NT!
+  HUMAN_CHR_demmi: "Demmi" #NT!
+  HUMAN_CHR_erris: "Erris" #NT!
+  HUMAN_CHR_jannitha: "Jannitha" #NT!
+  HUMAN_CHR_hoclaw: "Hoclaw" #NT!
+  HUMAN_CHR_saxan: "Saxan" #NT!
+  HUMAN_CHR_gejjen: "Gejjen" #NT!
+  HUMAN_CHR_delpin: "Delpin" #NT!
+  HUMAN_CHR_bedoch: "Bedoch" #NT!
+  HUMAN_CHR_halcyon: "Halcyon" #NT!
+  HUMAN_CHR_horn: "Horn" #NT!
+  HUMAN_CHR_fordox: "Fordox" #NT!
+  HUMAN_CHR_merricope: "Merricope" #NT!
+  HUMAN_CHR_thomree: "Thomree" #NT!
+  HUMAN_CHR_thyne: "Thyne" #NT!
+  HUMAN_CHR_gallamby: "Gallamby" #NT!
+  HUMAN_CHR_madine: "Madine" #NT!
+  HUMAN_CHR_starflare: "Starflare" #NT!
+  HUMAN_CHR_loor: "Loor" #NT!
+  HUMAN_CHR_bastra: "Bastra" #NT!
+  HUMAN_CHR_wessiri: "Wessiri" #NT!
+  HUMAN_CHR_beruss: "Beruss" #NT!
+  HUMAN_CHR_micamberlecto: "Micamberlecto" #NT!
+  HUMAN_CHR_terrik: "Terrik" #NT!
+  HUMAN_CHR_leikvold: "Leikvold" #NT!
+  HUMAN_CHR_midanyl: "Midanyl" #NT!
+  HUMAN_CHR_tyrson: "Tyrson" #NT!
+  HUMAN_CHR_faytonni: "Faytonni" #NT!
+  HUMAN_CHR_horm: "Horm" #NT!
+  HUMAN_CHR_kieran: "Kieran" #NT!
+  HUMAN_CHR_sal_solo: "Sal-Solo" #NT!
+  HUMAN_CHR_solo: "Solo" #NT!
+  HUMAN_CHR_a_daasha: "A'Daasha" #NT!
+  HUMAN_CHR_alder: "Alder" #NT!
+  HUMAN_CHR_ancher: "Ancher" #NT!
+  HUMAN_CHR_anjek: "Anjek" #NT!
+  HUMAN_CHR_anker: "Anker" #NT!
+  HUMAN_CHR_anyell: "Anyell" #NT!
+  HUMAN_CHR_arbo: "Arbo" #NT!
+  HUMAN_CHR_archan: "Archan" #NT!
+  HUMAN_CHR_ardellian: "Ardellian" #NT!
+  HUMAN_CHR_arkos: "Arkos" #NT!
+  HUMAN_CHR_arned: "Arned" #NT!
+  HUMAN_CHR_arrant: "Arrant" #NT!
+  HUMAN_CHR_aycen: "Aycen" #NT!
+  HUMAN_CHR_bakarn: "Bakarn" #NT!
+  HUMAN_CHR_barad: "Barad" #NT!
+  HUMAN_CHR_barje: "Barje" #NT!
+  HUMAN_CHR_barl: "Barl" #NT!
+  HUMAN_CHR_barthis: "Barthis" #NT!
+  HUMAN_CHR_bata: "Bata" #NT!
+  HUMAN_CHR_beech: "Beech" #NT!
+  HUMAN_CHR_beetilles: "Beetilles" #NT!
+  HUMAN_CHR_behar: "Behar" #NT!
+  HUMAN_CHR_bel_iblis: "Bel Iblis" #NT!
+  HUMAN_CHR_bel_opis: "Bel-Opis" #NT!
+  HUMAN_CHR_bell: "Bell" #NT!
+  HUMAN_CHR_belos: "Belos" #NT!
+  HUMAN_CHR_bender: "Bender" #NT!
+  HUMAN_CHR_bilure: "Bilure" #NT!
+  HUMAN_CHR_bish: "Bish" #NT!
+  HUMAN_CHR_bissa: "Bissa" #NT!
+  HUMAN_CHR_blancken: "Blancken" #NT!
+  HUMAN_CHR_bombassa: "Bombassa" #NT!
+  HUMAN_CHR_bordo: "Bordo" #NT!
+  HUMAN_CHR_boshek: "BoShek" #NT!
+  HUMAN_CHR_bounder: "Bounder" #NT!
+  HUMAN_CHR_bratt: "Bratt" #NT!
+  HUMAN_CHR_breeger: "Breeger" #NT!
+  HUMAN_CHR_bricker: "Bricker" #NT!
+  HUMAN_CHR_brigger: "Brigger" #NT!
+  HUMAN_CHR_bruckman: "Bruckman" #NT!
+  HUMAN_CHR_buroy: "Buroy" #NT!
+  HUMAN_CHR_burr_naxis: "Burr Naxis" #NT!
+  HUMAN_CHR_byrnloo: "Byrnloo" #NT!
+  HUMAN_CHR_cadmir: "Cadmir" #NT!
+  HUMAN_CHR_calay: "Calay" #NT!
+  HUMAN_CHR_cantarus: "Cantarus" #NT!
+  HUMAN_CHR_capstan: "Capstan" #NT!
+  HUMAN_CHR_car_das: "Car'das" #NT!
+  HUMAN_CHR_carr: "Carr" #NT!
+  HUMAN_CHR_carter: "Carter" #NT!
+  HUMAN_CHR_chyler: "Chyler" #NT!
+  HUMAN_CHR_convorr: "Convorr" #NT!
+  HUMAN_CHR_cope: "Cope" #NT!
+  HUMAN_CHR_corse: "Corse" #NT!
+  HUMAN_CHR_cracken: "Cracken" #NT!
+  HUMAN_CHR_craddok: "Craddok" #NT!
+  HUMAN_CHR_creel: "Creel" #NT!
+  HUMAN_CHR_crisk: "Crisk" #NT!
+  HUMAN_CHR_cynthisa: "Cynthisa" #NT!
+  HUMAN_CHR_daine: "Daine" #NT!
+  HUMAN_CHR_dak: "Dak" #NT!
+  HUMAN_CHR_dakron: "Dakron" #NT!
+  HUMAN_CHR_das: "Das" #NT!
+  HUMAN_CHR_daskmin: "Daskmin" #NT!
+  HUMAN_CHR_dekker: "Dekker" #NT!
+  HUMAN_CHR_deng: "Deng" #NT!
+  HUMAN_CHR_devlin: "Devlin" #NT!
+  HUMAN_CHR_donos: "Donos" #NT!
+  HUMAN_CHR_dotyk: "Dotyk" #NT!
+  HUMAN_CHR_draav: "Draav" #NT!
+  HUMAN_CHR_drass: "Drass" #NT!
+  HUMAN_CHR_dravvad: "Dravvad" #NT!
+  HUMAN_CHR_dreezian: "Dreezian" #NT!
+  HUMAN_CHR_driscull: "Driscull" #NT!
+  HUMAN_CHR_dubreas: "Dubreas" #NT!
+  HUMAN_CHR_duey: "Duey" #NT!
+  HUMAN_CHR_durron: "Durron" #NT!
+  HUMAN_CHR_dustrunner: "Dustrunner" #NT!
+  HUMAN_CHR_dynes: "Dynes" #NT!
+  HUMAN_CHR_eldon: "Eldon" #NT!
+  HUMAN_CHR_evnar: "Evnar" #NT!
+  HUMAN_CHR_faldrin: "Faldrin" #NT!
+  HUMAN_CHR_fanaso: "Fanaso" #NT!
+  HUMAN_CHR_fane: "Fane" #NT!
+  HUMAN_CHR_fash: "Fash" #NT!
+  HUMAN_CHR_featherlight: "Featherlight" #NT!
+  HUMAN_CHR_feleema: "Feleema" #NT!
+  HUMAN_CHR_felyood: "Felyood" #NT!
+  HUMAN_CHR_ferasi: "Ferasi" #NT!
+  HUMAN_CHR_varangi: "Varangi" #NT!
+  HUMAN_CHR_ferd: "Ferd" #NT!
+  HUMAN_CHR_fhernan: "Fhernan" #NT!
+  HUMAN_CHR_fische: "Fische" #NT!
+  HUMAN_CHR_flenn: "Flenn" #NT!
+  HUMAN_CHR_forno: "Forno" #NT!
+  HUMAN_CHR_forte: "Forte" #NT!
+  HUMAN_CHR_furloti: "Furloti" #NT!
+  HUMAN_CHR_gadren: "Gadren" #NT!
+  HUMAN_CHR_gara: "Gara" #NT!
+  HUMAN_CHR_garamin: "Garamin" #NT!
+  HUMAN_CHR_geissler: "Geissler" #NT!
+  HUMAN_CHR_hun: "Hun" #NT!
+  HUMAN_CHR_glider: "Glider" #NT!
+  HUMAN_CHR_gistang: "Gistang" #NT!
+  HUMAN_CHR_gleasry: "Gleasry" #NT!
+  HUMAN_CHR_gorlin: "Gorlin" #NT!
+  HUMAN_CHR_grath: "Grath" #NT!
+  HUMAN_CHR_greenley: "Greenley" #NT!
+  HUMAN_CHR_fulfel: "Fulfel" #NT!
+  HUMAN_CHR_gurah: "Gurah" #NT!
+  HUMAN_CHR_halbert: "Halbert" #NT!
+  HUMAN_CHR_hamber: "Hamber" #NT!
+  HUMAN_CHR_hamner: "Hamner" #NT!
+  HUMAN_CHR_handerin: "Handerin" #NT!
+  HUMAN_CHR_harand: "Harand" #NT!
+  HUMAN_CHR_haley: "Haley" #NT!
+  HUMAN_CHR_hel: "Hel" #NT!
+  HUMAN_CHR_helot: "Helot" #NT!
+  HUMAN_CHR_hieks: "Hieks" #NT!
+  HUMAN_CHR_higron: "Higron" #NT!
+  HUMAN_CHR_holkin: "Holkin" #NT!
+  HUMAN_CHR_hooge: "Hooge" #NT!
+  HUMAN_CHR_hus: "Hus" #NT!
+  HUMAN_CHR_huutar: "Huutar" #NT!
+  HUMAN_CHR_idanian: "Idanian" #NT!
+  HUMAN_CHR_inacc: "Inacc" #NT!
+  HUMAN_CHR_indervin: "Indervin" #NT!
+  HUMAN_CHR_iniro: "Iniro" #NT!
+  HUMAN_CHR_innik: "Innik" #NT!
+  HUMAN_CHR_isken: "Isken" #NT!
+  HUMAN_CHR_jiklip: "Jiklip" #NT!
+  HUMAN_CHR_jinsin: "Jinsin" #NT!
+  HUMAN_CHR_jixton: "Jixton" #NT!
+  HUMAN_CHR_joben: "Joben" #NT!
+  HUMAN_CHR_jodhul: "Jodhul" #NT!
+  HUMAN_CHR_jofer: "Jofer" #NT!
+  HUMAN_CHR_johnair: "Johnair" #NT!
+  HUMAN_CHR_jorek: "Jorek" #NT!
+  HUMAN_CHR_junus: "Junus" #NT!
+  HUMAN_CHR_k_reye: "K'Reye" #NT!
+  HUMAN_CHR_kahob: "Kahob" #NT!
+  HUMAN_CHR_kantt: "Kantt" #NT!
+  HUMAN_CHR_kanu: "Kanu" #NT!
+  HUMAN_CHR_karathas: "Karathas" #NT!
+  HUMAN_CHR_katrane: "Katrane" #NT!
+  HUMAN_CHR_keer: "Keer" #NT!
+  HUMAN_CHR_kel_vannon: "Kel'Vannon" #NT!
+  HUMAN_CHR_van_kellen: "Van Kellen" #NT!
+  HUMAN_CHR_kener: "Kener" #NT!
+  HUMAN_CHR_kersos: "Kersos" #NT!
+  HUMAN_CHR_kilian: "Kilian" #NT!
+  HUMAN_CHR_kimbo: "Kimbo" #NT!
+  HUMAN_CHR_kirin: "Kirin" #NT!
+  HUMAN_CHR_kitt: "Kitt" #NT!
+  HUMAN_CHR_konya: "Konya" #NT!
+  HUMAN_CHR_korr: "Korr" #NT!
+  HUMAN_CHR_krast: "Krast" #NT!
+  HUMAN_CHR_kwerve: "Kwerve" #NT!
+  HUMAN_CHR_kwinn: "Kwinn" #NT!
+  HUMAN_CHR_l_hnnar: "L'hnnar" #NT!
+  HUMAN_CHR_lerann: "Lerann" #NT!
+  HUMAN_CHR_levare: "Levare" #NT!
+  HUMAN_CHR_locke: "Locke" #NT!
+  HUMAN_CHR_loren: "Loren" #NT!
+  HUMAN_CHR_loroan: "Loroan" #NT!
+  HUMAN_CHR_m_rak: "M'rak" #NT!
+  HUMAN_CHR_madish: "Madish" #NT!
+  HUMAN_CHR_malo: "Malo" #NT!
+  HUMAN_CHR_mar_shayal: "Mar-Shayal" #NT!
+  HUMAN_CHR_maysor: "Maysor" #NT!
+  HUMAN_CHR_mccallok: "McCallok" #NT!
+  HUMAN_CHR_king: "King" #NT!
+  HUMAN_CHR_melikan: "Melikan" #NT!
+  HUMAN_CHR_millano: "Millano" #NT!
+  HUMAN_CHR_moeda: "Moeda" #NT!
+  HUMAN_CHR_montis: "Montis" #NT!
+  HUMAN_CHR_mor: "Mor" #NT!
+  HUMAN_CHR_mullawny: "Mullawny" #NT!
+  HUMAN_CHR_nabon: "Nabon" #NT!
+  HUMAN_CHR_nataal: "Nataal" #NT!
+  HUMAN_CHR_navander: "Navander" #NT!
+  HUMAN_CHR_naytaan: "Naytaan" #NT!
+  HUMAN_CHR_nedmak: "Nedmak" #NT!
+  HUMAN_CHR_nimbi: "Nimbi" #NT!
+  HUMAN_CHR_noaddo: "Noaddo" #NT!
+  HUMAN_CHR_noorg: "Noorg" #NT!
+  HUMAN_CHR_norrin: "Norrin" #NT!
+  HUMAN_CHR_okanor: "Okanor" #NT!
+  HUMAN_CHR_p_teska: "P'teska" #NT!
+  HUMAN_CHR_paol: "Paol" #NT!
+  HUMAN_CHR_parna: "Parna" #NT!
+  HUMAN_CHR_patrell: "Patrell" #NT!
+  HUMAN_CHR_pavan: "Pavan" #NT!
+  HUMAN_CHR_pax: "Pax" #NT!
+  HUMAN_CHR_pendre: "Pendre" #NT!
+  HUMAN_CHR_pendron: "Pendron" #NT!
+  HUMAN_CHR_pon: "Pon" #NT!
+  HUMAN_CHR_post: "Post" #NT!
+  HUMAN_CHR_qennto: "Qennto" #NT!
+  HUMAN_CHR_rai: "Rai" #NT!
+  HUMAN_CHR_ramak: "Ramak" #NT!
+  HUMAN_CHR_reendorr: "Reendorr" #NT!
+  HUMAN_CHR_rendar: "Rendar" #NT!
+  HUMAN_CHR_reshad: "Reshad" #NT!
+  HUMAN_CHR_rez: "Rez" #NT!
+  HUMAN_CHR_rite: "Rite" #NT!
+  HUMAN_CHR_rojo: "Rojo" #NT!
+  HUMAN_CHR_ross: "Ross" #NT!
+  HUMAN_CHR_rydel: "Rydel" #NT!
+  HUMAN_CHR_saiy: "Saiy" #NT!
+  HUMAN_CHR_salpivo: "SalPivo" #NT!
+  HUMAN_CHR_sarkee: "Sarkee" #NT!
+  HUMAN_CHR_sassich: "Sassich" #NT!
+  HUMAN_CHR_sau: "Sau" #NT!
+  HUMAN_CHR_savas: "Savas" #NT!
+  HUMAN_CHR_seedel: "Seedel" #NT!
+  HUMAN_CHR_seki: "Seki" #NT!
+  HUMAN_CHR_seldin: "Seldin" #NT!
+  HUMAN_CHR_sepen: "Sepen" #NT!
+  HUMAN_CHR_shae: "Shae" #NT!
+  HUMAN_CHR_shallo: "Shallo" #NT!
+  HUMAN_CHR_sharest: "Sharest" #NT!
+  HUMAN_CHR_shelby: "Shelby" #NT!
+  HUMAN_CHR_shu: "Shu" #NT!
+  HUMAN_CHR_sionaro: "Sionaro" #NT!
+  HUMAN_CHR_sirrah: "Sirrah" #NT!
+  HUMAN_CHR_sistek: "Sistek" #NT!
+  HUMAN_CHR_spart: "Spart" #NT!
+  HUMAN_CHR_stasheff: "Stasheff" #NT!
+  HUMAN_CHR_stokk: "Stokk" #NT!
+  HUMAN_CHR_suul: "Suul" #NT!
+  HUMAN_CHR_swan: "Swan" #NT!
+  HUMAN_CHR_swift: "Swift" #NT!
+  HUMAN_CHR_tal_oldra: "Tal-Oldra" #NT!
+  HUMAN_CHR_tark: "Tark" #NT!
+  HUMAN_CHR_teppler: "Teppler" #NT!
+  HUMAN_CHR_tharen: "Tharen" #NT!
+  HUMAN_CHR_thrakus: "Thrakus" #NT!
+  HUMAN_CHR_timmer: "Timmer" #NT!
+  HUMAN_CHR_tinta: "Tinta" #NT!
+  HUMAN_CHR_tipper: "Tipper" #NT!
+  HUMAN_CHR_tomas: "Tomas" #NT!
+  HUMAN_CHR_tommick: "Tommick" #NT!
+  HUMAN_CHR_torbul: "Torbul" #NT!
+  HUMAN_CHR_tors: "Tors" #NT!
+  HUMAN_CHR_torve: "Torve" #NT!
+  HUMAN_CHR_tredahl: "Tredahl" #NT!
+  HUMAN_CHR_treece: "Treece" #NT!
+  HUMAN_CHR_truchong: "Truchong" #NT!
+  HUMAN_CHR_tumu: "Tumu" #NT!
+  HUMAN_CHR_turhaya: "Turhaya" #NT!
+  HUMAN_CHR_uliss: "Uliss" #NT!
+  HUMAN_CHR_ulbert: "Ulbert" #NT!
+  HUMAN_CHR_undea: "Undea" #NT!
+  HUMAN_CHR_untaire: "Untaire" #NT!
+  HUMAN_CHR_valouri: "Valouri" #NT!
+  HUMAN_CHR_verenar: "Verenar" #NT!
+  HUMAN_CHR_vergesso: "Vergesso" #NT!
+  HUMAN_CHR_vidian: "Vidian" #NT!
+  HUMAN_CHR_vinram: "Vinram" #NT!
+  HUMAN_CHR_vio: "Vio" #NT!
+  HUMAN_CHR_vitale: "Vitale" #NT!
+  HUMAN_CHR_vondar: "Vondar" #NT!
+  HUMAN_CHR_vorr: "Vorr" #NT!
+  HUMAN_CHR_vorru: "Vorru" #NT!
+  HUMAN_CHR_walden: "Walden" #NT!
+  HUMAN_CHR_waray: "Waray" #NT!
+  HUMAN_CHR_wes: "Wes" #NT!
+  HUMAN_CHR_wred: "Wred" #NT!
+  HUMAN_CHR_wyum: "Wyum" #NT!
+  HUMAN_CHR_xoczuko: "Xoczuko" #NT!
+  HUMAN_CHR_yamagh: "Yamagh" #NT!
+  HUMAN_CHR_yarar: "Yarar" #NT!
+  HUMAN_CHR_berethron: "Berethron" #NT!
+  HUMAN_CHR_threkim: "Threkim" #NT!
+  HUMAN_CHR_hal: "Hal" #NT!
+  HUMAN_CHR_rostek: "Rostek" #NT!
+  HUMAN_CHR_hundi: "Hundi" #NT!
+  HUMAN_CHR_scerra: "Scerra" #NT!
+  HUMAN_CHR_darriovof_iii: "Darriovof III" #NT!
+  HUMAN_CHR_darriovof_iv: "Darriovof IV" #NT!
+  HUMAN_CHR_alek: "Alek" #NT!
+  HUMAN_CHR_bail: "Bail" #NT!
+  HUMAN_CHR_balic: "Balic" #NT!
+  HUMAN_CHR_bevek: "Bevek" #NT!
+  HUMAN_CHR_bornan: "Bornan" #NT!
+  HUMAN_CHR_bouris: "Bouris" #NT!
+  HUMAN_CHR_cedarik: "Cedarik" #NT!
+  HUMAN_CHR_charle: "Charle" #NT!
+  HUMAN_CHR_dargus: "Dargus" #NT!
+  HUMAN_CHR_deral: "Deral" #NT!
+  HUMAN_CHR_deris: "Deris" #NT!
+  HUMAN_CHR_dolin: "Dolin" #NT!
+  HUMAN_CHR_dugan: "Dugan" #NT!
+  HUMAN_CHR_elz: "Elz" #NT!
+  HUMAN_CHR_elkin: "Elkin" #NT!
+  HUMAN_CHR_gaul: "Gaul" #NT!
+  HUMAN_CHR_gevin: "Gevin" #NT!
+  HUMAN_CHR_gorm: "Gorm" #NT!
+  HUMAN_CHR_gram: "Gram" #NT!
+  HUMAN_CHR_gurveer: "Gurveer" #NT!
+  HUMAN_CHR_hall: "Hall" #NT!
+  HUMAN_CHR_heeth: "Heeth" #NT!
+  HUMAN_CHR_inivon: "Inivon" #NT!
+  HUMAN_CHR_ivers: "Ivers" #NT!
+  HUMAN_CHR_jeremoch: "Jeremoch" #NT!
+  HUMAN_CHR_jharkus: "Jharkus" #NT!
+  HUMAN_CHR_joral: "Joral" #NT!
+  HUMAN_CHR_kamen: "Kamen" #NT!
+  HUMAN_CHR_kan_grell: "Kan'grell" #NT!
+  HUMAN_CHR_keldas: "Keldas" #NT!
+  HUMAN_CHR_kelen: "Kelen" #NT!
+  HUMAN_CHR_larbec: "Larbec" #NT!
+  HUMAN_CHR_lenn: "Lenn" #NT!
+  HUMAN_CHR_lieber: "Lieber" #NT!
+  HUMAN_CHR_linel: "Linel" #NT!
+  HUMAN_CHR_lew: "Lew" #NT!
+  HUMAN_CHR_melas: "Melas" #NT!
+  HUMAN_CHR_nayel: "Nayel" #NT!
+  HUMAN_CHR_nomar: "Nomar" #NT!
+  HUMAN_CHR_nial: "Nial" #NT!
+  HUMAN_CHR_orrick: "Orrick" #NT!
+  HUMAN_CHR_pashon: "Pashon" #NT!
+  HUMAN_CHR_perovius: "Perovius" #NT!
+  HUMAN_CHR_paulus: "Paulus" #NT!
+  HUMAN_CHR_quarn: "Quarn" #NT!
+  HUMAN_CHR_raal: "Raal" #NT!
+  HUMAN_CHR_raffid: "Raffid" #NT!
+  HUMAN_CHR_raikon: "Raikon" #NT!
+  HUMAN_CHR_rak: "Rak" #NT!
+  HUMAN_CHR_raymus: "Raymus" #NT!
+  HUMAN_CHR_raynar: "Raynar" #NT!
+  HUMAN_CHR_rehmar: "Rehmar" #NT!
+  HUMAN_CHR_rickard: "Rickard" #NT!
+  HUMAN_CHR_serjay: "Serjay" #NT!
+  HUMAN_CHR_seraph: "Seraph" #NT!
+  HUMAN_CHR_stavin: "Stavin" #NT!
+  HUMAN_CHR_taros: "Taros" #NT!
+  HUMAN_CHR_tash: "Tash" #NT!
+  HUMAN_CHR_tenantius: "Tenantius" #NT!
+  HUMAN_CHR_tavion: "Tavion" #NT!
+  HUMAN_CHR_thorin: "Thorin" #NT!
+  HUMAN_CHR_teral: "Teral" #NT!
+  HUMAN_CHR_trask: "Trask" #NT!
+  HUMAN_CHR_tyko: "Tyko" #NT!
+  HUMAN_CHR_varus: "Varus" #NT!
+  HUMAN_CHR_vessex: "Vessex" #NT!
+  HUMAN_CHR_victor: "Victor" #NT!
+  HUMAN_CHR_voron: "Voron" #NT!
+  HUMAN_CHR_weeznod: "Weeznod" #NT!
+  HUMAN_CHR_wynne: "Wynne" #NT!
+  HUMAN_CHR_xin: "Xin" #NT!
+  HUMAN_CHR_yils: "Yils" #NT!
+  HUMAN_CHR_yudin: "Yudin" #NT!
+  HUMAN_CHR_yun: "Yun" #NT!
+  HUMAN_CHR_zacar: "Zacar" #NT!
+  HUMAN_CHR_stanel_andaren: "Stanel Andaren" #NT!
+  HUMAN_CHR_corlis_brado: "Corlis Brado" #NT!
+  HUMAN_CHR_aered: "Aered" #NT!
+  HUMAN_CHR_cael: "Cael" #NT!
+  HUMAN_CHR_peema: "Peema" #NT!
+  HUMAN_CHR_bryce: "Bryce" #NT!
+  HUMAN_CHR_atton: "Atton" #NT!
+  HUMAN_CHR_agrippa: "Agrippa" #NT!
+  HUMAN_CHR_stonroy: "Stonroy" #NT!
+  HUMAN_CHR_kalf: "Kalf" #NT!
+  HUMAN_CHR_zak: "Zak" #NT!
+  HUMAN_CHR_vestin: "Vestin" #NT!
+  HUMAN_CHR_denri: "Denri" #NT!
+  HUMAN_CHR_sehn: "Sehn" #NT!
+  HUMAN_CHR_bradel: "Bradel" #NT!
+  HUMAN_CHR_brinn: "Brinn" #NT!
+  HUMAN_CHR_bylsma: "Bylsma" #NT!
+  HUMAN_CHR_skoloc: "Skoloc" #NT!
+  HUMAN_CHR_tycho: "Tycho" #NT!
+  HUMAN_CHR_corlis: "Corlis" #NT!
+  HUMAN_CHR_brado: "Brado" #NT!
+  HUMAN_CHR_jahan: "Jahan" #NT!
+  HUMAN_CHR_hric: "Hric" #NT!
+  HUMAN_CHR_skall: "Skall" #NT!
+  HUMAN_CHR_kier: "Kier" #NT!
+  HUMAN_CHR_dathis: "Dathis" #NT!
+  HUMAN_CHR_endo: "Endo" #NT!
+  HUMAN_CHR_teven: "Teven" #NT!
+  HUMAN_CHR_lohn: "Lohn" #NT!
+  HUMAN_CHR_rabael: "Rabael" #NT!
+  HUMAN_CHR_dir: "Dir" #NT!
+  HUMAN_CHR_euwood: "Euwood" #NT!
+  HUMAN_CHR_craige: "Craige" #NT!
+  HUMAN_CHR_lagan: "Lagan" #NT!
+  HUMAN_CHR_earnst: "Earnst" #NT!
+  HUMAN_CHR_dannan: "Dannan" #NT!
+  HUMAN_CHR_wynt: "Wynt" #NT!
+  HUMAN_CHR_dictio: "Dictio" #NT!
+  HUMAN_CHR_rangos: "Rangos" #NT!
+  HUMAN_CHR_marsden: "Marsden" #NT!
+  HUMAN_CHR_darmin: "Darmin" #NT!
+  HUMAN_CHR_zeb: "Zeb" #NT!
+  HUMAN_CHR_dairn: "Dairn" #NT!
+  HUMAN_CHR_mazi: "Mazi" #NT!
+  HUMAN_CHR_santigo: "Santigo" #NT!
+  HUMAN_CHR_reija: "Reija" #NT!
+  HUMAN_CHR_kasan: "Kasan" #NT!
+  HUMAN_CHR_j_er: "J'er" #NT!
+  HUMAN_CHR_lorac: "Lorac" #NT!
+  HUMAN_CHR_nuun: "Nuun" #NT!
+  HUMAN_CHR_pharoth: "Pharoth" #NT!
+  HUMAN_CHR_ledd: "Ledd" #NT!
+  HUMAN_CHR_veni: "Veni" #NT!
+  HUMAN_CHR_kai: "Kai" #NT!
+  HUMAN_CHR_sam: "Sam" #NT!
+  HUMAN_CHR_kell: "Kell" #NT!
+  HUMAN_CHR_tyr: "Tyr" #NT!
+  HUMAN_CHR_chrigeld: "Chrigeld" #NT!
+  HUMAN_CHR_malan: "Malan" #NT!
+  HUMAN_CHR_junas: "Junas" #NT!
+  HUMAN_CHR_vacca: "Vacca" #NT!
+  HUMAN_CHR_halagad: "Halagad" #NT!
+  HUMAN_CHR_adrian: "Adrian" #NT!
+  HUMAN_CHR_sateen: "Sateen" #NT!
+  HUMAN_CHR_vanden: "Vanden" #NT!
+  HUMAN_CHR_gregor: "Gregor" #NT!
+  HUMAN_CHR_nash: "Nash" #NT!
+  HUMAN_CHR_dartan: "Dartan" #NT!
+  HUMAN_CHR_altana: "Altana" #NT!
+  HUMAN_CHR_an_bal: "An'bal" #NT!
+  HUMAN_CHR_caline: "Caline" #NT!
+  HUMAN_CHR_carasynthia: "Carasynthia" #NT!
+  HUMAN_CHR_cedonia: "Cedonia" #NT!
+  HUMAN_CHR_corla: "Corla" #NT!
+  HUMAN_CHR_daria: "Daria" #NT!
+  HUMAN_CHR_deara: "Deara" #NT!
+  HUMAN_CHR_elana: "Elana" #NT!
+  HUMAN_CHR_fasha: "Fasha" #NT!
+  HUMAN_CHR_gerane: "Gerane" #NT!
+  HUMAN_CHR_gesselle: "Gesselle" #NT!
+  HUMAN_CHR_lenan: "Lenan" #NT!
+  HUMAN_CHR_mazicia: "Mazicia" #NT!
+  HUMAN_CHR_onway: "Onway" #NT!
+  HUMAN_CHR_pabel: "Pabel" #NT!
+  HUMAN_CHR_rehanna: "Rehanna" #NT!
+  HUMAN_CHR_renata: "Renata" #NT!
+  HUMAN_CHR_samara: "Samara" #NT!
+  HUMAN_CHR_sheltay: "Sheltay" #NT!
+  HUMAN_CHR_surrel: "Surrel" #NT!
+  HUMAN_CHR_tia: "Tia" #NT!
+  HUMAN_CHR_vala: "Vala" #NT!
+  HUMAN_CHR_valyn: "Valyn" #NT!
+  HUMAN_CHR_verandala: "Verandala" #NT!
+  HUMAN_CHR_aryn_dro: "Aryn Dro" #NT!
+  HUMAN_CHR_paran_sin: "Paran Sin" #NT!
+  HUMAN_CHR_darsha: "Darsha" #NT!
+  HUMAN_CHR_liana: "Liana" #NT!
+  HUMAN_CHR_alya: "Alya" #NT!
+  HUMAN_CHR_celana: "Celana" #NT!
+  HUMAN_CHR_padija: "Padija" #NT!
+  HUMAN_CHR_lilit: "Lilit" #NT!
+  HUMAN_CHR_milessa: "Milessa" #NT!
+  HUMAN_CHR_jora: "Jora" #NT!
+  HUMAN_CHR_ress: "Ress" #NT!
+  HUMAN_CHR_dansra: "Dansra" #NT!
+  HUMAN_CHR_mia: "Mia" #NT!
+  HUMAN_CHR_muriel: "Muriel" #NT!
+  HUMAN_CHR_andra: "Andra" #NT!
+  HUMAN_CHR_jens: "Jens" #NT!
+  HUMAN_CHR_darlen: "Darlen" #NT!
+  HUMAN_CHR_halle: "Halle" #NT!
+  HUMAN_CHR_halla: "Halla" #NT!
+  HUMAN_CHR_cednah: "Cednah" #NT!
+  HUMAN_CHR_dariana: "Dariana" #NT!
+  HUMAN_CHR_talie: "Talie" #NT!
+  HUMAN_CHR_roganda: "Roganda" #NT!
+  HUMAN_CHR_kira: "Kira" #NT!
+  HUMAN_CHR_kerri: "Kerri" #NT!
+  HUMAN_CHR_minala: "Minala" #NT!
+  HUMAN_CHR_tanda: "Tanda" #NT!
+  HUMAN_CHR_maya: "Maya" #NT!
+  HUMAN_CHR_anandra: "Anandra" #NT!
+  HUMAN_CHR_neena: "Neena" #NT!
+  HUMAN_CHR_vu: "Vu" #NT!
+  HUMAN_CHR_celly: "Celly" #NT!
+  HUMAN_CHR_jan: "Jan" #NT!
+  HUMAN_CHR_uwa: "Uwa" #NT!
+  HUMAN_CHR_inea: "Inea" #NT!
+  HUMAN_CHR_maglenna: "Maglenna" #NT!
+  HUMAN_CHR_vici: "Vici" #NT!
+  HUMAN_CHR_kayala: "Kayala" #NT!
+  HUMAN_CHR_nari: "Nari" #NT!
+  HUMAN_CHR_vana: "Vana" #NT!
+  HUMAN_CHR_terrin: "Terrin" #NT!
+  HUMAN_CHR_hari: "Hari" #NT!
+  HUMAN_CHR_tace: "Tace" #NT!
+  HUMAN_CHR_jylle: "Jylle" #NT!
+  HUMAN_CHR_sumda: "Sumda" #NT!
+  HUMAN_CHR_janray: "Janray" #NT!
+  HUMAN_CHR_marfa: "Marfa" #NT!
+  HUMAN_CHR_selnia: "Selnia" #NT!
+  HUMAN_CHR_tula: "Tula" #NT!
+  HUMAN_CHR_jah_kii: "Jah-kii" #NT!
+  HUMAN_CHR_niclara: "Niclara" #NT!
+  HUMAN_CHR_evaan: "Evaan" #NT!
+  HUMAN_CHR_vesta: "Vesta" #NT!
+  HUMAN_CHR_jaesa: "Jaesa" #NT!
+  HUMAN_CHR_parvin: "Parvin" #NT!
+  HUMAN_CHR_sona: "Sona" #NT!
+  HUMAN_CHR_alde: "Alde" #NT!
+  HUMAN_CHR_frayus: "Frayus" #NT!
+  HUMAN_CHR_girard: "Girard" #NT!
+  HUMAN_CHR_glorio: "Glorio" #NT!
+  HUMAN_CHR_hanarist: "Hanarist" #NT!
+  HUMAN_CHR_killesa: "Killesa" #NT!
+  HUMAN_CHR_lanar: "Lanar" #NT!
+  HUMAN_CHR_metara: "Metara" #NT!
+  HUMAN_CHR_panteer: "Panteer" #NT!
+  HUMAN_CHR_qel_nosh: "Qel-Nosh" #NT!
+  HUMAN_CHR_renar: "Renar" #NT!
+  HUMAN_CHR_rist: "Rist" #NT!
+  HUMAN_CHR_serrus: "Serrus" #NT!
+  HUMAN_CHR_syrush: "Syrush" #NT!
+  HUMAN_CHR_teraan: "Teraan" #NT!
+  HUMAN_CHR_thul: "Thul" #NT!
+  HUMAN_CHR_ulgo: "Ulgo" #NT!
+  HUMAN_CHR_argyris: "Argyris" #NT!
+  HUMAN_CHR_assant: "Assant" #NT!
+  HUMAN_CHR_dune: "Dune" #NT!
+  HUMAN_CHR_ahuff: "Ahuff" #NT!
+  HUMAN_CHR_agoris: "Agoris" #NT!
+  HUMAN_CHR_rand: "Rand" #NT!
+  HUMAN_CHR_aldrete: "Aldrete" #NT!
+  HUMAN_CHR_merian: "Merian" #NT!
+  HUMAN_CHR_soma: "Soma" #NT!
+  HUMAN_CHR_anjeri: "Anjeri" #NT!
+  HUMAN_CHR_arranda: "Arranda" #NT!
+  HUMAN_CHR_astane: "Astane" #NT!
+  HUMAN_CHR_axlon: "Axlon" #NT!
+  HUMAN_CHR_ayl: "Ayl" #NT!
+  HUMAN_CHR_batten: "Batten" #NT!
+  HUMAN_CHR_baroule: "Baroule" #NT!
+  HUMAN_CHR_beezer: "Beezer" #NT!
+  HUMAN_CHR_celchu: "Celchu" #NT!
+  HUMAN_CHR_corwin: "Corwin" #NT!
+  HUMAN_CHR_cressen: "Cressen" #NT!
+  HUMAN_CHR_cross: "Cross" #NT!
+  HUMAN_CHR_dalhney: "Dalhney" #NT!
+  HUMAN_CHR_delos: "Delos" #NT!
+  HUMAN_CHR_domadi: "Domadi" #NT!
+  HUMAN_CHR_dray: "Dray" #NT!
+  HUMAN_CHR_elgin: "Elgin" #NT!
+  HUMAN_CHR_frant: "Frant" #NT!
+  HUMAN_CHR_ettyk: "Ettyk" #NT!
+  HUMAN_CHR_faenel: "Faenel" #NT!
+  HUMAN_CHR_gale: "Gale" #NT!
+  HUMAN_CHR_genden: "Genden" #NT!
+  HUMAN_CHR_gor: "Gor" #NT!
+  HUMAN_CHR_graf: "Graf" #NT!
+  HUMAN_CHR_gwyndon: "Gwyndon" #NT!
+  HUMAN_CHR_heathe: "Heathe" #NT!
+  HUMAN_CHR_ismaren: "Ismaren" #NT!
+  HUMAN_CHR_kamiel: "Kamiel" #NT!
+  HUMAN_CHR_kand: "Kand" #NT!
+  HUMAN_CHR_kelvan: "Kelvan" #NT!
+  HUMAN_CHR_kepporra: "Kepporra" #NT!
+  HUMAN_CHR_l_varren: "L'varren" #NT!
+  HUMAN_CHR_lar: "Lar" #NT!
+  HUMAN_CHR_latham: "Latham" #NT!
+  HUMAN_CHR_lerspri: "Lerspri" #NT!
+  HUMAN_CHR_lessev: "Lessev" #NT!
+  HUMAN_CHR_lodilyn: "Lodilyn" #NT!
+  HUMAN_CHR_maddaan: "Maddaan" #NT!
+  HUMAN_CHR_maggli: "Maggli" #NT!
+  HUMAN_CHR_marelle: "Marelle" #NT!
+  HUMAN_CHR_metonae: "Metonae" #NT!
+  HUMAN_CHR_milon: "Milon" #NT!
+  HUMAN_CHR_momen: "Momen" #NT!
+  HUMAN_CHR_moor: "Moor" #NT!
+  HUMAN_CHR_nahj: "Nahj" #NT!
+  HUMAN_CHR_nin: "Nin" #NT!
+  HUMAN_CHR_nonnaihr: "Nonnaihr" #NT!
+  HUMAN_CHR_ors: "Ors" #NT!
+  HUMAN_CHR_pareece: "Pareece" #NT!
+  HUMAN_CHR_pargen: "Pargen" #NT!
+  HUMAN_CHR_pendower: "Pendower" #NT!
+  HUMAN_CHR_pinot: "Pinot" #NT!
+  HUMAN_CHR_ramunee: "Ramunee" #NT!
+  HUMAN_CHR_ravein: "Ravein" #NT!
+  HUMAN_CHR_rieekan: "Rieekan" #NT!
+  HUMAN_CHR_rogaren: "Rogaren" #NT!
+  HUMAN_CHR_sable: "Sable" #NT!
+  HUMAN_CHR_saddek: "Saddek" #NT!
+  HUMAN_CHR_sage: "Sage" #NT!
+  HUMAN_CHR_sandafar: "Sandafar" #NT!
+  HUMAN_CHR_seldona: "Seldona" #NT!
+  HUMAN_CHR_tainer: "Tainer" #NT!
+  HUMAN_CHR_taskeen: "Taskeen" #NT!
+  HUMAN_CHR_tend: "Tend" #NT!
+  HUMAN_CHR_tessime: "Tessime" #NT!
+  HUMAN_CHR_thorbin: "Thorbin" #NT!
+  HUMAN_CHR_tinnine: "Tinnine" #NT!
+  HUMAN_CHR_trigg: "Trigg" #NT!
+  HUMAN_CHR_tugrina: "Tugrina" #NT!
+  HUMAN_CHR_turner: "Turner" #NT!
+  HUMAN_CHR_vaargaz: "Vaargaz" #NT!
+  HUMAN_CHR_varnillian: "Varnillian" #NT!
+  HUMAN_CHR_ventor: "Ventor" #NT!
+  HUMAN_CHR_verana: "Verana" #NT!
+  HUMAN_CHR_verlaine: "Verlaine" #NT!
+  HUMAN_CHR_vestswe: "Vestswe" #NT!
+  HUMAN_CHR_vox: "Vox" #NT!
+  HUMAN_CHR_willard: "Willard" #NT!
+  HUMAN_CHR_willsaam: "Willsaam" #NT!
+  HUMAN_CHR_windrider: "Windrider" #NT!
+  HUMAN_CHR_ziemba: "Ziemba" #NT!
+  HUMAN_CHR_darrus: "Darrus" #NT!
+  HUMAN_CHR_eckhorn: "Eckhorn" #NT!
+  HUMAN_CHR_ferrin: "Ferrin" #NT!
+  HUMAN_CHR_haemon: "Haemon" #NT!
+  HUMAN_CHR_heitor: "Heitor" #NT!
+  HUMAN_CHR_horis: "Horis" #NT!
+  HUMAN_CHR_kendoh: "Kendoh" #NT!
+  HUMAN_CHR_maddor: "Maddor" #NT!
+  HUMAN_CHR_marcum: "Marcum" #NT!
+  HUMAN_CHR_norn: "Norn" #NT!
+  HUMAN_CHR_peyar: "Peyar" #NT!
+  HUMAN_CHR_jeren_nolus: "Jeren Nolus" #NT!
+  HUMAN_CHR_pallos_thessius: "Pallos Thessius" #NT!
+  HUMAN_CHR_aurren_tuile: "Aurren Tuile" #NT!
+  HUMAN_CHR_jorad_sindarus: "Jorad Sindarus" #NT!
+  HUMAN_CHR_markus_andarius: "Markus Andarius" #NT!
+  HUMAN_CHR_sio: "Sio" #NT!
+  HUMAN_CHR_quarsh: "Quarsh" #NT!
+  HUMAN_CHR_ars: "Ars" #NT!
+  HUMAN_CHR_darred: "Darred" #NT!
+  HUMAN_CHR_ruwee: "Ruwee" #NT!
+  HUMAN_CHR_aitalla: "Aitalla" #NT!
+  HUMAN_CHR_breha: "Breha" #NT!
+  HUMAN_CHR_chay: "Chay" #NT!
+  HUMAN_CHR_markos: "Markos" #NT!
+  HUMAN_CHR_maelrich: "Maelrich" #NT!
+  HUMAN_CHR_rouge: "Rouge" #NT!
+  HUMAN_CHR_silara: "Silara" #NT!
+  HUMAN_CHR_winter: "Winter" #NT!
+  HUMAN_CHR_katei_elinari: "Katei Elinari" #NT!
+  HUMAN_CHR_r_illata: "Réillata" #NT!
+  HUMAN_CHR_jamillia: "Jamillia" #NT!
+  HUMAN_CHR_neeyutnee: "Neeyutnee" #NT!
+  HUMAN_CHR_jobal: "Jobal" #NT!
+  HUMAN_CHR_ryoo: "Ryoo" #NT!
+  HUMAN_CHR_winama: "Winama" #NT!
+  HUMAN_CHR_sourna: "Sourna" #NT!
+  HUMAN_CHR_naberrie: "Naberrie" #NT!
+  HUMAN_CHR_parnelli: "Parnelli" #NT!
+  HUMAN_CHR_tapalo: "Tapalo" #NT!
+  HUMAN_CHR_veruna: "Veruna" #NT!
+  HUMAN_CHR_bibble: "Bibble" #NT!
+  HUMAN_CHR_panaka: "Panaka" #NT!
+  HUMAN_CHR_antayen: "Antayen" #NT!
+  HUMAN_CHR_armin: "Armin" #NT!
+  HUMAN_CHR_batono: "Batono" #NT!
+  HUMAN_CHR_billan: "Billan" #NT!
+  HUMAN_CHR_brall: "Brall" #NT!
+  HUMAN_CHR_brendan: "Brendan" #NT!
+  HUMAN_CHR_coro: "Coro" #NT!
+  HUMAN_CHR_corrun: "Corrun" #NT!
+  HUMAN_CHR_dehno: "Dehno" #NT!
+  HUMAN_CHR_dern: "Dern" #NT!
+  HUMAN_CHR_diirn: "Diirn" #NT!
+  HUMAN_CHR_di_go: "Di-go" #NT!
+  HUMAN_CHR_enok: "Enok" #NT!
+  HUMAN_CHR_fodo: "Fodo" #NT!
+  HUMAN_CHR_gayem: "Gayem" #NT!
+  HUMAN_CHR_gragov: "Gragov" #NT!
+  HUMAN_CHR_greeta: "Greeta" #NT!
+  HUMAN_CHR_griff: "Griff" #NT!
+  HUMAN_CHR_grommik: "Grommik" #NT!
+  HUMAN_CHR_harra: "Harra" #NT!
+  HUMAN_CHR_hawek: "Hawek" #NT!
+  HUMAN_CHR_horell: "Horell" #NT!
+  HUMAN_CHR_janos: "Janos" #NT!
+  HUMAN_CHR_kamus: "Kamus" #NT!
+  HUMAN_CHR_mex: "Mex" #NT!
+  HUMAN_CHR_rasmus: "Rasmus" #NT!
+  HUMAN_CHR_samovan: "Samovan" #NT!
+  HUMAN_CHR_tarin: "Tarin" #NT!
+  HUMAN_CHR_teak: "Teak" #NT!
+  HUMAN_CHR_thon: "Thon" #NT!
+  HUMAN_CHR_torkel: "Torkel" #NT!
+  HUMAN_CHR_trey: "Trey" #NT!
+  HUMAN_CHR_ward: "Ward" #NT!
+  HUMAN_CHR_wren: "Wren" #NT!
+  HUMAN_CHR_xarval: "Xarval" #NT!
+  HUMAN_CHR_yem: "Yem" #NT!
+  HUMAN_CHR_zokar: "Zokar" #NT!
+  HUMAN_CHR_eva: "Eva" #NT!
+  HUMAN_CHR_galir: "Galir" #NT!
+  HUMAN_CHR_jana: "Jana" #NT!
+  HUMAN_CHR_joni: "Joni" #NT!
+  HUMAN_CHR_kaya: "Kaya" #NT!
+  HUMAN_CHR_merrit: "Merrit" #NT!
+  HUMAN_CHR_nara: "Nara" #NT!
+  HUMAN_CHR_soprin: "Soprin" #NT!
+  HUMAN_CHR_vipp: "Vipp" #NT!
+  HUMAN_CHR_adelair: "Adelair" #NT!
+  HUMAN_CHR_bann: "Bann" #NT!
+  HUMAN_CHR_blys: "Blys" #NT!
+  HUMAN_CHR_briggam: "Briggam" #NT!
+  HUMAN_CHR_col: "Col" #NT!
+  HUMAN_CHR_denovan: "Denovan" #NT!
+  HUMAN_CHR_falt: "Falt" #NT!
+  HUMAN_CHR_fizark: "Fizark" #NT!
+  HUMAN_CHR_hillin: "Hillin" #NT!
+  HUMAN_CHR_holda: "Holda" #NT!
+  HUMAN_CHR_kaayz: "Kaayz" #NT!
+  HUMAN_CHR_kurthson: "Kurthson" #NT!
+  HUMAN_CHR_laphmer: "Laphmer" #NT!
+  HUMAN_CHR_lanra: "Lanra" #NT!
+  HUMAN_CHR_seario: "Seario" #NT!
+  HUMAN_CHR_leksende: "Leksende" #NT!
+  HUMAN_CHR_lorso: "Lorso" #NT!
+  HUMAN_CHR_medoo: "Medoo" #NT!
+  HUMAN_CHR_natari: "Natari" #NT!
+  HUMAN_CHR_orden: "Orden" #NT!
+  HUMAN_CHR_radler: "Radler" #NT!
+  HUMAN_CHR_ree: "Ree" #NT!
+  HUMAN_CHR_reemus: "Reemus" #NT!
+  HUMAN_CHR_safalla: "Safalla" #NT!
+  HUMAN_CHR_tavar: "Tavar" #NT!
+  HUMAN_CHR_wertka: "Wertka" #NT!
+  HUMAN_CHR_yellip: "Yellip" #NT!

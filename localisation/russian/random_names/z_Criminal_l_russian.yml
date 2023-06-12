@@ -1,585 +1,585 @@
 ﻿l_russian:
- CRIMINAL_rotworm: "Rotworm"
- CRIMINAL_frogdog: "Frogdog"
- CRIMINAL_footpad: "Footpad"
- CRIMINAL_assassin: "Assassin"
- CRIMINAL_executioner: "Executioner"
- CRIMINAL_butcher: "Butcher"
- CRIMINAL_hired_gun: "Hired Gun"
- CRIMINAL_exterminator: "Exterminator"
- CRIMINAL_liquidator: "Liquidator"
- CRIMINAL_thuggee: "Thuggee"
- CRIMINAL_swindler: "Swindler"
- CRIMINAL_deceiver: "Deceiver"
- CRIMINAL_viper: "Viper"
- CRIMINAL_serpent: "Serpent"
- CRIMINAL_adder: "Adder"
- CRIMINAL_molder: "Molder"
- CRIMINAL_robber_barron: "Robber Barron"
- CRIMINAL_burglar: "Burglar"
- CRIMINAL_mugger: "Mugger"
- CRIMINAL_raider: "Raider"
- CRIMINAL_looter: "Looter"
- CRIMINAL_pillager: "Pillager"
- CRIMINAL_pilferer: "Pilferer"
- CRIMINAL_solar_thief: "Solar Thief"
- CRIMINAL_bandit: "Bandit"
- CRIMINAL_brigand: "Brigand"
- CRIMINAL_highwayman: "Highwayman"
- CRIMINAL_dacoit: "Dacoit"
- CRIMINAL_marauder: "Marauder"
- CRIMINAL_poison: "Poison"
- CRIMINAL_stiletto: "Stiletto"
- CRIMINAL_bodkin: "Bodkin"
- CRIMINAL_cutlass: "Cutlass"
- CRIMINAL_dirk: "Dirk"
- CRIMINAL_poniard: "Poniard"
- CRIMINAL_scalpel: "Scalpel"
- CRIMINAL_sickle: "Sickle"
- CRIMINAL_sabre: "Sabre"
- CRIMINAL_scimitar: "Scimitar"
- CRIMINAL_scythe: "Scythe"
- CRIMINAL_shank: "Shank"
- CRIMINAL_shiv: "Shiv"
- CRIMINAL_switchblade: "Switchblade"
- CRIMINAL_tickler: "Tickler"
- CRIMINAL_skiver: "Skiver"
- CRIMINAL_strongarm: "Strongarm"
- CRIMINAL_bully_boy: "Bully-boy"
- CRIMINAL_coercer: "Coercer"
- CRIMINAL_intimidator: "Intimidator"
- CRIMINAL_cheap_shot: "Cheap Shot"
- CRIMINAL_black_eye: "Black Eye"
- CRIMINAL_invective_rex: "Invective Rex"
- CRIMINAL_opprobrium: "Opprobrium"
- CRIMINAL_impertinence: "Impertinence"
- CRIMINAL_impudence: "Impudence"
- CRIMINAL_ignominy: "Ignominy"
- CRIMINAL_slanderer: "Slanderer"
- CRIMINAL_whisperer: "Whisperer"
- CRIMINAL_maven: "Maven"
- CRIMINAL_vitriol: "Vitriol"
- CRIMINAL_shipcracker: "Shipcracker"
- CRIMINAL_implication: "Implication"
- CRIMINAL_right_hand: "Right Hand"
- CRIMINAL_left_hand: "Left Hand"
- CRIMINAL_made_man: "Made Man"
- CRIMINAL_daimyo: "Daimyo"
- CRIMINAL_wook_s_charm: "Wook's Charm"
- CRIMINAL_silent_goodbye: "Silent Goodbye"
- CRIMINAL_goodnight: "Goodnight"
- CRIMINAL_kneecapper: "Kneecapper"
- CRIMINAL_tail_snapper: "Tail Snapper"
- CRIMINAL_protection_money: "Protection Money"
- CRIMINAL_air_quotes: "Air Quotes"
- CRIMINAL_payoff: "Payoff"
- CRIMINAL_payback: "Payback"
- CRIMINAL_waste_manager: "Waste Manager"
- CRIMINAL_ill_omen: "Ill Omen"
- CRIMINAL_heavy_hitter: "Heavy Hitter"
- CRIMINAL_dame: "Dame"
- CRIMINAL_fait_accompli: "Fait Accompli"
- CRIMINAL_irreversible: "Irreversible"
- CRIMINAL_indebted: "Indebted"
- CRIMINAL_quiet_knife: "Quiet Knife"
- CRIMINAL_racket: "Racket"
- CRIMINAL_blood_water: "Blood Water"
- CRIMINAL_don_of_civ: "Don of Civilization"
- CRIMINAL_gotra_bond: "Gotra Bond"
- CRIMINAL_bad_faith: "Bad Faith"
- CRIMINAL_bad_influence: "Bad Influence"
- CRIMINAL_underhand: "Underhand"
- CRIMINAL_infidel: "Infidel"
- CRIMINAL_artful_dodger: "Artful Dodger"
- CRIMINAL_heartbreak_kid: "Heartbreak Kid"
- CRIMINAL_associate: "Associate"
- CRIMINAL_duracrete_shoe: "Duracrete Shoe"
- CRIMINAL_clipper: "Clipper"
- CRIMINAL_code_of_silence: "Code of Silence"
- CRIMINAL_consigliere: "Consigliere"
- CRIMINAL_cugine: "Cugine"
- CRIMINAL_earner: "Earner"
- CRIMINAL_initiator: "Initiator"
- CRIMINAL_message_job: "Message Job"
- CRIMINAL_oathbound: "Oathbound"
- CRIMINAL_temp_reprieve: "Temporary Reprieve"
- CRIMINAL_shy_prince: "Shy Prince"
- CRIMINAL_underboss: "Underboss"
- CRIMINAL_vigorish: "Vigorish"
- CRIMINAL_second_nephew: "Second Nephew"
- CRIMINAL_anzat_one: "Anzat One"
- CRIMINAL_arc_razor: "Arc Razor"
- CRIMINAL_azure_queen: "Azure Queen"
- CRIMINAL_yanov: "Yanov"
- CRIMINAL_lupus_maroo: "Lupus Maroo"
- CRIMINAL_virago: "Virago"
- CRIMINAL_venomator: "Venomator"
- CRIMINAL_vendetta: "Vendetta"
- CRIMINAL_stinger: "Stinger"
- CRIMINAL_scarlet_vertha: "Scarlet Vertha"
- CRIMINAL_tragic_flaw: "Tragic Flaw"
- CRIMINAL_raptor: "Raptor"
- CRIMINAL_rude_awakening: "Rude Awakening"
- CRIMINAL_racketeer: "Racketeer"
- CRIMINAL_hooligan: "Hooligan"
- CRIMINAL_bedlam: "Bedlam"
- CRIMINAL_desperado: "Desperado"
- CRIMINAL_ruthless: "Ruthless"
- CRIMINAL_pitiless: "Pitiless"
- CRIMINAL_merciless: "Merciless"
- CRIMINAL_libertine: "Libertine"
- CRIMINAL_visible_hand: "Visible Hand"
- CRIMINAL_high_jack: "High Jack"
- CRIMINAL_low_blow: "Low Blow"
- CRIMINAL_lackey: "Lackey"
- CRIMINAL_rough_hand: "Rough Hand"
- CRIMINAL_delinquent: "Delinquent"
- CRIMINAL_derelict: "Derelict"
- CRIMINAL_dereliction: "Dereliction"
- CRIMINAL_razor_walk: "Razor Walk"
- CRIMINAL_hamstringer: "Hamstringer"
- CRIMINAL_degenerate: "Degenerate"
- CRIMINAL_profligate: "Profligate"
- CRIMINAL_shakedown: "Shakedown"
- CRIMINAL_ruffian: "Ruffian"
- CRIMINAL_heist: "Heist"
- CRIMINAL_last_caper: "Last Caper"
- CRIMINAL_stickup: "Stickup"
- CRIMINAL_breakout: "Breakout"
- CRIMINAL_impulsive: "Impulsive"
- CRIMINAL_concierge: "Concierge"
- CRIMINAL_liecentious: "Liecentious"
- CRIMINAL_salacious: "Salacious"
- CRIMINAL_fluid_meaning: "Fluid Meaning"
- CRIMINAL_recumbent_end: "Recumbent End"
- CRIMINAL_dirt_nap: "Dirt Nap"
- CRIMINAL_spoiler: "Spoiler"
- CRIMINAL_recalcitrant: "Recalcitrant"
- CRIMINAL_strumpet: "Strumpet"
- CRIMINAL_brazen: "Brazen"
- CRIMINAL_charlatan: "Charlatan"
- CRIMINAL_punishing_one: "Punishing One"
- CRIMINAL_troublemaker: "Troublemaker"
- CRIMINAL_assailant: "Assailant"
- CRIMINAL_disturber: "Disturber"
- CRIMINAL_extortioner: "Extortioner"
- CRIMINAL_blackmail: "Blackmail"
- CRIMINAL_outlaw: "Outlaw"
- CRIMINAL_stigma: "Stigma"
- CRIMINAL_innuendo: "Innuendo"
- CRIMINAL_insinuator: "Insinuator"
- CRIMINAL_double_tap: "Double Tap"
- CRIMINAL_gambit: "Gambit"
- CRIMINAL_ransom: "Ransom"
- CRIMINAL_malcontent: "Malcontent"
- CRIMINAL_mischevous: "Mischevous"
- CRIMINAL_broken_pike: "Broken Pike"
- CRIMINAL_acrimony: "Acrimony"
- CRIMINAL_instigator: "Instigator"
- CRIMINAL_wanton: "Wanton"
- CRIMINAL_line_s_end: "Line's End"
- CRIMINAL_kissed_ring: "Kissed Ring"
- CRIMINAL_ill_repute: "Ill Repute"
- CRIMINAL_crossed_line: "Crossed Line"
- CRIMINAL_misery_s_end: "Misery's End"
- CRIMINAL_true_grift: "True Grift"
- CRIMINAL_sleight_of_hand: "Sleight of Hand"
- CRIMINAL_double_dealer: "Double Dealer"
- CRIMINAL_backstab: "Backstab"
- CRIMINAL_two_timer: "Two-Timer"
- CRIMINAL_sucker_punch: "Sucker Punch"
- CRIMINAL_shade: "Shade"
- CRIMINAL_silence: "Silence"
- CRIMINAL_hoaxer: "Hoaxer"
- CRIMINAL_dellarte: "Dellarte"
- CRIMINAL_lazi: "Lazi"
- CRIMINAL_flurry_of_bolts: "Flurry of Bolts"
- CRIMINAL_dirty_kick: "Dirty Kick"
- CRIMINAL_vital_shot: "Vital Shot"
- CRIMINAL_quick_shot: "Quick Shot"
- CRIMINAL_all_in: "All In"
- CRIMINAL_eagle_5: "Eagle 5"
- CRIMINAL_lucky_dodge: "Lucky Dodge"
- CRIMINAL_shoot_first: "Shoot First"
- CRIMINAL_nice_try: "Nice Try"
- CRIMINAL_open_wound: "Open Wound"
- CRIMINAL_mortal_wound: "Mortal Wound"
- CRIMINAL_dirty_trickster: "Dirty Trickster"
- CRIMINAL_feelin__woozy: "Feelin' Woozy"
- CRIMINAL_sneaky: "Sneaky"
- CRIMINAL_scrappy: "Scrappy"
- CRIMINAL_shifty_eyed: "Shifty-Eyed"
- CRIMINAL_fight_or_flight: "Fight or Flight"
- CRIMINAL_slippery_devil: "Slippery Devil"
- CRIMINAL_rolling_punches: "Rolling Punches"
- CRIMINAL_surprise_come: "Surprise Comeback"
- CRIMINAL_round_two: "Round Two"
- CRIMINAL_stopping_power: "Stopping Power"
- CRIMINAL_brawler_s_gift: "Brawler's Gift"
- CRIMINAL_survivor_s_scars: "Survivor's Scars"
- CRIMINAL_elem_of_surprise: "Element of Surprise"
- CRIMINAL_browbeat: "Browbeat"
- CRIMINAL_keep_cool: "Keep Cool"
- CRIMINAL_scramble: "Scramble"
- CRIMINAL_hunter_s_boon: "Hunter's Boon"
- CRIMINAL_rocket_punch: "Rocket Punch"
- CRIMINAL_rail_shot: "Rail Shot"
- CRIMINAL_death_from_above: "Death From Above"
- CRIMINAL_determination: "Determination"
- CRIMINAL_on_the_trail: "On The Trail"
- CRIMINAL_intimidation: "Intimidation"
- CRIMINAL_elegencia: "Elegencia"
- CRIMINAL_new_elite: "New Elite"
- CRIMINAL_poisoned_barb: "Poisoned Barb"
- CRIMINAL_ransacker: "Ransacker"
- CRIMINAL_spectre: "Spectre"
- CRIMINAL_squall_spider: "Squall Spider"
- CRIMINAL_whisperkill: "Whisperkill"
- CRIMINAL_protectorate: "Protectorate"
- CRIMINAL_constr_aurek: "Constructor Aurek"
- CRIMINAL_constr_besh: "Constructor Besh"
- CRIMINAL_constr_cresh: "Constructor Cresh"
- CRIMINAL_constr_dorn: "Constructor Dorn"
- CRIMINAL_constr_forn: "Constructor Forn"
- CRIMINAL_constr_grek: "Constructor Grek"
- CRIMINAL_constr_herf: "Constructor Herf"
- CRIMINAL_constr_isk: "Constructor Isk"
- CRIMINAL_constr_jenth: "Constructor Jenth"
- CRIMINAL_constr_krill: "Constructor Krill"
- CRIMINAL_constr_leth: "Constructor Leth"
- CRIMINAL_constr_mern: "Constructor Mern"
- CRIMINAL_constr_nern: "Constructor Nern"
- CRIMINAL_constr_osk: "Constructor Osk"
- CRIMINAL_constr_peth: "Constructor Peth"
- CRIMINAL_constr_senth: "Constructor Senth"
- CRIMINAL_constr_trill: "Constructor Trill"
- CRIMINAL_constr_usk: "Constructor Usk"
- CRIMINAL_constr_vev: "Constructor Vev"
- CRIMINAL_constr_wesk: "Constructor Wesk"
- CRIMINAL_constr_xesh: "Constructor Xesh"
- CRIMINAL_constr_yirt: "Constructor Yirt"
- CRIMINAL_constr_zerek: "Constructor Zerek"
- CRIMINAL_constr_cherek: "Constructor Cherek"
- CRIMINAL_constr_qek: "Constructor Qek"
- CRIMINAL_constr_resh: "Constructor Resh"
- CRIMINAL_constr_enth: "Constructor Enth"
- CRIMINAL_constr_onith: "Constructor Onith"
- CRIMINAL_constr_krenth: "Constructor Krenth"
- CRIMINAL_constr_nen: "Constructor Nen"
- CRIMINAL_constr_orenth: "Constructor Orenth"
- CRIMINAL_constr_shen: "Constructor Shen"
- CRIMINAL_constr_thesh: "Constructor Thesh"
- CRIMINAL_defense_screen: "Defense Screen"
- CRIMINAL_scrapper: "Scrapper"
- CRIMINAL_meat_grinder: "Meat Grinder"
- CRIMINAL_dirty_fighting: "Dirty Fighting"
- CRIMINAL_back_blast: "Back Blast"
- CRIMINAL_upper_hand: "Upper Hand"
- CRIMINAL_holdout_defense: "Holdout Defense"
- CRIMINAL_hotwired_defenses: "Hotwired Defenses"
- CRIMINAL_rapid_shots: "Rapid Shots"
- CRIMINAL_missle_blast: "Missle Blast"
- CRIMINAL_steely_resolve: "Steely Resolve"
- CRIMINAL_no_escape: "No Escape"
- CRIMINAL_charged_bolt: "Charged Bolt"
- CRIMINAL_hemorrhag_blast: "Hemorrhaging Blast"
- CRIMINAL_concussion: "Concussion"
- CRIMINAL_overload: "Overload"
- CRIMINAL_FLEET_joint_expeditionary_fleet: "Joint Expeditionary Fleet"
- CRIMINAL_FLEET_strategic_readiness_fleet: "Strategic Readiness Fleet"
- CRIMINAL_FLEET_tactical_response_fleet: "Tactical Response Fleet"
- CRIMINAL_FLEET_rapid_strike_fleet: "Rapid Strike Fleet"
- CRIMINAL_FLEET_forward_defense_fleet: "Forward Defense Fleet"
- CRIMINAL_FLEET_SEQUENTIAL_stellar_fleet: "$ORD$ Stellar Fleet"
- CRIMINAL_ARMY_SEQUENTIAL_colonial_watch: "$ORD$ Colonial Watch"
- CRIMINAL_ARMY_SEQUENTIAL_assault_group: "$ORD$ Assault Group"
- CRIMINAL_ARMY_SEQUENTIAL_penal_corps: "$ORD$ Penal Corps"
- CRIMINAL_ARMY_SEQUENTIAL_tankbred_regulars: "$ORD$ Tankbred Regulars"
- CRIMINAL_ARMY_SEQUENTIAL_dread_corps: "$ORD$ Dread Corps"
- CRIMINAL_ARMY_SEQUENTIAL_battle_drone_wing: "$ORD$ Battle Drone Wing"
- CRIMINAL_ARMY_SEQUENTIAL_battle_drone_emplacements: "$ORD$ Battle Drone Emplacements"
- CRIMINAL_ARMY_SEQUENTIAL_psi_ops_command: "$ORD$ Psi-Ops Command"
- CRIMINAL_ARMY_SEQUENTIAL_shock_swarm: "$ORD$ Shock Swarm"
- CRIMINAL_ARMY_SEQUENTIAL_purebloods: "$ORD$ Purebloods"
- CRIMINAL_ARMY_SEQUENTIAL_occupation_watch: "$ORD$ Occupation Watch"
- CRIMINAL_ARMY_SEQUENTIAL_occupation_drones: "$ORD$ Occupation Drones"
- CRIMINAL_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- CRIMINAL_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- CRIMINAL_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- CRIMINAL_CHR_ajuur: "Ajuur"
- CRIMINAL_CHR_arigo: "Arigo"
- CRIMINAL_CHR_azkul: "Azkul"
- CRIMINAL_CHR_benok: "Benok"
- CRIMINAL_CHR_chaney: "Chaney"
- CRIMINAL_CHR_compeer: "Compeer"
- CRIMINAL_CHR_dopak: "Dopak"
- CRIMINAL_CHR_kiregan: "Kiregan"
- CRIMINAL_CHR_gonlo: "Gonlo"
- CRIMINAL_CHR_torval: "Torval"
- CRIMINAL_CHR_vanus: "Vanus"
- CRIMINAL_CHR_gurney: "Gurney"
- CRIMINAL_CHR_holdan: "Holdan"
- CRIMINAL_CHR_hudrow: "Hudrow"
- CRIMINAL_CHR_aphel: "Aphel"
- CRIMINAL_CHR_davik: "Davik"
- CRIMINAL_CHR_koobis: "Koobis"
- CRIMINAL_CHR_zeerid: "Zeerid"
- CRIMINAL_CHR_matrik: "Matrik"
- CRIMINAL_CHR_matu: "Matu"
- CRIMINAL_CHR_monkabi: "Monkabi"
- CRIMINAL_CHR_nahata: "Nahata"
- CRIMINAL_CHR_oondar: "Oondar"
- CRIMINAL_CHR_oren: "Oren"
- CRIMINAL_CHR_sindal: "Sindal"
- CRIMINAL_CHR_batu: "Batu"
- CRIMINAL_CHR_scraaz: "Scraaz"
- CRIMINAL_CHR_scratch: "Scratch"
- CRIMINAL_CHR_milosh: "Milosh"
- CRIMINAL_CHR_kaemon: "Kaemon"
- CRIMINAL_CHR_samovan: "Samovan"
- CRIMINAL_CHR_tarin: "Tarin"
- CRIMINAL_CHR_teak: "Teak"
- CRIMINAL_CHR_thon: "Thon"
- CRIMINAL_CHR_torkel: "Torkel"
- CRIMINAL_CHR_trey: "Trey"
- CRIMINAL_CHR_ward: "Ward"
- CRIMINAL_CHR_wren: "Wren"
- CRIMINAL_CHR_xarval: "Xarval"
- CRIMINAL_CHR_yem: "Yem"
- CRIMINAL_CHR_zokar: "Zokar"
- CRIMINAL_CHR_greef: "Greef"
- CRIMINAL_CHR_dash: "Dash"
- CRIMINAL_CHR_antayen: "Antayen"
- CRIMINAL_CHR_armin: "Armin"
- CRIMINAL_CHR_batono: "Batono"
- CRIMINAL_CHR_billan: "Billan"
- CRIMINAL_CHR_brall: "Brall"
- CRIMINAL_CHR_brendan: "Brendan"
- CRIMINAL_CHR_coro: "Coro"
- CRIMINAL_CHR_corrun: "Corrun"
- CRIMINAL_CHR_dehno: "Dehno"
- CRIMINAL_CHR_dern: "Dern"
- CRIMINAL_CHR_diirn: "Diirn"
- CRIMINAL_CHR_di_go: "Di-go"
- CRIMINAL_CHR_enok: "Enok"
- CRIMINAL_CHR_fodo: "Fodo"
- CRIMINAL_CHR_gayem: "Gayem"
- CRIMINAL_CHR_gragov: "Gragov"
- CRIMINAL_CHR_greeta: "Greeta"
- CRIMINAL_CHR_griff: "Griff"
- CRIMINAL_CHR_grommik: "Grommik"
- CRIMINAL_CHR_harra: "Harra"
- CRIMINAL_CHR_hawek: "Hawek"
- CRIMINAL_CHR_horell: "Horell"
- CRIMINAL_CHR_janos: "Janos"
- CRIMINAL_CHR_kamus: "Kamus"
- CRIMINAL_CHR_mex: "Mex"
- CRIMINAL_CHR_rasmus: "Rasmus"
- CRIMINAL_CHR_charratha: "Charratha"
- CRIMINAL_CHR_edaara: "Edaara"
- CRIMINAL_CHR_bella: "Bella"
- CRIMINAL_CHR_callista: "Callista"
- CRIMINAL_CHR_mara: "Mara"
- CRIMINAL_CHR_seena: "Seena"
- CRIMINAL_CHR_areta: "Areta"
- CRIMINAL_CHR_cord: "Cord"
- CRIMINAL_CHR_cyrinity: "Cyrinity"
- CRIMINAL_CHR_nile: "Nile"
- CRIMINAL_CHR_kiyfi: "Kiyfi"
- CRIMINAL_CHR_yasmyn: "Yasmyn"
- CRIMINAL_CHR_satra: "Satra"
- CRIMINAL_CHR_shehish: "Shehish"
- CRIMINAL_CHR_sarna: "Sarna"
- CRIMINAL_CHR_krava: "Krava"
- CRIMINAL_CHR_roxis: "Roxis"
- CRIMINAL_CHR_jessa: "Jessa"
- CRIMINAL_CHR_aqua: "Aqua"
- CRIMINAL_CHR_maryna: "Maryna"
- CRIMINAL_CHR_essaj: "Essaj"
- CRIMINAL_CHR_looriw: "Looriw"
- CRIMINAL_CHR_teeana: "Teeana"
- CRIMINAL_CHR_raena: "Raena"
- CRIMINAL_CHR_yula: "Yula"
- CRIMINAL_CHR_vifi: "Vifi"
- CRIMINAL_CHR_vania: "Vania"
- CRIMINAL_CHR_jeanida: "Jeanida"
- CRIMINAL_CHR_aerena: "Aerena"
- CRIMINAL_CHR_nataya: "Nataya"
- CRIMINAL_CHR_bernarda: "Bernarda"
- CRIMINAL_CHR_geela: "Geela"
- CRIMINAL_CHR_lya: "Lya"
- CRIMINAL_CHR_sirra: "Sirra"
- CRIMINAL_CHR_teris: "Teris"
- CRIMINAL_CHR_terral: "Terral"
- CRIMINAL_CHR_riema: "Riema"
- CRIMINAL_CHR_erri: "Erri"
- CRIMINAL_CHR_shanna: "Shanna"
- CRIMINAL_CHR_lyra: "Lyra"
- CRIMINAL_CHR_pranda: "Pranda"
- CRIMINAL_CHR_luna: "Luna"
- CRIMINAL_CHR_cally: "Cally"
- CRIMINAL_CHR_viqi: "Viqi"
- CRIMINAL_CHR_hadriel: "Hadriel"
- CRIMINAL_CHR_lora: "Lora"
- CRIMINAL_CHR_selena: "Selena"
- CRIMINAL_CHR_zana: "Zana"
- CRIMINAL_CHR_tuija: "Tuija"
- CRIMINAL_CHR_railin: "Railin"
- CRIMINAL_CHR_odona: "Odona"
- CRIMINAL_CHR_shyon: "Shyon"
- CRIMINAL_CHR_walas: "Walas"
- CRIMINAL_CHR_rylla: "Rylla"
- CRIMINAL_CHR_gara: "Gara"
- CRIMINAL_CHR_delos: "Delos"
- CRIMINAL_CHR_loretta: "Loretta"
- CRIMINAL_CHR_luhon: "Luhon"
- CRIMINAL_CHR_delinia: "Delinia"
- CRIMINAL_CHR_aama: "Aama"
- CRIMINAL_CHR_shorya: "Shorya"
- CRIMINAL_CHR_melfina: "Melfina"
- CRIMINAL_CHR_davessi: "Davessi"
- CRIMINAL_CHR_larana: "Larana"
- CRIMINAL_CHR_galatea: "Galatea"
- CRIMINAL_CHR_nola: "Nola"
- CRIMINAL_CHR_syna: "Syna"
- CRIMINAL_CHR_jauhzmynn: "Jauhzmynn"
- CRIMINAL_CHR_anen: "Anen"
- CRIMINAL_CHR_orona: "Orona"
- CRIMINAL_CHR_yana: "Yana"
- CRIMINAL_CHR_zoras: "Zoras"
- CRIMINAL_CHR_ree: "Ree"
- CRIMINAL_CHR_grace: "Grace"
- CRIMINAL_CHR_tantema: "Tantema"
- CRIMINAL_CHR_myn: "Myn"
- CRIMINAL_CHR_una: "Una"
- CRIMINAL_CHR_dalharil: "Dalharil"
- CRIMINAL_CHR_losa: "Losa"
- CRIMINAL_CHR_sovi: "Sovi"
- CRIMINAL_CHR_elaiza: "Elaiza"
- CRIMINAL_CHR_vucora: "Vucora"
- CRIMINAL_CHR_ava: "Ava"
- CRIMINAL_CHR_joi: "Joi"
- CRIMINAL_CHR_stryka: "Stryka"
- CRIMINAL_CHR_shandra: "Shandra"
- CRIMINAL_CHR_kely: "Kely"
- CRIMINAL_CHR_caileta: "Caileta"
- CRIMINAL_CHR_taia: "Taia"
- CRIMINAL_CHR_siala: "Siala"
- CRIMINAL_CHR_reki: "Reki"
- CRIMINAL_CHR_maydla: "Maydla"
- CRIMINAL_CHR_bot: "Bot"
- CRIMINAL_CHR_kiandra: "Kiandra"
- CRIMINAL_CHR_xilaren: "Xilaren"
- CRIMINAL_CHR_zulara: "Zulara"
- CRIMINAL_CHR_ren: "Ren"
- CRIMINAL_CHR_karissa: "Karissa"
- CRIMINAL_CHR_haruko: "Haruko"
- CRIMINAL_CHR_jenna: "Jenna"
- CRIMINAL_CHR_liana: "Liana"
- CRIMINAL_CHR_rale: "Rale"
- CRIMINAL_CHR_megara: "Megara"
- CRIMINAL_CHR_aria: "Aria"
- CRIMINAL_CHR_akiva: "Akiva"
- CRIMINAL_CHR_nalah: "Nalah"
- CRIMINAL_CHR_erlem: "Erlem"
- CRIMINAL_CHR_nali: "Nali"
- CRIMINAL_CHR_fallah: "Fallah"
- CRIMINAL_CHR_kotrana: "Kotrana"
- CRIMINAL_CHR_aayla: "Aayla"
- CRIMINAL_CHR_kalira: "Kalira"
- CRIMINAL_CHR_arani: "Arani"
- CRIMINAL_CHR_fama: "Fama"
- CRIMINAL_CHR_lyyr: "Lyyr"
- CRIMINAL_CHR_arcas: "Arcas"
- CRIMINAL_CHR_rane: "Rane"
- CRIMINAL_CHR_nayru: "Nayru"
- CRIMINAL_CHR_zylas: "Zylas"
- CRIMINAL_CHR_vexa: "Vexa"
- CRIMINAL_CHR_kana: "Kana"
- CRIMINAL_CHR_shandar: "Shandar"
- CRIMINAL_CHR_eryn: "Eryn"
- CRIMINAL_CHR_shayl: "Shayl"
- CRIMINAL_CHR_barrow: "Barrow"
- CRIMINAL_CHR_bodya: "Bodya"
- CRIMINAL_CHR_cruor: "Cruor"
- CRIMINAL_CHR_freem: "Freem"
- CRIMINAL_CHR_fregner: "Fregner"
- CRIMINAL_CHR_jaarn: "Jaarn"
- CRIMINAL_CHR_kang: "Kang"
- CRIMINAL_CHR_korr: "Korr"
- CRIMINAL_CHR_othar: "Othar"
- CRIMINAL_CHR_reed: "Reed"
- CRIMINAL_CHR_rem: "Rem"
- CRIMINAL_CHR_rix: "Rix"
- CRIMINAL_CHR_talosa: "Talosa"
- CRIMINAL_CHR_tagge: "Tagge"
- CRIMINAL_CHR_tasao: "Tasao"
- CRIMINAL_CHR_varta: "Varta"
- CRIMINAL_CHR_zahor: "Zahor"
- CRIMINAL_CHR_karga: "Karga"
- CRIMINAL_CHR_adelair: "Adelair"
- CRIMINAL_CHR_bann: "Bann"
- CRIMINAL_CHR_blys: "Blys"
- CRIMINAL_CHR_briggam: "Briggam"
- CRIMINAL_CHR_col: "Col"
- CRIMINAL_CHR_denovan: "Denovan"
- CRIMINAL_CHR_falt: "Falt"
- CRIMINAL_CHR_fizark: "Fizark"
- CRIMINAL_CHR_hillin: "Hillin"
- CRIMINAL_CHR_holda: "Holda"
- CRIMINAL_CHR_kaayz: "Kaayz"
- CRIMINAL_CHR_kurthson: "Kurthson"
- CRIMINAL_CHR_laphmer: "Laphmer"
- CRIMINAL_CHR_lanra: "Lanra"
- CRIMINAL_CHR_leksende: "Leksende"
- CRIMINAL_CHR_lorso: "Lorso"
- CRIMINAL_CHR_medoo: "Medoo"
- CRIMINAL_CHR_natari: "Natari"
- CRIMINAL_CHR_orden: "Orden"
- CRIMINAL_CHR_radler: "Radler"
- CRIMINAL_CHR_reemus: "Reemus"
- CRIMINAL_CHR_safalla: "Safalla"
- CRIMINAL_CHR_seario: "Seario"
- CRIMINAL_CHR_tavar: "Tavar"
- CRIMINAL_CHR_wertka: "Wertka"
- CRIMINAL_CHR_yellip: "Yellip"
- CRIMINAL_CHR_calo: "Calo"
- CRIMINAL_CHR_rist: "Rist"
- CRIMINAL_CHR_pollard: "Pollard"
- CRIMINAL_CHR_luxa: "Luxa"
- CRIMINAL_CHR_ahita: "Ahita"
- CRIMINAL_CHR_casey: "Casey"
- CRIMINAL_CHR_sakarie: "Sakarie"
- CRIMINAL_CHR_savan: "Savan"
- CRIMINAL_CHR_xora: "Xora"
- CRIMINAL_CHR_xishel: "Xishel"
- CRIMINAL_CHR_zule: "Zule"
- CRIMINAL_CHR_xzushal: "Xzushal"
- CRIMINAL_CHR_senna: "Senna"
- CRIMINAL_CHR_xasha: "Xasha"
- CRIMINAL_CHR_bana: "Bana"
- CRIMINAL_CHR_xaverri: "Xaverri"
- CRIMINAL_CHR_xanya: "Xanya"
- CRIMINAL_CHR_xanta: "Xanta"
- CRIMINAL_CHR_vixtra: "Vixtra"
- CRIMINAL_CHR_zexa: "Zexa"
- CRIMINAL_CHR_jana: "Jana"
- CRIMINAL_CHR_eva: "Eva"
- CRIMINAL_CHR_faye: "Faye"
- CRIMINAL_CHR_galir: "Galir"
- CRIMINAL_CHR_joni: "Joni"
- CRIMINAL_CHR_kaya: "Kaya"
- CRIMINAL_CHR_merrit: "Merrit"
- CRIMINAL_CHR_nara: "Nara"
- CRIMINAL_CHR_soprin: "Soprin"
- CRIMINAL_CHR_vipp: "Vipp"
- CRIMINAL_CHR_nord: "Nord"
- CRIMINAL_CHR_fife: "Fife"
- CRIMINAL_CHR_marg: "Marg"
- CRIMINAL_CHR_tezzka: "Tezzka"
- CRIMINAL_CHR_laalee: "Laalee"
- CRIMINAL_CHR_lom: "Lom"
- CRIMINAL_CHR_quay: "Quay"
- CRIMINAL_CHR_vram: "Vram"
- CRIMINAL_CHR_krim: "Krim"
- CRIMINAL_CHR_tolsite: "Tolsite"
+  CRIMINAL_rotworm: "Гнилочервь" #NT!
+  CRIMINAL_frogdog: "Жабопёс" #NT!
+  CRIMINAL_footpad: "Лиходей" #NT!
+  CRIMINAL_assassin: "Ассасин" #NT!
+  CRIMINAL_executioner: "Палач" #NT!
+  CRIMINAL_butcher: "Мясник" #NT!
+  CRIMINAL_hired_gun: "Наёмник" #NT!
+  CRIMINAL_exterminator: "Истребитель" #NT!
+  CRIMINAL_liquidator: "Ликвидатор" #NT!
+  CRIMINAL_thuggee: "Тхаги" #NT!
+  CRIMINAL_swindler: "Аферист" #NT!
+  CRIMINAL_deceiver: "Мошенник" #NT!
+  CRIMINAL_viper: "Гадюка" #NT!
+  CRIMINAL_serpent: "Змий" #NT!
+  CRIMINAL_adder: "Уж" #NT!
+  CRIMINAL_molder: "Формовщик" #NT!
+  CRIMINAL_robber_barron: "Барон-разбойник" #NT!
+  CRIMINAL_burglar: "Взломщик" #NT!
+  CRIMINAL_mugger: "Негодяй" #NT!
+  CRIMINAL_raider: "Налетчик" #NT!
+  CRIMINAL_looter: "Лутер" #NT!
+  CRIMINAL_pillager: "Жулик" #NT!
+  CRIMINAL_pilferer: "Воришка" #NT!
+  CRIMINAL_solar_thief: "Солнечный вор" #NT!
+  CRIMINAL_bandit: "Бандит" #NT!
+  CRIMINAL_brigand: "Разбойник" #NT!
+  CRIMINAL_highwayman: "Бандит с большой дороги" #NT!
+  CRIMINAL_dacoit: "Дакойт" #NT!
+  CRIMINAL_marauder: "Мародёр" #NT!
+  CRIMINAL_poison: "Отрава" #NT!
+  CRIMINAL_stiletto: "Стилет" #NT!
+  CRIMINAL_bodkin: "Шило" #NT!
+  CRIMINAL_cutlass: "Кортик" #NT!
+  CRIMINAL_dirk: "Дирк" #NT!
+  CRIMINAL_poniard: "Поигнард" #NT!
+  CRIMINAL_scalpel: "Скальпель" #NT!
+  CRIMINAL_sickle: "Серп" #NT!
+  CRIMINAL_sabre: "Шашка" #NT!
+  CRIMINAL_scimitar: "Скимитар" #NT!
+  CRIMINAL_scythe: "Коса" #NT!
+  CRIMINAL_shank: "Хвостовик" #NT!
+  CRIMINAL_shiv: "Шив" #NT!
+  CRIMINAL_switchblade: "Выкидной нож" #NT!
+  CRIMINAL_tickler: "Щекотун" #NT!
+  CRIMINAL_skiver: "Нож" #NT!
+  CRIMINAL_strongarm: "Cильная рука" #NT!
+  CRIMINAL_bully_boy: "Драчун" #NT!
+  CRIMINAL_coercer: "Принуждающий" #NT!
+  CRIMINAL_intimidator: "Пугач" #NT!
+  CRIMINAL_cheap_shot: "Больное место" #NT!
+  CRIMINAL_black_eye: "Чёрный глаз" #NT!
+  CRIMINAL_invective_rex: "Оскорбительный король" #NT!
+  CRIMINAL_opprobrium: "Посрамление" #NT!
+  CRIMINAL_impertinence: "Нахальство" #NT!
+  CRIMINAL_impudence: "Беззастенчивость" #NT!
+  CRIMINAL_ignominy: "Бесславие" #NT!
+  CRIMINAL_slanderer: "Клеветник" #NT!
+  CRIMINAL_whisperer: "Шептун" #NT!
+  CRIMINAL_maven: "Знаток" #NT!
+  CRIMINAL_vitriol: "Сарказм" #NT!
+  CRIMINAL_shipcracker: "Взломщик" #NT!
+  CRIMINAL_implication: "Причастность" #NT!
+  CRIMINAL_right_hand: "Правая рука" #NT!
+  CRIMINAL_left_hand: "Левая рука" #NT!
+  CRIMINAL_made_man: "Бывалый" #NT!
+  CRIMINAL_daimyo: "Даймё" #NT!
+  CRIMINAL_wook_s_charm: "Очарование вуки" #NT!
+  CRIMINAL_silent_goodbye: "Тихое прощание" #NT!
+  CRIMINAL_goodnight: "Добрая ночь" #NT!
+  CRIMINAL_kneecapper: "Коленопреклоненный" #NT!
+  CRIMINAL_tail_snapper: "Кусачий хвост" #NT!
+  CRIMINAL_protection_money: "Плата за крышу" #NT!
+  CRIMINAL_air_quotes: "Воздушные кавычки" #NT!
+  CRIMINAL_payoff: "Выплата" #NT!
+  CRIMINAL_payback: "Окупаемость" #NT!
+  CRIMINAL_waste_manager: "Главный мусорщик" #NT!
+  CRIMINAL_ill_omen: "Дурное знамение" #NT!
+  CRIMINAL_heavy_hitter: "Крупная шишка" #NT!
+  CRIMINAL_dame: "Дама" #NT!
+  CRIMINAL_fait_accompli: "Свершившийся факт" #NT!
+  CRIMINAL_irreversible: "Необратимый" #NT!
+  CRIMINAL_indebted: "Задолжавший" #NT!
+  CRIMINAL_quiet_knife: "Тихий нож" #NT!
+  CRIMINAL_racket: "Рэкет" #NT!
+  CRIMINAL_blood_water: "Кровавая вода" #NT!
+  CRIMINAL_don_of_civ: "Дон цивилизации" #NT!
+  CRIMINAL_gotra_bond: "Готра Бонд" #NT!
+  CRIMINAL_bad_faith: "Недобросовестность" #NT!
+  CRIMINAL_bad_influence: "Плохое влияние" #NT!
+  CRIMINAL_underhand: "Закулисье" #NT!
+  CRIMINAL_infidel: "Неверность" #NT!
+  CRIMINAL_artful_dodger: "Искусный ловкач" #NT!
+  CRIMINAL_heartbreak_kid: "Малыш с разбитым сердцем" #NT!
+  CRIMINAL_associate: "Связанный" #NT!
+  CRIMINAL_duracrete_shoe: "Дюракритовый башмак" #NT!
+  CRIMINAL_clipper: "Клипер" #NT!
+  CRIMINAL_code_of_silence: "Кодекс молчания" #NT!
+  CRIMINAL_consigliere: "Консильери" #NT!
+  CRIMINAL_cugine: "Двоюродная сестра" #NT!
+  CRIMINAL_earner: "Добытчик" #NT!
+  CRIMINAL_initiator: "Инициатор" #NT!
+  CRIMINAL_message_job: "Чёрная метка" #NT!
+  CRIMINAL_oathbound: "Связанный клятвой" #NT!
+  CRIMINAL_temp_reprieve: "Временная передышка" #NT!
+  CRIMINAL_shy_prince: "Стеснительный принц" #NT!
+  CRIMINAL_underboss: "Заместитель" #NT!
+  CRIMINAL_vigorish: "Бодрящий" #NT!
+  CRIMINAL_second_nephew: "Второй племянник" #NT!
+  CRIMINAL_anzat_one: "Анзат-1" #NT!
+  CRIMINAL_arc_razor: "Дуговая бритва" #NT!
+  CRIMINAL_azure_queen: "Лазурная королева" #NT!
+  CRIMINAL_yanov: "Янов" #NT!
+  CRIMINAL_lupus_maroo: "Люпус Мару" #NT!
+  CRIMINAL_virago: "Мегера" #NT!
+  CRIMINAL_venomator: "Веноматор" #NT!
+  CRIMINAL_vendetta: "Вендетта" #NT!
+  CRIMINAL_stinger: "Жало" #NT!
+  CRIMINAL_scarlet_vertha: "Алая верта" #NT!
+  CRIMINAL_tragic_flaw: "Роковая ошибка" #NT!
+  CRIMINAL_raptor: "Раптор" #NT!
+  CRIMINAL_rude_awakening: "Горькое разочарование" #NT!
+  CRIMINAL_racketeer: "Рэкетир" #NT!
+  CRIMINAL_hooligan: "Хулиган" #NT!
+  CRIMINAL_bedlam: "Бедлам" #NT!
+  CRIMINAL_desperado: "Отчаянный" #NT!
+  CRIMINAL_ruthless: "Беспощадный" #NT!
+  CRIMINAL_pitiless: "Безжалостный" #NT!
+  CRIMINAL_merciless: "Нещадный" #NT!
+  CRIMINAL_libertine: "Распутник" #NT!
+  CRIMINAL_visible_hand: "Видимая рука" #NT!
+  CRIMINAL_high_jack: "Высокий Джек" #NT!
+  CRIMINAL_low_blow: "Подстава" #NT!
+  CRIMINAL_lackey: "Прихвостень" #NT!
+  CRIMINAL_rough_hand: "Грубая рука" #NT!
+  CRIMINAL_delinquent: "Правонарушитель" #NT!
+  CRIMINAL_derelict: "Покинутый" #NT!
+  CRIMINAL_dereliction: "Пренебрежение" #NT!
+  CRIMINAL_razor_walk: "Прогулка по лезвию бритвы" #NT!
+  CRIMINAL_hamstringer: "Тиски" #NT!
+  CRIMINAL_degenerate: "Дегенерат" #NT!
+  CRIMINAL_profligate: "Распутник" #NT!
+  CRIMINAL_shakedown: "Разбой" #NT!
+  CRIMINAL_ruffian: "Головорез" #NT!
+  CRIMINAL_heist: "Ограбление" #NT!
+  CRIMINAL_last_caper: "Последний каприз" #NT!
+  CRIMINAL_stickup: "Налёт" #NT!
+  CRIMINAL_breakout: "Прорыв" #NT!
+  CRIMINAL_impulsive: "Резкий" #NT!
+  CRIMINAL_concierge: "Консьерж" #NT!
+  CRIMINAL_liecentious: "Распущенный" #NT!
+  CRIMINAL_salacious: "Непристойный" #NT!
+  CRIMINAL_fluid_meaning: "Жидкое значение" #NT!
+  CRIMINAL_recumbent_end: "Лежачий конец" #NT!
+  CRIMINAL_dirt_nap: "Грязный сон" #NT!
+  CRIMINAL_spoiler: "Спойлер" #NT!
+  CRIMINAL_recalcitrant: "Непокорный" #NT!
+  CRIMINAL_strumpet: "Гулящая девка" #NT!
+  CRIMINAL_brazen: "Наглый" #NT!
+  CRIMINAL_charlatan: "Шарлатан" #NT!
+  CRIMINAL_punishing_one: "Наказующий" #NT!
+  CRIMINAL_troublemaker: "Смутьян" #NT!
+  CRIMINAL_assailant: "Зачинщик" #NT!
+  CRIMINAL_disturber: "Помеха" #NT!
+  CRIMINAL_extortioner: "Паразит" #NT!
+  CRIMINAL_blackmail: "Шантаж" #NT!
+  CRIMINAL_outlaw: "Преступник" #NT!
+  CRIMINAL_stigma: "Клеймо" #NT!
+  CRIMINAL_innuendo: "Намёк" #NT!
+  CRIMINAL_insinuator: "Инсинуатор" #NT!
+  CRIMINAL_double_tap: "Двойное нажатие" #NT!
+  CRIMINAL_gambit: "Гамбит" #NT!
+  CRIMINAL_ransom: "Выкуп" #NT!
+  CRIMINAL_malcontent: "Недовольство" #NT!
+  CRIMINAL_mischevous: "Озорной" #NT!
+  CRIMINAL_broken_pike: "Разломанная пика" #NT!
+  CRIMINAL_acrimony: "Язвительность" #NT!
+  CRIMINAL_instigator: "Подстрекатель" #NT!
+  CRIMINAL_wanton: "Блудливый" #NT!
+  CRIMINAL_line_s_end: "Конец жизни" #NT!
+  CRIMINAL_kissed_ring: "Поцелованное кольцо" #NT!
+  CRIMINAL_ill_repute: "Плохая репутация" #NT!
+  CRIMINAL_crossed_line: "Скрещённая линия" #NT!
+  CRIMINAL_misery_s_end: "Конец страданий" #NT!
+  CRIMINAL_true_grift: "Истинный мошенник" #NT!
+  CRIMINAL_sleight_of_hand: "Ловкость рук" #NT!
+  CRIMINAL_double_dealer: "Двурушник" #NT!
+  CRIMINAL_backstab: "Удар в спину" #NT!
+  CRIMINAL_two_timer: "Двуликий" #NT!
+  CRIMINAL_sucker_punch: "Запрещённый приём" #NT!
+  CRIMINAL_shade: "Полумрак" #NT!
+  CRIMINAL_silence: "Немота" #NT!
+  CRIMINAL_hoaxer: "Мистификатор" #NT!
+  CRIMINAL_dellarte: "Делларте" #NT!
+  CRIMINAL_lazi: "Лази" #NT!
+  CRIMINAL_flurry_of_bolts: "Шквал молний" #NT!
+  CRIMINAL_dirty_kick: "Подлый удар" #NT!
+  CRIMINAL_vital_shot: "Смертельный выстрел" #NT!
+  CRIMINAL_quick_shot: "Быстрый выстрел" #NT!
+  CRIMINAL_all_in: "Всё включено" #NT!
+  CRIMINAL_eagle_5: "Орёл 5" #NT!
+  CRIMINAL_lucky_dodge: "Удачный уворот" #NT!
+  CRIMINAL_shoot_first: "Стреляй первым" #NT!
+  CRIMINAL_nice_try: "Хорошая попытка" #NT!
+  CRIMINAL_open_wound: "Рваная рана" #NT!
+  CRIMINAL_mortal_wound: "Смертельная рана" #NT!
+  CRIMINAL_dirty_trickster: "Подлый трюкач" #NT!
+  CRIMINAL_feelin__woozy: "Одурманивание" #NT!
+  CRIMINAL_sneaky: "Скрытный" #NT!
+  CRIMINAL_scrappy: "Задиристый" #NT!
+  CRIMINAL_shifty_eyed: "Косой взгляд" #NT!
+  CRIMINAL_fight_or_flight: "Бей или беги" #NT!
+  CRIMINAL_slippery_devil: "Скользкий дьявол" #NT!
+  CRIMINAL_rolling_punches: "Избегающий ударов" #NT!
+  CRIMINAL_surprise_come: "Неожиданное возвращение" #NT!
+  CRIMINAL_round_two: "Второй раунд" #NT!
+  CRIMINAL_stopping_power: "Сдерживающая сила" #NT!
+  CRIMINAL_brawler_s_gift: "Подарок бойца" #NT!
+  CRIMINAL_survivor_s_scars: "Шрамы выжившего" #NT!
+  CRIMINAL_elem_of_surprise: "Элемент неожиданности" #NT!
+  CRIMINAL_browbeat: "Запугивание" #NT!
+  CRIMINAL_keep_cool: "Сохраняющий хладнокровие" #NT!
+  CRIMINAL_scramble: "Схватка" #NT!
+  CRIMINAL_hunter_s_boon: "Дар охотника" #NT!
+  CRIMINAL_rocket_punch: "Ракетный удар" #NT!
+  CRIMINAL_rail_shot: "Дуплет" #NT!
+  CRIMINAL_death_from_above: "Смерть с небес" #NT!
+  CRIMINAL_determination: "Решимость" #NT!
+  CRIMINAL_on_the_trail: "По следу" #NT!
+  CRIMINAL_intimidation: "Устрашение" #NT!
+  CRIMINAL_elegencia: "Элеганция" #NT!
+  CRIMINAL_new_elite: "Новая элита" #NT!
+  CRIMINAL_poisoned_barb: "Ядовитый шип" #NT!
+  CRIMINAL_ransacker: "Вымогатель" #NT!
+  CRIMINAL_spectre: "Спектр" #NT!
+  CRIMINAL_squall_spider: "Шквальный паук" #NT!
+  CRIMINAL_whisperkill: "Шепчущий убийца" #NT!
+  CRIMINAL_protectorate: "Протекторат" #NT!
+  CRIMINAL_constr_aurek: "Конструктор «Аурек»" #NT!
+  CRIMINAL_constr_besh: "Конструктор «Беш»" #NT!
+  CRIMINAL_constr_cresh: "Конструктор «Креш»" #NT!
+  CRIMINAL_constr_dorn: "Конструктор «Дорн»" #NT!
+  CRIMINAL_constr_forn: "Конструктор «Форн»" #NT!
+  CRIMINAL_constr_grek: "Конструктор «Грек»" #NT!
+  CRIMINAL_constr_herf: "Конструктор «Херф»" #NT!
+  CRIMINAL_constr_isk: "Конструктор «Иск»" #NT!
+  CRIMINAL_constr_jenth: "Конструктор «Джент»" #NT!
+  CRIMINAL_constr_krill: "Конструктор «Крилл»" #NT!
+  CRIMINAL_constr_leth: "Конструктор «Лет»" #NT!
+  CRIMINAL_constr_mern: "Конструктор «Мерн»" #NT!
+  CRIMINAL_constr_nern: "Конструктор «Нерн»" #NT!
+  CRIMINAL_constr_osk: "Конструктор «Оск»" #NT!
+  CRIMINAL_constr_peth: "Конструктор «Пет»" #NT!
+  CRIMINAL_constr_senth: "Конструктор «Сент»" #NT!
+  CRIMINAL_constr_trill: "Конструктор «Трилл»" #NT!
+  CRIMINAL_constr_usk: "Конструктор «Уск»" #NT!
+  CRIMINAL_constr_vev: "Конструктор «Вев»" #NT!
+  CRIMINAL_constr_wesk: "Конструктор «Уэск»" #NT!
+  CRIMINAL_constr_xesh: "Конструктор «Зеш»" #NT!
+  CRIMINAL_constr_yirt: "Конструктор «Йирт»" #NT!
+  CRIMINAL_constr_zerek: "Конструктор «Зерек»" #NT!
+  CRIMINAL_constr_cherek: "Конструктор «Черек»" #NT!
+  CRIMINAL_constr_qek: "Конструктор «Кек»" #NT!
+  CRIMINAL_constr_resh: "Конструктор «Реш»" #NT!
+  CRIMINAL_constr_enth: "Конструктор «Энт»" #NT!
+  CRIMINAL_constr_onith: "Конструктор «Онит»" #NT!
+  CRIMINAL_constr_krenth: "Конструктор «Крент»" #NT!
+  CRIMINAL_constr_nen: "Конструктор «Нен»" #NT!
+  CRIMINAL_constr_orenth: "Конструктор «Орент»" #NT!
+  CRIMINAL_constr_shen: "Конструктор «Шен»" #NT!
+  CRIMINAL_constr_thesh: "Конструктор «Теш»" #NT!
+  CRIMINAL_defense_screen: "Экран защиты" #NT!
+  CRIMINAL_scrapper: "Забияка" #NT!
+  CRIMINAL_meat_grinder: "Мясорубка" #NT!
+  CRIMINAL_dirty_fighting: "Грязная борьба" #NT!
+  CRIMINAL_back_blast: "Обратное пламя" #NT!
+  CRIMINAL_upper_hand: "Верх" #NT!
+  CRIMINAL_holdout_defense: "Упорная защита" #NT!
+  CRIMINAL_hotwired_defenses: "Горячая защита" #NT!
+  CRIMINAL_rapid_shots: "Скорострел" #NT!
+  CRIMINAL_missle_blast: "Ракетный факел" #NT!
+  CRIMINAL_steely_resolve: "Стальная решимость" #NT!
+  CRIMINAL_no_escape: "Побег невозможен" #NT!
+  CRIMINAL_charged_bolt: "Заряженная молния" #NT!
+  CRIMINAL_hemorrhag_blast: "Кровоточащий взрыв" #NT!
+  CRIMINAL_concussion: "Оглушение" #NT!
+  CRIMINAL_overload: "Перегрузка" #NT!
+  CRIMINAL_FLEET_joint_expeditionary_fleet: "Объединённый экспедиционный флот" #NT!
+  CRIMINAL_FLEET_strategic_readiness_fleet: "Флот стратегической готовности" #NT!
+  CRIMINAL_FLEET_tactical_response_fleet: "Флот тактического реагирования" #NT!
+  CRIMINAL_FLEET_rapid_strike_fleet: "Флот быстрого реагирования" #NT!
+  CRIMINAL_FLEET_forward_defense_fleet: "Флот передовой обороны" #NT!
+  CRIMINAL_FLEET_SEQUENTIAL_stellar_fleet: "$ORD$ Звёздный флот" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_colonial_watch: "$ORD$ Колониальный дозор" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_assault_group: "$ORD$ Штурмовая группа" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_penal_corps: "$ORD$ Штрафной корпус" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_tankbred_regulars: "$ORD$ Солдаты-клоны" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_dread_corps: "$ORD$ Корпус ужаса" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_battle_drone_wing: "$ORD$ Крыло боевых дроидов" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_battle_drone_emplacements: "$ORD$ Комплекс боевых дронов" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_psi_ops_command: "$ORD$ Командование пси-операций" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_shock_swarm: "$ORD$ Ударный рой" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_purebloods: "$ORD$ Чистокровные" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_occupation_watch: "$ORD$ Оккупационный дозор" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_occupation_drones: "$ORD$ Оккупационные дроны" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  CRIMINAL_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  CRIMINAL_CHR_ajuur: "Ajuur" #NT!
+  CRIMINAL_CHR_arigo: "Arigo" #NT!
+  CRIMINAL_CHR_azkul: "Azkul" #NT!
+  CRIMINAL_CHR_benok: "Benok" #NT!
+  CRIMINAL_CHR_chaney: "Chaney" #NT!
+  CRIMINAL_CHR_compeer: "Compeer" #NT!
+  CRIMINAL_CHR_dopak: "Dopak" #NT!
+  CRIMINAL_CHR_kiregan: "Kiregan" #NT!
+  CRIMINAL_CHR_gonlo: "Gonlo" #NT!
+  CRIMINAL_CHR_torval: "Torval" #NT!
+  CRIMINAL_CHR_vanus: "Vanus" #NT!
+  CRIMINAL_CHR_gurney: "Gurney" #NT!
+  CRIMINAL_CHR_holdan: "Holdan" #NT!
+  CRIMINAL_CHR_hudrow: "Hudrow" #NT!
+  CRIMINAL_CHR_aphel: "Aphel" #NT!
+  CRIMINAL_CHR_davik: "Davik" #NT!
+  CRIMINAL_CHR_koobis: "Koobis" #NT!
+  CRIMINAL_CHR_zeerid: "Zeerid" #NT!
+  CRIMINAL_CHR_matrik: "Matrik" #NT!
+  CRIMINAL_CHR_matu: "Matu" #NT!
+  CRIMINAL_CHR_monkabi: "Monkabi" #NT!
+  CRIMINAL_CHR_nahata: "Nahata" #NT!
+  CRIMINAL_CHR_oondar: "Oondar" #NT!
+  CRIMINAL_CHR_oren: "Oren" #NT!
+  CRIMINAL_CHR_sindal: "Sindal" #NT!
+  CRIMINAL_CHR_batu: "Batu" #NT!
+  CRIMINAL_CHR_scraaz: "Scraaz" #NT!
+  CRIMINAL_CHR_scratch: "Scratch" #NT!
+  CRIMINAL_CHR_milosh: "Milosh" #NT!
+  CRIMINAL_CHR_kaemon: "Kaemon" #NT!
+  CRIMINAL_CHR_samovan: "Samovan" #NT!
+  CRIMINAL_CHR_tarin: "Tarin" #NT!
+  CRIMINAL_CHR_teak: "Teak" #NT!
+  CRIMINAL_CHR_thon: "Thon" #NT!
+  CRIMINAL_CHR_torkel: "Torkel" #NT!
+  CRIMINAL_CHR_trey: "Trey" #NT!
+  CRIMINAL_CHR_ward: "Ward" #NT!
+  CRIMINAL_CHR_wren: "Wren" #NT!
+  CRIMINAL_CHR_xarval: "Xarval" #NT!
+  CRIMINAL_CHR_yem: "Yem" #NT!
+  CRIMINAL_CHR_zokar: "Zokar" #NT!
+  CRIMINAL_CHR_greef: "Greef" #NT!
+  CRIMINAL_CHR_dash: "Dash" #NT!
+  CRIMINAL_CHR_antayen: "Antayen" #NT!
+  CRIMINAL_CHR_armin: "Armin" #NT!
+  CRIMINAL_CHR_batono: "Batono" #NT!
+  CRIMINAL_CHR_billan: "Billan" #NT!
+  CRIMINAL_CHR_brall: "Brall" #NT!
+  CRIMINAL_CHR_brendan: "Brendan" #NT!
+  CRIMINAL_CHR_coro: "Coro" #NT!
+  CRIMINAL_CHR_corrun: "Corrun" #NT!
+  CRIMINAL_CHR_dehno: "Dehno" #NT!
+  CRIMINAL_CHR_dern: "Dern" #NT!
+  CRIMINAL_CHR_diirn: "Diirn" #NT!
+  CRIMINAL_CHR_di_go: "Di-go" #NT!
+  CRIMINAL_CHR_enok: "Enok" #NT!
+  CRIMINAL_CHR_fodo: "Fodo" #NT!
+  CRIMINAL_CHR_gayem: "Gayem" #NT!
+  CRIMINAL_CHR_gragov: "Gragov" #NT!
+  CRIMINAL_CHR_greeta: "Greeta" #NT!
+  CRIMINAL_CHR_griff: "Griff" #NT!
+  CRIMINAL_CHR_grommik: "Grommik" #NT!
+  CRIMINAL_CHR_harra: "Harra" #NT!
+  CRIMINAL_CHR_hawek: "Hawek" #NT!
+  CRIMINAL_CHR_horell: "Horell" #NT!
+  CRIMINAL_CHR_janos: "Janos" #NT!
+  CRIMINAL_CHR_kamus: "Kamus" #NT!
+  CRIMINAL_CHR_mex: "Mex" #NT!
+  CRIMINAL_CHR_rasmus: "Rasmus" #NT!
+  CRIMINAL_CHR_charratha: "Charratha" #NT!
+  CRIMINAL_CHR_edaara: "Edaara" #NT!
+  CRIMINAL_CHR_bella: "Bella" #NT!
+  CRIMINAL_CHR_callista: "Callista" #NT!
+  CRIMINAL_CHR_mara: "Mara" #NT!
+  CRIMINAL_CHR_seena: "Seena" #NT!
+  CRIMINAL_CHR_areta: "Areta" #NT!
+  CRIMINAL_CHR_cord: "Cord" #NT!
+  CRIMINAL_CHR_cyrinity: "Cyrinity" #NT!
+  CRIMINAL_CHR_nile: "Nile" #NT!
+  CRIMINAL_CHR_kiyfi: "Kiyfi" #NT!
+  CRIMINAL_CHR_yasmyn: "Yasmyn" #NT!
+  CRIMINAL_CHR_satra: "Satra" #NT!
+  CRIMINAL_CHR_shehish: "Shehish" #NT!
+  CRIMINAL_CHR_sarna: "Sarna" #NT!
+  CRIMINAL_CHR_krava: "Krava" #NT!
+  CRIMINAL_CHR_roxis: "Roxis" #NT!
+  CRIMINAL_CHR_jessa: "Jessa" #NT!
+  CRIMINAL_CHR_aqua: "Aqua" #NT!
+  CRIMINAL_CHR_maryna: "Maryna" #NT!
+  CRIMINAL_CHR_essaj: "Essaj" #NT!
+  CRIMINAL_CHR_looriw: "Looriw" #NT!
+  CRIMINAL_CHR_teeana: "Teeana" #NT!
+  CRIMINAL_CHR_raena: "Raena" #NT!
+  CRIMINAL_CHR_yula: "Yula" #NT!
+  CRIMINAL_CHR_vifi: "Vifi" #NT!
+  CRIMINAL_CHR_vania: "Vania" #NT!
+  CRIMINAL_CHR_jeanida: "Jeanida" #NT!
+  CRIMINAL_CHR_aerena: "Aerena" #NT!
+  CRIMINAL_CHR_nataya: "Nataya" #NT!
+  CRIMINAL_CHR_bernarda: "Bernarda" #NT!
+  CRIMINAL_CHR_geela: "Geela" #NT!
+  CRIMINAL_CHR_lya: "Lya" #NT!
+  CRIMINAL_CHR_sirra: "Sirra" #NT!
+  CRIMINAL_CHR_teris: "Teris" #NT!
+  CRIMINAL_CHR_terral: "Terral" #NT!
+  CRIMINAL_CHR_riema: "Riema" #NT!
+  CRIMINAL_CHR_erri: "Erri" #NT!
+  CRIMINAL_CHR_shanna: "Shanna" #NT!
+  CRIMINAL_CHR_lyra: "Lyra" #NT!
+  CRIMINAL_CHR_pranda: "Pranda" #NT!
+  CRIMINAL_CHR_luna: "Luna" #NT!
+  CRIMINAL_CHR_cally: "Cally" #NT!
+  CRIMINAL_CHR_viqi: "Viqi" #NT!
+  CRIMINAL_CHR_hadriel: "Hadriel" #NT!
+  CRIMINAL_CHR_lora: "Lora" #NT!
+  CRIMINAL_CHR_selena: "Selena" #NT!
+  CRIMINAL_CHR_zana: "Zana" #NT!
+  CRIMINAL_CHR_tuija: "Tuija" #NT!
+  CRIMINAL_CHR_railin: "Railin" #NT!
+  CRIMINAL_CHR_odona: "Odona" #NT!
+  CRIMINAL_CHR_shyon: "Shyon" #NT!
+  CRIMINAL_CHR_walas: "Walas" #NT!
+  CRIMINAL_CHR_rylla: "Rylla" #NT!
+  CRIMINAL_CHR_gara: "Gara" #NT!
+  CRIMINAL_CHR_delos: "Delos" #NT!
+  CRIMINAL_CHR_loretta: "Loretta" #NT!
+  CRIMINAL_CHR_luhon: "Luhon" #NT!
+  CRIMINAL_CHR_delinia: "Delinia" #NT!
+  CRIMINAL_CHR_aama: "Aama" #NT!
+  CRIMINAL_CHR_shorya: "Shorya" #NT!
+  CRIMINAL_CHR_melfina: "Melfina" #NT!
+  CRIMINAL_CHR_davessi: "Davessi" #NT!
+  CRIMINAL_CHR_larana: "Larana" #NT!
+  CRIMINAL_CHR_galatea: "Galatea" #NT!
+  CRIMINAL_CHR_nola: "Nola" #NT!
+  CRIMINAL_CHR_syna: "Syna" #NT!
+  CRIMINAL_CHR_jauhzmynn: "Jauhzmynn" #NT!
+  CRIMINAL_CHR_anen: "Anen" #NT!
+  CRIMINAL_CHR_orona: "Orona" #NT!
+  CRIMINAL_CHR_yana: "Yana" #NT!
+  CRIMINAL_CHR_zoras: "Zoras" #NT!
+  CRIMINAL_CHR_ree: "Ree" #NT!
+  CRIMINAL_CHR_grace: "Grace" #NT!
+  CRIMINAL_CHR_tantema: "Tantema" #NT!
+  CRIMINAL_CHR_myn: "Myn" #NT!
+  CRIMINAL_CHR_una: "Una" #NT!
+  CRIMINAL_CHR_dalharil: "Dalharil" #NT!
+  CRIMINAL_CHR_losa: "Losa" #NT!
+  CRIMINAL_CHR_sovi: "Sovi" #NT!
+  CRIMINAL_CHR_elaiza: "Elaiza" #NT!
+  CRIMINAL_CHR_vucora: "Vucora" #NT!
+  CRIMINAL_CHR_ava: "Ava" #NT!
+  CRIMINAL_CHR_joi: "Joi" #NT!
+  CRIMINAL_CHR_stryka: "Stryka" #NT!
+  CRIMINAL_CHR_shandra: "Shandra" #NT!
+  CRIMINAL_CHR_kely: "Kely" #NT!
+  CRIMINAL_CHR_caileta: "Caileta" #NT!
+  CRIMINAL_CHR_taia: "Taia" #NT!
+  CRIMINAL_CHR_siala: "Siala" #NT!
+  CRIMINAL_CHR_reki: "Reki" #NT!
+  CRIMINAL_CHR_maydla: "Maydla" #NT!
+  CRIMINAL_CHR_bot: "Bot" #NT!
+  CRIMINAL_CHR_kiandra: "Kiandra" #NT!
+  CRIMINAL_CHR_xilaren: "Xilaren" #NT!
+  CRIMINAL_CHR_zulara: "Zulara" #NT!
+  CRIMINAL_CHR_ren: "Ren" #NT!
+  CRIMINAL_CHR_karissa: "Karissa" #NT!
+  CRIMINAL_CHR_haruko: "Haruko" #NT!
+  CRIMINAL_CHR_jenna: "Jenna" #NT!
+  CRIMINAL_CHR_liana: "Liana" #NT!
+  CRIMINAL_CHR_rale: "Rale" #NT!
+  CRIMINAL_CHR_megara: "Megara" #NT!
+  CRIMINAL_CHR_aria: "Aria" #NT!
+  CRIMINAL_CHR_akiva: "Akiva" #NT!
+  CRIMINAL_CHR_nalah: "Nalah" #NT!
+  CRIMINAL_CHR_erlem: "Erlem" #NT!
+  CRIMINAL_CHR_nali: "Nali" #NT!
+  CRIMINAL_CHR_fallah: "Fallah" #NT!
+  CRIMINAL_CHR_kotrana: "Kotrana" #NT!
+  CRIMINAL_CHR_aayla: "Aayla" #NT!
+  CRIMINAL_CHR_kalira: "Kalira" #NT!
+  CRIMINAL_CHR_arani: "Arani" #NT!
+  CRIMINAL_CHR_fama: "Fama" #NT!
+  CRIMINAL_CHR_lyyr: "Lyyr" #NT!
+  CRIMINAL_CHR_arcas: "Arcas" #NT!
+  CRIMINAL_CHR_rane: "Rane" #NT!
+  CRIMINAL_CHR_nayru: "Nayru" #NT!
+  CRIMINAL_CHR_zylas: "Zylas" #NT!
+  CRIMINAL_CHR_vexa: "Vexa" #NT!
+  CRIMINAL_CHR_kana: "Kana" #NT!
+  CRIMINAL_CHR_shandar: "Shandar" #NT!
+  CRIMINAL_CHR_eryn: "Eryn" #NT!
+  CRIMINAL_CHR_shayl: "Shayl" #NT!
+  CRIMINAL_CHR_barrow: "Barrow" #NT!
+  CRIMINAL_CHR_bodya: "Bodya" #NT!
+  CRIMINAL_CHR_cruor: "Cruor" #NT!
+  CRIMINAL_CHR_freem: "Freem" #NT!
+  CRIMINAL_CHR_fregner: "Fregner" #NT!
+  CRIMINAL_CHR_jaarn: "Jaarn" #NT!
+  CRIMINAL_CHR_kang: "Kang" #NT!
+  CRIMINAL_CHR_korr: "Korr" #NT!
+  CRIMINAL_CHR_othar: "Othar" #NT!
+  CRIMINAL_CHR_reed: "Reed" #NT!
+  CRIMINAL_CHR_rem: "Rem" #NT!
+  CRIMINAL_CHR_rix: "Rix" #NT!
+  CRIMINAL_CHR_talosa: "Talosa" #NT!
+  CRIMINAL_CHR_tagge: "Tagge" #NT!
+  CRIMINAL_CHR_tasao: "Tasao" #NT!
+  CRIMINAL_CHR_varta: "Varta" #NT!
+  CRIMINAL_CHR_zahor: "Zahor" #NT!
+  CRIMINAL_CHR_karga: "Karga" #NT!
+  CRIMINAL_CHR_adelair: "Adelair" #NT!
+  CRIMINAL_CHR_bann: "Bann" #NT!
+  CRIMINAL_CHR_blys: "Blys" #NT!
+  CRIMINAL_CHR_briggam: "Briggam" #NT!
+  CRIMINAL_CHR_col: "Col" #NT!
+  CRIMINAL_CHR_denovan: "Denovan" #NT!
+  CRIMINAL_CHR_falt: "Falt" #NT!
+  CRIMINAL_CHR_fizark: "Fizark" #NT!
+  CRIMINAL_CHR_hillin: "Hillin" #NT!
+  CRIMINAL_CHR_holda: "Holda" #NT!
+  CRIMINAL_CHR_kaayz: "Kaayz" #NT!
+  CRIMINAL_CHR_kurthson: "Kurthson" #NT!
+  CRIMINAL_CHR_laphmer: "Laphmer" #NT!
+  CRIMINAL_CHR_lanra: "Lanra" #NT!
+  CRIMINAL_CHR_leksende: "Leksende" #NT!
+  CRIMINAL_CHR_lorso: "Lorso" #NT!
+  CRIMINAL_CHR_medoo: "Medoo" #NT!
+  CRIMINAL_CHR_natari: "Natari" #NT!
+  CRIMINAL_CHR_orden: "Orden" #NT!
+  CRIMINAL_CHR_radler: "Radler" #NT!
+  CRIMINAL_CHR_reemus: "Reemus" #NT!
+  CRIMINAL_CHR_safalla: "Safalla" #NT!
+  CRIMINAL_CHR_seario: "Seario" #NT!
+  CRIMINAL_CHR_tavar: "Tavar" #NT!
+  CRIMINAL_CHR_wertka: "Wertka" #NT!
+  CRIMINAL_CHR_yellip: "Yellip" #NT!
+  CRIMINAL_CHR_calo: "Calo" #NT!
+  CRIMINAL_CHR_rist: "Rist" #NT!
+  CRIMINAL_CHR_pollard: "Pollard" #NT!
+  CRIMINAL_CHR_luxa: "Luxa" #NT!
+  CRIMINAL_CHR_ahita: "Ahita" #NT!
+  CRIMINAL_CHR_casey: "Casey" #NT!
+  CRIMINAL_CHR_sakarie: "Sakarie" #NT!
+  CRIMINAL_CHR_savan: "Savan" #NT!
+  CRIMINAL_CHR_xora: "Xora" #NT!
+  CRIMINAL_CHR_xishel: "Xishel" #NT!
+  CRIMINAL_CHR_zule: "Zule" #NT!
+  CRIMINAL_CHR_xzushal: "Xzushal" #NT!
+  CRIMINAL_CHR_senna: "Senna" #NT!
+  CRIMINAL_CHR_xasha: "Xasha" #NT!
+  CRIMINAL_CHR_bana: "Bana" #NT!
+  CRIMINAL_CHR_xaverri: "Xaverri" #NT!
+  CRIMINAL_CHR_xanya: "Xanya" #NT!
+  CRIMINAL_CHR_xanta: "Xanta" #NT!
+  CRIMINAL_CHR_vixtra: "Vixtra" #NT!
+  CRIMINAL_CHR_zexa: "Zexa" #NT!
+  CRIMINAL_CHR_jana: "Jana" #NT!
+  CRIMINAL_CHR_eva: "Eva" #NT!
+  CRIMINAL_CHR_faye: "Faye" #NT!
+  CRIMINAL_CHR_galir: "Galir" #NT!
+  CRIMINAL_CHR_joni: "Joni" #NT!
+  CRIMINAL_CHR_kaya: "Kaya" #NT!
+  CRIMINAL_CHR_merrit: "Merrit" #NT!
+  CRIMINAL_CHR_nara: "Nara" #NT!
+  CRIMINAL_CHR_soprin: "Soprin" #NT!
+  CRIMINAL_CHR_vipp: "Vipp" #NT!
+  CRIMINAL_CHR_nord: "Nord" #NT!
+  CRIMINAL_CHR_fife: "Fife" #NT!
+  CRIMINAL_CHR_marg: "Marg" #NT!
+  CRIMINAL_CHR_tezzka: "Tezzka" #NT!
+  CRIMINAL_CHR_laalee: "Laalee" #NT!
+  CRIMINAL_CHR_lom: "Lom" #NT!
+  CRIMINAL_CHR_quay: "Quay" #NT!
+  CRIMINAL_CHR_vram: "Vram" #NT!
+  CRIMINAL_CHR_krim: "Krim" #NT!
+  CRIMINAL_CHR_tolsite: "Tolsite" #NT!

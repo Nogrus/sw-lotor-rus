@@ -1,602 +1,602 @@
 ﻿l_russian:
- SULLUST_incisor: "Incisor"
- SULLUST_sidestep: "Sidestep"
- SULLUST_undaunted: "Undaunted"
- SULLUST_venture: "Venture"
- SULLUST_versatile: "Versatile"
- SULLUST_vigorous: "Vigorous"
- SULLUST_allegiance: "Allegiance"
- SULLUST_challenger: "Challenger"
- SULLUST_fearless: "Fearless"
- SULLUST_protector: "Protector"
- SULLUST_guardian: "Guardian"
- SULLUST_victorious: "Victorious"
- SULLUST_courageous: "Courageous"
- SULLUST_defiance: "Defiance"
- SULLUST_valorous: "Valorous"
- SULLUST_whirlwind: "Whirlwind"
- SULLUST_vigilance: "Vigilance"
- SULLUST_decimator: "Decimator"
- SULLUST_indomitable: "Indomitable"
- SULLUST_goliath: "Goliath"
- SULLUST_sentinel: "Sentinel"
- SULLUST_brilliant: "Brilliant"
- SULLUST_blazer: "Blazer"
- SULLUST_audacity: "Audacity"
- SULLUST_gallant: "Gallant"
- SULLUST_nova: "Nova"
- SULLUST_shadow: "Shadow"
- SULLUST_spirit_of_sorosuub: "Spirit of SoroSuub"
- SULLUST_independence: "Independence"
- SULLUST_sovereign: "Sovereign"
- SULLUST_cutlass: "Cutlass"
- SULLUST_vigilant: "Vigilant"
- SULLUST_sentry: "Sentry"
- SULLUST_custode: "Custode"
- SULLUST_monitor: "Monitor"
- SULLUST_defender: "Defender"
- SULLUST_lillibanca: "Lillibanca"
- SULLUST_bloodstripe: "Bloodstripe"
- SULLUST_determination: "Determination"
- SULLUST_fire_of_eruption: "Fire of Eruption"
- SULLUST_bond_of_talus: "Bond of Talus"
- SULLUST_tralus_resplendent: "Tralus Resplendent"
- SULLUST_SULLUST_queen: "Sullustan Queen"
- SULLUST_glory_of_sullust: "Glory of Sullust"
- SULLUST_lantern: "Lantern"
- SULLUST_razorcat: "Razorcat"
- SULLUST_stockade: "Stockade"
- SULLUST_rampart: "Rampart"
- SULLUST_loyal: "Loyal"
- SULLUST_invincible: "Invincible"
- SULLUST_spearhead: "Spearhead"
- SULLUST_impeccable: "Impeccable"
- SULLUST_pathfinder: "Pathfinder"
- SULLUST_red_cloud: "Red Cloud"
- SULLUST_arko: "Arko"
- SULLUST_defiant: "Defiant"
- SULLUST_valiant: "Valiant"
- SULLUST_antares: "Antares"
- SULLUST_resolute: "Resolute"
- SULLUST_beckoner: "Beckoner"
- SULLUST_steadfast: "Steadfast"
- SULLUST_stardust: "Stardust"
- SULLUST_insurrection: "Insurrection"
- SULLUST_peregrine: "Peregrine"
- SULLUST_sivulliq: "Sivulliq"
- SULLUST_spysprite: "Spysprite"
- SULLUST_hush: "Hush"
- SULLUST_contrib_sponsor: "Contributing Sponsor"
- SULLUST_sponsorship: "Sponsorship"
- SULLUST_petite_opu: "Petite Opu"
- SULLUST_courier: "Courier"
- SULLUST_quasar: "Quasar"
- SULLUST_sullumun: "Sullumun"
- SULLUST_lununmo: "Lununmo"
- SULLUST_sululluub: "Sululluub"
- SULLUST_sulon: "Sulon"
- SULLUST_umnub: "Umnub"
- SULLUST_mumunubb: "Mumunubb"
- SULLUST_small_eyes: "Small Eyes"
- SULLUST_shorty: "Shorty"
- SULLUST_inyusu_tor: "Inyusu Tor"
- SULLUST_mayjein_eruption: "Mayjein Eruption"
- SULLUST_ash_angel: "Ash Angel"
- SULLUST_rockrender: "Rockrender"
- SULLUST_ash_rabbit: "Ash Rabbit"
- SULLUST_magma: "Magma"
- SULLUST_incenerator: "Incenerator"
- SULLUST_magma_spike: "Magma Spike"
- SULLUST_fireball: "Fireball"
- SULLUST_firebolt: "Firebolt"
- SULLUST_forge: "Forge"
- SULLUST_anvil: "Anvil"
- SULLUST_vibroblade: "Vibroblade"
- SULLUST_pyroclastic_flow: "Pyroclastic Flow"
- SULLUST_immolation: "Immolation"
- SULLUST_exogorth: "Exogorth"
- SULLUST_purrgil: "Purrgil"
- SULLUST_neebray: "Neebray"
- SULLUST_mynock: "Mynock"
- SULLUST_barri: "Barri"
- SULLUST_gralloc: "Gralloc"
- SULLUST_grutchin: "Grutchin"
- SULLUST_oswaft: "Oswaft"
- SULLUST_ridadi: "Ridadi"
- SULLUST_scree: "Scree"
- SULLUST_space_grazer: "Space Grazer"
- SULLUST_stillsail: "Stillsail"
- SULLUST_fabricator_aurek: "Fabricator Aurek"
- SULLUST_fabricator_besh: "Fabricator Besh"
- SULLUST_fabricator_cresh: "Fabricator Cresh"
- SULLUST_fabricator_dorn: "Fabricator Dorn"
- SULLUST_fabricator_forn: "Fabricator Forn"
- SULLUST_fabricator_grek: "Fabricator Grek"
- SULLUST_fabricator_herf: "Fabricator Herf"
- SULLUST_fabricator_isk: "Fabricator Isk"
- SULLUST_fabricator_jenth: "Fabricator Jenth"
- SULLUST_fabricator_krill: "Fabricator Krill"
- SULLUST_fabricator_leth: "Fabricator Leth"
- SULLUST_fabricator_mern: "Fabricator Mern"
- SULLUST_fabricator_nern: "Fabricator Nern"
- SULLUST_fabricator_osk: "Fabricator Osk"
- SULLUST_fabricator_peth: "Fabricator Peth"
- SULLUST_fabricator_senth: "Fabricator Senth"
- SULLUST_fabricator_trill: "Fabricator Trill"
- SULLUST_fabricator_usk: "Fabricator Usk"
- SULLUST_fabricator_vev: "Fabricator Vev"
- SULLUST_fabricator_wesk: "Fabricator Wesk"
- SULLUST_fabricator_xesh: "Fabricator Xesh"
- SULLUST_fabricator_yirt: "Fabricator Yirt"
- SULLUST_fabricator_zerek: "Fabricator Zerek"
- SULLUST_fabricator_cherek: "Fabricator Cherek"
- SULLUST_fabricator_qek: "Fabricator Qek"
- SULLUST_fabricator_resh: "Fabricator Resh"
- SULLUST_fabricator_enth: "Fabricator Enth"
- SULLUST_fabricator_onith: "Fabricator Onith"
- SULLUST_fabricator_krenth: "Fabricator Krenth"
- SULLUST_fabricator_nen: "Fabricator Nen"
- SULLUST_fabricator_orenth: "Fabricator Orenth"
- SULLUST_fabricator_shen: "Fabricator Shen"
- SULLUST_fabricator_thesh: "Fabricator Thesh"
- SULLUST_lander: "Lander"
- SULLUST_FLEET_brema_sector_defender: "Brema Sector Defender"
- SULLUST_FLEET_pride_of_pinyumb: "Pride of Pinyumb"
- SULLUST_FLEET_sorosuub_acquisitons: "SoroSuub Acquisitions"
- SULLUST_FLEET_rimma_protector: "Rimma Protector"
- SULLUST_FLEET_SULLUST_home_guard: "Sullustan Home Guard"
- SULLUST_FLEET_silvestri_defender: "Silvestri Defender"
- SULLUST_FLEET_SEQUENTIAL_sorosuub_fleet: "$ORD$ SoroSuub Fleet"
- SULLUST_ARMY_SEQUENTIAL_droid_guard: "$ORD$ Droid Guard"
- SULLUST_ARMY_SEQUENTIAL_battle_droids: "$ORD$ Battle Droids"
- SULLUST_ARMY_SEQUENTIAL_home_guard_guard: "$ORD$ Home Guard Guard"
- SULLUST_ARMY_SEQUENTIAL_assault_infantry: "$ORD$ Assault Infantry"
- SULLUST_ARMY_SEQUENTIAL_loyal_customers: "$ORD$ Loyal Customers"
- SULLUST_ARMY_SEQUENTIAL_strandcasts: "$ORD$ Strandcasts"
- SULLUST_ARMY_SEQUENTIAL_dread_troops: "$ORD$ Dread Troops"
- SULLUST_ARMY_SEQUENTIAL_droid_army: "$ORD$ Droid Army"
- SULLUST_ARMY_SEQUENTIAL_droid_garrison: "$ORD$ Droid Garrison"
- SULLUST_ARMY_SEQUENTIAL_war_minds: "$ORD$ War Minds"
- SULLUST_ARMY_SEQUENTIAL_lobstrocities: "$ORD$ Lobstrocities"
- SULLUST_ARMY_SEQUENTIAL_manipulated_troops: "$ORD$ Manipulated Troops"
- SULLUST_ARMY_SEQUENTIAL_sorosuub_occupiers: "$ORD$ SoroSuub Occupiers"
- SULLUST_ARMY_SEQUENTIAL_mechanica_occupiers: "$ORD$ Mechanica Occupiers"
- SULLUST_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- SULLUST_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- SULLUST_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- SULLUST_CHR_aubro: "Aubro"
- SULLUST_CHR_akkere: "Akkere"
- SULLUST_CHR_jowir: "Jowir"
- SULLUST_CHR_darrin: "Darrin"
- SULLUST_CHR_wyle: "Wyle"
- SULLUST_CHR_eirt: "Eirt"
- SULLUST_CHR_hondo: "Hondo"
- SULLUST_CHR_dugo: "Dugo"
- SULLUST_CHR_bashrar: "Bashrar"
- SULLUST_CHR_t_nun: "T'nun"
- SULLUST_CHR_benb: "Benb"
- SULLUST_CHR_jander: "Jander"
- SULLUST_CHR_birt: "Birt"
- SULLUST_CHR_mell: "Mell"
- SULLUST_CHR_blibbie: "Blibbie"
- SULLUST_CHR_blut: "Blut"
- SULLUST_CHR_borkus: "Borkus"
- SULLUST_CHR_lam: "Lam"
- SULLUST_CHR_beolars: "Beolars"
- SULLUST_CHR_biyel: "Biyel"
- SULLUST_CHR_habbala: "Habbala"
- SULLUST_CHR_hiem: "Hiem"
- SULLUST_CHR_bungo: "Bungo"
- SULLUST_CHR_chiithii_n: "Chiithii'n"
- SULLUST_CHR_viil: "Viil"
- SULLUST_CHR_dalgeer: "Dalgeer"
- SULLUST_CHR_miot: "Miot"
- SULLUST_CHR_devit: "Devit"
- SULLUST_CHR_den: "Den"
- SULLUST_CHR_belson: "Belson"
- SULLUST_CHR_duago: "Duago"
- SULLUST_CHR_diab: "Diab"
- SULLUST_CHR_farren: "Farren"
- SULLUST_CHR_beem: "Beem"
- SULLUST_CHR_loro: "Loro"
- SULLUST_CHR_qulo: "Qulo"
- SULLUST_CHR_huegu: "Huegu"
- SULLUST_CHR_elihsu: "Elihsu"
- SULLUST_CHR_extok: "Extok"
- SULLUST_CHR_fekk: "Fekk"
- SULLUST_CHR_feen: "Feen"
- SULLUST_CHR_fritz: "Fritz"
- SULLUST_CHR_polien: "Polien"
- SULLUST_CHR_barlin: "Barlin"
- SULLUST_CHR_futor: "Futor"
- SULLUST_CHR_gadux: "Gadux"
- SULLUST_CHR_neebuk: "Neebuk"
- SULLUST_CHR_garek: "Garek"
- SULLUST_CHR_garron: "Garron"
- SULLUST_CHR_garthe: "Garthe"
- SULLUST_CHR_gary: "Gary"
- SULLUST_CHR_jarad: "Jarad"
- SULLUST_CHR_dwanar: "Dwanar"
- SULLUST_CHR_gibs: "Gibs"
- SULLUST_CHR_godt: "Godt"
- SULLUST_CHR_grom: "Grom"
- SULLUST_CHR_min: "Min"
- SULLUST_CHR_chelsey: "Chelsey"
- SULLUST_CHR_mowa: "Mowa"
- SULLUST_CHR_guro: "Guro"
- SULLUST_CHR_mian: "Mian"
- SULLUST_CHR_james: "James"
- SULLUST_CHR_nub: "Nub"
- SULLUST_CHR_neeto: "Neeto"
- SULLUST_CHR_magar: "Magar"
- SULLUST_CHR_moplin: "Moplin"
- SULLUST_CHR_niev: "Niev"
- SULLUST_CHR_dero: "Dero"
- SULLUST_CHR_yet: "Yet"
- SULLUST_CHR_jubieck: "Jubieck"
- SULLUST_CHR_julept: "Julept"
- SULLUST_CHR_jae: "Jae"
- SULLUST_CHR_xylan: "Xylan"
- SULLUST_CHR_kenb: "Kenb"
- SULLUST_CHR_kenpa: "Kenpa"
- SULLUST_CHR_kala: "Kala"
- SULLUST_CHR_kin: "Kin"
- SULLUST_CHR_kkrax: "Kkrax"
- SULLUST_CHR_kap: "Kap"
- SULLUST_CHR_kollrin: "Kollrin"
- SULLUST_CHR_fiev: "Fiev"
- SULLUST_CHR_sien: "Sien"
- SULLUST_CHR_syub: "Syub"
- SULLUST_CHR_jem: "Jem"
- SULLUST_CHR_hev: "Hev"
- SULLUST_CHR_cunbus: "Cunbus"
- SULLUST_CHR_lopz: "Lopz"
- SULLUST_CHR_mi: "Mi"
- SULLUST_CHR_fon: "Fon"
- SULLUST_CHR_lu: "Lu"
- SULLUST_CHR_adic: "Adic"
- SULLUST_CHR_ma_thu: "Ma'thu"
- SULLUST_CHR_morla: "Morla"
- SULLUST_CHR_rostat: "Rostat"
- SULLUST_CHR_maslo_skaff: "Maslo-Skaff"
- SULLUST_CHR_mayjeln: "Mayjeln"
- SULLUST_CHR_menchi: "Menchi"
- SULLUST_CHR_mien: "Mien"
- SULLUST_CHR_miev: "Miev"
- SULLUST_CHR_minik: "Minik"
- SULLUST_CHR_innu: "Innu"
- SULLUST_CHR_mygg: "Mygg"
- SULLUST_CHR_mudmub: "Mudmub"
- SULLUST_CHR_neb: "Neb"
- SULLUST_CHR_fia: "Fia"
- SULLUST_CHR_ull: "Ull"
- SULLUST_CHR_muun: "Muun"
- SULLUST_CHR_miel: "Miel"
- SULLUST_CHR_myan: "Myan"
- SULLUST_CHR_eaba: "Eaba"
- SULLUST_CHR_bokk: "Bokk"
- SULLUST_CHR_syun: "Syun"
- SULLUST_CHR_naithol: "Naithol"
- SULLUST_CHR_mu: "Mu"
- SULLUST_CHR_jalus: "Jalus"
- SULLUST_CHR_nel: "Nel"
- SULLUST_CHR_nenasha: "Nenasha"
- SULLUST_CHR_nenneb: "Nenneb"
- SULLUST_CHR_dllr: "Dllr"
- SULLUST_CHR_nerub: "Nerub"
- SULLUST_CHR_anib: "Anib"
- SULLUST_CHR_illrian: "Illrian"
- SULLUST_CHR_mua: "Mua"
- SULLUST_CHR_kli_klu: "Kli-Klu"
- SULLUST_CHR_nik: "Nik"
- SULLUST_CHR_kelthizar: "Kelthizar"
- SULLUST_CHR_dua: "Dua"
- SULLUST_CHR_prem: "Prem"
- SULLUST_CHR_neen: "Neen"
- SULLUST_CHR_nom: "Nom"
- SULLUST_CHR_gnool: "Gnool"
- SULLUST_CHR_snem: "Snem"
- SULLUST_CHR_neic: "Neic"
- SULLUST_CHR_salld: "Salld"
- SULLUST_CHR_rutar: "Rutar"
- SULLUST_CHR_surat: "Surat"
- SULLUST_CHR_nib: "Nib"
- SULLUST_CHR_ten: "Ten"
- SULLUST_CHR_nien: "Nien"
- SULLUST_CHR_tae: "Tae"
- SULLUST_CHR_kash: "Kash"
- SULLUST_CHR_vir: "Vir"
- SULLUST_CHR_nurm: "Nurm"
- SULLUST_CHR_nae: "Nae"
- SULLUST_CHR_nyyv: "Nyyv"
- SULLUST_CHR_stoos: "Stoos"
- SULLUST_CHR_oro: "Oro"
- SULLUST_CHR_peller: "Peller"
- SULLUST_CHR_palo: "Palo"
- SULLUST_CHR_dil: "Dil"
- SULLUST_CHR_quiv: "Quiv"
- SULLUST_CHR_riin: "Riin"
- SULLUST_CHR_rabb: "Rabb"
- SULLUST_CHR_rai_kalei: "Rai-Kalei"
- SULLUST_CHR_nemdon: "Nemdon"
- SULLUST_CHR_rian: "Rian"
- SULLUST_CHR_raspar: "Raspar"
- SULLUST_CHR_remy: "Remy"
- SULLUST_CHR_resh: "Resh"
- SULLUST_CHR_riun: "Riun"
- SULLUST_CHR_gaber: "Gaber"
- SULLUST_CHR_keal: "Keal"
- SULLUST_CHR_brant: "Brant"
- SULLUST_CHR_noren: "Noren"
- SULLUST_CHR_kanno: "Kanno"
- SULLUST_CHR_seluss: "Seluss"
- SULLUST_CHR_sullub: "Sullub"
- SULLUST_CHR_mer: "Mer"
- SULLUST_CHR_sevv: "Sevv"
- SULLUST_CHR_suuas: "Suuas"
- SULLUST_CHR_dien: "Dien"
- SULLUST_CHR_imik: "Imik"
- SULLUST_CHR_babalabbet: "Babalabbet"
- SULLUST_CHR_siene: "Siene"
- SULLUST_CHR_t_laerean: "T'laerean"
- SULLUST_CHR_talo: "Talo"
- SULLUST_CHR_gaor: "Gaor"
- SULLUST_CHR_byun: "Byun"
- SULLUST_CHR_gub: "Gub"
- SULLUST_CHR_tivvy: "Tivvy"
- SULLUST_CHR_burellion: "Burellion"
- SULLUST_CHR_tia: "Tia"
- SULLUST_CHR_tot: "Tot"
- SULLUST_CHR_tret: "Tret"
- SULLUST_CHR_liat: "Liat"
- SULLUST_CHR_tien: "Tien"
- SULLUST_CHR_mub: "Mub"
- SULLUST_CHR_dr_uun: "Dr'uun"
- SULLUST_CHR_lytos: "Lytos"
- SULLUST_CHR_usser: "Usser"
- SULLUST_CHR_uttak: "Uttak"
- SULLUST_CHR_vanb: "Vanb"
- SULLUST_CHR_tegan: "Tegan"
- SULLUST_CHR_jub: "Jub"
- SULLUST_CHR_jerwo: "Jerwo"
- SULLUST_CHR_viv: "Viv"
- SULLUST_CHR_synred: "Synred"
- SULLUST_CHR_voos: "Voos"
- SULLUST_CHR_gorrak: "Gorrak"
- SULLUST_CHR_luewet: "Luewet"
- SULLUST_CHR_yalor: "Yalor"
- SULLUST_CHR_yeel: "Yeel"
- SULLUST_CHR_jaius: "Jaius"
- SULLUST_CHR_su_ock: "Su'ock"
- SULLUST_CHR_yuul: "Yuul"
- SULLUST_CHR_zueb: "Zueb"
- SULLUST_CHR_zaun: "Zaun"
- SULLUST_CHR_dawn: "Dawn"
- SULLUST_CHR_atin: "Atin"
- SULLUST_CHR_bernil: "Bernil"
- SULLUST_CHR_zenn: "Zenn"
- SULLUST_CHR_cheese: "Cheese"
- SULLUST_CHR_nooni: "Nooni"
- SULLUST_CHR_nofre: "Nofre"
- SULLUST_CHR_fiav: "Fiav"
- SULLUST_CHR_freema: "Freema"
- SULLUST_CHR_fan: "Fan"
- SULLUST_CHR_bolabo: "Bolabo"
- SULLUST_CHR_janna: "Janna"
- SULLUST_CHR_kalien: "Kalien"
- SULLUST_CHR_aril: "Aril"
- SULLUST_CHR_leth: "Leth"
- SULLUST_CHR_lussatte: "Lussatte"
- SULLUST_CHR_osae: "Osae"
- SULLUST_CHR_malat: "Malat"
- SULLUST_CHR_eyar: "Eyar"
- SULLUST_CHR_hagrana: "Hagrana"
- SULLUST_CHR_lira: "Lira"
- SULLUST_CHR_zaluna: "Zaluna"
- SULLUST_CHR_huoba: "Huoba"
- SULLUST_CHR_merinda: "Merinda"
- SULLUST_CHR_numa: "Numa"
- SULLUST_CHR_tannor: "Tannor"
- SULLUST_CHR_gal: "Gal"
- SULLUST_CHR_naftrat: "Naftrat"
- SULLUST_CHR_pheeb: "Pheeb"
- SULLUST_CHR_nuutu: "Nuutu"
- SULLUST_CHR_rani: "Rani"
- SULLUST_CHR_rilly: "Rilly"
- SULLUST_CHR_raenyn: "Raenyn"
- SULLUST_CHR_jee: "Jee"
- SULLUST_CHR_jilaa: "Jilaa"
- SULLUST_CHR_kiara: "Kiara"
- SULLUST_CHR_kyun: "Kyun"
- SULLUST_CHR_sulahb: "Sulahb"
- SULLUST_CHR_elora: "Elora"
- SULLUST_CHR_sevron: "Sevron"
- SULLUST_CHR_tebari: "Tebari"
- SULLUST_CHR_chay: "Chay"
- SULLUST_CHR_tan: "Tan"
- SULLUST_CHR_tiron: "Tiron"
- SULLUST_CHR_din: "Din"
- SULLUST_CHR_lien: "Lien"
- SULLUST_CHR_twingo: "Twingo"
- SULLUST_CHR_ullumub: "Ullumub"
- SULLUST_CHR_vhob: "Vhob"
- SULLUST_CHR_ahntanda: "Ahntanda"
- SULLUST_CHR_ar_lensa: "Ar'Lensa"
- SULLUST_CHR_arkanian: "Arkanian"
- SULLUST_CHR_artis: "Artis"
- SULLUST_CHR_astar: "Astar"
- SULLUST_CHR_attan: "Attan"
- SULLUST_CHR_bador: "Bador"
- SULLUST_CHR_bagy: "Bagy"
- SULLUST_CHR_bdu: "Bdu"
- SULLUST_CHR_bibbbi: "Bibbbi"
- SULLUST_CHR_bien: "Bien"
- SULLUST_CHR_blank: "Blank"
- SULLUST_CHR_bregaani: "Bregaani"
- SULLUST_CHR_bribbs: "Bribbs"
- SULLUST_CHR_broan: "Broan"
- SULLUST_CHR_brupt: "Brupt"
- SULLUST_CHR_bryl: "Bryl"
- SULLUST_CHR_bung: "Bung"
- SULLUST_CHR_corvii: "Corvii"
- SULLUST_CHR_dalvo: "Dalvo"
- SULLUST_CHR_dengd: "Dengd"
- SULLUST_CHR_dool: "Dool"
- SULLUST_CHR_dulz: "Dulz"
- SULLUST_CHR_duin: "Duin"
- SULLUST_CHR_dhur: "Dhur"
- SULLUST_CHR_dwaller: "Dwaller"
- SULLUST_CHR_ecls: "Ecls"
- SULLUST_CHR_eib: "Eib"
- SULLUST_CHR_evin: "Evin"
- SULLUST_CHR_evnul: "Evnul"
- SULLUST_CHR_fenn: "Fenn"
- SULLUST_CHR_fenoob: "Fenoob"
- SULLUST_CHR_frue: "Frue"
- SULLUST_CHR_fugar: "Fugar"
- SULLUST_CHR_gantree: "Gantree"
- SULLUST_CHR_garbos: "Garbos"
- SULLUST_CHR_gastin: "Gastin"
- SULLUST_CHR_gher: "Gher"
- SULLUST_CHR_nibbet: "Nibbet"
- SULLUST_CHR_goluum: "Goluum"
- SULLUST_CHR_gost: "Gost"
- SULLUST_CHR_grimes: "Grimes"
- SULLUST_CHR_gundeeb: "Gundeeb"
- SULLUST_CHR_hoob: "Hoob"
- SULLUST_CHR_hujaan: "Hujaan"
- SULLUST_CHR_jakkak: "Jakkak"
- SULLUST_CHR_janajana: "Janajana"
- SULLUST_CHR_jaros: "Jaros"
- SULLUST_CHR_jarron: "Jarron"
- SULLUST_CHR_jaub: "Jaub"
- SULLUST_CHR_jin: "Jin"
- SULLUST_CHR_juun: "Juun"
- SULLUST_CHR_kol: "Kol"
- SULLUST_CHR_kee_choap: "Kee'choap"
- SULLUST_CHR_kevv: "Kevv"
- SULLUST_CHR_kian: "Kian"
- SULLUST_CHR_klyp: "Klyp"
- SULLUST_CHR_kyak: "Kyak"
- SULLUST_CHR_lavar: "Lavar"
- SULLUST_CHR_liav: "Liav"
- SULLUST_CHR_lissona: "Lissona"
- SULLUST_CHR_locb: "Locb"
- SULLUST_CHR_ma_an: "Ma'an"
- SULLUST_CHR_maalet: "Maalet"
- SULLUST_CHR_meilea: "Meilea"
- SULLUST_CHR_manr: "Manr"
- SULLUST_CHR_marath: "Marath"
- SULLUST_CHR_memuna: "Memuna"
- SULLUST_CHR_mimb: "Mimb"
- SULLUST_CHR_mond: "Mond"
- SULLUST_CHR_morb: "Morb"
- SULLUST_CHR_munb: "Munb"
- SULLUST_CHR_mund: "Mund"
- SULLUST_CHR_murub: "Murub"
- SULLUST_CHR_muwn: "Muwn"
- SULLUST_CHR_n_wan: "N'Wan"
- SULLUST_CHR_naarg: "Naarg"
- SULLUST_CHR_nagguth: "Nagguth"
- SULLUST_CHR_nanb: "Nanb"
- SULLUST_CHR_nebl: "Nebl"
- SULLUST_CHR_frel: "Frel"
- SULLUST_CHR_nep: "Nep"
- SULLUST_CHR_nebb: "Nebb"
- SULLUST_CHR_neva: "Neva"
- SULLUST_CHR_ney: "Ney"
- SULLUST_CHR_nhagy: "Nhagy"
- SULLUST_CHR_niab: "Niab"
- SULLUST_CHR_niemeh: "Niemeh"
- SULLUST_CHR_niib: "Niib"
- SULLUST_CHR_nimm: "Nimm"
- SULLUST_CHR_ningo: "Ningo"
- SULLUST_CHR_nistt: "Nistt"
- SULLUST_CHR_niuv: "Niuv"
- SULLUST_CHR_lumb: "Lumb"
- SULLUST_CHR_noob: "Noob"
- SULLUST_CHR_noonb: "Noonb"
- SULLUST_CHR_norim: "Norim"
- SULLUST_CHR_nrump: "Nrump"
- SULLUST_CHR_nuat: "Nuat"
- SULLUST_CHR_nubbu: "Nubbu"
- SULLUST_CHR_numb: "Numb"
- SULLUST_CHR_nunes: "Nunes"
- SULLUST_CHR_nurb: "Nurb"
- SULLUST_CHR_nuum: "Nuum"
- SULLUST_CHR_nuuv: "Nuuv"
- SULLUST_CHR_wei: "O'Wei"
- SULLUST_CHR_odarr: "Odarr"
- SULLUST_CHR_olko: "Olko"
- SULLUST_CHR_otel: "Otel"
- SULLUST_CHR_pevv: "Pevv"
- SULLUST_CHR_pexton: "Pexton"
- SULLUST_CHR_plunb: "Plunb"
- SULLUST_CHR_quanic: "Quanic"
- SULLUST_CHR_raadun: "Raadun"
- SULLUST_CHR_raas: "Raas"
- SULLUST_CHR_ralleck: "Ralleck"
- SULLUST_CHR_rann: "Rann"
- SULLUST_CHR_six: "Six"
- SULLUST_CHR_riev: "Riev"
- SULLUST_CHR_rollobad: "Rollobad"
- SULLUST_CHR_roscon: "Roscon"
- SULLUST_CHR_rumba: "Rumba"
- SULLUST_CHR_rumble: "Rumble"
- SULLUST_CHR_rurm: "Rurm"
- SULLUST_CHR_sallis: "Sallis"
- SULLUST_CHR_san: "San"
- SULLUST_CHR_schmong: "Schmong"
- SULLUST_CHR_sebak: "Sebak"
- SULLUST_CHR_snunb: "Snunb"
- SULLUST_CHR_soonin: "Soonin"
- SULLUST_CHR_sovv: "Sovv"
- SULLUST_CHR_stodiz: "Stodiz"
- SULLUST_CHR_sunb: "Sunb"
- SULLUST_CHR_sund: "Sund"
- SULLUST_CHR_suub: "Suub"
- SULLUST_CHR_suuliem: "Suuliem"
- SULLUST_CHR_suum: "Suum"
- SULLUST_CHR_swoont: "Swoont"
- SULLUST_CHR_symm: "Symm"
- SULLUST_CHR_larn: "Larn"
- SULLUST_CHR_ta: "Ta"
- SULLUST_CHR_tebbic: "Tebbic"
- SULLUST_CHR_tembon: "Tembon"
- SULLUST_CHR_tenab: "Tenab"
- SULLUST_CHR_tengo: "Tengo"
- SULLUST_CHR_til: "Til"
- SULLUST_CHR_tinray: "Tinray"
- SULLUST_CHR_tiy: "Tiy"
- SULLUST_CHR_toob: "Toob"
- SULLUST_CHR_toon: "Toon"
- SULLUST_CHR_tsayv: "Tsayv"
- SULLUST_CHR_tubb: "Tubb"
- SULLUST_CHR_tyeb: "Tyeb"
- SULLUST_CHR_unnh: "Unnh"
- SULLUST_CHR_urtell: "Urtell"
- SULLUST_CHR_varss: "Varss"
- SULLUST_CHR_vegnu: "Vegnu"
- SULLUST_CHR_vols: "Vols"
- SULLUST_CHR_wallub: "Wallub"
- SULLUST_CHR_wiles: "Wiles"
- SULLUST_CHR_wuul: "Wuul"
- SULLUST_CHR_yorub: "Yorub"
- SULLUST_CHR_ytam: "Ytam"
- SULLUST_CHR_zan: "Zan"
- SULLUST_CHR_buruun: "Buruun"
- SULLUST_CHR_boto: "Boto"
- SULLUST_CHR_niuk: "Niuk"
- SULLUST_CHR_verga: "Verga"
- SULLUST_CHR_siin: "Siin"
- SULLUST_CHR_sian: "Sian"
- SULLUST_CHR_miim: "Miim"
- SULLUST_CHR_vernuss: "Vernuss"
- SULLUST_CHR_tyanna: "Tyanna"
- SULLUST_CHR_myder: "Myder"
- SULLUST_CHR_nus: "Nus"
- SULLUST_CHR_squnn: "Squnn"
- SULLUST_CHR_te_suub: "Te'Suub"
- SULLUST_CHR_tevv: "Tevv"
- SULLUST_CHR_tymb: "Tymb"
- SULLUST_CHR_del_ibn_garl: "del ibn Garl"
+  SULLUST_incisor: "Резец" #NT!
+  SULLUST_sidestep: "Обход" #NT!
+  SULLUST_undaunted: "Неустрашимый" #NT!
+  SULLUST_venture: "Предприятие" #NT!
+  SULLUST_versatile: "Разносторонний" #NT!
+  SULLUST_vigorous: "Энергичный" #NT!
+  SULLUST_allegiance: "Верноподданство" #NT!
+  SULLUST_challenger: "Претендент" #NT!
+  SULLUST_fearless: "Безбоязненный" #NT!
+  SULLUST_protector: "Покровитель" #NT!
+  SULLUST_guardian: "Страж" #NT!
+  SULLUST_victorious: "Победоносный" #NT!
+  SULLUST_courageous: "Мужественный" #NT!
+  SULLUST_defiance: "Неповиновение" #NT!
+  SULLUST_valorous: "Самоотверженный" #NT!
+  SULLUST_whirlwind: "Вихрь" #NT!
+  SULLUST_vigilance: "Бдительность" #NT!
+  SULLUST_decimator: "Дециматор" #NT!
+  SULLUST_indomitable: "Непокоримый" #NT!
+  SULLUST_goliath: "Голиаф" #NT!
+  SULLUST_sentinel: "Дозорный" #NT!
+  SULLUST_brilliant: "Блестящий" #NT!
+  SULLUST_blazer: "Блейзер" #NT!
+  SULLUST_audacity: "Дерзость" #NT!
+  SULLUST_gallant: "Галантный" #NT!
+  SULLUST_nova: "Нова" #NT!
+  SULLUST_shadow: "Тень" #NT!
+  SULLUST_spirit_of_sorosuub: "Дух «СороСууб»" #NT!
+  SULLUST_independence: "Независимость" #NT!
+  SULLUST_sovereign: "Суверен" #NT!
+  SULLUST_cutlass: "Кортик" #NT!
+  SULLUST_vigilant: "Бдительный" #NT!
+  SULLUST_sentry: "Часовой" #NT!
+  SULLUST_custode: "Кустоде" #NT!
+  SULLUST_monitor: "Монитор" #NT!
+  SULLUST_defender: "Защитник" #NT!
+  SULLUST_lillibanca: "Лиллибанка" #NT!
+  SULLUST_bloodstripe: "Кровавый след" #NT!
+  SULLUST_determination: "Решимость" #NT!
+  SULLUST_fire_of_eruption: "Огонь извержения" #NT!
+  SULLUST_bond_of_talus: "Связь Талуса" #NT!
+  SULLUST_tralus_resplendent: "Тралус Блистательный" #NT!
+  SULLUST_SULLUST_queen: "Королева Салластана" #NT!
+  SULLUST_glory_of_sullust: "Слава Салласта" #NT!
+  SULLUST_lantern: "Фонарь" #NT!
+  SULLUST_razorcat: "Бритвокот" #NT!
+  SULLUST_stockade: "Частокол" #NT!
+  SULLUST_rampart: "Вал" #NT!
+  SULLUST_loyal: "Верный" #NT!
+  SULLUST_invincible: "Неукротимый" #NT!
+  SULLUST_spearhead: "Острие" #NT!
+  SULLUST_impeccable: "Безупречный" #NT!
+  SULLUST_pathfinder: "Следопыт" #NT!
+  SULLUST_red_cloud: "Красное облако" #NT!
+  SULLUST_arko: "Арко" #NT!
+  SULLUST_defiant: "Дерзновенный" #NT!
+  SULLUST_valiant: "Xрабрец" #NT!
+  SULLUST_antares: "Антарес" #NT!
+  SULLUST_resolute: "Решительный" #NT!
+  SULLUST_beckoner: "Манящий" #NT!
+  SULLUST_steadfast: "Твердокаменный" #NT!
+  SULLUST_stardust: "Звёздная пыль" #NT!
+  SULLUST_insurrection: "Восстание" #NT!
+  SULLUST_peregrine: "Сапсан" #NT!
+  SULLUST_sivulliq: "Сивуллик" #NT!
+  SULLUST_spysprite: "Спайсприт" #NT!
+  SULLUST_hush: "Тишина" #NT!
+  SULLUST_contrib_sponsor: "Содействующий спонсор" #NT!
+  SULLUST_sponsorship: "Спонсорство" #NT!
+  SULLUST_petite_opu: "Маленькая Опу" #NT!
+  SULLUST_courier: "Курьер" #NT!
+  SULLUST_quasar: "Квазар" #NT!
+  SULLUST_sullumun: "Салламан" #NT!
+  SULLUST_lununmo: "Лананмо" #NT!
+  SULLUST_sululluub: "Сулуллууб" #NT!
+  SULLUST_sulon: "Сулон" #NT!
+  SULLUST_umnub: "Умнуб" #NT!
+  SULLUST_mumunubb: "Мунумабб" #NT!
+  SULLUST_small_eyes: "Маленькие глаза" #NT!
+  SULLUST_shorty: "Короткий" #NT!
+  SULLUST_inyusu_tor: "Иньюзу-Тор" #NT!
+  SULLUST_mayjein_eruption: "Извержение Мэйджейна" #NT!
+  SULLUST_ash_angel: "Пепельный ангел" #NT!
+  SULLUST_rockrender: "Рокрендер" #NT!
+  SULLUST_ash_rabbit: "Пепельный кролик" #NT!
+  SULLUST_magma: "Магма" #NT!
+  SULLUST_incenerator: "Инсинератор" #NT!
+  SULLUST_magma_spike: "Магмовый шип" #NT!
+  SULLUST_fireball: "Огненный шар" #NT!
+  SULLUST_firebolt: "Огненная стрела" #NT!
+  SULLUST_forge: "Кузня" #NT!
+  SULLUST_anvil: "Наковальня" #NT!
+  SULLUST_vibroblade: "Виброклинок" #NT!
+  SULLUST_pyroclastic_flow: "Пирокластический поток" #NT!
+  SULLUST_immolation: "Опаление" #NT!
+  SULLUST_exogorth: "Экзогорт" #NT!
+  SULLUST_purrgil: "Пёрргил" #NT!
+  SULLUST_neebray: "Нибрай" #NT!
+  SULLUST_mynock: "Майнок" #NT!
+  SULLUST_barri: "Барри" #NT!
+  SULLUST_gralloc: "Граллок" #NT!
+  SULLUST_grutchin: "Гратчин" #NT!
+  SULLUST_oswaft: "Освафт" #NT!
+  SULLUST_ridadi: "Ридади" #NT!
+  SULLUST_scree: "Скри" #NT!
+  SULLUST_space_grazer: "Космический пожиратель" #NT!
+  SULLUST_stillsail: "Плавучий парус" #NT!
+  SULLUST_fabricator_aurek: "Фабрикатор «Аурек»" #NT!
+  SULLUST_fabricator_besh: "Фабрикатор «Беш»" #NT!
+  SULLUST_fabricator_cresh: "Фабрикатор «Креш»" #NT!
+  SULLUST_fabricator_dorn: "Фабрикатор «Дорн»" #NT!
+  SULLUST_fabricator_forn: "Фабрикатор «Форн»" #NT!
+  SULLUST_fabricator_grek: "Фабрикатор «Грек»" #NT!
+  SULLUST_fabricator_herf: "Фабрикатор «Грек»" #NT!
+  SULLUST_fabricator_isk: "Фабрикатор «Иск»" #NT!
+  SULLUST_fabricator_jenth: "Фабрикатор «Джент»" #NT!
+  SULLUST_fabricator_krill: "Фабрикатор «Крилл»" #NT!
+  SULLUST_fabricator_leth: "Фабрикатор «Лет»" #NT!
+  SULLUST_fabricator_mern: "Фабрикатор «Мерн»" #NT!
+  SULLUST_fabricator_nern: "Фабрикатор «Нерн»" #NT!
+  SULLUST_fabricator_osk: "Фабрикатор «Оск»" #NT!
+  SULLUST_fabricator_peth: "Фабрикатор «Пет»" #NT!
+  SULLUST_fabricator_senth: "Фабрикатор «Сент»" #NT!
+  SULLUST_fabricator_trill: "Фабрикатор «Трилл»" #NT!
+  SULLUST_fabricator_usk: "Фабрикатор «Уск»" #NT!
+  SULLUST_fabricator_vev: "Фабрикатор «Вев»" #NT!
+  SULLUST_fabricator_wesk: "Фабрикатор «Уэск»" #NT!
+  SULLUST_fabricator_xesh: "Фабрикатор «Зеш»" #NT!
+  SULLUST_fabricator_yirt: "Фабрикатор «Йирт»" #NT!
+  SULLUST_fabricator_zerek: "Фабрикатор «Зерек»" #NT!
+  SULLUST_fabricator_cherek: "Фабрикатор «Черек»" #NT!
+  SULLUST_fabricator_qek: "Фабрикатор «Кек»" #NT!
+  SULLUST_fabricator_resh: "Фабрикатор «Реш»" #NT!
+  SULLUST_fabricator_enth: "Фабрикатор «Энт»" #NT!
+  SULLUST_fabricator_onith: "Фабрикатор «Онит»" #NT!
+  SULLUST_fabricator_krenth: "Фабрикатор «Крент»" #NT!
+  SULLUST_fabricator_nen: "Фабрикатор «Нен»" #NT!
+  SULLUST_fabricator_orenth: "Фабрикатор «Орент»" #NT!
+  SULLUST_fabricator_shen: "Фабрикатор «Шен»" #NT!
+  SULLUST_fabricator_thesh: "Фабрикатор «Теш»" #NT!
+  SULLUST_lander: "Носитель" #NT!
+  SULLUST_FLEET_brema_sector_defender: "Защитник сектора Брема" #NT!
+  SULLUST_FLEET_pride_of_pinyumb: "Гордость Пиньямба" #NT!
+  SULLUST_FLEET_sorosuub_acquisitons: "Приобретения корпорации «СороСууб»" #NT!
+  SULLUST_FLEET_rimma_protector: "Защитник Риммы" #NT!
+  SULLUST_FLEET_SULLUST_home_guard: "Домашняя гвардия Салластана" #NT!
+  SULLUST_FLEET_silvestri_defender: "Защитник Сильвестри" #NT!
+  SULLUST_FLEET_SEQUENTIAL_sorosuub_fleet: "$ORD$ SoroSuub Fleet" #NT!
+  SULLUST_ARMY_SEQUENTIAL_droid_guard: "$ORD$ Droid Guard" #NT!
+  SULLUST_ARMY_SEQUENTIAL_battle_droids: "$ORD$ Battle Droids" #NT!
+  SULLUST_ARMY_SEQUENTIAL_home_guard_guard: "$ORD$ Home Guard Guard" #NT!
+  SULLUST_ARMY_SEQUENTIAL_assault_infantry: "$ORD$ Assault Infantry" #NT!
+  SULLUST_ARMY_SEQUENTIAL_loyal_customers: "$ORD$ Loyal Customers" #NT!
+  SULLUST_ARMY_SEQUENTIAL_strandcasts: "$ORD$ Strandcasts" #NT!
+  SULLUST_ARMY_SEQUENTIAL_dread_troops: "$ORD$ Dread Troops" #NT!
+  SULLUST_ARMY_SEQUENTIAL_droid_army: "$ORD$ Droid Army" #NT!
+  SULLUST_ARMY_SEQUENTIAL_droid_garrison: "$ORD$ Droid Garrison" #NT!
+  SULLUST_ARMY_SEQUENTIAL_war_minds: "$ORD$ War Minds" #NT!
+  SULLUST_ARMY_SEQUENTIAL_lobstrocities: "$ORD$ Lobstrocities" #NT!
+  SULLUST_ARMY_SEQUENTIAL_manipulated_troops: "$ORD$ Manipulated Troops" #NT!
+  SULLUST_ARMY_SEQUENTIAL_sorosuub_occupiers: "$ORD$ SoroSuub Occupiers" #NT!
+  SULLUST_ARMY_SEQUENTIAL_mechanica_occupiers: "$ORD$ Mechanica Occupiers" #NT!
+  SULLUST_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  SULLUST_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  SULLUST_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  SULLUST_CHR_aubro: "Aubro" #NT!
+  SULLUST_CHR_akkere: "Akkere" #NT!
+  SULLUST_CHR_jowir: "Jowir" #NT!
+  SULLUST_CHR_darrin: "Darrin" #NT!
+  SULLUST_CHR_wyle: "Wyle" #NT!
+  SULLUST_CHR_eirt: "Eirt" #NT!
+  SULLUST_CHR_hondo: "Hondo" #NT!
+  SULLUST_CHR_dugo: "Dugo" #NT!
+  SULLUST_CHR_bashrar: "Bashrar" #NT!
+  SULLUST_CHR_t_nun: "T'nun" #NT!
+  SULLUST_CHR_benb: "Benb" #NT!
+  SULLUST_CHR_jander: "Jander" #NT!
+  SULLUST_CHR_birt: "Birt" #NT!
+  SULLUST_CHR_mell: "Mell" #NT!
+  SULLUST_CHR_blibbie: "Blibbie" #NT!
+  SULLUST_CHR_blut: "Blut" #NT!
+  SULLUST_CHR_borkus: "Borkus" #NT!
+  SULLUST_CHR_lam: "Lam" #NT!
+  SULLUST_CHR_beolars: "Beolars" #NT!
+  SULLUST_CHR_biyel: "Biyel" #NT!
+  SULLUST_CHR_habbala: "Habbala" #NT!
+  SULLUST_CHR_hiem: "Hiem" #NT!
+  SULLUST_CHR_bungo: "Bungo" #NT!
+  SULLUST_CHR_chiithii_n: "Chiithii'n" #NT!
+  SULLUST_CHR_viil: "Viil" #NT!
+  SULLUST_CHR_dalgeer: "Dalgeer" #NT!
+  SULLUST_CHR_miot: "Miot" #NT!
+  SULLUST_CHR_devit: "Devit" #NT!
+  SULLUST_CHR_den: "Den" #NT!
+  SULLUST_CHR_belson: "Belson" #NT!
+  SULLUST_CHR_duago: "Duago" #NT!
+  SULLUST_CHR_diab: "Diab" #NT!
+  SULLUST_CHR_farren: "Farren" #NT!
+  SULLUST_CHR_beem: "Beem" #NT!
+  SULLUST_CHR_loro: "Loro" #NT!
+  SULLUST_CHR_qulo: "Qulo" #NT!
+  SULLUST_CHR_huegu: "Huegu" #NT!
+  SULLUST_CHR_elihsu: "Elihsu" #NT!
+  SULLUST_CHR_extok: "Extok" #NT!
+  SULLUST_CHR_fekk: "Fekk" #NT!
+  SULLUST_CHR_feen: "Feen" #NT!
+  SULLUST_CHR_fritz: "Fritz" #NT!
+  SULLUST_CHR_polien: "Polien" #NT!
+  SULLUST_CHR_barlin: "Barlin" #NT!
+  SULLUST_CHR_futor: "Futor" #NT!
+  SULLUST_CHR_gadux: "Gadux" #NT!
+  SULLUST_CHR_neebuk: "Neebuk" #NT!
+  SULLUST_CHR_garek: "Garek" #NT!
+  SULLUST_CHR_garron: "Garron" #NT!
+  SULLUST_CHR_garthe: "Garthe" #NT!
+  SULLUST_CHR_gary: "Gary" #NT!
+  SULLUST_CHR_jarad: "Jarad" #NT!
+  SULLUST_CHR_dwanar: "Dwanar" #NT!
+  SULLUST_CHR_gibs: "Gibs" #NT!
+  SULLUST_CHR_godt: "Godt" #NT!
+  SULLUST_CHR_grom: "Grom" #NT!
+  SULLUST_CHR_min: "Min" #NT!
+  SULLUST_CHR_chelsey: "Chelsey" #NT!
+  SULLUST_CHR_mowa: "Mowa" #NT!
+  SULLUST_CHR_guro: "Guro" #NT!
+  SULLUST_CHR_mian: "Mian" #NT!
+  SULLUST_CHR_james: "James" #NT!
+  SULLUST_CHR_nub: "Nub" #NT!
+  SULLUST_CHR_neeto: "Neeto" #NT!
+  SULLUST_CHR_magar: "Magar" #NT!
+  SULLUST_CHR_moplin: "Moplin" #NT!
+  SULLUST_CHR_niev: "Niev" #NT!
+  SULLUST_CHR_dero: "Dero" #NT!
+  SULLUST_CHR_yet: "Yet" #NT!
+  SULLUST_CHR_jubieck: "Jubieck" #NT!
+  SULLUST_CHR_julept: "Julept" #NT!
+  SULLUST_CHR_jae: "Jae" #NT!
+  SULLUST_CHR_xylan: "Xylan" #NT!
+  SULLUST_CHR_kenb: "Kenb" #NT!
+  SULLUST_CHR_kenpa: "Kenpa" #NT!
+  SULLUST_CHR_kala: "Kala" #NT!
+  SULLUST_CHR_kin: "Kin" #NT!
+  SULLUST_CHR_kkrax: "Kkrax" #NT!
+  SULLUST_CHR_kap: "Kap" #NT!
+  SULLUST_CHR_kollrin: "Kollrin" #NT!
+  SULLUST_CHR_fiev: "Fiev" #NT!
+  SULLUST_CHR_sien: "Sien" #NT!
+  SULLUST_CHR_syub: "Syub" #NT!
+  SULLUST_CHR_jem: "Jem" #NT!
+  SULLUST_CHR_hev: "Hev" #NT!
+  SULLUST_CHR_cunbus: "Cunbus" #NT!
+  SULLUST_CHR_lopz: "Lopz" #NT!
+  SULLUST_CHR_mi: "Mi" #NT!
+  SULLUST_CHR_fon: "Fon" #NT!
+  SULLUST_CHR_lu: "Lu" #NT!
+  SULLUST_CHR_adic: "Adic" #NT!
+  SULLUST_CHR_ma_thu: "Ma'thu" #NT!
+  SULLUST_CHR_morla: "Morla" #NT!
+  SULLUST_CHR_rostat: "Rostat" #NT!
+  SULLUST_CHR_maslo_skaff: "Maslo-Skaff" #NT!
+  SULLUST_CHR_mayjeln: "Mayjeln" #NT!
+  SULLUST_CHR_menchi: "Menchi" #NT!
+  SULLUST_CHR_mien: "Mien" #NT!
+  SULLUST_CHR_miev: "Miev" #NT!
+  SULLUST_CHR_minik: "Minik" #NT!
+  SULLUST_CHR_innu: "Innu" #NT!
+  SULLUST_CHR_mygg: "Mygg" #NT!
+  SULLUST_CHR_mudmub: "Mudmub" #NT!
+  SULLUST_CHR_neb: "Neb" #NT!
+  SULLUST_CHR_fia: "Fia" #NT!
+  SULLUST_CHR_ull: "Ull" #NT!
+  SULLUST_CHR_muun: "Muun" #NT!
+  SULLUST_CHR_miel: "Miel" #NT!
+  SULLUST_CHR_myan: "Myan" #NT!
+  SULLUST_CHR_eaba: "Eaba" #NT!
+  SULLUST_CHR_bokk: "Bokk" #NT!
+  SULLUST_CHR_syun: "Syun" #NT!
+  SULLUST_CHR_naithol: "Naithol" #NT!
+  SULLUST_CHR_mu: "Mu" #NT!
+  SULLUST_CHR_jalus: "Jalus" #NT!
+  SULLUST_CHR_nel: "Nel" #NT!
+  SULLUST_CHR_nenasha: "Nenasha" #NT!
+  SULLUST_CHR_nenneb: "Nenneb" #NT!
+  SULLUST_CHR_dllr: "Dllr" #NT!
+  SULLUST_CHR_nerub: "Nerub" #NT!
+  SULLUST_CHR_anib: "Anib" #NT!
+  SULLUST_CHR_illrian: "Illrian" #NT!
+  SULLUST_CHR_mua: "Mua" #NT!
+  SULLUST_CHR_kli_klu: "Kli-Klu" #NT!
+  SULLUST_CHR_nik: "Nik" #NT!
+  SULLUST_CHR_kelthizar: "Kelthizar" #NT!
+  SULLUST_CHR_dua: "Dua" #NT!
+  SULLUST_CHR_prem: "Prem" #NT!
+  SULLUST_CHR_neen: "Neen" #NT!
+  SULLUST_CHR_nom: "Nom" #NT!
+  SULLUST_CHR_gnool: "Gnool" #NT!
+  SULLUST_CHR_snem: "Snem" #NT!
+  SULLUST_CHR_neic: "Neic" #NT!
+  SULLUST_CHR_salld: "Salld" #NT!
+  SULLUST_CHR_rutar: "Rutar" #NT!
+  SULLUST_CHR_surat: "Surat" #NT!
+  SULLUST_CHR_nib: "Nib" #NT!
+  SULLUST_CHR_ten: "Ten" #NT!
+  SULLUST_CHR_nien: "Nien" #NT!
+  SULLUST_CHR_tae: "Tae" #NT!
+  SULLUST_CHR_kash: "Kash" #NT!
+  SULLUST_CHR_vir: "Vir" #NT!
+  SULLUST_CHR_nurm: "Nurm" #NT!
+  SULLUST_CHR_nae: "Nae" #NT!
+  SULLUST_CHR_nyyv: "Nyyv" #NT!
+  SULLUST_CHR_stoos: "Stoos" #NT!
+  SULLUST_CHR_oro: "Oro" #NT!
+  SULLUST_CHR_peller: "Peller" #NT!
+  SULLUST_CHR_palo: "Palo" #NT!
+  SULLUST_CHR_dil: "Dil" #NT!
+  SULLUST_CHR_quiv: "Quiv" #NT!
+  SULLUST_CHR_riin: "Riin" #NT!
+  SULLUST_CHR_rabb: "Rabb" #NT!
+  SULLUST_CHR_rai_kalei: "Rai-Kalei" #NT!
+  SULLUST_CHR_nemdon: "Nemdon" #NT!
+  SULLUST_CHR_rian: "Rian" #NT!
+  SULLUST_CHR_raspar: "Raspar" #NT!
+  SULLUST_CHR_remy: "Remy" #NT!
+  SULLUST_CHR_resh: "Resh" #NT!
+  SULLUST_CHR_riun: "Riun" #NT!
+  SULLUST_CHR_gaber: "Gaber" #NT!
+  SULLUST_CHR_keal: "Keal" #NT!
+  SULLUST_CHR_brant: "Brant" #NT!
+  SULLUST_CHR_noren: "Noren" #NT!
+  SULLUST_CHR_kanno: "Kanno" #NT!
+  SULLUST_CHR_seluss: "Seluss" #NT!
+  SULLUST_CHR_sullub: "Sullub" #NT!
+  SULLUST_CHR_mer: "Mer" #NT!
+  SULLUST_CHR_sevv: "Sevv" #NT!
+  SULLUST_CHR_suuas: "Suuas" #NT!
+  SULLUST_CHR_dien: "Dien" #NT!
+  SULLUST_CHR_imik: "Imik" #NT!
+  SULLUST_CHR_babalabbet: "Babalabbet" #NT!
+  SULLUST_CHR_siene: "Siene" #NT!
+  SULLUST_CHR_t_laerean: "T'laerean" #NT!
+  SULLUST_CHR_talo: "Talo" #NT!
+  SULLUST_CHR_gaor: "Gaor" #NT!
+  SULLUST_CHR_byun: "Byun" #NT!
+  SULLUST_CHR_gub: "Gub" #NT!
+  SULLUST_CHR_tivvy: "Tivvy" #NT!
+  SULLUST_CHR_burellion: "Burellion" #NT!
+  SULLUST_CHR_tia: "Tia" #NT!
+  SULLUST_CHR_tot: "Tot" #NT!
+  SULLUST_CHR_tret: "Tret" #NT!
+  SULLUST_CHR_liat: "Liat" #NT!
+  SULLUST_CHR_tien: "Tien" #NT!
+  SULLUST_CHR_mub: "Mub" #NT!
+  SULLUST_CHR_dr_uun: "Dr'uun" #NT!
+  SULLUST_CHR_lytos: "Lytos" #NT!
+  SULLUST_CHR_usser: "Usser" #NT!
+  SULLUST_CHR_uttak: "Uttak" #NT!
+  SULLUST_CHR_vanb: "Vanb" #NT!
+  SULLUST_CHR_tegan: "Tegan" #NT!
+  SULLUST_CHR_jub: "Jub" #NT!
+  SULLUST_CHR_jerwo: "Jerwo" #NT!
+  SULLUST_CHR_viv: "Viv" #NT!
+  SULLUST_CHR_synred: "Synred" #NT!
+  SULLUST_CHR_voos: "Voos" #NT!
+  SULLUST_CHR_gorrak: "Gorrak" #NT!
+  SULLUST_CHR_luewet: "Luewet" #NT!
+  SULLUST_CHR_yalor: "Yalor" #NT!
+  SULLUST_CHR_yeel: "Yeel" #NT!
+  SULLUST_CHR_jaius: "Jaius" #NT!
+  SULLUST_CHR_su_ock: "Su'ock" #NT!
+  SULLUST_CHR_yuul: "Yuul" #NT!
+  SULLUST_CHR_zueb: "Zueb" #NT!
+  SULLUST_CHR_zaun: "Zaun" #NT!
+  SULLUST_CHR_dawn: "Dawn" #NT!
+  SULLUST_CHR_atin: "Atin" #NT!
+  SULLUST_CHR_bernil: "Bernil" #NT!
+  SULLUST_CHR_zenn: "Zenn" #NT!
+  SULLUST_CHR_cheese: "Cheese" #NT!
+  SULLUST_CHR_nooni: "Nooni" #NT!
+  SULLUST_CHR_nofre: "Nofre" #NT!
+  SULLUST_CHR_fiav: "Fiav" #NT!
+  SULLUST_CHR_freema: "Freema" #NT!
+  SULLUST_CHR_fan: "Fan" #NT!
+  SULLUST_CHR_bolabo: "Bolabo" #NT!
+  SULLUST_CHR_janna: "Janna" #NT!
+  SULLUST_CHR_kalien: "Kalien" #NT!
+  SULLUST_CHR_aril: "Aril" #NT!
+  SULLUST_CHR_leth: "Leth" #NT!
+  SULLUST_CHR_lussatte: "Lussatte" #NT!
+  SULLUST_CHR_osae: "Osae" #NT!
+  SULLUST_CHR_malat: "Malat" #NT!
+  SULLUST_CHR_eyar: "Eyar" #NT!
+  SULLUST_CHR_hagrana: "Hagrana" #NT!
+  SULLUST_CHR_lira: "Lira" #NT!
+  SULLUST_CHR_zaluna: "Zaluna" #NT!
+  SULLUST_CHR_huoba: "Huoba" #NT!
+  SULLUST_CHR_merinda: "Merinda" #NT!
+  SULLUST_CHR_numa: "Numa" #NT!
+  SULLUST_CHR_tannor: "Tannor" #NT!
+  SULLUST_CHR_gal: "Gal" #NT!
+  SULLUST_CHR_naftrat: "Naftrat" #NT!
+  SULLUST_CHR_pheeb: "Pheeb" #NT!
+  SULLUST_CHR_nuutu: "Nuutu" #NT!
+  SULLUST_CHR_rani: "Rani" #NT!
+  SULLUST_CHR_rilly: "Rilly" #NT!
+  SULLUST_CHR_raenyn: "Raenyn" #NT!
+  SULLUST_CHR_jee: "Jee" #NT!
+  SULLUST_CHR_jilaa: "Jilaa" #NT!
+  SULLUST_CHR_kiara: "Kiara" #NT!
+  SULLUST_CHR_kyun: "Kyun" #NT!
+  SULLUST_CHR_sulahb: "Sulahb" #NT!
+  SULLUST_CHR_elora: "Elora" #NT!
+  SULLUST_CHR_sevron: "Sevron" #NT!
+  SULLUST_CHR_tebari: "Tebari" #NT!
+  SULLUST_CHR_chay: "Chay" #NT!
+  SULLUST_CHR_tan: "Tan" #NT!
+  SULLUST_CHR_tiron: "Tiron" #NT!
+  SULLUST_CHR_din: "Din" #NT!
+  SULLUST_CHR_lien: "Lien" #NT!
+  SULLUST_CHR_twingo: "Twingo" #NT!
+  SULLUST_CHR_ullumub: "Ullumub" #NT!
+  SULLUST_CHR_vhob: "Vhob" #NT!
+  SULLUST_CHR_ahntanda: "Ahntanda" #NT!
+  SULLUST_CHR_ar_lensa: "Ar'Lensa" #NT!
+  SULLUST_CHR_arkanian: "Arkanian" #NT!
+  SULLUST_CHR_artis: "Artis" #NT!
+  SULLUST_CHR_astar: "Astar" #NT!
+  SULLUST_CHR_attan: "Attan" #NT!
+  SULLUST_CHR_bador: "Bador" #NT!
+  SULLUST_CHR_bagy: "Bagy" #NT!
+  SULLUST_CHR_bdu: "Bdu" #NT!
+  SULLUST_CHR_bibbbi: "Bibbbi" #NT!
+  SULLUST_CHR_bien: "Bien" #NT!
+  SULLUST_CHR_blank: "Blank" #NT!
+  SULLUST_CHR_bregaani: "Bregaani" #NT!
+  SULLUST_CHR_bribbs: "Bribbs" #NT!
+  SULLUST_CHR_broan: "Broan" #NT!
+  SULLUST_CHR_brupt: "Brupt" #NT!
+  SULLUST_CHR_bryl: "Bryl" #NT!
+  SULLUST_CHR_bung: "Bung" #NT!
+  SULLUST_CHR_corvii: "Corvii" #NT!
+  SULLUST_CHR_dalvo: "Dalvo" #NT!
+  SULLUST_CHR_dengd: "Dengd" #NT!
+  SULLUST_CHR_dool: "Dool" #NT!
+  SULLUST_CHR_dulz: "Dulz" #NT!
+  SULLUST_CHR_duin: "Duin" #NT!
+  SULLUST_CHR_dhur: "Dhur" #NT!
+  SULLUST_CHR_dwaller: "Dwaller" #NT!
+  SULLUST_CHR_ecls: "Ecls" #NT!
+  SULLUST_CHR_eib: "Eib" #NT!
+  SULLUST_CHR_evin: "Evin" #NT!
+  SULLUST_CHR_evnul: "Evnul" #NT!
+  SULLUST_CHR_fenn: "Fenn" #NT!
+  SULLUST_CHR_fenoob: "Fenoob" #NT!
+  SULLUST_CHR_frue: "Frue" #NT!
+  SULLUST_CHR_fugar: "Fugar" #NT!
+  SULLUST_CHR_gantree: "Gantree" #NT!
+  SULLUST_CHR_garbos: "Garbos" #NT!
+  SULLUST_CHR_gastin: "Gastin" #NT!
+  SULLUST_CHR_gher: "Gher" #NT!
+  SULLUST_CHR_nibbet: "Nibbet" #NT!
+  SULLUST_CHR_goluum: "Goluum" #NT!
+  SULLUST_CHR_gost: "Gost" #NT!
+  SULLUST_CHR_grimes: "Grimes" #NT!
+  SULLUST_CHR_gundeeb: "Gundeeb" #NT!
+  SULLUST_CHR_hoob: "Hoob" #NT!
+  SULLUST_CHR_hujaan: "Hujaan" #NT!
+  SULLUST_CHR_jakkak: "Jakkak" #NT!
+  SULLUST_CHR_janajana: "Janajana" #NT!
+  SULLUST_CHR_jaros: "Jaros" #NT!
+  SULLUST_CHR_jarron: "Jarron" #NT!
+  SULLUST_CHR_jaub: "Jaub" #NT!
+  SULLUST_CHR_jin: "Jin" #NT!
+  SULLUST_CHR_juun: "Juun" #NT!
+  SULLUST_CHR_kol: "Kol" #NT!
+  SULLUST_CHR_kee_choap: "Kee'choap" #NT!
+  SULLUST_CHR_kevv: "Kevv" #NT!
+  SULLUST_CHR_kian: "Kian" #NT!
+  SULLUST_CHR_klyp: "Klyp" #NT!
+  SULLUST_CHR_kyak: "Kyak" #NT!
+  SULLUST_CHR_lavar: "Lavar" #NT!
+  SULLUST_CHR_liav: "Liav" #NT!
+  SULLUST_CHR_lissona: "Lissona" #NT!
+  SULLUST_CHR_locb: "Locb" #NT!
+  SULLUST_CHR_ma_an: "Ma'an" #NT!
+  SULLUST_CHR_maalet: "Maalet" #NT!
+  SULLUST_CHR_meilea: "Meilea" #NT!
+  SULLUST_CHR_manr: "Manr" #NT!
+  SULLUST_CHR_marath: "Marath" #NT!
+  SULLUST_CHR_memuna: "Memuna" #NT!
+  SULLUST_CHR_mimb: "Mimb" #NT!
+  SULLUST_CHR_mond: "Mond" #NT!
+  SULLUST_CHR_morb: "Morb" #NT!
+  SULLUST_CHR_munb: "Munb" #NT!
+  SULLUST_CHR_mund: "Mund" #NT!
+  SULLUST_CHR_murub: "Murub" #NT!
+  SULLUST_CHR_muwn: "Muwn" #NT!
+  SULLUST_CHR_n_wan: "N'Wan" #NT!
+  SULLUST_CHR_naarg: "Naarg" #NT!
+  SULLUST_CHR_nagguth: "Nagguth" #NT!
+  SULLUST_CHR_nanb: "Nanb" #NT!
+  SULLUST_CHR_nebl: "Nebl" #NT!
+  SULLUST_CHR_frel: "Frel" #NT!
+  SULLUST_CHR_nep: "Nep" #NT!
+  SULLUST_CHR_nebb: "Nebb" #NT!
+  SULLUST_CHR_neva: "Neva" #NT!
+  SULLUST_CHR_ney: "Ney" #NT!
+  SULLUST_CHR_nhagy: "Nhagy" #NT!
+  SULLUST_CHR_niab: "Niab" #NT!
+  SULLUST_CHR_niemeh: "Niemeh" #NT!
+  SULLUST_CHR_niib: "Niib" #NT!
+  SULLUST_CHR_nimm: "Nimm" #NT!
+  SULLUST_CHR_ningo: "Ningo" #NT!
+  SULLUST_CHR_nistt: "Nistt" #NT!
+  SULLUST_CHR_niuv: "Niuv" #NT!
+  SULLUST_CHR_lumb: "Lumb" #NT!
+  SULLUST_CHR_noob: "Noob" #NT!
+  SULLUST_CHR_noonb: "Noonb" #NT!
+  SULLUST_CHR_norim: "Norim" #NT!
+  SULLUST_CHR_nrump: "Nrump" #NT!
+  SULLUST_CHR_nuat: "Nuat" #NT!
+  SULLUST_CHR_nubbu: "Nubbu" #NT!
+  SULLUST_CHR_numb: "Numb" #NT!
+  SULLUST_CHR_nunes: "Nunes" #NT!
+  SULLUST_CHR_nurb: "Nurb" #NT!
+  SULLUST_CHR_nuum: "Nuum" #NT!
+  SULLUST_CHR_nuuv: "Nuuv" #NT!
+  SULLUST_CHR_wei: "O'Wei" #NT!
+  SULLUST_CHR_odarr: "Odarr" #NT!
+  SULLUST_CHR_olko: "Olko" #NT!
+  SULLUST_CHR_otel: "Otel" #NT!
+  SULLUST_CHR_pevv: "Pevv" #NT!
+  SULLUST_CHR_pexton: "Pexton" #NT!
+  SULLUST_CHR_plunb: "Plunb" #NT!
+  SULLUST_CHR_quanic: "Quanic" #NT!
+  SULLUST_CHR_raadun: "Raadun" #NT!
+  SULLUST_CHR_raas: "Raas" #NT!
+  SULLUST_CHR_ralleck: "Ralleck" #NT!
+  SULLUST_CHR_rann: "Rann" #NT!
+  SULLUST_CHR_six: "Six" #NT!
+  SULLUST_CHR_riev: "Riev" #NT!
+  SULLUST_CHR_rollobad: "Rollobad" #NT!
+  SULLUST_CHR_roscon: "Roscon" #NT!
+  SULLUST_CHR_rumba: "Rumba" #NT!
+  SULLUST_CHR_rumble: "Rumble" #NT!
+  SULLUST_CHR_rurm: "Rurm" #NT!
+  SULLUST_CHR_sallis: "Sallis" #NT!
+  SULLUST_CHR_san: "San" #NT!
+  SULLUST_CHR_schmong: "Schmong" #NT!
+  SULLUST_CHR_sebak: "Sebak" #NT!
+  SULLUST_CHR_snunb: "Snunb" #NT!
+  SULLUST_CHR_soonin: "Soonin" #NT!
+  SULLUST_CHR_sovv: "Sovv" #NT!
+  SULLUST_CHR_stodiz: "Stodiz" #NT!
+  SULLUST_CHR_sunb: "Sunb" #NT!
+  SULLUST_CHR_sund: "Sund" #NT!
+  SULLUST_CHR_suub: "Suub" #NT!
+  SULLUST_CHR_suuliem: "Suuliem" #NT!
+  SULLUST_CHR_suum: "Suum" #NT!
+  SULLUST_CHR_swoont: "Swoont" #NT!
+  SULLUST_CHR_symm: "Symm" #NT!
+  SULLUST_CHR_larn: "Larn" #NT!
+  SULLUST_CHR_ta: "Ta" #NT!
+  SULLUST_CHR_tebbic: "Tebbic" #NT!
+  SULLUST_CHR_tembon: "Tembon" #NT!
+  SULLUST_CHR_tenab: "Tenab" #NT!
+  SULLUST_CHR_tengo: "Tengo" #NT!
+  SULLUST_CHR_til: "Til" #NT!
+  SULLUST_CHR_tinray: "Tinray" #NT!
+  SULLUST_CHR_tiy: "Tiy" #NT!
+  SULLUST_CHR_toob: "Toob" #NT!
+  SULLUST_CHR_toon: "Toon" #NT!
+  SULLUST_CHR_tsayv: "Tsayv" #NT!
+  SULLUST_CHR_tubb: "Tubb" #NT!
+  SULLUST_CHR_tyeb: "Tyeb" #NT!
+  SULLUST_CHR_unnh: "Unnh" #NT!
+  SULLUST_CHR_urtell: "Urtell" #NT!
+  SULLUST_CHR_varss: "Varss" #NT!
+  SULLUST_CHR_vegnu: "Vegnu" #NT!
+  SULLUST_CHR_vols: "Vols" #NT!
+  SULLUST_CHR_wallub: "Wallub" #NT!
+  SULLUST_CHR_wiles: "Wiles" #NT!
+  SULLUST_CHR_wuul: "Wuul" #NT!
+  SULLUST_CHR_yorub: "Yorub" #NT!
+  SULLUST_CHR_ytam: "Ytam" #NT!
+  SULLUST_CHR_zan: "Zan" #NT!
+  SULLUST_CHR_buruun: "Buruun" #NT!
+  SULLUST_CHR_boto: "Boto" #NT!
+  SULLUST_CHR_niuk: "Niuk" #NT!
+  SULLUST_CHR_verga: "Verga" #NT!
+  SULLUST_CHR_siin: "Siin" #NT!
+  SULLUST_CHR_sian: "Sian" #NT!
+  SULLUST_CHR_miim: "Miim" #NT!
+  SULLUST_CHR_vernuss: "Vernuss" #NT!
+  SULLUST_CHR_tyanna: "Tyanna" #NT!
+  SULLUST_CHR_myder: "Myder" #NT!
+  SULLUST_CHR_nus: "Nus" #NT!
+  SULLUST_CHR_squnn: "Squnn" #NT!
+  SULLUST_CHR_te_suub: "Te'Suub" #NT!
+  SULLUST_CHR_tevv: "Tevv" #NT!
+  SULLUST_CHR_tymb: "Tymb" #NT!
+  SULLUST_CHR_del_ibn_garl: "del ibn Garl" #NT!

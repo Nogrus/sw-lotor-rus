@@ -1,645 +1,645 @@
 ﻿l_russian:
- FALLEEN_flurry_of_bolts: "Flurry of Bolts"
- FALLEEN_dirty_kick: "Dirty Kick"
- FALLEEN_vital_shot: "Vital Shot"
- FALLEEN_quick_shot: "Quick Shot"
- FALLEEN_all_in: "All In"
- FALLEEN_eagle_5: "Eagle 5"
- FALLEEN_lucky_dodge: "Lucky Dodge"
- FALLEEN_shoot_first: "Shoot First"
- FALLEEN_nice_try: "Nice Try"
- FALLEEN_open_wound: "Open Wound"
- FALLEEN_mortal_wound: "Mortal Wound"
- FALLEEN_dirty_trickster: "Dirty Trickster"
- FALLEEN_feelin__woozy: "Feelin' Woozy"
- FALLEEN_sneaky: "Sneaky"
- FALLEEN_scrappy: "Scrappy"
- FALLEEN_shifty_eyed: "Shifty-Eyed"
- FALLEEN_fight_or_flight: "Fight or Flight"
- FALLEEN_slippery_devil: "Slippery Devil"
- FALLEEN_rolling_punches: "Rolling Punches"
- FALLEEN_surprise_come: "Surprise Comeback"
- FALLEEN_round_two: "Round Two"
- FALLEEN_stopping_power: "Stopping Power"
- FALLEEN_brawler_s_gift: "Brawler's Gift"
- FALLEEN_survivor_s_scars: "Survivor's Scars"
- FALLEEN_elem_of_surprise: "Element of Surprise"
- FALLEEN_browbeat: "Browbeat"
- FALLEEN_keep_cool: "Keep Cool"
- FALLEEN_scramble: "Scramble"
- FALLEEN_hunter_s_boon: "Hunter's Boon"
- FALLEEN_rocket_punch: "Rocket Punch"
- FALLEEN_rail_shot: "Rail Shot"
- FALLEEN_death_from_above: "Death From Above"
- FALLEEN_determination: "Determination"
- FALLEEN_on_the_trail: "On The Trail"
- FALLEEN_intimidation: "Intimidation"
- FALLEEN_last_prince: "Last Prince"
- FALLEEN_done_deal: "Done Deal"
- FALLEEN_irresistible: "Irresistible"
- FALLEEN_heeler: "Heeler"
- FALLEEN_overrun: "Overrun"
- FALLEEN_point_rider: "Point Rider"
- FALLEEN_riot: "Riot"
- FALLEEN_rut: "Rut"
- FALLEEN_trench_feeder: "Trench Feeder"
- FALLEEN_big_game: "Big Game"
- FALLEEN_trophy_taker: "Trophy Taker"
- FALLEEN_incisor: "Incisor"
- FALLEEN_sidestep: "Sidestep"
- FALLEEN_undaunted: "Undaunted"
- FALLEEN_venture: "Venture"
- FALLEEN_versatile: "Versatile"
- FALLEEN_vigorous: "Vigorous"
- FALLEEN_allegiance: "Allegiance"
- FALLEEN_challenger: "Challenger"
- FALLEEN_fearless: "Fearless"
- FALLEEN_protector: "Protector"
- FALLEEN_guardian: "Guardian"
- FALLEEN_victorious: "Victorious"
- FALLEEN_courageous: "Courageous"
- FALLEEN_defiance: "Defiance"
- FALLEEN_valorous: "Valorous"
- FALLEEN_whirlwind: "Whirlwind"
- FALLEEN_vigilance: "Vigilance"
- FALLEEN_decimator: "Decimator"
- FALLEEN_indomitable: "Indomitable"
- FALLEEN_goliath: "Goliath"
- FALLEEN_sentinel: "Sentinel"
- FALLEEN_brilliant: "Brilliant"
- FALLEEN_blazer: "Blazer"
- FALLEEN_audacity: "Audacity"
- FALLEEN_gallant: "Gallant"
- FALLEEN_nova: "Nova"
- FALLEEN_shadow: "Shadow"
- FALLEEN_mandible: "Mandible"
- FALLEEN_coagulator: "Coagulator"
- FALLEEN_bleeder: "Bleeder"
- FALLEEN_easy_kill: "Easy Kill"
- FALLEEN_tough_shot: "Tough Shot"
- FALLEEN_jagannath_s_watch: "Jagannath's Watch"
- FALLEEN_herald_of_jag: "Herald of Jagannath"
- FALLEEN_avatar: "Avatar"
- FALLEEN_blood_score: "Blood Score"
- FALLEEN_settled_score: "Settled Score"
- FALLEEN_mock_hunt: "Mock Hunt"
- FALLEEN_t_doshok_crusade: "T'doshok Crusade"
- FALLEEN_crimson_nest: "Crimson Nest"
- FALLEEN_cruel_intention: "Cruel Intention"
- FALLEEN_dangerous_liaison: "Dangerous Liaison"
- FALLEEN_forked_tongue: "Forked Tongue"
- FALLEEN_white_claw: "White Claw"
- FALLEEN_diamond_back: "Diamond Back"
- FALLEEN_scalebound: "Scalebound"
- FALLEEN_python: "Python"
- FALLEEN_viper: "Viper"
- FALLEEN_garter: "Garter"
- FALLEEN_cobra: "Cobra"
- FALLEEN_anaconda: "Anaconda"
- FALLEEN_scylla: "Scylla"
- FALLEEN_mamba: "Mamba"
- FALLEEN_taipani: "Taipani"
- FALLEEN_eminence: "Eminence"
- FALLEEN_astute: "Astute"
- FALLEEN_alacrity: "Alacrity"
- FALLEEN_asp: "Asp"
- FALLEEN_bonarro: "Bonarro"
- FALLEEN_zolombo: "Zolombo"
- FALLEEN_chimbino: "Chimbino"
- FALLEEN_negovese: "Negovese"
- FALLEEN_lucbrie: "Lucbrie"
- FALLEEN_pentad: "Pentad"
- FALLEEN_viddari: "Viddari"
- FALLEEN_vagabond: "Vagabond"
- FALLEEN_pentito: "Pentito"
- FALLEEN_dragnheta: "Dragnheta"
- FALLEEN_famorra: "Famorra"
- FALLEEN_korwickesi: "Korwickesi"
- FALLEEN_pathfinder: "Pathfinder"
- FALLEEN_handdio: "Handdio"
- FALLEEN_commissioner: "Commissioner"
- FALLEEN_civilizer: "Civilizer"
- FALLEEN_civilization: "Civilization"
- FALLEEN_destined: "Destined"
- FALLEEN_fait_accompli: "Fait Accompli"
- FALLEEN_stellar_right: "Stellar Right"
- FALLEEN_rightful_due: "Rightful Due"
- FALLEEN_perfecting_spirit: "Perfecting Spirit"
- FALLEEN_diamond: "Diamond"
- FALLEEN_dawn_of_falleen: "Dawn of Falleen"
- FALLEEN_purity: "Purity"
- FALLEEN_brotherhood: "Brotherhood"
- FALLEEN_fabricator_aurek: "Fabricator Aurek"
- FALLEEN_fabricator_besh: "Fabricator Besh"
- FALLEEN_fabricator_cresh: "Fabricator Cresh"
- FALLEEN_fabricator_dorn: "Fabricator Dorn"
- FALLEEN_fabricator_forn: "Fabricator Forn"
- FALLEEN_fabricator_grek: "Fabricator Grek"
- FALLEEN_fabricator_herf: "Fabricator Herf"
- FALLEEN_fabricator_isk: "Fabricator Isk"
- FALLEEN_fabricator_jenth: "Fabricator Jenth"
- FALLEEN_fabricator_krill: "Fabricator Krill"
- FALLEEN_fabricator_leth: "Fabricator Leth"
- FALLEEN_fabricator_mern: "Fabricator Mern"
- FALLEEN_fabricator_nern: "Fabricator Nern"
- FALLEEN_fabricator_osk: "Fabricator Osk"
- FALLEEN_fabricator_peth: "Fabricator Peth"
- FALLEEN_fabricator_senth: "Fabricator Senth"
- FALLEEN_fabricator_trill: "Fabricator Trill"
- FALLEEN_fabricator_usk: "Fabricator Usk"
- FALLEEN_fabricator_vev: "Fabricator Vev"
- FALLEEN_fabricator_wesk: "Fabricator Wesk"
- FALLEEN_fabricator_xesh: "Fabricator Xesh"
- FALLEEN_fabricator_yirt: "Fabricator Yirt"
- FALLEEN_fabricator_zerek: "Fabricator Zerek"
- FALLEEN_fabricator_cherek: "Fabricator Cherek"
- FALLEEN_fabricator_qek: "Fabricator Qek"
- FALLEEN_fabricator_resh: "Fabricator Resh"
- FALLEEN_fabricator_enth: "Fabricator Enth"
- FALLEEN_fabricator_onith: "Fabricator Onith"
- FALLEEN_fabricator_krenth: "Fabricator Krenth"
- FALLEEN_fabricator_nen: "Fabricator Nen"
- FALLEEN_fabricator_orenth: "Fabricator Orenth"
- FALLEEN_fabricator_shen: "Fabricator Shen"
- FALLEEN_fabricator_thesh: "Fabricator Thesh"
- FALLEEN_ground_transport: "Ground Transport"
- FALLEEN_harlequin: "Harlequin"
- FALLEEN_ill_omen: "Ill Omen"
- FALLEEN_vendetta: "Vendetta"
- FALLEEN_black_eye: "Black Eye"
- FALLEEN_opprobrium: "Opprobrium"
- FALLEEN_falleen_s_fist: "Falleen's Fist"
- FALLEEN_punisher: "Punisher"
- FALLEEN_citadel: "Citadel"
- FALLEEN_falleen_throne: "Falleen Throne"
- FALLEEN_bombard: "Bombard"
- FALLEEN_ballista: "Ballista"
- FALLEEN_catapult: "Catapult"
- FALLEEN_harpoon: "Harpoon"
- FALLEEN_polybolos: "Polybolos"
- FALLEEN_culverin: "Culverin"
- FALLEEN_FLEET_duldor_sector_defense_fleet: "Duldor Sector Defense Fleet"
- FALLEEN_FLEET_protectors_of_falleen: "Protectors of Falleen"
- FALLEEN_FLEET_defenders_of_the_crown: "Defenders of the Crown"
- FALLEEN_FLEET_the_cabal: "The Cabal"
- FALLEEN_FLEET_SEQUENTIAL_cabal: "$ORD$ Cabal"
- FALLEEN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Planetary Guard"
- FALLEEN_ARMY_SEQUENTIAL_death_squad: "$ORD$ Death Squad"
- FALLEEN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Indentured Rifles"
- FALLEEN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Clone Army"
- FALLEEN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Hunter-Killer Group"
- FALLEEN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Ground Defense Matrix"
- FALLEEN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Psi Commando"
- FALLEEN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Bio-Warfare Division"
- FALLEEN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'"
- FALLEEN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'"
- FALLEEN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'"
- FALLEEN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'"
- FALLEEN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'"
- FALLEEN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'"
- FALLEEN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'"
- FALLEEN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'"
- FALLEEN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'"
- FALLEEN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'"
- FALLEEN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Bio-Engineered Squadron"
- FALLEEN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Garrison Force"
- FALLEEN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Mechanized Garrison"
- FALLEEN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Primitive Army $C$"
- FALLEEN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Industrial Army $C$"
- FALLEEN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Post-Atomic Army $C$"
- FALLEEN_CHR_haxim: "Haxim"
- FALLEEN_CHR_xomit: "Xomit"
- FALLEEN_CHR_kel: "Kel"
- FALLEEN_CHR_zenex: "Zenex"
- FALLEEN_CHR_thann: "Thann"
- FALLEEN_CHR_abraxis: "Abraxis"
- FALLEEN_CHR_livintius: "Livintius"
- FALLEEN_CHR_xerda: "Xerda"
- FALLEEN_CHR_carth: "Carth"
- FALLEEN_CHR_kir: "Kir"
- FALLEEN_CHR_mebba: "Mebba"
- FALLEEN_CHR_dagos: "Dagos"
- FALLEEN_CHR_xad: "Xad"
- FALLEEN_CHR_xist: "Xist"
- FALLEEN_CHR_forren: "Forren"
- FALLEEN_CHR_kavarros: "Kavarros"
- FALLEEN_CHR_jeho: "Jeho"
- FALLEEN_CHR_lee: "Lee"
- FALLEEN_CHR_varko: "Varko"
- FALLEEN_CHR_milo: "Milo"
- FALLEEN_CHR_aeron: "Aeron"
- FALLEEN_CHR_byrec: "Byrec"
- FALLEEN_CHR_strata: "Strata"
- FALLEEN_CHR_kanzin: "Kanzin"
- FALLEEN_CHR_zeak: "Zeak"
- FALLEEN_CHR_niuk: "Niuk"
- FALLEEN_CHR_savren: "Savren"
- FALLEEN_CHR_xavran: "Xavran"
- FALLEEN_CHR_valek: "Valek"
- FALLEEN_CHR_aran: "Aran"
- FALLEEN_CHR_valis: "Valis"
- FALLEEN_CHR_zeven: "Zeven"
- FALLEEN_CHR_yakown: "Yakown"
- FALLEEN_CHR_sibar: "Sibar"
- FALLEEN_CHR_sairix: "Sairix"
- FALLEEN_CHR_klai: "Klai"
- FALLEEN_CHR_vuras: "Vuras"
- FALLEEN_CHR_imay: "Imay"
- FALLEEN_CHR_traest: "Traest"
- FALLEEN_CHR_sarkli: "Sarkli"
- FALLEEN_CHR_riyan: "Riyan"
- FALLEEN_CHR_kavren: "Kavren"
- FALLEEN_CHR_sarek: "Sarek"
- FALLEEN_CHR_xato: "Xato"
- FALLEEN_CHR_silus: "Silus"
- FALLEEN_CHR_kej: "Kej"
- FALLEEN_CHR_vago: "Vago"
- FALLEEN_CHR_kallyx: "Kallyx"
- FALLEEN_CHR_annor: "Annor"
- FALLEEN_CHR_ulas: "Ulas"
- FALLEEN_CHR_sakal: "Sakal"
- FALLEEN_CHR_tal: "Tal"
- FALLEEN_CHR_korax: "Korax"
- FALLEEN_CHR_torin: "Torin"
- FALLEEN_CHR_karn: "Karn"
- FALLEEN_CHR_davith: "Davith"
- FALLEEN_CHR_jorgen: "Jorgen"
- FALLEEN_CHR_bertos: "Bertos"
- FALLEEN_CHR_corrus: "Corrus"
- FALLEEN_CHR_malius: "Malius"
- FALLEEN_CHR_kale: "Kale"
- FALLEEN_CHR_xandros: "Xandros"
- FALLEEN_CHR_kalen: "Kalen"
- FALLEEN_CHR_zekk: "Zekk"
- FALLEEN_CHR_trezza: "Trezza"
- FALLEEN_CHR_valhoun: "Valhoun"
- FALLEEN_CHR_gentti: "Gentti"
- FALLEEN_CHR_xu_sien: "Xu-Sien"
- FALLEEN_CHR_vaux: "Vaux"
- FALLEEN_CHR_verxes: "Verxes"
- FALLEEN_CHR_sidias: "Sidias"
- FALLEEN_CHR_haken: "Haken"
- FALLEEN_CHR_zyn: "Zyn"
- FALLEEN_CHR_vidown: "Vidown"
- FALLEEN_CHR_vares: "Vares"
- FALLEEN_CHR_xithan: "Xithan"
- FALLEEN_CHR_cul_utaan: "Cul-utaan"
- FALLEEN_CHR_varys: "Varys"
- FALLEEN_CHR_xim: "Xim"
- FALLEEN_CHR_vossi: "Vossi"
- FALLEEN_CHR_abric: "Abric"
- FALLEEN_CHR_darg: "Darg"
- FALLEEN_CHR_gaman: "Gaman"
- FALLEEN_CHR_vaxherub: "VaxHerub"
- FALLEEN_CHR_marius: "Marius"
- FALLEEN_CHR_zherron: "Zherron"
- FALLEEN_CHR_zetha: "Zetha"
- FALLEEN_CHR_xan: "Xan"
- FALLEEN_CHR_ver: "Ver"
- FALLEEN_CHR_cric: "Cric"
- FALLEEN_CHR_foxdi: "Foxdi"
- FALLEEN_CHR_xandral: "Xandral"
- FALLEEN_CHR_xander: "Xander"
- FALLEEN_CHR_baz: "Baz"
- FALLEEN_CHR_zuud: "Zuud"
- FALLEEN_CHR_erek: "Erek"
- FALLEEN_CHR_zon: "Zon"
- FALLEEN_CHR_karrst: "Karrst"
- FALLEEN_CHR_varl: "Varl"
- FALLEEN_CHR_vanukar: "Vanukar"
- FALLEEN_CHR_talan: "Talan"
- FALLEEN_CHR_varell: "Varell"
- FALLEEN_CHR_kannon: "Kannon"
- FALLEEN_CHR_kaden: "Kaden"
- FALLEEN_CHR_sarev: "Sarev"
- FALLEEN_CHR_xargon: "Xargon"
- FALLEEN_CHR_zeto: "Zeto"
- FALLEEN_CHR_zhios: "Zhios"
- FALLEEN_CHR_xarga: "Xarga"
- FALLEEN_CHR_flash: "Flash"
- FALLEEN_CHR_waseem: "Waseem"
- FALLEEN_CHR_bendak: "Bendak"
- FALLEEN_CHR_kaz: "Kaz"
- FALLEEN_CHR_vrath: "Vrath"
- FALLEEN_CHR_zellos: "Zellos"
- FALLEEN_CHR_xalven: "Xalven"
- FALLEEN_CHR_vincenzo: "Vincenzo"
- FALLEEN_CHR_zhou: "Zhou"
- FALLEEN_CHR_rebar: "Rebar"
- FALLEEN_CHR_vander: "Vander"
- FALLEEN_CHR_aramil: "Aramil"
- FALLEEN_CHR_vandro: "Vandro"
- FALLEEN_CHR_caalin: "Caalin"
- FALLEEN_CHR_vanth: "Vanth"
- FALLEEN_CHR_vikar: "Vikar"
- FALLEEN_CHR_zan: "Zan"
- FALLEEN_CHR_zentilo: "Zentilo"
- FALLEEN_CHR_vasp: "Vasp"
- FALLEEN_CHR_predor: "Predor"
- FALLEEN_CHR_tarlson: "Tarlson"
- FALLEEN_CHR_boaz: "Boaz"
- FALLEEN_CHR_zem: "Zem"
- FALLEEN_CHR_zander: "Zander"
- FALLEEN_CHR_raltharan: "Raltharan"
- FALLEEN_CHR_zerrid: "Zerrid"
- FALLEEN_CHR_zharen: "Zharen"
- FALLEEN_CHR_sogan: "Sogan"
- FALLEEN_CHR_varek: "Varek"
- FALLEEN_CHR_svante: "Svante"
- FALLEEN_CHR_tesvalo: "Tesvalo"
- FALLEEN_CHR_xar_me: "Xar'me"
- FALLEEN_CHR_dekar: "Dekar"
- FALLEEN_CHR_varazen: "Varazen"
- FALLEEN_CHR_varak: "Varak"
- FALLEEN_CHR_zadran: "Zadran"
- FALLEEN_CHR_kaddreth: "Kaddreth"
- FALLEEN_CHR_zyix: "Zyix"
- FALLEEN_CHR_savan: "Savan"
- FALLEEN_CHR_obs: "Obs"
- FALLEEN_CHR_sizhran: "Sizhran"
- FALLEEN_CHR_kamlin: "Kamlin"
- FALLEEN_CHR_mylla: "Mylla"
- FALLEEN_CHR_seena: "Seena"
- FALLEEN_CHR_areta: "Areta"
- FALLEEN_CHR_natua: "Natua"
- FALLEEN_CHR_xora: "Xora"
- FALLEEN_CHR_nile: "Nile"
- FALLEEN_CHR_kiyfi: "Kiyfi"
- FALLEEN_CHR_kasmyn: "Kasmyn"
- FALLEEN_CHR_satra: "Satra"
- FALLEEN_CHR_shehish: "Shehish"
- FALLEEN_CHR_sarna: "Sarna"
- FALLEEN_CHR_krava: "Krava"
- FALLEEN_CHR_mavari: "Mavari"
- FALLEEN_CHR_xishel: "Xishel"
- FALLEEN_CHR_aqua: "Aqua"
- FALLEEN_CHR_maryna: "Maryna"
- FALLEEN_CHR_essaj: "Essaj"
- FALLEEN_CHR_varda: "Varda"
- FALLEEN_CHR_teeana: "Teeana"
- FALLEEN_CHR_raena: "Raena"
- FALLEEN_CHR_xula: "Xula"
- FALLEEN_CHR_vifi: "Vifi"
- FALLEEN_CHR_vania: "Vania"
- FALLEEN_CHR_jeanida: "Jeanida"
- FALLEEN_CHR_aerena: "Aerena"
- FALLEEN_CHR_nataya: "Nataya"
- FALLEEN_CHR_vernida: "Vernida"
- FALLEEN_CHR_kavala: "Kavala"
- FALLEEN_CHR_karella: "Karella"
- FALLEEN_CHR_sirra: "Sirra"
- FALLEEN_CHR_variise: "Variise"
- FALLEEN_CHR_varla: "Varla"
- FALLEEN_CHR_xuss: "Xuss"
- FALLEEN_CHR_riema: "Riema"
- FALLEEN_CHR_erri: "Erri"
- FALLEEN_CHR_shanna: "Shanna"
- FALLEEN_CHR_lyra: "Lyra"
- FALLEEN_CHR_valera: "Valera"
- FALLEEN_CHR_zenoc: "Zenoc"
- FALLEEN_CHR_zera: "Zera"
- FALLEEN_CHR_viqi: "Viqi"
- FALLEEN_CHR_hadriel: "Hadriel"
- FALLEEN_CHR_vixtra: "Vixtra"
- FALLEEN_CHR_selena: "Selena"
- FALLEEN_CHR_zana: "Zana"
- FALLEEN_CHR_tuija: "Tuija"
- FALLEEN_CHR_railin: "Railin"
- FALLEEN_CHR_sassi: "Sassi"
- FALLEEN_CHR_shyon: "Shyon"
- FALLEEN_CHR_zelen: "Zelen"
- FALLEEN_CHR_rylla: "Rylla"
- FALLEEN_CHR_kavara: "Kavara"
- FALLEEN_CHR_vau: "Vau"
- FALLEEN_CHR_zema: "Zema"
- FALLEEN_CHR_xanta: "Xanta"
- FALLEEN_CHR_kazala: "Kazala"
- FALLEEN_CHR_aama: "Aama"
- FALLEEN_CHR_shorya: "Shorya"
- FALLEEN_CHR_melfina: "Melfina"
- FALLEEN_CHR_davessi: "Davessi"
- FALLEEN_CHR_larana: "Larana"
- FALLEEN_CHR_xaverri: "Xaverri"
- FALLEEN_CHR_nola: "Nola"
- FALLEEN_CHR_xanda: "Xanda"
- FALLEEN_CHR_jauhzmynn: "Jauhzmynn"
- FALLEEN_CHR_zyna: "Zyna"
- FALLEEN_CHR_xevrina: "Xevrina"
- FALLEEN_CHR_yana: "Yana"
- FALLEEN_CHR_zoras: "Zoras"
- FALLEEN_CHR_ree: "Ree"
- FALLEEN_CHR_grace: "Grace"
- FALLEEN_CHR_tantema: "Tantema"
- FALLEEN_CHR_van: "Van"
- FALLEEN_CHR_una: "Una"
- FALLEEN_CHR_dalharil: "Dalharil"
- FALLEEN_CHR_xerna: "Xerna"
- FALLEEN_CHR_sovi: "Sovi"
- FALLEEN_CHR_sartya: "Sartya"
- FALLEEN_CHR_vucora: "Vucora"
- FALLEEN_CHR_xasha: "Xasha"
- FALLEEN_CHR_joi: "Joi"
- FALLEEN_CHR_stryka: "Stryka"
- FALLEEN_CHR_shandra: "Shandra"
- FALLEEN_CHR_zilpha: "Zilpha"
- FALLEEN_CHR_veraslayn: "Veraslayn"
- FALLEEN_CHR_karin: "Karin"
- FALLEEN_CHR_siala: "Siala"
- FALLEEN_CHR_reki: "Reki"
- FALLEEN_CHR_maydla: "Maydla"
- FALLEEN_CHR_kiandra: "Kiandra"
- FALLEEN_CHR_xilaren: "Xilaren"
- FALLEEN_CHR_zulara: "Zulara"
- FALLEEN_CHR_viehenda: "Viehenda"
- FALLEEN_CHR_karissa: "Karissa"
- FALLEEN_CHR_zilar: "Zilar"
- FALLEEN_CHR_haruko: "Haruko"
- FALLEEN_CHR_kana: "Kana"
- FALLEEN_CHR_liana: "Liana"
- FALLEEN_CHR_rale: "Rale"
- FALLEEN_CHR_megara: "Megara"
- FALLEEN_CHR_aria: "Aria"
- FALLEEN_CHR_akiva: "Akiva"
- FALLEEN_CHR_nalah: "Nalah"
- FALLEEN_CHR_erlem: "Erlem"
- FALLEEN_CHR_nali: "Nali"
- FALLEEN_CHR_fallah: "Fallah"
- FALLEEN_CHR_kotrana: "Kotrana"
- FALLEEN_CHR_aayla: "Aayla"
- FALLEEN_CHR_kalira: "Kalira"
- FALLEEN_CHR_arani: "Arani"
- FALLEEN_CHR_zota: "Zota"
- FALLEEN_CHR_lyyr: "Lyyr"
- FALLEEN_CHR_arcas: "Arcas"
- FALLEEN_CHR_rane: "Rane"
- FALLEEN_CHR_nayru: "Nayru"
- FALLEEN_CHR_zylas: "Zylas"
- FALLEEN_CHR_vexa: "Vexa"
- FALLEEN_CHR_xea: "Xea"
- FALLEEN_CHR_grunseit: "Grunseit"
- FALLEEN_CHR_kaj: "Kaj"
- FALLEEN_CHR_wahia: "Wahia"
- FALLEEN_CHR_mithric: "Mithric"
- FALLEEN_CHR_unic: "Unic"
- FALLEEN_CHR_xiss: "Xiss"
- FALLEEN_CHR_nakcohh: "Nakcohh"
- FALLEEN_CHR_vitaan: "Vitaan"
- FALLEEN_CHR_varo: "Varo"
- FALLEEN_CHR_daklan: "Daklan"
- FALLEEN_CHR_kenzee: "Kenzee"
- FALLEEN_CHR_kamiroz: "Kamiroz"
- FALLEEN_CHR_thegas: "Thegas"
- FALLEEN_CHR_moryne: "Moryne"
- FALLEEN_CHR_valda: "Valda"
- FALLEEN_CHR_sato: "Sato"
- FALLEEN_CHR_vekozev: "Vekozev"
- FALLEEN_CHR_zykken: "Zykken"
- FALLEEN_CHR_sassich: "Sassich"
- FALLEEN_CHR_zo: "Zo"
- FALLEEN_CHR_lasek: "Lasek"
- FALLEEN_CHR_valladian: "Valladian"
- FALLEEN_CHR_zuma: "Zuma"
- FALLEEN_CHR_vane: "Vane"
- FALLEEN_CHR_wan: "Wan"
- FALLEEN_CHR_vanten: "Vanten"
- FALLEEN_CHR_valkaz: "Valkaz"
- FALLEEN_CHR_zirkonn: "Zirkonn"
- FALLEEN_CHR_rar: "Rar"
- FALLEEN_CHR_sartoris: "Sartoris"
- FALLEEN_CHR_kessler: "Kessler"
- FALLEEN_CHR_shaia: "Shaia"
- FALLEEN_CHR_zo_tannath: "Zo'Tannath"
- FALLEEN_CHR_zar: "Zar"
- FALLEEN_CHR_vrieska: "Vrieska"
- FALLEEN_CHR_zackin: "Zackin"
- FALLEEN_CHR_sazek: "Sazek"
- FALLEEN_CHR_zian: "Zian"
- FALLEEN_CHR_zett: "Zett"
- FALLEEN_CHR_kang: "Kang"
- FALLEEN_CHR_nalto: "Nalto"
- FALLEEN_CHR_zural: "Zural"
- FALLEEN_CHR_dubreas: "Dubreas"
- FALLEEN_CHR_colsan: "Colsan"
- FALLEEN_CHR_zhanks: "Zhanks"
- FALLEEN_CHR_solon: "Solon"
- FALLEEN_CHR_merquise: "Merquise"
- FALLEEN_CHR_varn: "Varn"
- FALLEEN_CHR_basai: "Basai"
- FALLEEN_CHR_vallan: "Vallan"
- FALLEEN_CHR_xanosro: "Xanosro"
- FALLEEN_CHR_elyxsar: "Elyxsar"
- FALLEEN_CHR_zindalai: "Zindalai"
- FALLEEN_CHR_slahlvo: "Slahlvo"
- FALLEEN_CHR_remex: "Remex"
- FALLEEN_CHR_sarreti: "Sarreti"
- FALLEEN_CHR_xandret: "Xandret"
- FALLEEN_CHR_dago: "Dago"
- FALLEEN_CHR_moj: "Moj"
- FALLEEN_CHR_stithta: "Stithta"
- FALLEEN_CHR_ker: "Ker"
- FALLEEN_CHR_zenfrei: "Zenfrei"
- FALLEEN_CHR_klakk: "Klakk"
- FALLEEN_CHR_zhorrid: "Zhorrid"
- FALLEEN_CHR_lefex: "Lefex"
- FALLEEN_CHR_minn: "Minn"
- FALLEEN_CHR_irokini: "Irokini"
- FALLEEN_CHR_zin_zula: "zin'Zula"
- FALLEEN_CHR_danakar: "Danakar"
- FALLEEN_CHR_zenlav: "Zenlav"
- FALLEEN_CHR_xrexus: "Xrexus"
- FALLEEN_CHR_shenuri: "Shenuri"
- FALLEEN_CHR_corcer: "Corcer"
- FALLEEN_CHR_zin: "Zin"
- FALLEEN_CHR_tagratt: "Tagratt"
- FALLEEN_CHR_golladio: "Golladio"
- FALLEEN_CHR_xarran: "Xarran"
- FALLEEN_CHR_xodell: "Xodell"
- FALLEEN_CHR_zentis: "Zentis"
- FALLEEN_CHR_valn: "Valn"
- FALLEEN_CHR_ziering: "Ziering"
- FALLEEN_CHR_valan: "Valan"
- FALLEEN_CHR_angavel: "Angavel"
- FALLEEN_CHR_tyrnith: "Tyrnith"
- FALLEEN_CHR_zothip: "Zothip"
- FALLEEN_CHR_kelbier: "Kelbier"
- FALLEEN_CHR_valoruk: "Valoruk"
- FALLEEN_CHR_zsing: "Zsing"
- FALLEEN_CHR_tisa: "Tisa"
- FALLEEN_CHR_xionsoylon: "XionSoylon"
- FALLEEN_CHR_lerann: "Lerann"
- FALLEEN_CHR_chro: "Chro"
- FALLEEN_CHR_ziam: "Ziam"
- FALLEEN_CHR_zell: "Zell"
- FALLEEN_CHR_zenzo: "Zenzo"
- FALLEEN_CHR_vekarr: "Vekarr"
- FALLEEN_CHR_zokar: "Zokar"
- FALLEEN_CHR_thiddex: "Thiddex"
- FALLEEN_CHR_zorn: "Zorn"
- FALLEEN_CHR_selkayim: "Selkayim"
- FALLEEN_CHR_zibsara: "Zibsara"
- FALLEEN_CHR_dhuramav: "Dhuramav"
- FALLEEN_CHR_kodd: "Kodd"
- FALLEEN_CHR_morin: "Morin"
- FALLEEN_CHR_kobylarz: "Kobylarz"
- FALLEEN_CHR_tade: "Tade"
- FALLEEN_CHR_zhord: "Zhord"
- FALLEEN_CHR_bintaghr: "Bintaghr"
- FALLEEN_CHR_zev: "Zev"
- FALLEEN_CHR_precore: "Precore"
- FALLEEN_CHR_solborne: "Solborne"
- FALLEEN_CHR_sarne: "Sarne"
- FALLEEN_CHR_katarn: "Katarn"
- FALLEEN_CHR_anjek: "Anjek"
- FALLEEN_CHR_zmittri: "Zmittri"
- FALLEEN_CHR_kast: "Kast"
- FALLEEN_CHR_airerith: "Airerith"
- FALLEEN_CHR_tarrid: "Tarrid"
- FALLEEN_CHR_ziemba: "Ziemba"
- FALLEEN_CHR_zho: "Zho"
- FALLEEN_CHR_jalba: "Jalba"
- FALLEEN_CHR_benn: "Benn"
- FALLEEN_CHR_haruhana: "Haruhana"
- FALLEEN_CHR_roice: "Roice"
- FALLEEN_CHR_lokar: "Lokar"
- FALLEEN_CHR_korpil: "Korpil"
- FALLEEN_CHR_turon: "Turon"
- FALLEEN_CHR_cavi: "Cavi"
- FALLEEN_CHR_deece: "Deece"
- FALLEEN_CHR_braitano: "Braitano"
- FALLEEN_CHR_zilno: "Zilno"
- FALLEEN_CHR_tyandas: "Tyandas"
- FALLEEN_CHR_zepwim: "Zepwim"
- FALLEEN_CHR_xerk: "Xerk"
- FALLEEN_CHR_drayven: "Drayven"
- FALLEEN_CHR_zaposug: "Zaposug"
- FALLEEN_CHR_zend: "Zend"
- FALLEEN_CHR_defelice: "Defelice"
- FALLEEN_CHR_zerex: "Zerex"
- FALLEEN_CHR_zey: "Zey"
- FALLEEN_CHR_sarvool: "Sarvool"
- FALLEEN_CHR_hodrren: "Hodrren"
- FALLEEN_CHR_xergo: "Xergo"
- FALLEEN_CHR_sarat: "Sarat"
- FALLEEN_CHR_vercet: "Vercet"
- FALLEEN_CHR_zerga: "Zerga"
- FALLEEN_CHR_zudan: "Zudan"
- FALLEEN_CHR_zuur: "Zuur"
- FALLEEN_CHR_xzushal: "Xzushal"
- FALLEEN_CHR_xizor: "Xizor"
- FALLEEN_CHR_zurros: "Zurros"
- FALLEEN_CHR_ziton: "Ziton"
- FALLEEN_CHR_zann: "Zann"
- FALLEEN_CHR_tanner: "Tanner"
- FALLEEN_CHR_vi: "Vi"
- FALLEEN_CHR_rush: "Rush"
- FALLEEN_CHR_danry: "Danry"
- FALLEEN_CHR_zule: "Zule"
- FALLEEN_CHR_senna: "Senna"
- FALLEEN_CHR_bana: "Bana"
- FALLEEN_CHR_xanya: "Xanya"
- FALLEEN_CHR_zexa: "Zexa"
- FALLEEN_CHR_andrell: "Andrell"
- FALLEEN_CHR_varrak: "Varrak"
- FALLEEN_CHR_xiono: "Xiono"
- FALLEEN_CHR_varga: "Varga"
- FALLEEN_CHR_sarke: "Sarke"
+  FALLEEN_flurry_of_bolts: "Шквал молний" #NT!
+  FALLEEN_dirty_kick: "Подлый удар" #NT!
+  FALLEEN_vital_shot: "Смертельный выстрел" #NT!
+  FALLEEN_quick_shot: "Быстрый выстрел" #NT!
+  FALLEEN_all_in: "Всё включено" #NT!
+  FALLEEN_eagle_5: "Орёл 5" #NT!
+  FALLEEN_lucky_dodge: "Удачный уворот" #NT!
+  FALLEEN_shoot_first: "Стреляй первым" #NT!
+  FALLEEN_nice_try: "Хорошая попытка" #NT!
+  FALLEEN_open_wound: "Рваная рана" #NT!
+  FALLEEN_mortal_wound: "Смертельная рана" #NT!
+  FALLEEN_dirty_trickster: "Подлый трюкач" #NT!
+  FALLEEN_feelin__woozy: "Одурманивание" #NT!
+  FALLEEN_sneaky: "Скрытный" #NT!
+  FALLEEN_scrappy: "Задиристый" #NT!
+  FALLEEN_shifty_eyed: "Косой взгляд" #NT!
+  FALLEEN_fight_or_flight: "Бей или беги" #NT!
+  FALLEEN_slippery_devil: "Скользкий дьявол" #NT!
+  FALLEEN_rolling_punches: "Избегающий ударов" #NT!
+  FALLEEN_surprise_come: "Неожиданное возвращение" #NT!
+  FALLEEN_round_two: "Второй раунд" #NT!
+  FALLEEN_stopping_power: "Сдерживающая сила" #NT!
+  FALLEEN_brawler_s_gift: "Подарок бойца" #NT!
+  FALLEEN_survivor_s_scars: "Шрамы выжившего" #NT!
+  FALLEEN_elem_of_surprise: "Элемент неожиданности" #NT!
+  FALLEEN_browbeat: "Запугивание" #NT!
+  FALLEEN_keep_cool: "Сохраняющий хладнокровие" #NT!
+  FALLEEN_scramble: "Схватка" #NT!
+  FALLEEN_hunter_s_boon: "Дар охотника" #NT!
+  FALLEEN_rocket_punch: "Ракетный удар" #NT!
+  FALLEEN_rail_shot: "Дуплет" #NT!
+  FALLEEN_death_from_above: "Смерть с небес" #NT!
+  FALLEEN_determination: "Решимость" #NT!
+  FALLEEN_on_the_trail: "По следу" #NT!
+  FALLEEN_intimidation: "Устрашение" #NT!
+  FALLEEN_last_prince: "Последний принц" #NT!
+  FALLEEN_done_deal: "Заключённая сделка" #NT!
+  FALLEEN_irresistible: "Неотразимый" #NT!
+  FALLEEN_heeler: "Хилер" #NT!
+  FALLEEN_overrun: "Перерасход" #NT!
+  FALLEEN_point_rider: "Точечный всадник" #NT!
+  FALLEEN_riot: "Бунт" #NT!
+  FALLEEN_rut: "Рут" #NT!
+  FALLEEN_trench_feeder: "Кормушка Тренча" #NT!
+  FALLEEN_big_game: "Большая игра" #NT!
+  FALLEEN_trophy_taker: "Трофейщик" #NT!
+  FALLEEN_incisor: "Резец" #NT!
+  FALLEEN_sidestep: "Обход" #NT!
+  FALLEEN_undaunted: "Неустрашимый" #NT!
+  FALLEEN_venture: "Предприятие" #NT!
+  FALLEEN_versatile: "Разносторонний" #NT!
+  FALLEEN_vigorous: "Энергичный" #NT!
+  FALLEEN_allegiance: "Верноподданство" #NT!
+  FALLEEN_challenger: "Претендент" #NT!
+  FALLEEN_fearless: "Безбоязненный" #NT!
+  FALLEEN_protector: "Покровитель" #NT!
+  FALLEEN_guardian: "Страж" #NT!
+  FALLEEN_victorious: "Победоносный" #NT!
+  FALLEEN_courageous: "Мужественный" #NT!
+  FALLEEN_defiance: "Неповиновение" #NT!
+  FALLEEN_valorous: "Самоотверженный" #NT!
+  FALLEEN_whirlwind: "Вихрь" #NT!
+  FALLEEN_vigilance: "Бдительность" #NT!
+  FALLEEN_decimator: "Дециматор" #NT!
+  FALLEEN_indomitable: "Непокоримый" #NT!
+  FALLEEN_goliath: "Голиаф" #NT!
+  FALLEEN_sentinel: "Дозорный" #NT!
+  FALLEEN_brilliant: "Блестящий" #NT!
+  FALLEEN_blazer: "Блейзер" #NT!
+  FALLEEN_audacity: "Дерзость" #NT!
+  FALLEEN_gallant: "Галантный" #NT!
+  FALLEEN_nova: "Нова" #NT!
+  FALLEEN_shadow: "Тень" #NT!
+  FALLEEN_mandible: "Мандибула" #NT!
+  FALLEEN_coagulator: "Коагулятор" #NT!
+  FALLEEN_bleeder: "Кровотечение" #NT!
+  FALLEEN_easy_kill: "Лёгкое убийство" #NT!
+  FALLEEN_tough_shot: "Жёсткий выстрел" #NT!
+  FALLEEN_jagannath_s_watch: "Часы Джаганнатхи" #NT!
+  FALLEEN_herald_of_jag: "Вестник Джаганнатхи" #NT!
+  FALLEEN_avatar: "Аватар" #NT!
+  FALLEEN_blood_score: "Счёт крови" #NT!
+  FALLEEN_settled_score: "Сведённый счёт" #NT!
+  FALLEEN_mock_hunt: "Обманная охота" #NT!
+  FALLEEN_t_doshok_crusade: "Крестовый поход Т'дошок" #NT!
+  FALLEEN_crimson_nest: "Багровое гнездо" #NT!
+  FALLEEN_cruel_intention: "Жестокое намерение" #NT!
+  FALLEEN_dangerous_liaison: "Опасная связь" #NT!
+  FALLEEN_forked_tongue: "Раздвоенный язык" #NT!
+  FALLEEN_white_claw: "Белый коготь" #NT!
+  FALLEEN_diamond_back: "Алмазная спина" #NT!
+  FALLEEN_scalebound: "Чешуйчатый" #NT!
+  FALLEEN_python: "Питон" #NT!
+  FALLEEN_viper: "Гадюка" #NT!
+  FALLEEN_garter: "Подвязка" #NT!
+  FALLEEN_cobra: "Кобра" #NT!
+  FALLEEN_anaconda: "Анаконда" #NT!
+  FALLEEN_scylla: "Сцилла" #NT!
+  FALLEEN_mamba: "Мамба" #NT!
+  FALLEEN_taipani: "Тайпан" #NT!
+  FALLEEN_eminence: "Высокопреосвященство" #NT!
+  FALLEEN_astute: "Проницательный" #NT!
+  FALLEEN_alacrity: "Рвение" #NT!
+  FALLEEN_asp: "Аспид" #NT!
+  FALLEEN_bonarro: "Бонарро" #NT!
+  FALLEEN_zolombo: "Золомбо" #NT!
+  FALLEEN_chimbino: "Чимбино" #NT!
+  FALLEEN_negovese: "Неговезе" #NT!
+  FALLEEN_lucbrie: "Лакбри" #NT!
+  FALLEEN_pentad: "Пентад" #NT!
+  FALLEEN_viddari: "Виддари" #NT!
+  FALLEEN_vagabond: "Шатун" #NT!
+  FALLEEN_pentito: "Пентито" #NT!
+  FALLEEN_dragnheta: "Драгнхета" #NT!
+  FALLEEN_famorra: "Фаморра" #NT!
+  FALLEEN_korwickesi: "Корвикези" #NT!
+  FALLEEN_pathfinder: "Следопыт" #NT!
+  FALLEEN_handdio: "Ханддио" #NT!
+  FALLEEN_commissioner: "Комиссар" #NT!
+  FALLEEN_civilizer: "Цивилизатор" #NT!
+  FALLEEN_civilization: "Цивилизация" #NT!
+  FALLEEN_destined: "Предназначенный" #NT!
+  FALLEEN_fait_accompli: "Свершившийся факт" #NT!
+  FALLEEN_stellar_right: "Звёздное право" #NT!
+  FALLEEN_rightful_due: "Законное право" #NT!
+  FALLEEN_perfecting_spirit: "Совершенный дух" #NT!
+  FALLEEN_diamond: "Бриллиант" #NT!
+  FALLEEN_dawn_of_falleen: "Рассвет Фоллина" #NT!
+  FALLEEN_purity: "Чистота" #NT!
+  FALLEEN_brotherhood: "Братство" #NT!
+  FALLEEN_fabricator_aurek: "Фабрикатор «Аурек»" #NT!
+  FALLEEN_fabricator_besh: "Фабрикатор «Беш»" #NT!
+  FALLEEN_fabricator_cresh: "Фабрикатор «Креш»" #NT!
+  FALLEEN_fabricator_dorn: "Фабрикатор «Дорн»" #NT!
+  FALLEEN_fabricator_forn: "Фабрикатор «Форн»" #NT!
+  FALLEEN_fabricator_grek: "Фабрикатор «Грек»" #NT!
+  FALLEEN_fabricator_herf: "Фабрикатор «Грек»" #NT!
+  FALLEEN_fabricator_isk: "Фабрикатор «Иск»" #NT!
+  FALLEEN_fabricator_jenth: "Фабрикатор «Джент»" #NT!
+  FALLEEN_fabricator_krill: "Фабрикатор «Крилл»" #NT!
+  FALLEEN_fabricator_leth: "Фабрикатор «Лет»" #NT!
+  FALLEEN_fabricator_mern: "Фабрикатор «Мерн»" #NT!
+  FALLEEN_fabricator_nern: "Фабрикатор «Нерн»" #NT!
+  FALLEEN_fabricator_osk: "Фабрикатор «Оск»" #NT!
+  FALLEEN_fabricator_peth: "Фабрикатор «Пет»" #NT!
+  FALLEEN_fabricator_senth: "Фабрикатор «Сент»" #NT!
+  FALLEEN_fabricator_trill: "Фабрикатор «Трилл»" #NT!
+  FALLEEN_fabricator_usk: "Фабрикатор «Уск»" #NT!
+  FALLEEN_fabricator_vev: "Фабрикатор «Вев»" #NT!
+  FALLEEN_fabricator_wesk: "Фабрикатор «Уэск»" #NT!
+  FALLEEN_fabricator_xesh: "Фабрикатор «Зеш»" #NT!
+  FALLEEN_fabricator_yirt: "Фабрикатор «Йирт»" #NT!
+  FALLEEN_fabricator_zerek: "Фабрикатор «Зерек»" #NT!
+  FALLEEN_fabricator_cherek: "Фабрикатор «Черек»" #NT!
+  FALLEEN_fabricator_qek: "Фабрикатор «Кек»" #NT!
+  FALLEEN_fabricator_resh: "Фабрикатор «Реш»" #NT!
+  FALLEEN_fabricator_enth: "Фабрикатор «Энт»" #NT!
+  FALLEEN_fabricator_onith: "Фабрикатор «Онит»" #NT!
+  FALLEEN_fabricator_krenth: "Фабрикатор «Крент»" #NT!
+  FALLEEN_fabricator_nen: "Фабрикатор «Нен»" #NT!
+  FALLEEN_fabricator_orenth: "Фабрикатор «Орент»" #NT!
+  FALLEEN_fabricator_shen: "Фабрикатор «Шен»" #NT!
+  FALLEEN_fabricator_thesh: "Фабрикатор «Теш»" #NT!
+  FALLEEN_ground_transport: "Наземный транспорт" #NT!
+  FALLEEN_harlequin: "Арлекин" #NT!
+  FALLEEN_ill_omen: "Дурное знамение" #NT!
+  FALLEEN_vendetta: "Вендетта" #NT!
+  FALLEEN_black_eye: "Чёрный глаз" #NT!
+  FALLEEN_opprobrium: "Посрамление" #NT!
+  FALLEEN_falleen_s_fist: "Кулак Фоллина" #NT!
+  FALLEEN_punisher: "Каратель" #NT!
+  FALLEEN_citadel: "Цитадель" #NT!
+  FALLEEN_falleen_throne: "Трон Фоллина" #NT!
+  FALLEEN_bombard: "Бомбарда" #NT!
+  FALLEEN_ballista: "Баллиста" #NT!
+  FALLEEN_catapult: "Катапульта" #NT!
+  FALLEEN_harpoon: "Гарпун" #NT!
+  FALLEEN_polybolos: "Полибол" #NT!
+  FALLEEN_culverin: "Кулеврина" #NT!
+  FALLEEN_FLEET_duldor_sector_defense_fleet: "Флот обороны сектора Далдор" #NT!
+  FALLEEN_FLEET_protectors_of_falleen: "Защитники Фоллина" #NT!
+  FALLEEN_FLEET_defenders_of_the_crown: "Защитники Короны" #NT!
+  FALLEEN_FLEET_the_cabal: "Кабал" #NT!
+  FALLEEN_FLEET_SEQUENTIAL_cabal: "$ORD$ Кабал" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_planetary_guard: "$ORD$ Планетарная гвардия" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_death_squad: "$ORD$ Отряд смерти" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_indentured_rifles: "$ORD$ Наёмные стрелки" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_clone_army: "$ORD$ Армия клонов" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_hunter_killer_group: "$ORD$ Группа охотников-убийц" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_ground_defense_matrix: "$ORD$ Матрица наземной обороны" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_psi_commando: "$ORD$ Пси-коммандос" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_bio_warfare_division: "$ORD$ Дивизия ужасов биоинженерии" #NT!
+  FALLEEN_ARMY_sarc_a__gladiators_: "SARC-A 'Gladiators'" #NT!
+  FALLEEN_ARMY_sarc_b__widowmakers_: "SARC-B 'Widowmakers'" #NT!
+  FALLEEN_ARMY_sarc_c__immortals_: "SARC-C 'Immortals'" #NT!
+  FALLEEN_ARMY_sarc_d__berserkers_: "SARC-D 'Berserkers'" #NT!
+  FALLEEN_ARMY_sarc_e__assassins_: "SARC-E 'Assassins'" #NT!
+  FALLEEN_ARMY_sarc_f__reapers_: "SARC-F 'Reapers'" #NT!
+  FALLEEN_ARMY_sarc_g__nighthawks_: "SARC-G 'Nighthawks'" #NT!
+  FALLEEN_ARMY_sarc_h__desperados_: "SARC-H 'Desperados'" #NT!
+  FALLEEN_ARMY_sarc_i__grey_knights_: "SARC-I 'Grey Knights'" #NT!
+  FALLEEN_ARMY_sarc_j__roughnecks_: "SARC-J 'Roughnecks'" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_bio_engineered_squadron: "$ORD$ Биоинженерный эскадрон" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_garrison_force: "$ORD$ Гарнизонные силы" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_mechanized_garrison: "$ORD$ Механизированный гарнизон" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_primitive_army_SEQ: "Примитивная армия $C$" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_industrial_army_SEQ: "Индустриальная армия $C$" #NT!
+  FALLEEN_ARMY_SEQUENTIAL_post_atomic_army_SEQ: "Постатомная армия $C$" #NT!
+  FALLEEN_CHR_haxim: "Haxim" #NT!
+  FALLEEN_CHR_xomit: "Xomit" #NT!
+  FALLEEN_CHR_kel: "Kel" #NT!
+  FALLEEN_CHR_zenex: "Zenex" #NT!
+  FALLEEN_CHR_thann: "Thann" #NT!
+  FALLEEN_CHR_abraxis: "Abraxis" #NT!
+  FALLEEN_CHR_livintius: "Livintius" #NT!
+  FALLEEN_CHR_xerda: "Xerda" #NT!
+  FALLEEN_CHR_carth: "Carth" #NT!
+  FALLEEN_CHR_kir: "Kir" #NT!
+  FALLEEN_CHR_mebba: "Mebba" #NT!
+  FALLEEN_CHR_dagos: "Dagos" #NT!
+  FALLEEN_CHR_xad: "Xad" #NT!
+  FALLEEN_CHR_xist: "Xist" #NT!
+  FALLEEN_CHR_forren: "Forren" #NT!
+  FALLEEN_CHR_kavarros: "Kavarros" #NT!
+  FALLEEN_CHR_jeho: "Jeho" #NT!
+  FALLEEN_CHR_lee: "Lee" #NT!
+  FALLEEN_CHR_varko: "Varko" #NT!
+  FALLEEN_CHR_milo: "Milo" #NT!
+  FALLEEN_CHR_aeron: "Aeron" #NT!
+  FALLEEN_CHR_byrec: "Byrec" #NT!
+  FALLEEN_CHR_strata: "Strata" #NT!
+  FALLEEN_CHR_kanzin: "Kanzin" #NT!
+  FALLEEN_CHR_zeak: "Zeak" #NT!
+  FALLEEN_CHR_niuk: "Niuk" #NT!
+  FALLEEN_CHR_savren: "Savren" #NT!
+  FALLEEN_CHR_xavran: "Xavran" #NT!
+  FALLEEN_CHR_valek: "Valek" #NT!
+  FALLEEN_CHR_aran: "Aran" #NT!
+  FALLEEN_CHR_valis: "Valis" #NT!
+  FALLEEN_CHR_zeven: "Zeven" #NT!
+  FALLEEN_CHR_yakown: "Yakown" #NT!
+  FALLEEN_CHR_sibar: "Sibar" #NT!
+  FALLEEN_CHR_sairix: "Sairix" #NT!
+  FALLEEN_CHR_klai: "Klai" #NT!
+  FALLEEN_CHR_vuras: "Vuras" #NT!
+  FALLEEN_CHR_imay: "Imay" #NT!
+  FALLEEN_CHR_traest: "Traest" #NT!
+  FALLEEN_CHR_sarkli: "Sarkli" #NT!
+  FALLEEN_CHR_riyan: "Riyan" #NT!
+  FALLEEN_CHR_kavren: "Kavren" #NT!
+  FALLEEN_CHR_sarek: "Sarek" #NT!
+  FALLEEN_CHR_xato: "Xato" #NT!
+  FALLEEN_CHR_silus: "Silus" #NT!
+  FALLEEN_CHR_kej: "Kej" #NT!
+  FALLEEN_CHR_vago: "Vago" #NT!
+  FALLEEN_CHR_kallyx: "Kallyx" #NT!
+  FALLEEN_CHR_annor: "Annor" #NT!
+  FALLEEN_CHR_ulas: "Ulas" #NT!
+  FALLEEN_CHR_sakal: "Sakal" #NT!
+  FALLEEN_CHR_tal: "Tal" #NT!
+  FALLEEN_CHR_korax: "Korax" #NT!
+  FALLEEN_CHR_torin: "Torin" #NT!
+  FALLEEN_CHR_karn: "Karn" #NT!
+  FALLEEN_CHR_davith: "Davith" #NT!
+  FALLEEN_CHR_jorgen: "Jorgen" #NT!
+  FALLEEN_CHR_bertos: "Bertos" #NT!
+  FALLEEN_CHR_corrus: "Corrus" #NT!
+  FALLEEN_CHR_malius: "Malius" #NT!
+  FALLEEN_CHR_kale: "Kale" #NT!
+  FALLEEN_CHR_xandros: "Xandros" #NT!
+  FALLEEN_CHR_kalen: "Kalen" #NT!
+  FALLEEN_CHR_zekk: "Zekk" #NT!
+  FALLEEN_CHR_trezza: "Trezza" #NT!
+  FALLEEN_CHR_valhoun: "Valhoun" #NT!
+  FALLEEN_CHR_gentti: "Gentti" #NT!
+  FALLEEN_CHR_xu_sien: "Xu-Sien" #NT!
+  FALLEEN_CHR_vaux: "Vaux" #NT!
+  FALLEEN_CHR_verxes: "Verxes" #NT!
+  FALLEEN_CHR_sidias: "Sidias" #NT!
+  FALLEEN_CHR_haken: "Haken" #NT!
+  FALLEEN_CHR_zyn: "Zyn" #NT!
+  FALLEEN_CHR_vidown: "Vidown" #NT!
+  FALLEEN_CHR_vares: "Vares" #NT!
+  FALLEEN_CHR_xithan: "Xithan" #NT!
+  FALLEEN_CHR_cul_utaan: "Cul-utaan" #NT!
+  FALLEEN_CHR_varys: "Varys" #NT!
+  FALLEEN_CHR_xim: "Xim" #NT!
+  FALLEEN_CHR_vossi: "Vossi" #NT!
+  FALLEEN_CHR_abric: "Abric" #NT!
+  FALLEEN_CHR_darg: "Darg" #NT!
+  FALLEEN_CHR_gaman: "Gaman" #NT!
+  FALLEEN_CHR_vaxherub: "VaxHerub" #NT!
+  FALLEEN_CHR_marius: "Marius" #NT!
+  FALLEEN_CHR_zherron: "Zherron" #NT!
+  FALLEEN_CHR_zetha: "Zetha" #NT!
+  FALLEEN_CHR_xan: "Xan" #NT!
+  FALLEEN_CHR_ver: "Ver" #NT!
+  FALLEEN_CHR_cric: "Cric" #NT!
+  FALLEEN_CHR_foxdi: "Foxdi" #NT!
+  FALLEEN_CHR_xandral: "Xandral" #NT!
+  FALLEEN_CHR_xander: "Xander" #NT!
+  FALLEEN_CHR_baz: "Baz" #NT!
+  FALLEEN_CHR_zuud: "Zuud" #NT!
+  FALLEEN_CHR_erek: "Erek" #NT!
+  FALLEEN_CHR_zon: "Zon" #NT!
+  FALLEEN_CHR_karrst: "Karrst" #NT!
+  FALLEEN_CHR_varl: "Varl" #NT!
+  FALLEEN_CHR_vanukar: "Vanukar" #NT!
+  FALLEEN_CHR_talan: "Talan" #NT!
+  FALLEEN_CHR_varell: "Varell" #NT!
+  FALLEEN_CHR_kannon: "Kannon" #NT!
+  FALLEEN_CHR_kaden: "Kaden" #NT!
+  FALLEEN_CHR_sarev: "Sarev" #NT!
+  FALLEEN_CHR_xargon: "Xargon" #NT!
+  FALLEEN_CHR_zeto: "Zeto" #NT!
+  FALLEEN_CHR_zhios: "Zhios" #NT!
+  FALLEEN_CHR_xarga: "Xarga" #NT!
+  FALLEEN_CHR_flash: "Flash" #NT!
+  FALLEEN_CHR_waseem: "Waseem" #NT!
+  FALLEEN_CHR_bendak: "Bendak" #NT!
+  FALLEEN_CHR_kaz: "Kaz" #NT!
+  FALLEEN_CHR_vrath: "Vrath" #NT!
+  FALLEEN_CHR_zellos: "Zellos" #NT!
+  FALLEEN_CHR_xalven: "Xalven" #NT!
+  FALLEEN_CHR_vincenzo: "Vincenzo" #NT!
+  FALLEEN_CHR_zhou: "Zhou" #NT!
+  FALLEEN_CHR_rebar: "Rebar" #NT!
+  FALLEEN_CHR_vander: "Vander" #NT!
+  FALLEEN_CHR_aramil: "Aramil" #NT!
+  FALLEEN_CHR_vandro: "Vandro" #NT!
+  FALLEEN_CHR_caalin: "Caalin" #NT!
+  FALLEEN_CHR_vanth: "Vanth" #NT!
+  FALLEEN_CHR_vikar: "Vikar" #NT!
+  FALLEEN_CHR_zan: "Zan" #NT!
+  FALLEEN_CHR_zentilo: "Zentilo" #NT!
+  FALLEEN_CHR_vasp: "Vasp" #NT!
+  FALLEEN_CHR_predor: "Predor" #NT!
+  FALLEEN_CHR_tarlson: "Tarlson" #NT!
+  FALLEEN_CHR_boaz: "Boaz" #NT!
+  FALLEEN_CHR_zem: "Zem" #NT!
+  FALLEEN_CHR_zander: "Zander" #NT!
+  FALLEEN_CHR_raltharan: "Raltharan" #NT!
+  FALLEEN_CHR_zerrid: "Zerrid" #NT!
+  FALLEEN_CHR_zharen: "Zharen" #NT!
+  FALLEEN_CHR_sogan: "Sogan" #NT!
+  FALLEEN_CHR_varek: "Varek" #NT!
+  FALLEEN_CHR_svante: "Svante" #NT!
+  FALLEEN_CHR_tesvalo: "Tesvalo" #NT!
+  FALLEEN_CHR_xar_me: "Xar'me" #NT!
+  FALLEEN_CHR_dekar: "Dekar" #NT!
+  FALLEEN_CHR_varazen: "Varazen" #NT!
+  FALLEEN_CHR_varak: "Varak" #NT!
+  FALLEEN_CHR_zadran: "Zadran" #NT!
+  FALLEEN_CHR_kaddreth: "Kaddreth" #NT!
+  FALLEEN_CHR_zyix: "Zyix" #NT!
+  FALLEEN_CHR_savan: "Savan" #NT!
+  FALLEEN_CHR_obs: "Obs" #NT!
+  FALLEEN_CHR_sizhran: "Sizhran" #NT!
+  FALLEEN_CHR_kamlin: "Kamlin" #NT!
+  FALLEEN_CHR_mylla: "Mylla" #NT!
+  FALLEEN_CHR_seena: "Seena" #NT!
+  FALLEEN_CHR_areta: "Areta" #NT!
+  FALLEEN_CHR_natua: "Natua" #NT!
+  FALLEEN_CHR_xora: "Xora" #NT!
+  FALLEEN_CHR_nile: "Nile" #NT!
+  FALLEEN_CHR_kiyfi: "Kiyfi" #NT!
+  FALLEEN_CHR_kasmyn: "Kasmyn" #NT!
+  FALLEEN_CHR_satra: "Satra" #NT!
+  FALLEEN_CHR_shehish: "Shehish" #NT!
+  FALLEEN_CHR_sarna: "Sarna" #NT!
+  FALLEEN_CHR_krava: "Krava" #NT!
+  FALLEEN_CHR_mavari: "Mavari" #NT!
+  FALLEEN_CHR_xishel: "Xishel" #NT!
+  FALLEEN_CHR_aqua: "Aqua" #NT!
+  FALLEEN_CHR_maryna: "Maryna" #NT!
+  FALLEEN_CHR_essaj: "Essaj" #NT!
+  FALLEEN_CHR_varda: "Varda" #NT!
+  FALLEEN_CHR_teeana: "Teeana" #NT!
+  FALLEEN_CHR_raena: "Raena" #NT!
+  FALLEEN_CHR_xula: "Xula" #NT!
+  FALLEEN_CHR_vifi: "Vifi" #NT!
+  FALLEEN_CHR_vania: "Vania" #NT!
+  FALLEEN_CHR_jeanida: "Jeanida" #NT!
+  FALLEEN_CHR_aerena: "Aerena" #NT!
+  FALLEEN_CHR_nataya: "Nataya" #NT!
+  FALLEEN_CHR_vernida: "Vernida" #NT!
+  FALLEEN_CHR_kavala: "Kavala" #NT!
+  FALLEEN_CHR_karella: "Karella" #NT!
+  FALLEEN_CHR_sirra: "Sirra" #NT!
+  FALLEEN_CHR_variise: "Variise" #NT!
+  FALLEEN_CHR_varla: "Varla" #NT!
+  FALLEEN_CHR_xuss: "Xuss" #NT!
+  FALLEEN_CHR_riema: "Riema" #NT!
+  FALLEEN_CHR_erri: "Erri" #NT!
+  FALLEEN_CHR_shanna: "Shanna" #NT!
+  FALLEEN_CHR_lyra: "Lyra" #NT!
+  FALLEEN_CHR_valera: "Valera" #NT!
+  FALLEEN_CHR_zenoc: "Zenoc" #NT!
+  FALLEEN_CHR_zera: "Zera" #NT!
+  FALLEEN_CHR_viqi: "Viqi" #NT!
+  FALLEEN_CHR_hadriel: "Hadriel" #NT!
+  FALLEEN_CHR_vixtra: "Vixtra" #NT!
+  FALLEEN_CHR_selena: "Selena" #NT!
+  FALLEEN_CHR_zana: "Zana" #NT!
+  FALLEEN_CHR_tuija: "Tuija" #NT!
+  FALLEEN_CHR_railin: "Railin" #NT!
+  FALLEEN_CHR_sassi: "Sassi" #NT!
+  FALLEEN_CHR_shyon: "Shyon" #NT!
+  FALLEEN_CHR_zelen: "Zelen" #NT!
+  FALLEEN_CHR_rylla: "Rylla" #NT!
+  FALLEEN_CHR_kavara: "Kavara" #NT!
+  FALLEEN_CHR_vau: "Vau" #NT!
+  FALLEEN_CHR_zema: "Zema" #NT!
+  FALLEEN_CHR_xanta: "Xanta" #NT!
+  FALLEEN_CHR_kazala: "Kazala" #NT!
+  FALLEEN_CHR_aama: "Aama" #NT!
+  FALLEEN_CHR_shorya: "Shorya" #NT!
+  FALLEEN_CHR_melfina: "Melfina" #NT!
+  FALLEEN_CHR_davessi: "Davessi" #NT!
+  FALLEEN_CHR_larana: "Larana" #NT!
+  FALLEEN_CHR_xaverri: "Xaverri" #NT!
+  FALLEEN_CHR_nola: "Nola" #NT!
+  FALLEEN_CHR_xanda: "Xanda" #NT!
+  FALLEEN_CHR_jauhzmynn: "Jauhzmynn" #NT!
+  FALLEEN_CHR_zyna: "Zyna" #NT!
+  FALLEEN_CHR_xevrina: "Xevrina" #NT!
+  FALLEEN_CHR_yana: "Yana" #NT!
+  FALLEEN_CHR_zoras: "Zoras" #NT!
+  FALLEEN_CHR_ree: "Ree" #NT!
+  FALLEEN_CHR_grace: "Grace" #NT!
+  FALLEEN_CHR_tantema: "Tantema" #NT!
+  FALLEEN_CHR_van: "Van" #NT!
+  FALLEEN_CHR_una: "Una" #NT!
+  FALLEEN_CHR_dalharil: "Dalharil" #NT!
+  FALLEEN_CHR_xerna: "Xerna" #NT!
+  FALLEEN_CHR_sovi: "Sovi" #NT!
+  FALLEEN_CHR_sartya: "Sartya" #NT!
+  FALLEEN_CHR_vucora: "Vucora" #NT!
+  FALLEEN_CHR_xasha: "Xasha" #NT!
+  FALLEEN_CHR_joi: "Joi" #NT!
+  FALLEEN_CHR_stryka: "Stryka" #NT!
+  FALLEEN_CHR_shandra: "Shandra" #NT!
+  FALLEEN_CHR_zilpha: "Zilpha" #NT!
+  FALLEEN_CHR_veraslayn: "Veraslayn" #NT!
+  FALLEEN_CHR_karin: "Karin" #NT!
+  FALLEEN_CHR_siala: "Siala" #NT!
+  FALLEEN_CHR_reki: "Reki" #NT!
+  FALLEEN_CHR_maydla: "Maydla" #NT!
+  FALLEEN_CHR_kiandra: "Kiandra" #NT!
+  FALLEEN_CHR_xilaren: "Xilaren" #NT!
+  FALLEEN_CHR_zulara: "Zulara" #NT!
+  FALLEEN_CHR_viehenda: "Viehenda" #NT!
+  FALLEEN_CHR_karissa: "Karissa" #NT!
+  FALLEEN_CHR_zilar: "Zilar" #NT!
+  FALLEEN_CHR_haruko: "Haruko" #NT!
+  FALLEEN_CHR_kana: "Kana" #NT!
+  FALLEEN_CHR_liana: "Liana" #NT!
+  FALLEEN_CHR_rale: "Rale" #NT!
+  FALLEEN_CHR_megara: "Megara" #NT!
+  FALLEEN_CHR_aria: "Aria" #NT!
+  FALLEEN_CHR_akiva: "Akiva" #NT!
+  FALLEEN_CHR_nalah: "Nalah" #NT!
+  FALLEEN_CHR_erlem: "Erlem" #NT!
+  FALLEEN_CHR_nali: "Nali" #NT!
+  FALLEEN_CHR_fallah: "Fallah" #NT!
+  FALLEEN_CHR_kotrana: "Kotrana" #NT!
+  FALLEEN_CHR_aayla: "Aayla" #NT!
+  FALLEEN_CHR_kalira: "Kalira" #NT!
+  FALLEEN_CHR_arani: "Arani" #NT!
+  FALLEEN_CHR_zota: "Zota" #NT!
+  FALLEEN_CHR_lyyr: "Lyyr" #NT!
+  FALLEEN_CHR_arcas: "Arcas" #NT!
+  FALLEEN_CHR_rane: "Rane" #NT!
+  FALLEEN_CHR_nayru: "Nayru" #NT!
+  FALLEEN_CHR_zylas: "Zylas" #NT!
+  FALLEEN_CHR_vexa: "Vexa" #NT!
+  FALLEEN_CHR_xea: "Xea" #NT!
+  FALLEEN_CHR_grunseit: "Grunseit" #NT!
+  FALLEEN_CHR_kaj: "Kaj" #NT!
+  FALLEEN_CHR_wahia: "Wahia" #NT!
+  FALLEEN_CHR_mithric: "Mithric" #NT!
+  FALLEEN_CHR_unic: "Unic" #NT!
+  FALLEEN_CHR_xiss: "Xiss" #NT!
+  FALLEEN_CHR_nakcohh: "Nakcohh" #NT!
+  FALLEEN_CHR_vitaan: "Vitaan" #NT!
+  FALLEEN_CHR_varo: "Varo" #NT!
+  FALLEEN_CHR_daklan: "Daklan" #NT!
+  FALLEEN_CHR_kenzee: "Kenzee" #NT!
+  FALLEEN_CHR_kamiroz: "Kamiroz" #NT!
+  FALLEEN_CHR_thegas: "Thegas" #NT!
+  FALLEEN_CHR_moryne: "Moryne" #NT!
+  FALLEEN_CHR_valda: "Valda" #NT!
+  FALLEEN_CHR_sato: "Sato" #NT!
+  FALLEEN_CHR_vekozev: "Vekozev" #NT!
+  FALLEEN_CHR_zykken: "Zykken" #NT!
+  FALLEEN_CHR_sassich: "Sassich" #NT!
+  FALLEEN_CHR_zo: "Zo" #NT!
+  FALLEEN_CHR_lasek: "Lasek" #NT!
+  FALLEEN_CHR_valladian: "Valladian" #NT!
+  FALLEEN_CHR_zuma: "Zuma" #NT!
+  FALLEEN_CHR_vane: "Vane" #NT!
+  FALLEEN_CHR_wan: "Wan" #NT!
+  FALLEEN_CHR_vanten: "Vanten" #NT!
+  FALLEEN_CHR_valkaz: "Valkaz" #NT!
+  FALLEEN_CHR_zirkonn: "Zirkonn" #NT!
+  FALLEEN_CHR_rar: "Rar" #NT!
+  FALLEEN_CHR_sartoris: "Sartoris" #NT!
+  FALLEEN_CHR_kessler: "Kessler" #NT!
+  FALLEEN_CHR_shaia: "Shaia" #NT!
+  FALLEEN_CHR_zo_tannath: "Zo'Tannath" #NT!
+  FALLEEN_CHR_zar: "Zar" #NT!
+  FALLEEN_CHR_vrieska: "Vrieska" #NT!
+  FALLEEN_CHR_zackin: "Zackin" #NT!
+  FALLEEN_CHR_sazek: "Sazek" #NT!
+  FALLEEN_CHR_zian: "Zian" #NT!
+  FALLEEN_CHR_zett: "Zett" #NT!
+  FALLEEN_CHR_kang: "Kang" #NT!
+  FALLEEN_CHR_nalto: "Nalto" #NT!
+  FALLEEN_CHR_zural: "Zural" #NT!
+  FALLEEN_CHR_dubreas: "Dubreas" #NT!
+  FALLEEN_CHR_colsan: "Colsan" #NT!
+  FALLEEN_CHR_zhanks: "Zhanks" #NT!
+  FALLEEN_CHR_solon: "Solon" #NT!
+  FALLEEN_CHR_merquise: "Merquise" #NT!
+  FALLEEN_CHR_varn: "Varn" #NT!
+  FALLEEN_CHR_basai: "Basai" #NT!
+  FALLEEN_CHR_vallan: "Vallan" #NT!
+  FALLEEN_CHR_xanosro: "Xanosro" #NT!
+  FALLEEN_CHR_elyxsar: "Elyxsar" #NT!
+  FALLEEN_CHR_zindalai: "Zindalai" #NT!
+  FALLEEN_CHR_slahlvo: "Slahlvo" #NT!
+  FALLEEN_CHR_remex: "Remex" #NT!
+  FALLEEN_CHR_sarreti: "Sarreti" #NT!
+  FALLEEN_CHR_xandret: "Xandret" #NT!
+  FALLEEN_CHR_dago: "Dago" #NT!
+  FALLEEN_CHR_moj: "Moj" #NT!
+  FALLEEN_CHR_stithta: "Stithta" #NT!
+  FALLEEN_CHR_ker: "Ker" #NT!
+  FALLEEN_CHR_zenfrei: "Zenfrei" #NT!
+  FALLEEN_CHR_klakk: "Klakk" #NT!
+  FALLEEN_CHR_zhorrid: "Zhorrid" #NT!
+  FALLEEN_CHR_lefex: "Lefex" #NT!
+  FALLEEN_CHR_minn: "Minn" #NT!
+  FALLEEN_CHR_irokini: "Irokini" #NT!
+  FALLEEN_CHR_zin_zula: "zin'Zula" #NT!
+  FALLEEN_CHR_danakar: "Danakar" #NT!
+  FALLEEN_CHR_zenlav: "Zenlav" #NT!
+  FALLEEN_CHR_xrexus: "Xrexus" #NT!
+  FALLEEN_CHR_shenuri: "Shenuri" #NT!
+  FALLEEN_CHR_corcer: "Corcer" #NT!
+  FALLEEN_CHR_zin: "Zin" #NT!
+  FALLEEN_CHR_tagratt: "Tagratt" #NT!
+  FALLEEN_CHR_golladio: "Golladio" #NT!
+  FALLEEN_CHR_xarran: "Xarran" #NT!
+  FALLEEN_CHR_xodell: "Xodell" #NT!
+  FALLEEN_CHR_zentis: "Zentis" #NT!
+  FALLEEN_CHR_valn: "Valn" #NT!
+  FALLEEN_CHR_ziering: "Ziering" #NT!
+  FALLEEN_CHR_valan: "Valan" #NT!
+  FALLEEN_CHR_angavel: "Angavel" #NT!
+  FALLEEN_CHR_tyrnith: "Tyrnith" #NT!
+  FALLEEN_CHR_zothip: "Zothip" #NT!
+  FALLEEN_CHR_kelbier: "Kelbier" #NT!
+  FALLEEN_CHR_valoruk: "Valoruk" #NT!
+  FALLEEN_CHR_zsing: "Zsing" #NT!
+  FALLEEN_CHR_tisa: "Tisa" #NT!
+  FALLEEN_CHR_xionsoylon: "XionSoylon" #NT!
+  FALLEEN_CHR_lerann: "Lerann" #NT!
+  FALLEEN_CHR_chro: "Chro" #NT!
+  FALLEEN_CHR_ziam: "Ziam" #NT!
+  FALLEEN_CHR_zell: "Zell" #NT!
+  FALLEEN_CHR_zenzo: "Zenzo" #NT!
+  FALLEEN_CHR_vekarr: "Vekarr" #NT!
+  FALLEEN_CHR_zokar: "Zokar" #NT!
+  FALLEEN_CHR_thiddex: "Thiddex" #NT!
+  FALLEEN_CHR_zorn: "Zorn" #NT!
+  FALLEEN_CHR_selkayim: "Selkayim" #NT!
+  FALLEEN_CHR_zibsara: "Zibsara" #NT!
+  FALLEEN_CHR_dhuramav: "Dhuramav" #NT!
+  FALLEEN_CHR_kodd: "Kodd" #NT!
+  FALLEEN_CHR_morin: "Morin" #NT!
+  FALLEEN_CHR_kobylarz: "Kobylarz" #NT!
+  FALLEEN_CHR_tade: "Tade" #NT!
+  FALLEEN_CHR_zhord: "Zhord" #NT!
+  FALLEEN_CHR_bintaghr: "Bintaghr" #NT!
+  FALLEEN_CHR_zev: "Zev" #NT!
+  FALLEEN_CHR_precore: "Precore" #NT!
+  FALLEEN_CHR_solborne: "Solborne" #NT!
+  FALLEEN_CHR_sarne: "Sarne" #NT!
+  FALLEEN_CHR_katarn: "Katarn" #NT!
+  FALLEEN_CHR_anjek: "Anjek" #NT!
+  FALLEEN_CHR_zmittri: "Zmittri" #NT!
+  FALLEEN_CHR_kast: "Kast" #NT!
+  FALLEEN_CHR_airerith: "Airerith" #NT!
+  FALLEEN_CHR_tarrid: "Tarrid" #NT!
+  FALLEEN_CHR_ziemba: "Ziemba" #NT!
+  FALLEEN_CHR_zho: "Zho" #NT!
+  FALLEEN_CHR_jalba: "Jalba" #NT!
+  FALLEEN_CHR_benn: "Benn" #NT!
+  FALLEEN_CHR_haruhana: "Haruhana" #NT!
+  FALLEEN_CHR_roice: "Roice" #NT!
+  FALLEEN_CHR_lokar: "Lokar" #NT!
+  FALLEEN_CHR_korpil: "Korpil" #NT!
+  FALLEEN_CHR_turon: "Turon" #NT!
+  FALLEEN_CHR_cavi: "Cavi" #NT!
+  FALLEEN_CHR_deece: "Deece" #NT!
+  FALLEEN_CHR_braitano: "Braitano" #NT!
+  FALLEEN_CHR_zilno: "Zilno" #NT!
+  FALLEEN_CHR_tyandas: "Tyandas" #NT!
+  FALLEEN_CHR_zepwim: "Zepwim" #NT!
+  FALLEEN_CHR_xerk: "Xerk" #NT!
+  FALLEEN_CHR_drayven: "Drayven" #NT!
+  FALLEEN_CHR_zaposug: "Zaposug" #NT!
+  FALLEEN_CHR_zend: "Zend" #NT!
+  FALLEEN_CHR_defelice: "Defelice" #NT!
+  FALLEEN_CHR_zerex: "Zerex" #NT!
+  FALLEEN_CHR_zey: "Zey" #NT!
+  FALLEEN_CHR_sarvool: "Sarvool" #NT!
+  FALLEEN_CHR_hodrren: "Hodrren" #NT!
+  FALLEEN_CHR_xergo: "Xergo" #NT!
+  FALLEEN_CHR_sarat: "Sarat" #NT!
+  FALLEEN_CHR_vercet: "Vercet" #NT!
+  FALLEEN_CHR_zerga: "Zerga" #NT!
+  FALLEEN_CHR_zudan: "Zudan" #NT!
+  FALLEEN_CHR_zuur: "Zuur" #NT!
+  FALLEEN_CHR_xzushal: "Xzushal" #NT!
+  FALLEEN_CHR_xizor: "Xizor" #NT!
+  FALLEEN_CHR_zurros: "Zurros" #NT!
+  FALLEEN_CHR_ziton: "Ziton" #NT!
+  FALLEEN_CHR_zann: "Zann" #NT!
+  FALLEEN_CHR_tanner: "Tanner" #NT!
+  FALLEEN_CHR_vi: "Vi" #NT!
+  FALLEEN_CHR_rush: "Rush" #NT!
+  FALLEEN_CHR_danry: "Danry" #NT!
+  FALLEEN_CHR_zule: "Zule" #NT!
+  FALLEEN_CHR_senna: "Senna" #NT!
+  FALLEEN_CHR_bana: "Bana" #NT!
+  FALLEEN_CHR_xanya: "Xanya" #NT!
+  FALLEEN_CHR_zexa: "Zexa" #NT!
+  FALLEEN_CHR_andrell: "Andrell" #NT!
+  FALLEEN_CHR_varrak: "Varrak" #NT!
+  FALLEEN_CHR_xiono: "Xiono" #NT!
+  FALLEEN_CHR_varga: "Varga" #NT!
+  FALLEEN_CHR_sarke: "Sarke" #NT!
